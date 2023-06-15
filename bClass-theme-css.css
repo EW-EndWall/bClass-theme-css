@@ -368,15 +368,62 @@ body:not(.xfont) {
 .h-auto {
   height: auto;
 }
-/* .h-s-25  */
+.h-5 {
+  height: 5%;
+}
+.h-10 {
+  height: 10%;
+}
+.h-15 {
+  height: 15%;
+}
+.h-20 {
+  height: 20%;
+}
 .h-25 {
   height: 25%;
+}
+.h-30 {
+  height: 30%;
+}
+.h-35 {
+  height: 35%;
+}
+.h-40 {
+  height: 40%;
+}
+.h-45 {
+  height: 45%;
 }
 .h-50 {
   height: 50%;
 }
+.h-55 {
+  height: 55%;
+}
+.h-60 {
+  height: 60%;
+}
+.h-65 {
+  height: 65%;
+}
+.h-70 {
+  height: 70%;
+}
 .h-75 {
   height: 75%;
+}
+.h-80 {
+  height: 80%;
+}
+.h-85 {
+  height: 85%;
+}
+.h-90 {
+  height: 90%;
+}
+.h-95 {
+  height: 95%;
 }
 .h-100 {
   height: 100%;
@@ -1470,14 +1517,62 @@ body:not(.xfont) {
 .w-auto {
   width: auto;
 }
+.w-5 {
+  width: 5%;
+}
+.w-10 {
+  width: 10%;
+}
+.w-15 {
+  width: 15%;
+}
+.w-20 {
+  width: 20%;
+}
 .w-25 {
   width: 25%;
+}
+.w-30 {
+  width: 30%;
+}
+.w-35 {
+  width: 35%;
+}
+.w-40 {
+  width: 40%;
+}
+.w-45 {
+  width: 45%;
 }
 .w-50 {
   width: 50%;
 }
+.w-55 {
+  width: 55%;
+}
+.w-60 {
+  width: 60%;
+}
+.w-65 {
+  width: 65%;
+}
+.w-70 {
+  width: 70%;
+}
 .w-75 {
   width: 75%;
+}
+.w-80 {
+  width: 80%;
+}
+.w-85 {
+  width: 85%;
+}
+.w-90 {
+  width: 90%;
+}
+.w-95 {
+  width: 95%;
 }
 .w-100 {
   width: 100%;
@@ -10533,6 +10628,9 @@ ul.ul-li-y-scroll {
   padding: 0;
   margin: 0;
 }
+ul.ul-li-y-scroll::-webkit-scrollbar {
+  width: 0.4rem;
+}
 ul.ul-li-y-scroll > li {
   padding: 0.5rem 1rem;
 }
@@ -10547,6 +10645,9 @@ ul.ul-li-x-scroll {
   overflow-y: hidden;
   padding: 0;
   margin: 0;
+}
+ul.ul-li-x-scroll::-webkit-scrollbar {
+  height: 0.4rem;
 }
 ul.ul-li-x-scroll li {
   padding: 1rem 0.5rem;
@@ -10619,29 +10720,37 @@ ul.ul-li-y-scroll-hidden::-webkit-scrollbar {
 /* ! ---------------------------------------------------------------------------------  */
 /* Scroll çubuğu için genel stillendirme */
 ::-webkit-scrollbar {
-  width: 0.3rem; /* Scrollbar genişliği */
+  width: 0.5rem;
 }
 
 /* Scroll çubuğu kaydırma kolu (thumb) */
 ::-webkit-scrollbar-thumb {
-  background-color: #888; /* Kaydırma kolunun arka plan rengi */
-  border-radius: 0.3rem; /* Kaydırma kolunun kenar yarıçapı */
+  background-color: #888;
+  border-radius: 0.3rem;
+  -webkit-border-radius: 0.3rem;
+  -moz-border-radius: 0.3rem;
+  -ms-border-radius: 0.3rem;
+  -o-border-radius: 0.3rem;
 }
 
 /* Scroll çubuğu kaydırma kolu üzerine gelindiğinde */
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #555; /* Kaydırma kolunun üzerine gelindiğindeki arka plan rengi */
+  background-color: #555;
 }
 
 /* Scroll çubuğu arka planı */
 ::-webkit-scrollbar-track {
-  background-color: transparent; /* Scrollbar arka plan rengi */
+  background-color: transparent;
 }
 
 /* Scroll çubuğu kaydırma kolu ile arka plan arasındaki boşluk */
 ::-webkit-scrollbar-track-piece {
-  background-color: #f1f1f1; /* Kaydırma kolu ile arka plan arasındaki boşluğun rengi */
+  background-color: #f1f1f1;
   border-radius: 0.3rem;
+  -webkit-border-radius: 0.3rem;
+  -moz-border-radius: 0.3rem;
+  -ms-border-radius: 0.3rem;
+  -o-border-radius: 0.3rem;
 }
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
