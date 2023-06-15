@@ -10619,13 +10619,13 @@ ul.ul-li-y-scroll-hidden::-webkit-scrollbar {
 /* ! ---------------------------------------------------------------------------------  */
 /* Scroll çubuğu için genel stillendirme */
 ::-webkit-scrollbar {
-  width: 8px; /* Scrollbar genişliği */
+  width: 0.3rem; /* Scrollbar genişliği */
 }
 
 /* Scroll çubuğu kaydırma kolu (thumb) */
 ::-webkit-scrollbar-thumb {
   background-color: #888; /* Kaydırma kolunun arka plan rengi */
-  border-radius: 4px; /* Kaydırma kolunun kenar yarıçapı */
+  border-radius: 0.3rem; /* Kaydırma kolunun kenar yarıçapı */
 }
 
 /* Scroll çubuğu kaydırma kolu üzerine gelindiğinde */
@@ -10635,12 +10635,13 @@ ul.ul-li-y-scroll-hidden::-webkit-scrollbar {
 
 /* Scroll çubuğu arka planı */
 ::-webkit-scrollbar-track {
-  background-color: #f1f1f1; /* Scrollbar arka plan rengi */
+  background-color: transparent; /* Scrollbar arka plan rengi */
 }
 
 /* Scroll çubuğu kaydırma kolu ile arka plan arasındaki boşluk */
 ::-webkit-scrollbar-track-piece {
   background-color: #f1f1f1; /* Kaydırma kolu ile arka plan arasındaki boşluğun rengi */
+  border-radius: 0.3rem;
 }
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
