@@ -13,7 +13,10 @@ body.xfont {
 body:not(.xfont) {
   font-family: Arial, sans-serif;
 }
-
+/*  */
+:disabled {
+  background: #dddddd;
+}
 /*  */
 .object-fit-contain {
   object-fit: contain;
@@ -43,7 +46,7 @@ body:not(.xfont) {
 .rotate-l-4 {
   animation: rotate-left 4s linear infinite;
 }
-.rotate-r-5 {
+.rotate-l-5 {
   animation: rotate-left 5s linear infinite;
 }
 @keyframes rotate-left {
@@ -76,6 +79,86 @@ body:not(.xfont) {
   }
   100% {
     transform: rotate(360deg);
+  }
+}
+/*  */
+.translate-x-1 {
+  animation: translate-x 1s linear infinite;
+}
+.translate-x-2 {
+  animation: translate-x 2s linear infinite;
+}
+.translate-x-3 {
+  animation: translate-x 3s linear infinite;
+}
+.translate-x-4 {
+  animation: translate-x 4s linear infinite;
+}
+.translate-x-5 {
+  animation: translate-x 5s linear infinite;
+}
+.translate-x-6 {
+  animation: translate-x 6s linear infinite;
+}
+.translate-x-7 {
+  animation: translate-x 7s linear infinite;
+}
+.translate-x-8 {
+  animation: translate-x 8s linear infinite;
+}
+.translate-x-9 {
+  animation: translate-x 9s linear infinite;
+}
+.translate-x-10 {
+  animation: translate-x 10s linear infinite;
+}
+
+@keyframes translate-x {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+/* -------- */
+.translate-y-1 {
+  animation: translate-y 1s linear infinite;
+}
+.translate-y-2 {
+  animation: translate-y 2s linear infinite;
+}
+.translate-y-3 {
+  animation: translate-y 3s linear infinite;
+}
+.translate-y-4 {
+  animation: translate-y 4s linear infinite;
+}
+.translate-y-5 {
+  animation: translate-y 5s linear infinite;
+}
+.translate-y-6 {
+  animation: translate-y 6s linear infinite;
+}
+.translate-y-7 {
+  animation: translate-y 7s linear infinite;
+}
+.translate-y-8 {
+  animation: translate-y 8s linear infinite;
+}
+.translate-y-9 {
+  animation: translate-y 9s linear infinite;
+}
+.translate-y-10 {
+  animation: translate-y 10s linear infinite;
+}
+
+@keyframes translate-y {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(-100%);
   }
 }
 /*  */
@@ -10409,6 +10492,126 @@ body:not(.xfont) {
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
 /*  */
+ul.ul-li-x {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 1rem;
+}
+ul.ul-li-x li::before {
+  content: "—";
+  margin-right: 1rem;
+}
+ul.ul-li-x li {
+  padding: 0 0.5rem;
+}
+/* --- */
+ul.ul-li-y {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 1rem;
+}
+ul.ul-li-y li::before {
+  content: "—";
+  margin-right: 1rem;
+}
+ul.ul-li-y li {
+  padding: 0.5rem 0;
+}
+/* --- */
+ul.ul-li-y-scroll {
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 0;
+  margin: 0;
+}
+ul.ul-li-y-scroll > li {
+  padding: 0.5rem 1rem;
+}
+/* --- */
+ul.ul-li-x-scroll {
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: 0;
+  margin: 0;
+}
+ul.ul-li-x-scroll li {
+  padding: 1rem 0.5rem;
+}
+/* --- */
+ul.ul-li-y-none {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 1rem;
+}
+ul.ul-li-y-none li {
+  padding: 0.5rem 0;
+}
+/* --- */
+ul.ul-li-x-none {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 1rem;
+}
+ul.ul-li-x-none li {
+  padding: 0 0.5rem;
+}
+/* --- */
+ul.ul-li-x-scroll-hidden {
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: 0;
+  margin: 0;
+}
+ul.ul-li-x-scroll-hidden li {
+  padding: 1rem 0.5rem;
+}
+ul.ul-li-x-scroll-hidden::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+/* --- */
+ul.ul-li-y-scroll-hidden {
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 0;
+  margin: 0;
+}
+ul.ul-li-y-scroll-hidden > li {
+  padding: 0.5rem 1rem;
+}
+ul.ul-li-y-scroll-hidden::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+/* --- */
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
@@ -10439,6 +10642,338 @@ body:not(.xfont) {
 ::-webkit-scrollbar-track-piece {
   background-color: #f1f1f1; /* Kaydırma kolu ile arka plan arasındaki boşluğun rengi */
 }
+/* ! ---------------------------------------------------------------------------------  */
+/* ! ---------------------------------------------------------------------------------  */
+/* ! ---------------------------------------------------------------------------------  */
+/* ! ---------------------------------------------------------------------------------  */
+/* ! ---------------------------------------------------------------------------------  */
+/* ----------------------- */
+body.solid .model-line {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: green;
+  position: relative;
+}
+
+body.solid .model-line > .model-outline {
+  background-color: yellow;
+  padding: 1rem;
+}
+body.solid .model-line > .model-outline > .model-inline {
+  background-color: green;
+  padding: 1rem;
+}
+
+/* ----------------------- */
+
+body.edge .model-line {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: green;
+  position: relative;
+  border-radius: 1rem;
+}
+
+body.edge .model-line > .model-outline {
+  background-color: yellow;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+body.edge .model-line > .model-outline > .model-inline {
+  background-color: green;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+/* ----------------------- */
+
+body.edged .model-line {
+  margin: 2rem 1rem;
+  padding: 0 1rem;
+  background-color: green;
+  position: relative;
+}
+
+body.edged .model-line > .model-outline::before,
+body.edged .model-line > .model-outline::after {
+  content: "";
+  position: absolute;
+  width: 50%;
+  height: 1rem;
+  background-color: green;
+  z-index: -1;
+}
+
+body.edged .model-line > .model-outline::before {
+  margin: 0;
+  left: 0;
+  top: -1rem;
+  transform-origin: bottom left;
+  transform: skewX(-50deg);
+}
+
+body.edged .model-line > .model-outline::after {
+  margin: 0;
+  right: 0;
+  top: -1rem;
+  transform-origin: bottom right;
+  transform: skewX(50deg);
+}
+body.edged .model-line > .model-outline > .model-inline::before,
+body.edged .model-line > .model-outline > .model-inline::after {
+  content: "";
+  position: absolute;
+  width: 50%;
+  height: 1rem;
+  background-color: green;
+  z-index: -1;
+}
+
+body.edged .model-line > .model-outline > .model-inline::before {
+  margin: 0;
+  right: 0rem;
+  bottom: -1rem;
+  transform-origin: top left;
+  transform: skewX(-50deg);
+}
+
+body.edged .model-line > .model-outline > .model-inline::after {
+  margin: 0;
+  left: 0;
+  bottom: -1rem;
+  transform-origin: top right;
+  transform: skewX(50deg);
+}
+
+/* ----------------------- */
+
+body.triangle-experimental-model-1 .model-line {
+  margin: 2rem;
+  padding: 0 2rem;
+  background-color: green;
+  position: relative;
+}
+
+body.triangle-experimental-model-1 .model-line > .model-outline::before,
+body.triangle-experimental-model-1 .model-line > .model-outline::after {
+  content: "";
+  position: absolute;
+  width: 50%;
+  height: 1rem;
+  background-color: green;
+  z-index: -1;
+}
+
+body.triangle-experimental-model-1 .model-line > .model-outline::before {
+  margin: 0;
+  right: 0rem;
+  top: -1rem;
+  transform-origin: top left;
+  transform: skewX(-45deg);
+}
+
+body.triangle-experimental-model-1 .model-line > .model-outline::after {
+  margin: 0;
+  left: 0;
+  top: -1rem;
+  transform-origin: top right;
+  transform: skewX(45deg);
+}
+body.triangle-experimental-model-1
+  .model-line
+  > .model-outline
+  > .model-inline::before,
+body.triangle-experimental-model-1
+  .model-line
+  > .model-outline
+  > .model-inline::after {
+  content: "";
+  position: absolute;
+  width: 50%;
+  height: 1rem;
+  background-color: green;
+  z-index: -1;
+}
+
+body.triangle-experimental-model-1
+  .model-line
+  > .model-outline
+  > .model-inline::before {
+  margin: 0;
+  left: 0;
+  bottom: -1rem;
+  transform-origin: bottom left;
+  transform: skewX(-45deg);
+}
+
+body.triangle-experimental-model-1
+  .model-line
+  > .model-outline
+  > .model-inline::after {
+  margin: 0;
+  right: 0;
+  bottom: -1rem;
+  transform-origin: bottom right;
+  transform: skewX(45deg);
+}
+
+/* ----------------------- */
+
+body.triangle-experimental-model-2 .model-line {
+  margin: 2rem;
+  padding: 0 2rem;
+  background-color: green;
+  position: relative;
+  border-radius: 1rem;
+}
+
+body.triangle-experimental-model-2 .model-line > .model-outline::before,
+body.triangle-experimental-model-2 .model-line > .model-outline::after {
+  content: "";
+  position: absolute;
+  width: 50%;
+  height: 1rem;
+  background-color: green;
+  z-index: -1;
+}
+
+body.triangle-experimental-model-2 .model-line > .model-outline::before {
+  margin: 0;
+  right: 0rem;
+  top: -1rem;
+  transform-origin: top left;
+  transform: skewX(-45deg);
+}
+
+body.triangle-experimental-model-2 .model-line > .model-outline::after {
+  margin: 0;
+  left: 0;
+  top: -1rem;
+  transform-origin: top right;
+  transform: skewX(45deg);
+}
+body.triangle-experimental-model-2
+  .model-line
+  > .model-outline
+  > .model-inline::before,
+body.triangle-experimental-model-2
+  .model-line
+  > .model-outline
+  > .model-inline::after {
+  content: "";
+  position: absolute;
+  width: 50%;
+  height: 1rem;
+  background-color: green;
+  z-index: -1;
+}
+
+body.triangle-experimental-model-2
+  .model-line
+  > .model-outline
+  > .model-inline::before {
+  margin: 0;
+  left: 0;
+  bottom: -1rem;
+  transform-origin: bottom left;
+  transform: skewX(-45deg);
+}
+
+body.triangle-experimental-model-2
+  .model-line
+  > .model-outline
+  > .model-inline::after {
+  margin: 0;
+  right: 0;
+  bottom: -1rem;
+  transform-origin: bottom right;
+  transform: skewX(45deg);
+}
+
+/* ----------------------- */
+
+body.triangle-experimental-model-3 .model-line {
+  margin: 2rem;
+  padding: 0 1rem;
+  background-color: green;
+  position: relative;
+}
+
+body.triangle-experimental-model-3 .model-line > .model-outline::before,
+body.triangle-experimental-model-3 .model-line > .model-outline::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1rem;
+  background-color: green;
+  z-index: -1;
+}
+
+body.triangle-experimental-model-3 .model-line > .model-outline::before {
+  margin: 0;
+  right: 0rem;
+  top: -1rem;
+  transform-origin: top left;
+  transform: skewX(-45deg);
+}
+
+body.triangle-experimental-model-3 .model-line > .model-outline::after {
+  margin: 0;
+  left: 0;
+  top: -1rem;
+  transform-origin: top right;
+  transform: skewX(45deg);
+}
+body.triangle-experimental-model-3
+  .model-line
+  > .model-outline
+  > .model-inline::before,
+body.triangle-experimental-model-3
+  .model-line
+  > .model-outline
+  > .model-inline::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1rem;
+  background-color: green;
+  z-index: -1;
+}
+
+body.triangle-experimental-model-3
+  .model-line
+  > .model-outline
+  > .model-inline::before {
+  margin: 0;
+  left: 0;
+  bottom: -1rem;
+  transform-origin: bottom left;
+  transform: skewX(-45deg);
+}
+
+body.triangle-experimental-model-3
+  .model-line
+  > .model-outline
+  > .model-inline::after {
+  margin: 0;
+  right: 0;
+  bottom: -1rem;
+  transform-origin: bottom right;
+  transform: skewX(45deg);
+}
+/* ----------------------- */
+body.solid .bclass,
+body.triangle-experimental-model-1 .bclass,
+body.triangle-experimental-model-3 .bclass {
+  border-radius: 0;
+}
+/*  */
+body.edge .bclass,
+body.edged .bclass,
+body.triangle-experimental-model-2 .bclass {
+  border-radius: 0.5em;
+}
+/* ----------------------- */
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
