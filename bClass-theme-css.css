@@ -22,6 +22,10 @@ body:not(.xfont) {
   font-family: Arial, sans-serif;
 }
 /*  */
+.shadow-none {
+  box-shadow: none !important;
+}
+/*  */
 :disabled {
   background: #dddddd;
 }
@@ -6589,7 +6593,6 @@ body:not(.xfont) {
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
 .content {
-  background-color: green;
   padding: 0.5rem;
   margin: auto;
 }
@@ -6599,7 +6602,6 @@ body:not(.xfont) {
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
 .container {
-  background-color: green;
   padding: 1rem;
   margin: 0 2rem;
 }
