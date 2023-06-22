@@ -8,6 +8,7 @@ body {
   padding: 0;
 }
 
+/*
 @font-face {
   font-family: "MyFont";
   src: url("myfont.woff2") format("woff2");
@@ -16,7 +17,7 @@ body {
 
 body.xfont {
   font-family: "MyFont", Arial, sans-serif;
-}
+}*/
 
 body:not(.xfont) {
   font-family: Arial, sans-serif;
@@ -12528,6 +12529,9 @@ body.triangle-experimental-model-2 .bclass {
 /* ! ---------------------------------------------------------------------------------  */
 /* mobil < 480px */
 @media screen and (max-width: 480px) {
+  body {
+    font-size: 0.8rem;
+  }
   .d-mobil-none {
     display: none;
   }
@@ -12660,7 +12664,10 @@ body.triangle-experimental-model-2 .bclass {
   /* ------------- */
 }
 /* tablet < 768px */
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  body {
+    font-size: 0.7rem;
+  }
   .d-tablet-none {
     display: none;
   }
@@ -12793,7 +12800,10 @@ body.triangle-experimental-model-2 .bclass {
   /* ------------- */
 }
 /* tablet-pc < 992 */
-@media screen and (max-width: 992px) {
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  body {
+    font-size: 0.8rem;
+  }
   .d-tablet-pc-none {
     display: none;
   }
@@ -12926,7 +12936,10 @@ body.triangle-experimental-model-2 .bclass {
   /* ------------- */
 }
 /* pc < 1200 */
-@media screen and (max-width: 1200px) {
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  body {
+    font-size: 0.9rem;
+  }
   .d-pc-none {
     display: none;
   }
@@ -13060,6 +13073,9 @@ body.triangle-experimental-model-2 .bclass {
 }
 /* tv > 1200 */
 @media screen and (min-width: 1200px) {
+  body {
+    font-size: 1rem;
+  }
   .d-tv-none {
     display: none;
   }
