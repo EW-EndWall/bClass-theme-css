@@ -3,12 +3,11 @@
   outline: 0;
 }
 :root {
-  font-size: 16px;
+  font-size: 0.9rem;
 }
 body {
   margin: 0;
   padding: 0;
-  font-size: 0.9rem;
 }
 
 /*
@@ -12558,31 +12557,31 @@ body.triangle-experimental-model-2 .bclass {
 /* ! ---------------------------------------------------------------------------------  */
 /* mobil < 480px */
 @media screen and (max-width: 480px) {
-  body {
+  :root {
     font-size: 0.8rem;
   }
 }
 /* tablet < 768px */
 @media screen and (min-width: 480px) and (max-width: 768px) {
-  body {
+  :root {
     font-size: 0.7rem;
   }
 }
 /* tablet-pc < 992 */
 @media screen and (min-width: 768px) and (max-width: 992px) {
-  body {
+  :root {
     font-size: 0.8rem;
   }
 }
 /* pc < 1200 */
 @media screen and (min-width: 992px) and (max-width: 1200px) {
-  body {
+  :root {
     font-size: 0.9rem;
   }
 }
 /* tv > 1200 */
 @media screen and (min-width: 1200px) {
-  body {
+  :root {
     font-size: 1rem;
   }
 }
