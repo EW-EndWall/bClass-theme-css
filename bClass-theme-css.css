@@ -11964,138 +11964,6 @@ a,
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
-/*  */
-ul.ul-li-x {
-  list-style-type: none;
-  display: flex;
-  flex-direction: row;
-  padding: 0;
-  margin: 1rem;
-}
-ul.ul-li-x li::before {
-  content: "—";
-  margin-right: 1rem;
-}
-ul.ul-li-x li {
-  padding: 0 0.5rem;
-}
-/* --- */
-ul.ul-li-y {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  padding: 0;
-  margin: 1rem;
-}
-ul.ul-li-y li::before {
-  content: "—";
-  margin-right: 1rem;
-}
-ul.ul-li-y li {
-  padding: 0.5rem 0;
-}
-/* --- */
-ul.ul-li-y-scroll {
-  width: 100%;
-  height: 100%;
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  padding: 0;
-  margin: 0;
-}
-ul.ul-li-y-scroll::-webkit-scrollbar {
-  width: 0.4rem;
-}
-ul.ul-li-y-scroll > li {
-  padding: 0.5rem 1rem;
-}
-/* --- */
-ul.ul-li-x-scroll {
-  width: 100%;
-  height: 100%;
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  overflow-x: scroll;
-  overflow-y: hidden;
-  padding: 0;
-  margin: 0;
-}
-ul.ul-li-x-scroll::-webkit-scrollbar {
-  height: 0.4rem;
-}
-ul.ul-li-x-scroll li {
-  padding: 1rem 0.5rem;
-}
-/* --- */
-ul.ul-li-y-none {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  padding: 0;
-  margin: 1rem;
-}
-ul.ul-li-y-none li {
-  padding: 0.5rem 0;
-}
-/* --- */
-ul.ul-li-x-none {
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  padding: 0;
-  margin: 1rem;
-}
-ul.ul-li-x-none li {
-  padding: 0 0.5rem;
-}
-/* --- */
-ul.ul-li-x-scroll-hidden {
-  width: 100%;
-  height: 100%;
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  overflow-x: scroll;
-  overflow-y: hidden;
-  padding: 0;
-  margin: 0;
-}
-ul.ul-li-x-scroll-hidden li {
-  padding: 1rem 0.5rem;
-}
-ul.ul-li-x-scroll-hidden::-webkit-scrollbar {
-  width: 0;
-  height: 0;
-}
-/* --- */
-ul.ul-li-y-scroll-hidden {
-  width: 100%;
-  height: 100%;
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  padding: 0;
-  margin: 0;
-}
-ul.ul-li-y-scroll-hidden > li {
-  padding: 0.5rem 1rem;
-}
-ul.ul-li-y-scroll-hidden::-webkit-scrollbar {
-  width: 0;
-  height: 0;
-}
-/* --- */
-/* ! ---------------------------------------------------------------------------------  */
-/* ! ---------------------------------------------------------------------------------  */
-/* ! ---------------------------------------------------------------------------------  */
-/* ! ---------------------------------------------------------------------------------  */
-/* ! ---------------------------------------------------------------------------------  */
 /* Scroll çubuğu için genel stillendirme */
 ::-webkit-scrollbar {
   width: 0.5rem;
@@ -13269,7 +13137,7 @@ body.triangle-experimental-model-2 .bclass {
     -moz-transform: translateY(1rem);
     -ms-transform: translateY(1rem);
     -o-transform: translateY(1rem);
-}
+  }
   to {
     opacity: 1;
     transform: translateY(0);
@@ -13277,7 +13145,7 @@ body.triangle-experimental-model-2 .bclass {
     -moz-transform: translateY(0);
     -ms-transform: translateY(0);
     -o-transform: translateY(0);
-}
+  }
 }
 @keyframes leftAnimation {
   from {
@@ -13287,7 +13155,7 @@ body.triangle-experimental-model-2 .bclass {
     -moz-transform: translateX(-1rem);
     -ms-transform: translateX(-1rem);
     -o-transform: translateX(-1rem);
-}
+  }
   to {
     opacity: 1;
     transform: translateX(0);
@@ -13295,7 +13163,7 @@ body.triangle-experimental-model-2 .bclass {
     -moz-transform: translateX(0);
     -ms-transform: translateX(0);
     -o-transform: translateX(0);
-}
+  }
 }
 @keyframes downAnimation {
   from {
@@ -13305,7 +13173,7 @@ body.triangle-experimental-model-2 .bclass {
     -moz-transform: translateY(-1rem);
     -ms-transform: translateY(-1rem);
     -o-transform: translateY(-1rem);
-}
+  }
   to {
     opacity: 1;
     transform: translateY(0);
@@ -13313,7 +13181,7 @@ body.triangle-experimental-model-2 .bclass {
     -moz-transform: translateY(0);
     -ms-transform: translateY(0);
     -o-transform: translateY(0);
-}
+  }
 }
 @keyframes rightAnimation {
   from {
@@ -13323,7 +13191,7 @@ body.triangle-experimental-model-2 .bclass {
     -moz-transform: translateX(1rem);
     -ms-transform: translateX(1rem);
     -o-transform: translateX(1rem);
-}
+  }
   to {
     opacity: 1;
     transform: translateX(0);
@@ -13331,7 +13199,7 @@ body.triangle-experimental-model-2 .bclass {
     -moz-transform: translateX(0);
     -ms-transform: translateX(0);
     -o-transform: translateX(0);
-}
+  }
 }
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
