@@ -1,36 +1,36 @@
-## Width
+## Height
 
-acıklama
+The h-{variable} height property sets the height of an element.
 
 ## percentage
 
 ```sh 
-.w-auto
-.w-5
-.w-10
+.h-auto
+.h-5
+.h-10
 ...
-.w-100
+.h-100
 ```
 
 ```sh 
-.w-vw-25
-.w-vw-50
-.w-vw-75
-.w-vw-100
+.h-vh-25
+.h-vh-50
+.h-vh-75
+.h-vh-100
 ```
 
 ```sh 
-.w-vh-25
-.w-vh-50
-.w-vh-75
-.w-vh-100
+.h-vh-25
+.h-vh-50
+.h-vh-75
+.h-vh-100
 ```
 
 ```sh 
-.w-0
-.w-rem-0-1
-.w-rem-0.2
+.h-0
+.h-rem-0-1
+.h-rem-0.2
 ...
-.w-rem-34-9
-.w-rem-35
+.h-rem-34-9
+.h-rem-35
 ```
