@@ -1,6 +1,4 @@
-## Container
-
-# class .container
+# Container
 
 ```css
 .container {
