@@ -1,3 +1,3 @@
 # shadow
 
-.shadow-none
+- .shadow-none

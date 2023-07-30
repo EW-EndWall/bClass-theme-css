@@ -1,4 +1,4 @@
 # Text Overflow
 
-.white-space-nowrap
-.white-space-pre
+- .white-space-nowrap
+- .white-space-pre

@@ -1,5 +1,5 @@
 # float
 
-.float-left
-.float-right
-.float-none
+- .float-left
+- .float-right
+- .float-none

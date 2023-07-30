@@ -1,3 +1,3 @@
 # Font style
 
-.font-italic
+- .font-italic

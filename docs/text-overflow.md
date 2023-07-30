@@ -1,4 +1,4 @@
 # Text Overflow
 
-.text-overflow-ellipsis
-.text-overflow-clip
+- .text-overflow-ellipsis
+- .text-overflow-clip

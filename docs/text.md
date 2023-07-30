@@ -1,5 +1,5 @@
 # text align
 
-.text-r
-.text-l
-.text-c
+- .text-r
+- .text-l
+- .text-c
