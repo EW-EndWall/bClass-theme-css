@@ -35,6 +35,7 @@
 - [justify-content](./justify-content.md)
 - [left](./left.md)
 - [object-fit](./object-fit.md)
+- [opacity](./opacity.md)
 - [order](./order.md)
 - [overflow](./overflow.md)
 - [padding](./padding.md)
