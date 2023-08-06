@@ -17,9 +17,8 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-0
 - .m-0-1
 - .m-0-2
-
-...
-
+  ...
+- .m-5-8
 - .m-5-9
 
 ### Margin left rem
@@ -27,9 +26,8 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-l-0
 - .m-l-0-1
 - .m-l-0-2
-
-...
-
+  ...
+- .m-l-5-8
 - .m-l-5-9
 
 ### Margin right rem
@@ -37,9 +35,8 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-r-0
 - .m-r-0-1
 - .m-r-0-2
-
-...
-
+  ...
+- .m-r-5-8
 - .m-r-5-9
 
 ### Margin top rem
@@ -47,9 +44,8 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-t-0
 - .m-t-0-1
 - .m-t-0-2
-
-...
-
+  ...
+- .m-t-5-8
 - .m-t-5-9
 
 ### Margin bottom rem
@@ -57,9 +53,8 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-b-0
 - .m-b-0-1
 - .m-b-0-2
-
-...
-
+  ...
+- .m-b-5-8
 - .m-b-5-9
 
 ### Margin Y rem
@@ -67,9 +62,8 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-y-0
 - .m-y-0-1
 - .m-y-0-2
-
-...
-
+  ...
+- .m-y-5-8
 - .m-y-5-9
 
 ### Margin X rem
@@ -77,9 +71,8 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-x-0
 - .m-x-0-1
 - .m-x-0-2
-
-...
-
+  ...
+- .m-x-5-8
 - .m-x-5-9
 
 ### Margin left percent
@@ -87,9 +80,7 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-l-percent-5
 - .m-l-percent-10
 - .m-l-percent-15
-
-...
-
+  ...
 - .m-l-percent-95
 - .m-l-percent-100
 
@@ -98,9 +89,7 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-r-percent-5
 - .m-r-percent-10
 - .m-r-percent-15
-
-...
-
+  ...
 - .m-r-percent-95
 - .m-r-percent-100
 
@@ -109,9 +98,7 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-t-percent-5
 - .m-t-percent-10
 - .m-t-percent-15
-
-...
-
+  ...
 - .m-t-percent-95
 - .m-t-percent-100
 
@@ -120,8 +107,6 @@ The CSS margin properties are used to create space around elements, outside of a
 - .m-b-percent-5
 - .m-b-percent-10
 - .m-b-percent-15
-
-...
-
+  ...
 - .m-b-percent-95
 - .m-b-percent-100

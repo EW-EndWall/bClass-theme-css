@@ -27,6 +27,7 @@
 - [display](./display.md)
 - [flex](./flex.md)
 - [float](./float.md)
+- [font-size](./font-size.md)
 - [font-style](./font-style.md)
 - [font-weight](./font-weight.md)
 - [fonts](./fonts.md)

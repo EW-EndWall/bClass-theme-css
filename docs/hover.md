@@ -1,9 +1,13 @@
 # Hover
 
 - .hover-color:hover
-- .hover-color:hover > i {
+
+```css
+.hover-color:hover,
+.hover-color:hover > i {
   color: var(--contentTextSecondary);
-  }
+}
+```
 
 - .hover-background
 - .hover-zoom

@@ -9,9 +9,7 @@ Relative to the parent element
 - .w-auto
 - .w-5
 - .w-10
-
-...
-
+  ...
 - .w-95
 - .w-100
 
@@ -38,8 +36,6 @@ Relative to font-size of the root element
 - .w-0
 - .w-rem-0-1
 - .w-rem-0.2
-
-...
-
+  ...
 - .w-rem-34-9
 - .w-rem-35

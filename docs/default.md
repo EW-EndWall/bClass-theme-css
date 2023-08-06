@@ -10,6 +10,29 @@
 body {
   margin: 0;
   padding: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--contentTextPrimary);
+}
+p {
+  color: var(--contentTextSecondary);
+}
+a {
+  color: var(--contentTextPrimary);
+  transition: all 0.5s ease;
+}
+a:hover {
+  transform: scale(1.2);
+  opacity: 0.7;
 }
 @font-face {
   font-family: "itimregular";
