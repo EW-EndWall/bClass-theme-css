@@ -7,25 +7,25 @@
 
 ### Mobile
 
-- .v-mobile-show
-- .v-mobile-hidden
+- .v-show-mobile
+- .v-hidden-mobile
 
 ### Tablet
 
-- .v-tablet-show
-- .v-tablet-hidden
+- .v-show-tablet
+- .v-hidden-tablet
 
 ### Tablet pc
 
-- .v-tablet-pc-show
-- .v-tablet-pc-hidden
+- .v-show-tablet-pc
+- .v-hidden-tablet-pc
 
 ### Pc
 
-- .v-pc-show
-- .v-pc-hidden
+- .v-show-pc
+- .v-hidden-pc
 
 ### Tv
 
-- .v-tv-show
-- .v-tv-hidden
+- .v-show-tv
+- .v-hidden-tv

@@ -10,40 +10,40 @@
 
 ### Mobile
 
-- .justify-content-mobile-start
-- .justify-content-mobile-end
-- .justify-content-mobile-center
-- .justify-content-mobile-between
-- .justify-content-mobile-around
+- .justify-content-start-mobile
+- .justify-content-end-mobile
+- .justify-content-center-mobile
+- .justify-content-between-mobile
+- .justify-content-around-mobile
 
 ### Tablet
 
-- .justify-content-tablet-start
-- .justify-content-tablet-end
-- .justify-content-tablet-center
-- .justify-content-tablet-between
-- .justify-content-tablet-around
+- .justify-content-start-tablet
+- .justify-content-end-tablet
+- .justify-content-center-tablet
+- .justify-content-between-tablet
+- .justify-content-around-tablet
 
 ### Tablet pc
 
-- .justify-content-tablet-pc-start
-- .justify-content-tablet-pc-end
-- .justify-content-tablet-pc-center
-- .justify-content-tablet-pc-between
-- .justify-content-tablet-pc-around
+- .justify-content-start-tablet-pc
+- .justify-content-end-tablet-pc
+- .justify-content-center-tablet-pc
+- .justify-content-between-tablet-pc
+- .justify-content-around-tablet-pc
 
 ### Pc
 
-- .justify-content-pc-start
-- .justify-content-pc-end
-- .justify-content-pc-center
-- .justify-content-pc-between
-- .justify-content-pc-around
+- .justify-content-start-pc
+- .justify-content-end-pc
+- .justify-content-center-pc
+- .justify-content-between-pc
+- .justify-content-around-pc
 
 ### Tv
 
-- .justify-content-tv-start
-- .justify-content-tv-end
-- .justify-content-tv-center
-- .justify-content-tv-between
-- .justify-content-tv-around
+- .justify-content-start-tv
+- .justify-content-end-tv
+- .justify-content-center-tv
+- .justify-content-between-tv
+- .justify-content-around-tv

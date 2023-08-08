@@ -10,20 +10,20 @@
 
 ### Mobile
 
-- .object-fit-mobile-contain
+- .object-fit-contain-mobile
 
 ### Tablet
 
-- .object-fit-tablet-contain
+- .object-fit-contain-tablet
 
 ### Tablet pc
 
-- .object-fit-tablet-pc-contain
+- .object-fit-contain-tablet-pc
 
 ### Pc
 
-- .object-fit-pc-contain
+- .object-fit-contain-pc
 
 ### Tv
 
-- .object-fit-tv-contain
+- .object-fit-contain-tv

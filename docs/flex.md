@@ -19,55 +19,55 @@
 
 ### Mobile
 
-- .flex-mobile-row
-- .flex-mobile-row-reverse
-- .flex-mobile-column
-- .flex-mobile-column-reverse
+- .flex-row-mobile
+- .flex-row-reverse-mobile
+- .flex-column-mobile
+- .flex-column-reverse-mobile
 
-- .flex-mobile-nowrap
-- .flex-mobile-wrap
-- .flex-mobile-wrap-reverse
+- .flex-nowrap-mobile
+- .flex-wrap-mobile
+- .flex-wrap-reverse-mobile
 
 ### Tablet
 
-- .flex-tablet-row
-- .flex-tablet-row-reverse
-- .flex-tablet-column
-- .flex-tablet-column-reverse
+- .flex-row-tablet
+- .flex-row-reverse-tablet
+- .flex-column-tablet
+- .flex-column-reverse-tablet
 
-- .flex-tablet-nowrap
-- .flex-tablet-wrap
-- .flex-tablet-wrap-reverse
+- .flex-nowrap-tablet
+- .flex-wrap-tablet
+- .flex-wrap-reverse-tablet
 
 ### Tablet pc
 
-- .flex-tablet-pc-row
-- .flex-tablet-pc-row-reverse
-- .flex-tablet-pc-column
-- .flex-tablet-pc-column-reverse
+- .flex-row-tablet-pc
+- .flex-row-reverse-tablet-pc
+- .flex-column-tablet-pc
+- .flex-column-reverse-tablet-pc
 
-- .flex-tablet-pc-nowrap
-- .flex-tablet-pc-wrap
-- .flex-tablet-pc-wrap-reverse
+- .flex-nowrap-tablet-pc
+- .flex-wrap-tablet-pc
+- .flex-wrap-reverse-tablet-pc
 
 ### Pc
 
-- .flex-pc-row
-- .flex-pc-row-reverse
-- .flex-pc-column
-- .flex-pc-column-reverse
+- .flex-row-pc
+- .flex-row-reverse-pc
+- .flex-column-pc
+- .flex-column-reverse-pc
 
-- .flex-pc-nowrap
-- .flex-pc-wrap
-- .flex-pc-wrap-reverse
+- .flex-nowrap-pc
+- .flex-wrap-pc
+- .flex-wrap-reverse-pc
 
 ### Tv
 
-- .flex-tv-row
-- .flex-tv-row-reverse
-- .flex-tv-column
-- .flex-tv-column-reverse
+- .flex-row-tv
+- .flex-row-reverse-tv
+- .flex-column-tv
+- .flex-column-reverse-tv
 
-- .flex-tv-nowrap
-- .flex-tv-wrap
-- .flex-tv-wrap-reverse
+- .flex-nowrap-tv
+- .flex-wrap-tv
+- .flex-wrap-reverse-tv

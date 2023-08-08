@@ -17,70 +17,70 @@
 
 ### Mobile
 
-- .d-mobile-none
-- .d-mobile-inline
-- .d-mobile-block
-- .d-mobile-inline-block
-- .d-mobile-flex
-- .d-mobile-inline-flex
-- .d-mobile-contents
-- .d-mobile-grid
-- .d-mobile-inline-grid
-- .d-mobile-table
-- .d-mobile-inline-table
+- .d-none-mobile
+- .d-inline-mobile
+- .d-block-mobile
+- .d-inline-block-mobile
+- .d-flex-mobile
+- .d-inline-flex-mobile
+- .d-contents-mobile
+- .d-grid-mobile
+- .d-inline-grid-mobile
+- .d-table-mobile
+- .d-inline-table-mobile
 
 ### Tablet
 
-- .d-tablet-none
-- .d-tablet-inline
-- .d-tablet-block
-- .d-tablet-inline-block
-- .d-tablet-flex
-- .d-tablet-inline-flex
-- .d-tablet-contents
-- .d-tablet-grid
-- .d-tablet-inline-grid
-- .d-tablet-table
-- .d-tablet-inline-table
+- .d-none-tablet
+- .d-inline-tablet
+- .d-block-tablet
+- .d-inline-block-tablet
+- .d-flex-tablet
+- .d-inline-flex-tablet
+- .d-contents-tablet
+- .d-grid-tablet
+- .d-inline-grid-tablet
+- .d-table-tablet
+- .d-inline-table-tablet
 
 ### Tablet pc
 
-- .d-tablet-pc-none
-- .d-tablet-pc-inline
-- .d-tablet-pc-block
-- .d-tablet-pc-inline-block
-- .d-tablet-pc-flex
-- .d-tablet-pc-inline-flex
-- .d-tablet-pc-contents
-- .d-tablet-pc-grid
-- .d-tablet-pc-inline-grid
-- .d-tablet-pc-table
-- .d-tablet-pc-inline-table
+- .d-none-tablet-pc
+- .d-inline-tablet-pc
+- .d-block-tablet-pc
+- .d-inline-block-tablet-pc
+- .d-flex-tablet-pc
+- .d-inline-flex-tablet-pc
+- .d-contents-tablet-pc
+- .d-grid-tablet-pc
+- .d-inline-grid-tablet-pc
+- .d-table-tablet-pc
+- .d-inline-table-tablet-pc
 
 ### Pc
 
-- .d-pc-none
-- .d-pc-inline
-- .d-pc-block
-- .d-pc-inline-block
-- .d-pc-flex
-- .d-pc-inline-flex
-- .d-pc-contents
-- .d-pc-grid
-- .d-pc-inline-grid
-- .d-pc-table
-- .d-pc-inline-table
+- .d-none-pc
+- .d-inline-pc
+- .d-block-pc
+- .d-inline-block-pc
+- .d-flex-pc
+- .d-inline-flex-pc
+- .d-contents-pc
+- .d-grid-pc
+- .d-inline-grid-pc
+- .d-table-pc
+- .d-inline-table-pc
 
 ### Tv
 
-- .d-tv-none
-- .d-tv-inline
-- .d-tv-block
-- .d-tv-inline-block
-- .d-tv-flex
-- .d-tv-inline-flex
-- .d-tv-contents
-- .d-tv-grid
-- .d-tv-inline-grid
-- .d-tv-table
-- .d-tv-inline-table
+- .d-none-tv
+- .d-inline-tv
+- .d-block-tv
+- .d-inline-block-tv
+- .d-flex-tv
+- .d-inline-flex-tv
+- .d-contents-tv
+- .d-grid-tv
+- .d-inline-grid-tv
+- .d-table-tv
+- .d-inline-table-tv

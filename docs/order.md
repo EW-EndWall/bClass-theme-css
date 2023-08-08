@@ -10,40 +10,40 @@
 
 ### Mobile
 
-- .order-mobile-1
-- .order-mobile-2
-- .order-mobile-3
-- .order-mobile-4
-- .order-mobile-5
+- .order-1-mobile
+- .order-2-mobile
+- .order-3-mobile
+- .order-4-mobile
+- .order-5-mobile
 
 ### Tablet
 
-- .order-tablet-1
-- .order-tablet-2
-- .order-tablet-3
-- .order-tablet-4
-- .order-tablet-5
+- .order-1-tablet
+- .order-2-tablet
+- .order-3-tablet
+- .order-4-tablet
+- .order-5-tablet
 
 ### Tablet pc
 
-- .order-tablet-pc-1
-- .order-tablet-pc-2
-- .order-tablet-pc-3
-- .order-tablet-pc-4
-- .order-tablet-pc-5
+- .order-1-tablet-pc
+- .order-2-tablet-pc
+- .order-3-tablet-pc
+- .order-4-tablet-pc
+- .order-5-tablet-pc
 
 ### Pc
 
-- .order-pc-1
-- .order-pc-2
-- .order-pc-3
-- .order-pc-4
-- .order-pc-5
+- .order-1-pc
+- .order-2-pc
+- .order-3-pc
+- .order-4-pc
+- .order-5-pc
 
 ### Tv
 
-- .order-tv-1
-- .order-tv-2
-- .order-tv-3
-- .order-tv-4
-- .order-tv-5
+- .order-1-tv
+- .order-2-tv
+- .order-3-tv
+- .order-4-tv
+- .order-5-tv

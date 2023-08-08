@@ -11,40 +11,40 @@
 
 ### Mobile
 
-- .align-content-mobile-start
-- .align-content-mobile-end
-- .align-content-mobile-center
-- .align-content-mobile-around
-- .align-content-mobile-stretch
+- .align-content-start-mobile
+- .align-content-end-mobile
+- .align-content-center-mobile
+- .align-content-around-mobile
+- .align-content-stretch-mobile
 
 ### Tablet
 
-- .align-content-tablet-start
-- .align-content-tablet-end
-- .align-content-tablet-center
-- .align-content-tablet-around
-- .align-content-tablet-stretch
+- .align-content-start-tablet
+- .align-content-end-tablet
+- .align-content-center-tablet
+- .align-content-around-tablet
+- .align-content-stretch-tablet
 
 ### Tablet pc
 
-- .align-content-tablet-pc-start
-- .align-content-tablet-pc-end
-- .align-content-tablet-pc-center
-- .align-content-tablet-pc-around
-- .align-content-tablet-pc-stretch
+- .align-content-start-tablet-pc
+- .align-content-end-tablet-pc
+- .align-content-center-tablet-pc
+- .align-content-around-tablet-pc
+- .align-content-stretch-tablet-pc
 
 ### Pc
 
-- .align-content-pc-start
-- .align-content-pc-end
-- .align-content-pc-center
-- .align-content-pc-around
-- .align-content-pc-stretch
+- .align-content-start-pc
+- .align-content-end-pc
+- .align-content-center-pc
+- .align-content-around-pc
+- .align-content-stretch-pc
 
 ### Tv
 
-- .align-content-tv-start
-- .align-content-tv-end
-- .align-content-tv-center
-- .align-content-tv-around
-- .align-content-tv-stretch
+- .align-content-start-tv
+- .align-content-end-tv
+- .align-content-center-tv
+- .align-content-around-tv
+- .align-content-stretch-tv

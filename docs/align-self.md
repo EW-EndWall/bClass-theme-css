@@ -9,35 +9,35 @@
 
 ### Mobile
 
-- .align-self-mobile-start
-- .align-self-mobile-end
-- .align-self-mobile-center
-- .align-self-mobile-stretch
+- .align-self-start-mobile
+- .align-self-end-mobile
+- .align-self-center-mobile
+- .align-self-stretch-mobile
 
 ### Tablet
 
-- .align-self-tablet-start
-- .align-self-tablet-end
-- .align-self-tablet-center
-- .align-self-tablet-stretch
+- .align-self-start-tablet
+- .align-self-end-tablet
+- .align-self-center-tablet
+- .align-self-stretch-tablet
 
 ### Tablet pc
 
-- .align-self-tablet-pc-start
-- .align-self-tablet-pc-end
-- .align-self-tablet-pc-center
-- .align-self-tablet-pc-stretch
+- .align-self-start-tablet-pc
+- .align-self-end-tablet-pc
+- .align-self-center-tablet-pc
+- .align-self-stretch-tablet-pc
 
 ### Pc
 
-- .align-self-pc-start
-- .align-self-pc-end
-- .align-self-pc-center
-- .align-self-pc-stretch
+- .align-self-start-pc
+- .align-self-end-pc
+- .align-self-center-pc
+- .align-self-stretch-pc
 
 ### Tv
 
-- .align-self-tv-start
-- .align-self-tv-end
-- .align-self-tv-center
-- .align-self-tv-stretch
+- .align-self-start-tv
+- .align-self-end-tv
+- .align-self-center-tv
+- .align-self-stretch-tv
