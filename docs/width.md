@@ -39,3 +39,57 @@ Relative to font-size of the root element
   ...
 - .w-rem-34-9
 - .w-rem-35
+
+## Screen size
+
+Relative to the parent element
+
+### Mobile
+
+- .w-auto-mobile
+- .w-5-mobile
+- .w-10-mobile
+- .w-15-mobile
+  ...
+- .w-95-mobile
+- .w-100-mobile
+
+### Tablet
+
+- .w-auto-tablet
+- .w-5-tablet
+- .w-10-tablet
+- .w-15-tablet
+  ...
+- .w-95-tablet
+- .w-100-tablet
+
+### Tablet pc
+
+- .w-auto-tablet-pc
+- .w-5-tablet-pc
+- .w-10-tablet-pc
+- .w-15-tablet-pc
+  ...
+- .w-95-tablet-pc
+- .w-100-tablet-pc
+
+### Pc
+
+- .w-auto-pc
+- .w-5-pc
+- .w-10-pc
+- .w-15-pc
+  ...
+- .w-95-pc
+- .w-100-pc
+
+### Tv
+
+- .w-auto-tv
+- .w-5-tv
+- .w-10-tv
+- .w-15-tv
+  ...
+- .w-95-tv
+- .w-100-tv
