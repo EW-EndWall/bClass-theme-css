@@ -3,6 +3,8 @@
 ```css
 * {
   outline: 0;
+  padding: 0;
+  margin: 0;
 }
 :root {
   font-size: 0.9rem;
