@@ -33,8 +33,7 @@ a {
   transition: all 0.5s ease;
 }
 a:hover {
-  transform: scale(1.2);
-  opacity: 0.7;
+  color: var(--contentTextSecondary);
 }
 @font-face {
   font-family: "itimregular";
