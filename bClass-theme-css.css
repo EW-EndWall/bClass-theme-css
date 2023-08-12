@@ -64,6 +64,7 @@ p {
 }
 /* * link and hover */
 a {
+  cursor: pointer;
   color: var(--contentTextPrimary);
   transition: all 0.5s ease;
 }
