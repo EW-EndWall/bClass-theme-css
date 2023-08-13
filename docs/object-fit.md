@@ -10,19 +10,25 @@
 
 ### Mobile
 
-- .object-fit-contain-mobile
+- .object-fit-contain-mobile-max
 
 ### Tablet
 
 - .object-fit-contain-tablet
+<hr>
+- .object-fit-contain-tablet-max
 
 ### Tablet pc
 
 - .object-fit-contain-tablet-pc
+<hr>
+- .object-fit-contain-tablet-pc-max
 
 ### Pc
 
 - .object-fit-contain-pc
+<hr>
+- .object-fit-contain-pc-max
 
 ### Tv
 

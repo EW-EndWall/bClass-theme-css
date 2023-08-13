@@ -53,35 +53,22 @@ body:not(.xfont) {
 
 ### screen size
 
-```css
-/* mobile < 480px */
-@media screen and (max-width: 480px) {
-  :root {
-    font-size: 0.8rem;
-  }
-}
-/* tablet < 768px */
-@media screen and (min-width: 480px) and (max-width: 768px) {
-  :root {
-    font-size: 0.7rem;
-  }
-}
-/* tablet-pc < 992 */
-@media screen and (min-width: 768px) and (max-width: 992px) {
-  :root {
-    font-size: 0.8rem;
-  }
-}
-/* pc < 1200 */
-@media screen and (min-width: 992px) and (max-width: 1200px) {
-  :root {
-    font-size: 0.9rem;
-  }
-}
-/* tv > 1200 */
-@media screen and (min-width: 1200px) {
-  :root {
-    font-size: 1rem;
-  }
-}
-```
+mobile < 480px
+<br>
+font-size: 0.8rem;
+<br>
+tablet < 768px
+<br>
+font-size: 0.7rem;
+<br>
+tablet-pc < 992
+<br>
+font-size: 0.8rem;
+<br>
+pc < 1200
+<br>
+font-size: 0.9rem;
+<br>
+tv > 1200
+<br>
+font-size: 1rem;

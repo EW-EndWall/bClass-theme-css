@@ -9,10 +9,10 @@
 
 ### Mobile
 
-- .align-self-start-mobile
-- .align-self-end-mobile
-- .align-self-center-mobile
-- .align-self-stretch-mobile
+- .align-self-start-mobile-max
+- .align-self-end-mobile-max
+- .align-self-center-mobile-max
+- .align-self-stretch-mobile-max
 
 ### Tablet
 
@@ -20,6 +20,11 @@
 - .align-self-end-tablet
 - .align-self-center-tablet
 - .align-self-stretch-tablet
+<hr>
+- .align-self-start-tablet-max
+- .align-self-end-tablet-max
+- .align-self-center-tablet-max
+- .align-self-stretch-tablet-max
 
 ### Tablet pc
 
@@ -27,6 +32,11 @@
 - .align-self-end-tablet-pc
 - .align-self-center-tablet-pc
 - .align-self-stretch-tablet-pc
+<hr>
+- .align-self-start-tablet-pc-max
+- .align-self-end-tablet-pc-max
+- .align-self-center-tablet-pc-max
+- .align-self-stretch-tablet-pc-max
 
 ### Pc
 
@@ -34,6 +44,11 @@
 - .align-self-end-pc
 - .align-self-center-pc
 - .align-self-stretch-pc
+<hr>
+- .align-self-start-pc-max
+- .align-self-end-pc-max
+- .align-self-center-pc-max
+- .align-self-stretch-pc-max
 
 ### Tv
 

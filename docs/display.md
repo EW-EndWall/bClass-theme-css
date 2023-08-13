@@ -17,17 +17,17 @@
 
 ### Mobile
 
-- .d-none-mobile
-- .d-inline-mobile
-- .d-block-mobile
-- .d-inline-block-mobile
-- .d-flex-mobile
-- .d-inline-flex-mobile
-- .d-contents-mobile
-- .d-grid-mobile
-- .d-inline-grid-mobile
-- .d-table-mobile
-- .d-inline-table-mobile
+- .d-none-mobile-max
+- .d-inline-mobile-max
+- .d-block-mobile-max
+- .d-inline-block-mobile-max
+- .d-flex-mobile-max
+- .d-inline-flex-mobile-max
+- .d-contents-mobile-max
+- .d-grid-mobile-max
+- .d-inline-grid-mobile-max
+- .d-table-mobile-max
+- .d-inline-table-mobile-max
 
 ### Tablet
 
@@ -42,6 +42,18 @@
 - .d-inline-grid-tablet
 - .d-table-tablet
 - .d-inline-table-tablet
+<hr>
+- .d-none-tablet-max
+- .d-inline-tablet-max
+- .d-block-tablet-max
+- .d-inline-block-tablet-max
+- .d-flex-tablet-max
+- .d-inline-flex-tablet-max
+- .d-contents-tablet-max
+- .d-grid-tablet-max
+- .d-inline-grid-tablet-max
+- .d-table-tablet-max
+- .d-inline-table-tablet-max
 
 ### Tablet pc
 
@@ -56,6 +68,18 @@
 - .d-inline-grid-tablet-pc
 - .d-table-tablet-pc
 - .d-inline-table-tablet-pc
+<hr>
+- .d-none-tablet-pc-max
+- .d-inline-tablet-pc-max
+- .d-block-tablet-pc-max
+- .d-inline-block-tablet-pc-max
+- .d-flex-tablet-pc-max
+- .d-inline-flex-tablet-pc-max
+- .d-contents-tablet-pc-max
+- .d-grid-tablet-pc-max
+- .d-inline-grid-tablet-pc-max
+- .d-table-tablet-pc-max
+- .d-inline-table-tablet-pc-max
 
 ### Pc
 
@@ -70,6 +94,18 @@
 - .d-inline-grid-pc
 - .d-table-pc
 - .d-inline-table-pc
+<hr>
+- .d-none-pc-max
+- .d-inline-pc-max
+- .d-block-pc-max
+- .d-inline-block-pc-max
+- .d-flex-pc-max
+- .d-inline-flex-pc-max
+- .d-contents-pc-max
+- .d-grid-pc-max
+- .d-inline-grid-pc-max
+- .d-table-pc-max
+- .d-inline-table-pc-max
 
 ### Tv
 

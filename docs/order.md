@@ -10,11 +10,11 @@
 
 ### Mobile
 
-- .order-1-mobile
-- .order-2-mobile
-- .order-3-mobile
-- .order-4-mobile
-- .order-5-mobile
+- .order-1-mobile-max
+- .order-2-mobile-max
+- .order-3-mobile-max
+- .order-4-mobile-max
+- .order-5-mobile-max
 
 ### Tablet
 
@@ -23,6 +23,12 @@
 - .order-3-tablet
 - .order-4-tablet
 - .order-5-tablet
+<hr>
+- .order-1-tablet-max
+- .order-2-tablet-max
+- .order-3-tablet-max
+- .order-4-tablet-max
+- .order-5-tablet-max
 
 ### Tablet pc
 
@@ -31,6 +37,12 @@
 - .order-3-tablet-pc
 - .order-4-tablet-pc
 - .order-5-tablet-pc
+<hr>
+- .order-1-tablet-pc-max
+- .order-2-tablet-pc-max
+- .order-3-tablet-pc-max
+- .order-4-tablet-pc-max
+- .order-5-tablet-pc-max
 
 ### Pc
 
@@ -39,6 +51,12 @@
 - .order-3-pc
 - .order-4-pc
 - .order-5-pc
+<hr>
+- .order-1-pc-max
+- .order-2-pc-max
+- .order-3-pc-max
+- .order-4-pc-max
+- .order-5-pc-max
 
 ### Tv
 
