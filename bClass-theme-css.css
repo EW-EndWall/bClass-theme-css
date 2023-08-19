@@ -193,6 +193,7 @@ footer {
 }
 .content {
   background-color: var(--contentBg);
+  overflow: hidden;
 }
 /*  */
 .hover:hover {
