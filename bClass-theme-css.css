@@ -182,6 +182,77 @@ footer {
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
 }
+/* * transform rotate */
+.transform-rotate-45 {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+}
+.transform-rotate-n-45 {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+}
+.transform-rotate-90 {
+  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+}
+.transform-rotate-n-90 {
+  transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+}
+.transform-rotate-135 {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+  -moz-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+}
+.transform-rotate-n-135 {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+  -moz-transform: rotate(-135deg);
+  -ms-transform: rotate(-135deg);
+  -o-transform: rotate(-135deg);
+}
+.transform-rotate-180 {
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+}
+.transform-rotate-n-180 {
+  transform: rotate(-180deg);
+  -webkit-transform: rotate(-180deg);
+  -moz-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  -o-transform: rotate(-180deg);
+}
+.transform-rotate-20-15 {
+  transform: skew(20deg, 15deg);
+  -webkit-transform: skew(20deg, 15deg);
+  -moz-transform: skew(20deg, 15deg);
+  -ms-transform: skew(20deg, 15deg);
+  -o-transform: skew(20deg, 15deg);
+}
+.transform-rotate-n-n-20-15 {
+  transform: skew(-25deg, -15deg);
+  -webkit-transform: skew(-25deg, -15deg);
+  -moz-transform: skew(-25deg, -15deg);
+  -ms-transform: skew(-25deg, -15deg);
+  -o-transform: skew(-25deg, -15deg);
+}
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
