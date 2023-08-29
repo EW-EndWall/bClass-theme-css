@@ -264,15 +264,12 @@ footer {
 }
 .content-1 {
   background-color: var(--contentBg);
-  overflow: hidden;
 }
 .content-2 {
   background-color: var(--contentBgPrimary);
-  overflow: hidden;
 }
 .content-3 {
   background-color: var(--contentBgSecondary);
-  overflow: hidden;
 }
 /*  */
 .hover:hover {
