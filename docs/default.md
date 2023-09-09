@@ -35,9 +35,6 @@ a {
 a:hover {
   color: var(--contentTextSecondary);
 }
-footer {
-  background-color: var(--footerBg);
-}
 @font-face {
   font-family: "itimregular";
   src: url("fonts/itim-regular-webfont.woff2") format("woff2"), url("fonts/itim-regular-webfont.woff")
