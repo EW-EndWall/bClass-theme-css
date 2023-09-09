@@ -4181,8 +4181,516 @@ footer {
 .border-radius-t-l-10 {
   border-top-left-radius: 10rem;
 }
-
 /* ------ */
+/*  */
+.border-radius-t-0-hover:hover,
+.border-radius-l-0-hover:hover,
+.border-radius-t-l-0-hover:hover,
+.border-radius-l-t-0-hover:hover {
+  border-top-left-radius: 0;
+}
+.border-radius-t-0-5-hover:hover
+.border-radius-l-0-5-hover:hover
+.border-radius-t-l-0-5-hover:hover,
+.border-radius-l-t-0-5-hover:hover {
+  border-top-left-radius: 0.5rem;
+}
+.border-radius-t-1-hover:hover,
+.border-radius-l-1-hover:hover,
+.border-radius-t-l-1-hover:hover,
+.border-radius-l-t-1-hover:hover {
+  border-top-left-radius: 1rem;
+}
+.border-radius-t-1-5-hover:hover,
+.border-radius-l-1-5-hover:hover,
+.border-radius-t-l-1-5-hover:hover,
+.border-radius-l-t-1-5-hover:hover {
+  border-top-left-radius: 1.5rem;
+}
+.border-radius-t-2-hover:hover,
+.border-radius-l-2-hover:hover,
+.border-radius-t-l-2-hover:hover,
+.border-radius-l-t-2-hover:hover {
+  border-top-left-radius: 2rem;
+}
+.border-radius-t-2-5-hover:hover,
+.border-radius-l-2-5-hover:hover,
+.border-radius-t-l-2-5-hover:hover,
+.border-radius-l-t-2-5-hover:hover {
+  border-top-left-radius: 2.5rem;
+}
+.border-radius-t-3-hover:hover,
+.border-radius-l-3-hover:hover,
+.border-radius-t-l-3-hover:hover,
+.border-radius-l-t-3-hover:hover {
+  border-top-left-radius: 3rem;
+}
+.border-radius-t-3-5-hover:hover,
+.border-radius-l-3-5-hover:hover,
+.border-radius-t-l-3-5-hover:hover,
+.border-radius-l-t-3-5-hover:hover {
+  border-top-left-radius: 3.5rem;
+}
+.border-radius-t-4-hover:hover,
+.border-radius-l-4-hover:hover ,
+.border-radius-t-l-4-hover:hover ,
+.border-radius-l-t-4-hover:hover  {
+  border-top-left-radius: 4rem;
+}
+.border-radius-t-4-5-hover:hover,
+.border-radius-l-4-5-hover:hover,
+.border-radius-t-l-4-5-hover:hover,
+.border-radius-l-t-4-5-hover:hover {
+  border-top-left-radius: 4.5rem;
+}
+.border-radius-t-5-hover:hover,
+.border-radius-l-5-hover:hover,
+.border-radius-t-l-5-hover:hover,
+.border-radius-l-t-5-hover:hover {
+  border-top-left-radius: 5rem;
+}
+.border-radius-t-5-5-hover:hover,
+.border-radius-l-5-5-hover:hover,
+.border-radius-t-l-5-5-hover:hover,
+.border-radius-l-t-5-5-hover:hover {
+  border-top-left-radius: 5.5rem;
+}
+.border-radius-t-6-hover:hover,
+.border-radius-l-6-hover:hover,
+.border-radius-t-l-6-hover:hover,
+.border-radius-l-t-6-hover:hover {
+  border-top-left-radius: 6rem;
+}
+.border-radius-t-6-5-hover:hover,
+.border-radius-l-6-5-hover:hover,
+.border-radius-t-l-6-5-hover:hover,
+.border-radius-l-t-6-5-hover:hover {
+  border-top-left-radius: 6.5rem;
+}
+.border-radius-t-7-hover:hover,
+.border-radius-l-7-hover:hover,
+.border-radius-t-l-7-hover:hover,
+.border-radius-l-t-7-hover:hover {
+  border-top-left-radius: 7rem;
+}
+.border-radius-t-7-5-hover:hover,
+.border-radius-l-7-5-hover:hover,
+.border-radius-t-l-7-5-hover:hover,
+.border-radius-l-t-7-5-hover:hover {
+  border-top-left-radius: 7.5rem;
+}
+.border-radius-t-8-hover:hover,
+.border-radius-l-8-hover:hover,
+.border-radius-t-l-8-hover:hover,
+.border-radius-l-t-8-hover:hover {
+  border-top-left-radius: 8rem;
+}
+.border-radius-t-8-5-hover:hover,
+.border-radius-l-8-5-hover:hover,
+.border-radius-t-l-8-5-hover:hover,
+.border-radius-l-t-8-5-hover:hover {
+  border-top-left-radius: 8.5rem;
+}
+.border-radius-t-9-hover:hover,
+.border-radius-l-9-hover:hover,
+.border-radius-t-l-9-hover:hover,
+.border-radius-l-t-9-hover:hover {
+  border-top-left-radius: 9rem;
+}
+.border-radius-t-9-5-hover:hover,
+.border-radius-l-9-5-hover:hover,
+.border-radius-t-l-9-5-hover:hover,
+.border-radius-l-t-9-5-hover:hover {
+  border-top-left-radius: 9.5rem;
+}
+.border-radius-t-10-hover:hover,
+.border-radius-l-10-hover:hover,
+.border-radius-t-l-10-hover:hover,
+.border-radius-l-t-10-hover:hover {
+  border-top-left-radius: 10rem;
+}
+/*  */
+.border-radius-t-0-hover:hover,
+.border-radius-r-0-hover:hover,
+.border-radius-t-r-0-hover:hover,
+.border-radius-r-t-0-hover:hover {
+  border-top-right-radius: 0;
+}
+.border-radius-t-0-5-hover:hover,
+.border-radius-r-0-5-hover:hover,
+.border-radius-t-r-0-5-hover:hover,
+.border-radius-r-t-0-5-hover:hover {
+  border-top-right-radius: 0.5rem;
+}
+.border-radius-t-1-hover:hover,
+.border-radius-r-1-hover:hover,
+.border-radius-t-r-1-hover:hover,
+.border-radius-r-t-1-hover:hover {
+  border-top-right-radius: 1rem;
+}
+.border-radius-t-1-5-hover:hover,
+.border-radius-r-1-5-hover:hover ,
+.border-radius-t-r-1-5-hover:hover ,
+.border-radius-r-t-1-5-hover:hover  {
+  border-top-right-radius: 1.5rem;
+}
+.border-radius-t-2-hover:hover,
+.border-radius-r-2-hover:hover,
+.border-radius-t-r-2-hover:hover,
+.border-radius-r-t-2-hover:hover {
+  border-top-right-radius: 2rem;
+}
+.border-radius-t-2-5-hover:hover,
+.border-radius-r-2-5-hover:hover,
+.border-radius-t-r-2-5-hover:hover,
+.border-radius-r-t-2-5-hover:hover {
+  border-top-right-radius: 2.5rem;
+}
+.border-radius-t-3-hover:hover,
+.border-radius-r-3-hover:hover,
+.border-radius-t-r-3-hover:hover,
+.border-radius-r-t-3-hover:hover {
+  border-top-right-radius: 3rem;
+}
+.border-radius-t-3-5-hover:hover,
+.border-radius-r-3-5-hover:hover,
+.border-radius-t-r-3-5-hover:hover,
+.border-radius-r-t-3-5-hover:hover {
+  border-top-right-radius: 3.5rem;
+}
+.border-radius-t-4-hover:hover,
+.border-radius-r-4-hover:hover,
+.border-radius-t-r-4-hover:hover,
+.border-radius-r-t-4-hover:hover {
+  border-top-right-radius: 4rem;
+}
+.border-radius-t-4-5-hover:hover,
+.border-radius-r-4-5-hover:hover,
+.border-radius-t-r-4-5-hover:hover,
+.border-radius-r-t-4-5-hover:hover {
+  border-top-right-radius: 4.5rem;
+}
+.border-radius-t-5-hover:hover,
+.border-radius-r-5-hover:hover,
+.border-radius-t-r-5-hover:hover,
+.border-radius-r-t-5-hover:hover {
+  border-top-right-radius: 5rem;
+}
+.border-radius-t-5-5-hover:hover,
+.border-radius-r-5-5-hover:hover,
+.border-radius-t-r-5-5-hover:hover,
+.border-radius-r-t-5-5-hover:hover {
+  border-top-right-radius: 5.5rem;
+}
+.border-radius-t-6-hover:hover,
+.border-radius-r-6-hover:hover,
+.border-radius-t-r-6-hover:hover,
+.border-radius-r-t-6-hover:hover {
+  border-top-right-radius: 6rem;
+}
+.border-radius-t-6-5-hover:hover,
+.border-radius-r-6-5-hover:hover,
+.border-radius-t-r-6-5-hover:hover,
+.border-radius-r-t-6-5-hover:hover {
+  border-top-right-radius: 6.5rem;
+}
+.border-radius-t-7-hover:hover,
+.border-radius-r-7-hover:hover,
+.border-radius-t-r-7-hover:hover,
+.border-radius-r-t-7-hover:hover {
+  border-top-right-radius: 7rem;
+}
+.border-radius-t-7-5-hover:hover,
+.border-radius-r-7-5-hover:hover,
+.border-radius-t-r-7-5-hover:hover,
+.border-radius-r-t-7-5-hover:hover {
+  border-top-right-radius: 7.5rem;
+}
+.border-radius-t-8-hover:hover,
+.border-radius-r-8-hover:hover,
+.border-radius-t-r-8-hover:hover,
+.border-radius-r-t-8-hover:hover {
+  border-top-right-radius: 8rem;
+}
+.border-radius-t-8-5-hover:hover,
+.border-radius-r-8-5-hover:hover,
+.border-radius-t-r-8-5-hover:hover,
+.border-radius-r-t-8-5-hover:hover {
+  border-top-right-radius: 8.5rem;
+}
+.border-radius-t-9-hover:hover,
+.border-radius-r-9-hover:hover,
+.border-radius-t-r-9-hover:hover,
+.border-radius-r-t-9-hover:hover {
+  border-top-right-radius: 9rem;
+}
+.border-radius-t-9-5-hover:hover,
+.border-radius-r-9-5-hover:hover,
+.border-radius-t-r-9-5-hover:hover,
+.border-radius-r-t-9-5-hover:hover {
+  border-top-right-radius: 9.5rem;
+}
+.border-radius-t-10-hover:hover,
+.border-radius-r-10-hover:hover,
+.border-radius-t-r-10-hover:hover,
+.border-radius-r-t-10-hover:hover
+ {
+  border-top-right-radius: 10rem;
+}
+/*  */
+.border-radius-b-0-hover:hover,
+.border-radius-l-0-hover:hover,
+.border-radius-b-l-0-hover:hover,
+.border-radius-l-b-0-hover:hover {
+  border-bottom-left-radius: 0;
+}
+.border-radius-b-0-5-hover:hover,
+.border-radius-l-0-5-hover:hover,
+.border-radius-b-l-0-5-hover:hover,
+.border-radius-l-b-0-5-hover:hover {
+  border-bottom-left-radius: 0.5rem;
+}
+.border-radius-b-1-hover:hover,
+.border-radius-l-1-hover:hover,
+.border-radius-b-l-1-hover:hover,
+.border-radius-l-b-1-hover:hover {
+  border-bottom-left-radius: 1rem;
+}
+.border-radius-b-1-5-hover:hover,
+.border-radius-l-1-5-hover:hover,
+.border-radius-b-l-1-5-hover:hover,
+.border-radius-l-b-1-5-hover:hover {
+  border-bottom-left-radius: 1.5rem;
+}
+.border-radius-b-2-hover:hover,
+.border-radius-l-2-hover:hover,
+.border-radius-b-l-2-hover:hover,
+.border-radius-l-b-2-hover:hover {
+  border-bottom-left-radius: 2rem;
+}
+.border-radius-b-2-5-hover:hover,
+.border-radius-l-2-5-hover:hover,
+.border-radius-b-l-2-5-hover:hover,
+.border-radius-l-b-2-5-hover:hover {
+  border-bottom-left-radius: 2.5rem;
+}
+.border-radius-b-3-hover:hover,
+.border-radius-l-3-hover:hover,
+.border-radius-b-l-3-hover:hover,
+.border-radius-l-b-3-hover:hover {
+  border-bottom-left-radius: 3rem;
+}
+.border-radius-b-3-5-hover:hover,
+.border-radius-l-3-5-hover:hover,
+.border-radius-b-l-3-5-hover:hover,
+.border-radius-l-b-3-5-hover:hover {
+  border-bottom-left-radius: 3.5rem;
+}
+.border-radius-b-4-hover:hover,
+.border-radius-l-4-hover:hover,
+.border-radius-b-l-4-hover:hover,
+.border-radius-l-b-4-hover:hover {
+  border-bottom-left-radius: 4rem;
+}
+.border-radius-b-4-5-hover:hover,
+.border-radius-l-4-5-hover:hover,
+.border-radius-b-l-4-5-hover:hover,
+.border-radius-l-b-4-5-hover:hover {
+  border-bottom-left-radius: 4.5rem;
+}
+.border-radius-b-5-hover:hover,
+.border-radius-l-5-hover:hover,
+.border-radius-b-l-5-hover:hover,
+.border-radius-l-b-5-hover:hover {
+  border-bottom-left-radius: 5rem;
+}
+.border-radius-b-5-5-hover:hover,
+.border-radius-l-5-5-hover:hover,
+.border-radius-b-l-5-5-hover:hover,
+.border-radius-l-b-5-5-hover:hover {
+  border-bottom-left-radius: 5.5rem;
+}
+.border-radius-b-6-hover:hover,
+.border-radius-l-6-hover:hover,
+.border-radius-b-l-6-hover:hover,
+.border-radius-l-b-6-hover:hover {
+  border-bottom-left-radius: 6rem;
+}
+.border-radius-b-6-5-hover:hover,
+.border-radius-l-6-5-hover:hover,
+.border-radius-b-l-6-5-hover:hover,
+.border-radius-l-b-6-5-hover:hover {
+  border-bottom-left-radius: 6.5rem;
+}
+.border-radius-b-7-hover:hover,
+.border-radius-l-7-hover:hover,
+.border-radius-b-l-7-hover:hover,
+.border-radius-l-b-7-hover:hover {
+  border-bottom-left-radius: 7rem;
+}
+.border-radius-b-7-5-hover:hover,
+.border-radius-l-7-5-hover:hover,
+.border-radius-b-l-7-5-hover:hover,
+.border-radius-l-b-7-5-hover:hover {
+  border-bottom-left-radius: 7.5rem;
+}
+.border-radius-b-8-hover:hover,
+.border-radius-l-8-hover:hover,
+.border-radius-b-l-8-hover:hover,
+.border-radius-l-b-8-hover:hover {
+  border-bottom-left-radius: 8rem;
+}
+.border-radius-b-8-5-hover:hover,
+.border-radius-l-8-5-hover:hover,
+.border-radius-b-l-8-5-hover:hover,
+.border-radius-l-b-8-5-hover:hover {
+  border-bottom-left-radius: 8.5rem;
+}
+.border-radius-b-9-hover:hover,
+.border-radius-l-9-hover:hover,
+.border-radius-b-l-9-hover:hover,
+.border-radius-l-b-9-hover:hover {
+  border-bottom-left-radius: 9rem;
+}
+.border-radius-b-9-5-hover:hover,
+.border-radius-l-9-5-hover:hover,
+.border-radius-b-l-9-5-hover:hover,
+.border-radius-l-b-9-5-hover:hover {
+  border-bottom-left-radius: 9.5rem;
+}
+.border-radius-b-10-hover:hover,
+.border-radius-l-10-hover:hover,
+.border-radius-b-l-10-hover:hover,
+.border-radius-l-b-10-hover:hover {
+  border-bottom-left-radius: 10rem;
+}
+/*  */
+.border-radius-b-0-hover:hover,
+.border-radius-r-0-hover:hover,
+.border-radius-b-r-0-hover:hover,
+.border-radius-r-b-0-hover:hover {
+  border-bottom-right-radius: 0;
+}
+.border-radius-b-0-5-hover:hover,
+.border-radius-r-0-5-hover:hover,
+.border-radius-b-r-0-5-hover:hover,
+.border-radius-r-b-0-5-hover:hover {
+  border-bottom-right-radius: 0.5rem;
+}
+.border-radius-b-1-hover:hover,
+.border-radius-r-1-hover:hover,
+.border-radius-b-r-1-hover:hover,
+.border-radius-r-b-1-hover:hover {
+  border-bottom-right-radius: 1rem;
+}
+.border-radius-b-1-5-hover:hover,
+.border-radius-r-1-5-hover:hover,
+.border-radius-b-r-1-5-hover:hover,
+.border-radius-r-b-1-5-hover:hover {
+  border-bottom-right-radius: 1.5rem;
+}
+.border-radius-b-2-hover:hover,
+.border-radius-r-2-hover:hover,
+.border-radius-b-r-2-hover:hover,
+.border-radius-r-b-2-hover:hover {
+  border-bottom-right-radius: 2rem;
+}
+.border-radius-b-2-5-hover:hover,
+.border-radius-r-2-5-hover:hover,
+.border-radius-b-r-2-5-hover:hover,
+.border-radius-r-b-2-5-hover:hover {
+  border-bottom-right-radius: 2.5rem;
+}
+.border-radius-b-3-hover:hover,
+.border-radius-r-3-hover:hover,
+.border-radius-b-r-3-hover:hover,
+.border-radius-r-b-3-hover:hover {
+  border-bottom-right-radius: 3rem;
+}
+.border-radius-b-3-5-hover:hover,
+.border-radius-r-3-5-hover:hover,
+.border-radius-b-r-3-5-hover:hover,
+.border-radius-r-b-3-5-hover:hover {
+  border-bottom-right-radius: 3.5rem;
+}
+.border-radius-b-4-hover:hover,
+.border-radius-r-4-hover:hover,
+.border-radius-b-r-4-hover:hover,
+.border-radius-r-b-4-hover:hover {
+  border-bottom-right-radius: 4rem;
+}
+.border-radius-b-4-5-hover:hover,
+.border-radius-r-4-5-hover:hover,
+.border-radius-b-r-4-5-hover:hover,
+.border-radius-r-b-4-5-hover:hover {
+  border-bottom-right-radius: 4.5rem;
+}
+.border-radius-b-5-hover:hover,
+.border-radius-r-5-hover:hover,
+.border-radius-b-r-5-hover:hover,
+.border-radius-r-b-5-hover:hover {
+  border-bottom-right-radius: 5rem;
+}
+.border-radius-b-5-5-hover:hover,
+.border-radius-r-5-5-hover:hover,
+.border-radius-b-r-5-5-hover:hover,
+.border-radius-r-b-5-5-hover:hover {
+  border-bottom-right-radius: 5.5rem;
+}
+.border-radius-b-6-hover:hover,
+.border-radius-r-6-hover:hover,
+.border-radius-b-r-6-hover:hover,
+.border-radius-r-b-6-hover:hover {
+  border-bottom-right-radius: 6rem;
+}
+.border-radius-b-6-5-hover:hover,
+.border-radius-r-6-5-hover:hover,
+.border-radius-b-r-6-5-hover:hover,
+.border-radius-r-b-6-5-hover:hover {
+  border-bottom-right-radius: 6.5rem;
+}
+.border-radius-b-7-hover:hover,
+.border-radius-r-7-hover:hover,
+.border-radius-b-r-7-hover:hover,
+.border-radius-r-b-7-hover:hover {
+  border-bottom-right-radius: 7rem;
+}
+.border-radius-b-7-5-hover:hover,
+.border-radius-r-7-5-hover:hover,
+.border-radius-b-r-7-5-hover:hover,
+.border-radius-r-b-7-5-hover:hover {
+  border-bottom-right-radius: 7.5rem;
+}
+.border-radius-b-8-hover:hover,
+.border-radius-r-8-hover:hover,
+.border-radius-b-r-8-hover:hover,
+.border-radius-r-b-8-hover:hover {
+  border-bottom-right-radius: 8rem;
+}
+.border-radius-b-8-5-hover:hover,
+.border-radius-r-8-5-hover:hover,
+.border-radius-b-r-8-5-hover:hover,
+.border-radius-r-b-8-5-hover:hover {
+  border-bottom-right-radius: 8.5rem;
+}
+.border-radius-b-9-hover:hover,
+.border-radius-r-9-hover:hover,
+.border-radius-b-r-9-hover:hover,
+.border-radius-r-b-9-hover:hover {
+  border-bottom-right-radius: 9rem;
+}
+.border-radius-b-9-5-hover:hover,
+.border-radius-r-9-5-hover:hover,
+.border-radius-b-r-9-5-hover:hover,
+.border-radius-r-b-9-5-hover:hover {
+  border-bottom-right-radius: 9.5rem;
+}
+.border-radius-b-10-hover:hover,
+.border-radius-r-10-hover:hover,
+.border-radius-b-r-10-hover:hover,
+.border-radius-r-b-10-hover:hover {
+  border-bottom-right-radius: 10rem;
+}
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
