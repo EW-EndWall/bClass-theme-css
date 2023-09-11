@@ -16,4 +16,6 @@
 - .font-size-1-7
 - .font-size-1-8
 - .font-size-1-9
-- .font-size-2
+  <br>...<br>
+- .font-size-9-9
+- .font-size-10
