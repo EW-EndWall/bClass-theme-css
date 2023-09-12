@@ -17,17 +17,6 @@ body {
   background-position: center;
   background-size: cover;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: var(--contentTextPrimary);
-}
-p {
-  color: var(--contentTextSecondary);
-}
 a {
   color: var(--contentTextPrimary);
   transition: all 0.5s ease;

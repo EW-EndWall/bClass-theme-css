@@ -48,17 +48,6 @@ body.itimregular {
 body:not(.xfont) {
   font-family: Arial, sans-serif;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: var(--contentTextPrimary);
-}
-p {
-  color: var(--contentTextSecondary);
-}
 .user-select-none {
   user-select: none;
 }
@@ -267,17 +256,37 @@ a:hover {
   padding: 1rem;
   margin: 0 2rem;
 }
-.content-1 {
+.content-1,
+.content-1-bg,
+.content-1-bg-hover:hover {
   background-color: var(--contentBg);
 }
-.content-2 {
+.content-2,
+.content-2-bg,
+.content-2-bg-hover:hover {
   background-color: var(--contentBgPrimary);
 }
-.content-3 {
+.content-3,
+.content-3-bg,
+.content-3-bg-hover:hover {
   background-color: var(--contentBgSecondary);
 }
 /*  */
-.hover:hover {
+.content-1-text,
+.content-1-text-hover:hover {
+  color: var(--contentTextPrimary);
+}
+.content-2-text,
+.content-2-text-hover:hover {
+  color: var(--contentTextSecondary);
+}
+/*  */
+.hover:hover,
+.content-1-bg-hover:hover,
+.content-2-bg-hover:hover,
+.content-3-bg-hover:hover,
+.content-1-text-hover:hover,
+.content-2-text-hover:hover {
   cursor: pointer;
 }
 .c-hover:hover,
@@ -387,7 +396,7 @@ a:hover {
 }
 /*  */
 .z-index-0 {
-  z-index: -1;
+  z-index: 0;
 }
 .z-index-1 {
   z-index: 1001;
@@ -403,6 +412,21 @@ a:hover {
 }
 .z-index-5 {
   z-index: 1005;
+}
+.z-index-n-1 {
+  z-index: -1;
+}
+.z-index-n-2 {
+  z-index: -2;
+}
+.z-index-n-3 {
+  z-index: -3;
+}
+.z-index-n-4 {
+  z-index: -4;
+}
+.z-index-n-5 {
+  z-index: -5;
 }
 .overflow-scroll {
   overflow: scroll;
