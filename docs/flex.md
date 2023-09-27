@@ -15,6 +15,14 @@
 
 - .flex-row-wrap
 
+### Flex grow
+
+- .flex-grow-1
+- .flex-grow-2
+- .flex-grow-3
+- .flex-grow-4
+- .flex-grow-5
+
 ## Screen size
 
 ### Mobile
