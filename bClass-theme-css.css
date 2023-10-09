@@ -536,6 +536,19 @@ video::cue {
 .justify-content-around {
   justify-content: space-around;
 }
+/* *  justify-items */
+.justify-items-center {
+  justify-items: center;
+}
+.justify-items-start {
+  justify-items: start;
+}
+.justify-items-end {
+  justify-items: end;
+}
+.justify-items-stretch {
+  justify-items: stretch;
+}
 /* * align-items  */
 .align-items-start {
   align-items: flex-start;

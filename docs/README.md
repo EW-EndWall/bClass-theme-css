@@ -38,6 +38,7 @@
 - [height](./height.md)
 - [hover](./hover.md)
 - [justify-content](./justify-content.md)
+- [justify-items](./justify-items.md)
 - [left](./left.md)
 - [line-height](./line-height.md)
 - [letter-spacing](./letter-spacing.md)
