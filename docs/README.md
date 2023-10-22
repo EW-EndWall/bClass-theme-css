@@ -49,6 +49,7 @@
 - [overflow](./overflow.md)
 - [padding](./padding.md)
 - [position](./position.md)
+- [resize](./resize.md)
 - [right](./right.md)
 - [text-overflow](./text-overflow.md)
 - [shadow](./shadow.md)
