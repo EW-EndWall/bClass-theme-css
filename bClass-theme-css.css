@@ -14913,6 +14913,11 @@ video::cue {
 @media screen and (max-width: 768px) {
   /* ------------- */
   /* ------------- */
+  .container {
+    padding: 0.5rem;
+    margin: 0;
+  }
+  /* ------------- */
   .w-auto-tablet-max {
     width: auto;
   }
