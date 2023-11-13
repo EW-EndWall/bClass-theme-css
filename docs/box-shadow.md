@@ -76,3 +76,7 @@
 - .box-shadow-b-8
 - .box-shadow-b-9
 - .box-shadow-b-10
+
+### example
+
+[codepen live example](https://codepen.io/Endwall/pen/KKJaVgG)
