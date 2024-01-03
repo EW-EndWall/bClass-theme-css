@@ -81,6 +81,9 @@ video::cue {
 .word-break-break-all {
   word-break: break-all;
 }
+.word-break-keep-all {
+  word-break: keep-all;
+}
 /* * text overflow */
 .text-overflow-ellipsis {
   text-overflow: ellipsis;
