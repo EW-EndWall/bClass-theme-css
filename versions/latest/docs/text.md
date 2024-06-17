@@ -325,6 +325,51 @@ The text-align CSS property sets the horizontal alignment of the inline-level co
 }
 ```
 
+# Mobile Text Align
+
+- .mobile:text-right
+- .hover:mobile:text-right
+- .mobile:text-left
+- .hover:mobile:text-left
+- .mobile:text-center
+- .hover:mobile:text-center
+- .mobile:text-justify
+- .hover:mobile:text-justify
+- .mobile:text-start
+- .hover:mobile:text-start
+- .mobile:text-end
+- .hover:mobile:text-end
+
+```css
+/* mobile < 480px */
+@media screen and (max-width: 480px) {
+  .mobile\:text-right,
+  .hover\:mobile\:text-right:hover {
+    text-align: right;
+  }
+  .mobile\:text-left,
+  .hover\:mobile\:text-left:hover {
+    text-align: left;
+  }
+  .mobile\:text-center,
+  .hover\:mobile\:text-center:hover {
+    text-align: center;
+  }
+  .mobile\:text-justify,
+  .hover\:mobile\:text-justify:hover {
+    text-align: justify;
+  }
+  .mobile\:text-start,
+  .hover\:mobile\:text-start:hover {
+    text-align: start;
+  }
+  .mobile\:text-end,
+  .hover\:mobile\:text-end:hover {
+    text-align: end;
+  }
+}
+```
+
 # Line Height
 
 The line-height CSS property sets the height of a line box. It's commonly used to set the distance between lines of text. On block-level elements, it specifies the minimum height of line boxes within the element. On non-replaced inline elements, it specifies the height that is used to calculate line box height.

@@ -36,6 +36,45 @@ The float CSS property places an element on the left or right side of its contai
 }
 ```
 
+# Mobile Float
+
+- .mobile:float-start
+- .hover:mobile:float-start
+- .mobile:float-end
+- .hover:mobile:float-end
+- .mobile:float-left
+- .hover:mobile:float-left
+- .mobile:float-right
+- .hover:mobile:float-right
+- .mobile:float-none
+- .hover:mobile:float-none
+
+```css
+/* mobile < 480px */
+@media screen and (max-width: 480px) {
+  .mobile\:float-start,
+  .hover\:mobile\:float-start:hover {
+    float: inline-start;
+  }
+  .mobile\:float-end,
+  .hover\:mobile\:float-end:hover {
+    float: inline-end;
+  }
+  .mobile\:float-left,
+  .hover\:mobile\:float-left:hover {
+    float: left;
+  }
+  .mobile\:float-right,
+  .hover\:mobile\:float-right:hover {
+    float: right;
+  }
+  .mobile\:float-none,
+  .hover\:mobile\:float-none:hover {
+    float: none;
+  }
+}
+```
+
 ### example
 
 ```html

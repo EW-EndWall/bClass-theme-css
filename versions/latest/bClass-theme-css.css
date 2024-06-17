@@ -4054,6 +4054,74 @@ video::cue {
 /* ! ---------------------------------------------------------------------------------  */
 /* ! ---------------------------------------------------------------------------------  */
 /* ----------- */
+.left-25,
+.hover\:left-25:hover {
+  left: 25%;
+}
+.left-50,
+.hover\:left-50:hover {
+  left: 50%;
+}
+.left-75,
+.hover\:left-75:hover {
+  left: 75%;
+}
+.left-100,
+.hover\:left-100:hover {
+  left: 100%;
+}
+/* ----------- */
+.right-25,
+.hover\:right-25:hover {
+  right: 25%;
+}
+.right-50,
+.hover\:right-50:hover {
+  right: 50%;
+}
+.right-75,
+.hover\:right-75:hover {
+  right: 75%;
+}
+.right-100,
+.hover\:right-100:hover {
+  right: 100%;
+}
+/* ----------- */
+.top-25,
+.hover\:top-25:hover {
+  top: 25%;
+}
+.top-50,
+.hover\:top-50:hover {
+  top: 50%;
+}
+.top-75,
+.hover\:top-75:hover {
+  top: 75%;
+}
+.top-100,
+.hover\:top-100:hover {
+  top: 100%;
+}
+/* ----------- */
+.bottom-25,
+.hover\:bottom-25:hover {
+  bottom: 25%;
+}
+.bottom-50,
+.hover\:bottom-50:hover {
+  bottom: 50%;
+}
+.bottom-75,
+.hover\:bottom-75:hover {
+  bottom: 75%;
+}
+.bottom-100,
+.hover\:bottom-100:hover {
+  bottom: 100%;
+}
+/* ----------- */
 .left-0,
 .hover\:left-0:hover {
   left: 0;
@@ -4488,74 +4556,6 @@ video::cue {
 .bottom-5,
 .hover\:bottom-5:hover {
   bottom: 5rem;
-}
-/* ----------- */
-.left-25,
-.hover\:left-25:hover {
-  left: 25%;
-}
-.left-50,
-.hover\:left-50:hover {
-  left: 50%;
-}
-.left-75,
-.hover\:left-75:hover {
-  left: 75%;
-}
-.left-100,
-.hover\:left-100:hover {
-  left: 100%;
-}
-/* ----------- */
-.right-25,
-.hover\:right-25:hover {
-  right: 25%;
-}
-.right-50,
-.hover\:right-50:hover {
-  right: 50%;
-}
-.right-75,
-.hover\:right-75:hover {
-  right: 75%;
-}
-.right-100,
-.hover\:right-100:hover {
-  right: 100%;
-}
-/* ----------- */
-.top-25,
-.hover\:top-25:hover {
-  top: 25%;
-}
-.top-50,
-.hover\:top-50:hover {
-  top: 50%;
-}
-.top-75,
-.hover\:top-75:hover {
-  top: 75%;
-}
-.top-100,
-.hover\:top-100:hover {
-  top: 100%;
-}
-/* ----------- */
-.bottom-25,
-.hover\:bottom-25:hover {
-  bottom: 25%;
-}
-.bottom-50,
-.hover\:bottom-50:hover {
-  bottom: 50%;
-}
-.bottom-75,
-.hover\:bottom-75:hover {
-  bottom: 75%;
-}
-.bottom-100,
-.hover\:bottom-100:hover {
-  bottom: 100%;
 }
 /* ----------- */
 .-left-0\.1,

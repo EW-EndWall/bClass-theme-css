@@ -187,3 +187,138 @@ The width CSS property sets an element's width. By default, it sets the width of
   width: 100vh;
 }
 ```
+
+# Mobile Width
+
+- .mobile:w-auto
+- .hover:mobile:w-auto
+- .mobile:w-5
+- .hover:mobile:w-5
+- .mobile:w-10
+- .hover:mobile:w-10
+- .mobile:w-15
+- .hover:mobile:w-15
+- .mobile:w-20
+- .hover:mobile:w-20
+- .mobile:w-25
+- .hover:mobile:w-25
+- .mobile:w-30
+- .hover:mobile:w-30
+- .mobile:w-35
+- .hover:mobile:w-35
+- .mobile:w-40
+- .hover:mobile:w-40
+- .mobile:w-45
+- .hover:mobile:w-45
+- .mobile:w-50
+- .hover:mobile:w-50
+- .mobile:w-55
+- .hover:mobile:w-55
+- .mobile:w-60
+- .hover:mobile:w-60
+- .mobile:w-65
+- .hover:mobile:w-65
+- .mobile:w-70
+- .hover:mobile:w-70
+- .mobile:w-75
+- .hover:mobile:w-75
+- .mobile:w-80
+- .hover:mobile:w-80
+- .mobile:w-85
+- .hover:mobile:w-85
+- .mobile:w-90
+- .hover:mobile:w-90
+- .mobile:w-95
+- .hover:mobile:w-95
+- .mobile:w-100
+- .hover:mobile:w-100
+
+```css
+/* mobile < 480px */
+@media screen and (max-width: 480px) {
+  .mobile\:w-auto,
+  .hover\:mobile\:w-auto:hover {
+    width: auto;
+  }
+  .mobile\:w-5,
+  .hover\:mobile\:w-5:hover {
+    width: 5%;
+  }
+  .mobile\:w-10,
+  .hover\:mobile\:w-10:hover {
+    width: 10%;
+  }
+  .mobile\:w-15,
+  .hover\:mobile\:w-15:hover {
+    width: 15%;
+  }
+  .mobile\:w-20,
+  .hover\:mobile\:w-20:hover {
+    width: 20%;
+  }
+  .mobile\:w-25,
+  .hover\:mobile\:w-25:hover {
+    width: 25%;
+  }
+  .mobile\:w-30,
+  .hover\:mobile\:w-30:hover {
+    width: 30%;
+  }
+  .mobile\:w-35,
+  .hover\:mobile\:w-35:hover {
+    width: 35%;
+  }
+  .mobile\:w-40,
+  .hover\:mobile\:w-40:hover {
+    width: 40%;
+  }
+  .mobile\:w-45,
+  .hover\:mobile\:w-45:hover {
+    width: 45%;
+  }
+  .mobile\:w-50,
+  .hover\:mobile\:w-50:hover {
+    width: 50%;
+  }
+  .mobile\:w-55,
+  .hover\:mobile\:w-55:hover {
+    width: 55%;
+  }
+  .mobile\:w-60,
+  .hover\:mobile\:w-60:hover {
+    width: 60%;
+  }
+  .mobile\:w-65,
+  .hover\:mobile\:w-65:hover {
+    width: 65%;
+  }
+  .mobile\:w-70,
+  .hover\:mobile\:w-70:hover {
+    width: 70%;
+  }
+  .mobile\:w-75,
+  .hover\:mobile\:w-75:hover {
+    width: 75%;
+  }
+  .mobile\:w-80,
+  .hover\:mobile\:w-80:hover {
+    width: 80%;
+  }
+  .mobile\:w-85,
+  .hover\:mobile\:w-85:hover {
+    width: 85%;
+  }
+  .mobile\:w-90,
+  .hover\:mobile\:w-90:hover {
+    width: 90%;
+  }
+  .mobile\:w-95,
+  .hover\:mobile\:w-95:hover {
+    width: 95%;
+  }
+  .mobile\:w-100,
+  .hover\:mobile\:w-100:hover {
+    width: 100%;
+  }
+}
+```

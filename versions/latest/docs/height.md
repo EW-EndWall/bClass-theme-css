@@ -187,3 +187,138 @@ The height CSS property specifies the height of an element. By default, the prop
   height: 100vw;
 }
 ```
+
+# Mobile Height
+
+- .mobile:h-auto
+- .hover:mobile:h-auto
+- .mobile:h-5
+- .hover:mobile:h-5
+- .mobile:h-10
+- .hover:mobile:h-10
+- .mobile:h-15
+- .hover:mobile:h-15
+- .mobile:h-20
+- .hover:mobile:h-20
+- .mobile:h-25
+- .hover:mobile:h-25
+- .mobile:h-30
+- .hover:mobile:h-30
+- .mobile:h-35
+- .hover:mobile:h-35
+- .mobile:h-40
+- .hover:mobile:h-40
+- .mobile:h-45
+- .hover:mobile:h-45
+- .mobile:h-50
+- .hover:mobile:h-50
+- .mobile:h-55
+- .hover:mobile:h-55
+- .mobile:h-60
+- .hover:mobile:h-60
+- .mobile:h-65
+- .hover:mobile:h-65
+- .mobile:h-70
+- .hover:mobile:h-70
+- .mobile:h-75
+- .hover:mobile:h-75
+- .mobile:h-80
+- .hover:mobile:h-80
+- .mobile:h-85
+- .hover:mobile:h-85
+- .mobile:h-90
+- .hover:mobile:h-90
+- .mobile:h-95
+- .hover:mobile:h-95
+- .mobile:h-100
+- .hover:mobile:h-100
+
+```css
+/* mobile < 480px */
+@media screen and (max-width: 480px) {
+  .mobile\:h-auto,
+  .hover\:mobile\:h-auto:hover {
+    height: auto;
+  }
+  .mobile\:h-5,
+  .hover\:mobile\:h-5:hover {
+    height: 5%;
+  }
+  .mobile\:h-10,
+  .hover\:mobile\:h-10:hover {
+    height: 10%;
+  }
+  .mobile\:h-15,
+  .hover\:mobile\:h-15:hover {
+    height: 15%;
+  }
+  .mobile\:h-20,
+  .hover\:mobile\:h-20:hover {
+    height: 20%;
+  }
+  .mobile\:h-25,
+  .hover\:mobile\:h-25:hover {
+    height: 25%;
+  }
+  .mobile\:h-30,
+  .hover\:mobile\:h-30:hover {
+    height: 30%;
+  }
+  .mobile\:h-35,
+  .hover\:mobile\:h-35:hover {
+    height: 35%;
+  }
+  .mobile\:h-40,
+  .hover\:mobile\:h-40:hover {
+    height: 40%;
+  }
+  .mobile\:h-45,
+  .hover\:mobile\:h-45:hover {
+    height: 45%;
+  }
+  .mobile\:h-50,
+  .hover\:mobile\:h-50:hover {
+    height: 50%;
+  }
+  .mobile\:h-55,
+  .hover\:mobile\:h-55:hover {
+    height: 55%;
+  }
+  .mobile\:h-60,
+  .hover\:mobile\:h-60:hover {
+    height: 60%;
+  }
+  .mobile\:h-65,
+  .hover\:mobile\:h-65:hover {
+    height: 65%;
+  }
+  .mobile\:h-70,
+  .hover\:mobile\:h-70:hover {
+    height: 70%;
+  }
+  .mobile\:h-75,
+  .hover\:mobile\:h-75:hover {
+    height: 75%;
+  }
+  .mobile\:h-80,
+  .hover\:mobile\:h-80:hover {
+    height: 80%;
+  }
+  .mobile\:h-85,
+  .hover\:mobile\:h-85:hover {
+    height: 85%;
+  }
+  .mobile\:h-90,
+  .hover\:mobile\:h-90:hover {
+    height: 90%;
+  }
+  .mobile\:h-95,
+  .hover\:mobile\:h-95:hover {
+    height: 95%;
+  }
+  .mobile\:h-100,
+  .hover\:mobile\:h-100:hover {
+    height: 100%;
+  }
+}
+```
