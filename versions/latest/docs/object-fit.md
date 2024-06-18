@@ -36,6 +36,45 @@ The object-fit CSS property sets how the content of a replaced element, such as 
 }
 ```
 
+# Mobile Object Fit
+
+- .mobile:object-contain
+- .hover:mobile:object-contain
+- .mobile:object-cover
+- .hover:mobile:object-cover
+- .mobile:object-fill
+- .hover:mobile:object-fill
+- .mobile:object-scale
+- .hover:mobile:object-scale
+- .mobile:object-none
+- .hover:mobile:object-none
+
+```css
+/* mobile < 480px */
+@media screen and (max-width: 480px) {
+  .mobile\:object-contain,
+  .hover\:mobile\:object-contain:hover {
+    object-fit: contain;
+  }
+  .mobile\:object-cover,
+  .hover\:mobile\:object-cover:hover {
+    object-fit: cover;
+  }
+  .mobile\:object-fill,
+  .hover\:mobile\:object-fill:hover {
+    object-fit: fill;
+  }
+  .mobile\:object-scale,
+  .hover\:mobile\:object-scale:hover {
+    object-fit: scale-down;
+  }
+  .mobile\:object-none,
+  .hover\:mobile\:object-none:hover {
+    object-fit: none;
+  }
+}
+```
+
 ### example
 
 ```html

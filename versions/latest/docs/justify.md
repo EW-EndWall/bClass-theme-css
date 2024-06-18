@@ -1,4 +1,4 @@
-# Fustify Content
+# Justify Content
 
 The CSS justify-content property defines how the browser distributes space between and around content items along the main-axis of a flex container, and the inline axis of a grid container.
 
@@ -45,6 +45,45 @@ The CSS justify-content property defines how the browser distributes space betwe
 .justify-content-stretch,
 .hover\:justify-content-stretch:hover {
   justify-content: stretch;
+}
+```
+
+# Mobile Justify Content
+
+- .mobile:justify-content-start
+- .hover:mobile:justify-content-start
+- .mobile:justify-content-end
+- .hover:mobile:justify-content-end
+- .mobile:justify-content-center
+- .hover:mobile:justify-content-center
+- .mobile:justify-content-between
+- .hover:mobile:justify-content-between
+- .mobile:justify-content-around
+- .hover:mobile:justify-content-around
+
+```css
+/* mobile < 480px */
+@media screen and (max-width: 480px) {
+  .mobile\:justify-content-start,
+  .hover\:mobile\:justify-content-start:hover {
+    justify-content: flex-start;
+  }
+  .mobile\:justify-content-end,
+  .hover\:mobile\:justify-content-end:hover {
+    justify-content: flex-end;
+  }
+  .mobile\:justify-content-center,
+  .hover\:mobile\:justify-content-center:hover {
+    justify-content: center;
+  }
+  .mobile\:justify-content-between,
+  .hover\:mobile\:justify-content-between:hover {
+    justify-content: space-between;
+  }
+  .mobile\:justify-content-around,
+  .hover\:mobile\:justify-content-around:hover {
+    justify-content: space-around;
+  }
 }
 ```
 

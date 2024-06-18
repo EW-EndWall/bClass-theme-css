@@ -102,6 +102,59 @@ The display CSS property sets whether an element is treated as a block or inline
 }
 ```
 
+# Mobile Display
+
+- .mobile:d-none
+- .hover:mobile:d-none
+- .mobile:d-inline
+- .hover:mobile:d-inline
+- .mobile:d-block
+- .hover:mobile:d-block
+- .mobile:d-inline-block
+- .hover:mobile:d-inline-block
+- .mobile:d-flex
+- .hover:mobile:d-flex
+- .mobile:d-inline-flex
+- .hover:mobile:d-inline-flex
+- .mobile:d-grid
+- .mobile:d-inline-grid
+
+```css
+/* mobile < 480px */
+@media screen and (max-width: 480px) {
+  .mobile\:d-none,
+  .hover\:mobile\:d-none:hover {
+    display: none;
+  }
+  .mobile\:d-inline,
+  .hover\:mobile\:d-inline:hover {
+    display: inline;
+  }
+  .mobile\:d-block,
+  .hover\:mobile\:d-block:hover {
+    display: block;
+  }
+  .mobile\:d-inline-block,
+  .hover\:mobile\:d-inline-block:hover {
+    display: inline-block;
+  }
+  .mobile\:d-flex,
+  .hover\:mobile\:d-flex:hover {
+    display: flex;
+  }
+  .mobile\:d-inline-flex,
+  .hover\:mobile\:d-inline-flex:hover {
+    display: inline-flex;
+  }
+  .mobile\:d-grid {
+    display: grid;
+  }
+  .mobile\:d-inline-grid {
+    display: inline-grid;
+  }
+}
+```
+
 ### example
 
 ```html
