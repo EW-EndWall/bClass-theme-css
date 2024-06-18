@@ -6572,6 +6572,7 @@ video::cue {
   .hover\:tablet\:v-hide:hover {
     visibility: hidden;
   }
+  /* ------------- */
   .tablet\:d-none,
   .hover\:tablet\:d-none:hover {
     display: none;
@@ -6604,19 +6605,19 @@ video::cue {
   }
   /* ------------- */
   .tablet\:flex-grow-0,
-  .hover\:tablet\:flex-grow-0:hover:hover {
+  .hover\:tablet\:flex-grow-0:hover {
     flex-grow: 0;
   }
   .tablet\:flex-grow-1,
-  .hover\:tablet\:flex-grow-1:hover:hover {
+  .hover\:tablet\:flex-grow-1:hover {
     flex-grow: 1;
   }
   .tablet\:flex-grow-2,
-  .hover\:tablet\:flex-grow-2:hover:hover {
+  .hover\:tablet\:flex-grow-2:hover {
     flex-grow: 2;
   }
   .tablet\:flex-grow-3,
-  .hover\:tablet\:flex-grow-3:hover:hover {
+  .hover\:tablet\:flex-grow-3:hover {
     flex-grow: 3;
   }
   /* ------------- */
@@ -7031,7 +7032,6 @@ video::cue {
     align-content: space-evenly;
   }
   /* ------------- */
-
   .tablet-pc\:v-show,
   .hover\:tablet-pc\:v-show:hover {
     visibility: visible;
@@ -7040,6 +7040,7 @@ video::cue {
   .hover\:tablet-pc\:v-hide:hover {
     visibility: hidden;
   }
+  /* ------------- */
   .tablet-pc\:d-none,
   .hover\:tablet-pc\:d-none:hover {
     display: none;
@@ -7344,23 +7345,23 @@ video::cue {
     order: 5;
   }
   .pc\:-order-1,
-  .hover\:pc\:-order-1:hover:hover {
+  .hover\:pc\:-order-1:hover {
     order: -1;
   }
   .pc\:-order-2,
-  .hover\:pc\:-order-2:hover:hover {
+  .hover\:pc\:-order-2:hover {
     order: -2;
   }
   .pc\:-order-3,
-  .hover\:pc\:-order-3:hover:hover {
+  .hover\:pc\:-order-3:hover {
     order: -3;
   }
   .pc\:-order-4,
-  .hover\:pc\:-order-4:hover:hover {
+  .hover\:pc\:-order-4:hover {
     order: -4;
   }
   .pc\:-order-5,
-  .hover\:pc\:-order-5:hover:hover {
+  .hover\:pc\:-order-5:hover {
     order: -5;
   }
   /* ------------- */
@@ -7507,6 +7508,7 @@ video::cue {
   .hover\:pc\:v-hide:hover {
     visibility: hidden;
   }
+  /* ------------- */
   .pc\:d-none,
   .hover\:pc\:d-none:hover {
     display: none;
@@ -7664,7 +7666,7 @@ video::cue {
     height: 15%;
   }
   .tv\:h-20,
-  .hover\:tv\:h-20 {
+  .hover\:tv\:h-20:hover {
     height: 20%;
   }
   .tv\:h-25,
@@ -7974,6 +7976,7 @@ video::cue {
   .hover\:tv\:v-hide:hover {
     visibility: hidden;
   }
+  /* ------------- */
   .tv\:d-none,
   .hover\:tv\:d-none:hover {
     display: none;

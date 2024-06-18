@@ -322,3 +322,543 @@ The height CSS property specifies the height of an element. By default, the prop
   }
 }
 ```
+
+# Tablet Height
+
+- .tablet:h-auto
+- .hover:tablet:h-auto
+- .tablet:h-5
+- .hover:tablet:h-5
+- .tablet:h-10
+- .hover:tablet:h-10
+- .tablet:h-15
+- .hover:tablet:h-15
+- .tablet:h-20
+- .hover:tablet:h-20
+- .tablet:h-25
+- .hover:tablet:h-25
+- .tablet:h-30
+- .hover:tablet:h-30
+- .tablet:h-35
+- .hover:tablet:h-35
+- .tablet:h-40
+- .hover:tablet:h-40
+- .tablet:h-45
+- .hover:tablet:h-45
+- .tablet:h-50
+- .hover:tablet:h-50
+- .tablet:h-55
+- .hover:tablet:h-55
+- .tablet:h-60
+- .hover:tablet:h-60
+- .tablet:h-65
+- .hover:tablet:h-65
+- .tablet:h-70
+- .hover:tablet:h-70
+- .tablet:h-75
+- .hover:tablet:h-75
+- .tablet:h-80
+- .hover:tablet:h-80
+- .tablet:h-85
+- .hover:tablet:h-85
+- .tablet:h-90
+- .hover:tablet:h-90
+- .tablet:h-95
+- .hover:tablet:h-95
+- .tablet:h-100
+- .hover:tablet:h-100
+
+```css
+/* tablet < 768px */
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  .tablet\:h-auto,
+  .hover\:tablet\:h-auto:hover {
+    height: auto;
+  }
+  .tablet\:h-5,
+  .hover\:tablet\:h-5:hover {
+    height: 5%;
+  }
+  .tablet\:h-10,
+  .hover\:tablet\:h-10:hover {
+    height: 10%;
+  }
+  .tablet\:h-15,
+  .hover\:tablet\:h-15:hover {
+    height: 15%;
+  }
+  .tablet\:h-20,
+  .hover\:tablet\:h-20:hover {
+    height: 20%;
+  }
+  .tablet\:h-25,
+  .hover\:tablet\:h-25:hover {
+    height: 25%;
+  }
+  .tablet\:h-30,
+  .hover\:tablet\:h-30:hover {
+    height: 30%;
+  }
+  .tablet\:h-35,
+  .hover\:tablet\:h-35:hover {
+    height: 35%;
+  }
+  .tablet\:h-40,
+  .hover\:tablet\:h-40:hover {
+    height: 40%;
+  }
+  .tablet\:h-45,
+  .hover\:tablet\:h-45:hover {
+    height: 45%;
+  }
+  .tablet\:h-50,
+  .hover\:tablet\:h-50:hover {
+    height: 50%;
+  }
+  .tablet\:h-55,
+  .hover\:tablet\:h-55:hover {
+    height: 55%;
+  }
+  .tablet\:h-60,
+  .hover\:tablet\:h-60:hover {
+    height: 60%;
+  }
+  .tablet\:h-65,
+  .hover\:tablet\:h-65:hover {
+    height: 65%;
+  }
+  .tablet\:h-70,
+  .hover\:tablet\:h-70:hover {
+    height: 70%;
+  }
+  .tablet\:h-75,
+  .hover\:tablet\:h-75:hover {
+    height: 75%;
+  }
+  .tablet\:h-80,
+  .hover\:tablet\:h-80:hover {
+    height: 80%;
+  }
+  .tablet\:h-85,
+  .hover\:tablet\:h-85:hover {
+    height: 85%;
+  }
+  .tablet\:h-90,
+  .hover\:tablet\:h-90:hover {
+    height: 90%;
+  }
+  .tablet\:h-95,
+  .hover\:tablet\:h-95:hover {
+    height: 95%;
+  }
+  .tablet\:h-100,
+  .hover\:tablet\:h-100:hover {
+    height: 100%;
+  }
+}
+```
+
+# Tablet Pc Height
+
+- .tablet-pc:h-auto
+- .hover:tablet-pc:h-auto
+- .tablet-pc:h-5
+- .hover:tablet-pc:h-5
+- .tablet-pc:h-10
+- .hover:tablet-pc:h-10
+- .tablet-pc:h-15
+- .hover:tablet-pc:h-15
+- .tablet-pc:h-20
+- .hover:tablet-pc:h-20
+- .tablet-pc:h-25
+- .hover:tablet-pc:h-25
+- .tablet-pc:h-30
+- .hover:tablet-pc:h-30
+- .tablet-pc:h-35
+- .hover:tablet-pc:h-35
+- .tablet-pc:h-40
+- .hover:tablet-pc:h-40
+- .tablet-pc:h-45
+- .hover:tablet-pc:h-45
+- .tablet-pc:h-50
+- .hover:tablet-pc:h-50
+- .tablet-pc:h-55
+- .hover:tablet-pc:h-55
+- .tablet-pc:h-60
+- .hover:tablet-pc:h-60
+- .tablet-pc:h-65
+- .hover:tablet-pc:h-65
+- .tablet-pc:h-70
+- .hover:tablet-pc:h-70
+- .tablet-pc:h-75
+- .hover:tablet-pc:h-75
+- .tablet-pc:h-80
+- .hover:tablet-pc:h-75
+- .tablet-pc:h-85
+- .hover:tablet-pc:h-85
+- .tablet-pc:h-90
+- .hover:tablet-pc:h-90
+- .tablet-pc:h-95
+- .hover:tablet-pc:h-95
+- .tablet-pc:h-100
+- .hover:tablet-pc:h-100
+
+```css
+/* tablet-pc < 992 */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .tablet-pc\:h-auto,
+  .hover\:tablet-pc\:h-auto:hover {
+    height: auto;
+  }
+  .tablet-pc\:h-5,
+  .hover\:tablet-pc\:h-5:hover {
+    height: 5%;
+  }
+  .tablet-pc\:h-10,
+  .hover\:tablet-pc\:h-10:hover {
+    height: 10%;
+  }
+  .tablet-pc\:h-15,
+  .hover\:tablet-pc\:h-15:hover {
+    height: 15%;
+  }
+  .tablet-pc\:h-20,
+  .hover\:tablet-pc\:h-20:hover {
+    height: 20%;
+  }
+  .tablet-pc\:h-25,
+  .hover\:tablet-pc\:h-25:hover {
+    height: 25%;
+  }
+  .tablet-pc\:h-30,
+  .hover\:tablet-pc\:h-30:hover {
+    height: 30%;
+  }
+  .tablet-pc\:h-35,
+  .hover\:tablet-pc\:h-35:hover {
+    height: 35%;
+  }
+  .tablet-pc\:h-40,
+  .hover\:tablet-pc\:h-40:hover {
+    height: 40%;
+  }
+  .tablet-pc\:h-45,
+  .hover\:tablet-pc\:h-45:hover {
+    height: 45%;
+  }
+  .tablet-pc\:h-50,
+  .hover\:tablet-pc\:h-50:hover {
+    height: 50%;
+  }
+  .tablet-pc\:h-55,
+  .hover\:tablet-pc\:h-55:hover {
+    height: 55%;
+  }
+  .tablet-pc\:h-60,
+  .hover\:tablet-pc\:h-60:hover {
+    height: 60%;
+  }
+  .tablet-pc\:h-65,
+  .hover\:tablet-pc\:h-65:hover {
+    height: 65%;
+  }
+  .tablet-pc\:h-70,
+  .hover\:tablet-pc\:h-70:hover {
+    height: 70%;
+  }
+  .tablet-pc\:h-75,
+  .hover\:tablet-pc\:h-75:hover {
+    height: 75%;
+  }
+  .tablet-pc\:h-80,
+  .hover\:tablet-pc\:h-75:hover {
+    height: 80%;
+  }
+  .tablet-pc\:h-85,
+  .hover\:tablet-pc\:h-85:hover {
+    height: 85%;
+  }
+  .tablet-pc\:h-90,
+  .hover\:tablet-pc\:h-90:hover {
+    height: 90%;
+  }
+  .tablet-pc\:h-95,
+  .hover\:tablet-pc\:h-95:hover {
+    height: 95%;
+  }
+  .tablet-pc\:h-100,
+  .hover\:tablet-pc\:h-100:hover {
+    height: 100%;
+  }
+}
+```
+
+# Pc Height
+
+- .pc:h-auto
+- .hover:pc:h-auto
+- .pc:h-5
+- .hover:pc:h-5
+- .pc:h-10
+- .hover:pc:h-10
+- .pc:h-15
+- .hover:pc:h-15
+- .pc:h-20
+- .hover:pc:h-20
+- .pc:h-25
+- .hover:pc:h-25
+- .pc:h-30
+- .hover:pc:h-30
+- .pc:h-35
+- .hover:pc:h-35
+- .pc:h-40
+- .hover:pc:h-40
+- .pc:h-45
+- .hover:pc:h-45
+- .pc:h-50
+- .hover:pc:h-50
+- .pc:h-55
+- .hover:pc:h-55
+- .pc:h-60
+- .hover:pc:h-60
+- .pc:h-65
+- .hover:pc:h-65
+- .pc:h-70
+- .hover:pc:h-70
+- .pc:h-75
+- .hover:pc:h-75
+- .pc:h-80
+- .hover:pc:h-80
+- .pc:h-85
+- .hover:pc:h-85
+- .pc:h-90
+- .hover:pc:h-90
+- .pc:h-95
+- .hover:pc:h-95
+- .pc:h-100
+- .hover:pc:h-100
+
+```css
+/* pc < 1200 */
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .pc\:h-auto,
+  .hover\:pc\:h-auto:hover {
+    height: auto;
+  }
+  .pc\:h-5,
+  .hover\:pc\:h-5:hover {
+    height: 5%;
+  }
+  .pc\:h-10,
+  .hover\:pc\:h-10:hover {
+    height: 10%;
+  }
+  .pc\:h-15,
+  .hover\:pc\:h-15:hover {
+    height: 15%;
+  }
+  .pc\:h-20,
+  .hover\:pc\:h-20:hover {
+    height: 20%;
+  }
+  .pc\:h-25,
+  .hover\:pc\:h-25:hover {
+    height: 25%;
+  }
+  .pc\:h-30,
+  .hover\:pc\:h-30:hover {
+    height: 30%;
+  }
+  .pc\:h-35,
+  .hover\:pc\:h-35:hover {
+    height: 35%;
+  }
+  .pc\:h-40,
+  .hover\:pc\:h-40:hover {
+    height: 40%;
+  }
+  .pc\:h-45,
+  .hover\:pc\:h-45:hover {
+    height: 45%;
+  }
+  .pc\:h-50,
+  .hover\:pc\:h-50:hover {
+    height: 50%;
+  }
+  .pc\:h-55,
+  .hover\:pc\:h-55:hover {
+    height: 55%;
+  }
+  .pc\:h-60,
+  .hover\:pc\:h-60:hover {
+    height: 60%;
+  }
+  .pc\:h-65,
+  .hover\:pc\:h-65:hover {
+    height: 65%;
+  }
+  .pc\:h-70,
+  .hover\:pc\:h-70:hover {
+    height: 70%;
+  }
+  .pc\:h-75,
+  .hover\:pc\:h-75:hover {
+    height: 75%;
+  }
+  .pc\:h-80,
+  .hover\:pc\:h-80:hover {
+    height: 80%;
+  }
+  .pc\:h-85,
+  .hover\:pc\:h-85:hover {
+    height: 85%;
+  }
+  .pc\:h-90,
+  .hover\:pc\:h-90:hover {
+    height: 90%;
+  }
+  .pc\:h-95,
+  .hover\:pc\:h-95:hover {
+    height: 95%;
+  }
+  .pc\:h-100,
+  .hover\:pc\:h-100:hover {
+    height: 100%;
+  }
+}
+```
+
+# Tv Height
+
+- .tv:h-auto
+- .hover:tv:h-auto
+- .tv:h-5
+- .hover:tv:h-5
+- .tv:h-10
+- .hover:tv:h-10
+- .tv:h-15
+- .hover:tv:h-15
+- .tv:h-20
+- .hover:tv:h-20
+- .tv:h-25
+- .hover:tv:h-25
+- .tv:h-30
+- .hover:tv:h-30
+- .tv:h-35
+- .hover:tv:h-35
+- .tv:h-40
+- .hover:tv:h-40
+- .tv:h-45
+- .hover:tv:h-45
+- .tv:h-50
+- .hover:tv:h-50
+- .tv:h-55
+- .hover:tv:h-55
+- .tv:h-60
+- .hover:tv:h-60
+- .tv:h-65
+- .hover:tv:h-65
+- .tv:h-70
+- .hover:tv:h-70
+- .tv:h-75
+- .hover:tv:h-75
+- .tv:h-80
+- .hover:tv:h-80
+- .tv:h-85
+- .hover:tv:h-85
+- .tv:h-90
+- .hover:tv:h-90
+- .tv:h-95
+- .hover:tv:h-95
+- .tv:h-100
+- .hover:tv:h-100
+
+```css
+/* tv > 1200 */
+@media screen and (min-width: 1200px) {
+  .tv\:h-auto,
+  .hover\:tv\:h-auto:hover {
+    height: auto;
+  }
+  .tv\:h-5,
+  .hover\:tv\:h-5:hover {
+    height: 5%;
+  }
+  .tv\:h-10,
+  .hover\:tv\:h-10:hover {
+    height: 10%;
+  }
+  .tv\:h-15,
+  .hover\:tv\:h-15:hover {
+    height: 15%;
+  }
+  .tv\:h-20,
+  .hover\:tv\:h-20 {
+    height: 20%;
+  }
+  .tv\:h-25,
+  .hover\:tv\:h-25:hover {
+    height: 25%;
+  }
+  .tv\:h-30,
+  .hover\:tv\:h-30:hover {
+    height: 30%;
+  }
+  .tv\:h-35,
+  .hover\:tv\:h-35:hover {
+    height: 35%;
+  }
+  .tv\:h-40,
+  .hover\:tv\:h-40:hover {
+    height: 40%;
+  }
+  .tv\:h-45,
+  .hover\:tv\:h-45:hover {
+    height: 45%;
+  }
+  .tv\:h-50,
+  .hover\:tv\:h-50:hover {
+    height: 50%;
+  }
+  .tv\:h-55,
+  .hover\:tv\:h-55:hover {
+    height: 55%;
+  }
+  .tv\:h-60,
+  .hover\:tv\:h-60:hover {
+    height: 60%;
+  }
+  .tv\:h-65,
+  .hover\:tv\:h-65:hover {
+    height: 65%;
+  }
+  .tv\:h-70,
+  .hover\:tv\:h-70:hover {
+    height: 70%;
+  }
+  .tv\:h-75,
+  .hover\:tv\:h-75:hover {
+    height: 75%;
+  }
+  .tv\:h-80,
+  .hover\:tv\:h-80:hover {
+    height: 80%;
+  }
+  .tv\:h-85,
+  .hover\:tv\:h-85:hover {
+    height: 85%;
+  }
+  .tv\:h-90,
+  .hover\:tv\:h-90:hover {
+    height: 90%;
+  }
+  .tv\:h-95,
+  .hover\:tv\:h-95:hover {
+    height: 95%;
+  }
+  .tv\:h-100,
+  .hover\:tv\:h-100:hover {
+    height: 100%;
+  }
+}
+```

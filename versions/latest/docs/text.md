@@ -370,6 +370,186 @@ The text-align CSS property sets the horizontal alignment of the inline-level co
 }
 ```
 
+# Tablet Text Align
+
+- .tablet:text-right
+- .hover:tablet:text-right
+- .tablet:text-left
+- .hover:tablet:text-left
+- .tablet:text-center
+- .hover:tablet:text-center
+- .tablet:text-justify
+- .hover:tablet:text-justify
+- .tablet:text-start
+- .hover:tablet:text-start
+- .tablet:text-end
+- .hover:tablet:text-end
+
+```css
+/* tablet < 768px */
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  .tablet\:text-right,
+  .hover\:tablet\:text-right:hover {
+    text-align: right;
+  }
+  .tablet\:text-left,
+  .hover\:tablet\:text-left:hover {
+    text-align: left;
+  }
+  .tablet\:text-center,
+  .hover\:tablet\:text-center:hover {
+    text-align: center;
+  }
+  .tablet\:text-justify,
+  .hover\:tablet\:text-justify:hover {
+    text-align: justify;
+  }
+  .tablet\:text-start,
+  .hover\:tablet\:text-start:hover {
+    text-align: start;
+  }
+  .tablet\:text-end,
+  .hover\:tablet\:text-end:hover {
+    text-align: end;
+  }
+}
+```
+
+# Tablet Pc Text Align
+
+- .tablet-pc:text-right
+- .hover:tablet-pc\text-right
+- .tablet-pc:text-left
+- .hover:tablet-pc:text-left
+- .tablet-pc:text-center
+- .hover:tablet-pc:text-center
+- .tablet-pc:text-justify
+- .hover:tablet-pc:text-justify
+- .tablet-pc:text-start
+- .hover:tablet-pc:text-start
+- .tablet-pc:text-end
+- .hover:tablet-pc:text-end
+
+```css
+/* tablet-pc < 992 */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .tablet-pc\:text-right,
+  .hover\:tablet-pc\:text-right:hover {
+    text-align: right;
+  }
+  .tablet-pc\:text-left,
+  .hover\:tablet-pc\:text-left:hover {
+    text-align: left;
+  }
+  .tablet-pc\:text-center,
+  .hover\:tablet-pc\:text-center:hover {
+    text-align: center;
+  }
+  .tablet-pc\:text-justify,
+  .hover\:tablet-pc\:text-justify:hover {
+    text-align: justify;
+  }
+  .tablet-pc\:text-start,
+  .hover\:tablet-pc\:text-start:hover {
+    text-align: start;
+  }
+  .tablet-pc\:text-end,
+  .hover\:tablet-pc\:text-end:hover {
+    text-align: end;
+  }
+}
+```
+
+# Pc Text Align
+
+- .pc:text-right
+- .hover:pc:text-right
+- .pc:text-left
+- .hover:pc:text-left
+- .pc:text-center
+- .hover:pc:text-center
+- .pc:text-justify
+- .hover:pc:text-justify
+- .pc:text-start
+- .hover:pc:text-start
+- .pc:text-end
+- .hover:pc:text-end
+
+```css
+/* pc < 1200 */
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .pc\:text-right,
+  .hover\:pc\:text-right:hover {
+    text-align: right;
+  }
+  .pc\:text-left,
+  .hover\:pc\:text-left:hover {
+    text-align: left;
+  }
+  .pc\:text-center,
+  .hover\:pc\:text-center:hover {
+    text-align: center;
+  }
+  .pc\:text-justify,
+  .hover\:pc\:text-justify:hover {
+    text-align: justify;
+  }
+  .pc\:text-start,
+  .hover\:pc\:text-start:hover {
+    text-align: start;
+  }
+  .pc\:text-end,
+  .hover\:pc\:text-end:hover {
+    text-align: end;
+  }
+}
+```
+
+# Tv Text Align
+
+- .tv:text-right
+- .hover:tv:text-right
+- .tv:text-left
+- .hover:tv:text-left
+- .tv:text-center
+- .hover:tv:text-center
+- .tv:text-justify
+- .hover:tv:text-justify
+- .tv:text-start
+- .hover:tv:text-start
+- .tv:text-end
+- .hover:tv:text-end
+
+```css
+/* tv > 1200 */
+@media screen and (min-width: 1200px) {
+  .tv\:text-right,
+  .hover\:tv\:text-right:hover {
+    text-align: right;
+  }
+  .tv\:text-left,
+  .hover\:tv\:text-left:hover {
+    text-align: left;
+  }
+  .tv\:text-center,
+  .hover\:tv\:text-center:hover {
+    text-align: center;
+  }
+  .tv\:text-justify,
+  .hover\:tv\:text-justify:hover {
+    text-align: justify;
+  }
+  .tv\:text-start,
+  .hover\:tv\:text-start:hover {
+    text-align: start;
+  }
+  .tv\:text-end,
+  .hover\:tv\:text-end:hover {
+    text-align: end;
+  }
+}
+```
+
 # Line Height
 
 The line-height CSS property sets the height of a line box. It's commonly used to set the distance between lines of text. On block-level elements, it specifies the minimum height of line boxes within the element. On non-replaced inline elements, it specifies the height that is used to calculate line box height.

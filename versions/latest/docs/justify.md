@@ -87,6 +87,162 @@ The CSS justify-content property defines how the browser distributes space betwe
 }
 ```
 
+# Tablet Justify Content
+
+- .tablet:justify-content-start
+- .hover:tablet:justify-content-start
+- .tablet:justify-content-end
+- .hover:tablet:justify-content-end
+- .tablet:justify-content-center
+- .hover:tablet:justify-content-center
+- .tablet:justify-content-between
+- .hover:tablet:justify-content-between
+- .tablet:justify-content-around
+- .hover:tablet:justify-content-around
+
+```css
+/* tablet < 768px */
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  .tablet\:justify-content-start,
+  .hover\:tablet\:justify-content-start:hover {
+    justify-content: flex-start;
+  }
+  .tablet\:justify-content-end,
+  .hover\:tablet\:justify-content-end:hover {
+    justify-content: flex-end;
+  }
+  .tablet\:justify-content-center,
+  .hover\:tablet\:justify-content-center:hover {
+    justify-content: center;
+  }
+  .tablet\:justify-content-between,
+  .hover\:tablet\:justify-content-between:hover {
+    justify-content: space-between;
+  }
+  .tablet\:justify-content-around,
+  .hover\:tablet\:justify-content-around:hover {
+    justify-content: space-around;
+  }
+}
+```
+
+# Tablet Pc Justify Content
+
+- .tablet-pc:justify-content-start
+- .hover:tablet-pc:justify-content-start
+- .tablet-pc:justify-content-end
+- .hover:tablet-pc:justify-content-end
+- .tablet-pc:justify-content-center
+- .hover:tablet-pc:justify-content-center
+- .tablet-pc:justify-content-between
+- .hover:tablet-pc:justify-content-between
+- .tablet-pc:justify-content-around
+- .hover:tablet-pc:justify-content-around
+
+```css
+/* tablet-pc < 992 */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .tablet-pc\:justify-content-start,
+  .hover\:tablet-pc\:justify-content-start:hover {
+    justify-content: flex-start;
+  }
+  .tablet-pc\:justify-content-end,
+  .hover\:tablet-pc\:justify-content-end:hover {
+    justify-content: flex-end;
+  }
+  .tablet-pc\:justify-content-center,
+  .hover\:tablet-pc\:justify-content-center:hover {
+    justify-content: center;
+  }
+  .tablet-pc\:justify-content-between,
+  .hover\:tablet-pc\:justify-content-between:hover {
+    justify-content: space-between;
+  }
+  .tablet-pc\:justify-content-around,
+  .hover\:tablet-pc\:justify-content-around:hover {
+    justify-content: space-around;
+  }
+}
+```
+
+# Pc Justify Content
+
+- .pc:justify-content-start
+- .hover:pc:justify-content-start
+- .pc:justify-content-end
+- .hover:pc:justify-content-end
+- .pc:justify-content-center
+- .hover:pc:justify-content-center
+- .pc:justify-content-between
+- .hover:pc:justify-content-between
+- .pc:justify-content-around
+- .hover:pc:justify-content-around
+
+```css
+/* pc < 1200 */
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  .pc\:justify-content-start,
+  .hover\:pc\:justify-content-start:hover {
+    justify-content: flex-start;
+  }
+  .pc\:justify-content-end,
+  .hover\:pc\:justify-content-end:hover {
+    justify-content: flex-end;
+  }
+  .pc\:justify-content-center,
+  .hover\:pc\:justify-content-center:hover {
+    justify-content: center;
+  }
+  .pc\:justify-content-between,
+  .hover\:pc\:justify-content-between:hover {
+    justify-content: space-between;
+  }
+  .pc\:justify-content-around,
+  .hover\:pc\:justify-content-around:hover {
+    justify-content: space-around;
+  }
+}
+```
+
+# Tv Justify Content
+
+- .tv:justify-content-start
+- .hover:tv:justify-content-start
+- .tv:justify-content-end
+- .hover:tv:justify-content-end
+- .tv:justify-content-center
+- .hover:tv:justify-content-center
+- .tv:justify-content-between
+- .hover:tv:justify-content-between
+- .tv:justify-content-around
+- .hover:tv:justify-content-around
+
+```css
+/* tv > 1200 */
+@media screen and (min-width: 1200px) {
+  .tv\:justify-content-start,
+  .hover\:tv\:justify-content-start:hover {
+    justify-content: flex-start;
+  }
+  .tv\:justify-content-end,
+  .hover\:tv\:justify-content-end:hover {
+    justify-content: flex-end;
+  }
+  .tv\:justify-content-center,
+  .hover\:tv\:justify-content-center:hover {
+    justify-content: center;
+  }
+  .tv\:justify-content-between,
+  .hover\:tv\:justify-content-between:hover {
+    justify-content: space-between;
+  }
+  .tv\:justify-content-around,
+  .hover\:tv\:justify-content-around:hover {
+    justify-content: space-around;
+  }
+}
+```
+
 # Justify Items
 
 The CSS justify-items property defines the default justify-self for all items of the box, giving them all a default way of justifying each box along the appropriate axis.
