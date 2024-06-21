@@ -123,6 +123,69 @@ The visibility CSS property shows or hides an element without changing the layou
 }
 ```
 
+# Tablet Max Visibility
+
+- .tablet-max:v-show
+- .hover:tablet-max:v-show
+- .tablet-max:v-hide
+- .hover:tablet-max:v-hide
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:v-show,
+  .hover\:tablet-max\:v-show:hover {
+    visibility: visible;
+  }
+  .tablet-max\:v-hide,
+  .hover\:tablet-max\:v-hide:hover {
+    visibility: hidden;
+  }
+}
+```
+
+# Tablet Pc Max Visibility
+
+- .tablet-pc-max\:v-show
+- .hover:tablet-pc-max:v-show
+- .tablet-pc-max:v-hide
+- .hover:tablet-pc-max:v-hide
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:v-show,
+  .hover\:tablet-pc-max\:v-show:hover {
+    visibility: visible;
+  }
+  .tablet-pc-max\:v-hide,
+  .hover\:tablet-pc-max\:v-hide:hover {
+    visibility: hidden;
+  }
+}
+```
+
+# Pc Max Visibility
+
+- .pc-max:v-show
+- .hover:pc-max:v-show
+- .pc-max:v-hide
+- .hover:pc-max:v-hide
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:v-show,
+  .hover\:pc-max\:v-show:hover {
+    visibility: visible;
+  }
+  .pc-max\:v-hide,
+  .hover\:pc-max\:v-hide:hover {
+    visibility: hidden;
+  }
+}
+```
+
 ### example
 
 ```html

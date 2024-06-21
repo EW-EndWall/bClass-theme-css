@@ -195,6 +195,105 @@ The flex-grow CSS property sets the flex grow factor, which specifies how much o
 }
 ```
 
+# Tablet Max Flex Glow
+
+- .tablet-max:flex-grow-0
+- .hover:tablet-max:flex-grow-0
+- .tablet-max:flex-grow-1
+- .hover:tablet-max:flex-grow-1
+- .tablet-max:flex-grow-2
+- .hover:tablet-max:flex-grow-2
+- .tablet-max:flex-grow-3
+- .hover:tablet-max:flex-grow-3
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:flex-grow-0,
+  .hover\:tablet-max\:flex-grow-0:hover {
+    flex-grow: 0;
+  }
+  .tablet-max\:flex-grow-1,
+  .hover\:tablet-max\:flex-grow-1:hover {
+    flex-grow: 1;
+  }
+  .tablet-max\:flex-grow-2,
+  .hover\:tablet-max\:flex-grow-2:hover {
+    flex-grow: 2;
+  }
+  .tablet-max\:flex-grow-3,
+  .hover\:tablet-max\:flex-grow-3:hover {
+    flex-grow: 3;
+  }
+}
+```
+
+# Tablet Pc Max Flex Glow
+
+- .tablet-pc-max:flex-grow-0
+- .hover:tablet-pc-max:flex-grow-0
+- .tablet-pc-max:flex-grow-1
+- .hover:tablet-pc-max:flex-grow-1
+- .tablet-pc-max:flex-grow-2
+- .hover:tablet-pc-max:flex-grow-2
+- .tablet-pc-max:flex-grow-3
+- .hover:tablet-pc-max:flex-grow-3
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:flex-grow-0,
+  .hover\:tablet-pc-max\:flex-grow-0:hover {
+    flex-grow: 0;
+  }
+  .tablet-pc-max\:flex-grow-1,
+  .hover\:tablet-pc-max\:flex-grow-1:hover {
+    flex-grow: 1;
+  }
+  .tablet-pc-max\:flex-grow-2,
+  .hover\:tablet-pc-max\:flex-grow-2:hover {
+    flex-grow: 2;
+  }
+  .tablet-pc-max\:flex-grow-3,
+  .hover\:tablet-pc-max\:flex-grow-3:hover {
+    flex-grow: 3;
+  }
+}
+```
+
+# Pc Max Flex Glow
+
+- .pc-max:flex-grow-0
+- .hover:pc-max:flex-grow-0
+- .pc-max:flex-grow-1
+- .hover:pc-max:flex-grow-1
+- .pc-max:flex-grow-2
+- .hover:pc-max:flex-grow-2
+- .pc-max:flex-grow-3
+- .hover:pc-max:flex-grow-3
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:flex-grow-0,
+  .hover\:pc-max\:flex-grow-0:hover {
+    flex-grow: 0;
+  }
+  .pc-max\:flex-grow-1,
+  .hover\:pc-max\:flex-grow-1:hover {
+    flex-grow: 1;
+  }
+  .pc-max\:flex-grow-2,
+  .hover\:pc-max\:flex-grow-2:hover {
+    flex-grow: 2;
+  }
+  .pc-max\:flex-grow-3,
+  .hover\:pc-max\:flex-grow-3:hover {
+    flex-grow: 3;
+  }
+}
+```
+
 # Flex Direction
 
 The flex-direction CSS property sets how flex items are placed in the flex container defining the main axis and the direction (normal or reversed).
@@ -392,6 +491,105 @@ The flex-direction CSS property sets how flex items are placed in the flex conta
 }
 ```
 
+# Tablet Max Flex Direction
+
+- .tablet-max:flex-row
+- .hover:tablet-max:flex-row
+- .tablet-max:flex-row-reverse
+- .hover:tablet-max:flex-row-reverse
+- .tablet-max:flex-col
+- .hover:tablet-max:flex-col
+- .tablet-max:flex-col-reverse
+- .hover:tablet-max:flex-col-reverse
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:flex-row,
+  .hover\:tablet-max\:flex-row:hover {
+    flex-direction: row;
+  }
+  .tablet-max\:flex-row-reverse,
+  .hover\:tablet-max\:flex-row-reverse:hover {
+    flex-direction: row-reverse;
+  }
+  .tablet-max\:flex-col,
+  .hover\:tablet-max\:flex-col:hover {
+    flex-direction: column;
+  }
+  .tablet-max\:flex-col-reverse,
+  .hover\:tablet-max\:flex-col-reverse:hover {
+    flex-direction: column-reverse;
+  }
+}
+```
+
+# Tablet Pc Max Flex Direction
+
+- .tablet-pc-max:flex-row
+- .hover:tablet-pc-max:flex-row
+- .tablet-pc-max:flex-row-reverse
+- .hover:tablet-pc-max:flex-row-reverse
+- .tablet-pc-max:flex-col
+- .hover:tablet-pc-max:flex-col
+- .tablet-pc-max:flex-col-reverse
+- .hover:tablet-pc-max:flex-col-reverse
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:flex-row,
+  .hover\:tablet-pc-max\:flex-row:hover {
+    flex-direction: row;
+  }
+  .tablet-pc-max\:flex-row-reverse,
+  .hover\:tablet-pc-max\:flex-row-reverse:hover {
+    flex-direction: row-reverse;
+  }
+  .tablet-pc-max\:flex-col,
+  .hover\:tablet-pc-max\:flex-col:hover {
+    flex-direction: column;
+  }
+  .tablet-pc-max\:flex-col-reverse,
+  .hover\:tablet-pc-max\:flex-col-reverse:hover {
+    flex-direction: column-reverse;
+  }
+}
+```
+
+# Pc Max Flex Direction
+
+- .pc-max:flex-row
+- .hover:pc-max:flex-row
+- .pc-max:flex-row-reverse
+- .hover:pc-max:flex-row-reverse
+- .pc-max:flex-col
+- .hover:pc-max:flex-col
+- .pc-max:flex-col-reverse
+- .hover:pc-max:flex-col-reverse
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:flex-row,
+  .hover\:pc-max\:flex-row:hover {
+    flex-direction: row;
+  }
+  .pc-max\:flex-row-reverse,
+  .hover\:pc-max\:flex-row-reverse:hover {
+    flex-direction: row-reverse;
+  }
+  .pc-max\:flex-col,
+  .hover\:pc-max\:flex-col:hover {
+    flex-direction: column;
+  }
+  .pc-max\:flex-col-reverse,
+  .hover\:pc-max\:flex-col-reverse:hover {
+    flex-direction: column-reverse;
+  }
+}
+```
+
 # Flex Wrap
 
 The flex-wrap CSS property sets whether flex items are forced onto one line or can wrap onto multiple lines. If wrapping is allowed, it sets the direction that lines are stacked.
@@ -548,6 +746,87 @@ The flex-wrap CSS property sets whether flex items are forced onto one line or c
   }
   .tv\:flex-wrap-reverse,
   .hover\:tv\:flex-wrap-reverse:hover {
+    flex-wrap: wrap-reverse;
+  }
+}
+```
+
+# Tablet Max Flex Wrap
+
+- .tablet-max:flex-nowrap
+- .hover:tablet-max:flex-nowrap
+- .tablet-max:flex-wrap
+- .hover:tablet-max:flex-wrap
+- .tablet-max:flex-wrap-reverse
+- .hover:tablet-max:flex-wrap-reverse
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:flex-nowrap,
+  .hover\:tablet-max\:flex-nowrap:hover {
+    flex-wrap: nowrap;
+  }
+  .tablet-max\:flex-wrap,
+  .hover\:tablet-max\:flex-wrap:hover {
+    flex-wrap: wrap;
+  }
+  .tablet-max\:flex-wrap-reverse,
+  .hover\:tablet-max\:flex-wrap-reverse:hover {
+    flex-wrap: wrap-reverse;
+  }
+}
+```
+
+# Tablet Pc Max Flex Wrap
+
+- .tablet-pc-max:flex-nowrap
+- .hover:tablet-pc-max:flex-nowrap
+- .tablet-pc-max:flex-wrap
+- .hover:tablet-pc-max:flex-wrap
+- .tablet-pc-max:flex-wrap-reverse
+- .hover:tablet-pc-max:flex-wrap-reverse
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:flex-nowrap,
+  .hover\:tablet-pc-max\:flex-nowrap:hover {
+    flex-wrap: nowrap;
+  }
+  .tablet-pc-max\:flex-wrap,
+  .hover\:tablet-pc-max\:flex-wrap:hover {
+    flex-wrap: wrap;
+  }
+  .tablet-pc-max\:flex-wrap-reverse,
+  .hover\:tablet-pc-max\:flex-wrap-reverse:hover {
+    flex-wrap: wrap-reverse;
+  }
+}
+```
+
+# Pc Max Flex Wrap
+
+- .pc-max:flex-nowrap
+- .hover:pc-max:flex-nowrap
+- .pc-max:flex-wrap
+- .hover:pc-max:flex-wrap
+- .pc-max:flex-wrap-reverse
+- .hover:pc-max:flex-wrap-reverse
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:flex-nowrap,
+  .hover\:pc-max\:flex-nowrap:hover {
+    flex-wrap: nowrap;
+  }
+  .pc-max\:flex-wrap,
+  .hover\:pc-max\:flex-wrap:hover {
+    flex-wrap: wrap;
+  }
+  .pc-max\:flex-wrap-reverse,
+  .hover\:pc-max\:flex-wrap-reverse:hover {
     flex-wrap: wrap-reverse;
   }
 }

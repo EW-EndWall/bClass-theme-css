@@ -243,6 +243,123 @@ The CSS justify-content property defines how the browser distributes space betwe
 }
 ```
 
+# Tablet Max Justify Content
+
+- .tablet-max:justify-content-start
+- .hover:tablet-max:justify-content-start
+- .tablet-max:justify-content-end
+- .hover:tablet-max:justify-content-end
+- .tablet-max:justify-content-center
+- .hover:tablet-max:justify-content-center
+- .tablet-max:justify-content-between
+- .hover:tablet-max:justify-content-between
+- .tablet-max:justify-content-around
+- .hover:tablet-max:justify-content-around
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:justify-content-start,
+  .hover\:tablet-max\:justify-content-start:hover {
+    justify-content: flex-start;
+  }
+  .tablet-max\:justify-content-end,
+  .hover\:tablet-max\:justify-content-end:hover {
+    justify-content: flex-end;
+  }
+  .tablet-max\:justify-content-center,
+  .hover\:tablet-max\:justify-content-center:hover {
+    justify-content: center;
+  }
+  .tablet-max\:justify-content-between,
+  .hover\:tablet-max\:justify-content-between:hover {
+    justify-content: space-between;
+  }
+  .tablet-max\:justify-content-around,
+  .hover\:tablet-max\:justify-content-around:hover {
+    justify-content: space-around;
+  }
+}
+```
+
+# Tablet Pc Max Justify Content
+
+- .tablet-pc-max:justify-content-start
+- .hover:tablet-pc-max:justify-content-start
+- .tablet-pc-max:justify-content-end
+- .hover:tablet-pc-max:justify-content-end
+- .tablet-pc-max:justify-content-center
+- .hover:tablet-pc-max:justify-content-center
+- .tablet-pc-max:justify-content-between
+- .hover:tablet-pc-max:justify-content-between
+- .tablet-pc-max:justify-content-around
+- .hover:tablet-pc-max:justify-content-around
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:justify-content-start,
+  .hover\:tablet-pc-max\:justify-content-start:hover {
+    justify-content: flex-start;
+  }
+  .tablet-pc-max\:justify-content-end,
+  .hover\:tablet-pc-max\:justify-content-end:hover {
+    justify-content: flex-end;
+  }
+  .tablet-pc-max\:justify-content-center,
+  .hover\:tablet-pc-max\:justify-content-center:hover {
+    justify-content: center;
+  }
+  .tablet-pc-max\:justify-content-between,
+  .hover\:tablet-pc-max\:justify-content-between:hover {
+    justify-content: space-between;
+  }
+  .tablet-pc-max\:justify-content-around,
+  .hover\:tablet-pc-max\:justify-content-around:hover {
+    justify-content: space-around;
+  }
+}
+```
+
+# Pc Max Justify Content
+
+- .pc-max:justify-content-start
+- .hover:pc-max:justify-content-start
+- .pc-max:justify-content-end
+- .hover:pc-max:justify-content-end
+- .pc-max:justify-content-center
+- .hover:pc-max:justify-content-center
+- .pc-max:justify-content-between
+- .hover:pc-max:justify-content-between
+- .pc-max:justify-content-around
+- .hover:pc-max:justify-content-around
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:justify-content-start,
+  .hover\:pc-max\:justify-content-start:hover {
+    justify-content: flex-start;
+  }
+  .pc-max\:justify-content-end,
+  .hover\:pc-max\:justify-content-end:hover {
+    justify-content: flex-end;
+  }
+  .pc-max\:justify-content-center,
+  .hover\:pc-max\:justify-content-center:hover {
+    justify-content: center;
+  }
+  .pc-max\:justify-content-between,
+  .hover\:pc-max\:justify-content-between:hover {
+    justify-content: space-between;
+  }
+  .pc-max\:justify-content-around,
+  .hover\:pc-max\:justify-content-around:hover {
+    justify-content: space-around;
+  }
+}
+```
+
 # Justify Items
 
 The CSS justify-items property defines the default justify-self for all items of the box, giving them all a default way of justifying each box along the appropriate axis.

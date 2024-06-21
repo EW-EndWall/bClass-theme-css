@@ -862,3 +862,408 @@ The width CSS property sets an element's width. By default, it sets the width of
   }
 }
 ```
+
+# Tablet Max Width
+
+- .tablet-max:w-auto
+- .hover:tablet-max:w-auto
+- .tablet-max:w-5
+- .hover:tablet-max:w-5
+- .tablet-max:w-10
+- .hover:tablet-max:w-10
+- .tablet-max:w-15
+- .hover:tablet-max:w-15
+- .tablet-max:w-20
+- .hover:tablet-max:w-20
+- .tablet-max:w-25
+- .hover:tablet-max:w-25
+- .tablet-max:w-30
+- .hover:tablet-max:w-30
+- .tablet-max:w-35
+- .hover:tablet-max:w-35
+- .tablet-max:w-40
+- .hover:tablet-max:w-40
+- .tablet-max:w-45
+- .hover:tablet-max:w-45
+- .tablet-max:w-50
+- .hover:tablet-max:w-50
+- .tablet-max:w-55
+- .hover:tablet-max:w-55
+- .tablet-max:w-60
+- .hover:tablet-max:w-60
+- .tablet-max:w-65
+- .hover:tablet-max:w-65
+- .tablet-max:w-70
+- .hover:tablet-max:w-70
+- .tablet-max:w-75
+- .hover:tablet-max:w-75
+- .tablet-max:w-80
+- .hover:tablet-max:w-80
+- .tablet-max:w-85
+- .hover:tablet-max:w-85
+- .tablet-max:w-90
+- .hover:tablet-max:w-90
+- .tablet-max:w-95
+- .hover:tablet-max:w-95
+- .tablet-max:w-100
+- .hover:tablet-max:w-100
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:w-auto,
+  .hover\:tablet-max\:w-auto:hover {
+    width: auto;
+  }
+  .tablet-max\:w-5,
+  .hover\:tablet-max\:w-5:hover {
+    width: 5%;
+  }
+  .tablet-max\:w-10,
+  .hover\:tablet-max\:w-10:hover {
+    width: 10%;
+  }
+  .tablet-max\:w-15,
+  .hover\:tablet-max\:w-15:hover {
+    width: 15%;
+  }
+  .tablet-max\:w-20,
+  .hover\:tablet-max\:w-20:hover {
+    width: 20%;
+  }
+  .tablet-max\:w-25,
+  .hover\:tablet-max\:w-25:hover {
+    width: 25%;
+  }
+  .tablet-max\:w-30,
+  .hover\:tablet-max\:w-30:hover {
+    width: 30%;
+  }
+  .tablet-max\:w-35,
+  .hover\:tablet-max\:w-35:hover {
+    width: 35%;
+  }
+  .tablet-max\:w-40,
+  .hover\:tablet-max\:w-40:hover {
+    width: 40%;
+  }
+  .tablet-max\:w-45,
+  .hover\:tablet-max\:w-45:hover {
+    width: 45%;
+  }
+  .tablet-max\:w-50,
+  .hover\:tablet-max\:w-50:hover {
+    width: 50%;
+  }
+  .tablet-max\:w-55,
+  .hover\:tablet-max\:w-55:hover {
+    width: 55%;
+  }
+  .tablet-max\:w-60,
+  .hover\:tablet-max\:w-60:hover {
+    width: 60%;
+  }
+  .tablet-max\:w-65,
+  .hover\:tablet-max\:w-65:hover {
+    width: 65%;
+  }
+  .tablet-max\:w-70,
+  .hover\:tablet-max\:w-70:hover {
+    width: 70%;
+  }
+  .tablet-max\:w-75,
+  .hover\:tablet-max\:w-75:hover {
+    width: 75%;
+  }
+  .tablet-max\:w-80,
+  .hover\:tablet-max\:w-80:hover {
+    width: 80%;
+  }
+  .tablet-max\:w-85,
+  .hover\:tablet-max\:w-85:hover {
+    width: 85%;
+  }
+  .tablet-max\:w-90,
+  .hover\:tablet-max\:w-90:hover {
+    width: 90%;
+  }
+  .tablet-max\:w-95,
+  .hover\:tablet-max\:w-95:hover {
+    width: 95%;
+  }
+  .tablet-max\:w-100,
+  .hover\:tablet-max\:w-100:hover {
+    width: 100%;
+  }
+}
+```
+
+# Tablet Pc Max Width
+
+- .tablet-pc-max:w-auto
+- .hover:tablet-pc-max:w-auto
+- .tablet-pc-max:w-5
+- .hover:tablet-pc-max:w-5
+- .tablet-pc-max:w-10
+- .hover:tablet-pc-max:w-10
+- .tablet-pc-max:w-15
+- .hover:tablet-pc-max:w-15
+- .tablet-pc-max:w-20
+- .hover:tablet-pc-max:w-20
+- .tablet-pc-max:w-25
+- .hover:tablet-pc-max:w-25
+- .tablet-pc-max:w-30
+- .hover:tablet-pc-max:w-30
+- .tablet-pc-max:w-35
+- .hover:tablet-pc-max:w-35
+- .tablet-pc-max:w-40
+- .hover:tablet-pc-max:w-40
+- .tablet-pc-max:w-45
+- .hover:tablet-pc-max:w-45
+- .tablet-pc-max:w-50
+- .hover:tablet-pc-max:w-50
+- .tablet-pc-max:w-55
+- .hover:tablet-pc-max:w-55
+- .tablet-pc-max:w-60
+- .hover:tablet-pc-max:w-60
+- .tablet-pc-max:w-65
+- .hover:tablet-pc-max:w-65
+- .tablet-pc-max:w-70
+- .hover:tablet-pc-max:w-70
+- .tablet-pc-max:w-75
+- .hover:tablet-pc-max:w-75
+- .tablet-pc-max:w-80
+- .hover:tablet-pc-max:w-80
+- .tablet-pc-max:w-85
+- .hover:tablet-pc-max:w-85
+- .tablet-pc-max:w-90
+- .hover:tablet-pc-max:w-90
+- .tablet-pc-max:w-95
+- .hover:tablet-pc-max:w-95
+- .tablet-pc-max:w-100
+- .hover:tablet-pc-max:w-100
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:w-auto,
+  .hover\:tablet-pc-max\:w-auto:hover {
+    width: auto;
+  }
+  .tablet-pc-max\:w-5,
+  .hover\:tablet-pc-max\:w-5:hover {
+    width: 5%;
+  }
+  .tablet-pc-max\:w-10,
+  .hover\:tablet-pc-max\:w-10:hover {
+    width: 10%;
+  }
+  .tablet-pc-max\:w-15,
+  .hover\:tablet-pc-max\:w-15:hover {
+    width: 15%;
+  }
+  .tablet-pc-max\:w-20,
+  .hover\:tablet-pc-max\:w-20:hover {
+    width: 20%;
+  }
+  .tablet-pc-max\:w-25,
+  .hover\:tablet-pc-max\:w-25:hover {
+    width: 25%;
+  }
+  .tablet-pc-max\:w-30,
+  .hover\:tablet-pc-max\:w-30:hover {
+    width: 30%;
+  }
+  .tablet-pc-max\:w-35,
+  .hover\:tablet-pc-max\:w-35:hover {
+    width: 35%;
+  }
+  .tablet-pc-max\:w-40,
+  .hover\:tablet-pc-max\:w-40:hover {
+    width: 40%;
+  }
+  .tablet-pc-max\:w-45,
+  .hover\:tablet-pc-max\:w-45:hover {
+    width: 45%;
+  }
+  .tablet-pc-max\:w-50,
+  .hover\:tablet-pc-max\:w-50:hover {
+    width: 50%;
+  }
+  .tablet-pc-max\:w-55,
+  .hover\:tablet-pc-max\:w-55:hover {
+    width: 55%;
+  }
+  .tablet-pc-max\:w-60,
+  .hover\:tablet-pc-max\:w-60:hover {
+    width: 60%;
+  }
+  .tablet-pc-max\:w-65,
+  .hover\:tablet-pc-max\:w-65:hover {
+    width: 65%;
+  }
+  .tablet-pc-max\:w-70,
+  .hover\:tablet-pc-max\:w-70:hover {
+    width: 70%;
+  }
+  .tablet-pc-max\:w-75,
+  .hover\:tablet-pc-max\:w-75:hover {
+    width: 75%;
+  }
+  .tablet-pc-max\:w-80,
+  .hover\:tablet-pc-max\:w-80:hover {
+    width: 80%;
+  }
+  .tablet-pc-max\:w-85,
+  .hover\:tablet-pc-max\:w-85:hover {
+    width: 85%;
+  }
+  .tablet-pc-max\:w-90,
+  .hover\:tablet-pc-max\:w-90:hover {
+    width: 90%;
+  }
+  .tablet-pc-max\:w-95,
+  .hover\:tablet-pc-max\:w-95:hover {
+    width: 95%;
+  }
+  .tablet-pc-max\:w-100,
+  .hover\:tablet-pc-max\:w-100:hover {
+    width: 100%;
+  }
+}
+```
+
+# Pc Max Width
+
+- .pc-max:w-auto
+- .hover:pc-max:w-auto
+- .pc-max:w-5
+- .hover:pc-max:w-5
+- .pc-max:w-10
+- .hover:pc-max:w-10
+- .pc-max:w-15
+- .hover:pc-max:w-15
+- .pc-max:w-20
+- .hover:pc-max:w-20
+- .pc-max:w-25
+- .hover:pc-max:w-25
+- .pc-max:w-30
+- .hover:pc-max:w-30
+- .pc-max:w-35
+- .hover:pc-max:w-35
+- .pc-max:w-40
+- .hover:pc-max\:w-40
+- .pc-max:w-45
+- .hover:pc-max:w-45
+- .pc-max:w-50
+- .hover:pc-max:w-50
+- .pc-max:w-55
+- .hover:pc-max:w-55
+- .pc-max:w-60
+- .hover:pc-max:w-60
+- .pc-max:w-65
+- .hover:pc-max:w-65
+- .pc-max:w-70
+- .hover:pc-max:w-70
+- .pc-max:w-75
+- .hover:pc-max:w-75
+- .pc-max:w-80
+- .hover:pc-max:w-80
+- .pc-max:w-85
+- .hover:pc-max:w-85
+- .pc-max:w-90
+- .hover:pc-max:w-90
+- .pc-max:w-95
+- .hover:pc-max:w-95
+- .pc-max:w-100
+- .hover:pc-max:w-100
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:w-auto,
+  .hover\:pc-max\:w-auto:hover {
+    width: auto;
+  }
+  .pc-max\:w-5,
+  .hover\:pc-max\:w-5:hover {
+    width: 5%;
+  }
+  .pc-max\:w-10,
+  .hover\:pc-max\:w-10:hover {
+    width: 10%;
+  }
+  .pc-max\:w-15,
+  .hover\:pc-max\:w-15:hover {
+    width: 15%;
+  }
+  .pc-max\:w-20,
+  .hover\:pc-max\:w-20:hover {
+    width: 20%;
+  }
+  .pc-max\:w-25,
+  .hover\:pc-max\:w-25:hover {
+    width: 25%;
+  }
+  .pc-max\:w-30,
+  .hover\:pc-max\:w-30:hover {
+    width: 30%;
+  }
+  .pc-max\:w-35,
+  .hover\:pc-max\:w-35:hover {
+    width: 35%;
+  }
+  .pc-max\:w-40,
+  .hover\:pc-max\:w-40:hover {
+    width: 40%;
+  }
+  .pc-max\:w-45,
+  .hover\:pc-max\:w-45:hover {
+    width: 45%;
+  }
+  .pc-max\:w-50,
+  .hover\:pc-max\:w-50:hover {
+    width: 50%;
+  }
+  .pc-max\:w-55,
+  .hover\:pc-max\:w-55:hover {
+    width: 55%;
+  }
+  .pc-max\:w-60,
+  .hover\:pc-max\:w-60:hover {
+    width: 60%;
+  }
+  .pc-max\:w-65,
+  .hover\:pc-max\:w-65:hover {
+    width: 65%;
+  }
+  .pc-max\:w-70,
+  .hover\:pc-max\:w-70:hover {
+    width: 70%;
+  }
+  .pc-max\:w-75,
+  .hover\:pc-max\:w-75:hover {
+    width: 75%;
+  }
+  .pc-max\:w-80,
+  .hover\:pc-max\:w-80:hover {
+    width: 80%;
+  }
+  .pc-max\:w-85,
+  .hover\:pc-max\:w-85:hover {
+    width: 85%;
+  }
+  .pc-max\:w-90,
+  .hover\:pc-max\:w-90:hover {
+    width: 90%;
+  }
+  .pc-max\:w-95,
+  .hover\:pc-max\:w-95:hover {
+    width: 95%;
+  }
+  .pc-max\:w-100,
+  .hover\:pc-max\:w-100:hover {
+    width: 100%;
+  }
+}
+```

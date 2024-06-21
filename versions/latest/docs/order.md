@@ -519,6 +519,267 @@ The order CSS property sets the order to lay out an item in a flex or grid conta
 }
 ```
 
+# Tablet Max Order
+
+- .tablet-max:order-first
+- .hover:tablet-max:order-first
+- .tablet-max:order-last
+- .hover:tablet-max:order-last
+- .tablet-max:order-0
+- .hover:tablet-max:order-0
+- .tablet-max:order-1
+- .hover:tablet-max:order-1
+- .tablet-max:order-2
+- .hover:tablet-max:order-2
+- .tablet-max:order-3
+- .hover:tablet-max:order-3
+- .tablet-max:order-4
+- .hover:tablet-max:order-4
+- .tablet-max:order-5
+- .hover:tablet-max:order-5
+- .tablet-max:-order-1
+- .hover:tablet-max:-order-1
+- .tablet-max:-order-2
+- .hover:tablet-max:-order-2
+- .tablet-max:-order-3
+- .hover:tablet-max:-order-3
+- .tablet-max:-order-4
+- .hover:tablet-max:-order-4
+- .tablet-max:-order-5
+- .hover:tablet-max:-order-5
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:order-first,
+  .hover\:tablet-max\:order-first:hover {
+    order: -9999;
+  }
+  .tablet-max\:order-last,
+  .hover\:tablet-max\:order-last:hover {
+    order: 9999;
+  }
+  .tablet-max\:order-0,
+  .hover\:tablet-max\:order-0:hover {
+    order: 0;
+  }
+  .tablet-max\:order-1,
+  .hover\:tablet-max\:order-1:hover {
+    order: 1;
+  }
+  .tablet-max\:order-2,
+  .hover\:tablet-max\:order-2:hover {
+    order: 2;
+  }
+  .tablet-max\:order-3,
+  .hover\:tablet-max\:order-3:hover {
+    order: 3;
+  }
+  .tablet-max\:order-4,
+  .hover\:tablet-max\:order-4:hover {
+    order: 4;
+  }
+  .tablet-max\:order-5,
+  .hover\:tablet-max\:order-5:hover {
+    order: 5;
+  }
+  .tablet-max\:-order-1,
+  .hover\:tablet-max\:-order-1:hover {
+    order: -1;
+  }
+  .tablet-max\:-order-2,
+  .hover\:tablet-max\:-order-2:hover {
+    order: -2;
+  }
+  .tablet-max\:-order-3,
+  .hover\:tablet-max\:-order-3:hover {
+    order: -3;
+  }
+  .tablet-max\:-order-4,
+  .hover\:tablet-max\:-order-4:hover {
+    order: -4;
+  }
+  .tablet-max\:-order-5,
+  .hover\:tablet-max\:-order-5:hover {
+    order: -5;
+  }
+}
+```
+
+# Tablet Pc Max Order
+
+- .tablet-pc-max:order-first
+- .hover:tablet-pc-max:order-first
+- .tablet-pc-max:order-last
+- .hover:tablet-pc-max:order-last
+- .tablet-pc-max:order-0
+- .hover:tablet-pc-max:order-0
+- .tablet-pc-max:order-1
+- .hover:tablet-pc-max:order-1
+- .tablet-pc-max:order-2
+- .hover:tablet-pc-max:order-2
+- .tablet-pc-max:order-3
+- .hover:tablet-pc-max:order-3
+- .tablet-pc-max:order-4
+- .hover:tablet-pc-max:order-4
+- .tablet-pc-max:order-5
+- .hover:tablet-pc-max:order-5
+- .tablet-pc-max:-order-1
+- .hover:tablet-pc-max:-order-1
+- .tablet-pc-max:-order-2
+- .hover:tablet-pc-max:-order-2
+- .tablet-pc-max:-order-3
+- .hover:tablet-pc-max:-order-3
+- .tablet-pc-max:-order-4
+- .hover:tablet-pc-max:-order-4
+- .tablet-pc-max:-order-5
+- .hover:tablet-pc-max:-order-5
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:order-first,
+  .hover\:tablet-pc-max\:order-first:hover {
+    order: -9999;
+  }
+  .tablet-pc-max\:order-last,
+  .hover\:tablet-pc-max\:order-last:hover {
+    order: 9999;
+  }
+  .tablet-pc-max\:order-0,
+  .hover\:tablet-pc-max\:order-0:hover {
+    order: 0;
+  }
+  .tablet-pc-max\:order-1,
+  .hover\:tablet-pc-max\:order-1:hover {
+    order: 1;
+  }
+  .tablet-pc-max\:order-2,
+  .hover\:tablet-pc-max\:order-2:hover {
+    order: 2;
+  }
+  .tablet-pc-max\:order-3,
+  .hover\:tablet-pc-max\:order-3:hover {
+    order: 3;
+  }
+  .tablet-pc-max\:order-4,
+  .hover\:tablet-pc-max\:order-4:hover {
+    order: 4;
+  }
+  .tablet-pc-max\:order-5,
+  .hover\:tablet-pc-max\:order-5:hover {
+    order: 5;
+  }
+  .tablet-pc-max\:-order-1,
+  .hover\:tablet-pc-max\:-order-1:hover {
+    order: -1;
+  }
+  .tablet-pc-max\:-order-2,
+  .hover\:tablet-pc-max\:-order-2:hover {
+    order: -2;
+  }
+  .tablet-pc-max\:-order-3,
+  .hover\:tablet-pc-max\:-order-3:hover {
+    order: -3;
+  }
+  .tablet-pc-max\:-order-4,
+  .hover\:tablet-pc-max\:-order-4:hover {
+    order: -4;
+  }
+  .tablet-pc-max\:-order-5,
+  .hover\:tablet-pc-max\:-order-5:hover {
+    order: -5;
+  }
+}
+```
+
+# Pc Max Order
+
+- .pc-max:order-first
+- .hover:pc-max:order-first
+- .pc-max:order-last
+- .hover:pc-max:order-last
+- .pc-max:order-0
+- .hover:pc-max:order-0
+- .pc-max:order-1
+- .hover:pc-max:order-1
+- .pc-max:order-2
+- .hover:pc-max:order-2
+- .pc-max:order-3
+- .hover:pc-max:order-3
+- .pc-max:order-4
+- .hover:pc-max:order-4
+- .pc-max:order-5
+- .hover:pc-max:order-5
+- .pc-max:-order-1
+- .hover:pc-max:-order-1
+- .pc-max:-order-2
+- .hover:pc-max:-order-2
+- .pc-max:-order-3
+- .hover:pc-max:-order-3
+- .pc-max:-order-4
+- .hover:pc-max:-order-4
+- .pc-max:-order-5
+- .hover:pc-max:-order-5
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:order-first,
+  .hover\:pc-max\:order-first:hover {
+    order: -9999;
+  }
+  .pc-max\:order-last,
+  .hover\:pc-max\:order-last:hover {
+    order: 9999;
+  }
+  .pc-max\:order-0,
+  .hover\:pc-max\:order-0:hover {
+    order: 0;
+  }
+  .pc-max\:order-1,
+  .hover\:pc-max\:order-1:hover {
+    order: 1;
+  }
+  .pc-max\:order-2,
+  .hover\:pc-max\:order-2:hover {
+    order: 2;
+  }
+  .pc-max\:order-3,
+  .hover\:pc-max\:order-3:hover {
+    order: 3;
+  }
+  .pc-max\:order-4,
+  .hover\:pc-max\:order-4:hover {
+    order: 4;
+  }
+  .pc-max\:order-5,
+  .hover\:pc-max\:order-5:hover {
+    order: 5;
+  }
+  .pc-max\:-order-1,
+  .hover\:pc-max\:-order-1:hover {
+    order: -1;
+  }
+  .pc-max\:-order-2,
+  .hover\:pc-max\:-order-2:hover {
+    order: -2;
+  }
+  .pc-max\:-order-3,
+  .hover\:pc-max\:-order-3:hover {
+    order: -3;
+  }
+  .pc-max\:-order-4,
+  .hover\:pc-max\:-order-4:hover {
+    order: -4;
+  }
+  .pc-max\:-order-5,
+  .hover\:pc-max\:-order-5:hover {
+    order: -5;
+  }
+}
+```
+
 ### example
 
 ```html

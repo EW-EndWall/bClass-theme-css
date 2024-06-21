@@ -231,6 +231,123 @@ The float CSS property places an element on the left or right side of its contai
 }
 ```
 
+# Tablet Max Float
+
+- .tablet-max:float-start
+- .hover:tablet-max:float-start
+- .tablet-max:float-end
+- .hover:tablet-max:float-end
+- .tablet-max:float-left
+- .hover:tablet-max:float-left
+- .tablet-max:float-right
+- .hover:tablet-max:float-right
+- .tablet-max:float-none
+- .hover:tablet-max:float-none
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:float-start,
+  .hover\:tablet-max\:float-start:hover {
+    float: inline-start;
+  }
+  .tablet-max\:float-end,
+  .hover\:tablet-max\:float-end:hover {
+    float: inline-end;
+  }
+  .tablet-max\:float-left,
+  .hover\:tablet-max\:float-left:hover {
+    float: left;
+  }
+  .tablet-max\:float-right,
+  .hover\:tablet-max\:float-right:hover {
+    float: right;
+  }
+  .tablet-max\:float-none,
+  .hover\:tablet-max\:float-none:hover {
+    float: none;
+  }
+}
+```
+
+# Tablet Pc Max Float
+
+- .tablet-pc-max:float-start
+- .hover:tablet-pc-max:float-start
+- .tablet-pc-max:float-end
+- .hover:tablet-pc-max:float-end
+- .tablet-pc-max:float-left
+- .hover:tablet-pc-max:float-left
+- .tablet-pc-max:float-right
+- .hover:tablet-pc-max:float-right
+- .tablet-pc-max:float-none
+- .hover:tablet-pc-max:float-none
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:float-start,
+  .hover\:tablet-pc-max\:float-start:hover {
+    float: inline-start;
+  }
+  .tablet-pc-max\:float-end,
+  .hover\:tablet-pc-max\:float-end:hover {
+    float: inline-end;
+  }
+  .tablet-pc-max\:float-left,
+  .hover\:tablet-pc-max\:float-left:hover {
+    float: left;
+  }
+  .tablet-pc-max\:float-right,
+  .hover\:tablet-pc-max\:float-right:hover {
+    float: right;
+  }
+  .tablet-pc-max\:float-none,
+  .hover\:tablet-pc-max\:float-none:hover {
+    float: none;
+  }
+}
+```
+
+# Pc Max Float
+
+- .pc-max:float-start
+- .hover:pc-max:float-start
+- .pc-max:float-end
+- .hover:pc-max:float-end
+- .pc-max:float-left
+- .hover:pc-max:float-left
+- .pc-max:float-right
+- .hover:pc-max:float-right
+- .pc-max:float-none
+- .hover:pc-max:float-none
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:float-start,
+  .hover\:pc-max\:float-start:hover {
+    float: inline-start;
+  }
+  .pc-max\:float-end,
+  .hover\:pc-max\:float-end:hover {
+    float: inline-end;
+  }
+  .pc-max\:float-left,
+  .hover\:pc-max\:float-left:hover {
+    float: left;
+  }
+  .pc-max\:float-right,
+  .hover\:pc-max\:float-right:hover {
+    float: right;
+  }
+  .pc-max\:float-none,
+  .hover\:pc-max\:float-none:hover {
+    float: none;
+  }
+}
+```
+
 ### example
 
 ```html

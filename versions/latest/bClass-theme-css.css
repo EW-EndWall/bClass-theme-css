@@ -8451,6 +8451,7 @@ video::cue {
   .hover\:tablet-max\:v-hide:hover {
     visibility: hidden;
   }
+  /* ------------- */
   .tablet-max\:d-none,
   .hover\:tablet-max\:d-none:hover {
     display: none;
@@ -8916,6 +8917,7 @@ video::cue {
   .hover\:tablet-pc-max\:v-hide:hover {
     visibility: hidden;
   }
+  /* ------------- */
   .tablet-pc-max\:d-none,
   .hover\:tablet-pc-max\:d-none:hover {
     display: none;
@@ -9380,6 +9382,7 @@ video::cue {
   .hover\:pc-max\:v-hide:hover {
     visibility: hidden;
   }
+  /* ------------- */
   .pc-max\:d-none,
   .hover\:pc-max\:d-none:hover {
     display: none;

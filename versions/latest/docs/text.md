@@ -550,6 +550,141 @@ The text-align CSS property sets the horizontal alignment of the inline-level co
 }
 ```
 
+# Tablet Max Text Align
+
+- .tablet-max:text-right
+- .hover:tablet-max:text-right
+- .tablet-max:text-left
+- .hover:tablet-max:text-left
+- .tablet-max:text-center
+- .hover:tablet-max:text-center
+- .tablet-max:text-justify
+- .hover:tablet-max:text-justify
+- .tablet-max:text-start
+- .hover:tablet-max:text-start
+- .tablet-max:text-end
+- .hover:tablet-max:text-end
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:text-right,
+  .hover\:tablet-max\:text-right:hover {
+    text-align: right;
+  }
+  .tablet-max\:text-left,
+  .hover\:tablet-max\:text-left:hover {
+    text-align: left;
+  }
+  .tablet-max\:text-center,
+  .hover\:tablet-max\:text-center:hover {
+    text-align: center;
+  }
+  .tablet-max\:text-justify,
+  .hover\:tablet-max\:text-justify:hover {
+    text-align: justify;
+  }
+  .tablet-max\:text-start,
+  .hover\:tablet-max\:text-start:hover {
+    text-align: start;
+  }
+  .tablet-max\:text-end,
+  .hover\:tablet-max\:text-end:hover {
+    text-align: end;
+  }
+}
+```
+
+# Pc Max Text Align
+
+- .pc-max:text-right
+- .hover:pc-max:text-right
+- .pc-max:text-left
+- .hover:pc-max:text-left
+- .pc-max:text-center
+- .hover:pc-max:text-center
+- .pc-max:text-justify
+- .hover:pc-max:text-justify
+- .pc-max:text-start
+- .hover:pc-max:text-start
+- .pc-max:text-end
+- .hover:pc-max:text-end
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:text-right,
+  .hover\:pc-max\:text-right:hover {
+    text-align: right;
+  }
+  .pc-max\:text-left,
+  .hover\:pc-max\:text-left:hover {
+    text-align: left;
+  }
+  .pc-max\:text-center,
+  .hover\:pc-max\:text-center:hover {
+    text-align: center;
+  }
+  .pc-max\:text-justify,
+  .hover\:pc-max\:text-justify:hover {
+    text-align: justify;
+  }
+  .pc-max\:text-start,
+  .hover\:pc-max\:text-start:hover {
+    text-align: start;
+  }
+  .pc-max\:text-end,
+  .hover\:pc-max\:text-end:hover {
+    text-align: end;
+  }
+}
+```
+
+# Tablet Pc Max Text Align
+
+- .tablet-pc-max:text-right
+- .hover:tablet-pc-max:text-right
+- .tablet-pc-max:text-left
+- .hover:tablet-pc-max:text-left
+- .tablet-pc-max:text-center
+- .hover:tablet-pc-max:text-center
+- .tablet-pc-max:text-justify
+- .hover:tablet-pc-max:text-justify
+- .tablet-pc-max:text-start
+- .hover:tablet-pc-max:text-start
+- .tablet-pc-max:text-end
+- .hover:tablet-pc-max:text-end
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:text-right,
+  .hover\:tablet-pc-max\:text-right:hover {
+    text-align: right;
+  }
+  .tablet-pc-max\:text-left,
+  .hover\:tablet-pc-max\:text-left:hover {
+    text-align: left;
+  }
+  .tablet-pc-max\:text-center,
+  .hover\:tablet-pc-max\:text-center:hover {
+    text-align: center;
+  }
+  .tablet-pc-max\:text-justify,
+  .hover\:tablet-pc-max\:text-justify:hover {
+    text-align: justify;
+  }
+  .tablet-pc-max\:text-start,
+  .hover\:tablet-pc-max\:text-start:hover {
+    text-align: start;
+  }
+  .tablet-pc-max\:text-end,
+  .hover\:tablet-pc-max\:text-end:hover {
+    text-align: end;
+  }
+}
+```
+
 # Line Height
 
 The line-height CSS property sets the height of a line box. It's commonly used to set the distance between lines of text. On block-level elements, it specifies the minimum height of line boxes within the element. On non-replaced inline elements, it specifies the height that is used to calculate line box height.

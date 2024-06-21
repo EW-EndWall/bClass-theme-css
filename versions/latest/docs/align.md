@@ -195,6 +195,105 @@ The CSS align-items property sets the align-self value on all direct children as
 }
 ```
 
+# Tablet Max Align Items
+
+- .tablet-max:align-items-start
+- .hover:tablet-max:align-items-start
+- .tablet-max:align-items-end
+- .hover:tablet-max:align-items-end
+- .tablet-max:align-items-center
+- .hover:tablet-max:align-items-center
+- .tablet-max:align-items-stretch
+- .hover:tablet-max:align-items-stretch
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:align-items-start,
+  .hover\:tablet-max\:align-items-start:hover {
+    align-items: flex-start;
+  }
+  .tablet-max\:align-items-end,
+  .hover\:tablet-max\:align-items-end:hover {
+    align-items: flex-end;
+  }
+  .tablet-max\:align-items-center,
+  .hover\:tablet-max\:align-items-center:hover {
+    align-items: center;
+  }
+  .tablet-max\:align-items-stretch,
+  .hover\:tablet-max\:align-items-stretch:hover {
+    align-items: stretch;
+  }
+}
+```
+
+# Tablet Pc Max Align Items
+
+- .tablet-pc-max:align-items-start
+- .hover:tablet-pc-max:align-items-start
+- .tablet-pc-max:align-items-end
+- .hover:tablet-pc-max:align-items-end
+- .tablet-pc-max:align-items-center
+- .hover:tablet-pc-max:align-items-center
+- .tablet-pc-max:align-items-stretch
+- .hover:tablet-pc-max:align-items-stretch
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:align-items-start,
+  .hover\:tablet-pc-max\:align-items-start:hover {
+    align-items: flex-start;
+  }
+  .tablet-pc-max\:align-items-end,
+  .hover\:tablet-pc-max\:align-items-end:hover {
+    align-items: flex-end;
+  }
+  .tablet-pc-max\:align-items-center,
+  .hover\:tablet-pc-max\:align-items-center:hover {
+    align-items: center;
+  }
+  .tablet-pc-max\:align-items-stretch,
+  .hover\:tablet-pc-max\:align-items-stretch:hover {
+    align-items: stretch;
+  }
+}
+```
+
+# Pc Max Align Items
+
+- .pc-max:align-items-start
+- .hover:pc-max:align-items-start
+- .pc-max:align-items-end
+- .hover:pc-max:align-items-end
+- .pc-max:align-items-center
+- .hover:pc-max:align-items-center
+- .pc-max:align-items-stretch
+- .hover:pc-max:align-items-stretch
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:align-items-start,
+  .hover\:pc-max\:align-items-start:hover {
+    align-items: flex-start;
+  }
+  .pc-max\:align-items-end,
+  .hover\:pc-max\:align-items-end:hover {
+    align-items: flex-end;
+  }
+  .pc-max\:align-items-center,
+  .hover\:pc-max\:align-items-center:hover {
+    align-items: center;
+  }
+  .pc-max\:align-items-stretch,
+  .hover\:pc-max\:align-items-stretch:hover {
+    align-items: stretch;
+  }
+}
+```
+
 # Align Self
 
 The align-self CSS property overrides a grid or flex item's align-items value. In Grid, it aligns the item inside the grid area. In Flexbox, it aligns the item on the cross axis.
@@ -386,6 +485,105 @@ The align-self CSS property overrides a grid or flex item's align-items value. I
   }
   .tv\:align-self-stretch,
   .hover\:tv\:align-self-stretch:hover {
+    align-self: stretch;
+  }
+}
+```
+
+# Tablet Max Align Self
+
+- .tablet-max\align-self-start
+- .hover:tablet-max:align-self-start
+- .tablet-max:align-self-end
+- .hover:tablet-max:align-self-end
+- .tablet-max:align-self-center
+- .hover:tablet-max:align-self-center
+- .tablet-max:align-self-stretch
+- .hover:tablet-max:align-self-stretch
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:align-self-start,
+  .hover\:tablet-max\:align-self-start:hover {
+    align-self: start;
+  }
+  .tablet-max\:align-self-end,
+  .hover\:tablet-max\:align-self-end:hover {
+    align-self: end;
+  }
+  .tablet-max\:align-self-center,
+  .hover\:tablet-max\:align-self-center:hover {
+    align-self: center;
+  }
+  .tablet-max\:align-self-stretch,
+  .hover\:tablet-max\:align-self-stretch:hover {
+    align-self: stretch;
+  }
+}
+```
+
+# Tablet Pc Max Align Self
+
+- .tablet-pc-max:align-self-start
+- .hover:tablet-pc-max:align-self-start
+- .tablet-pc-max:align-self-end
+- .hover:tablet-pc-max:align-self-end
+- .tablet-pc-max:align-self-center
+- .hover:tablet-pc-max:align-self-center
+- .tablet-pc-max:align-self-stretch
+- .hover:tablet-pc-max:align-self-stretch
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:align-self-start,
+  .hover\:tablet-pc-max\:align-self-start:hover {
+    align-self: start;
+  }
+  .tablet-pc-max\:align-self-end,
+  .hover\:tablet-pc-max\:align-self-end:hover {
+    align-self: end;
+  }
+  .tablet-pc-max\:align-self-center,
+  .hover\:tablet-pc-max\:align-self-center:hover {
+    align-self: center;
+  }
+  .tablet-pc-max\:align-self-stretch,
+  .hover\:tablet-pc-max\:align-self-stretch:hover {
+    align-self: stretch;
+  }
+}
+```
+
+# Pc Max Align Self
+
+- .pc-max:align-self-start
+- .hover:pc-max:align-self-start
+- .pc-max:align-self-end
+- .hover:pc-max:align-self-end
+- .pc-max:align-self-center
+- .hover:pc-max:align-self-center
+- .pc-max:align-self-stretch
+- .hover:pc-max:align-self-stretch
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:align-self-start,
+  .hover\:pc-max\:align-self-start:hover {
+    align-self: start;
+  }
+  .pc-max\:align-self-end,
+  .hover\:pc-max\:align-self-end:hover {
+    align-self: end;
+  }
+  .pc-max\:align-self-center,
+  .hover\:pc-max\:align-self-center:hover {
+    align-self: center;
+  }
+  .pc-max\:align-self-stretch,
+  .hover\:pc-max\:align-self-stretch:hover {
     align-self: stretch;
   }
 }
@@ -691,6 +889,159 @@ The CSS align-content property sets the distribution of space between and around
   }
   .tv\:align-content-evenly,
   .hover\:tv\:align-content-evenly:hover {
+    align-content: space-evenly;
+  }
+}
+```
+
+# Tablet Max Align Content
+
+- .tablet-max:align-content-start
+- .hover:tablet-max:align-content-start
+- .tablet-max:align-content-end
+- .hover:tablet-max:align-content-end
+- .tablet-max:align-content-center
+- .hover:tablet-max:align-content-center
+- .tablet-max:align-content-around
+- .hover:tablet-max:align-content-around
+- .tablet-max:align-content-stretch
+- .hover:tablet-max:align-content-stretch
+- .tablet-max:align-content-between
+- .hover:tablet-max:align-content-between
+- .tablet-max:align-content-evenly
+- .hover:tablet-max:align-content-evenly
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:align-content-start,
+  .hover\:tablet-max\:align-content-start:hover {
+    align-content: flex-start;
+  }
+  .tablet-max\:align-content-end,
+  .hover\:tablet-max\:align-content-end:hover {
+    align-content: flex-end;
+  }
+  .tablet-max\:align-content-center,
+  .hover\:tablet-max\:align-content-center:hover {
+    align-content: center;
+  }
+  .tablet-max\:align-content-around,
+  .hover\:tablet-max\:align-content-around:hover {
+    align-content: space-around;
+  }
+  .tablet-max\:align-content-stretch,
+  .hover\:tablet-max\:align-content-stretch:hover {
+    align-content: stretch;
+  }
+  .tablet-max\:align-content-between,
+  .hover\:tablet-max\:align-content-between:hover {
+    align-content: space-between;
+  }
+  .tablet-max\:align-content-evenly,
+  .hover\:tablet-max\:align-content-evenly:hover {
+    align-content: space-evenly;
+  }
+}
+```
+
+# Tablet Pc Max Align Content
+
+- .tablet-pc-max:align-content-start
+- .hover:tablet-pc-max:align-content-start
+- .tablet-pc-max:align-content-end
+- .hover:tablet-pc-max:align-content-end
+- .tablet-pc-max:align-content-center
+- .hover:tablet-pc-max:align-content-center
+- .tablet-pc-max:align-content-around
+- .hover:tablet-pc-max:align-content-around
+- .tablet-pc-max:align-content-stretch
+- .hover:tablet-pc-max:align-content-stretch
+- .tablet-pc-max:align-content-between
+- .hover:tablet-pc-max:align-content-between
+- .tablet-pc-max:align-content-evenly
+- .hover:tablet-pc-max:align-content-evenly
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:align-content-start,
+  .hover\:tablet-pc-max\:align-content-start:hover {
+    align-content: flex-start;
+  }
+  .tablet-pc-max\:align-content-end,
+  .hover\:tablet-pc-max\:align-content-end:hover {
+    align-content: flex-end;
+  }
+  .tablet-pc-max\:align-content-center,
+  .hover\:tablet-pc-max\:align-content-center:hover {
+    align-content: center;
+  }
+  .tablet-pc-max\:align-content-around,
+  .hover\:tablet-pc-max\:align-content-around:hover {
+    align-content: space-around;
+  }
+  .tablet-pc-max\:align-content-stretch,
+  .hover\:tablet-pc-max\:align-content-stretch:hover {
+    align-content: stretch;
+  }
+  .tablet-pc-max\:align-content-between,
+  .hover\:tablet-pc-max\:align-content-between:hover {
+    align-content: space-between;
+  }
+  .tablet-pc-max\:align-content-evenly,
+  .hover\:tablet-pc-max\:align-content-evenly:hover {
+    align-content: space-evenly;
+  }
+}
+```
+
+# Pc Max Align Content
+
+- .pc-max:align-content-start
+- .hover:pc-max:align-content-start
+- .pc-max:align-content-end
+- .hover:pc-max:align-content-end
+- .pc-max:align-content-center
+- .hover:pc-max:align-content-center
+- .pc-max:align-content-around
+- .hover:pc-max:align-content-around
+- .pc-max:align-content-stretch
+- .hover:pc-max:align-content-stretch
+- .pc-max:align-content-between
+- .hover:pc-max:align-content-between
+- .pc-max:align-content-evenly
+- .hover:pc-max:align-content-evenly
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:align-content-start,
+  .hover\:pc-max\:align-content-start:hover {
+    align-content: flex-start;
+  }
+  .pc-max\:align-content-end,
+  .hover\:pc-max\:align-content-end:hover {
+    align-content: flex-end;
+  }
+  .pc-max\:align-content-center,
+  .hover\:pc-max\:align-content-center:hover {
+    align-content: center;
+  }
+  .pc-max\:align-content-around,
+  .hover\:pc-max\:align-content-around:hover {
+    align-content: space-around;
+  }
+  .pc-max\:align-content-stretch,
+  .hover\:pc-max\:align-content-stretch:hover {
+    align-content: stretch;
+  }
+  .pc-max\:align-content-between,
+  .hover\:pc-max\:align-content-between:hover {
+    align-content: space-between;
+  }
+  .pc-max\:align-content-evenly,
+  .hover\:pc-max\:align-content-evenly:hover {
     align-content: space-evenly;
   }
 }

@@ -352,6 +352,165 @@ The display CSS property sets whether an element is treated as a block or inline
 }
 ```
 
+# Tablet Max Display
+
+- .tablet-max:d-none
+- .hover:tablet-max:d-none
+- .tablet-max:d-inline
+- .hover:tablet-max:d-inline
+- .tablet-max:d-block
+- .hover:tablet-max:d-block
+- .tablet-max:d-inline-block
+- .hover:tablet-max:d-inline-block
+- .tablet-max:d-flex
+- .hover:tablet-max:d-flex
+- .tablet-max:d-inline-flex
+- .hover:tablet-max:d-inline-flex
+- .tablet-max:d-grid
+- .tablet-max:d-inline-grid
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:d-none,
+  .hover\:tablet-max\:d-none:hover {
+    display: none;
+  }
+  .tablet-max\:d-inline,
+  .hover\:tablet-max\:d-inline:hover {
+    display: inline;
+  }
+  .tablet-max\:d-block,
+  .hover\:tablet-max\:d-block:hover {
+    display: block;
+  }
+  .tablet-max\:d-inline-block,
+  .hover\:tablet-max\:d-inline-block:hover {
+    display: inline-block;
+  }
+  .tablet-max\:d-flex,
+  .hover\:tablet-max\:d-flex:hover {
+    display: flex;
+  }
+  .tablet-max\:d-inline-flex,
+  .hover\:tablet-max\:d-inline-flex:hover {
+    display: inline-flex;
+  }
+  .tablet-max\:d-grid {
+    display: grid;
+  }
+  .tablet-max\:d-inline-grid {
+    display: inline-grid;
+  }
+}
+```
+
+# Tablet Pc Max Display
+
+- .tablet-pc-max:d-none
+- .hover:tablet-pc-max:d-none
+- .tablet-pc-max:d-inline
+- .hover:tablet-pc-max:d-inline
+- .tablet-pc-max:d-block
+- .hover:tablet-pc-max:d-block
+- .tablet-pc-max:d-inline-block
+- .hover:tablet-pc-max:d-inline-block
+- .tablet-pc-max:d-flex
+- .hover:tablet-pc-max:d-flex
+- .tablet-pc-max:d-inline-flex
+- .hover:tablet-pc-max:d-inline-flex
+- .tablet-pc-max:d-grid
+- .tablet-pc-max:d-inline-grid
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:d-none,
+  .hover\:tablet-pc-max\:d-none:hover {
+    display: none;
+  }
+  .tablet-pc-max\:d-inline,
+  .hover\:tablet-pc-max\:d-inline:hover {
+    display: inline;
+  }
+  .tablet-pc-max\:d-block,
+  .hover\:tablet-pc-max\:d-block:hover {
+    display: block;
+  }
+  .tablet-pc-max\:d-inline-block,
+  .hover\:tablet-pc-max\:d-inline-block:hover {
+    display: inline-block;
+  }
+  .tablet-pc-max\:d-flex,
+  .hover\:tablet-pc-max\:d-flex:hover {
+    display: flex;
+  }
+  .tablet-pc-max\:d-inline-flex,
+  .hover\:tablet-pc-max\:d-inline-flex:hover {
+    display: inline-flex;
+  }
+  .tablet-pc-max\:d-grid {
+    display: grid;
+  }
+  .tablet-pc-max\:d-inline-grid {
+    display: inline-grid;
+  }
+}
+```
+
+# Pc Max Display
+
+- .pc-max:d-none
+- .hover:pc-max:d-none
+- .pc-max:d-inline
+- .hover:pc-max:d-inline
+- .pc-max:d-block
+- .hover:pc-max:d-block
+- .pc-max:d-inline-block
+- .hover:pc-max:d-inline-block
+- .pc-max:d-flex
+- .hover:pc-max:d-flex
+- .pc-max:d-inline-flex
+- .hover:pc-max:d-inline-flex
+- .pc-max:d-grid
+- .pc-max:d-inline-grid
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:d-none,
+  .hover\:pc-max\:d-none:hover {
+    display: none;
+  }
+  .pc-max\:d-inline,
+  .hover\:pc-max\:d-inline:hover {
+    display: inline;
+  }
+  .pc-max\:d-block,
+  .hover\:pc-max\:d-block:hover {
+    display: block;
+  }
+  .pc-max\:d-inline-block,
+  .hover\:pc-max\:d-inline-block:hover {
+    display: inline-block;
+  }
+  .pc-max\:d-flex,
+  .hover\:pc-max\:d-flex:hover {
+    display: flex;
+  }
+  .pc-max\:d-inline-flex,
+  .hover\:pc-max\:d-inline-flex:hover {
+    display: inline-flex;
+  }
+  .pc-max\:d-grid {
+    display: grid;
+  }
+  .pc-max\:d-inline-grid {
+    display: inline-grid;
+  }
+}
+```
+
 ### example
 
 ```html

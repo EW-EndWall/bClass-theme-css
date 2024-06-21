@@ -231,6 +231,123 @@ The object-fit CSS property sets how the content of a replaced element, such as 
 }
 ```
 
+# Tablet Max Object Fit
+
+- .tablet-max:object-contain
+- .hover:tablet-max:object-contain
+- .tablet-max:object-cover
+- .hover:tablet-max:object-cover
+- .tablet-max:object-fill
+- .hover:tablet-max:object-fill
+- .tablet-max:object-scale
+- .hover:tablet-max:object-scale
+- .tablet-max:object-none
+- .hover:tablet-max:object-none
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .tablet-max\:object-contain,
+  .hover\:tablet-max\:object-contain:hover {
+    object-fit: contain;
+  }
+  .tablet-max\:object-cover,
+  .hover\:tablet-max\:object-cover:hover {
+    object-fit: cover;
+  }
+  .tablet-max\:object-fill,
+  .hover\:tablet-max\:object-fill:hover {
+    object-fit: fill;
+  }
+  .tablet-max\:object-scale,
+  .hover\:tablet-max\:object-scale:hover {
+    object-fit: scale-down;
+  }
+  .tablet-max\:object-none,
+  .hover\:tablet-max\:object-none:hover {
+    object-fit: none;
+  }
+}
+```
+
+# Tablet Pc Max Object Fit
+
+- .tablet-pc-max:object-contain
+- .hover:tablet-pc-max:object-contain
+- .tablet-pc-max:object-cover
+- .hover:tablet-pc-max:object-cover
+- .tablet-pc-max:object-fill
+- .hover:tablet-pc-max:object-fill
+- .tablet-pc-max:object-scale
+- .hover:tablet-pc-max:object-scale
+- .tablet-pc-max:object-none
+- .hover:tablet-pc-max:object-none
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 992px) {
+  .tablet-pc-max\:object-contain,
+  .hover\:tablet-pc-max\:object-contain:hover {
+    object-fit: contain;
+  }
+  .tablet-pc-max\:object-cover,
+  .hover\:tablet-pc-max\:object-cover:hover {
+    object-fit: cover;
+  }
+  .tablet-pc-max\:object-fill,
+  .hover\:tablet-pc-max\:object-fill:hover {
+    object-fit: fill;
+  }
+  .tablet-pc-max\:object-scale,
+  .hover\:tablet-pc-max\:object-scale:hover {
+    object-fit: scale-down;
+  }
+  .tablet-pc-max\:object-none,
+  .hover\:tablet-pc-max\:object-none:hover {
+    object-fit: none;
+  }
+}
+```
+
+# Pc Max Object Fit
+
+- .pc-max:object-contain
+- .hover:pc-max:object-contain
+- .pc-max:object-cover
+- .hover:pc-max:object-cover
+- .pc-max:object-fill
+- .hover:pc-max:object-fill
+- .pc-max:object-scale
+- .hover:pc-max:object-scale
+- .pc-max:object-none
+- .hover:pc-max:object-none
+
+```css
+/* pc < 1200 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:object-contain,
+  .hover\:pc-max\:object-contain:hover {
+    object-fit: contain;
+  }
+  .pc-max\:object-cover,
+  .hover\:pc-max\:object-cover:hover {
+    object-fit: cover;
+  }
+  .pc-max\:object-fill,
+  .hover\:pc-max\:object-fill:hover {
+    object-fit: fill;
+  }
+  .pc-max\:object-scale,
+  .hover\:pc-max\:object-scale:hover {
+    object-fit: scale-down;
+  }
+  .pc-max\:object-none,
+  .hover\:pc-max\:object-none:hover {
+    object-fit: none;
+  }
+}
+```
+
 ### example
 
 ```html

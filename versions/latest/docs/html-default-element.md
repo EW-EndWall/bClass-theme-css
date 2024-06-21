@@ -106,3 +106,15 @@ video::cue {
   }
 }
 ```
+
+# Tablet Max
+
+```css
+/* tablet < 768px */
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 0.5rem;
+    margin: 0;
+  }
+}
+```
