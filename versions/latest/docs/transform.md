@@ -133,11 +133,11 @@ The transform CSS property lets you rotate, scale, skew, or translate an element
 ```css
 .translate-25,
 .hover\:translate-25:hover {
-  transform: translate(25%);
+  transform: translate(25%, 25%);
 }
 .translate-50,
 .hover\:translate-50:hover {
-  transform: translate(50%);
+  transform: translate(50%, 50%);
 }
 ```
 
@@ -181,11 +181,11 @@ The transform CSS property lets you rotate, scale, skew, or translate an element
 ```css
 .-translate-25,
 .hover\:-translate-25:hover {
-  transform: translate(-25%);
+  transform: translate(-25%, -25%);
 }
 .-translate-50,
 .hover\:-translate-50:hover {
-  transform: translate(-50%);
+  transform: translate(-50%, -50%);
 }
 ```
 

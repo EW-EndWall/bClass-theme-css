@@ -650,6 +650,18 @@ The border-radius CSS property rounds the corners of an element's outer border e
 - .hover:rounded-1.5
 - .rounded-2
 - .hover:rounded-2
+- .rounded-2.5
+- .hover:rounded-2.5
+- .rounded-3
+- .hover:rounded-3
+- .rounded-3.5
+- .hover:rounded-3.5
+- .rounded-4
+- .hover:rounded-4
+- .rounded-4.5
+- .hover:rounded-4.5
+- .rounded-5
+- .hover:rounded-5
 
 ```css
 .rounded-0,
@@ -704,6 +716,30 @@ The border-radius CSS property rounds the corners of an element's outer border e
 .hover\:rounded-2:hover {
   border-radius: 2rem;
 }
+.rounded-2\.5,
+.hover\:rounded-2\.5:hover {
+  border-top-left-radius: 2.5rem;
+}
+.rounded-3,
+.hover\:rounded-3:hover {
+  border-top-left-radius: 3rem;
+}
+.rounded-3\.5,
+.hover\:rounded-3\.5:hover {
+  border-top-left-radius: 3.5rem;
+}
+.rounded-4,
+.hover\:rounded-4:hover {
+  border-top-left-radius: 4rem;
+}
+.rounded-4\.5,
+.hover\:rounded-4\.5:hover {
+  border-top-left-radius: 4.5rem;
+}
+.rounded-5,
+.hover\:rounded-5:hover {
+  border-top-left-radius: 5rem;
+}
 ```
 
 - .rounded-br-0
@@ -716,6 +752,18 @@ The border-radius CSS property rounds the corners of an element's outer border e
 - .hover:rounded-br-1.5
 - .rounded-br-2
 - .hover:rounded-br-2
+- .rounded-br-2.5
+- .hover:rounded-br-2.5
+- .rounded-br-3
+- .hover:rounded-br-3
+- .rounded-br-3.5
+- .hover:rounded-br-3.5
+- .rounded-br-4
+- .hover:rounded-br-4
+- .rounded-br-4.5
+- .hover:rounded-br-4.5
+- .rounded-br-5
+- .hover:rounded-br-5
 
 ```css
 .rounded-br-0,
@@ -738,6 +786,30 @@ The border-radius CSS property rounds the corners of an element's outer border e
 .hover\:rounded-br-2:hover {
   border-bottom-right-radius: 2rem;
 }
+.rounded-br-2\.5,
+.hover\:rounded-br-2\.5:hover {
+  border-bottom-right-radius: 2.5rem;
+}
+.rounded-br-3,
+.hover\:rounded-br-3:hover {
+  border-bottom-right-radius: 3rem;
+}
+.rounded-br-3\.5,
+.hover\:rounded-br-3\.5:hover {
+  border-bottom-right-radius: 3.5rem;
+}
+.rounded-br-4,
+.hover\:rounded-br-4:hover {
+  border-bottom-right-radius: 4rem;
+}
+.rounded-br-4\.5,
+.hover\:rounded-br-4\.5:hover {
+  border-bottom-right-radius: 4.5rem;
+}
+.rounded-br-5,
+.hover\:rounded-br-5:hover {
+  border-bottom-right-radius: 5rem;
+}
 ```
 
 - .rounded-tr-0
@@ -750,6 +822,18 @@ The border-radius CSS property rounds the corners of an element's outer border e
 - .hover:rounded-tr-1.5
 - .rounded-tr-2
 - .hover:rounded-tr-2
+- .rounded-tr-2.5
+- .hover:rounded-tr-2.5
+- .rounded-tr-3
+- .hover:rounded-tr-3
+- .rounded-tr-3.5
+- .hover:rounded-tr-3.5
+- .rounded-tr-4
+- .hover:rounded-tr-4
+- .rounded-tr-4.5
+- .hover:rounded-tr-4.5
+- .rounded-tr-5
+- .hover:rounded-tr-5
 
 ```css
 .rounded-tr-0,
@@ -772,6 +856,30 @@ The border-radius CSS property rounds the corners of an element's outer border e
 .hover\:rounded-tr-2:hover {
   border-top-right-radius: 2rem;
 }
+.rounded-tr-2\.5,
+.hover\:rounded-tr-2\.5:hover {
+  border-top-right-radius: 2.5rem;
+}
+.rounded-tr-3,
+.hover\:rounded-tr-3:hover {
+  border-top-right-radius: 3rem;
+}
+.rounded-tr-3\.5,
+.hover\:rounded-tr-3\.5:hover {
+  border-top-right-radius: 3.5rem;
+}
+.rounded-tr-4,
+.hover\:rounded-tr-4:hover {
+  border-top-right-radius: 4rem;
+}
+.rounded-tr-4\.5,
+.hover\:rounded-tr-4\.5:hover {
+  border-top-right-radius: 4.5rem;
+}
+.rounded-tr-5,
+.hover\:rounded-tr-5:hover {
+  border-top-right-radius: 5rem;
+}
 ```
 
 - .rounded-bl-0
@@ -784,6 +892,18 @@ The border-radius CSS property rounds the corners of an element's outer border e
 - .hover:rounded-bl-1.5
 - .rounded-bl-2
 - .hover:rounded-bl-2
+- .rounded-bl-2.5
+- .hover:rounded-bl-2.5
+- .rounded-bl-3
+- .hover:rounded-bl-3
+- .rounded-bl-3.5
+- .hover:rounded-bl-3.5
+- .rounded-bl-4
+- .hover:rounded-bl-4
+- .rounded-bl-4.5
+- .hover:rounded-bl-4.5
+- .rounded-bl-5
+- .hover:rounded-bl-5
 
 ```css
 .rounded-bl-0,
@@ -806,6 +926,30 @@ The border-radius CSS property rounds the corners of an element's outer border e
 .hover\:rounded-bl-2:hover {
   border-bottom-left-radius: 2rem;
 }
+.rounded-bl-2\.5,
+.hover\:rounded-bl-2\.5:hover {
+  border-bottom-left-radius: 2.5rem;
+}
+.rounded-bl-3,
+.hover\:rounded-bl-3:hover {
+  border-bottom-left-radius: 3rem;
+}
+.rounded-bl-3\.5,
+.hover\:rounded-bl-3\.5:hover {
+  border-bottom-left-radius: 3.5rem;
+}
+.rounded-bl-4,
+.hover\:rounded-bl-4:hover {
+  border-bottom-left-radius: 4rem;
+}
+.rounded-bl-4\.5,
+.hover\:rounded-bl-4\.5:hover {
+  border-bottom-left-radius: 4.5rem;
+}
+.rounded-bl-5,
+.hover\:rounded-bl-5:hover {
+  border-bottom-left-radius: 5rem;
+}
 ```
 
 - .rounded-tl-0
@@ -818,6 +962,18 @@ The border-radius CSS property rounds the corners of an element's outer border e
 - .hover:rounded-tl-1.5
 - .rounded-tl-2
 - .hover:rounded-tl-2
+- .rounded-tl-2.5
+- .hover:rounded-tl-2.5
+- .rounded-tl-3
+- .hover:rounded-tl-3
+- .rounded-tl-3.5
+- .hover:rounded-tl-3.5
+- .rounded-tl-4
+- .hover:rounded-tl-4
+- .rounded-tl-4.5
+- .hover:rounded-tl-4.5
+- .rounded-tl-5
+- .hover:rounded-tl-5
 
 ```css
 .rounded-tl-0,
@@ -839,5 +995,29 @@ The border-radius CSS property rounds the corners of an element's outer border e
 .rounded-tl-2,
 .hover\:rounded-tl-2:hover {
   border-top-left-radius: 2rem;
+}
+.rounded-tl-2\.5,
+.hover\:rounded-tl-2\.5:hover {
+  border-top-left-radius: 2.5rem;
+}
+.rounded-tl-3,
+.hover\:rounded-tl-3:hover {
+  border-top-left-radius: 3rem;
+}
+.rounded-tl-3\.5,
+.hover\:rounded-tl-3\.5:hover {
+  border-top-left-radius: 3.5rem;
+}
+.rounded-tl-4,
+.hover\:rounded-tl-4:hover {
+  border-top-left-radius: 4rem;
+}
+.rounded-tl-4\.5,
+.hover\:rounded-tl-4\.5:hover {
+  border-top-left-radius: 4.5rem;
+}
+.rounded-tl-5,
+.hover\:rounded-tl-5:hover {
+  border-top-left-radius: 5rem;
 }
 ```

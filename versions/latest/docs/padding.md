@@ -729,279 +729,279 @@ The padding CSS shorthand property sets the padding area on all four sides of an
 ```
 
 - .px-0
-- .pr-0
+- .pl-0
 - .hover:px-0
-- .hover:pr-0
+- .hover:pl-0
 - .first:pl-0
 - .last:pl-0
 - .px-0.1
-- .pr-0.1
+- .pl-0.1
 - .hover:px-0.1
-- .hover:pr-0.1
+- .hover:pl-0.1
 - .px-0.2
-- .pr-0.2
+- .pl-0.2
 - .hover:px-0.2
-- .hover:pr-0.2
+- .hover:pl-0.2
 - .px-0.3
-- .pr-0.3
+- .pl-0.3
 - .hover:px-0.3
-- .hover:pr-0.3
+- .hover:pl-0.3
 - .px-0.4
-- .pr-0.4
+- .pl-0.4
 - .hover:px-0.4
-- .hover:pr-0.4
+- .hover:pl-0.4
 - .px-0.5
-- .pr-0.5
+- .pl-0.5
 - .hover:px-0.5
-- .hover:pr-0.5
+- .hover:pl-0.5
 - .px-0.6
-- .pr-0.6
+- .pl-0.6
 - .hover:px-0.6
-- .hover:pr-0.6
+- .hover:pl-0.6
 - .px-0.7
-- .pr-0.7
+- .pl-0.7
 - .hover:px-0.7
-- .hover:pr-0.7
+- .hover:pl-0.7
 - .px-0.8
-- .pr-0.8
+- .pl-0.8
 - .hover:px-0.8
-- .hover:pr-0.8
+- .hover:pl-0.8
 - .px-0.9
-- .pr-0.9
+- .pl-0.9
 - .hover:px-0.9
-- .hover:pr-0.9
+- .hover:pl-0.9
 - .px-1
-- .pr-1
+- .pl-1
 - .hover:px-1
-- .hover:pr-1
+- .hover:pl-1
 - .px-1.1
-- .pr-1.1
+- .pl-1.1
 - .hover:px-1.1
-- .hover:pr-1.1
+- .hover:pl-1.1
 - .px-1.2
-- .pr-1.2
+- .pl-1.2
 - .hover:px-1.2
-- .hover:pr-1.2
+- .hover:pl-1.2
 - .px-1.3
-- .pr-1.3
+- .pl-1.3
 - .hover:px-1.3
-- .hover:pr-1.3
+- .hover:pl-1.3
 - .px-1.4
-- .pr-1.4
+- .pl-1.4
 - .hover:px-1.4
-- .hover:pr-1.4
+- .hover:pl-1.4
 - .px-1.5
-- .pr-1.5
+- .pl-1.5
 - .hover:px-1.5
-- .hover:pr-1.5
+- .hover:pl-1.5
 - .px-1.6
-- .pr-1.6
+- .pl-1.6
 - .hover:px-1.6
-- .hover:pr-1.6
+- .hover:pl-1.6
 - .px-1.7
-- .pr-1.7
+- .pl-1.7
 - .hover:px-1.7
-- .hover:pr-1.7
+- .hover:pl-1.7
 - .px-1.8
-- .pr-1.8
+- .pl-1.8
 - .hover:px-1.8
-- .hover:pr-1.8
+- .hover:pl-1.8
 - .px-1.9
-- .pr-1.9
+- .pl-1.9
 - .hover:px-1.9
-- .hover:pr-1.9
+- .hover:pl-1.9
 - .px-2
-- .pr-2
+- .pl-2
 - .hover:px-2
-- .hover:pr-2
+- .hover:pl-2
 - .px-2.5
-- .pr-2.5
+- .pl-2.5
 - .hover:px-2.5
-- .hover:pr-2.5
+- .hover:pl-2.5
 - .px-3
-- .pr-3
+- .pl-3
 - .hover:px-3
-- .hover:pr-3
+- .hover:pl-3
 - .px-3.5
-- .pr-3.5
+- .pl-3.5
 - .hover:px-3.5:
-- .hover:pr-3.5
+- .hover:pl-3.5
 - .px-4
-- .pr-4
+- .pl-4
 - .hover:px-4
-- .hover:pr-4
+- .hover:pl-4
 - .px-4.5
-- .pr-4.5
+- .pl-4.5
 - .hover:px-4.5
-- .hover:pr-4.5
+- .hover:pl-4.5
 - .px-5
-- .pr-5
+- .pl-5
 - .hover:px-5
-- .hover:pr-5
+- .hover:pl-5
 
 ```css
 .px-0,
-.pr-0,
+.pl-0,
 .hover\:px-0:hover,
-.hover\:pr-0:hover,
+.hover\:pl-0:hover,
 .first\:pl-0:first-of-type,
 .last\:pl-0:last-of-type {
   padding-left: 0;
 }
 .px-0\.1,
-.pr-0\.1,
+.pl-0\.1,
 .hover\:px-0\.1:hover,
-.hover\:pr-0\.1:hover {
+.hover\:pl-0\.1:hover {
   padding-left: 0.1rem;
 }
 .px-0\.2,
-.pr-0\.2,
+.pl-0\.2,
 .hover\:px-0\.2:hover,
-.hover\:pr-0\.2:hover {
+.hover\:pl-0\.2:hover {
   padding-left: 0.2rem;
 }
 .px-0\.3,
-.pr-0\.3,
+.pl-0\.3,
 .hover\:px-0\.3:hover,
-.hover\:pr-0\.3:hover {
+.hover\:pl-0\.3:hover {
   padding-left: 0.3rem;
 }
 .px-0\.4,
-.pr-0\.4,
+.pl-0\.4,
 .hover\:px-0\.4:hover,
-.hover\:pr-0\.4:hover {
+.hover\:pl-0\.4:hover {
   padding-left: 0.4rem;
 }
 .px-0\.5,
-.pr-0\.5,
+.pl-0\.5,
 .hover\:px-0\.5:hover,
-.hover\:pr-0\.5:hover {
+.hover\:pl-0\.5:hover {
   padding-left: 0.5rem;
 }
 .px-0\.6,
-.pr-0\.6,
+.pl-0\.6,
 .hover\:px-0\.6:hover,
-.hover\:pr-0\.6:hover {
+.hover\:pl-0\.6:hover {
   padding-left: 0.6rem;
 }
 .px-0\.7,
-.pr-0\.7,
+.pl-0\.7,
 .hover\:px-0\.7:hover,
-.hover\:pr-0\.7:hover {
+.hover\:pl-0\.7:hover {
   padding-left: 0.7rem;
 }
 .px-0\.8,
-.pr-0\.8,
+.pl-0\.8,
 .hover\:px-0\.8:hover,
-.hover\:pr-0\.8:hover {
+.hover\:pl-0\.8:hover {
   padding-left: 0.8rem;
 }
 .px-0\.9,
-.pr-0\.9,
+.pl-0\.9,
 .hover\:px-0\.9:hover,
-.hover\:pr-0\.9:hover {
+.hover\:pl-0\.9:hover {
   padding-left: 0.9rem;
 }
 .px-1,
-.pr-1,
+.pl-1,
 .hover\:px-1:hover,
-.hover\:pr-1:hover {
+.hover\:pl-1:hover {
   padding-left: 1rem;
 }
 .px-1\.1,
-.pr-1\.1,
+.pl-1\.1,
 .hover\:px-1\.1:hover,
-.hover\:pr-1\.1:hover {
+.hover\:pl-1\.1:hover {
   padding-left: 1.1rem;
 }
 .px-1\.2,
-.pr-1\.2,
+.pl-1\.2,
 .hover\:px-1\.2:hover,
-.hover\:pr-1\.2:hover {
+.hover\:pl-1\.2:hover {
   padding-left: 1.2rem;
 }
 .px-1\.3,
-.pr-1\.3,
+.pl-1\.3,
 .hover\:px-1\.3:hover,
-.hover\:pr-1\.3:hover {
+.hover\:pl-1\.3:hover {
   padding-left: 1.3rem;
 }
 .px-1\.4,
-.pr-1\.4,
+.pl-1\.4,
 .hover\:px-1\.4:hover,
-.hover\:pr-1\.4:hover {
+.hover\:pl-1\.4:hover {
   padding-left: 1.4rem;
 }
 .px-1\.5,
-.pr-1\.5,
+.pl-1\.5,
 .hover\:px-1\.5:hover,
-.hover\:pr-1\.5:hover {
+.hover\:pl-1\.5:hover {
   padding-left: 1.5rem;
 }
 .px-1\.6,
-.pr-1\.6,
+.pl-1\.6,
 .hover\:px-1\.6:hover,
-.hover\:pr-1\.6:hover {
+.hover\:pl-1\.6:hover {
   padding-left: 1.6rem;
 }
 .px-1\.7,
-.pr-1\.7,
+.pl-1\.7,
 .hover\:px-1\.7:hover,
-.hover\:pr-1\.7:hover {
+.hover\:pl-1\.7:hover {
   padding-left: 1.7rem;
 }
 .px-1\.8,
-.pr-1\.8,
+.pl-1\.8,
 .hover\:px-1\.8:hover,
-.hover\:pr-1\.8:hover {
+.hover\:pl-1\.8:hover {
   padding-left: 1.8rem;
 }
 .px-1\.9,
-.pr-1\.9,
+.pl-1\.9,
 .hover\:px-1\.9:hover,
-.hover\:pr-1\.9:hover {
+.hover\:pl-1\.9:hover {
   padding-left: 1.9rem;
 }
 .px-2,
-.pr-2,
+.pl-2,
 .hover\:px-2:hover,
-.hover\:pr-2:hover {
+.hover\:pl-2:hover {
   padding-left: 2rem;
 }
 .px-2\.5,
-.pr-2\.5,
+.pl-2\.5,
 .hover\:px-2\.5:hover,
-.hover\:pr-2\.5:hover {
+.hover\:pl-2\.5:hover {
   padding-left: 2.5rem;
 }
 .px-3,
-.pr-3,
+.pl-3,
 .hover\:px-3:hover,
-.hover\:pr-3:hover {
+.hover\:pl-3:hover {
   padding-left: 3rem;
 }
 .px-3\.5,
-.pr-3\.5,
+.pl-3\.5,
 .hover\:px-3\.5:hover,
-.hover\:pr-3\.5:hover {
+.hover\:pl-3\.5:hover {
   padding-left: 3.5rem;
 }
 .px-4,
-.pr-4,
+.pl-4,
 .hover\:px-4:hover,
-.hover\:pr-4:hover {
+.hover\:pl-4:hover {
   padding-left: 4rem;
 }
 .px-4\.5,
-.pr-4\.5,
+.pl-4\.5,
 .hover\:px-4\.5:hover,
-.hover\:pr-4\.5:hover {
+.hover\:pl-4\.5:hover {
   padding-left: 4.5rem;
 }
 .px-5,
-.pr-5,
+.pl-5,
 .hover\:px-5:hover,
-.hover\:pr-5:hover {
+.hover\:pl-5:hover {
   padding-left: 5rem;
 }
 ```
