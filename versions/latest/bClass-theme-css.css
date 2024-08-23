@@ -2125,27 +2125,27 @@ video::cue {
 }
 .rounded-2\.5,
 .hover\:rounded-2\.5:hover {
-  border-top-left-radius: 2.5rem;
+  border-radius: 2.5rem;
 }
 .rounded-3,
 .hover\:rounded-3:hover {
-  border-top-left-radius: 3rem;
+  border-radius: 3rem;
 }
 .rounded-3\.5,
 .hover\:rounded-3\.5:hover {
-  border-top-left-radius: 3.5rem;
+  border-radius: 3.5rem;
 }
 .rounded-4,
 .hover\:rounded-4:hover {
-  border-top-left-radius: 4rem;
+  border-radius: 4rem;
 }
 .rounded-4\.5,
 .hover\:rounded-4\.5:hover {
-  border-top-left-radius: 4.5rem;
+  border-radius: 4.5rem;
 }
 .rounded-5,
 .hover\:rounded-5:hover {
-  border-top-left-radius: 5rem;
+  border-radius: 5rem;
 }
 /* ------ */
 .rounded-br-0,
