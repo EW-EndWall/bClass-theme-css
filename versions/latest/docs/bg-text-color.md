@@ -2,15 +2,21 @@
 
 - .bg-transparent
 - .hover:bg-transparent
-- .
-- .
+- .content-1-bg
+- .hover:content-1-bg
+- .content-2-bg
+- .hover:content-2-bg
+- .content-3-bg
+- .hover:content-3-bg
 
-# Background color
+# Text color
 
 - .text-transparent
 - .hover:text-transparent
-- .
-- .
+- .content-1-text
+- .hover:content-1-text
+- .content-2-text
+- .hover:content-2-text
 
 ### example
 

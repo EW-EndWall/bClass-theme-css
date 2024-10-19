@@ -4,27 +4,21 @@ The overflow CSS shorthand property sets the desired behavior when content does 
 
 - .overflow-auto
 - .overflow-x-auto
-- .overflow-auto
 - .overflow-y-auto
 - .overflow-hidden
 - .overflow-y-hidden
-- .overflow-hidden
 - .overflow-x-hidden
 - .overflow-clip
 - .overflow-x-clip
-- .overflow-clip
 - .overflow-y-clip
 - .overflow-visible
 - .overflow-x-visible
-- .overflow-visible
 - .overflow-y-visible
 - .overflow-scroll
 - .overflow-x-scroll
-- .hover:overflow-scroll
-- .hover:overflow-x-scroll
-- .overflow-scroll
 - .overflow-y-scroll
 - .hover:overflow-scroll
+- .hover:overflow-x-scroll
 - .hover:overflow-y-scroll
 
 ```css

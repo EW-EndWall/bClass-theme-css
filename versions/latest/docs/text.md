@@ -175,10 +175,10 @@ The font-weight CSS property sets the weight (or boldness) of the font. The weig
 
 - .font-weight-100
 - .hover:font-weight-100
-- .font-weight-300
-- .hover:font-weight-300
 - .font-weight-200
 - .hover:font-weight-200
+- .font-weight-300
+- .hover:font-weight-300
 - .font-weight-400
 - .hover:font-weight-400
 - .font-weight-500
@@ -685,6 +685,51 @@ The text-align CSS property sets the horizontal alignment of the inline-level co
 }
 ```
 
+# Pc Max Text Align
+
+- .pc-max:text-right
+- .hover:pc-max:text-right
+- .pc-max:text-left
+- .hover:pc-max:text-left
+- .pc-max:text-center
+- .hover:pc-max:text-center
+- .pc-max:text-justify
+- .hover:pc-max:text-justify
+- .pc-max:text-start
+- .hover:pc-max:text-start
+- .pc-max:text-end
+- .hover:pc-max:text-end
+
+```css
+/* tablet-pc < 992 */
+@media screen and (max-width: 1200px) {
+  .pc-max\:text-right,
+  .hover\:pc-max\:text-right:hover {
+    text-align: right;
+  }
+  .pc-max\:text-left,
+  .hover\:pc-max\:text-left:hover {
+    text-align: left;
+  }
+  .pc-max\:text-center,
+  .hover\:pc-max\:text-center:hover {
+    text-align: center;
+  }
+  .pc-max\:text-justify,
+  .hover\:pc-max\:text-justify:hover {
+    text-align: justify;
+  }
+  .pc-max\:text-start,
+  .hover\:pc-max\:text-start:hover {
+    text-align: start;
+  }
+  .pc-max\:text-end,
+  .hover\:pc-max\:text-end:hover {
+    text-align: end;
+  }
+}
+```
+
 # Line Height
 
 The line-height CSS property sets the height of a line box. It's commonly used to set the distance between lines of text. On block-level elements, it specifies the minimum height of line boxes within the element. On non-replaced inline elements, it specifies the height that is used to calculate line box height.
@@ -989,10 +1034,6 @@ The letter-spacing CSS property sets the horizontal spacing behavior between tex
 .hover\:letter-spacing-1:hover {
   letter-spacing: 1rem;
 }
-```
-
-```css
-
 ```
 
 ### example
