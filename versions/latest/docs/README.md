@@ -1,41 +1,13 @@
-  <h2 align="center">
-    Documents
-  </h2>
+## Available Documentation Languages
 
-## Table Of Contents
+| Language   | File                                       |
+| ---------- | ------------------------------------------ |
+| 🇹🇷 Turkish | [documentation-tr.md](documentation-tr.md) |
+| 🇬🇧 English | [documentation-en.md](documentation-en.md) |
+| 🇩🇪 German  | [documentation-de.md](documentation-de.md) |
+| 🇷🇺 Russian | [documentation-ru.md](documentation-ru.md) |
+| 🇦🇪 Arabic  | [documentation-ar.md](documentation-ar.md) |
 
-- [align](./align.md)
-- [bg-text-color](./bg-text-color.md)
-- [body](./body.md)
-- [border](./border.md)
-- [bottom](./bottom.md)
-- [cursor](./cursor.md)
-- [custom-class](./custom-class.md)
-- [disabled](./disabled.md)
-- [display](./display.md)
-- [filter](./filter.md)
-- [flex](./flex.md)
-- [float](./float.md)
-- [gap](./gap.md)
-- [height](./height.md)
-- [html-default-element](./html-default-element.md)
-- [justify](./justify.md)
-- [left](./left.md)
-- [margin](./margin.md)
-- [object-fit](./object-fit.md)
-- [opacity](./opacity.md)
-- [order](./order.md)
-- [overflow](./overflow.md)
-- [padding](./padding.md)
-- [position](./position.md)
-- [resize](./resize.md)
-- [right](./right.md)
-- [shadow](./shadow.md)
-- [text](./text.md)
-- [top](./top.md)
-- [transform](./transform.md)
-- [user-select](./user-select.md)
-- [visibility](./visibility.md)
-- [visibility](./visibility.md)
-- [width](./width.md)
-- [z-index](./z-index.md)
+## Usage
+
+For detailed implementation instructions, please refer to the documentation in your preferred language.
