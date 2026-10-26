@@ -2081,15 +2081,15 @@ video::cue {
 }
 .rounded-0\.2,
 .hover\:rounded-0\.2:hover {
-  border-radius: 0.5rem;
+  border-radius: 0.2rem;
 }
 .rounded-0\.3,
 .hover\:rounded-0\.3:hover {
-  border-radius: 0.5rem;
+  border-radius: 0.3rem;
 }
 .rounded-0\.4,
 .hover\:rounded-0\.4:hover {
-  border-radius: 0.5rem;
+  border-radius: 0.4rem;
 }
 .rounded-0\.5,
 .hover\:rounded-0\.5:hover {
@@ -2097,19 +2097,19 @@ video::cue {
 }
 .rounded-0\.6,
 .hover\:rounded-0\.6:hover {
-  border-radius: 0.5rem;
+  border-radius: 0.6rem;
 }
 .rounded-0\.7,
 .hover\:rounded-0\.7:hover {
-  border-radius: 0.5rem;
+  border-radius: 0.7rem;
 }
 .rounded-0\.8,
 .hover\:rounded-0\.8:hover {
-  border-radius: 0.5rem;
+  border-radius: 0.8rem;
 }
 .rounded-0\.9,
 .hover\:rounded-0\.9:hover {
-  border-radius: 0.5rem;
+  border-radius: 0.9rem;
 }
 .rounded-1,
 .hover\:rounded-1:hover {
@@ -5482,43 +5482,63 @@ video::cue {
 /* * left right */
 .shadow-x-1,
 .hover\:shadow-x-1:hover {
-  box-shadow: inset 1rem 0 2rem 0.1rem, inset -1rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 1rem 0 2rem 0.1rem,
+    inset -1rem 0 2rem 0.1rem;
 }
 .shadow-x-2,
 .hover\:shadow-x-2:hover {
-  box-shadow: inset 2rem 0 2rem 0.1rem, inset -2rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 2rem 0 2rem 0.1rem,
+    inset -2rem 0 2rem 0.1rem;
 }
 .shadow-x-3,
 .hover\:shadow-x-3:hover {
-  box-shadow: inset 3rem 0 2rem 0.1rem, inset -3rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 3rem 0 2rem 0.1rem,
+    inset -3rem 0 2rem 0.1rem;
 }
 .shadow-x-4,
 .hover\:shadow-x-4:hover {
-  box-shadow: inset 4rem 0 2rem 0.1rem, inset -4rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 4rem 0 2rem 0.1rem,
+    inset -4rem 0 2rem 0.1rem;
 }
 .shadow-x-5,
 .hover\:shadow-x-5:hover {
-  box-shadow: inset 5rem 0 2rem 0.1rem, inset -5rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 5rem 0 2rem 0.1rem,
+    inset -5rem 0 2rem 0.1rem;
 }
 .shadow-x-6,
 .hover\:shadow-x-6:hover {
-  box-shadow: inset 6rem 0 2rem 0.1rem, inset -6rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 6rem 0 2rem 0.1rem,
+    inset -6rem 0 2rem 0.1rem;
 }
 .shadow-x-7,
 .hover\:shadow-x-7:hover {
-  box-shadow: inset 7rem 0 2rem 0.1rem, inset -7rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 7rem 0 2rem 0.1rem,
+    inset -7rem 0 2rem 0.1rem;
 }
 .shadow-x-8,
 .hover\:shadow-x-8:hover {
-  box-shadow: inset 8rem 0 2rem 0.1rem, inset -8rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 8rem 0 2rem 0.1rem,
+    inset -8rem 0 2rem 0.1rem;
 }
 .shadow-x-9,
 .hover\:shadow-x-9:hover {
-  box-shadow: inset 9rem 0 2rem 0.1rem, inset -9rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 9rem 0 2rem 0.1rem,
+    inset -9rem 0 2rem 0.1rem;
 }
 .shadow-x-10,
 .hover\:shadow-x-10:hover {
-  box-shadow: inset 10rem 0 2rem 0.1rem, inset -10rem 0 2rem 0.1rem;
+  box-shadow:
+    inset 10rem 0 2rem 0.1rem,
+    inset -10rem 0 2rem 0.1rem;
 }
 /* * left */
 .shadow-l-1,
@@ -5605,43 +5625,63 @@ video::cue {
 /* * top bottom */
 .shadow-y-1,
 .hover\:shadow-y-1:hover {
-  box-shadow: inset 0 1rem 2rem 0.1rem, inset 0 -1rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 1rem 2rem 0.1rem,
+    inset 0 -1rem 2rem 0.1rem;
 }
 .shadow-y-2,
 .hover\:shadow-y-2:hover {
-  box-shadow: inset 0 2rem 2rem 0.1rem, inset 0 -2rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 2rem 2rem 0.1rem,
+    inset 0 -2rem 2rem 0.1rem;
 }
 .shadow-y-3,
 .hover\:shadow-y-3:hover {
-  box-shadow: inset 0 3rem 2rem 0.1rem, inset 0 -3rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 3rem 2rem 0.1rem,
+    inset 0 -3rem 2rem 0.1rem;
 }
 .shadow-y-4,
 .hover\:shadow-y-4:hover {
-  box-shadow: inset 0 4rem 2rem 0.1rem, inset 0 -4rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 4rem 2rem 0.1rem,
+    inset 0 -4rem 2rem 0.1rem;
 }
 .shadow-y-5,
 .hover\:shadow-y-5:hover {
-  box-shadow: inset 0 5rem 2rem 0.1rem, inset 0 -5rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 5rem 2rem 0.1rem,
+    inset 0 -5rem 2rem 0.1rem;
 }
 .shadow-y-6,
 .hover\:shadow-y-6:hover {
-  box-shadow: inset 0 6rem 2rem 0.1rem, inset 0 -6rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 6rem 2rem 0.1rem,
+    inset 0 -6rem 2rem 0.1rem;
 }
 .shadow-y-7,
 .hover\:shadow-y-7:hover {
-  box-shadow: inset 0 7rem 2rem 0.1rem, inset 0 -7rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 7rem 2rem 0.1rem,
+    inset 0 -7rem 2rem 0.1rem;
 }
 .shadow-y-8,
 .hover\:shadow-y-8:hover {
-  box-shadow: inset 0 8rem 2rem 0.1rem, inset 0 -8rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 8rem 2rem 0.1rem,
+    inset 0 -8rem 2rem 0.1rem;
 }
 .shadow-y-9,
 .hover\:shadow-y-9:hover {
-  box-shadow: inset 0 9rem 2rem 0.1rem, inset 0 -9rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 9rem 2rem 0.1rem,
+    inset 0 -9rem 2rem 0.1rem;
 }
 .shadow-y-10,
 .hover\:shadow-y-10:hover {
-  box-shadow: inset 0 10rem 2rem 0.1rem, inset 0 -10rem 2rem 0.1rem;
+  box-shadow:
+    inset 0 10rem 2rem 0.1rem,
+    inset 0 -10rem 2rem 0.1rem;
 }
 /* * top */
 .shadow-t-1,
@@ -6898,7 +6938,7 @@ video::cue {
     height: 75%;
   }
   .tablet-pc\:h-80,
-  .hover\:tablet-pc\:h-75:hover {
+  .hover\:tablet-pc\:h-80:hover {
     height: 80%;
   }
   .tablet-pc\:h-85,
