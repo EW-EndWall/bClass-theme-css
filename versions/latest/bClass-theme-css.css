@@ -333,7 +333,7 @@ video::cue {
 /*  */
 .translate-y-0,
 .hover\:translate-y-0:hover {
-  transform: translateX(0);
+  transform: translateY(0);
 }
 .translate-y-0\.5,
 .hover\:translate-y-0\.5:hover {

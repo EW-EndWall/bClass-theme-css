@@ -114,7 +114,6 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - [Content](#content)
 - [Dir](#dir)
 - [Mse](#mse)
-- [Other](#other)
 - [Visibility](#visibility)
 - [Customization](#customization)
 - [License](#license)
@@ -157,7 +156,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:d-inline-flex` - Inline-Flex beim Hover anzeigen
 - `.hover:d-none` - Beim Schweben wird keine angezeigt
 
-##### Display - Mobile (< 480px)
+##### Display - Mobile (≤ 480px)
 
 - `.hover:mobile:d-block` - Anzeigeblock beim Hover auf Mobilgeräten
 - `.hover:mobile:d-flex` - Anzeigeflexibilität beim Schweben auf Mobilgeräten
@@ -225,7 +224,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:d-inline-grid` - Inline-Grid auf dem PC anzeigen
 - `.pc:d-none` - Keine Anzeige auf dem PC
 
-##### Display - Tv (> 1200px)
+##### Display - Tv (≥ 1200px)
 
 - `.hover:tv:d-block` - Anzeigeblock beim Schweben im Fernsehen
 - `.hover:tv:d-flex` - Display-Flex beim Schweben im Fernsehen
@@ -242,7 +241,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:d-inline-grid` - Inline-Grid auf dem Fernseher anzeigen
 - `.tv:d-none` - Keine Anzeige im Fernsehen
 
-##### Display - Tablet Max (< 768px)
+##### Display - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:d-block` - Anzeigeblockierung beim Hover auf dem Tablet max
 - `.hover:tablet-max:d-flex` - Maximale Displayflexibilität beim Schweben auf dem Tablet
@@ -259,7 +258,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:d-inline-grid` - Inline-Grid auf dem Tablet anzeigen max
 - `.tablet-max:d-none` - Keine Anzeige auf dem Tablet max
 
-##### Display - Tablet Pc Max (< 992px)
+##### Display - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:d-block` - Anzeigeblock beim Hover auf Tablet-PC max
 - `.hover:tablet-pc-max:d-flex` - Displayflex beim Hover auf Tablet-PC max
@@ -276,7 +275,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:d-inline-grid` - Anzeige Inline-Grid auf Tablet-PC max
 - `.tablet-pc-max:d-none` - Anzeige keine auf Tablet-PC max
 
-##### Display - Pc Max (< 1200px)
+##### Display - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:d-block` - Anzeigeblock beim Hover auf dem PC max
 - `.hover:pc-max:d-flex` - Anzeigeflexibilität beim Schweben auf dem PC max
@@ -306,7 +305,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:float-right` - Schwebe direkt im Schwebeflug
 - `.hover:float-start` - Schwebestart im Schwebeflug
 
-##### Float - Mobile (< 480px)
+##### Float - Mobile (≤ 480px)
 
 - `.hover:mobile:float-end` - Float-Ende beim Hover auf dem Handy
 - `.hover:mobile:float-left` - Beim Schweben auf dem Handy nach links schweben
@@ -358,7 +357,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:float-right` - Schweben Sie direkt auf dem PC
 - `.pc:float-start` - Float-Start auf dem PC
 
-##### Float - Tv (> 1200px)
+##### Float - Tv (≥ 1200px)
 
 - `.hover:tv:float-end` - Float-Ende beim Hover im Fernsehen
 - `.hover:tv:float-left` - Beim Schweben im Fernsehen nach links schweben
@@ -371,7 +370,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:float-right` - Schweben Sie direkt im Fernsehen
 - `.tv:float-start` - Float Start im Fernsehen
 
-##### Float - Tablet Max (< 768px)
+##### Float - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:float-end` - Float-Ende beim Schweben auf dem Tablet max
 - `.hover:tablet-max:float-left` - Beim Schweben auf dem Tablet nach links schweben, max
@@ -384,7 +383,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:float-right` - Direkt auf dem Tablet schweben max
 - `.tablet-max:float-start` - Float-Start auf Tablet max
 
-##### Float - Tablet Pc Max (< 992px)
+##### Float - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:float-end` - Float-Ende beim Schweben auf dem Tablet-PC max
 - `.hover:tablet-pc-max:float-left` - Beim Hover auf dem Tablet-PC nach links schweben, max
@@ -397,7 +396,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:float-right` - Rechts auf dem Tablet-PC schweben max
 - `.tablet-pc-max:float-start` - Float-Start auf Tablet-PC max
 
-##### Float - Pc Max (< 1200px)
+##### Float - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:float-end` - Float-Ende beim Hover auf dem PC max
 - `.hover:pc-max:float-left` - Beim Hover auf dem PC nach links schweben, max
@@ -423,7 +422,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.object-none` - Objekt keins
 - `.object-scale` - Objektmaßstab
 
-##### Object - Mobile (< 480px)
+##### Object - Mobile (≤ 480px)
 
 - `.hover:mobile:object-contain` - Objekt beim Hover auf dem Mobilgerät enthalten
 - `.hover:mobile:object-cover` - Objektabdeckung beim Schweben auf dem Mobilgerät
@@ -475,7 +474,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:object-none` - Kein Objekt auf dem PC
 - `.pc:object-scale` - Objektskala auf dem PC
 
-##### Object - Tv (> 1200px)
+##### Object - Tv (≥ 1200px)
 
 - `.hover:tv:object-contain` - Das Objekt wird beim Schweben im Fernsehen angezeigt
 - `.hover:tv:object-cover` - Objektabdeckung beim Schweben im Fernsehen
@@ -488,7 +487,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:object-none` - Kein Objekt im Fernsehen
 - `.tv:object-scale` - Objektmaßstab im Fernsehen
 
-##### Object - Tablet Max (< 768px)
+##### Object - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:object-contain` - Objekt enthält beim Hover auf dem Tablet max
 - `.hover:tablet-max:object-cover` - Objektabdeckung beim Schweben auf dem Tablet max
@@ -501,7 +500,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:object-none` - Objekt keines auf Tablet max
 - `.tablet-max:object-scale` - Objektskalierung auf Tablet max
 
-##### Object - Tablet Pc Max (< 992px)
+##### Object - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:object-contain` - Objekt enthalten beim Hover auf dem Tablet-PC max
 - `.hover:tablet-pc-max:object-cover` - Objektabdeckung beim Hover auf Tablet-PC max
@@ -514,7 +513,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:object-none` - Objekt keines auf Tablet-PC max
 - `.tablet-pc-max:object-scale` - Objektskalierung auf Tablet-PC max
 
-##### Object - Pc Max (< 1200px)
+##### Object - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:object-contain` - Objekt enthalten beim Hover auf dem PC max
 - `.hover:pc-max:object-cover` - Objektabdeckung beim Schweben auf dem PC max
@@ -575,7 +574,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:flex-row` - Flex-Reihe beim Schweben
 - `.hover:flex-wrap` - Flex-Wickel beim Schweben
 
-##### Flex - Mobile (< 480px)
+##### Flex - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col` - Flex Col beim Hover auf dem Handy
 - `.hover:mobile:flex-nowrap` - Flex Nowrap beim Schweben auf Mobilgeräten
@@ -619,7 +618,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:flex-row` - Flexreihe am PC
 - `.pc:flex-wrap` - Flexfolie auf dem PC
 
-##### Flex - Tv (> 1200px)
+##### Flex - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col` - Flex Col beim Schweben im Fernsehen
 - `.hover:tv:flex-nowrap` - Flex Nowrap im Hover im Fernsehen
@@ -630,7 +629,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:flex-row` - Flex Row im Fernsehen
 - `.tv:flex-wrap` - Flexfolie im Fernsehen
 
-##### Flex - Tablet Max (< 768px)
+##### Flex - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col` - Flex Col beim Schweben auf dem Tablet max
 - `.hover:tablet-max:flex-nowrap` - Flex Nowrap beim Schweben auf dem Tablet max
@@ -641,7 +640,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:flex-row` - Flexreihe auf Tablet max
 - `.tablet-max:flex-wrap` - Flexfolie am Tablet max
 
-##### Flex - Tablet Pc Max (< 992px)
+##### Flex - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col` - Flex Col beim Hover auf Tablet PC max
 - `.hover:tablet-pc-max:flex-nowrap` - Flex Nowrap beim Hover auf Tablet-PC max
@@ -652,7 +651,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:flex-row` - Flexreihe am Tablet-PC max
 - `.tablet-pc-max:flex-wrap` - Flexfolie am Tablet-PC max
 
-##### Flex - Pc Max (< 1200px)
+##### Flex - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col` - Flex Col beim Hover auf dem PC max
 - `.hover:pc-max:flex-nowrap` - Flex Nowrap beim Schweben auf dem PC max
@@ -668,7 +667,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.flex-col-reverse` - Flex-Col-Rückseite
 - `.hover:flex-col-reverse` - Flex Col Reverse beim Schweben
 
-##### Flex col - Mobile (< 480px)
+##### Flex col - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem Handy
 - `.mobile:flex-col-reverse` - Flex Col Reverse auf dem Handy
@@ -688,22 +687,22 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pc:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem PC
 - `.pc:flex-col-reverse` - Flex Col Reverse auf dem PC
 
-##### Flex col - Tv (> 1200px)
+##### Flex col - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col-reverse` - Flex-Col-Reverse beim Schweben im Fernsehen
 - `.tv:flex-col-reverse` - Flex Col Reverse im Fernsehen
 
-##### Flex col - Tablet Max (< 768px)
+##### Flex col - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem Tablet max
 - `.tablet-max:flex-col-reverse` - Flex Col Reverse auf Tablet max
 
-##### Flex col - Tablet Pc Max (< 992px)
+##### Flex col - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem Tablet-PC max
 - `.tablet-pc-max:flex-col-reverse` - Flex Col Reverse auf Tablet-PC max
 
-##### Flex col - Pc Max (< 1200px)
+##### Flex col - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem PC max
 - `.pc-max:flex-col-reverse` - Flex Col Reverse auf PC max
@@ -713,7 +712,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.flex-row-reverse` - Flexreihe umgekehrt
 - `.hover:flex-row-reverse` - Beuge die Reihe beim Schweben rückwärts
 
-##### Flex row - Mobile (< 480px)
+##### Flex row - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-row-reverse` - Flex-Reihenumkehr beim Schweben auf dem Handy
 - `.mobile:flex-row-reverse` - Flex-Row-Reverse auf dem Handy
@@ -733,131 +732,131 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pc:flex-row-reverse` - Flexreihe umkehren beim Schweben auf dem PC
 - `.pc:flex-row-reverse` - Flexreihe umkehren am PC
 
-##### Flex row - Tv (> 1200px)
+##### Flex row - Tv (≥ 1200px)
 
 - `.hover:tv:flex-row-reverse` - Flexreihe umkehren beim Schweben im Fernsehen
 - `.tv:flex-row-reverse` - Flex Row Reverse im Fernsehen
 
-##### Flex row - Tablet Max (< 768px)
+##### Flex row - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - Flexreihe rückwärts beim Schweben auf dem Tablet max
 - `.tablet-max:flex-row-reverse` - Flexreihenumkehr auf dem Tablet max
 
-##### Flex row - Tablet Pc Max (< 992px)
+##### Flex row - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - Flexreihe umkehren beim Schweben auf Tablet-PC max
 - `.tablet-pc-max:flex-row-reverse` - Flexreihe rückwärts auf Tablet-PC max
 
-##### Flex row - Pc Max (< 1200px)
+##### Flex row - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - Flexreihe umkehren beim Schweben auf dem PC max
 - `.pc-max:flex-row-reverse` - Flex-Reihenumkehr am PC max
 
 ### Flex grow
 
-- `.flex-grow-3` - Flex wachsen 3rem
-- `.flex-grow-2` - Flex wachsen 2rem
-- `.flex-grow-1` - Flex wächst 1rem
-- `.flex-grow-0` - Flex wächst 0rem
-- `.hover:flex-grow-3` - Flex wächst 3rem beim Schweben
-- `.hover:flex-grow-2` - Flex wächst beim Schweben um 2 Rem
-- `.hover:flex-grow-1` - Flex wächst beim Schweben um 1 Rem
-- `.hover:flex-grow-0` - Flex wächst beim Schweben um 0rem
+- `.flex-grow-3` - Flex wachsen 3
+- `.flex-grow-2` - Flex wachsen 2
+- `.flex-grow-1` - Flex wächst 1
+- `.flex-grow-0` - Flex wächst 0
+- `.hover:flex-grow-3` - Flex wächst 3 beim Schweben
+- `.hover:flex-grow-2` - Flex wächst beim Schweben um 2
+- `.hover:flex-grow-1` - Flex wächst beim Schweben um 1
+- `.hover:flex-grow-0` - Flex wächst beim Schweben um 0
 
-##### Flex grow - Mobile (< 480px)
+##### Flex grow - Mobile (≤ 480px)
 
-- `.hover:mobile:flex-grow-3` - Flex wächst 3rem beim Hover auf dem Handy
-- `.hover:mobile:flex-grow-2` - Flex wächst 2rem beim Hover auf dem Handy
-- `.hover:mobile:flex-grow-1` - Flex wächst um 1 Rem beim Schweben auf dem Handy
-- `.hover:mobile:flex-grow-0` - Flex wächst um 0rem beim Hover auf Mobilgeräten
-- `.mobile:flex-grow-3` - Flex Grow 3rem auf dem Handy
-- `.mobile:flex-grow-2` - Flex wachsen 2rem auf dem Handy
-- `.mobile:flex-grow-1` - Flex wachsen 1rem auf dem Handy
-- `.mobile:flex-grow-0` - Flex wächst 0rem auf Mobilgeräten
+- `.hover:mobile:flex-grow-3` - Flex wächst 3 beim Hover auf dem Handy
+- `.hover:mobile:flex-grow-2` - Flex wächst 2 beim Hover auf dem Handy
+- `.hover:mobile:flex-grow-1` - Flex wächst um 1 beim Schweben auf dem Handy
+- `.hover:mobile:flex-grow-0` - Flex wächst um 0 beim Hover auf Mobilgeräten
+- `.mobile:flex-grow-3` - Flex Grow 3 auf dem Handy
+- `.mobile:flex-grow-2` - Flex wachsen 2 auf dem Handy
+- `.mobile:flex-grow-1` - Flex wachsen 1 auf dem Handy
+- `.mobile:flex-grow-0` - Flex wächst 0 auf Mobilgeräten
 
 ##### Flex grow - Tablet (480px - 768px)
 
-- `.hover:tablet:flex-grow-3` - Flex wachsen 3rem beim Schweben auf dem Tablet
-- `.hover:tablet:flex-grow-2` - Flex wachsen 2rem beim Schweben auf dem Tablet
-- `.hover:tablet:flex-grow-1` - Flex wachsen 1rem beim Schweben auf dem Tablet
-- `.hover:tablet:flex-grow-0` - Flex wächst 0rem beim Schweben auf dem Tablet
-- `.tablet:flex-grow-3` - Flex wachsen 3rem auf dem Tablet
-- `.tablet:flex-grow-2` - Flex wachsen 2rem auf dem Tablet
-- `.tablet:flex-grow-1` - Flex wachsen 1rem auf dem Tablet
-- `.tablet:flex-grow-0` - Flex wachsen 0rem auf dem Tablet
+- `.hover:tablet:flex-grow-3` - Flex wachsen 3 beim Schweben auf dem Tablet
+- `.hover:tablet:flex-grow-2` - Flex wachsen 2 beim Schweben auf dem Tablet
+- `.hover:tablet:flex-grow-1` - Flex wachsen 1 beim Schweben auf dem Tablet
+- `.hover:tablet:flex-grow-0` - Flex wächst 0 beim Schweben auf dem Tablet
+- `.tablet:flex-grow-3` - Flex wachsen 3 auf dem Tablet
+- `.tablet:flex-grow-2` - Flex wachsen 2 auf dem Tablet
+- `.tablet:flex-grow-1` - Flex wachsen 1 auf dem Tablet
+- `.tablet:flex-grow-0` - Flex wachsen 0 auf dem Tablet
 
 ##### Flex grow - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:flex-grow-3` - Flex Grow 3rem beim Schweben auf dem Tablet-PC
-- `.hover:tablet-pc:flex-grow-2` - Flex wachsen 2rem beim Schweben auf dem Tablet-PC
-- `.hover:tablet-pc:flex-grow-1` - Flex wachsen 1rem beim Schweben auf dem Tablet-PC
-- `.hover:tablet-pc:flex-grow-0` - Flex wächst 0rem beim Schweben auf dem Tablet-PC
-- `.tablet-pc:flex-grow-3` - Flex Grow 3rem auf dem Tablet-PC
-- `.tablet-pc:flex-grow-2` - Flex wachsen 2rem auf dem Tablet-PC
-- `.tablet-pc:flex-grow-1` - Flex wachsen 1rem auf dem Tablet-PC
-- `.tablet-pc:flex-grow-0` - Flex wachsen 0rem auf Tablet-PC
+- `.hover:tablet-pc:flex-grow-3` - Flex Grow 3 beim Schweben auf dem Tablet-PC
+- `.hover:tablet-pc:flex-grow-2` - Flex wachsen 2 beim Schweben auf dem Tablet-PC
+- `.hover:tablet-pc:flex-grow-1` - Flex wachsen 1 beim Schweben auf dem Tablet-PC
+- `.hover:tablet-pc:flex-grow-0` - Flex wächst 0 beim Schweben auf dem Tablet-PC
+- `.tablet-pc:flex-grow-3` - Flex Grow 3 auf dem Tablet-PC
+- `.tablet-pc:flex-grow-2` - Flex wachsen 2 auf dem Tablet-PC
+- `.tablet-pc:flex-grow-1` - Flex wachsen 1 auf dem Tablet-PC
+- `.tablet-pc:flex-grow-0` - Flex wachsen 0 auf Tablet-PC
 
 ##### Flex grow - Pc (992px - 1200px)
 
-- `.hover:pc:flex-grow-3` - Flex Grow 3rem beim Schweben auf dem PC
-- `.hover:pc:flex-grow-2` - Flex wächst 2rem beim Hover auf dem PC
-- `.hover:pc:flex-grow-1` - Flex wächst 1rem beim Hover auf dem PC
-- `.hover:pc:flex-grow-0` - Flex wächst 0rem beim Schweben auf dem PC
-- `.pc:flex-grow-3` - Flex Grow 3rem auf dem PC
-- `.pc:flex-grow-2` - Flex wachsen 2rem auf dem PC
-- `.pc:flex-grow-1` - Flex wachsen 1rem auf dem PC
-- `.pc:flex-grow-0` - Flex wachsen 0rem auf dem PC
+- `.hover:pc:flex-grow-3` - Flex Grow 3 beim Schweben auf dem PC
+- `.hover:pc:flex-grow-2` - Flex wächst 2 beim Hover auf dem PC
+- `.hover:pc:flex-grow-1` - Flex wächst 1 beim Hover auf dem PC
+- `.hover:pc:flex-grow-0` - Flex wächst 0 beim Schweben auf dem PC
+- `.pc:flex-grow-3` - Flex Grow 3 auf dem PC
+- `.pc:flex-grow-2` - Flex wachsen 2 auf dem PC
+- `.pc:flex-grow-1` - Flex wachsen 1 auf dem PC
+- `.pc:flex-grow-0` - Flex wachsen 0 auf dem PC
 
-##### Flex grow - Tv (> 1200px)
+##### Flex grow - Tv (≥ 1200px)
 
-- `.hover:tv:flex-grow-3` - Flex wachsen 3rem beim Schweben im Fernsehen
-- `.hover:tv:flex-grow-2` - Flex wächst 2rem beim Schweben im Fernsehen
-- `.hover:tv:flex-grow-1` - Flex wachsen 1rem beim Schweben im Fernsehen
-- `.hover:tv:flex-grow-0` - Flex wächst 0rem beim Schweben im Fernsehen
-- `.tv:flex-grow-3` - Flex Grow 3rem im Fernsehen
-- `.tv:flex-grow-2` - Flex Grow 2rem im Fernsehen
-- `.tv:flex-grow-1` - Flex wachsen 1rem im Fernsehen
-- `.tv:flex-grow-0` - Flex wachsen 0rem im Fernsehen
+- `.hover:tv:flex-grow-3` - Flex wachsen 3 beim Schweben im Fernsehen
+- `.hover:tv:flex-grow-2` - Flex wächst 2 beim Schweben im Fernsehen
+- `.hover:tv:flex-grow-1` - Flex wachsen 1 beim Schweben im Fernsehen
+- `.hover:tv:flex-grow-0` - Flex wächst 0 beim Schweben im Fernsehen
+- `.tv:flex-grow-3` - Flex Grow 3 im Fernsehen
+- `.tv:flex-grow-2` - Flex Grow 2 im Fernsehen
+- `.tv:flex-grow-1` - Flex wachsen 1 im Fernsehen
+- `.tv:flex-grow-0` - Flex wachsen 0 im Fernsehen
 
-##### Flex grow - Tablet Max (< 768px)
+##### Flex grow - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:flex-grow-3` - Flex wachsen 3rem beim Schweben auf dem Tablet max
-- `.hover:tablet-max:flex-grow-2` - Flex wächst 2rem beim Hover auf dem Tablet max
-- `.hover:tablet-max:flex-grow-1` - Flex wächst 1 Rem beim Hover auf dem Tablet max
-- `.hover:tablet-max:flex-grow-0` - Flex wächst um 0 rem beim Schweben auf dem Tablet, max
-- `.tablet-max:flex-grow-3` - Flex wachsen 3rem auf Tablet max
-- `.tablet-max:flex-grow-2` - Flex wachsen 2rem auf Tablet max
-- `.tablet-max:flex-grow-1` - Flex wachsen 1rem auf Tablet max
-- `.tablet-max:flex-grow-0` - Flex wachsen 0rem auf Tablet max
+- `.hover:tablet-max:flex-grow-3` - Flex wachsen 3 beim Schweben auf dem Tablet max
+- `.hover:tablet-max:flex-grow-2` - Flex wächst 2 beim Hover auf dem Tablet max
+- `.hover:tablet-max:flex-grow-1` - Flex wächst 1 beim Hover auf dem Tablet max
+- `.hover:tablet-max:flex-grow-0` - Flex wächst um 0 beim Schweben auf dem Tablet, max
+- `.tablet-max:flex-grow-3` - Flex wachsen 3 auf Tablet max
+- `.tablet-max:flex-grow-2` - Flex wachsen 2 auf Tablet max
+- `.tablet-max:flex-grow-1` - Flex wachsen 1 auf Tablet max
+- `.tablet-max:flex-grow-0` - Flex wachsen 0 auf Tablet max
 
-##### Flex grow - Tablet Pc Max (< 992px)
+##### Flex grow - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:flex-grow-3` - Flex wachsen 3rem beim Schweben auf dem Tablet-PC max
-- `.hover:tablet-pc-max:flex-grow-2` - Flex wachsen 2rem beim Schweben auf dem Tablet-PC max
-- `.hover:tablet-pc-max:flex-grow-1` - Flex wachsen 1rem beim Schweben auf dem Tablet-PC max
-- `.hover:tablet-pc-max:flex-grow-0` - Flex wächst 0rem beim Schweben auf dem Tablet-PC max
-- `.tablet-pc-max:flex-grow-3` - Flex Grow 3rem auf Tablet-PC max
-- `.tablet-pc-max:flex-grow-2` - Flex Grow 2rem auf Tablet-PC max
-- `.tablet-pc-max:flex-grow-1` - Flex wachsen 1rem auf Tablet-PC max
-- `.tablet-pc-max:flex-grow-0` - Flex wachsen 0rem auf Tablet-PC max
+- `.hover:tablet-pc-max:flex-grow-3` - Flex wachsen 3 beim Schweben auf dem Tablet-PC max
+- `.hover:tablet-pc-max:flex-grow-2` - Flex wachsen 2 beim Schweben auf dem Tablet-PC max
+- `.hover:tablet-pc-max:flex-grow-1` - Flex wachsen 1 beim Schweben auf dem Tablet-PC max
+- `.hover:tablet-pc-max:flex-grow-0` - Flex wächst 0 beim Schweben auf dem Tablet-PC max
+- `.tablet-pc-max:flex-grow-3` - Flex Grow 3 auf Tablet-PC max
+- `.tablet-pc-max:flex-grow-2` - Flex Grow 2 auf Tablet-PC max
+- `.tablet-pc-max:flex-grow-1` - Flex wachsen 1 auf Tablet-PC max
+- `.tablet-pc-max:flex-grow-0` - Flex wachsen 0 auf Tablet-PC max
 
-##### Flex grow - Pc Max (< 1200px)
+##### Flex grow - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:flex-grow-3` - Flex wachsen 3rem beim Schweben auf dem PC max
-- `.hover:pc-max:flex-grow-2` - Flex wächst 2rem beim Hover auf dem PC max
-- `.hover:pc-max:flex-grow-1` - Flex wächst 1 Rem beim Hover auf dem PC max
-- `.hover:pc-max:flex-grow-0` - Flex wächst 0rem beim Schweben auf dem PC max
-- `.pc-max:flex-grow-3` - Flex wachsen 3rem auf dem PC max
-- `.pc-max:flex-grow-2` - Flex wachsen 2rem auf dem PC max
-- `.pc-max:flex-grow-1` - Flex wachsen 1rem auf dem PC max
-- `.pc-max:flex-grow-0` - Flex wachsen 0rem auf dem PC max
+- `.hover:pc-max:flex-grow-3` - Flex wachsen 3 beim Schweben auf dem PC max
+- `.hover:pc-max:flex-grow-2` - Flex wächst 2 beim Hover auf dem PC max
+- `.hover:pc-max:flex-grow-1` - Flex wächst 1 beim Hover auf dem PC max
+- `.hover:pc-max:flex-grow-0` - Flex wächst 0 beim Schweben auf dem PC max
+- `.pc-max:flex-grow-3` - Flex wachsen 3 auf dem PC max
+- `.pc-max:flex-grow-2` - Flex wachsen 2 auf dem PC max
+- `.pc-max:flex-grow-1` - Flex wachsen 1 auf dem PC max
+- `.pc-max:flex-grow-0` - Flex wachsen 0 auf dem PC max
 
 ### Flex wrap
 
 - `.flex-wrap-reverse` - Flex-Wrap-Rückseite
 - `.hover:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben
 
-##### Flex wrap - Mobile (< 480px)
+##### Flex wrap - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben auf dem Mobilgerät
 - `.mobile:flex-wrap-reverse` - Flex-Wrap-Rückseite auf dem Handy
@@ -877,22 +876,22 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pc:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben auf dem PC
 - `.pc:flex-wrap-reverse` - Flex Wrap umgekehrt auf dem PC
 
-##### Flex wrap - Tv (> 1200px)
+##### Flex wrap - Tv (≥ 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben im Fernsehen
 - `.tv:flex-wrap-reverse` - Flex Wrap umgekehrt im Fernsehen
 
-##### Flex wrap - Tablet Max (< 768px)
+##### Flex wrap - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - Flex-Wickel umgekehrt beim Schweben auf dem Tablet max
 - `.tablet-max:flex-wrap-reverse` - Flexfolie rückwärts am Tablet max
 
-##### Flex wrap - Tablet Pc Max (< 992px)
+##### Flex wrap - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - Flex-Wickel umgekehrt beim Schweben auf dem Tablet-PC max
 - `.tablet-pc-max:flex-wrap-reverse` - Flex Wrap umgekehrt auf Tablet-PC max
 
-##### Flex wrap - Pc Max (< 1200px)
+##### Flex wrap - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben auf dem PC max
 - `.pc-max:flex-wrap-reverse` - Flex-Wrap rückwärts am PC max
@@ -1087,7 +1086,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:align-content-start` - Richten Sie den Inhalt beim Hover aus
 - `.hover:align-content-stretch` - Richten Sie die Inhaltsdehnung beim Hover aus
 
-##### Align content - Mobile (< 480px)
+##### Align content - Mobile (≤ 480px)
 
 - `.hover:mobile:align-content-around` - Richten Sie den Inhalt beim Hover auf Mobilgeräten aus
 - `.hover:mobile:align-content-between` - Richten Sie Inhalte beim Hover auf Mobilgeräten aus
@@ -1155,7 +1154,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:align-content-start` - Richten Sie den Inhalt auf dem PC aus
 - `.pc:align-content-stretch` - Richten Sie den Inhalt auf dem PC aus
 
-##### Align content - Tv (> 1200px)
+##### Align content - Tv (≥ 1200px)
 
 - `.hover:tv:align-content-around` - Richten Sie den Inhalt beim Hover auf dem Fernseher aus
 - `.hover:tv:align-content-between` - Richten Sie den Inhalt beim Hover auf dem Fernseher aus
@@ -1172,7 +1171,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:align-content-start` - Richten Sie den Inhaltsstart im Fernsehen aus
 - `.tv:align-content-stretch` - Richten Sie den Inhalt auf dem Fernseher aus
 
-##### Align content - Tablet Max (< 768px)
+##### Align content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-content-around` - Richten Sie den Inhalt beim Hover auf dem Tablet maximal aus
 - `.hover:tablet-max:align-content-between` - Richten Sie den Inhalt beim Hover auf dem Tablet max. aus
@@ -1189,7 +1188,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:align-content-start` - Inhalte ab Beginn auf Tablet ausrichten max
 - `.tablet-max:align-content-stretch` - Inhalt auf dem Tablet maximal ausrichten
 
-##### Align content - Tablet Pc Max (< 992px)
+##### Align content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC max. aus
 - `.hover:tablet-pc-max:align-content-between` - Inhalte beim Hover auf Tablet-PC max. ausrichten
@@ -1206,7 +1205,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:align-content-start` - Inhalt auf Tablet-PC starten max
 - `.tablet-pc-max:align-content-stretch` - Inhalt auf Tablet-PC maximal ausrichten
 
-##### Align content - Pc Max (< 1200px)
+##### Align content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-content-around` - Richten Sie den Inhalt beim Hover auf dem PC max. aus
 - `.hover:pc-max:align-content-between` - Inhalte beim Hover auf dem PC max. ausrichten
@@ -1234,7 +1233,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:align-items-start` - Das Ausrichten von Elementen beginnt beim Schweben
 - `.hover:align-items-stretch` - Richten Sie die gestreckten Elemente beim Schweben aus
 
-##### Align items - Mobile (< 480px)
+##### Align items - Mobile (≤ 480px)
 
 - `.hover:mobile:align-items-center` - Richten Sie Elemente beim Bewegen des Mauszeigers auf dem Mobilgerät zentriert aus
 - `.hover:mobile:align-items-end` - Richten Sie Elemente am Ende aus, wenn Sie den Mauszeiger auf dem Mobilgerät bewegen
@@ -1278,7 +1277,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:align-items-start` - Richten Sie die Elemente auf dem PC aus
 - `.pc:align-items-stretch` - Richten Sie die gestreckten Elemente am PC aus
 
-##### Align items - Tv (> 1200px)
+##### Align items - Tv (≥ 1200px)
 
 - `.hover:tv:align-items-center` - Richten Sie die Elemente beim Bewegen des Mauszeigers auf dem Fernseher zentriert aus
 - `.hover:tv:align-items-end` - Richten Sie Elemente aus, wenn Sie mit der Maus über den Fernseher fahren
@@ -1289,7 +1288,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:align-items-start` - Richten Sie die Elemente auf dem Fernseher aus
 - `.tv:align-items-stretch` - Richten Sie die gestreckten Gegenstände auf dem Fernseher aus
 
-##### Align items - Tablet Max (< 768px)
+##### Align items - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-items-center` - Elemente beim Hovern auf dem Tablet zentriert ausrichten, max
 - `.hover:tablet-max:align-items-end` - Richten Sie Elemente bis zum Ende aus, wenn Sie den Mauszeiger auf dem Tablet halten
@@ -1300,7 +1299,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:align-items-start` - Elemente ausrichten, beginnend auf dem Tablet max
 - `.tablet-max:align-items-stretch` - Richten Sie Gegenstände maximal auf dem Tablet aus
 
-##### Align items - Tablet Pc Max (< 992px)
+##### Align items - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - Elemente beim Hovern auf dem Tablet-PC zentriert ausrichten, max
 - `.hover:tablet-pc-max:align-items-end` - Richten Sie Elemente bis zum Ende aus, wenn Sie den Mauszeiger auf dem Tablet-PC bewegen
@@ -1311,7 +1310,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:align-items-start` - Elemente ausrichten beginnend auf Tablet-PC max
 - `.tablet-pc-max:align-items-stretch` - Ausrichten von Gegenständen auf dem Tablet-PC max
 
-##### Align items - Pc Max (< 1200px)
+##### Align items - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-items-center` - Elemente beim Hover auf dem PC zentriert ausrichten, max
 - `.hover:pc-max:align-items-end` - Richten Sie Elemente bis zum Ende aus, wenn Sie den Mauszeiger auf dem PC halten
@@ -1333,7 +1332,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:align-self-start` - Selbststart beim Schweben ausrichten
 - `.hover:align-self-stretch` - Richten Sie die Selbstdehnung beim Schweben aus
 
-##### Align self - Mobile (< 480px)
+##### Align self - Mobile (≤ 480px)
 
 - `.hover:mobile:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem Mobilgerät aus
 - `.hover:mobile:align-self-end` - Richten Sie das Selbstende beim Hover auf dem Mobilgerät aus
@@ -1377,7 +1376,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:align-self-start` - Selbststart am PC ausrichten
 - `.pc:align-self-stretch` - Richten Sie die Selbstdehnung am PC aus
 
-##### Align self - Tv (> 1200px)
+##### Align self - Tv (≥ 1200px)
 
 - `.hover:tv:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem Fernseher aus
 - `.hover:tv:align-self-end` - Richten Sie das Selbstende aus, wenn Sie mit der Maus über den Fernseher schweben
@@ -1388,7 +1387,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:align-self-start` - Richten Sie den Selbststart am Fernseher aus
 - `.tv:align-self-stretch` - Richten Sie die Selbstdehnung im Fernsehen aus
 
-##### Align self - Tablet Max (< 768px)
+##### Align self - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem Tablet maximal aus
 - `.hover:tablet-max:align-self-end` - Richten Sie das Selbstende aus, wenn Sie den Mauszeiger auf dem Tablet halten, max
@@ -1399,7 +1398,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:align-self-start` - Selbststart am Tablet max. ausrichten
 - `.tablet-max:align-self-stretch` - Richten Sie die Selbstdehnung am Tablet max. aus
 
-##### Align self - Tablet Pc Max (< 992px)
+##### Align self - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem Tablet-PC max. aus
 - `.hover:tablet-pc-max:align-self-end` - Richten Sie das Selbstende beim Hover auf dem Tablet-PC aus, max
@@ -1410,7 +1409,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:align-self-start` - Selbststart am Tablet-PC ausrichten max
 - `.tablet-pc-max:align-self-stretch` - Selbstdehnung am Tablet-PC max. ausrichten
 
-##### Align self - Pc Max (< 1200px)
+##### Align self - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem PC max. aus
 - `.hover:pc-max:align-self-end` - Selbstende beim Schweben auf dem PC ausrichten, max
@@ -1438,7 +1437,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.justify-content-start` - Begründen Sie den Beginn des Inhalts
 - `.justify-content-stretch` - Begründen Sie die Ausdehnung des Inhalts
 
-##### Justify content - Mobile (< 480px)
+##### Justify content - Mobile (≤ 480px)
 
 - `.hover:mobile:justify-content-around` - Richten Sie Inhalte aus, wenn Sie den Mauszeiger auf Mobilgeräten bewegen
 - `.hover:mobile:justify-content-between` - Richten Sie den Inhalt beim Bewegen des Mauszeigers auf dem Mobilgerät aus
@@ -1490,7 +1489,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:justify-content-end` - Begründen Sie das Ende des Inhalts am PC
 - `.pc:justify-content-start` - Begründen Sie den Beginn des Inhalts auf dem PC
 
-##### Justify content - Tv (> 1200px)
+##### Justify content - Tv (≥ 1200px)
 
 - `.hover:tv:justify-content-around` - Richten Sie Inhalte aus, indem Sie den Mauszeiger auf dem Fernseher bewegen
 - `.hover:tv:justify-content-between` - Begründen Sie den Inhalt zwischen dem Schweben im Fernsehen
@@ -1503,7 +1502,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:justify-content-end` - Begründen Sie das Ende des Inhalts im Fernsehen
 - `.tv:justify-content-start` - Begründen Sie den Start von Inhalten im Fernsehen
 
-##### Justify content - Tablet Max (< 768px)
+##### Justify content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:justify-content-around` - Richten Sie den Inhalt beim Hover auf dem Tablet max. aus
 - `.hover:tablet-max:justify-content-between` - Inhalt ausrichten zwischen beim Hovern auf dem Tablet max
@@ -1516,7 +1515,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:justify-content-end` - Inhalt rechtfertigen, Ende auf Tablet max
 - `.tablet-max:justify-content-start` - Inhaltsbeginn auf Tablet max. begründen
 
-##### Justify content - Tablet Pc Max (< 992px)
+##### Justify content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC max. aus
 - `.hover:tablet-pc-max:justify-content-between` - Inhalt ausrichten zwischen beim Bewegen des Mauszeigers auf dem Tablet-PC max
@@ -1529,7 +1528,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:justify-content-end` - Inhalt ausrichten Ende auf Tablet-PC max
 - `.tablet-pc-max:justify-content-start` - Inhalt rechtfertigen Start auf Tablet-PC max
 
-##### Justify content - Pc Max (< 1200px)
+##### Justify content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:justify-content-around` - Richten Sie den Inhalt beim Hover auf dem PC max. aus
 - `.hover:pc-max:justify-content-between` - Inhalt ausrichten zwischen beim Hover auf dem PC max
@@ -1585,7 +1584,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:-order-2` - Negativer Befehl 2 beim Schweben
 - `.hover:-order-1` - Negativer Befehl 1 beim Schweben
 
-##### Order - Mobile (< 480px)
+##### Order - Mobile (≤ 480px)
 
 - `.hover:mobile:order-5` - Bestellen Sie 5, indem Sie den Mauszeiger auf dem Handy bewegen
 - `.hover:mobile:order-4` - Bestellen Sie 4, indem Sie den Mauszeiger auf dem Handy bewegen
@@ -1604,7 +1603,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.mobile:order-first` - Bestellen Sie zuerst auf dem Handy
 - `.mobile:order-last` - Bestellen Sie zuletzt auf dem Handy
 
-##### Negative Order - Mobile (< 480px)
+##### Negative Order - Mobile (≤ 480px)
 
 - `.hover:mobile:-order-5` - Negative Order 5 beim Hover auf dem Handy
 - `.hover:mobile:-order-4` - Negative Order 4 beim Hover auf dem Handy
@@ -1713,7 +1712,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:-order-2` - Negative Ordnung 2 auf PC
 - `.pc:-order-1` - Negativauftrag 1 auf PC
 
-##### Order - Tv (> 1200px)
+##### Order - Tv (≥ 1200px)
 
 - `.hover:tv:order-5` - Bestellen Sie 5 per Hover im Fernsehen
 - `.hover:tv:order-4` - Bestellen Sie 4 per Hover im Fernsehen
@@ -1732,7 +1731,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:order-first` - Bestellen Sie zuerst im Fernsehen
 - `.tv:order-last` - Zuletzt im Fernsehen bestellen
 
-##### Negative Order - Tv (> 1200px)
+##### Negative Order - Tv (≥ 1200px)
 
 - `.hover:tv:-order-5` - Negative Order 5 beim Hover im Fernsehen
 - `.hover:tv:-order-4` - Negative Order 4 im Hover im Fernsehen
@@ -1745,7 +1744,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:-order-2` - Negative Order 2 im Fernsehen
 - `.tv:-order-1` - Negative Order 1 im Fernsehen
 
-##### Order - Tablet Max (< 768px)
+##### Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:order-5` - Bestellen Sie maximal 5 Stück, wenn Sie mit der Maus über das Tablet fahren
 - `.hover:tablet-max:order-4` - Bestellen Sie maximal 4, wenn Sie mit der Maus über das Tablet fahren
@@ -1764,7 +1763,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:order-first` - Bestellen Sie zuerst auf dem Tablet max
 - `.tablet-max:order-last` - Bestellen Sie zuletzt auf dem Tablet max
 
-##### Negative Order - Tablet Max (< 768px)
+##### Negative Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:-order-5` - Negative Bestellung 5 beim Hover auf dem Tablet max
 - `.hover:tablet-max:-order-4` - Negative Bestellung 4 beim Hover auf dem Tablet max
@@ -1777,7 +1776,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:-order-2` - Negativbestellung 2 auf Tablet max
 - `.tablet-max:-order-1` - Negativbestellung 1 auf Tablet max
 
-##### Order - Tablet Pc Max (< 992px)
+##### Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:order-5` - Bestellen Sie maximal 5 Stück beim Hover auf dem Tablet-PC
 - `.hover:tablet-pc-max:order-4` - Bestellen Sie 4 beim Hover auf dem Tablet-PC, max
@@ -1796,7 +1795,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:order-first` - Bestellen Sie zuerst auf dem Tablet-PC max
 - `.tablet-pc-max:order-last` - Bestellen Sie zuletzt am Tablet-PC max
 
-##### Negative Order - Tablet Pc Max (< 992px)
+##### Negative Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:-order-5` - Negativbestellung 5 beim Hover auf dem Tablet-PC max
 - `.hover:tablet-pc-max:-order-4` - Negative Bestellung 4 beim Hover auf dem Tablet-PC max
@@ -1809,7 +1808,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:-order-2` - Negativbestellung 2 auf Tablet-PC max
 - `.tablet-pc-max:-order-1` - Negativbestellung 1 auf Tablet-PC max
 
-##### Order - Pc Max (< 1200px)
+##### Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:order-5` - Bestellen Sie maximal 5 beim Hover auf dem PC
 - `.hover:pc-max:order-4` - Bestellen Sie maximal 4 beim Hover auf dem PC
@@ -1828,7 +1827,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc-max:order-first` - Bestellen Sie zuerst auf dem PC max
 - `.pc-max:order-last` - Bestellen Sie zuletzt auf dem PC max
 
-##### Negative Order - Pc Max (< 1200px)
+##### Negative Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:-order-5` - Negative Ordnung 5 beim Hover auf dem PC max
 - `.hover:pc-max:-order-4` - Negative Ordnung 4 beim Hover auf dem PC max
@@ -1909,10 +1908,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Margin Bottom
 
 - `.first:mb-0` - Rand unten 0rem zuerst anlegen
-- `.hover:mb-100` - Rand unten 100rem beim Schweben
-- `.hover:mb-75` - Rand unten 75rem beim Schweben
-- `.hover:mb-50` - Rand unten 50rem beim Schweben
-- `.hover:mb-25` - Rand unten 25rem beim Schweben
+- `.hover:mb-100` - Rand unten 100 % beim Schweben
+- `.hover:mb-75` - Rand unten 75 % beim Schweben
+- `.hover:mb-50` - Rand unten 50 % beim Schweben
+- `.hover:mb-25` - Rand unten 25 % beim Schweben
 - `.hover:mb-5` - Rand unten 5rem beim Schweben
 - `.hover:mb-4.5` - Rand unten 0rem beim Schweben
 - `.hover:mb-4` - Rand unten 4rem beim Schweben
@@ -1942,10 +1941,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:mb-0` - Rand unten 0rem beim Schweben
 - `.hover:mb-auto` - Rand unten automatisch beim Schweben
 - `.last:mb-0` - Rand unten 0rem zuletzt
-- `.mb-100` - Rand unten 100rem
-- `.mb-75` - Rand unten 75rem
-- `.mb-50` - Rand unten 50rem
-- `.mb-25` - Rand unten 25rem
+- `.mb-100` - Rand unten 100 %
+- `.mb-75` - Rand unten 75 %
+- `.mb-50` - Rand unten 50 %
+- `.mb-25` - Rand unten 25 %
 - `.mb-5` - Rand unten 5rem
 - `.mb-4.5` - Rand unten 0rem
 - `.mb-4` - Rand unten 4rem
@@ -1991,10 +1990,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Margin Left
 
 - `.first:ml-0` - Rand links 0rem zuerst
-- `.hover:ml-100` - Beim Hover beträgt der verbleibende Rand 100 rem
-- `.hover:ml-75` - Beim Schweben beträgt der verbleibende Rand 75 rem
-- `.hover:ml-50` - Beim Hover beträgt der verbleibende Rand 50 rem
-- `.hover:ml-25` - Beim Hover beträgt der verbleibende Rand 25 rem
+- `.hover:ml-100` - Beim Hover beträgt der verbleibende Rand 100 %
+- `.hover:ml-75` - Beim Schweben beträgt der verbleibende Rand 75 %
+- `.hover:ml-50` - Beim Hover beträgt der verbleibende Rand 50 %
+- `.hover:ml-25` - Beim Hover beträgt der verbleibende Rand 25 %
 - `.hover:ml-5` - Rand links 5rem beim Schweben
 - `.hover:ml-4.5` - Rand links 0rem beim Schweben
 - `.hover:ml-4` - Rand links 4rem beim Schweben
@@ -2024,10 +2023,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:ml-0` - Rand links 0rem beim Schweben
 - `.hover:ml-auto` - Beim Hover wird der linke Rand automatisch angezeigt
 - `.last:ml-0` - Rand links 0rem am letzten
-- `.ml-100` - Rand links 100rem
-- `.ml-75` - Rand links 75rem
-- `.ml-50` - Rand links 50rem
-- `.ml-25` - Rand links 25rem
+- `.ml-100` - Rand links 100 %
+- `.ml-75` - Rand links 75 %
+- `.ml-50` - Rand links 50 %
+- `.ml-25` - Rand links 25 %
 - `.ml-5` - Rand links 5rem
 - `.ml-4.5` - Rand links 0rem
 - `.ml-4` - Rand links 4rem
@@ -2060,10 +2059,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Margin Right
 
 - `.first:mr-0` - Rand rechts 0rem zuerst anbringen
-- `.hover:mr-100` - Rand rechts 100rem beim Schweben
-- `.hover:mr-75` - Rand rechts 75rem beim Schweben
-- `.hover:mr-50` - Rand rechts 50rem beim Schweben
-- `.hover:mr-25` - Rand rechts 25rem beim Schweben
+- `.hover:mr-100` - Rand rechts 100 % beim Schweben
+- `.hover:mr-75` - Rand rechts 75 % beim Schweben
+- `.hover:mr-50` - Rand rechts 50 % beim Schweben
+- `.hover:mr-25` - Rand rechts 25 % beim Schweben
 - `.hover:mr-5` - Rand rechts 5rem beim Schweben
 - `.hover:mr-4.5` - Rand rechts 0rem beim Schweben
 - `.hover:mr-4` - Rand rechts 4rem beim Schweben
@@ -2093,10 +2092,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:mr-0` - Rand rechts 0rem beim Schweben
 - `.hover:mr-auto` - Rand rechts automatisch beim Schweben
 - `.last:mr-0` - Rand rechts 0rem zuletzt
-- `.mr-100` - Rand rechts 100rem
-- `.mr-75` - Rand rechts 75rem
-- `.mr-50` - Rand rechts 50rem
-- `.mr-25` - Rand rechts 25rem
+- `.mr-100` - Rand rechts 100 %
+- `.mr-75` - Rand rechts 75 %
+- `.mr-50` - Rand rechts 50 %
+- `.mr-25` - Rand rechts 25 %
 - `.mr-5` - Rand rechts 5rem
 - `.mr-4.5` - Rand rechts 0rem
 - `.mr-4` - Rand rechts 4rem
@@ -2142,10 +2141,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Margin Top
 
 - `.first:mt-0` - Margin Top 0rem zuerst anlegen
-- `.hover:mt-100` - Margin Top 100rem beim Schweben
-- `.hover:mt-75` - Rand oben 75rem beim Schweben
-- `.hover:mt-50` - Rand Top 50rem beim Schweben
-- `.hover:mt-25` - Rand oben 25rem beim Schweben
+- `.hover:mt-100` - Margin Top 100 % beim Schweben
+- `.hover:mt-75` - Rand oben 75 % beim Schweben
+- `.hover:mt-50` - Rand Top 50 % beim Schweben
+- `.hover:mt-25` - Rand oben 25 % beim Schweben
 - `.hover:mt-5` - Rand oben 5rem beim Schweben
 - `.hover:mt-4.5` - Rand oben 0rem beim Schweben
 - `.hover:mt-4` - Rand oben 4rem beim Schweben
@@ -2175,10 +2174,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:mt-0` - Rand oben 0rem beim Schweben
 - `.hover:mt-auto` - Rand Oben automatisch beim Schweben
 - `.last:mt-0` - Rand oben 0rem zuletzt
-- `.mt-100` - Rand oben 100rem
-- `.mt-75` - Rand oben 75rem
-- `.mt-50` - Rand oben 50rem
-- `.mt-25` - Rand oben 25rem
+- `.mt-100` - Rand oben 100 %
+- `.mt-75` - Rand oben 75 %
+- `.mt-50` - Rand oben 50 %
+- `.mt-25` - Rand oben 25 %
 - `.mt-5` - Rand oben 5rem
 - `.mt-4.5` - Rand oben 0rem
 - `.mt-4` - Rand oben 4rem
@@ -2210,10 +2209,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Margin X-Axis
 
-- `.hover:mx-100` - Rand X-Achse 100rem beim Schweben
-- `.hover:mx-75` - Rand X-Achse 75rem beim Schweben
-- `.hover:mx-50` - Rand X-Achse 50rem beim Schweben
-- `.hover:mx-25` - Rand X-Achse 25rem beim Schweben
+- `.hover:mx-100` - Rand X-Achse 100 % beim Schweben
+- `.hover:mx-75` - Rand X-Achse 75 % beim Schweben
+- `.hover:mx-50` - Rand X-Achse 50 % beim Schweben
+- `.hover:mx-25` - Rand X-Achse 25 % beim Schweben
 - `.hover:mx-5` - Rand X-Achse 5rem beim Schweben
 - `.hover:mx-4.5` - Rand X-Achse 0rem beim Schweben
 - `.hover:mx-4` - Rand X-Achse 4rem beim Schweben
@@ -2242,10 +2241,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:mx-0.1` - Rand X-Achse 0,1rem beim Schweben
 - `.hover:mx-0` - Rand X-Achse 0rem beim Schweben
 - `.hover:mx-auto` - Rand der X-Achse automatisch beim Schweben
-- `.mx-100` - Rand X-Achse 100rem
-- `.mx-75` - Rand X-Achse 75rem
-- `.mx-50` - Rand X-Achse 50rem
-- `.mx-25` - Rand X-Achse 25rem
+- `.mx-100` - Rand X-Achse 100 %
+- `.mx-75` - Rand X-Achse 75 %
+- `.mx-50` - Rand X-Achse 50 %
+- `.mx-25` - Rand X-Achse 25 %
 - `.mx-5` - Rand X-Achse 5rem
 - `.mx-4.5` - Rand X-Achse 0rem
 - `.mx-4` - Rand X-Achse 4rem
@@ -2277,10 +2276,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Margin Y-Axis
 
-- `.hover:my-100` - Rand Y-Achse 100rem beim Schweben
-- `.hover:my-75` - Rand Y-Achse 75rem beim Schweben
-- `.hover:my-50` - Rand Y-Achse 50rem beim Schweben
-- `.hover:my-25` - Rand Y-Achse 25rem beim Schweben
+- `.hover:my-100` - Rand Y-Achse 100 % beim Schweben
+- `.hover:my-75` - Rand Y-Achse 75 % beim Schweben
+- `.hover:my-50` - Rand Y-Achse 50 % beim Schweben
+- `.hover:my-25` - Rand Y-Achse 25 % beim Schweben
 - `.hover:my-5` - Rand Y-Achse 5rem beim Schweben
 - `.hover:my-4.5` - Rand Y-Achse 0rem beim Schweben
 - `.hover:my-4` - Rand Y-Achse 4rem beim Schweben
@@ -2309,10 +2308,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:my-0.1` - Margin Y-Achse 0,1rem beim Schweben
 - `.hover:my-0` - Rand Y-Achse 0rem beim Schweben
 - `.hover:my-auto` - Rand der Y-Achse automatisch beim Schweben
-- `.my-100` - Rand Y-Achse 100rem
-- `.my-75` - Rand Y-Achse 75rem
-- `.my-50` - Rand Y-Achse 50rem
-- `.my-25` - Rand Y-Achse 25rem
+- `.my-100` - Rand Y-Achse 100 %
+- `.my-75` - Rand Y-Achse 75 %
+- `.my-50` - Rand Y-Achse 50 %
+- `.my-25` - Rand Y-Achse 25 %
 - `.my-5` - Rand Y-Achse 5rem
 - `.my-4.5` - Rand Y-Achse 0rem
 - `.my-4` - Rand Y-Achse 4rem
@@ -2406,10 +2405,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Padding Bottom
 
 - `.first:pb-0` - Polstern Sie zuerst den Boden 0rem auf
-- `.hover:pb-100` - Polsterung unten 100rem im Schwebeflug
-- `.hover:pb-75` - Polsterung unten 75rem im Schwebeflug
-- `.hover:pb-50` - Polsterung unten 50rem im Schwebeflug
-- `.hover:pb-25` - Polsterung unten 25rem im Schwebeflug
+- `.hover:pb-100` - Polsterung unten 100 % im Schwebeflug
+- `.hover:pb-75` - Polsterung unten 75 % im Schwebeflug
+- `.hover:pb-50` - Polsterung unten 50 % im Schwebeflug
+- `.hover:pb-25` - Polsterung unten 25 % im Schwebeflug
 - `.hover:pb-5` - Polsterung unten 5rem beim Schweben
 - `.hover:pb-4.5` - Polsterung unten 0rem beim Schweben
 - `.hover:pb-4` - Polsterung unten 4rem beim Schweben
@@ -2438,10 +2437,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pb-0.1` - Polsterung unten 0,1rem beim Schweben
 - `.hover:pb-0` - Polsterung unten 0rem beim Schweben
 - `.last:pb-0` - Polsterung unten 0rem am letzten
-- `.pb-100` - Polsterung unten 100rem
-- `.pb-75` - Polsterung unten 75rem
-- `.pb-50` - Polsterung unten 50rem
-- `.pb-25` - Polsterung unten 25rem
+- `.pb-100` - Polsterung unten 100 %
+- `.pb-75` - Polsterung unten 75 %
+- `.pb-50` - Polsterung unten 50 %
+- `.pb-25` - Polsterung unten 25 %
 - `.pb-5` - Polsterung unten 5rem
 - `.pb-4.5` - Polsterung unten 0rem
 - `.pb-4` - Polsterung unten 4rem
@@ -2532,10 +2531,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Padding Right
 
 - `.first:pr-0` - Padding Right 0rem zuerst auf
-- `.hover:pr-100` - Padding Right 100rem beim Schweben
-- `.hover:pr-75` - Polsterung rechts 75rem im Schwebeflug
-- `.hover:pr-50` - Polsterung rechts 50rem im Schwebeflug
-- `.hover:pr-25` - Polsterung rechts 25rem im Schwebeflug
+- `.hover:pr-100` - Padding Right 100 % beim Schweben
+- `.hover:pr-75` - Polsterung rechts 75 % im Schwebeflug
+- `.hover:pr-50` - Polsterung rechts 50 % im Schwebeflug
+- `.hover:pr-25` - Polsterung rechts 25 % im Schwebeflug
 - `.hover:pr-5` - Padding Right 5rem im Schwebeflug
 - `.hover:pr-4.5` - Polsterung nach rechts 0rem beim Schweben
 - `.hover:pr-4` - Padding Right 4rem beim Schweben
@@ -2564,10 +2563,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pr-0.1` - Polsterung nach rechts 0,1rem beim Schweben
 - `.hover:pr-0` - Polsterung nach rechts 0rem beim Schweben
 - `.last:pr-0` - Polsterung Rechts 0rem zum Schluss
-- `.pr-100` - Polsterung rechts 100rem
-- `.pr-75` - Polsterung rechts 75rem
-- `.pr-50` - Polsterung rechts 50rem
-- `.pr-25` - Polsterung rechts 25rem
+- `.pr-100` - Polsterung rechts 100 %
+- `.pr-75` - Polsterung rechts 75 %
+- `.pr-50` - Polsterung rechts 50 %
+- `.pr-25` - Polsterung rechts 25 %
 - `.pr-5` - Polsterung rechts 5rem
 - `.pr-4.5` - Polsterung rechts 0rem
 - `.pr-4` - Polsterung rechts 4rem
@@ -2599,10 +2598,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Padding Top
 
 - `.first:pt-0` - Zuerst Top 0rem aufpolstern
-- `.hover:pt-100` - Polsterung Top 100rem im Schwebeflug
-- `.hover:pt-75` - Polsterung oben 75rem im Schwebeflug
-- `.hover:pt-50` - Polsterung Top 50rem im Schwebeflug
-- `.hover:pt-25` - Polsterung oben 25rem im Schwebeflug
+- `.hover:pt-100` - Polsterung Top 100 % im Schwebeflug
+- `.hover:pt-75` - Polsterung oben 75 % im Schwebeflug
+- `.hover:pt-50` - Polsterung Top 50 % im Schwebeflug
+- `.hover:pt-25` - Polsterung oben 25 % im Schwebeflug
 - `.hover:pt-5` - Polsterung Top 5rem im Schwebeflug
 - `.hover:pt-4.5` - Polsterung oben 0rem beim Schweben
 - `.hover:pt-4` - Polsterung Top 4rem im Schwebeflug
@@ -2631,10 +2630,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pt-0.1` - Polsterung oben 0,1rem beim Schweben
 - `.hover:pt-0` - Polsterung oben 0rem beim Schweben
 - `.last:pt-0` - Polsterung oben 0rem am letzten
-- `.pt-100` - Polsterung oben 100rem
-- `.pt-75` - Polsterung oben 75rem
-- `.pt-50` - Polsterung oben 50rem
-- `.pt-25` - Polsterung oben 25rem
+- `.pt-100` - Polsterung oben 100 %
+- `.pt-75` - Polsterung oben 75 %
+- `.pt-50` - Polsterung oben 50 %
+- `.pt-25` - Polsterung oben 25 %
 - `.pt-5` - Polsterung oben 5rem
 - `.pt-4.5` - Polsterung oben 0rem
 - `.pt-4` - Polsterung oben 4rem
@@ -2665,10 +2664,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Padding X-Axis
 
-- `.hover:px-100` - Polsterung der X-Achse 100rem beim Schweben
-- `.hover:px-75` - Polsterung der X-Achse 75rem beim Schweben
-- `.hover:px-50` - Polsterung der X-Achse 50rem beim Schweben
-- `.hover:px-25` - Polsterung der X-Achse 25rem beim Schweben
+- `.hover:px-100` - Polsterung der X-Achse 100 % beim Schweben
+- `.hover:px-75` - Polsterung der X-Achse 75 % beim Schweben
+- `.hover:px-50` - Polsterung der X-Achse 50 % beim Schweben
+- `.hover:px-25` - Polsterung der X-Achse 25 % beim Schweben
 - `.hover:px-5` - Polsterung der X-Achse 5rem beim Schweben
 - `.hover:px-4.5` - Polsterung der X-Achse 0rem beim Schweben
 - `.hover:px-4` - Polsterung der X-Achse 4rem beim Schweben
@@ -2696,10 +2695,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:px-0.2` - Polsterung der X-Achse 0,2rem beim Schweben
 - `.hover:px-0.1` - Polsterung der X-Achse 0,1rem beim Schweben
 - `.hover:px-0` - Polsterung der X-Achse 0rem beim Schweben
-- `.px-100` - Polsterung X-Achse 100rem
-- `.px-75` - Polsterung X-Achse 75rem
-- `.px-50` - Polsterung X-Achse 50rem
-- `.px-25` - Polsterung X-Achse 25rem
+- `.px-100` - Polsterung X-Achse 100 %
+- `.px-75` - Polsterung X-Achse 75 %
+- `.px-50` - Polsterung X-Achse 50 %
+- `.px-25` - Polsterung X-Achse 25 %
 - `.px-5` - Polsterung X-Achse 5rem
 - `.px-4.5` - Polsterung X-Achse 0rem
 - `.px-4` - Polsterung X-Achse 4rem
@@ -2730,10 +2729,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Padding Y-Axis
 
-- `.hover:py-100` - Polsterung der Y-Achse 100rem beim Schweben
-- `.hover:py-75` - Polsterung der Y-Achse 75rem beim Schweben
-- `.hover:py-50` - Polsterung der Y-Achse 50rem beim Schweben
-- `.hover:py-25` - Polsterung der Y-Achse 25rem beim Schweben
+- `.hover:py-100` - Polsterung der Y-Achse 100 % beim Schweben
+- `.hover:py-75` - Polsterung der Y-Achse 75 % beim Schweben
+- `.hover:py-50` - Polsterung der Y-Achse 50 % beim Schweben
+- `.hover:py-25` - Polsterung der Y-Achse 25 % beim Schweben
 - `.hover:py-5` - Polsterung der Y-Achse 5rem beim Schweben
 - `.hover:py-4.5` - Polsterung der Y-Achse 0rem beim Schweben
 - `.hover:py-4` - Polsterung der Y-Achse 4rem beim Schweben
@@ -2761,10 +2760,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:py-0.2` - Polsterung der Y-Achse 0,2rem beim Schweben
 - `.hover:py-0.1` - Polsterung der Y-Achse 0,1rem beim Schweben
 - `.hover:py-0` - Polsterung der Y-Achse 0rem beim Schweben
-- `.py-100` - Polsterung Y-Achse 100rem
-- `.py-75` - Polsterung Y-Achse 75rem
-- `.py-50` - Polsterung Y-Achse 50rem
-- `.py-25` - Polsterung Y-Achse 25rem
+- `.py-100` - Polsterung Y-Achse 100 %
+- `.py-75` - Polsterung Y-Achse 75 %
+- `.py-50` - Polsterung Y-Achse 50 %
+- `.py-25` - Polsterung Y-Achse 25 %
 - `.py-5` - Polsterung Y-Achse 5rem
 - `.py-4.5` - Polsterung Y-Achse 0rem
 - `.py-4` - Polsterung Y-Achse 4rem
@@ -2840,7 +2839,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.w-5` - Breite 5 %
 - `.w-auto` - Breite automatisch %
 
-##### Width - Mobile (< 480px)
+##### Width - Mobile (≤ 480px)
 
 - `.hover:mobile:w-100` - Breite 100 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-95` - Breite 95 % beim Hover auf Mobilgeräten
@@ -3020,7 +3019,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:w-5` - Breite 5 % auf PC
 - `.pc:w-auto` - Breite automatisch % auf dem PC
 
-##### Width - Tv (> 1200px)
+##### Width - Tv (≥ 1200px)
 
 - `.hover:tv:w-100` - Breite 100 % beim Schweben im Fernsehen
 - `.hover:tv:w-95` - Breite 95 % beim Schweben im Fernsehen
@@ -3065,7 +3064,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:w-5` - Breite 5 % im Fernsehen
 - `.tv:w-auto` - Breite automatisch % im Fernsehen
 
-##### Width - Tablet Max (< 768px)
+##### Width - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:w-100` - Breite 100 % beim Hover auf dem Tablet max
 - `.hover:tablet-max:w-95` - Breite 95 % beim Hover auf dem Tablet max
@@ -3110,7 +3109,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:w-5` - Breite 5 % auf Tablet max
 - `.tablet-max:w-auto` - Breite automatisch % auf dem Tablet max
 
-##### Width - Tablet Pc Max (< 992px)
+##### Width - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:w-100` - Breite 100 % beim Hover auf dem Tablet-PC max
 - `.hover:tablet-pc-max:w-95` - Breite 95 % beim Hover auf dem Tablet-PC max
@@ -3155,7 +3154,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:w-5` - Breite 5 % auf Tablet-PC max
 - `.tablet-pc-max:w-auto` - Breite auto% auf Tablet-PC max
 
-##### Width - Pc Max (< 1200px)
+##### Width - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:w-100` - Breite 100 % beim Hover auf dem PC max
 - `.hover:pc-max:w-95` - Breite 95 % beim Hover auf dem PC max
@@ -3202,25 +3201,25 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Width vh
 
-- `.hover:w-vh-100` - Breite vh 100 % beim Schweben
-- `.hover:w-vh-75` - Breite vh 75 % beim Schweben
-- `.hover:w-vh-50` - Breite vh 50 % beim Schweben
-- `.hover:w-vh-25` - Breite vh 25 % beim Schweben
-- `.w-vh-100` - Breite vh 100 %
-- `.w-vh-75` - Breite vh 75 %
-- `.w-vh-50` - Breite vh 50 %
-- `.w-vh-25` - Breite vh 25 %
+- `.hover:w-vh-100` - Breite vh 100vh beim Schweben
+- `.hover:w-vh-75` - Breite vh 75vh beim Schweben
+- `.hover:w-vh-50` - Breite vh 50vh beim Schweben
+- `.hover:w-vh-25` - Breite vh 25vh beim Schweben
+- `.w-vh-100` - Breite vh 100vh
+- `.w-vh-75` - Breite vh 75vh
+- `.w-vh-50` - Breite vh 50vh
+- `.w-vh-25` - Breite vh 25vh
 
 #### Width vw
 
-- `.hover:w-vw-100` - Breite vw 100 % beim Schweben
-- `.hover:w-vw-75` - Breite vw 75 % im Schwebeflug
-- `.hover:w-vw-50` - Breite vw 50 % beim Schweben
-- `.hover:w-vw-25` - Breite vw 25 % beim Schweben
-- `.w-vw-100` - Breite vw 100 %
-- `.w-vw-75` - Breite vw 75 %
-- `.w-vw-50` - Breite vw 50 %
-- `.w-vw-25` - Breite vw 25 %
+- `.hover:w-vw-100` - Breite vw 100vw beim Schweben
+- `.hover:w-vw-75` - Breite vw 75vw im Schwebeflug
+- `.hover:w-vw-50` - Breite vw 50vw beim Schweben
+- `.hover:w-vw-25` - Breite vw 25vw beim Schweben
+- `.w-vw-100` - Breite vw 100vw
+- `.w-vw-75` - Breite vw 75vw
+- `.w-vw-50` - Breite vw 50vw
+- `.w-vw-25` - Breite vw 25vw
 
 ### Height
 
@@ -3267,7 +3266,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:h-5` - Höhe 5 % beim Schweben
 - `.hover:h-auto` - Höhe automatisch % beim Schweben
 
-##### Height - Mobile (< 480px)
+##### Height - Mobile (≤ 480px)
 
 - `.hover:mobile:h-100` - Höhe 100 % beim Schweben auf dem Mobilgerät
 - `.hover:mobile:h-95` - Höhe 95 % beim Schweben auf dem Mobilgerät
@@ -3446,7 +3445,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:h-5` - Höhe 5 % auf PC
 - `.pc:h-auto` - Höhe automatisch % auf dem PC
 
-##### Height - Tv (> 1200px)
+##### Height - Tv (≥ 1200px)
 
 - `.hover:tv:h-100` - Höhe 100 % beim Schweben im Fernsehen
 - `.hover:tv:h-95` - Höhe 95 % beim Schweben im Fernsehen
@@ -3491,7 +3490,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:h-5` - Höhe 5 % im Fernsehen
 - `.tv:h-auto` - Höhe automatisch% im Fernsehen
 
-##### Height - Tablet Max (< 768px)
+##### Height - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:h-100` - Höhe 100 % beim Schweben auf dem Tablet max
 - `.hover:tablet-max:h-95` - Höhe 95 % beim Schweben auf dem Tablet max
@@ -3536,7 +3535,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:h-5` - Höhe 5 % auf Tablet max
 - `.tablet-max:h-auto` - Höhe automatisch % auf dem Tablet max
 
-##### Height - Tablet Pc Max (< 992px)
+##### Height - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:h-100` - Höhe 100 % beim Schweben auf dem Tablet-PC max
 - `.hover:tablet-pc-max:h-95` - Höhe 95 % beim Schweben auf dem Tablet-PC max
@@ -3581,7 +3580,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:h-5` - Höhe 5 % auf Tablet-PC max
 - `.tablet-pc-max:h-auto` - Höhe automatisch % auf Tablet-PC max
 
-##### Height - Pc Max (< 1200px)
+##### Height - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:h-100` - Höhe 100 % beim Schweben auf dem PC max
 - `.hover:pc-max:h-95` - Höhe 95 % beim Schweben auf dem PC max
@@ -3628,25 +3627,25 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Height vh
 
-- `.h-vh-100` - Höhe vh 100 %
-- `.h-vh-75` - Höhe vh 75 %
-- `.h-vh-50` - Höhe vh 50 %
-- `.h-vh-25` - Höhe vh 25 %
-- `.hover:h-vh-100` - Höhe vh 100 % beim Schweben
-- `.hover:h-vh-75` - Höhe vh 75 % im Schwebeflug
-- `.hover:h-vh-50` - Höhe vh 50 % beim Schweben
-- `.hover:h-vh-25` - Höhe vh 25 % beim Schweben
+- `.h-vh-100` - Höhe vh 100vh
+- `.h-vh-75` - Höhe vh 75vh
+- `.h-vh-50` - Höhe vh 50vh
+- `.h-vh-25` - Höhe vh 25vh
+- `.hover:h-vh-100` - Höhe vh 100vh beim Schweben
+- `.hover:h-vh-75` - Höhe vh 75vh im Schwebeflug
+- `.hover:h-vh-50` - Höhe vh 50vh beim Schweben
+- `.hover:h-vh-25` - Höhe vh 25vh beim Schweben
 
 #### Height vw
 
-- `.h-vw-100` - Höhe vw 100 %
-- `.h-vw-75` - Höhe vw 75 %
-- `.h-vw-50` - Höhe vw 50 %
-- `.h-vw-25` - Höhe vw 25 %
-- `.hover:h-vw-100` - Höhe vw 100 % im Schwebeflug
-- `.hover:h-vw-75` - Höhe vw 75 % im Schwebeflug
-- `.hover:h-vw-50` - Höhe vw 50 % im Schwebeflug
-- `.hover:h-vw-25` - Höhe vw 25 % im Schwebeflug
+- `.h-vw-100` - Höhe vw 100vw
+- `.h-vw-75` - Höhe vw 75vw
+- `.h-vw-50` - Höhe vw 50vw
+- `.h-vw-25` - Höhe vw 25vw
+- `.hover:h-vw-100` - Höhe vw 100vw im Schwebeflug
+- `.hover:h-vw-75` - Höhe vw 75vw im Schwebeflug
+- `.hover:h-vw-50` - Höhe vw 50vw im Schwebeflug
+- `.hover:h-vw-25` - Höhe vw 25vw im Schwebeflug
 
 ## Positioning
 
@@ -3677,10 +3676,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Top
 
-- `.hover:top-100` - Top 100rem im Schwebeflug
-- `.hover:top-75` - Top 75rem im Schwebeflug
-- `.hover:top-50` - Top 50rem im Schwebeflug
-- `.hover:top-25` - Top 25rem im Schwebeflug
+- `.hover:top-100` - Top 100 % im Schwebeflug
+- `.hover:top-75` - Top 75 % im Schwebeflug
+- `.hover:top-50` - Top 50 % im Schwebeflug
+- `.hover:top-25` - Top 25 % im Schwebeflug
 - `.hover:top-5` - Top 5rem im Schwebeflug
 - `.hover:top-4.5` - Top 0rem beim Schweben
 - `.hover:top-4` - Top 4rem im Schwebeflug
@@ -3708,10 +3707,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:top-0.2` - Top 0,2rem beim Schweben
 - `.hover:top-0.1` - Top 0,1rem beim Schweben
 - `.hover:top-0` - Top 0rem beim Schweben
-- `.top-100` - Top 100rem
-- `.top-75` - Top 75rem
-- `.top-50` - Top 50rem
-- `.top-25` - Top 25rem
+- `.top-100` - Top 100 %
+- `.top-75` - Top 75 %
+- `.top-50` - Top 50 %
+- `.top-25` - Top 25 %
 - `.top-5` - Top 5rem
 - `.top-4.5` - Top 0rem
 - `.top-4` - Top 4rem
@@ -3797,10 +3796,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Right
 
-- `.hover:right-100` - Rechts 100rem im Schwebeflug
-- `.hover:right-75` - Rechts 75rem im Schwebeflug
-- `.hover:right-50` - Rechts 50rem im Schwebeflug
-- `.hover:right-25` - Rechts 25rem im Schwebeflug
+- `.hover:right-100` - Rechts 100 % im Schwebeflug
+- `.hover:right-75` - Rechts 75 % im Schwebeflug
+- `.hover:right-50` - Rechts 50 % im Schwebeflug
+- `.hover:right-25` - Rechts 25 % im Schwebeflug
 - `.hover:right-5` - Rechts 5rem im Schwebeflug
 - `.hover:right-4.5` - Rechts 0rem im Schwebeflug
 - `.hover:right-4` - Rechts 4rem im Schwebeflug
@@ -3828,10 +3827,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:right-0.2` - Rechts 0,2rem beim Schweben
 - `.hover:right-0.1` - Rechts 0,1rem beim Schweben
 - `.hover:right-0` - Rechts 0rem im Schwebeflug
-- `.right-100` - Richtig 100rem
-- `.right-75` - Rechts 75rem
-- `.right-50` - Richtig 50rem
-- `.right-25` - Rechts 25rem
+- `.right-100` - Richtig 100 %
+- `.right-75` - Rechts 75 %
+- `.right-50` - Richtig 50 %
+- `.right-25` - Rechts 25 %
 - `.right-5` - Rechts 5rem
 - `.right-4.5` - Richtig 0rem
 - `.right-4` - Rechts 4rem
@@ -3917,10 +3916,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Bottom
 
-- `.bottom-100` - Unten 100rem
-- `.bottom-75` - Unten 75rem
-- `.bottom-50` - Unten 50rem
-- `.bottom-25` - Unten 25rem
+- `.bottom-100` - Unten 100 %
+- `.bottom-75` - Unten 75 %
+- `.bottom-50` - Unten 50 %
+- `.bottom-25` - Unten 25 %
 - `.bottom-5` - Unten 5rem
 - `.bottom-4.5` - Unten 0rem
 - `.bottom-4` - Unten 4rem
@@ -3948,10 +3947,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.bottom-0.2` - Unten 0,2rem
 - `.bottom-0.1` - Unten 0,1rem
 - `.bottom-0` - Unten 0rem
-- `.hover:bottom-100` - Untere 100rem im Schwebeflug
-- `.hover:bottom-75` - Unten 75rem im Schwebeflug
-- `.hover:bottom-50` - Unten 50rem im Schwebeflug
-- `.hover:bottom-25` - Unten 25rem im Schwebeflug
+- `.hover:bottom-100` - Untere 100 % im Schwebeflug
+- `.hover:bottom-75` - Unten 75 % im Schwebeflug
+- `.hover:bottom-50` - Unten 50 % im Schwebeflug
+- `.hover:bottom-25` - Unten 25 % im Schwebeflug
 - `.hover:bottom-5` - Unten 5rem im Schwebeflug
 - `.hover:bottom-4.5` - Unten 0rem beim Schweben
 - `.hover:bottom-4` - Unten 4rem im Schwebeflug
@@ -4037,10 +4036,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Left
 
-- `.hover:left-100` - 100 Minuten im Schwebeflug übrig geblieben
-- `.hover:left-75` - 75 Minuten im Schwebeflug übrig
-- `.hover:left-50` - 50 Minuten im Schwebeflug übrig
-- `.hover:left-25` - 25 Minuten im Schwebeflug übrig
+- `.hover:left-100` - 100 % im Schwebeflug übrig geblieben
+- `.hover:left-75` - 75 % im Schwebeflug übrig
+- `.hover:left-50` - 50 % im Schwebeflug übrig
+- `.hover:left-25` - 25 % im Schwebeflug übrig
 - `.hover:left-5` - 5 Minuten im Schwebeflug übrig
 - `.hover:left-4.5` - 0rem im Schwebezustand verlassen
 - `.hover:left-4` - 4 Minuten im Schwebeflug übrig
@@ -4068,10 +4067,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:left-0.2` - 0,2 Rem beim Schweben übrig
 - `.hover:left-0.1` - Beim Schweben 0,1 Rem übrig
 - `.hover:left-0` - 0rem im Schwebezustand verlassen
-- `.left-100` - 100rem übrig
-- `.left-75` - Links 75rem
-- `.left-50` - Links 50rem
-- `.left-25` - Links 25rem
+- `.left-100` - 100 % übrig
+- `.left-75` - Links 75 %
+- `.left-50` - Links 50 %
+- `.left-25` - Links 25 %
 - `.left-5` - Links 5rem
 - `.left-4.5` - Links 0rem
 - `.left-4` - Links 4rem
@@ -4157,18 +4156,18 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Z-Index
 
-- `.hover:z-5` - Z-Index 5 beim Schweben
-- `.hover:z-4` - Z-Index 4 beim Schweben
-- `.hover:z-3` - Z-Index 3 beim Schweben
-- `.hover:z-2` - Z-Index 2 beim Schweben
-- `.hover:z-1` - Z-Index 1 beim Schweben
+- `.hover:z-5` - Z-Index 1005 beim Schweben
+- `.hover:z-4` - Z-Index 1004 beim Schweben
+- `.hover:z-3` - Z-Index 1003 beim Schweben
+- `.hover:z-2` - Z-Index 1002 beim Schweben
+- `.hover:z-1` - Z-Index 1001 beim Schweben
 - `.hover:z-0` - Z-Index 0 beim Schweben
 - `.hover:z-auto` - Z-Index automatisch beim Schweben
-- `.z-5` - Z-Index 5
-- `.z-4` - Z-Index 4
-- `.z-3` - Z-Index 3
-- `.z-2` - Z-Index 2
-- `.z-1` - Z-Index 1
+- `.z-5` - Z-Index 1005
+- `.z-4` - Z-Index 1004
+- `.z-3` - Z-Index 1003
+- `.z-2` - Z-Index 1002
+- `.z-1` - Z-Index 1001
 - `.z-0` - Z-Index 0
 - `.z-auto` - Z-Index automatisch
 
@@ -4357,7 +4356,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.text-transparent` - Text transparent
 - `.text-uppercase` - Text in Großbuchstaben
 
-##### Text - Mobile (< 480px)
+##### Text - Mobile (≤ 480px)
 
 - `.hover:mobile:text-center` - Textmitte beim Hover auf dem Mobilgerät
 - `.hover:mobile:text-end` - Der Text endet, wenn man auf dem Handy mit der Maus darüber fährt
@@ -4417,7 +4416,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:text-right` - Text direkt auf dem PC
 - `.pc:text-start` - Textanfang am PC
 
-##### Text - Tv (> 1200px)
+##### Text - Tv (≥ 1200px)
 
 - `.hover:tv:text-center` - Textmitte beim Schweben auf dem Fernseher
 - `.hover:tv:text-end` - Der Text endet, wenn man mit der Maus über den Fernseher fährt
@@ -4432,7 +4431,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:text-right` - Text direkt im Fernsehen
 - `.tv:text-start` - Textanfang im Fernsehen
 
-##### Text - Tablet Max (< 768px)
+##### Text - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:text-center` - Textmitte beim Hover auf dem Tablet max
 - `.hover:tablet-max:text-end` - Textende bei Hover auf dem Tablet max
@@ -4447,7 +4446,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:text-right` - Text direkt auf dem Tablet max
 - `.tablet-max:text-start` - Textanfang auf Tablet max
 
-##### Text - Tablet Pc Max (< 992px)
+##### Text - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:text-center` - Textmitte beim Hover auf Tablet-PC max
 - `.hover:tablet-pc-max:text-end` - Textende bei Hover auf Tablet-PC max
@@ -4462,7 +4461,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:text-right` - Text direkt auf dem Tablet-PC max
 - `.tablet-pc-max:text-start` - Textanfang auf Tablet-PC max
 
-##### Text - Pc Max (< 1200px)
+##### Text - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:text-center` - Textmitte beim Hover auf dem PC max
 - `.hover:pc-max:text-end` - Textende bei Hover auf PC max
@@ -4514,18 +4513,18 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Bg blur
 
-- `.bg-blur-5` - Hintergrundunschärfe 5rem
-- `.bg-blur-4` - Hintergrundunschärfe 4rem
-- `.bg-blur-3` - Hintergrundunschärfe 3rem
-- `.bg-blur-2` - Hintergrundunschärfe 2rem
-- `.bg-blur-1` - Hintergrundunschärfe 1rem
-- `.bg-blur-0` - Hintergrundunschärfe 0rem
-- `.hover:bg-blur-5` - Hintergrundunschärfe 5rem beim Schweben
-- `.hover:bg-blur-4` - Hintergrundunschärfe 4rem beim Schweben
-- `.hover:bg-blur-3` - Hintergrundunschärfe 3rem beim Schweben
-- `.hover:bg-blur-2` - Hintergrundunschärfe 2rem beim Schweben
-- `.hover:bg-blur-1` - Hintergrundunschärfe 1 Rem beim Schweben
-- `.hover:bg-blur-0` - Hintergrundunschärfe 0rem beim Schweben
+- `.bg-blur-5` - Hintergrundunschärfe 24px
+- `.bg-blur-4` - Hintergrundunschärfe 16px
+- `.bg-blur-3` - Hintergrundunschärfe 12px
+- `.bg-blur-2` - Hintergrundunschärfe 8px
+- `.bg-blur-1` - Hintergrundunschärfe 4px
+- `.bg-blur-0` - Hintergrundunschärfe 0px
+- `.hover:bg-blur-5` - Hintergrundunschärfe 24px beim Schweben
+- `.hover:bg-blur-4` - Hintergrundunschärfe 16px beim Schweben
+- `.hover:bg-blur-3` - Hintergrundunschärfe 12px beim Schweben
+- `.hover:bg-blur-2` - Hintergrundunschärfe 8px beim Schweben
+- `.hover:bg-blur-1` - Hintergrundunschärfe 4px beim Schweben
+- `.hover:bg-blur-0` - Hintergrundunschärfe 0px beim Schweben
 
 ## Borders
 
@@ -4884,26 +4883,26 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Box Shadow All
 
 - `.hover:shadow-5` - Box Shadow Alle 5rem im Schwebeflug
-- `.hover:shadow-5-1` - Box Shadow Alle 5-1rem im Schwebeflug
+- `.hover:shadow-5-1` - Box Shadow Alle 0 0 5rem 2rem im Schwebeflug
 - `.hover:shadow-4` - Box Shadow Alle 4rem im Schwebeflug
-- `.hover:shadow-4-1` - Box Shadow Alle 4-1rem im Schwebeflug
+- `.hover:shadow-4-1` - Box Shadow Alle 0 0 4rem 2rem im Schwebeflug
 - `.hover:shadow-3` - Box Shadow Alle 3rem im Schwebeflug
-- `.hover:shadow-3-1` - Box Shadow Alle 3-1rem im Schwebeflug
+- `.hover:shadow-3-1` - Box Shadow Alle 0 0 3rem 2rem im Schwebeflug
 - `.hover:shadow-2` - Box Shadow Alle 2rem im Schwebeflug
-- `.hover:shadow-2-1` - Box Shadow Alle 2-1rem beim Schweben
+- `.hover:shadow-2-1` - Box Shadow Alle 0 0 2rem 2rem beim Schweben
 - `.hover:shadow-1` - Box Shadow All 1rem beim Schweben
-- `.hover:shadow-1-1` - Box Shadow Alle 1-1rem beim Schweben
+- `.hover:shadow-1-1` - Box Shadow Alle 0 0 1rem 2rem beim Schweben
 - `.hover:shadow-none` - Box Shadow Alle keine beim Schweben
 - `.shadow-5` - Box Shadow Alle 5rem
-- `.shadow-5-1` - Box Shadow Alle 5-1rem
+- `.shadow-5-1` - Box Shadow Alle 0 0 5rem 2rem
 - `.shadow-4` - Box Shadow Alle 4rem
-- `.shadow-4-1` - Box Shadow Alle 4-1rem
+- `.shadow-4-1` - Box Shadow Alle 0 0 4rem 2rem
 - `.shadow-3` - Box Shadow Alle 3rem
-- `.shadow-3-1` - Box Shadow Alle 3-1rem
+- `.shadow-3-1` - Box Shadow Alle 0 0 3rem 2rem
 - `.shadow-2` - Box Shadow Alle 2rem
-- `.shadow-2-1` - Box Shadow Alle 2-1rem
+- `.shadow-2-1` - Box Shadow Alle 0 0 2rem 2rem
 - `.shadow-1` - Box Shadow Alle 1rem
-- `.shadow-1-1` - Box Shadow Alle 1-1rem
+- `.shadow-1-1` - Box Shadow Alle 0 0 1rem 2rem
 - `.shadow-none` - Box Shadow Alle keine
 
 #### Box Shadow Bottom
@@ -5046,18 +5045,18 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Blur
 
-- `.blur-5` - Unschärfe 5rem
-- `.blur-4` - Unschärfe 4rem
-- `.blur-3` - Unschärfe 3rem
-- `.blur-2` - Unschärfe 2rem
-- `.blur-1` - Unschärfe 1rem
-- `.blur-0` - Unschärfe 0rem
-- `.hover:blur-5` - Unschärfe 5rem beim Schweben
-- `.hover:blur-4` - 4rem beim Schweben verwischen
-- `.hover:blur-3` - 3rem beim Schweben verwischen
-- `.hover:blur-2` - Beim Schweben 2rem verwischen
-- `.hover:blur-1` - 1 Rem beim Schweben verwischen
-- `.hover:blur-0` - Beim Schweben 0rem verwischen
+- `.blur-5` - Unschärfe 24px
+- `.blur-4` - Unschärfe 16px
+- `.blur-3` - Unschärfe 12px
+- `.blur-2` - Unschärfe 8px
+- `.blur-1` - Unschärfe 4px
+- `.blur-0` - Unschärfe 0px
+- `.hover:blur-5` - Unschärfe 24px beim Schweben
+- `.hover:blur-4` - 16px beim Schweben verwischen
+- `.hover:blur-3` - 12px beim Schweben verwischen
+- `.hover:blur-2` - Beim Schweben 8px verwischen
+- `.hover:blur-1` - 4px beim Schweben verwischen
+- `.hover:blur-0` - Beim Schweben 0px verwischen
 
 ### Opacity
 
@@ -5108,111 +5107,111 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Rotate
 
-- `.hover:rotate-180` - Beim Schweben um 180 rem drehen
-- `.hover:rotate-135` - Beim Schweben um 135 rem drehen
-- `.hover:rotate-90` - Beim Schweben um 90 rem drehen
-- `.hover:rotate-45` - Beim Schweben um 45 rem drehen
-- `.hover:rotate-12` - Beim Schweben um 12 Rem drehen
-- `.hover:rotate-9` - Beim Schweben um 9 rem drehen
-- `.hover:rotate-6` - Beim Schweben um 6 Rem drehen
-- `.hover:rotate-3` - Beim Schweben um 3 Rem drehen
-- `.hover:rotate-0` - Beim Schweben um 0 rem drehen
-- `.rotate-180` - 180° drehen
-- `.rotate-135` - 135rem drehen
-- `.rotate-90` - 90° drehen
-- `.rotate-45` - 45rem drehen
-- `.rotate-12` - 12rem drehen
-- `.rotate-9` - 9rem drehen
-- `.rotate-6` - 6rem drehen
-- `.rotate-3` - 3rem drehen
-- `.rotate-0` - 0rem drehen
+- `.hover:rotate-180` - Beim Schweben um 180deg drehen
+- `.hover:rotate-135` - Beim Schweben um 135deg drehen
+- `.hover:rotate-90` - Beim Schweben um 90deg drehen
+- `.hover:rotate-45` - Beim Schweben um 45deg drehen
+- `.hover:rotate-12` - Beim Schweben um 12deg drehen
+- `.hover:rotate-9` - Beim Schweben um 9deg drehen
+- `.hover:rotate-6` - Beim Schweben um 6deg drehen
+- `.hover:rotate-3` - Beim Schweben um 3deg drehen
+- `.hover:rotate-0` - Beim Schweben um 0deg drehen
+- `.rotate-180` - 180deg drehen
+- `.rotate-135` - 135deg drehen
+- `.rotate-90` - 90deg drehen
+- `.rotate-45` - 45deg drehen
+- `.rotate-12` - 12deg drehen
+- `.rotate-9` - 9deg drehen
+- `.rotate-6` - 6deg drehen
+- `.rotate-3` - 3deg drehen
+- `.rotate-0` - 0deg drehen
 
 ##### Negative Rotate
 
-- `.-rotate-180` - Negativ 180rem drehen
-- `.-rotate-135` - Negativ drehen 135rem
-- `.-rotate-90` - Negativ drehen 90rem
-- `.-rotate-45` - Negativ drehen 45rem
-- `.-rotate-12` - Negativ drehen 12rem
-- `.-rotate-9` - Negativ drehen 9rem
-- `.-rotate-6` - Negativ drehen 6rem
-- `.-rotate-3` - Negativ drehen 3rem
-- `.hover:-rotate-180` - Negativ: Beim Schweben um 180 rem drehen
-- `.hover:-rotate-135` - Negativ: 135 rem beim Schweben drehen
-- `.hover:-rotate-90` - Negativ: 90 rem beim Schweben drehen
-- `.hover:-rotate-45` - Negativ: 45 rem beim Schweben drehen
-- `.hover:-rotate-12` - Negativ, 12 Rem drehen beim Schweben
-- `.hover:-rotate-9` - Negativ: 9 rem beim Schweben drehen
-- `.hover:-rotate-6` - Negativ: 6 rem beim Schweben drehen
-- `.hover:-rotate-3` - Negativ 3 Rem drehen beim Schweben
+- `.-rotate-180` - Negativ 180deg drehen
+- `.-rotate-135` - Negativ drehen 135deg
+- `.-rotate-90` - Negativ drehen 90deg
+- `.-rotate-45` - Negativ drehen 45deg
+- `.-rotate-12` - Negativ drehen 12deg
+- `.-rotate-9` - Negativ drehen 9deg
+- `.-rotate-6` - Negativ drehen 6deg
+- `.-rotate-3` - Negativ drehen 3deg
+- `.hover:-rotate-180` - Negativ: Beim Schweben um 180deg drehen
+- `.hover:-rotate-135` - Negativ: 135deg beim Schweben drehen
+- `.hover:-rotate-90` - Negativ: 90deg beim Schweben drehen
+- `.hover:-rotate-45` - Negativ: 45deg beim Schweben drehen
+- `.hover:-rotate-12` - Negativ, 12deg drehen beim Schweben
+- `.hover:-rotate-9` - Negativ: 9deg beim Schweben drehen
+- `.hover:-rotate-6` - Negativ: 6deg beim Schweben drehen
+- `.hover:-rotate-3` - Negativ 3deg drehen beim Schweben
 
 ### Skew
 
 #### Skew X-Axis
 
-- `.hover:skew-x-12` - Verzerren Sie die X-Achse um 12 rem beim Schweben
-- `.hover:skew-x-6` - X-Achse 6rem beim Schweben verzerren
-- `.hover:skew-x-3` - X-Achse 3rem beim Schweben verzerren
-- `.hover:skew-x-0` - Verzerre die X-Achse um 0rem beim Schweben
-- `.skew-x-12` - Skew X-Achse 12rem
-- `.skew-x-6` - Skew X-Achse 6rem
-- `.skew-x-3` - Skew X-Achse 3rem
-- `.skew-x-0` - Skew X-Achse 0rem
+- `.hover:skew-x-12` - Verzerren Sie die X-Achse um 12deg beim Schweben
+- `.hover:skew-x-6` - X-Achse 6deg beim Schweben verzerren
+- `.hover:skew-x-3` - X-Achse 3deg beim Schweben verzerren
+- `.hover:skew-x-0` - Verzerre die X-Achse um 0deg beim Schweben
+- `.skew-x-12` - Skew X-Achse 12deg
+- `.skew-x-6` - Skew X-Achse 6deg
+- `.skew-x-3` - Skew X-Achse 3deg
+- `.skew-x-0` - Skew X-Achse 0deg
 
 ##### Negative Skew X-Axis
 
-- `.-skew-x-12` - Negativer Skew X-Achse 12rem
-- `.-skew-x-6` - Negativer Skew X-Achse 6rem
-- `.-skew-x-3` - Negativer Skew X-Achse 3rem
-- `.hover:-skew-x-12` - Negativer Skew X-Achse 12rem beim Schweben
-- `.hover:-skew-x-6` - Negativer Skew X-Achse 6rem beim Schweben
-- `.hover:-skew-x-3` - Negativer Skew X-Achse 3rem beim Schweben
+- `.-skew-x-12` - Negativer Skew X-Achse 12deg
+- `.-skew-x-6` - Negativer Skew X-Achse 6deg
+- `.-skew-x-3` - Negativer Skew X-Achse 3deg
+- `.hover:-skew-x-12` - Negativer Skew X-Achse 12deg beim Schweben
+- `.hover:-skew-x-6` - Negativer Skew X-Achse 6deg beim Schweben
+- `.hover:-skew-x-3` - Negativer Skew X-Achse 3deg beim Schweben
 
 #### Skew Y-Axis
 
-- `.hover:skew-y-12` - Y-Achse 12rem beim Schweben verzerren
-- `.hover:skew-y-6` - Y-Achse 6rem beim Schweben verzerren
-- `.hover:skew-y-3` - Schräge Y-Achse 3rem beim Schweben
-- `.hover:skew-y-0` - Y-Achse 0rem beim Schweben verzerren
-- `.skew-y-12` - Skew Y-Achse 12rem
-- `.skew-y-6` - Skew Y-Achse 6rem
-- `.skew-y-3` - Skew Y-Achse 3rem
-- `.skew-y-0` - Skew Y-Achse 0rem
+- `.hover:skew-y-12` - Y-Achse 12deg beim Schweben verzerren
+- `.hover:skew-y-6` - Y-Achse 6deg beim Schweben verzerren
+- `.hover:skew-y-3` - Schräge Y-Achse 3deg beim Schweben
+- `.hover:skew-y-0` - Y-Achse 0deg beim Schweben verzerren
+- `.skew-y-12` - Skew Y-Achse 12deg
+- `.skew-y-6` - Skew Y-Achse 6deg
+- `.skew-y-3` - Skew Y-Achse 3deg
+- `.skew-y-0` - Skew Y-Achse 0deg
 
 ##### Negative Skew Y-Axis
 
-- `.-skew-y-12` - Negativer Skew Y-Achse 12rem
-- `.-skew-y-6` - Negativer Skew Y-Achse 6rem
-- `.-skew-y-3` - Negativer Skew Y-Achse 3rem
-- `.hover:-skew-y-12` - Negativer Skew Y-Achse 12rem beim Schweben
-- `.hover:-skew-y-6` - Negativer Skew Y-Achse 6rem beim Schweben
-- `.hover:-skew-y-3` - Negativer Skew Y-Achse 3rem beim Schweben
+- `.-skew-y-12` - Negativer Skew Y-Achse 12deg
+- `.-skew-y-6` - Negativer Skew Y-Achse 6deg
+- `.-skew-y-3` - Negativer Skew Y-Achse 3deg
+- `.hover:-skew-y-12` - Negativer Skew Y-Achse 12deg beim Schweben
+- `.hover:-skew-y-6` - Negativer Skew Y-Achse 6deg beim Schweben
+- `.hover:-skew-y-3` - Negativer Skew Y-Achse 3deg beim Schweben
 
 ### Translate
 
-- `.hover:translate-50` - Übersetze 50rem beim Schweben
-- `.hover:translate-25` - Übersetzen Sie 25rem beim Schweben
-- `.translate-50` - Übersetzen Sie 50rem
-- `.translate-25` - Übersetzen Sie 25rem
+- `.hover:translate-50` - Übersetze 50 % beim Schweben
+- `.hover:translate-25` - Übersetzen Sie 25 % beim Schweben
+- `.translate-50` - Übersetzen Sie 50 %
+- `.translate-25` - Übersetzen Sie 25 %
 
 ##### Negative Translate
 
-- `.-translate-50` - Negativ übersetzen 50rem
-- `.-translate-25` - Negativ übersetzen 25rem
-- `.hover:-translate-50` - Negativ Übersetzen Sie 50 rem beim Schweben
-- `.hover:-translate-25` - Negativ Übersetzen Sie 25rem beim Schweben
+- `.-translate-50` - Negativ übersetzen 50 %
+- `.-translate-25` - Negativ übersetzen 25 %
+- `.hover:-translate-50` - Negativ Übersetzen Sie 50 % beim Schweben
+- `.hover:-translate-25` - Negativ Übersetzen Sie 25 % beim Schweben
 
 #### Translate X-Axis
 
-- `.hover:translate-x-50` - Verschieben Sie die X-Achse um 50 rem beim Schweben
-- `.hover:translate-x-25` - Verschieben Sie die X-Achse um 25 rem beim Schweben
+- `.hover:translate-x-50` - Verschieben Sie die X-Achse um 50 % beim Schweben
+- `.hover:translate-x-25` - Verschieben Sie die X-Achse um 25 % beim Schweben
 - `.hover:translate-x-2` - Verschieben Sie die X-Achse 2rem beim Schweben
 - `.hover:translate-x-1.5` - Verschieben Sie die X-Achse 0rem beim Hover
 - `.hover:translate-x-1` - Verschieben Sie die X-Achse 1rem beim Schweben
 - `.hover:translate-x-0.5` - Verschieben Sie die X-Achse beim Schweben um 0,5 rem
 - `.hover:translate-x-0` - Verschieben Sie die X-Achse 0rem beim Hover
-- `.translate-x-50` - X-Achse 50rem verschieben
-- `.translate-x-25` - X-Achse um 25rem verschieben
+- `.translate-x-50` - X-Achse 50 % verschieben
+- `.translate-x-25` - X-Achse um 25 % verschieben
 - `.translate-x-2` - X-Achse 2rem verschieben
 - `.translate-x-1.5` - X-Achse 0rem verschieben
 - `.translate-x-1` - X-Achse 1rem verschieben
@@ -5221,14 +5220,14 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ##### Negative Translate X-Axis
 
-- `.-translate-x-50` - Negative Verschiebung der X-Achse 50rem
-- `.-translate-x-25` - Negative Verschiebung der X-Achse 25rem
+- `.-translate-x-50` - Negative Verschiebung der X-Achse 50 %
+- `.-translate-x-25` - Negative Verschiebung der X-Achse 25 %
 - `.-translate-x-2` - Negativ X-Achse verschieben 2rem
 - `.-translate-x-1.5` - Negative Verschiebung der X-Achse 1,5rem
 - `.-translate-x-1` - Negativ X-Achse verschieben 1rem
 - `.-translate-x-0.5` - Negative Verschiebung der X-Achse 0,5rem
-- `.hover:-translate-x-50` - Negative Verschiebung der X-Achse um 50 rem beim Schweben
-- `.hover:-translate-x-25` - Negativ X-Achse 25rem verschieben beim Schweben
+- `.hover:-translate-x-50` - Negative Verschiebung der X-Achse um 50 % beim Schweben
+- `.hover:-translate-x-25` - Negativ X-Achse 25 % verschieben beim Schweben
 - `.hover:-translate-x-2` - Negativ X-Achse 2rem verschieben beim Schweben
 - `.hover:-translate-x-1.5` - Negative Verschiebung der X-Achse 1,5rem beim Schweben
 - `.hover:-translate-x-1` - Negative Verschiebung der X-Achse 1rem beim Schweben
@@ -5236,15 +5235,15 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Translate Y-Axis
 
-- `.hover:translate-y-50` - Verschieben Sie die Y-Achse um 50 rem beim Schweben
-- `.hover:translate-y-25` - Verschieben Sie die Y-Achse um 25 rem beim Schweben
+- `.hover:translate-y-50` - Verschieben Sie die Y-Achse um 50 % beim Schweben
+- `.hover:translate-y-25` - Verschieben Sie die Y-Achse um 25 % beim Schweben
 - `.hover:translate-y-2` - Übersetzen Sie die Y-Achse 2rem beim Schweben
 - `.hover:translate-y-1.5` - Übersetzen Sie die Y-Achse 0rem beim Schweben
 - `.hover:translate-y-1` - Verschieben Sie die Y-Achse 1rem beim Hover
 - `.hover:translate-y-0.5` - Verschieben Sie die Y-Achse beim Schweben um 0,5 rem
 - `.hover:translate-y-0` - Übersetzen Sie die Y-Achse 0rem beim Schweben
-- `.translate-y-50` - Y-Achse 50rem verschieben
-- `.translate-y-25` - Y-Achse um 25rem verschieben
+- `.translate-y-50` - Y-Achse 50 % verschieben
+- `.translate-y-25` - Y-Achse um 25 % verschieben
 - `.translate-y-2` - Y-Achse 2rem verschieben
 - `.translate-y-1.5` - Y-Achse 0rem verschieben
 - `.translate-y-1` - Y-Achse 1rem verschieben
@@ -5253,14 +5252,14 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ##### Negative Translate Y-Axis
 
-- `.-translate-y-50` - Negative Verschiebung der Y-Achse 50rem
-- `.-translate-y-25` - Negative Verschiebung der Y-Achse 25rem
+- `.-translate-y-50` - Negative Verschiebung der Y-Achse 50 %
+- `.-translate-y-25` - Negative Verschiebung der Y-Achse 25 %
 - `.-translate-y-2` - Negativ Y-Achse verschieben 2rem
 - `.-translate-y-1.5` - Negative Verschiebung der Y-Achse 1,5rem
 - `.-translate-y-1` - Negativ Y-Achse verschieben 1rem
 - `.-translate-y-0.5` - Negative Verschiebung der Y-Achse 0,5rem
-- `.hover:-translate-y-50` - Negative Verschiebung der Y-Achse um 50 rem beim Schweben
-- `.hover:-translate-y-25` - Negativ Y-Achse 25rem verschieben beim Schweben
+- `.hover:-translate-y-50` - Negative Verschiebung der Y-Achse um 50 % beim Schweben
+- `.hover:-translate-y-25` - Negativ Y-Achse 25 % verschieben beim Schweben
 - `.hover:-translate-y-2` - Negativ Y-Achse 2rem verschieben beim Schweben
 - `.hover:-translate-y-1.5` - Negative Verschiebung der Y-Achse 1,5rem beim Schweben
 - `.hover:-translate-y-1` - Negativ Y-Achse 1rem verschieben beim Schweben
@@ -5269,10 +5268,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 ### Zoom
 
 - `.hover:zoom` - Beim Schweben zoomen
-- `.hover:zoom-2` - Beim Schweben 2rem zoomen
-- `.hover:zoom-1.5` - Zoom 1,5rem beim Schweben
+- `.hover:zoom-2` - Beim Schweben 2 zoomen
+- `.hover:zoom-1.5` - Zoom 1,5 beim Schweben
 - `.zoom` - Zoomen
-- `.zoom-2` - Zoom 2rem
+- `.zoom-2` - Zoom 2
 - `.zoom-1.5` - Zoom 1,5
 
 ## Colors
@@ -5354,19 +5353,19 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Content
 
-- `.content-3` - Inhalt 3rem
-- `.content-3-bg` - Inhalt 3-bgrem
-- `.content-2` - Inhalt 2rem
-- `.content-2-bg` - Inhalt 2-bgrem
-- `.content-2-text` - Inhalt 2-textrem
-- `.content-1` - Inhalt 1rem
-- `.content-1-bg` - Inhalt 1-bgrem
-- `.content-1-text` - Inhalt 1-textrem
-- `.hover:content-3-bg` - Inhalt 3-bgrem beim Schweben
-- `.hover:content-2-bg` - Inhalt 2-bgrem beim Schweben
-- `.hover:content-2-text` - Inhalt 2-Text beim Hover
-- `.hover:content-1-bg` - Inhalt 1-bgrem beim Schweben
-- `.hover:content-1-text` - Inhalt 1-Textrem beim Hover
+- `.content-3` - Inhalt 3
+- `.content-3-bg` - Inhalt 3-bg
+- `.content-2` - Inhalt 2
+- `.content-2-bg` - Inhalt 2-bg
+- `.content-2-text` - Inhalt 2-text
+- `.content-1` - Inhalt 1
+- `.content-1-bg` - Inhalt 1-bg
+- `.content-1-text` - Inhalt 1-text
+- `.hover:content-3-bg` - Inhalt 3-bg beim Schweben
+- `.hover:content-2-bg` - Inhalt 2-bg beim Schweben
+- `.hover:content-2-text` - Inhalt 2-text beim Hover
+- `.hover:content-1-bg` - Inhalt 1-bg beim Schweben
+- `.hover:content-1-text` - Inhalt 1-text beim Hover
 
 ### Dir
 
@@ -5386,12 +5385,6 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.mse-0.5` - Mse 0,5rem
 - `.mse-0` - Mse 0rem
 
-### Other
-
-##### Other - undefined
-
-- `.hover:px-3.5` - Anderes beim Hover auf px 3.5
-
 ### Visibility
 
 - `.hover:v-hide` - Sichtbarkeit beim Schweben ausgeblendet
@@ -5399,7 +5392,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.v-hide` - Sichtbarkeit verborgen
 - `.v-show` - Sichtbarkeit sichtbar
 
-##### Visibility - Mobile (< 480px)
+##### Visibility - Mobile (≤ 480px)
 
 - `.hover:mobile:v-hide` - Sichtbarkeit beim Schweben auf Mobilgeräten ausgeblendet
 - `.hover:mobile:v-show` - Sichtbarkeit beim Hover auf dem Mobilgerät sichtbar
@@ -5427,28 +5420,28 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:v-hide` - Sichtbarkeit auf dem PC ausgeblendet
 - `.pc:v-show` - Sichtbarkeit auf dem PC sichtbar
 
-##### Visibility - Tv (> 1200px)
+##### Visibility - Tv (≥ 1200px)
 
 - `.hover:tv:v-hide` - Sichtbarkeit beim Schweben im Fernsehen ausgeblendet
 - `.hover:tv:v-show` - Sichtbarkeit beim Schweben im Fernsehen sichtbar
 - `.tv:v-hide` - Im Fernsehen verborgene Sichtbarkeit
 - `.tv:v-show` - Sichtbarkeit im Fernsehen sichtbar
 
-##### Visibility - Tablet Max (< 768px)
+##### Visibility - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:v-hide` - Sichtbarkeit beim Hover auf dem Tablet max. ausgeblendet
 - `.hover:tablet-max:v-show` - Sichtbarkeit beim Hover auf dem Tablet max
 - `.tablet-max:v-hide` - Sichtbarkeit ausgeblendet auf dem Tablet max
 - `.tablet-max:v-show` - Sichtbarkeit sichtbar auf dem Tablet max
 
-##### Visibility - Tablet Pc Max (< 992px)
+##### Visibility - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:v-hide` - Sichtbarkeit ausgeblendet beim Schweben auf dem Tablet-PC max
 - `.hover:tablet-pc-max:v-show` - Sichtbarkeit beim Hover auf dem Tablet-PC max
 - `.tablet-pc-max:v-hide` - Sichtbarkeit ausgeblendet auf Tablet-PC max
 - `.tablet-pc-max:v-show` - Sichtbarkeit sichtbar auf Tablet-PC max
 
-##### Visibility - Pc Max (< 1200px)
+##### Visibility - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:v-hide` - Sichtbarkeit ausgeblendet beim Hover auf dem PC max
 - `.hover:pc-max:v-show` - Sichtbarkeit beim Hover auf dem PC max

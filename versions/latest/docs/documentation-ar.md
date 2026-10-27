@@ -114,7 +114,6 @@
 - [Content](#content)
 - [Dir](#dir)
 - [Mse](#mse)
-- [Other](#other)
 - [Visibility](#visibility)
 - [Customization](#customization)
 - [License](#license)
@@ -157,7 +156,7 @@
 - `.hover:d-inline-flex` - عرض المرن المضمن عند التمرير
 - `.hover:d-none` - عرض لا شيء عند التمرير
 
-##### Display - Mobile (< 480px)
+##### Display - Mobile (≤ 480px)
 
 - `.hover:mobile:d-block` - عرض الكتلة عند التمرير على الهاتف المحمول
 - `.hover:mobile:d-flex` - عرض مرن عند التمرير على الهاتف المحمول
@@ -225,7 +224,7 @@
 - `.pc:d-inline-grid` - عرض الشبكة المضمنة على جهاز الكمبيوتر
 - `.pc:d-none` - عرض لا شيء على جهاز الكمبيوتر
 
-##### Display - Tv (> 1200px)
+##### Display - Tv (≥ 1200px)
 
 - `.hover:tv:d-block` - عرض الكتلة عند التمرير على شاشة التلفزيون
 - `.hover:tv:d-flex` - عرض المرن على التمرير على شاشة التلفزيون
@@ -242,7 +241,7 @@
 - `.tv:d-inline-grid` - عرض الشبكة المضمنة على شاشة التلفزيون
 - `.tv:d-none` - عرض لا شيء على شاشة التلفزيون
 
-##### Display - Tablet Max (< 768px)
+##### Display - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:d-block` - عرض الكتلة عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:d-flex` - عرض مرن عند التمرير على الجهاز اللوحي بحد أقصى
@@ -259,7 +258,7 @@
 - `.tablet-max:d-inline-grid` - عرض الشبكة المضمنة على الجهاز اللوحي بحد أقصى
 - `.tablet-max:d-none` - عرض لا شيء على الجهاز اللوحي كحد أقصى
 
-##### Display - Tablet Pc Max (< 992px)
+##### Display - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:d-block` - عرض الكتلة عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:d-flex` - عرض مرن عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -276,7 +275,7 @@
 - `.tablet-pc-max:d-inline-grid` - عرض الشبكة المضمنة على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:d-none` - عرض لا شيء على الكمبيوتر اللوحي كحد أقصى
 
-##### Display - Pc Max (< 1200px)
+##### Display - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:d-block` - عرض الكتلة عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:d-flex` - عرض مرن عند التمرير على جهاز الكمبيوتر بحد أقصى
@@ -306,7 +305,7 @@
 - `.hover:float-right` - تطفو على اليمين عند التمرير
 - `.hover:float-start` - تعويم البدء عند التحويم
 
-##### Float - Mobile (< 480px)
+##### Float - Mobile (≤ 480px)
 
 - `.hover:mobile:float-end` - تعويم النهاية عند التمرير على الهاتف المحمول
 - `.hover:mobile:float-left` - تعويم لليسار عند التمرير على الهاتف المحمول
@@ -358,7 +357,7 @@
 - `.pc:float-right` - تطفو مباشرة على جهاز الكمبيوتر
 - `.pc:float-start` - تعويم البداية على جهاز الكمبيوتر
 
-##### Float - Tv (> 1200px)
+##### Float - Tv (≥ 1200px)
 
 - `.hover:tv:float-end` - نهاية التعويم عند التمرير على شاشة التلفزيون
 - `.hover:tv:float-left` - تطفو على اليسار عند التمرير على شاشة التلفزيون
@@ -371,7 +370,7 @@
 - `.tv:float-right` - تطفو مباشرة على شاشة التلفزيون
 - `.tv:float-start` - تعويم البداية على شاشة التلفزيون
 
-##### Float - Tablet Max (< 768px)
+##### Float - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:float-end` - تعويم النهاية عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:float-left` - تعويم لليسار عند التمرير على الجهاز اللوحي بحد أقصى
@@ -384,7 +383,7 @@
 - `.tablet-max:float-right` - تطفو مباشرة على الجهاز اللوحي بحد أقصى
 - `.tablet-max:float-start` - تعويم البداية على الكمبيوتر اللوحي كحد أقصى
 
-##### Float - Tablet Pc Max (< 992px)
+##### Float - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:float-end` - تعويم النهاية عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:float-left` - تعويم لليسار عند التمرير على الكمبيوتر اللوحي كحد أقصى
@@ -397,7 +396,7 @@
 - `.tablet-pc-max:float-right` - تطفو مباشرة على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:float-start` - تعويم البداية على الكمبيوتر اللوحي كحد أقصى
 
-##### Float - Pc Max (< 1200px)
+##### Float - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:float-end` - تعويم نهاية عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:float-left` - تعويم لليسار عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -423,7 +422,7 @@
 - `.object-none` - لا شيء
 - `.object-scale` - مقياس الكائن
 
-##### Object - Mobile (< 480px)
+##### Object - Mobile (≤ 480px)
 
 - `.hover:mobile:object-contain` - يحتوي الكائن على التمرير على الهاتف المحمول
 - `.hover:mobile:object-cover` - غطاء الكائن عند التمرير على الهاتف المحمول
@@ -475,7 +474,7 @@
 - `.pc:object-none` - لا يوجد كائن على جهاز الكمبيوتر
 - `.pc:object-scale` - مقياس الكائن على جهاز الكمبيوتر
 
-##### Object - Tv (> 1200px)
+##### Object - Tv (≥ 1200px)
 
 - `.hover:tv:object-contain` - يحتوي الكائن على التمرير على شاشة التلفزيون
 - `.hover:tv:object-cover` - غطاء الكائن على التحويم على شاشة التلفزيون
@@ -488,7 +487,7 @@
 - `.tv:object-none` - لا يعترض على أي شيء على شاشة التلفزيون
 - `.tv:object-scale` - مقياس الكائن على شاشة التلفزيون
 
-##### Object - Tablet Max (< 768px)
+##### Object - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:object-contain` - يحتوي الكائن على التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:object-cover` - غطاء الكائن عند التمرير على الجهاز اللوحي بحد أقصى
@@ -501,7 +500,7 @@
 - `.tablet-max:object-none` - لا يوجد كائن على الجهاز اللوحي بحد أقصى
 - `.tablet-max:object-scale` - مقياس الكائن على الجهاز اللوحي بحد أقصى
 
-##### Object - Tablet Pc Max (< 992px)
+##### Object - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:object-contain` - يحتوي الكائن على التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:object-cover` - غطاء الكائن عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -514,7 +513,7 @@
 - `.tablet-pc-max:object-none` - لا يوجد كائن على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:object-scale` - مقياس الكائن على الكمبيوتر اللوحي بحد أقصى
 
-##### Object - Pc Max (< 1200px)
+##### Object - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:object-contain` - يحتوي الكائن على التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:object-cover` - غطاء الكائن عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -575,7 +574,7 @@
 - `.hover:flex-row` - الصف المرن عند التمرير
 - `.hover:flex-wrap` - التفاف مرن عند التحويم
 
-##### Flex - Mobile (< 480px)
+##### Flex - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col` - فليكس كول عند التمرير على الهاتف المحمول
 - `.hover:mobile:flex-nowrap` - فليكس الآن عند التمرير على الهاتف المحمول
@@ -619,7 +618,7 @@
 - `.pc:flex-row` - الصف المرن على جهاز الكمبيوتر
 - `.pc:flex-wrap` - التفاف المرن على جهاز الكمبيوتر
 
-##### Flex - Tv (> 1200px)
+##### Flex - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col` - فليكس كول عند التمرير على شاشة التلفزيون
 - `.hover:tv:flex-nowrap` - فليكس الآن راب على التحويم على شاشة التلفزيون
@@ -630,7 +629,7 @@
 - `.tv:flex-row` - الصف المرن على شاشة التلفزيون
 - `.tv:flex-wrap` - التفاف المرن على شاشة التلفزيون
 
-##### Flex - Tablet Max (< 768px)
+##### Flex - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col` - عمود مرن عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:flex-nowrap` - Flex nowrap عند التمرير على الجهاز اللوحي بحد أقصى
@@ -641,7 +640,7 @@
 - `.tablet-max:flex-row` - الصف المرن على الجهاز اللوحي كحد أقصى
 - `.tablet-max:flex-wrap` - غلاف مرن على الجهاز اللوحي بحد أقصى
 
-##### Flex - Tablet Pc Max (< 992px)
+##### Flex - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col` - فليكس كول عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:flex-nowrap` - Flex nowrap on hover على الكمبيوتر اللوحي بحد أقصى
@@ -652,7 +651,7 @@
 - `.tablet-pc-max:flex-row` - الصف المرن على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:flex-wrap` - غلاف مرن على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex - Pc Max (< 1200px)
+##### Flex - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col` - فليكس كول عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:flex-nowrap` - فليكس الآن عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -668,7 +667,7 @@
 - `.flex-col-reverse` - فليكس العمود العكسي
 - `.hover:flex-col-reverse` - فليكس كول عكسي عند التمرير
 
-##### Flex col - Mobile (< 480px)
+##### Flex col - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col-reverse` - فليكس كول عكسي عند التمرير على الهاتف المحمول
 - `.mobile:flex-col-reverse` - فليكس كول عكس على الهاتف المحمول
@@ -688,22 +687,22 @@
 - `.hover:pc:flex-col-reverse` - فليكس كول عكس عند التمرير على جهاز الكمبيوتر
 - `.pc:flex-col-reverse` - فليكس كول عكس على جهاز الكمبيوتر
 
-##### Flex col - Tv (> 1200px)
+##### Flex col - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col-reverse` - فليكس كول عكسي عند التمرير على شاشة التلفزيون
 - `.tv:flex-col-reverse` - فليكس كول عكس على شاشة التلفزيون
 
-##### Flex col - Tablet Max (< 768px)
+##### Flex col - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - فليكس كول عكسي عند التمرير على الجهاز اللوحي بحد أقصى
 - `.tablet-max:flex-col-reverse` - فليكس كول عكس على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex col - Tablet Pc Max (< 992px)
+##### Flex col - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - فليكس كول عكسي عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:flex-col-reverse` - فليكس كول عكس على الكمبيوتر اللوحي كحد أقصى
 
-##### Flex col - Pc Max (< 1200px)
+##### Flex col - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - فليكس كول عكسي عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.pc-max:flex-col-reverse` - فليكس كول عكس على جهاز الكمبيوتر كحد أقصى
@@ -713,7 +712,7 @@
 - `.flex-row-reverse` - عكس الصف المرن
 - `.hover:flex-row-reverse` - عكس الصف المرن عند التمرير
 
-##### Flex row - Mobile (< 480px)
+##### Flex row - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-row-reverse` - عكس الصف المرن عند التمرير على الهاتف المحمول
 - `.mobile:flex-row-reverse` - عكس الصف المرن على الهاتف المحمول
@@ -733,131 +732,131 @@
 - `.hover:pc:flex-row-reverse` - عكس الصف المرن عند التمرير على جهاز الكمبيوتر
 - `.pc:flex-row-reverse` - عكس الصف المرن على جهاز الكمبيوتر
 
-##### Flex row - Tv (> 1200px)
+##### Flex row - Tv (≥ 1200px)
 
 - `.hover:tv:flex-row-reverse` - عكس الصف المرن عند التمرير على شاشة التلفزيون
 - `.tv:flex-row-reverse` - عكس الصف المرن على شاشة التلفزيون
 
-##### Flex row - Tablet Max (< 768px)
+##### Flex row - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - الصف المرن للخلف عند التمرير على الجهاز اللوحي بحد أقصى
 - `.tablet-max:flex-row-reverse` - الصف المرن للخلف على الجهاز اللوحي بحد أقصى
 
-##### Flex row - Tablet Pc Max (< 992px)
+##### Flex row - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - الصف المرن للخلف عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:flex-row-reverse` - عكس الصف المرن على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex row - Pc Max (< 1200px)
+##### Flex row - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - الصف المرن للخلف عند التمرير على جهاز الكمبيوتر بحد أقصى
 - `.pc-max:flex-row-reverse` - عكس الصف المرن على جهاز الكمبيوتر كحد أقصى
 
 ### Flex grow
 
-- `.flex-grow-3` - فليكس تنمو 3ريم
-- `.flex-grow-2` - فليكس تنمو 2ريم
-- `.flex-grow-1` - فليكس ينمو 1ريم
-- `.flex-grow-0` - فليكس تنمو 0rem
-- `.hover:flex-grow-3` - فليكس ينمو 3ريم عند التحويم
-- `.hover:flex-grow-2` - فليكس ينمو 2ريم عند التحويم
-- `.hover:flex-grow-1` - فليكس ينمو 1ريم عند التحويم
-- `.hover:flex-grow-0` - فليكس ينمو 0rem عند التحويم
+- `.flex-grow-3` - فليكس تنمو 3
+- `.flex-grow-2` - فليكس تنمو 2
+- `.flex-grow-1` - فليكس ينمو 1
+- `.flex-grow-0` - فليكس تنمو 0
+- `.hover:flex-grow-3` - فليكس ينمو 3 عند التحويم
+- `.hover:flex-grow-2` - فليكس ينمو 2 عند التحويم
+- `.hover:flex-grow-1` - فليكس ينمو 1 عند التحويم
+- `.hover:flex-grow-0` - فليكس ينمو 0 عند التحويم
 
-##### Flex grow - Mobile (< 480px)
+##### Flex grow - Mobile (≤ 480px)
 
-- `.hover:mobile:flex-grow-3` - Flex Grow 3rem عند التمرير على الهاتف المحمول
-- `.hover:mobile:flex-grow-2` - Flex Grow 2rem عند التمرير على الهاتف المحمول
-- `.hover:mobile:flex-grow-1` - Flex Grow 1rem عند التمرير على الهاتف المحمول
-- `.hover:mobile:flex-grow-0` - Flex Grow 0rem عند التمرير على الهاتف المحمول
-- `.mobile:flex-grow-3` - فليكس تنمو 3rem على الهاتف المحمول
-- `.mobile:flex-grow-2` - فليكس تنمو 2rem على الهاتف المحمول
-- `.mobile:flex-grow-1` - فليكس ينمو 1rem على الهاتف المحمول
-- `.mobile:flex-grow-0` - فليكس تنمو 0rem على الهاتف المحمول
+- `.hover:mobile:flex-grow-3` - Flex Grow 3 عند التمرير على الهاتف المحمول
+- `.hover:mobile:flex-grow-2` - Flex Grow 2 عند التمرير على الهاتف المحمول
+- `.hover:mobile:flex-grow-1` - Flex Grow 1 عند التمرير على الهاتف المحمول
+- `.hover:mobile:flex-grow-0` - Flex Grow 0 عند التمرير على الهاتف المحمول
+- `.mobile:flex-grow-3` - فليكس تنمو 3 على الهاتف المحمول
+- `.mobile:flex-grow-2` - فليكس تنمو 2 على الهاتف المحمول
+- `.mobile:flex-grow-1` - فليكس ينمو 1 على الهاتف المحمول
+- `.mobile:flex-grow-0` - فليكس تنمو 0 على الهاتف المحمول
 
 ##### Flex grow - Tablet (480px - 768px)
 
-- `.hover:tablet:flex-grow-3` - Flex Grow 3rem عند التمرير على الجهاز اللوحي
-- `.hover:tablet:flex-grow-2` - Flex Grow 2rem عند التمرير على الجهاز اللوحي
-- `.hover:tablet:flex-grow-1` - Flex Grow 1rem عند التمرير على الجهاز اللوحي
-- `.hover:tablet:flex-grow-0` - Flex Grow 0rem عند التمرير على الجهاز اللوحي
-- `.tablet:flex-grow-3` - فليكس جرو 3ريم على الجهاز اللوحي
-- `.tablet:flex-grow-2` - فليكس جرو 2ريم على الجهاز اللوحي
-- `.tablet:flex-grow-1` - فليكس ينمو 1ريم على الجهاز اللوحي
-- `.tablet:flex-grow-0` - فليكس ينمو 0rem على الجهاز اللوحي
+- `.hover:tablet:flex-grow-3` - Flex Grow 3 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:flex-grow-2` - Flex Grow 2 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:flex-grow-1` - Flex Grow 1 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:flex-grow-0` - Flex Grow 0 عند التمرير على الجهاز اللوحي
+- `.tablet:flex-grow-3` - فليكس جرو 3 على الجهاز اللوحي
+- `.tablet:flex-grow-2` - فليكس جرو 2 على الجهاز اللوحي
+- `.tablet:flex-grow-1` - فليكس ينمو 1 على الجهاز اللوحي
+- `.tablet:flex-grow-0` - فليكس ينمو 0 على الجهاز اللوحي
 
 ##### Flex grow - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:flex-grow-3` - Flex Grow 3rem عند التحويم على الكمبيوتر اللوحي
-- `.hover:tablet-pc:flex-grow-2` - Flex Grow 2rem عند التحويم على الكمبيوتر اللوحي
-- `.hover:tablet-pc:flex-grow-1` - Flex Grow 1rem عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:flex-grow-0` - Flex Grow 0rem عند التحويم على الكمبيوتر اللوحي
-- `.tablet-pc:flex-grow-3` - Flex Grow 3rem على الكمبيوتر اللوحي
-- `.tablet-pc:flex-grow-2` - Flex Grow 2rem على الكمبيوتر اللوحي
-- `.tablet-pc:flex-grow-1` - Flex Grow 1rem على الكمبيوتر اللوحي
-- `.tablet-pc:flex-grow-0` - Flex Grow 0rem على الكمبيوتر اللوحي
+- `.hover:tablet-pc:flex-grow-3` - Flex Grow 3 عند التحويم على الكمبيوتر اللوحي
+- `.hover:tablet-pc:flex-grow-2` - Flex Grow 2 عند التحويم على الكمبيوتر اللوحي
+- `.hover:tablet-pc:flex-grow-1` - Flex Grow 1 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:flex-grow-0` - Flex Grow 0 عند التحويم على الكمبيوتر اللوحي
+- `.tablet-pc:flex-grow-3` - Flex Grow 3 على الكمبيوتر اللوحي
+- `.tablet-pc:flex-grow-2` - Flex Grow 2 على الكمبيوتر اللوحي
+- `.tablet-pc:flex-grow-1` - Flex Grow 1 على الكمبيوتر اللوحي
+- `.tablet-pc:flex-grow-0` - Flex Grow 0 على الكمبيوتر اللوحي
 
 ##### Flex grow - Pc (992px - 1200px)
 
-- `.hover:pc:flex-grow-3` - Flex Grow 3rem عند التحويم على جهاز الكمبيوتر
-- `.hover:pc:flex-grow-2` - Flex Grow 2rem عند التحويم على جهاز الكمبيوتر
-- `.hover:pc:flex-grow-1` - Flex Grow 1rem عند التحويم على جهاز الكمبيوتر
-- `.hover:pc:flex-grow-0` - Flex Grow 0rem عند التحويم على جهاز الكمبيوتر
-- `.pc:flex-grow-3` - فليكس جرو 3ريم على جهاز الكمبيوتر
-- `.pc:flex-grow-2` - فليكس جرو 2ريم على جهاز الكمبيوتر
-- `.pc:flex-grow-1` - فليكس جرو 1ريم على جهاز الكمبيوتر
-- `.pc:flex-grow-0` - فليكس جرو 0ريم على جهاز الكمبيوتر
+- `.hover:pc:flex-grow-3` - Flex Grow 3 عند التحويم على جهاز الكمبيوتر
+- `.hover:pc:flex-grow-2` - Flex Grow 2 عند التحويم على جهاز الكمبيوتر
+- `.hover:pc:flex-grow-1` - Flex Grow 1 عند التحويم على جهاز الكمبيوتر
+- `.hover:pc:flex-grow-0` - Flex Grow 0 عند التحويم على جهاز الكمبيوتر
+- `.pc:flex-grow-3` - فليكس جرو 3 على جهاز الكمبيوتر
+- `.pc:flex-grow-2` - فليكس جرو 2 على جهاز الكمبيوتر
+- `.pc:flex-grow-1` - فليكس جرو 1 على جهاز الكمبيوتر
+- `.pc:flex-grow-0` - فليكس جرو 0 على جهاز الكمبيوتر
 
-##### Flex grow - Tv (> 1200px)
+##### Flex grow - Tv (≥ 1200px)
 
-- `.hover:tv:flex-grow-3` - Flex Grow 3rem عند التحويم على شاشة التلفزيون
-- `.hover:tv:flex-grow-2` - Flex Grow 2rem عند التحويم على شاشة التلفزيون
-- `.hover:tv:flex-grow-1` - Flex Grow 1rem عند التمرير على شاشة التلفزيون
-- `.hover:tv:flex-grow-0` - فليكس ينمو 0rem على التحويم على شاشة التلفزيون
-- `.tv:flex-grow-3` - فليكس جرو 3ريم على شاشة التلفزيون
-- `.tv:flex-grow-2` - فليكس جرو 2ريم على شاشة التلفزيون
-- `.tv:flex-grow-1` - فليكس ينمو 1ريم على شاشة التلفزيون
-- `.tv:flex-grow-0` - فليكس تنمو 0rem على شاشة التلفزيون
+- `.hover:tv:flex-grow-3` - Flex Grow 3 عند التحويم على شاشة التلفزيون
+- `.hover:tv:flex-grow-2` - Flex Grow 2 عند التحويم على شاشة التلفزيون
+- `.hover:tv:flex-grow-1` - Flex Grow 1 عند التمرير على شاشة التلفزيون
+- `.hover:tv:flex-grow-0` - فليكس ينمو 0 على التحويم على شاشة التلفزيون
+- `.tv:flex-grow-3` - فليكس جرو 3 على شاشة التلفزيون
+- `.tv:flex-grow-2` - فليكس جرو 2 على شاشة التلفزيون
+- `.tv:flex-grow-1` - فليكس ينمو 1 على شاشة التلفزيون
+- `.tv:flex-grow-0` - فليكس تنمو 0 على شاشة التلفزيون
 
-##### Flex grow - Tablet Max (< 768px)
+##### Flex grow - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:flex-grow-3` - Flex Grow 3rem عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:flex-grow-2` - Flex Grow 2rem عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:flex-grow-1` - Flex Grow 1rem عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:flex-grow-0` - Flex Grow 0rem عند التمرير على الجهاز اللوحي بحد أقصى
-- `.tablet-max:flex-grow-3` - فليكس جرو 3ريم على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-max:flex-grow-2` - فليكس جرو 2ريم على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-max:flex-grow-1` - فليكس جرو 1ريم على الجهاز اللوحي كحد أقصى
-- `.tablet-max:flex-grow-0` - Flex Grow 0rem على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:flex-grow-3` - Flex Grow 3 عند التمرير على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:flex-grow-2` - Flex Grow 2 عند التمرير على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:flex-grow-1` - Flex Grow 1 عند التمرير على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:flex-grow-0` - Flex Grow 0 عند التمرير على الجهاز اللوحي بحد أقصى
+- `.tablet-max:flex-grow-3` - فليكس جرو 3 على الكمبيوتر اللوحي كحد أقصى
+- `.tablet-max:flex-grow-2` - فليكس جرو 2 على الكمبيوتر اللوحي كحد أقصى
+- `.tablet-max:flex-grow-1` - فليكس جرو 1 على الجهاز اللوحي كحد أقصى
+- `.tablet-max:flex-grow-0` - Flex Grow 0 على الجهاز اللوحي بحد أقصى
 
-##### Flex grow - Tablet Pc Max (< 992px)
+##### Flex grow - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:flex-grow-3` - Flex Grow 3rem عند التحويم على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:flex-grow-2` - Flex Grow 2rem عند التحويم على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:flex-grow-1` - Flex Grow 1rem عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:flex-grow-0` - Flex Grow 0rem عند التحويم على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:flex-grow-3` - Flex Grow 3rem على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:flex-grow-2` - Flex Grow 2rem على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:flex-grow-1` - Flex Grow 1rem على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:flex-grow-0` - Flex Grow 0rem على الكمبيوتر اللوحي بحد أقصى
+- `.hover:tablet-pc-max:flex-grow-3` - Flex Grow 3 عند التحويم على الكمبيوتر اللوحي بحد أقصى
+- `.hover:tablet-pc-max:flex-grow-2` - Flex Grow 2 عند التحويم على الكمبيوتر اللوحي بحد أقصى
+- `.hover:tablet-pc-max:flex-grow-1` - Flex Grow 1 عند التمرير على الكمبيوتر اللوحي بحد أقصى
+- `.hover:tablet-pc-max:flex-grow-0` - Flex Grow 0 عند التحويم على الكمبيوتر اللوحي بحد أقصى
+- `.tablet-pc-max:flex-grow-3` - Flex Grow 3 على الكمبيوتر اللوحي كحد أقصى
+- `.tablet-pc-max:flex-grow-2` - Flex Grow 2 على الكمبيوتر اللوحي بحد أقصى
+- `.tablet-pc-max:flex-grow-1` - Flex Grow 1 على الكمبيوتر اللوحي بحد أقصى
+- `.tablet-pc-max:flex-grow-0` - Flex Grow 0 على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex grow - Pc Max (< 1200px)
+##### Flex grow - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:flex-grow-3` - Flex Grow 3rem عند التحويم على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:flex-grow-2` - Flex Grow 2rem عند التحويم على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:flex-grow-1` - Flex Grow 1rem عند التحويم على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:flex-grow-0` - Flex Grow 0rem عند التحويم على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:flex-grow-3` - فليكس جرو 3ريم على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:flex-grow-2` - فليكس جرو 2ريم على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:flex-grow-1` - فليكس جرو 1ريم على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:flex-grow-0` - Flex Grow 0rem على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:flex-grow-3` - Flex Grow 3 عند التحويم على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:flex-grow-2` - Flex Grow 2 عند التحويم على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:flex-grow-1` - Flex Grow 1 عند التحويم على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:flex-grow-0` - Flex Grow 0 عند التحويم على جهاز الكمبيوتر كحد أقصى
+- `.pc-max:flex-grow-3` - فليكس جرو 3 على جهاز الكمبيوتر كحد أقصى
+- `.pc-max:flex-grow-2` - فليكس جرو 2 على جهاز الكمبيوتر كحد أقصى
+- `.pc-max:flex-grow-1` - فليكس جرو 1 على جهاز الكمبيوتر كحد أقصى
+- `.pc-max:flex-grow-0` - Flex Grow 0 على جهاز الكمبيوتر كحد أقصى
 
 ### Flex wrap
 
 - `.flex-wrap-reverse` - التفاف المرن العكسي
 - `.hover:flex-wrap-reverse` - التفاف مرن عكسي عند التمرير
 
-##### Flex wrap - Mobile (< 480px)
+##### Flex wrap - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - التفاف مرن للخلف عند التمرير على الهاتف المحمول
 - `.mobile:flex-wrap-reverse` - التفاف مرن عكسي على الهاتف المحمول
@@ -877,22 +876,22 @@
 - `.hover:pc:flex-wrap-reverse` - التفاف مرن عكسي عند التمرير على جهاز الكمبيوتر
 - `.pc:flex-wrap-reverse` - فليكس التفاف عكسي على جهاز الكمبيوتر
 
-##### Flex wrap - Tv (> 1200px)
+##### Flex wrap - Tv (≥ 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - التفاف مرن للخلف عند التمرير على شاشة التلفزيون
 - `.tv:flex-wrap-reverse` - التفاف المرن على شاشة التلفزيون
 
-##### Flex wrap - Tablet Max (< 768px)
+##### Flex wrap - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - التفاف مرن للخلف عند التمرير على الجهاز اللوحي بحد أقصى
 - `.tablet-max:flex-wrap-reverse` - التفاف مرن عكسي على الجهاز اللوحي بحد أقصى
 
-##### Flex wrap - Tablet Pc Max (< 992px)
+##### Flex wrap - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - التفاف مرن عكسي عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:flex-wrap-reverse` - التفاف مرن عكسي على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex wrap - Pc Max (< 1200px)
+##### Flex wrap - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - التفاف مرن عكسي عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.pc-max:flex-wrap-reverse` - التفاف مرن عكسي على جهاز الكمبيوتر بحد أقصى
@@ -1087,7 +1086,7 @@
 - `.hover:align-content-start` - محاذاة المحتوى تبدأ عند التمرير
 - `.hover:align-content-stretch` - محاذاة امتداد المحتوى عند التمرير
 
-##### Align content - Mobile (< 480px)
+##### Align content - Mobile (≤ 480px)
 
 - `.hover:mobile:align-content-around` - قم بمحاذاة المحتوى عند التمرير على الهاتف المحمول
 - `.hover:mobile:align-content-between` - قم بمحاذاة المحتوى بين التمرير على الهاتف المحمول
@@ -1155,7 +1154,7 @@
 - `.pc:align-content-start` - محاذاة المحتوى تبدأ على جهاز الكمبيوتر
 - `.pc:align-content-stretch` - محاذاة المحتوى تمتد على جهاز الكمبيوتر
 
-##### Align content - Tv (> 1200px)
+##### Align content - Tv (≥ 1200px)
 
 - `.hover:tv:align-content-around` - قم بمحاذاة المحتوى عند التمرير على شاشة التلفزيون
 - `.hover:tv:align-content-between` - قم بمحاذاة المحتوى بين التمرير على شاشة التلفزيون
@@ -1172,7 +1171,7 @@
 - `.tv:align-content-start` - محاذاة المحتوى يبدأ على شاشة التلفزيون
 - `.tv:align-content-stretch` - محاذاة امتداد المحتوى على شاشة التلفزيون
 
-##### Align content - Tablet Max (< 768px)
+##### Align content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-content-around` - قم بمحاذاة المحتوى عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:align-content-between` - قم بمحاذاة المحتوى بين التمرير على الجهاز اللوحي بحد أقصى
@@ -1189,7 +1188,7 @@
 - `.tablet-max:align-content-start` - محاذاة المحتوى تبدأ على الجهاز اللوحي بحد أقصى
 - `.tablet-max:align-content-stretch` - محاذاة امتداد المحتوى على الجهاز اللوحي بحد أقصى
 
-##### Align content - Tablet Pc Max (< 992px)
+##### Align content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - قم بمحاذاة المحتوى عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:align-content-between` - قم بمحاذاة المحتوى بين التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -1206,7 +1205,7 @@
 - `.tablet-pc-max:align-content-start` - محاذاة المحتوى تبدأ على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:align-content-stretch` - محاذاة المحتوى الممتد على الكمبيوتر اللوحي كحد أقصى
 
-##### Align content - Pc Max (< 1200px)
+##### Align content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-content-around` - قم بمحاذاة المحتوى عند التمرير على جهاز الكمبيوتر بحد أقصى
 - `.hover:pc-max:align-content-between` - محاذاة المحتوى بين عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -1234,7 +1233,7 @@
 - `.hover:align-items-start` - تبدأ محاذاة العناصر عند التمرير
 - `.hover:align-items-stretch` - محاذاة العناصر تمتد عند التمرير
 
-##### Align items - Mobile (< 480px)
+##### Align items - Mobile (≤ 480px)
 
 - `.hover:mobile:align-items-center` - محاذاة العناصر إلى المركز عند التمرير على الهاتف المحمول
 - `.hover:mobile:align-items-end` - تنتهي محاذاة العناصر عند التمرير على الهاتف المحمول
@@ -1278,7 +1277,7 @@
 - `.pc:align-items-start` - محاذاة العناصر تبدأ على جهاز الكمبيوتر
 - `.pc:align-items-stretch` - محاذاة العناصر تمتد على جهاز الكمبيوتر
 
-##### Align items - Tv (> 1200px)
+##### Align items - Tv (≥ 1200px)
 
 - `.hover:tv:align-items-center` - محاذاة العناصر إلى المركز عند التمرير على شاشة التلفزيون
 - `.hover:tv:align-items-end` - تنتهي محاذاة العناصر عند التمرير على شاشة التلفزيون
@@ -1289,7 +1288,7 @@
 - `.tv:align-items-start` - محاذاة العناصر تبدأ على شاشة التلفزيون
 - `.tv:align-items-stretch` - محاذاة العناصر تمتد على شاشة التلفزيون
 
-##### Align items - Tablet Max (< 768px)
+##### Align items - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:align-items-end` - تنتهي محاذاة العناصر عند التمرير على الجهاز اللوحي كحد أقصى
@@ -1300,7 +1299,7 @@
 - `.tablet-max:align-items-start` - تبدأ محاذاة العناصر على الجهاز اللوحي بحد أقصى
 - `.tablet-max:align-items-stretch` - محاذاة العناصر تمتد على الجهاز اللوحي بحد أقصى
 
-##### Align items - Tablet Pc Max (< 992px)
+##### Align items - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:align-items-end` - تنتهي محاذاة العناصر عند التمرير على الكمبيوتر اللوحي كحد أقصى
@@ -1311,7 +1310,7 @@
 - `.tablet-pc-max:align-items-start` - تبدأ محاذاة العناصر على الكمبيوتر اللوحي كحد أقصى
 - `.tablet-pc-max:align-items-stretch` - محاذاة العناصر تمتد على الكمبيوتر اللوحي كحد أقصى
 
-##### Align items - Pc Max (< 1200px)
+##### Align items - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير على جهاز الكمبيوتر بحد أقصى
 - `.hover:pc-max:align-items-end` - تنتهي محاذاة العناصر عند التمرير على جهاز الكمبيوتر بحد أقصى
@@ -1333,7 +1332,7 @@
 - `.hover:align-self-start` - محاذاة البداية الذاتية عند التمرير
 - `.hover:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير
 
-##### Align self - Mobile (< 480px)
+##### Align self - Mobile (≤ 480px)
 
 - `.hover:mobile:align-self-center` - محاذاة المركز الذاتي عند التمرير على الهاتف المحمول
 - `.hover:mobile:align-self-end` - محاذاة النهاية الذاتية عند التمرير على الهاتف المحمول
@@ -1377,7 +1376,7 @@
 - `.pc:align-self-start` - محاذاة البداية الذاتية على جهاز الكمبيوتر
 - `.pc:align-self-stretch` - محاذاة التمدد الذاتي على جهاز الكمبيوتر
 
-##### Align self - Tv (> 1200px)
+##### Align self - Tv (≥ 1200px)
 
 - `.hover:tv:align-self-center` - محاذاة المركز الذاتي عند التمرير على شاشة التلفزيون
 - `.hover:tv:align-self-end` - محاذاة النهاية الذاتية عند التمرير على شاشة التلفزيون
@@ -1388,7 +1387,7 @@
 - `.tv:align-self-start` - محاذاة البداية الذاتية على شاشة التلفزيون
 - `.tv:align-self-stretch` - محاذاة تمتد النفس على شاشة التلفزيون
 
-##### Align self - Tablet Max (< 768px)
+##### Align self - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-self-center` - محاذاة المركز الذاتي عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:align-self-end` - قم بمحاذاة النهاية الذاتية عند التمرير على الجهاز اللوحي بحد أقصى
@@ -1399,7 +1398,7 @@
 - `.tablet-max:align-self-start` - محاذاة البدء الذاتي على الجهاز اللوحي بحد أقصى
 - `.tablet-max:align-self-stretch` - محاذاة التمدد الذاتي على الجهاز اللوحي بحد أقصى
 
-##### Align self - Tablet Pc Max (< 992px)
+##### Align self - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - قم بمحاذاة المركز الذاتي عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:align-self-end` - قم بمحاذاة النهاية الذاتية عند التمرير على الكمبيوتر اللوحي كحد أقصى
@@ -1410,7 +1409,7 @@
 - `.tablet-pc-max:align-self-start` - محاذاة البدء الذاتي على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:align-self-stretch` - محاذاة التمدد الذاتي على الكمبيوتر اللوحي بحد أقصى
 
-##### Align self - Pc Max (< 1200px)
+##### Align self - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-self-center` - محاذاة المركز الذاتي عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:align-self-end` - محاذاة النهاية الذاتية عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -1438,7 +1437,7 @@
 - `.justify-content-start` - تبرير بداية المحتوى
 - `.justify-content-stretch` - تبرير امتداد المحتوى
 
-##### Justify content - Mobile (< 480px)
+##### Justify content - Mobile (≤ 480px)
 
 - `.hover:mobile:justify-content-around` - قم بضبط المحتوى عند التمرير على الهاتف المحمول
 - `.hover:mobile:justify-content-between` - ضبط المحتوى بين التمرير على الهاتف المحمول
@@ -1490,7 +1489,7 @@
 - `.pc:justify-content-end` - تبرير نهاية المحتوى على جهاز الكمبيوتر
 - `.pc:justify-content-start` - تبرير بدء المحتوى على جهاز الكمبيوتر
 
-##### Justify content - Tv (> 1200px)
+##### Justify content - Tv (≥ 1200px)
 
 - `.hover:tv:justify-content-around` - قم بتبرير المحتوى الموجود عند التمرير على شاشة التلفزيون
 - `.hover:tv:justify-content-between` - ضبط المحتوى بين التمرير على شاشة التلفزيون
@@ -1503,7 +1502,7 @@
 - `.tv:justify-content-end` - تبرير نهاية المحتوى على شاشة التلفزيون
 - `.tv:justify-content-start` - تبرير المحتوى يبدأ على شاشة التلفزيون
 
-##### Justify content - Tablet Max (< 768px)
+##### Justify content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:justify-content-around` - قم بضبط المحتوى عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:justify-content-between` - ضبط المحتوى بين التمرير على الجهاز اللوحي بحد أقصى
@@ -1516,7 +1515,7 @@
 - `.tablet-max:justify-content-end` - ضبط نهاية المحتوى على الجهاز اللوحي بحد أقصى
 - `.tablet-max:justify-content-start` - ضبط المحتوى يبدأ على الجهاز اللوحي بحد أقصى
 
-##### Justify content - Tablet Pc Max (< 992px)
+##### Justify content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - قم بضبط المحتوى عند التمرير على الكمبيوتر اللوحي كحد أقصى
 - `.hover:tablet-pc-max:justify-content-between` - ضبط المحتوى بين التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -1529,7 +1528,7 @@
 - `.tablet-pc-max:justify-content-end` - ضبط نهاية المحتوى على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:justify-content-start` - ضبط محتوى البدء على الكمبيوتر اللوحي بحد أقصى
 
-##### Justify content - Pc Max (< 1200px)
+##### Justify content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:justify-content-around` - قم بضبط المحتوى عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:justify-content-between` - ضبط المحتوى بين التمرير على جهاز الكمبيوتر كحد أقصى
@@ -1585,7 +1584,7 @@
 - `.hover:-order-2` - الطلب السلبي 2 عند التمرير
 - `.hover:-order-1` - أمر سلبي 1 عند التمرير
 
-##### Order - Mobile (< 480px)
+##### Order - Mobile (≤ 480px)
 
 - `.hover:mobile:order-5` - اطلب 5 عند التمرير على الهاتف المحمول
 - `.hover:mobile:order-4` - اطلب 4 عند التمرير على الهاتف المحمول
@@ -1604,7 +1603,7 @@
 - `.mobile:order-first` - اطلب أولاً على الهاتف المحمول
 - `.mobile:order-last` - الطلب الأخير على الهاتف المحمول
 
-##### Negative Order - Mobile (< 480px)
+##### Negative Order - Mobile (≤ 480px)
 
 - `.hover:mobile:-order-5` - الطلب السلبي 5 عند التمرير على الهاتف المحمول
 - `.hover:mobile:-order-4` - الطلب السلبي 4 عند التمرير على الهاتف المحمول
@@ -1713,7 +1712,7 @@
 - `.pc:-order-2` - الطلب السلبي 2 على جهاز الكمبيوتر
 - `.pc:-order-1` - الطلب السلبي 1 على جهاز الكمبيوتر
 
-##### Order - Tv (> 1200px)
+##### Order - Tv (≥ 1200px)
 
 - `.hover:tv:order-5` - اطلب 5 عند التمرير على شاشة التلفزيون
 - `.hover:tv:order-4` - اطلب 4 عند التمرير على شاشة التلفزيون
@@ -1732,7 +1731,7 @@
 - `.tv:order-first` - اطلب أولاً على شاشة التلفزيون
 - `.tv:order-last` - النظام الأخير على شاشة التلفزيون
 
-##### Negative Order - Tv (> 1200px)
+##### Negative Order - Tv (≥ 1200px)
 
 - `.hover:tv:-order-5` - الطلب السلبي 5 عند التمرير على شاشة التلفزيون
 - `.hover:tv:-order-4` - الطلب السلبي 4 عند التمرير على شاشة التلفزيون
@@ -1745,7 +1744,7 @@
 - `.tv:-order-2` - الطلب السلبي 2 على شاشة التلفزيون
 - `.tv:-order-1` - الطلب السلبي 1 على شاشة التلفزيون
 
-##### Order - Tablet Max (< 768px)
+##### Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:order-5` - اطلب 5 عند التمرير على الجهاز اللوحي كحد أقصى
 - `.hover:tablet-max:order-4` - اطلب 4 عند التمرير على الجهاز اللوحي بحد أقصى
@@ -1764,7 +1763,7 @@
 - `.tablet-max:order-first` - اطلب أولاً على الجهاز اللوحي بحد أقصى
 - `.tablet-max:order-last` - الطلب الأخير على الجهاز اللوحي بحد أقصى
 
-##### Negative Order - Tablet Max (< 768px)
+##### Negative Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:-order-5` - الطلب السلبي 5 عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:-order-4` - الطلب السلبي 4 عند التمرير على الجهاز اللوحي بحد أقصى
@@ -1777,7 +1776,7 @@
 - `.tablet-max:-order-2` - الطلب السلبي 2 على الجهاز اللوحي كحد أقصى
 - `.tablet-max:-order-1` - الطلب السلبي 1 على الجهاز اللوحي بحد أقصى
 
-##### Order - Tablet Pc Max (< 992px)
+##### Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:order-5` - اطلب 5 عند التمرير على الكمبيوتر اللوحي كحد أقصى
 - `.hover:tablet-pc-max:order-4` - اطلب 4 عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -1796,7 +1795,7 @@
 - `.tablet-pc-max:order-first` - اطلب أولاً على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:order-last` - الطلب الأخير على الكمبيوتر اللوحي بحد أقصى
 
-##### Negative Order - Tablet Pc Max (< 992px)
+##### Negative Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:-order-5` - الطلب السلبي 5 عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:-order-4` - الطلب السلبي 4 عند التمرير على الكمبيوتر اللوحي كحد أقصى
@@ -1809,7 +1808,7 @@
 - `.tablet-pc-max:-order-2` - الطلب السلبي 2 على الكمبيوتر اللوحي كحد أقصى
 - `.tablet-pc-max:-order-1` - الطلب السلبي 1 على الكمبيوتر اللوحي بحد أقصى
 
-##### Order - Pc Max (< 1200px)
+##### Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:order-5` - اطلب 5 عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:order-4` - اطلب 4 عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -1828,7 +1827,7 @@
 - `.pc-max:order-first` - اطلب أولاً على جهاز الكمبيوتر كحد أقصى
 - `.pc-max:order-last` - الطلب الأخير على جهاز الكمبيوتر كحد أقصى
 
-##### Negative Order - Pc Max (< 1200px)
+##### Negative Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:-order-5` - الطلب السلبي 5 عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:-order-4` - الطلب السلبي 4 عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -1909,10 +1908,10 @@
 #### Margin Bottom
 
 - `.first:mb-0` - الهامش السفلي 0rem في البداية
-- `.hover:mb-100` - الهامش السفلي 100ريم عند التحويم
-- `.hover:mb-75` - الهامش السفلي 75rem عند التحويم
-- `.hover:mb-50` - الهامش السفلي 50ريم عند التحويم
-- `.hover:mb-25` - الهامش السفلي 25rem عند التمرير
+- `.hover:mb-100` - الهامش السفلي 100% عند التحويم
+- `.hover:mb-75` - الهامش السفلي 75% عند التحويم
+- `.hover:mb-50` - الهامش السفلي 50% عند التحويم
+- `.hover:mb-25` - الهامش السفلي 25% عند التمرير
 - `.hover:mb-5` - الهامش السفلي 5rem عند التمرير
 - `.hover:mb-4.5` - الهامش السفلي 0rem عند التمرير
 - `.hover:mb-4` - الهامش السفلي 4rem عند التمرير
@@ -1942,10 +1941,10 @@
 - `.hover:mb-0` - الهامش السفلي 0rem عند التمرير
 - `.hover:mb-auto` - أسفل الهامش تلقائيًا عند التمرير
 - `.last:mb-0` - الهامش السفلي 0rem في الماضي
-- `.mb-100` - الهامش السفلي 100ريم
-- `.mb-75` - الهامش السفلي 75ريم
-- `.mb-50` - الهامش السفلي 50ريم
-- `.mb-25` - الهامش السفلي 25ريم
+- `.mb-100` - الهامش السفلي 100%
+- `.mb-75` - الهامش السفلي 75%
+- `.mb-50` - الهامش السفلي 50%
+- `.mb-25` - الهامش السفلي 25%
 - `.mb-5` - الهامش السفلي 5rem
 - `.mb-4.5` - الهامش السفلي 0rem
 - `.mb-4` - الهامش السفلي 4rem
@@ -1991,10 +1990,10 @@
 #### Margin Left
 
 - `.first:ml-0` - الهامش الأيسر 0rem في البداية
-- `.hover:ml-100` - الهامش الأيسر 100ريم عند التحويم
-- `.hover:ml-75` - الهامش الأيسر 75ريم عند التحويم
-- `.hover:ml-50` - الهامش الأيسر 50ريم عند التحويم
-- `.hover:ml-25` - الهامش الأيسر 25rem عند التمرير
+- `.hover:ml-100` - الهامش الأيسر 100% عند التحويم
+- `.hover:ml-75` - الهامش الأيسر 75% عند التحويم
+- `.hover:ml-50` - الهامش الأيسر 50% عند التحويم
+- `.hover:ml-25` - الهامش الأيسر 25% عند التمرير
 - `.hover:ml-5` - الهامش الأيسر 5rem عند التمرير
 - `.hover:ml-4.5` - الهامش الأيسر 0rem عند التمرير
 - `.hover:ml-4` - الهامش الأيسر 4rem عند التمرير
@@ -2024,10 +2023,10 @@
 - `.hover:ml-0` - الهامش الأيسر 0rem عند التمرير
 - `.hover:ml-auto` - الهامش الأيسر تلقائي عند التمرير
 - `.last:ml-0` - الهامش الأيسر 0rem في الماضي
-- `.ml-100` - الهامش الأيسر 100ريم
-- `.ml-75` - الهامش الأيسر 75ريم
-- `.ml-50` - الهامش الأيسر 50ريم
-- `.ml-25` - الهامش الأيسر 25ريم
+- `.ml-100` - الهامش الأيسر 100%
+- `.ml-75` - الهامش الأيسر 75%
+- `.ml-50` - الهامش الأيسر 50%
+- `.ml-25` - الهامش الأيسر 25%
 - `.ml-5` - الهامش الأيسر 5ريم
 - `.ml-4.5` - الهامش الأيسر 0rem
 - `.ml-4` - الهامش الأيسر 4rem
@@ -2060,10 +2059,10 @@
 #### Margin Right
 
 - `.first:mr-0` - الهامش الأيمن 0rem في البداية
-- `.hover:mr-100` - الهامش الأيمن 100ريم عند التحويم
-- `.hover:mr-75` - الهامش الأيمن 75ريم عند التحويم
-- `.hover:mr-50` - الهامش الأيمن 50ريم عند التحويم
-- `.hover:mr-25` - الهامش الأيمن 25rem عند التحويم
+- `.hover:mr-100` - الهامش الأيمن 100% عند التحويم
+- `.hover:mr-75` - الهامش الأيمن 75% عند التحويم
+- `.hover:mr-50` - الهامش الأيمن 50% عند التحويم
+- `.hover:mr-25` - الهامش الأيمن 25% عند التحويم
 - `.hover:mr-5` - الهامش الأيمن 5rem عند التمرير
 - `.hover:mr-4.5` - الهامش الأيمن 0rem عند التمرير
 - `.hover:mr-4` - الهامش الأيمن 4rem عند التمرير
@@ -2093,10 +2092,10 @@
 - `.hover:mr-0` - الهامش الأيمن 0rem عند التمرير
 - `.hover:mr-auto` - الهامش الأيمن تلقائي عند التمرير
 - `.last:mr-0` - الهامش الأيمن 0rem في الماضي
-- `.mr-100` - الهامش الصحيح 100ريم
-- `.mr-75` - الهامش الأيمن 75ريم
-- `.mr-50` - الهامش الصحيح 50ريم
-- `.mr-25` - الهامش الأيمن 25ريم
+- `.mr-100` - الهامش الصحيح 100%
+- `.mr-75` - الهامش الأيمن 75%
+- `.mr-50` - الهامش الصحيح 50%
+- `.mr-25` - الهامش الأيمن 25%
 - `.mr-5` - الهامش الأيمن 5rem
 - `.mr-4.5` - الهامش الأيمن 0rem
 - `.mr-4` - الهامش الأيمن 4rem
@@ -2142,10 +2141,10 @@
 #### Margin Top
 
 - `.first:mt-0` - الهامش الأعلى 0rem في البداية
-- `.hover:mt-100` - أعلى هامش 100rem عند التمرير
-- `.hover:mt-75` - أعلى الهامش 75rem عند التمرير
-- `.hover:mt-50` - أعلى هامش 50rem عند التمرير
-- `.hover:mt-25` - أعلى هامش 25rem عند التمرير
+- `.hover:mt-100` - أعلى هامش 100% عند التمرير
+- `.hover:mt-75` - أعلى الهامش 75% عند التمرير
+- `.hover:mt-50` - أعلى هامش 50% عند التمرير
+- `.hover:mt-25` - أعلى هامش 25% عند التمرير
 - `.hover:mt-5` - أعلى الهامش 5rem عند التمرير
 - `.hover:mt-4.5` - أعلى الهامش 0rem عند التمرير
 - `.hover:mt-4` - أعلى الهامش 4rem عند التمرير
@@ -2175,10 +2174,10 @@
 - `.hover:mt-0` - أعلى الهامش 0rem عند التمرير
 - `.hover:mt-auto` - أعلى الهامش تلقائيًا عند التمرير
 - `.last:mt-0` - الهامش الأعلى 0rem في الماضي
-- `.mt-100` - الهامش الأعلى 100ريم
-- `.mt-75` - الهامش الأعلى 75ريم
-- `.mt-50` - الهامش الأعلى 50ريم
-- `.mt-25` - الهامش الأعلى 25rem
+- `.mt-100` - الهامش الأعلى 100%
+- `.mt-75` - الهامش الأعلى 75%
+- `.mt-50` - الهامش الأعلى 50%
+- `.mt-25` - الهامش الأعلى 25%
 - `.mt-5` - الهامش الأعلى 5rem
 - `.mt-4.5` - الهامش الأعلى 0rem
 - `.mt-4` - الهامش الأعلى 4rem
@@ -2210,10 +2209,10 @@
 
 #### Margin X-Axis
 
-- `.hover:mx-100` - هامش المحور X 100rem عند التمرير
-- `.hover:mx-75` - هامش المحور X 75rem عند التمرير
-- `.hover:mx-50` - هامش المحور X 50rem عند التمرير
-- `.hover:mx-25` - هامش المحور X 25rem عند التمرير
+- `.hover:mx-100` - هامش المحور X 100% عند التمرير
+- `.hover:mx-75` - هامش المحور X 75% عند التمرير
+- `.hover:mx-50` - هامش المحور X 50% عند التمرير
+- `.hover:mx-25` - هامش المحور X 25% عند التمرير
 - `.hover:mx-5` - هامش المحور السيني 5rem عند التمرير
 - `.hover:mx-4.5` - هامش المحور السيني 0rem عند التمرير
 - `.hover:mx-4` - هامش المحور السيني 4rem عند التمرير
@@ -2242,10 +2241,10 @@
 - `.hover:mx-0.1` - هامش المحور X 0.1rem عند التمرير
 - `.hover:mx-0` - هامش المحور السيني 0rem عند التمرير
 - `.hover:mx-auto` - هامش المحور X تلقائي عند التمرير
-- `.mx-100` - هامش المحور السيني 100ريم
-- `.mx-75` - هامش المحور السيني 75ريم
-- `.mx-50` - هامش المحور السيني 50ريم
-- `.mx-25` - هامش المحور السيني 25rem
+- `.mx-100` - هامش المحور السيني 100%
+- `.mx-75` - هامش المحور السيني 75%
+- `.mx-50` - هامش المحور السيني 50%
+- `.mx-25` - هامش المحور السيني 25%
 - `.mx-5` - هامش المحور X 5rem
 - `.mx-4.5` - هامش المحور X 0rem
 - `.mx-4` - هامش المحور X 4rem
@@ -2277,10 +2276,10 @@
 
 #### Margin Y-Axis
 
-- `.hover:my-100` - هامش المحور Y 100rem عند التمرير
-- `.hover:my-75` - هامش المحور Y 75rem عند التمرير
-- `.hover:my-50` - هامش المحور Y 50rem عند التمرير
-- `.hover:my-25` - هامش المحور Y 25rem عند التمرير
+- `.hover:my-100` - هامش المحور Y 100% عند التمرير
+- `.hover:my-75` - هامش المحور Y 75% عند التمرير
+- `.hover:my-50` - هامش المحور Y 50% عند التمرير
+- `.hover:my-25` - هامش المحور Y 25% عند التمرير
 - `.hover:my-5` - هامش المحور Y 5rem عند التمرير
 - `.hover:my-4.5` - هامش المحور ص 0rem عند التمرير
 - `.hover:my-4` - هامش المحور Y 4rem عند التمرير
@@ -2309,10 +2308,10 @@
 - `.hover:my-0.1` - هامش المحور Y 0.1rem عند التمرير
 - `.hover:my-0` - هامش المحور ص 0rem عند التمرير
 - `.hover:my-auto` - هامش المحور Y تلقائي عند التمرير
-- `.my-100` - هامش المحور ص 100ريم
-- `.my-75` - Margin Y-Axis 75rem
-- `.my-50` - هامش المحور ص 50ريم
-- `.my-25` - هامش المحور Y 25rem
+- `.my-100` - هامش المحور ص 100%
+- `.my-75` - Margin Y-Axis 75%
+- `.my-50` - هامش المحور ص 50%
+- `.my-25` - هامش المحور Y 25%
 - `.my-5` - Margin Y-Axis 5rem
 - `.my-4.5` - هامش المحور ص 0rem
 - `.my-4` - هامش المحور Y 4rem
@@ -2406,10 +2405,10 @@
 #### Padding Bottom
 
 - `.first:pb-0` - الحشو السفلي 0rem في البداية
-- `.hover:pb-100` - الحشو السفلي 100ريم عند التحويم
-- `.hover:pb-75` - الحشو السفلي 75rem عند التحويم
-- `.hover:pb-50` - الحشو السفلي 50rem عند التحويم
-- `.hover:pb-25` - الحشو السفلي 25rem عند التحويم
+- `.hover:pb-100` - الحشو السفلي 100% عند التحويم
+- `.hover:pb-75` - الحشو السفلي 75% عند التحويم
+- `.hover:pb-50` - الحشو السفلي 50% عند التحويم
+- `.hover:pb-25` - الحشو السفلي 25% عند التحويم
 - `.hover:pb-5` - الحشو أسفل 5rem عند التحويم
 - `.hover:pb-4.5` - الحشو السفلي 0rem عند التحويم
 - `.hover:pb-4` - الحشو السفلي 4rem عند التحويم
@@ -2438,10 +2437,10 @@
 - `.hover:pb-0.1` - الحشو السفلي 0.1rem عند التحويم
 - `.hover:pb-0` - الحشو السفلي 0rem عند التحويم
 - `.last:pb-0` - الحشو أسفل 0rem في الماضي
-- `.pb-100` - الحشو السفلي 100ريم
-- `.pb-75` - الحشو السفلي 75ريم
-- `.pb-50` - الحشو السفلي 50ريم
-- `.pb-25` - الحشو السفلي 25ريم
+- `.pb-100` - الحشو السفلي 100%
+- `.pb-75` - الحشو السفلي 75%
+- `.pb-50` - الحشو السفلي 50%
+- `.pb-25` - الحشو السفلي 25%
 - `.pb-5` - الحشو السفلي 5rem
 - `.pb-4.5` - الحشو السفلي 0rem
 - `.pb-4` - الحشو السفلي 4rem
@@ -2532,10 +2531,10 @@
 #### Padding Right
 
 - `.first:pr-0` - الحشو الأيمن 0rem في البداية
-- `.hover:pr-100` - الحشو الأيمن 100ريم عند التحويم
-- `.hover:pr-75` - الحشو الصحيح 75rem عند التحويم
-- `.hover:pr-50` - الحشو الصحيح 50ريم عند التحويم
-- `.hover:pr-25` - الحشو الصحيح 25rem عند التحويم
+- `.hover:pr-100` - الحشو الأيمن 100% عند التحويم
+- `.hover:pr-75` - الحشو الصحيح 75% عند التحويم
+- `.hover:pr-50` - الحشو الصحيح 50% عند التحويم
+- `.hover:pr-25` - الحشو الصحيح 25% عند التحويم
 - `.hover:pr-5` - الحشو الصحيح 5rem عند التحويم
 - `.hover:pr-4.5` - الحشو الأيمن 0rem عند التحويم
 - `.hover:pr-4` - الحشو الصحيح 4rem عند التحويم
@@ -2564,10 +2563,10 @@
 - `.hover:pr-0.1` - الحشو الأيمن 0.1ريم عند التحويم
 - `.hover:pr-0` - الحشو الأيمن 0rem عند التحويم
 - `.last:pr-0` - الحشو الأيمن 0rem في الماضي
-- `.pr-100` - الحشو الصحيح 100ريم
-- `.pr-75` - الحشو الصحيح 75ريم
-- `.pr-50` - الحشو الصحيح 50ريم
-- `.pr-25` - الحشو الصحيح 25ريم
+- `.pr-100` - الحشو الصحيح 100%
+- `.pr-75` - الحشو الصحيح 75%
+- `.pr-50` - الحشو الصحيح 50%
+- `.pr-25` - الحشو الصحيح 25%
 - `.pr-5` - الحشو الصحيح 5rem
 - `.pr-4.5` - الحشو الأيمن 0rem
 - `.pr-4` - الحشو الصحيح 4rem
@@ -2599,10 +2598,10 @@
 #### Padding Top
 
 - `.first:pt-0` - الحشو أعلى 0rem في البداية
-- `.hover:pt-100` - الحشو أعلى 100rem عند التحويم
-- `.hover:pt-75` - الحشو أعلى 75rem عند التحويم
-- `.hover:pt-50` - الحشو أعلى 50rem عند التحويم
-- `.hover:pt-25` - الحشو أعلى 25rem عند التحويم
+- `.hover:pt-100` - الحشو أعلى 100% عند التحويم
+- `.hover:pt-75` - الحشو أعلى 75% عند التحويم
+- `.hover:pt-50` - الحشو أعلى 50% عند التحويم
+- `.hover:pt-25` - الحشو أعلى 25% عند التحويم
 - `.hover:pt-5` - الحشو أعلى 5rem عند التحويم
 - `.hover:pt-4.5` - الحشو أعلى 0rem عند التحويم
 - `.hover:pt-4` - الحشو أعلى 4rem عند التحويم
@@ -2631,10 +2630,10 @@
 - `.hover:pt-0.1` - الحشو العلوي 0.1rem عند التحويم
 - `.hover:pt-0` - الحشو أعلى 0rem عند التحويم
 - `.last:pt-0` - الحشو أعلى 0rem في الماضي
-- `.pt-100` - الحشو أعلى 100ريم
-- `.pt-75` - الحشو أعلى 75rem
-- `.pt-50` - الحشو أعلى 50rem
-- `.pt-25` - الحشو أعلى 25rem
+- `.pt-100` - الحشو أعلى 100%
+- `.pt-75` - الحشو أعلى 75%
+- `.pt-50` - الحشو أعلى 50%
+- `.pt-25` - الحشو أعلى 25%
 - `.pt-5` - الحشو أعلى 5rem
 - `.pt-4.5` - الحشو أعلى 0rem
 - `.pt-4` - الحشو أعلى 4rem
@@ -2665,10 +2664,10 @@
 
 #### Padding X-Axis
 
-- `.hover:px-100` - حشو المحور X 100rem عند التحويم
-- `.hover:px-75` - حشو المحور X 75rem عند التحويم
-- `.hover:px-50` - حشو المحور X 50rem عند التحويم
-- `.hover:px-25` - حشو المحور X 25rem عند التحويم
+- `.hover:px-100` - حشو المحور X 100% عند التحويم
+- `.hover:px-75` - حشو المحور X 75% عند التحويم
+- `.hover:px-50` - حشو المحور X 50% عند التحويم
+- `.hover:px-25` - حشو المحور X 25% عند التحويم
 - `.hover:px-5` - حشو المحور X 5rem عند التمرير
 - `.hover:px-4.5` - حشو المحور X 0rem عند التمرير
 - `.hover:px-4` - حشو المحور X 4rem عند التمرير
@@ -2696,10 +2695,10 @@
 - `.hover:px-0.2` - حشو المحور X 0.2rem عند التحويم
 - `.hover:px-0.1` - حشو المحور X 0.1rem عند التمرير
 - `.hover:px-0` - حشو المحور X 0rem عند التمرير
-- `.px-100` - حشوة المحور X 100rem
-- `.px-75` - حشوة المحور X 75rem
-- `.px-50` - حشوة المحور X 50rem
-- `.px-25` - حشوة المحور X 25rem
+- `.px-100` - حشوة المحور X 100%
+- `.px-75` - حشوة المحور X 75%
+- `.px-50` - حشوة المحور X 50%
+- `.px-25` - حشوة المحور X 25%
 - `.px-5` - حشوة المحور X 5rem
 - `.px-4.5` - حشوة المحور X 0rem
 - `.px-4` - حشوة المحور X 4rem
@@ -2730,10 +2729,10 @@
 
 #### Padding Y-Axis
 
-- `.hover:py-100` - حشو المحور Y 100rem عند التحويم
-- `.hover:py-75` - حشوة المحور Y 75rem عند التحويم
-- `.hover:py-50` - حشو المحور Y 50rem عند التحويم
-- `.hover:py-25` - حشو المحور Y 25rem عند التحويم
+- `.hover:py-100` - حشو المحور Y 100% عند التحويم
+- `.hover:py-75` - حشوة المحور Y 75% عند التحويم
+- `.hover:py-50` - حشو المحور Y 50% عند التحويم
+- `.hover:py-25` - حشو المحور Y 25% عند التحويم
 - `.hover:py-5` - حشو المحور Y 5rem عند التمرير
 - `.hover:py-4.5` - حشو المحور Y 0rem عند التمرير
 - `.hover:py-4` - حشو المحور Y 4rem عند التحويم
@@ -2761,10 +2760,10 @@
 - `.hover:py-0.2` - حشوة المحور Y 0.2rem عند التحويم
 - `.hover:py-0.1` - حشوة المحور Y 0.1rem عند التحويم
 - `.hover:py-0` - حشو المحور Y 0rem عند التمرير
-- `.py-100` - حشوة المحور Y 100ريم
-- `.py-75` - حشوة المحور Y 75rem
-- `.py-50` - حشوة المحور Y 50rem
-- `.py-25` - حشوة المحور Y 25rem
+- `.py-100` - حشوة المحور Y 100%
+- `.py-75` - حشوة المحور Y 75%
+- `.py-50` - حشوة المحور Y 50%
+- `.py-25` - حشوة المحور Y 25%
 - `.py-5` - حشوة المحور Y 5rem
 - `.py-4.5` - حشوة المحور Y 0rem
 - `.py-4` - حشوة المحور Y 4rem
@@ -2840,7 +2839,7 @@
 - `.w-5` - العرض 5%
 - `.w-auto` - العرض التلقائي٪
 
-##### Width - Mobile (< 480px)
+##### Width - Mobile (≤ 480px)
 
 - `.hover:mobile:w-100` - العرض 100% عند التمرير على الهاتف المحمول
 - `.hover:mobile:w-95` - العرض 95% عند التمرير على الهاتف المحمول
@@ -3020,7 +3019,7 @@
 - `.pc:w-5` - العرض 5% على جهاز الكمبيوتر
 - `.pc:w-auto` - العرض التلقائي٪ على جهاز الكمبيوتر
 
-##### Width - Tv (> 1200px)
+##### Width - Tv (≥ 1200px)
 
 - `.hover:tv:w-100` - العرض 100% عند التمرير على التلفاز
 - `.hover:tv:w-95` - العرض 95% عند التحويم على التلفاز
@@ -3065,7 +3064,7 @@
 - `.tv:w-5` - العرض 5% على التلفاز
 - `.tv:w-auto` - العرض التلقائي٪ على شاشة التلفزيون
 
-##### Width - Tablet Max (< 768px)
+##### Width - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:w-100` - العرض 100% عند التمرير على الجهاز اللوحي كحد أقصى
 - `.hover:tablet-max:w-95` - العرض 95% عند التمرير على الجهاز اللوحي بحد أقصى
@@ -3110,7 +3109,7 @@
 - `.tablet-max:w-5` - العرض 5% على الجهاز اللوحي كحد أقصى
 - `.tablet-max:w-auto` - العرض التلقائي% على الجهاز اللوحي بحد أقصى
 
-##### Width - Tablet Pc Max (< 992px)
+##### Width - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:w-100` - العرض 100% عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:w-95` - العرض 95% عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -3155,7 +3154,7 @@
 - `.tablet-pc-max:w-5` - العرض 5% على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:w-auto` - العرض التلقائي٪ على الكمبيوتر اللوحي كحد أقصى
 
-##### Width - Pc Max (< 1200px)
+##### Width - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:w-100` - العرض 100% عند التمرير على جهاز الكمبيوتر بحد أقصى
 - `.hover:pc-max:w-95` - العرض 95% عند التمرير على جهاز الكمبيوتر بحد أقصى
@@ -3202,25 +3201,25 @@
 
 #### Width vh
 
-- `.hover:w-vh-100` - العرض vh 100% عند التمرير
-- `.hover:w-vh-75` - العرض vh 75% عند التحويم
-- `.hover:w-vh-50` - العرض vh 50% عند التحويم
-- `.hover:w-vh-25` - العرض vh 25% عند التحويم
-- `.w-vh-100` - العرض vh 100%
-- `.w-vh-75` - عرض vh 75%
-- `.w-vh-50` - العرض vh 50%
-- `.w-vh-25` - العرض vh 25%
+- `.hover:w-vh-100` - العرض vh 100vh عند التمرير
+- `.hover:w-vh-75` - العرض vh 75vh عند التحويم
+- `.hover:w-vh-50` - العرض vh 50vh عند التحويم
+- `.hover:w-vh-25` - العرض vh 25vh عند التحويم
+- `.w-vh-100` - العرض vh 100vh
+- `.w-vh-75` - عرض vh 75vh
+- `.w-vh-50` - العرض vh 50vh
+- `.w-vh-25` - العرض vh 25vh
 
 #### Width vw
 
-- `.hover:w-vw-100` - العرض فولكس فاجن 100% عند التحويم
-- `.hover:w-vw-75` - العرض فولكس فاجن 75% عند التحويم
-- `.hover:w-vw-50` - العرض فولكس فاجن 50% عند التحويم
-- `.hover:w-vw-25` - العرض فولكس فاجن 25% عند التحويم
-- `.w-vw-100` - عرض فولكس فاجن 100%
-- `.w-vw-75` - عرض فولكس فاجن 75%
-- `.w-vw-50` - عرض فولكس فاجن 50%
-- `.w-vw-25` - عرض فولكس فاجن 25%
+- `.hover:w-vw-100` - العرض فولكس فاجن 100vw عند التحويم
+- `.hover:w-vw-75` - العرض فولكس فاجن 75vw عند التحويم
+- `.hover:w-vw-50` - العرض فولكس فاجن 50vw عند التحويم
+- `.hover:w-vw-25` - العرض فولكس فاجن 25vw عند التحويم
+- `.w-vw-100` - عرض فولكس فاجن 100vw
+- `.w-vw-75` - عرض فولكس فاجن 75vw
+- `.w-vw-50` - عرض فولكس فاجن 50vw
+- `.w-vw-25` - عرض فولكس فاجن 25vw
 
 ### Height
 
@@ -3267,7 +3266,7 @@
 - `.hover:h-5` - الارتفاع 5% عند التحويم
 - `.hover:h-auto` - الارتفاع التلقائي٪ عند التمرير
 
-##### Height - Mobile (< 480px)
+##### Height - Mobile (≤ 480px)
 
 - `.hover:mobile:h-100` - الارتفاع 100% عند التمرير على الهاتف المحمول
 - `.hover:mobile:h-95` - الارتفاع 95% عند المرور على الجوال
@@ -3446,7 +3445,7 @@
 - `.pc:h-5` - الارتفاع 5% على جهاز الكمبيوتر
 - `.pc:h-auto` - الارتفاع التلقائي٪ على جهاز الكمبيوتر
 
-##### Height - Tv (> 1200px)
+##### Height - Tv (≥ 1200px)
 
 - `.hover:tv:h-100` - الارتفاع 100% عند التحويم على التلفاز
 - `.hover:tv:h-95` - الارتفاع 95% عند التحويم على التلفاز
@@ -3491,7 +3490,7 @@
 - `.tv:h-5` - الارتفاع 5% على التلفاز
 - `.tv:h-auto` - الارتفاع التلقائي٪ على شاشة التلفزيون
 
-##### Height - Tablet Max (< 768px)
+##### Height - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:h-100` - الارتفاع 100% عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:h-95` - الارتفاع 95% عند التمرير على الجهاز اللوحي بحد أقصى
@@ -3536,7 +3535,7 @@
 - `.tablet-max:h-5` - الارتفاع 5% على التابلت كحد أقصى
 - `.tablet-max:h-auto` - الارتفاع التلقائي٪ على الجهاز اللوحي كحد أقصى
 
-##### Height - Tablet Pc Max (< 992px)
+##### Height - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:h-100` - الارتفاع 100% عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:h-95` - الارتفاع 95% عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -3581,7 +3580,7 @@
 - `.tablet-pc-max:h-5` - الارتفاع 5% على الكمبيوتر اللوحي كحد أقصى
 - `.tablet-pc-max:h-auto` - الارتفاع التلقائي٪ على الكمبيوتر اللوحي كحد أقصى
 
-##### Height - Pc Max (< 1200px)
+##### Height - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:h-100` - الارتفاع 100% عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:h-95` - الارتفاع 95% عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -3628,25 +3627,25 @@
 
 #### Height vh
 
-- `.h-vh-100` - الارتفاع 100%
-- `.h-vh-75` - الارتفاع 75%
-- `.h-vh-50` - الارتفاع 50%
-- `.h-vh-25` - الارتفاع 25%
-- `.hover:h-vh-100` - الارتفاع vh 100% عند التحويم
-- `.hover:h-vh-75` - الارتفاع vh 75% عند التحويم
-- `.hover:h-vh-50` - الارتفاع vh 50% عند التحويم
-- `.hover:h-vh-25` - الارتفاع vh 25% عند التحويم
+- `.h-vh-100` - الارتفاع 100vh
+- `.h-vh-75` - الارتفاع 75vh
+- `.h-vh-50` - الارتفاع 50vh
+- `.h-vh-25` - الارتفاع 25vh
+- `.hover:h-vh-100` - الارتفاع vh 100vh عند التحويم
+- `.hover:h-vh-75` - الارتفاع vh 75vh عند التحويم
+- `.hover:h-vh-50` - الارتفاع vh 50vh عند التحويم
+- `.hover:h-vh-25` - الارتفاع vh 25vh عند التحويم
 
 #### Height vw
 
-- `.h-vw-100` - الارتفاع فولكس فاجن 100%
-- `.h-vw-75` - الارتفاع فولكس فاجن 75%
-- `.h-vw-50` - الارتفاع فولكس فاجن 50%
-- `.h-vw-25` - الارتفاع فولكس فاجن 25%
-- `.hover:h-vw-100` - الارتفاع فولكس فاجن 100% عند التحويم
-- `.hover:h-vw-75` - الارتفاع فولكس فاجن 75% عند التحويم
-- `.hover:h-vw-50` - الارتفاع فولكس فاجن 50% عند التحويم
-- `.hover:h-vw-25` - الارتفاع فولكس فاجن 25% عند التحويم
+- `.h-vw-100` - الارتفاع فولكس فاجن 100vw
+- `.h-vw-75` - الارتفاع فولكس فاجن 75vw
+- `.h-vw-50` - الارتفاع فولكس فاجن 50vw
+- `.h-vw-25` - الارتفاع فولكس فاجن 25vw
+- `.hover:h-vw-100` - الارتفاع فولكس فاجن 100vw عند التحويم
+- `.hover:h-vw-75` - الارتفاع فولكس فاجن 75vw عند التحويم
+- `.hover:h-vw-50` - الارتفاع فولكس فاجن 50vw عند التحويم
+- `.hover:h-vw-25` - الارتفاع فولكس فاجن 25vw عند التحويم
 
 ## Positioning
 
@@ -3677,10 +3676,10 @@
 
 ### Top
 
-- `.hover:top-100` - أعلى 100ريم عند التحويم
-- `.hover:top-75` - أعلى 75ريم عند التحويم
-- `.hover:top-50` - أعلى 50ريمًا عند التحويم
-- `.hover:top-25` - أعلى 25ريمًا عند التحويم
+- `.hover:top-100` - أعلى 100% عند التحويم
+- `.hover:top-75` - أعلى 75% عند التحويم
+- `.hover:top-50` - أعلى 50% عند التحويم
+- `.hover:top-25` - أعلى 25% عند التحويم
 - `.hover:top-5` - أعلى 5ريم عند التحويم
 - `.hover:top-4.5` - أعلى 0rem عند التمرير
 - `.hover:top-4` - أعلى 4ريم عند التحويم
@@ -3708,10 +3707,10 @@
 - `.hover:top-0.2` - أعلى 0.2rem عند التمرير
 - `.hover:top-0.1` - أعلى 0.1rem عند التمرير
 - `.hover:top-0` - أعلى 0rem عند التمرير
-- `.top-100` - أعلى 100ريم
-- `.top-75` - أعلى 75ريم
-- `.top-50` - أعلى 50ريم
-- `.top-25` - أعلى 25ريم
+- `.top-100` - أعلى 100%
+- `.top-75` - أعلى 75%
+- `.top-50` - أعلى 50%
+- `.top-25` - أعلى 25%
 - `.top-5` - أعلى 5ريم
 - `.top-4.5` - أعلى 0ريم
 - `.top-4` - أعلى 4ريم
@@ -3797,10 +3796,10 @@
 
 ### Right
 
-- `.hover:right-100` - حق 100 ريم عند التحويم
-- `.hover:right-75` - 75ريمًا صحيحًا عند التحويم
-- `.hover:right-50` - حق 50ريم عند التحويم
-- `.hover:right-25` - الحق 25rem عند التحويم
+- `.hover:right-100` - حق 100% عند التحويم
+- `.hover:right-75` - 75% صحيحًا عند التحويم
+- `.hover:right-50` - حق 50% عند التحويم
+- `.hover:right-25` - الحق 25% عند التحويم
 - `.hover:right-5` - 5rem الصحيح عند التحويم
 - `.hover:right-4.5` - حق 0rem عند التحويم
 - `.hover:right-4` - حق 4rem عند التحويم
@@ -3828,10 +3827,10 @@
 - `.hover:right-0.2` - الحق 0.2rem عند التحويم
 - `.hover:right-0.1` - حق 0.1rem عند التحويم
 - `.hover:right-0` - حق 0rem عند التحويم
-- `.right-100` - الحق 100ريم
-- `.right-75` - الحق 75ريم
-- `.right-50` - حق 50ريم
-- `.right-25` - حق 25ريم
+- `.right-100` - الحق 100%
+- `.right-75` - الحق 75%
+- `.right-50` - حق 50%
+- `.right-25` - حق 25%
 - `.right-5` - حق 5ريم
 - `.right-4.5` - صحيح 0ريم
 - `.right-4` - حق 4ريم
@@ -3917,10 +3916,10 @@
 
 ### Bottom
 
-- `.bottom-100` - أسفل 100ريم
-- `.bottom-75` - أسفل 75ريم
-- `.bottom-50` - أسفل 50ريم
-- `.bottom-25` - أسفل 25ريم
+- `.bottom-100` - أسفل 100%
+- `.bottom-75` - أسفل 75%
+- `.bottom-50` - أسفل 50%
+- `.bottom-25` - أسفل 25%
 - `.bottom-5` - أسفل 5ريم
 - `.bottom-4.5` - أسفل 0ريم
 - `.bottom-4` - أسفل 4ريم
@@ -3948,10 +3947,10 @@
 - `.bottom-0.2` - أسفل 0.2rem
 - `.bottom-0.1` - أسفل 0.1rem
 - `.bottom-0` - أسفل 0ريم
-- `.hover:bottom-100` - أسفل 100 ريم عند التحويم
-- `.hover:bottom-75` - أسفل 75ريم عند التحويم
-- `.hover:bottom-50` - أسفل 50 ريم عند التحويم
-- `.hover:bottom-25` - أسفل 25ريم عند التحويم
+- `.hover:bottom-100` - أسفل 100% عند التحويم
+- `.hover:bottom-75` - أسفل 75% عند التحويم
+- `.hover:bottom-50` - أسفل 50% عند التحويم
+- `.hover:bottom-25` - أسفل 25% عند التحويم
 - `.hover:bottom-5` - أسفل 5rem عند التمرير
 - `.hover:bottom-4.5` - أسفل 0rem عند التمرير
 - `.hover:bottom-4` - أسفل 4rem عند التمرير
@@ -4037,10 +4036,10 @@
 
 ### Left
 
-- `.hover:left-100` - ترك 100ريم عند التحويم
-- `.hover:left-75` - ترك 75ريمًا عند التحويم
-- `.hover:left-50` - ترك 50ريمًا عند التحويم
-- `.hover:left-25` - ترك 25ريمًا عند التحويم
+- `.hover:left-100` - ترك 100% عند التحويم
+- `.hover:left-75` - ترك 75% عند التحويم
+- `.hover:left-50` - ترك 50% عند التحويم
+- `.hover:left-25` - ترك 25% عند التحويم
 - `.hover:left-5` - اليسار 5ريم على التحويم
 - `.hover:left-4.5` - اليسار 0rem عند التمرير
 - `.hover:left-4` - اليسار 4ريم على التحويم
@@ -4068,10 +4067,10 @@
 - `.hover:left-0.2` - ترك 0.2ريم عند التحويم
 - `.hover:left-0.1` - اليسار 0.1rem عند التمرير
 - `.hover:left-0` - اليسار 0rem عند التمرير
-- `.left-100` - اليسار 100ريم
-- `.left-75` - اليسار 75ريم
-- `.left-50` - اليسار 50ريم
-- `.left-25` - اليسار 25ريم
+- `.left-100` - اليسار 100%
+- `.left-75` - اليسار 75%
+- `.left-50` - اليسار 50%
+- `.left-25` - اليسار 25%
 - `.left-5` - اليسار 5ريم
 - `.left-4.5` - اليسار 0ريم
 - `.left-4` - اليسار 4ريم
@@ -4157,18 +4156,18 @@
 
 ### Z-Index
 
-- `.hover:z-5` - مؤشر Z 5 عند التمرير
-- `.hover:z-4` - مؤشر Z 4 عند التمرير
-- `.hover:z-3` - مؤشر Z 3 عند التمرير
-- `.hover:z-2` - مؤشر Z 2 عند التمرير
-- `.hover:z-1` - مؤشر Z 1 عند التمرير
+- `.hover:z-5` - مؤشر Z 1005 عند التمرير
+- `.hover:z-4` - مؤشر Z 1004 عند التمرير
+- `.hover:z-3` - مؤشر Z 1003 عند التمرير
+- `.hover:z-2` - مؤشر Z 1002 عند التمرير
+- `.hover:z-1` - مؤشر Z 1001 عند التمرير
 - `.hover:z-0` - مؤشر Z 0 عند التمرير
 - `.hover:z-auto` - مؤشر Z تلقائي عند التمرير
-- `.z-5` - مؤشر Z 5
-- `.z-4` - مؤشر Z 4
-- `.z-3` - مؤشر Z 3
-- `.z-2` - مؤشر Z 2
-- `.z-1` - مؤشر Z 1
+- `.z-5` - مؤشر Z 1005
+- `.z-4` - مؤشر Z 1004
+- `.z-3` - مؤشر Z 1003
+- `.z-2` - مؤشر Z 1002
+- `.z-1` - مؤشر Z 1001
 - `.z-0` - مؤشر Z 0
 - `.z-auto` - مؤشر Z تلقائي
 
@@ -4357,7 +4356,7 @@
 - `.text-transparent` - النص شفاف
 - `.text-uppercase` - النص بأحرف كبيرة
 
-##### Text - Mobile (< 480px)
+##### Text - Mobile (≤ 480px)
 
 - `.hover:mobile:text-center` - مركز النص عند التمرير على الهاتف المحمول
 - `.hover:mobile:text-end` - نهاية النص عند التمرير على الهاتف المحمول
@@ -4417,7 +4416,7 @@
 - `.pc:text-right` - النص مباشرة على جهاز الكمبيوتر
 - `.pc:text-start` - يبدأ النص على جهاز الكمبيوتر
 
-##### Text - Tv (> 1200px)
+##### Text - Tv (≥ 1200px)
 
 - `.hover:tv:text-center` - مركز النص عند التمرير على شاشة التلفزيون
 - `.hover:tv:text-end` - نهاية النص عند التمرير على شاشة التلفزيون
@@ -4432,7 +4431,7 @@
 - `.tv:text-right` - النص مباشرة على شاشة التلفزيون
 - `.tv:text-start` - يبدأ النص على شاشة التلفزيون
 
-##### Text - Tablet Max (< 768px)
+##### Text - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:text-center` - مركز النص عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:text-end` - نهاية النص عند التمرير على الجهاز اللوحي كحد أقصى
@@ -4447,7 +4446,7 @@
 - `.tablet-max:text-right` - النص مباشرة على الجهاز اللوحي بحد أقصى
 - `.tablet-max:text-start` - بداية النص على الجهاز اللوحي بحد أقصى
 
-##### Text - Tablet Pc Max (< 992px)
+##### Text - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:text-center` - مركز النص عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:text-end` - نهاية النص عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -4462,7 +4461,7 @@
 - `.tablet-pc-max:text-right` - النص مباشرة على الكمبيوتر اللوحي كحد أقصى
 - `.tablet-pc-max:text-start` - بدء النص على الكمبيوتر اللوحي بحد أقصى
 
-##### Text - Pc Max (< 1200px)
+##### Text - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:text-center` - مركز النص عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:text-end` - نهاية النص عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -4514,18 +4513,18 @@
 
 ### Bg blur
 
-- `.bg-blur-5` - بي جي طمس 5rem
-- `.bg-blur-4` - بي جي طمس 4rem
-- `.bg-blur-3` - بي جي طمس 3rem
-- `.bg-blur-2` - بي جي طمس 2rem
-- `.bg-blur-1` - بي جي طمس 1rem
-- `.bg-blur-0` - طمس 0rem
-- `.hover:bg-blur-5` - Bg طمس 5rem عند التحويم
-- `.hover:bg-blur-4` - Bg طمس 4rem عند التحويم
-- `.hover:bg-blur-3` - Bg طمس 3rem عند التحويم
-- `.hover:bg-blur-2` - Bg طمس 2rem عند التحويم
-- `.hover:bg-blur-1` - Bg طمس 1rem عند التمرير
-- `.hover:bg-blur-0` - Bg طمس 0rem عند التحويم
+- `.bg-blur-5` - بي جي طمس 24px
+- `.bg-blur-4` - بي جي طمس 16px
+- `.bg-blur-3` - بي جي طمس 12px
+- `.bg-blur-2` - بي جي طمس 8px
+- `.bg-blur-1` - بي جي طمس 4px
+- `.bg-blur-0` - طمس 0px
+- `.hover:bg-blur-5` - Bg طمس 24px عند التحويم
+- `.hover:bg-blur-4` - Bg طمس 16px عند التحويم
+- `.hover:bg-blur-3` - Bg طمس 12px عند التحويم
+- `.hover:bg-blur-2` - Bg طمس 8px عند التحويم
+- `.hover:bg-blur-1` - Bg طمس 4px عند التمرير
+- `.hover:bg-blur-0` - Bg طمس 0px عند التحويم
 
 ## Borders
 
@@ -4884,26 +4883,26 @@
 #### Box Shadow All
 
 - `.hover:shadow-5` - Box Shadow All 5rem عند التحويم
-- `.hover:shadow-5-1` - Box Shadow All 5-1rem عند التحويم
+- `.hover:shadow-5-1` - Box Shadow All 0 0 5rem 2rem عند التحويم
 - `.hover:shadow-4` - Box Shadow All 4rem عند التحويم
-- `.hover:shadow-4-1` - Box Shadow All 4-1rem عند التحويم
+- `.hover:shadow-4-1` - Box Shadow All 0 0 4rem 2rem عند التحويم
 - `.hover:shadow-3` - Box Shadow All 3rem عند التحويم
-- `.hover:shadow-3-1` - Box Shadow All 3-1rem عند التحويم
+- `.hover:shadow-3-1` - Box Shadow All 0 0 3rem 2rem عند التحويم
 - `.hover:shadow-2` - Box Shadow All 2rem عند التحويم
-- `.hover:shadow-2-1` - Box Shadow All 2-1rem عند التحويم
+- `.hover:shadow-2-1` - Box Shadow All 0 0 2rem 2rem عند التحويم
 - `.hover:shadow-1` - Box Shadow All 1rem عند التحويم
-- `.hover:shadow-1-1` - Box Shadow All 1-1rem عند التحويم
+- `.hover:shadow-1-1` - Box Shadow All 0 0 1rem 2rem عند التحويم
 - `.hover:shadow-none` - Box Shadow الكل لا شيء عند التمرير
 - `.shadow-5` - صندوق الظل الكل 5ريم
-- `.shadow-5-1` - صندوق الظل الكل 5-1ريم
+- `.shadow-5-1` - صندوق الظل الكل 0 0 5rem 2rem
 - `.shadow-4` - صندوق الظل الكل 4ريم
-- `.shadow-4-1` - صندوق الظل الكل 4-1ريم
+- `.shadow-4-1` - صندوق الظل الكل 0 0 4rem 2rem
 - `.shadow-3` - صندوق الظل الكل 3rem
-- `.shadow-3-1` - صندوق الظل الكل 3-1ريم
+- `.shadow-3-1` - صندوق الظل الكل 0 0 3rem 2rem
 - `.shadow-2` - صندوق الظل الكل 2rem
-- `.shadow-2-1` - صندوق الظل الكل 2-1ريم
+- `.shadow-2-1` - صندوق الظل الكل 0 0 2rem 2rem
 - `.shadow-1` - صندوق الظل الكل 1rem
-- `.shadow-1-1` - صندوق الظل الكل 1-1ريم
+- `.shadow-1-1` - صندوق الظل الكل 0 0 1rem 2rem
 - `.shadow-none` - صندوق الظل الكل لا شيء
 
 #### Box Shadow Bottom
@@ -5046,18 +5045,18 @@
 
 ### Blur
 
-- `.blur-5` - طمس 5rem
-- `.blur-4` - طمس 4ريم
-- `.blur-3` - طمس 3rem
-- `.blur-2` - طمس 2rem
-- `.blur-1` - طمس 1rem
-- `.blur-0` - طمس 0rem
-- `.hover:blur-5` - طمس 5rem عند التمرير
-- `.hover:blur-4` - طمس 4rem عند التمرير
-- `.hover:blur-3` - طمس 3rem عند التمرير
-- `.hover:blur-2` - طمس 2rem عند التمرير
-- `.hover:blur-1` - طمس 1rem عند التمرير
-- `.hover:blur-0` - طمس 0rem عند التمرير
+- `.blur-5` - طمس 24px
+- `.blur-4` - طمس 16px
+- `.blur-3` - طمس 12px
+- `.blur-2` - طمس 8px
+- `.blur-1` - طمس 4px
+- `.blur-0` - طمس 0px
+- `.hover:blur-5` - طمس 24px عند التمرير
+- `.hover:blur-4` - طمس 16px عند التمرير
+- `.hover:blur-3` - طمس 12px عند التمرير
+- `.hover:blur-2` - طمس 8px عند التمرير
+- `.hover:blur-1` - طمس 4px عند التمرير
+- `.hover:blur-0` - طمس 0px عند التمرير
 
 ### Opacity
 
@@ -5108,111 +5107,111 @@
 
 ### Rotate
 
-- `.hover:rotate-180` - تدوير 180ريم عند التحويم
-- `.hover:rotate-135` - قم بتدوير 135 ريم عند التحويم
-- `.hover:rotate-90` - تدوير 90rem عند التحويم
-- `.hover:rotate-45` - تدوير 45ريم عند التحويم
-- `.hover:rotate-12` - قم بتدوير 12 ريم عند التحويم
-- `.hover:rotate-9` - قم بتدوير 9rem عند التمرير
-- `.hover:rotate-6` - قم بتدوير 6rem عند التمرير
-- `.hover:rotate-3` - قم بتدوير 3rem عند التمرير
-- `.hover:rotate-0` - تدوير 0rem عند التمرير
-- `.rotate-180` - تدوير 180ريم
-- `.rotate-135` - تدوير 135ريم
-- `.rotate-90` - تدوير 90ريم
-- `.rotate-45` - تدوير 45ريم
-- `.rotate-12` - تدوير 12ريم
-- `.rotate-9` - تدوير 9ريم
-- `.rotate-6` - تدوير 6ريم
-- `.rotate-3` - تدوير 3ريم
-- `.rotate-0` - تدوير 0ريم
+- `.hover:rotate-180` - تدوير 180deg عند التحويم
+- `.hover:rotate-135` - قم بتدوير 135deg عند التحويم
+- `.hover:rotate-90` - تدوير 90deg عند التحويم
+- `.hover:rotate-45` - تدوير 45deg عند التحويم
+- `.hover:rotate-12` - قم بتدوير 12deg عند التحويم
+- `.hover:rotate-9` - قم بتدوير 9deg عند التمرير
+- `.hover:rotate-6` - قم بتدوير 6deg عند التمرير
+- `.hover:rotate-3` - قم بتدوير 3deg عند التمرير
+- `.hover:rotate-0` - تدوير 0deg عند التمرير
+- `.rotate-180` - تدوير 180deg
+- `.rotate-135` - تدوير 135deg
+- `.rotate-90` - تدوير 90deg
+- `.rotate-45` - تدوير 45deg
+- `.rotate-12` - تدوير 12deg
+- `.rotate-9` - تدوير 9deg
+- `.rotate-6` - تدوير 6deg
+- `.rotate-3` - تدوير 3deg
+- `.rotate-0` - تدوير 0deg
 
 ##### Negative Rotate
 
-- `.-rotate-180` - تدوير سلبي 180ريم
-- `.-rotate-135` - تدوير سلبي 135rem
-- `.-rotate-90` - تدوير سلبي 90rem
-- `.-rotate-45` - تدوير سلبي 45rem
-- `.-rotate-12` - تدوير سلبي 12rem
-- `.-rotate-9` - تدوير سلبي 9rem
-- `.-rotate-6` - تدوير سلبي 6rem
-- `.-rotate-3` - تدوير سلبي 3rem
-- `.hover:-rotate-180` - تدوير سلبي 180ريم عند التحويم
-- `.hover:-rotate-135` - تدوير سلبي 135rem عند التحويم
-- `.hover:-rotate-90` - تدوير سلبي 90rem عند التحويم
-- `.hover:-rotate-45` - تدوير سلبي 45rem عند التحويم
-- `.hover:-rotate-12` - تدوير سلبي 12rem عند التمرير
-- `.hover:-rotate-9` - تدوير سلبي 9rem عند التمرير
-- `.hover:-rotate-6` - تدوير سلبي 6rem عند التمرير
-- `.hover:-rotate-3` - تدوير سلبي 3rem عند التمرير
+- `.-rotate-180` - تدوير سلبي 180deg
+- `.-rotate-135` - تدوير سلبي 135deg
+- `.-rotate-90` - تدوير سلبي 90deg
+- `.-rotate-45` - تدوير سلبي 45deg
+- `.-rotate-12` - تدوير سلبي 12deg
+- `.-rotate-9` - تدوير سلبي 9deg
+- `.-rotate-6` - تدوير سلبي 6deg
+- `.-rotate-3` - تدوير سلبي 3deg
+- `.hover:-rotate-180` - تدوير سلبي 180deg عند التحويم
+- `.hover:-rotate-135` - تدوير سلبي 135deg عند التحويم
+- `.hover:-rotate-90` - تدوير سلبي 90deg عند التحويم
+- `.hover:-rotate-45` - تدوير سلبي 45deg عند التحويم
+- `.hover:-rotate-12` - تدوير سلبي 12deg عند التمرير
+- `.hover:-rotate-9` - تدوير سلبي 9deg عند التمرير
+- `.hover:-rotate-6` - تدوير سلبي 6deg عند التمرير
+- `.hover:-rotate-3` - تدوير سلبي 3deg عند التمرير
 
 ### Skew
 
 #### Skew X-Axis
 
-- `.hover:skew-x-12` - انحراف المحور X 12rem عند التحويم
-- `.hover:skew-x-6` - انحراف المحور السيني 6rem عند التحويم
-- `.hover:skew-x-3` - انحراف المحور السيني 3rem عند التحويم
-- `.hover:skew-x-0` - انحراف المحور السيني 0rem عند التمرير
-- `.skew-x-12` - انحراف المحور X 12rem
-- `.skew-x-6` - انحراف المحور السيني 6rem
-- `.skew-x-3` - انحراف المحور السيني 3rem
-- `.skew-x-0` - انحراف المحور السيني 0rem
+- `.hover:skew-x-12` - انحراف المحور X 12deg عند التحويم
+- `.hover:skew-x-6` - انحراف المحور السيني 6deg عند التحويم
+- `.hover:skew-x-3` - انحراف المحور السيني 3deg عند التحويم
+- `.hover:skew-x-0` - انحراف المحور السيني 0deg عند التمرير
+- `.skew-x-12` - انحراف المحور X 12deg
+- `.skew-x-6` - انحراف المحور السيني 6deg
+- `.skew-x-3` - انحراف المحور السيني 3deg
+- `.skew-x-0` - انحراف المحور السيني 0deg
 
 ##### Negative Skew X-Axis
 
-- `.-skew-x-12` - الانحراف السلبي للمحور السيني 12rem
-- `.-skew-x-6` - الانحراف السلبي للمحور السيني 6rem
-- `.-skew-x-3` - الانحراف السلبي للمحور السيني 3rem
-- `.hover:-skew-x-12` - الانحراف السلبي للمحور X 12rem عند التمرير
-- `.hover:-skew-x-6` - الانحراف السلبي للمحور السيني 6rem عند التمرير
-- `.hover:-skew-x-3` - الانحراف السلبي للمحور السيني 3rem عند التمرير
+- `.-skew-x-12` - الانحراف السلبي للمحور السيني 12deg
+- `.-skew-x-6` - الانحراف السلبي للمحور السيني 6deg
+- `.-skew-x-3` - الانحراف السلبي للمحور السيني 3deg
+- `.hover:-skew-x-12` - الانحراف السلبي للمحور X 12deg عند التمرير
+- `.hover:-skew-x-6` - الانحراف السلبي للمحور السيني 6deg عند التمرير
+- `.hover:-skew-x-3` - الانحراف السلبي للمحور السيني 3deg عند التمرير
 
 #### Skew Y-Axis
 
-- `.hover:skew-y-12` - انحراف المحور Y 12rem عند التحويم
-- `.hover:skew-y-6` - انحراف المحور Y 6rem عند التحويم
-- `.hover:skew-y-3` - انحراف المحور Y 3rem عند التمرير
-- `.hover:skew-y-0` - انحراف المحور Y 0rem عند التحويم
-- `.skew-y-12` - انحراف المحور Y 12rem
-- `.skew-y-6` - Skew Y-Axis 6rem
-- `.skew-y-3` - انحراف المحور Y 3rem
-- `.skew-y-0` - Skew Y-Axis 0rem
+- `.hover:skew-y-12` - انحراف المحور Y 12deg عند التحويم
+- `.hover:skew-y-6` - انحراف المحور Y 6deg عند التحويم
+- `.hover:skew-y-3` - انحراف المحور Y 3deg عند التمرير
+- `.hover:skew-y-0` - انحراف المحور Y 0deg عند التحويم
+- `.skew-y-12` - انحراف المحور Y 12deg
+- `.skew-y-6` - Skew Y-Axis 6deg
+- `.skew-y-3` - انحراف المحور Y 3deg
+- `.skew-y-0` - Skew Y-Axis 0deg
 
 ##### Negative Skew Y-Axis
 
-- `.-skew-y-12` - الانحراف السلبي للمحور Y 12rem
-- `.-skew-y-6` - الانحراف السلبي للمحور Y 6rem
-- `.-skew-y-3` - الانحراف السلبي للمحور Y 3rem
-- `.hover:-skew-y-12` - الانحراف السلبي للمحور Y 12rem عند التمرير
-- `.hover:-skew-y-6` - الانحراف السلبي للمحور Y 6rem عند التمرير
-- `.hover:-skew-y-3` - الانحراف السلبي للمحور Y 3rem عند التمرير
+- `.-skew-y-12` - الانحراف السلبي للمحور Y 12deg
+- `.-skew-y-6` - الانحراف السلبي للمحور Y 6deg
+- `.-skew-y-3` - الانحراف السلبي للمحور Y 3deg
+- `.hover:-skew-y-12` - الانحراف السلبي للمحور Y 12deg عند التمرير
+- `.hover:-skew-y-6` - الانحراف السلبي للمحور Y 6deg عند التمرير
+- `.hover:-skew-y-3` - الانحراف السلبي للمحور Y 3deg عند التمرير
 
 ### Translate
 
-- `.hover:translate-50` - ترجمة 50rem عند التحويم
-- `.hover:translate-25` - ترجمة 25rem عند التحويم
-- `.translate-50` - ترجمة 50ريم
-- `.translate-25` - ترجمة 25ريم
+- `.hover:translate-50` - ترجمة 50% عند التحويم
+- `.hover:translate-25` - ترجمة 25% عند التحويم
+- `.translate-50` - ترجمة 50%
+- `.translate-25` - ترجمة 25%
 
 ##### Negative Translate
 
-- `.-translate-50` - ترجمة سلبية 50ريم
-- `.-translate-25` - ترجمة سلبية 25rem
-- `.hover:-translate-50` - ترجمة سلبية 50rem عند التحويم
-- `.hover:-translate-25` - ترجمة سلبية 25rem عند التحويم
+- `.-translate-50` - ترجمة سلبية 50%
+- `.-translate-25` - ترجمة سلبية 25%
+- `.hover:-translate-50` - ترجمة سلبية 50% عند التحويم
+- `.hover:-translate-25` - ترجمة سلبية 25% عند التحويم
 
 #### Translate X-Axis
 
-- `.hover:translate-x-50` - ترجمة المحور X 50rem عند التمرير
-- `.hover:translate-x-25` - ترجمة المحور X 25rem عند التحويم
+- `.hover:translate-x-50` - ترجمة المحور X 50% عند التمرير
+- `.hover:translate-x-25` - ترجمة المحور X 25% عند التحويم
 - `.hover:translate-x-2` - ترجمة المحور X 2rem عند التمرير
 - `.hover:translate-x-1.5` - ترجمة المحور السيني 0rem عند التمرير
 - `.hover:translate-x-1` - ترجمة المحور X 1rem عند التمرير
 - `.hover:translate-x-0.5` - ترجمة المحور X 0.5rem عند التمرير
 - `.hover:translate-x-0` - ترجمة المحور السيني 0rem عند التمرير
-- `.translate-x-50` - ترجمة المحور السيني 50rem
-- `.translate-x-25` - ترجمة المحور السيني 25rem
+- `.translate-x-50` - ترجمة المحور السيني 50%
+- `.translate-x-25` - ترجمة المحور السيني 25%
 - `.translate-x-2` - ترجمة المحور X 2rem
 - `.translate-x-1.5` - ترجمة المحور السيني 0rem
 - `.translate-x-1` - ترجمة المحور السيني 1rem
@@ -5221,14 +5220,14 @@
 
 ##### Negative Translate X-Axis
 
-- `.-translate-x-50` - ترجمة سلبية للمحور X 50rem
-- `.-translate-x-25` - ترجمة سلبية للمحور السيني 25rem
+- `.-translate-x-50` - ترجمة سلبية للمحور X 50%
+- `.-translate-x-25` - ترجمة سلبية للمحور السيني 25%
 - `.-translate-x-2` - ترجمة سلبية للمحور X 2rem
 - `.-translate-x-1.5` - ترجمة سلبية للمحور X 1.5rem
 - `.-translate-x-1` - ترجمة سلبية للمحور X 1rem
 - `.-translate-x-0.5` - ترجمة سلبية للمحور X 0.5rem
-- `.hover:-translate-x-50` - ترجمة سلبية للمحور X 50rem عند التمرير
-- `.hover:-translate-x-25` - ترجمة سلبية للمحور X 25rem عند التمرير
+- `.hover:-translate-x-50` - ترجمة سلبية للمحور X 50% عند التمرير
+- `.hover:-translate-x-25` - ترجمة سلبية للمحور X 25% عند التمرير
 - `.hover:-translate-x-2` - ترجمة سلبية للمحور X 2rem عند التمرير
 - `.hover:-translate-x-1.5` - ترجمة سلبية للمحور X 1.5rem عند التمرير
 - `.hover:-translate-x-1` - ترجمة سلبية للمحور X 1rem عند التمرير
@@ -5236,15 +5235,15 @@
 
 #### Translate Y-Axis
 
-- `.hover:translate-y-50` - ترجمة المحور Y 50rem عند التمرير
-- `.hover:translate-y-25` - ترجمة المحور Y 25rem عند التمرير
+- `.hover:translate-y-50` - ترجمة المحور Y 50% عند التمرير
+- `.hover:translate-y-25` - ترجمة المحور Y 25% عند التمرير
 - `.hover:translate-y-2` - ترجمة المحور Y 2rem عند التمرير
 - `.hover:translate-y-1.5` - ترجمة المحور Y 0rem عند التمرير
 - `.hover:translate-y-1` - ترجمة المحور Y 1rem عند التمرير
 - `.hover:translate-y-0.5` - ترجمة المحور Y 0.5rem عند التمرير
 - `.hover:translate-y-0` - ترجمة المحور Y 0rem عند التمرير
-- `.translate-y-50` - ترجمة المحور Y 50rem
-- `.translate-y-25` - ترجمة المحور Y 25rem
+- `.translate-y-50` - ترجمة المحور Y 50%
+- `.translate-y-25` - ترجمة المحور Y 25%
 - `.translate-y-2` - ترجمة المحور Y 2rem
 - `.translate-y-1.5` - ترجمة المحور Y 0rem
 - `.translate-y-1` - ترجمة المحور Y 1rem
@@ -5253,14 +5252,14 @@
 
 ##### Negative Translate Y-Axis
 
-- `.-translate-y-50` - ترجمة سلبية للمحور Y 50rem
-- `.-translate-y-25` - ترجمة سلبية للمحور Y 25rem
+- `.-translate-y-50` - ترجمة سلبية للمحور Y 50%
+- `.-translate-y-25` - ترجمة سلبية للمحور Y 25%
 - `.-translate-y-2` - ترجمة سلبية للمحور Y 2rem
 - `.-translate-y-1.5` - ترجمة سلبية للمحور Y 1.5rem
 - `.-translate-y-1` - ترجمة سلبية للمحور Y 1rem
 - `.-translate-y-0.5` - ترجمة سلبية للمحور Y 0.5rem
-- `.hover:-translate-y-50` - ترجمة سلبية للمحور Y 50rem عند التمرير
-- `.hover:-translate-y-25` - ترجمة سلبية للمحور Y 25rem عند التمرير
+- `.hover:-translate-y-50` - ترجمة سلبية للمحور Y 50% عند التمرير
+- `.hover:-translate-y-25` - ترجمة سلبية للمحور Y 25% عند التمرير
 - `.hover:-translate-y-2` - ترجمة سلبية للمحور Y 2rem عند التمرير
 - `.hover:-translate-y-1.5` - ترجمة سلبية للمحور Y 1.5rem عند التمرير
 - `.hover:-translate-y-1` - ترجمة سلبية للمحور Y 1rem عند التمرير
@@ -5269,10 +5268,10 @@
 ### Zoom
 
 - `.hover:zoom` - تكبير عند التمرير
-- `.hover:zoom-2` - تكبير 2rem عند التمرير
-- `.hover:zoom-1.5` - تكبير 1.5ريم عند التحويم
+- `.hover:zoom-2` - تكبير 2 عند التمرير
+- `.hover:zoom-1.5` - تكبير 1.5 عند التحويم
 - `.zoom` - تكبير
-- `.zoom-2` - تكبير 2ريم
+- `.zoom-2` - تكبير 2
 - `.zoom-1.5` - تكبير 1.5
 
 ## Colors
@@ -5354,19 +5353,19 @@
 
 ### Content
 
-- `.content-3` - المحتوى 3rem
-- `.content-3-bg` - المحتوى 3-bgrem
-- `.content-2` - المحتوى 2ريم
-- `.content-2-bg` - المحتوى 2-bgrem
-- `.content-2-text` - المحتوى 2-النص
-- `.content-1` - المحتوى 1ريم
-- `.content-1-bg` - المحتوى 1-bgrem
-- `.content-1-text` - المحتوى 1-النص
-- `.hover:content-3-bg` - المحتوى 3-bgrem عند التحويم
-- `.hover:content-2-bg` - المحتوى 2-bgrem عند التحويم
-- `.hover:content-2-text` - المحتوى 2-textrem عند التمرير
-- `.hover:content-1-bg` - المحتوى 1-bgrem عند التمرير
-- `.hover:content-1-text` - المحتوى 1-نص عند التمرير
+- `.content-3` - المحتوى 3
+- `.content-3-bg` - المحتوى 3-bg
+- `.content-2` - المحتوى 2
+- `.content-2-bg` - المحتوى 2-bg
+- `.content-2-text` - المحتوى 2-text
+- `.content-1` - المحتوى 1
+- `.content-1-bg` - المحتوى 1-bg
+- `.content-1-text` - المحتوى 1-text
+- `.hover:content-3-bg` - المحتوى 3-bg عند التحويم
+- `.hover:content-2-bg` - المحتوى 2-bg عند التحويم
+- `.hover:content-2-text` - المحتوى 2-text عند التمرير
+- `.hover:content-1-bg` - المحتوى 1-bg عند التمرير
+- `.hover:content-1-text` - المحتوى 1-text عند التمرير
 
 ### Dir
 
@@ -5386,12 +5385,6 @@
 - `.mse-0.5` - مس 0.5ريم
 - `.mse-0` - السيدة 0ريم
 
-### Other
-
-##### Other - undefined
-
-- `.hover:px-3.5` - أخرى عند التمرير على px 3.5
-
 ### Visibility
 
 - `.hover:v-hide` - الرؤية مخفية عند التمرير
@@ -5399,7 +5392,7 @@
 - `.v-hide` - الرؤية مخفية
 - `.v-show` - الرؤية مرئية
 
-##### Visibility - Mobile (< 480px)
+##### Visibility - Mobile (≤ 480px)
 
 - `.hover:mobile:v-hide` - الرؤية مخفية عند التمرير على الهاتف المحمول
 - `.hover:mobile:v-show` - إمكانية الرؤية عند التمرير على الهاتف المحمول
@@ -5427,28 +5420,28 @@
 - `.pc:v-hide` - الرؤية مخفية على جهاز الكمبيوتر
 - `.pc:v-show` - إمكانية الرؤية على جهاز الكمبيوتر
 
-##### Visibility - Tv (> 1200px)
+##### Visibility - Tv (≥ 1200px)
 
 - `.hover:tv:v-hide` - الرؤية مخفية عند التمرير على شاشة التلفزيون
 - `.hover:tv:v-show` - الرؤية مرئية عند التمرير على شاشة التلفزيون
 - `.tv:v-hide` - الرؤية مخفية على شاشة التلفزيون
 - `.tv:v-show` - الرؤية مرئية على شاشة التلفزيون
 
-##### Visibility - Tablet Max (< 768px)
+##### Visibility - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:v-hide` - الرؤية مخفية عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:v-show` - الرؤية مرئية عند التمرير على الجهاز اللوحي بحد أقصى
 - `.tablet-max:v-hide` - الرؤية مخفية على الجهاز اللوحي بحد أقصى
 - `.tablet-max:v-show` - الرؤية مرئية على الكمبيوتر اللوحي بحد أقصى
 
-##### Visibility - Tablet Pc Max (< 992px)
+##### Visibility - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:v-hide` - الرؤية مخفية عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:v-show` - الرؤية مرئية عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:v-hide` - الرؤية مخفية على الكمبيوتر اللوحي كحد أقصى
 - `.tablet-pc-max:v-show` - الرؤية مرئية على الكمبيوتر اللوحي كحد أقصى
 
-##### Visibility - Pc Max (< 1200px)
+##### Visibility - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:v-hide` - الرؤية مخفية عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:v-show` - الرؤية مرئية عند التمرير على جهاز الكمبيوتر كحد أقصى

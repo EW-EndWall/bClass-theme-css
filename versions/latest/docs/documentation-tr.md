@@ -114,7 +114,6 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - [Content](#content)
 - [Dir](#dir)
 - [Mse](#mse)
-- [Other](#other)
 - [Visibility](#visibility)
 - [Customization](#customization)
 - [License](#license)
@@ -157,7 +156,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:d-inline-flex` - Fareyle üzerine gelindiğinde satır içi esnekliği görüntüle
 - `.hover:d-none` - Fareyle üzerine gelindiğinde hiçbirini gösterme
 
-##### Display - Mobile (< 480px)
+##### Display - Mobile (≤ 480px)
 
 - `.hover:mobile:d-block` - Mobil cihazda fareyle üzerine gelindiğinde bloğu görüntüleme
 - `.hover:mobile:d-flex` - Mobil cihazda fareyle üzerine gelindiğinde esnekliği görüntüleyin
@@ -225,7 +224,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:d-inline-grid` - PC'de satır içi ızgarayı görüntüle
 - `.pc:d-none` - PC'de hiçbirini gösterme
 
-##### Display - Tv (> 1200px)
+##### Display - Tv (≥ 1200px)
 
 - `.hover:tv:d-block` - TV'de fareyle üzerine gelindiğinde görüntüleme bloğu
 - `.hover:tv:d-flex` - TV'de fareyle üzerine gelindiğinde esnekliği görüntüleyin
@@ -242,7 +241,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:d-inline-grid` - Satır içi ızgarayı TV'de görüntüle
 - `.tv:d-none` - Hiçbirini televizyonda gösterme
 
-##### Display - Tablet Max (< 768px)
+##### Display - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:d-block` - Tablet max üzerinde fareyle üzerine gelindiğinde görüntüleme bloğu
 - `.hover:tablet-max:d-flex` - Maksimum tablette fareyle üzerine gelindiğinde esnekliği görüntüleyin
@@ -259,7 +258,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:d-inline-grid` - Tablet max'te satır içi ızgarayı görüntüle
 - `.tablet-max:d-none` - Tablet max'ta hiçbirini gösterme
 
-##### Display - Tablet Pc Max (< 992px)
+##### Display - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:d-block` - Tablet pc max'ta fareyle üzerine gelindiğinde görüntüleme bloğu
 - `.hover:tablet-pc-max:d-flex` - Tablet PC max'ta fareyle üzerine gelindiğinde ekran esnekliği
@@ -276,7 +275,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:d-inline-grid` - Tablet PC'de satır içi ızgarayı görüntüleme max
 - `.tablet-pc-max:d-none` - Tablet PC max'ta hiçbiri görüntülenmiyor
 
-##### Display - Pc Max (< 1200px)
+##### Display - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:d-block` - PC max'ta fareyle üzerine gelindiğinde görüntüleme bloğu
 - `.hover:pc-max:d-flex` - PC max'ta fareyle üzerine gelindiğinde ekran esnekliği
@@ -306,7 +305,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:float-right` - Fareyle üzerine gelindiğinde sağa doğru süzülün
 - `.hover:float-start` - Fareyle üzerine gelindiğinde kayan başlangıç
 
-##### Float - Mobile (< 480px)
+##### Float - Mobile (≤ 480px)
 
 - `.hover:mobile:float-end` - Mobil cihazda fareyle üzerine gelindiğinde kayan nokta
 - `.hover:mobile:float-left` - Mobil cihazda fareyle üzerine gelindiğinde sola doğru kayan
@@ -358,7 +357,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:float-right` - PC'de sağa doğru süzülün
 - `.pc:float-start` - PC'de kayan başlangıç
 
-##### Float - Tv (> 1200px)
+##### Float - Tv (≥ 1200px)
 
 - `.hover:tv:float-end` - Televizyonun üzerine gelindiğinde kayan nokta
 - `.hover:tv:float-left` - TV'de fareyle üzerine gelindiğinde sola doğru kayan
@@ -371,7 +370,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:float-right` - Televizyonda sağa doğru süzülün
 - `.tv:float-start` - Televizyonda kayan başlangıç
 
-##### Float - Tablet Max (< 768px)
+##### Float - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:float-end` - Maksimum tabletin üzerinde fareyle üzerine gelindiğinde kayan uç
 - `.hover:tablet-max:float-left` - Tablet max üzerinde fareyle üzerine gelindiğinde sola doğru kayan
@@ -384,7 +383,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:float-right` - Maksimum tablette sağa doğru süzülün
 - `.tablet-max:float-start` - Maksimum tablette kayan başlangıç
 
-##### Float - Tablet Pc Max (< 992px)
+##### Float - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:float-end` - Tablet PC max üzerinde fareyle üzerine gelindiğinde kayan uç
 - `.hover:tablet-pc-max:float-left` - Tablet PC max'ta fareyle üzerine gelindiğinde sola doğru kayan
@@ -397,7 +396,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:float-right` - Tablet PC max'ta sağa doğru süzülün
 - `.tablet-pc-max:float-start` - Tablet PC Max'te kayan başlangıç
 
-##### Float - Pc Max (< 1200px)
+##### Float - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:float-end` - PC max'ta fareyle üzerine gelindiğinde kayan nokta
 - `.hover:pc-max:float-left` - PC max'ta fareyle üzerine gelindiğinde sola doğru süzülün
@@ -423,7 +422,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.object-none` - nesne yok
 - `.object-scale` - Nesne ölçeği
 
-##### Object - Mobile (< 480px)
+##### Object - Mobile (≤ 480px)
 
 - `.hover:mobile:object-contain` - Mobil cihazda fareyle üzerine gelindiğinde nesne içeriyor
 - `.hover:mobile:object-cover` - Mobil cihazda fareyle üzerine gelindiğinde nesne kapağı
@@ -475,7 +474,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:object-none` - PC'de nesne yok
 - `.pc:object-scale` - PC'de nesne ölçeği
 
-##### Object - Tv (> 1200px)
+##### Object - Tv (≥ 1200px)
 
 - `.hover:tv:object-contain` - Televizyonun üzerine gelindiğinde nesne içeriyor
 - `.hover:tv:object-cover` - Televizyonda fareyle üzerine gelindiğinde nesne kapağı
@@ -488,7 +487,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:object-none` - Televizyonda nesne yok
 - `.tv:object-scale` - Televizyonda nesne ölçeği
 
-##### Object - Tablet Max (< 768px)
+##### Object - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:object-contain` - Tablet max üzerinde fareyle üzerine gelindiğinde nesne içeriyor
 - `.hover:tablet-max:object-cover` - Tablet max üzerinde fareyle üzerine gelindiğinde nesne kapağı
@@ -501,7 +500,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:object-none` - Tablet max'ta hiçbirine itiraz etme
 - `.tablet-max:object-scale` - Tablet max'ta nesne ölçeği
 
-##### Object - Tablet Pc Max (< 992px)
+##### Object - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:object-contain` - Tablet PC max üzerinde fareyle üzerine gelindiğinde nesne içeriyor
 - `.hover:tablet-pc-max:object-cover` - Tablet PC max üzerinde fareyle üzerine gelindiğinde nesne kapağı
@@ -514,7 +513,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:object-none` - Tablet pc max'ta nesne yok
 - `.tablet-pc-max:object-scale` - Tablet PC Max'te nesne ölçeği
 
-##### Object - Pc Max (< 1200px)
+##### Object - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:object-contain` - Nesne, pc max'ta fareyle üzerine gelindiğinde içeriyor
 - `.hover:pc-max:object-cover` - PC max'ta fareyle üzerine gelindiğinde nesne kapağı
@@ -575,7 +574,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:flex-row` - Fareyle üzerine gelindiğinde satırı esnekleştirin
 - `.hover:flex-wrap` - Fareyle üzerine gelindiğinde esnek sarma
 
-##### Flex - Mobile (< 480px)
+##### Flex - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col` - Mobil cihazda fareyle üzerine gelindiğinde Flex Col
 - `.hover:mobile:flex-nowrap` - Mobil cihazda fareyle üzerine gelindiğinde Nowrap'i esnekleştirin
@@ -619,7 +618,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:flex-row` - PC'de esnek satır
 - `.pc:flex-wrap` - PC'de Flex Wrap
 
-##### Flex - Tv (> 1200px)
+##### Flex - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col` - Televizyonun üzerine gelindiğinde Flex Col
 - `.hover:tv:flex-nowrap` - Televizyonun üzerine gelindiğinde Nowrap'i esnekleştirin
@@ -630,7 +629,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:flex-row` - Televizyonda esnek satır
 - `.tv:flex-wrap` - Televizyonda Flex Wrap
 
-##### Flex - Tablet Max (< 768px)
+##### Flex - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col` - Maksimum tabletin üzerinde fareyle üzerine gelindiğinde Flex Col
 - `.hover:tablet-max:flex-nowrap` - Maksimum tabletin üzerine gelindiğinde Nowrap'i esnekleştirin
@@ -641,7 +640,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:flex-row` - Maksimum tablette esnek satır
 - `.tablet-max:flex-wrap` - Maksimum tablette esnek sarma
 
-##### Flex - Tablet Pc Max (< 992px)
+##### Flex - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col` - Tablet PC max üzerinde fareyle üzerine gelindiğinde Flex Col
 - `.hover:tablet-pc-max:flex-nowrap` - Tablet PC max üzerinde fareyle üzerine gelindiğinde Flex nowrap
@@ -652,7 +651,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:flex-row` - Tablet PC'de Flex satır max
 - `.tablet-pc-max:flex-wrap` - Tablet PC'de Flex Wrap Max
 
-##### Flex - Pc Max (< 1200px)
+##### Flex - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col` - PC max üzerinde fareyle üzerine gelindiğinde Flex Col
 - `.hover:pc-max:flex-nowrap` - PC max'ta fareyle üzerine gelindiğinde esnek nowrap
@@ -668,7 +667,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.flex-col-reverse` - Esnek sütun ters
 - `.hover:flex-col-reverse` - Fareyle üzerine gelindiğinde sütunu ters çevirin
 
-##### Flex col - Mobile (< 480px)
+##### Flex col - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col-reverse` - Mobil cihazda fareyle üzerine gelindiğinde Flex Col ters çevirin
 - `.mobile:flex-col-reverse` - Mobil cihazda Flex Col ters
@@ -688,22 +687,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pc:flex-col-reverse` - PC'de fareyle üzerine gelindiğinde Flex Col ters
 - `.pc:flex-col-reverse` - PC'de Flex Col ters
 
-##### Flex col - Tv (> 1200px)
+##### Flex col - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col-reverse` - Televizyonda fareyle üzerine gelindiğinde Flex Col ters
 - `.tv:flex-col-reverse` - Televizyonda Flex col ters
 
-##### Flex col - Tablet Max (< 768px)
+##### Flex col - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - Tablet max üzerinde fareyle üzerine gelindiğinde Flex Col ters
 - `.tablet-max:flex-col-reverse` - Tablet max'ta Flex col ters
 
-##### Flex col - Tablet Pc Max (< 992px)
+##### Flex col - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - Tablet PC max'ta fareyle üzerine gelindiğinde Flex col ters çevirin
 - `.tablet-pc-max:flex-col-reverse` - Tablet pc max'ta Flex col ters
 
-##### Flex col - Pc Max (< 1200px)
+##### Flex col - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - PC max üzerinde fareyle üzerine gelindiğinde Flex Col ters
 - `.pc-max:flex-col-reverse` - PC max'ta Flex col ters
@@ -713,7 +712,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.flex-row-reverse` - Esnek sıra ters
 - `.hover:flex-row-reverse` - Fareyle üzerine gelindiğinde satırı ters yönde esnetin
 
-##### Flex row - Mobile (< 480px)
+##### Flex row - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-row-reverse` - Mobil cihazda fareyle üzerine gelindiğinde satırı ters yönde esnetin
 - `.mobile:flex-row-reverse` - Mobil cihazda sırayı tersine çevirme
@@ -733,131 +732,131 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pc:flex-row-reverse` - PC'de fareyle üzerine gelindiğinde sırayı tersine çevir
 - `.pc:flex-row-reverse` - PC'de esnek sıra ters
 
-##### Flex row - Tv (> 1200px)
+##### Flex row - Tv (≥ 1200px)
 
 - `.hover:tv:flex-row-reverse` - TV'de fareyle üzerine gelindiğinde satırı ters çevir
 - `.tv:flex-row-reverse` - Televizyonda esnek satır ters
 
-##### Flex row - Tablet Max (< 768px)
+##### Flex row - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - Maksimum tablette fareyle üzerine gelindiğinde satırı ters yönde esnetin
 - `.tablet-max:flex-row-reverse` - Tablet max'ta esnek sıra ters
 
-##### Flex row - Tablet Pc Max (< 992px)
+##### Flex row - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - Tablet PC max'ta fareyle üzerine gelindiğinde esnek sıra ters
 - `.tablet-pc-max:flex-row-reverse` - Tablet pc max'ta esnek sıra ters
 
-##### Flex row - Pc Max (< 1200px)
+##### Flex row - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - PC max'ta fareyle üzerine gelindiğinde esnek sıra ters
 - `.pc-max:flex-row-reverse` - PC max'ta esnek sıra ters
 
 ### Flex grow
 
-- `.flex-grow-3` - Esnek büyümek 3rem
-- `.flex-grow-2` - Esnek büyümek 2rem
-- `.flex-grow-1` - Esnek büyümek 1rem
-- `.flex-grow-0` - Esnek büyümek 0rem
-- `.hover:flex-grow-3` - Flex fareyle üzerine gelindiğinde 3rem büyür
-- `.hover:flex-grow-2` - Flex fareyle üzerine gelindiğinde 2rem büyür
-- `.hover:flex-grow-1` - Flex fareyle üzerine gelindiğinde 1 rem büyür
-- `.hover:flex-grow-0` - Flex fareyle üzerine gelindiğinde 0rem büyür
+- `.flex-grow-3` - Esnek büyümek 3
+- `.flex-grow-2` - Esnek büyümek 2
+- `.flex-grow-1` - Esnek büyümek 1
+- `.flex-grow-0` - Esnek büyümek 0
+- `.hover:flex-grow-3` - Flex fareyle üzerine gelindiğinde 3 büyür
+- `.hover:flex-grow-2` - Flex fareyle üzerine gelindiğinde 2 büyür
+- `.hover:flex-grow-1` - Flex fareyle üzerine gelindiğinde 1 büyür
+- `.hover:flex-grow-0` - Flex fareyle üzerine gelindiğinde 0 büyür
 
-##### Flex grow - Mobile (< 480px)
+##### Flex grow - Mobile (≤ 480px)
 
-- `.hover:mobile:flex-grow-3` - Flex, mobil cihazda fareyle üzerine gelindiğinde 3rem büyütür
-- `.hover:mobile:flex-grow-2` - Flex, mobil cihazda fareyle üzerine gelindiğinde 2rem büyütür
-- `.hover:mobile:flex-grow-1` - Flex, mobil cihazda fareyle üzerine gelindiğinde 1 rem büyür
-- `.hover:mobile:flex-grow-0` - Flex, mobil cihazda fareyle üzerine gelindiğinde 0rem büyütür
-- `.mobile:flex-grow-3` - Flex mobil cihazda 3rem'i büyütüyor
-- `.mobile:flex-grow-2` - Flex mobil cihazda 2rem büyütün
-- `.mobile:flex-grow-1` - Flex mobilde 1 rem büyütün
-- `.mobile:flex-grow-0` - Flex mobil cihazda 0rem büyütün
+- `.hover:mobile:flex-grow-3` - Flex, mobil cihazda fareyle üzerine gelindiğinde 3 büyütür
+- `.hover:mobile:flex-grow-2` - Flex, mobil cihazda fareyle üzerine gelindiğinde 2 büyütür
+- `.hover:mobile:flex-grow-1` - Flex, mobil cihazda fareyle üzerine gelindiğinde 1 büyür
+- `.hover:mobile:flex-grow-0` - Flex, mobil cihazda fareyle üzerine gelindiğinde 0 büyütür
+- `.mobile:flex-grow-3` - Flex mobil cihazda 3 büyütüyor
+- `.mobile:flex-grow-2` - Flex mobil cihazda 2 büyütün
+- `.mobile:flex-grow-1` - Flex mobilde 1 büyütün
+- `.mobile:flex-grow-0` - Flex mobil cihazda 0 büyütün
 
 ##### Flex grow - Tablet (480px - 768px)
 
-- `.hover:tablet:flex-grow-3` - Flex, tabletin üzerine gelindiğinde 3rem büyütür
-- `.hover:tablet:flex-grow-2` - Flex, tabletin üzerine gelindiğinde 2rem büyütür
-- `.hover:tablet:flex-grow-1` - Flex, tabletin üzerine gelindiğinde 1 rem büyür
-- `.hover:tablet:flex-grow-0` - Flex, tabletin üzerine gelindiğinde 0rem büyütür
-- `.tablet:flex-grow-3` - Flex tablette 3rem'i büyütüyor
-- `.tablet:flex-grow-2` - Flex tablette 2rem büyütün
-- `.tablet:flex-grow-1` - Flex tablette 1rem büyütüyor
-- `.tablet:flex-grow-0` - Flex tablette 0rem büyütüyor
+- `.hover:tablet:flex-grow-3` - Flex, tabletin üzerine gelindiğinde 3 büyütür
+- `.hover:tablet:flex-grow-2` - Flex, tabletin üzerine gelindiğinde 2 büyütür
+- `.hover:tablet:flex-grow-1` - Flex, tabletin üzerine gelindiğinde 1 büyür
+- `.hover:tablet:flex-grow-0` - Flex, tabletin üzerine gelindiğinde 0 büyütür
+- `.tablet:flex-grow-3` - Flex tablette 3 büyütüyor
+- `.tablet:flex-grow-2` - Flex tablette 2 büyütün
+- `.tablet:flex-grow-1` - Flex tablette 1 büyütüyor
+- `.tablet:flex-grow-0` - Flex tablette 0 büyütüyor
 
 ##### Flex grow - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:flex-grow-3` - Flex, tablet bilgisayarda fareyle üzerine gelindiğinde 3rem'i büyütüyor
-- `.hover:tablet-pc:flex-grow-2` - Flex, tablet bilgisayarda fareyle üzerine gelindiğinde 2rem büyütüyor
-- `.hover:tablet-pc:flex-grow-1` - Flex, tablet bilgisayarda fareyle üzerine gelindiğinde 1 rem büyütür
-- `.hover:tablet-pc:flex-grow-0` - Flex, tablet bilgisayarda fareyle üzerine gelindiğinde 0rem büyütür
-- `.tablet-pc:flex-grow-3` - Tablet bilgisayarda Flex Grow 3rem
-- `.tablet-pc:flex-grow-2` - Tablet PC'de Flex Grow 2rem
-- `.tablet-pc:flex-grow-1` - Flex tablet bilgisayarda 1rem büyütüyor
-- `.tablet-pc:flex-grow-0` - Flex tablet bilgisayarda 0rem büyütün
+- `.hover:tablet-pc:flex-grow-3` - Flex, tablet bilgisayarda fareyle üzerine gelindiğinde 3 büyütüyor
+- `.hover:tablet-pc:flex-grow-2` - Flex, tablet bilgisayarda fareyle üzerine gelindiğinde 2 büyütüyor
+- `.hover:tablet-pc:flex-grow-1` - Flex, tablet bilgisayarda fareyle üzerine gelindiğinde 1 büyütür
+- `.hover:tablet-pc:flex-grow-0` - Flex, tablet bilgisayarda fareyle üzerine gelindiğinde 0 büyütür
+- `.tablet-pc:flex-grow-3` - Tablet bilgisayarda Flex Grow 3
+- `.tablet-pc:flex-grow-2` - Tablet PC'de Flex Grow 2
+- `.tablet-pc:flex-grow-1` - Flex tablet bilgisayarda 1 büyütüyor
+- `.tablet-pc:flex-grow-0` - Flex tablet bilgisayarda 0 büyütün
 
 ##### Flex grow - Pc (992px - 1200px)
 
-- `.hover:pc:flex-grow-3` - Flex, PC'de fareyle üzerine gelindiğinde 3rem'i büyütüyor
-- `.hover:pc:flex-grow-2` - Flex, PC'de fareyle üzerine gelindiğinde 2rem'i büyütüyor
-- `.hover:pc:flex-grow-1` - Flex, PC'de fareyle üzerine gelindiğinde 1rem büyütür
-- `.hover:pc:flex-grow-0` - Flex, PC'de fareyle üzerine gelindiğinde 0rem'i büyütüyor
-- `.pc:flex-grow-3` - Flex PC'de 3rem'i büyütüyor
-- `.pc:flex-grow-2` - Flex PC'de 2rem'i büyütüyor
-- `.pc:flex-grow-1` - Flex PC'de 1rem büyütüyor
-- `.pc:flex-grow-0` - Flex PC'de 0rem büyütün
+- `.hover:pc:flex-grow-3` - Flex, PC'de fareyle üzerine gelindiğinde 3 büyütüyor
+- `.hover:pc:flex-grow-2` - Flex, PC'de fareyle üzerine gelindiğinde 2 büyütüyor
+- `.hover:pc:flex-grow-1` - Flex, PC'de fareyle üzerine gelindiğinde 1 büyütür
+- `.hover:pc:flex-grow-0` - Flex, PC'de fareyle üzerine gelindiğinde 0 büyütüyor
+- `.pc:flex-grow-3` - Flex PC'de 3 büyütüyor
+- `.pc:flex-grow-2` - Flex PC'de 2 büyütüyor
+- `.pc:flex-grow-1` - Flex PC'de 1 büyütüyor
+- `.pc:flex-grow-0` - Flex PC'de 0 büyütün
 
-##### Flex grow - Tv (> 1200px)
+##### Flex grow - Tv (≥ 1200px)
 
-- `.hover:tv:flex-grow-3` - Flex, televizyonda fareyle üzerine gelindiğinde 3rem'i büyütüyor
-- `.hover:tv:flex-grow-2` - Flex, televizyonda fareyle üzerine gelindiğinde 2rem'i büyütüyor
-- `.hover:tv:flex-grow-1` - Flex televizyonda fareyle üzerine gelindiğinde 1rem büyütüyor
-- `.hover:tv:flex-grow-0` - Flex, televizyonda fareyle üzerine gelindiğinde 0rem'i büyütüyor
-- `.tv:flex-grow-3` - Flex TV'de 3rem'i büyütüyor
-- `.tv:flex-grow-2` - Flex televizyonda 2rem büyütün
-- `.tv:flex-grow-1` - Flex televizyonda 1rem büyütüyor
-- `.tv:flex-grow-0` - Flex televizyonda 0rem büyütüyor
+- `.hover:tv:flex-grow-3` - Flex, televizyonda fareyle üzerine gelindiğinde 3 büyütüyor
+- `.hover:tv:flex-grow-2` - Flex, televizyonda fareyle üzerine gelindiğinde 2 büyütüyor
+- `.hover:tv:flex-grow-1` - Flex televizyonda fareyle üzerine gelindiğinde 1 büyütüyor
+- `.hover:tv:flex-grow-0` - Flex, televizyonda fareyle üzerine gelindiğinde 0 büyütüyor
+- `.tv:flex-grow-3` - Flex TV'de 3 büyütüyor
+- `.tv:flex-grow-2` - Flex televizyonda 2 büyütün
+- `.tv:flex-grow-1` - Flex televizyonda 1 büyütüyor
+- `.tv:flex-grow-0` - Flex televizyonda 0 büyütüyor
 
-##### Flex grow - Tablet Max (< 768px)
+##### Flex grow - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:flex-grow-3` - Flex, tablet max üzerinde fareyle üzerine gelindiğinde 3rem büyür
-- `.hover:tablet-max:flex-grow-2` - Flex, tablet max üzerinde fareyle üzerine gelindiğinde 2rem büyür
-- `.hover:tablet-max:flex-grow-1` - Flex, tablet max'ın üzerine gelindiğinde 1 rem büyür
-- `.hover:tablet-max:flex-grow-0` - Flex, tablet max'ın üzerine gelindiğinde 0rem büyür
-- `.tablet-max:flex-grow-3` - Flex tablet max'ta 3rem büyütün
-- `.tablet-max:flex-grow-2` - Flex tablet max'ta 2rem büyütün
-- `.tablet-max:flex-grow-1` - Flex tablette maksimum 1 rem büyütün
-- `.tablet-max:flex-grow-0` - Flex tablet max'ta 0rem büyütün
+- `.hover:tablet-max:flex-grow-3` - Flex, tablet max üzerinde fareyle üzerine gelindiğinde 3 büyür
+- `.hover:tablet-max:flex-grow-2` - Flex, tablet max üzerinde fareyle üzerine gelindiğinde 2 büyür
+- `.hover:tablet-max:flex-grow-1` - Flex, tablet max'ın üzerine gelindiğinde 1 büyür
+- `.hover:tablet-max:flex-grow-0` - Flex, tablet max'ın üzerine gelindiğinde 0 büyür
+- `.tablet-max:flex-grow-3` - Flex tablet max'ta 3 büyütün
+- `.tablet-max:flex-grow-2` - Flex tablet max'ta 2 büyütün
+- `.tablet-max:flex-grow-1` - Flex tablette maksimum 1 büyütün
+- `.tablet-max:flex-grow-0` - Flex tablet max'ta 0 büyütün
 
-##### Flex grow - Tablet Pc Max (< 992px)
+##### Flex grow - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:flex-grow-3` - Flex, tablet PC max üzerinde fareyle üzerine gelindiğinde 3rem büyütür
-- `.hover:tablet-pc-max:flex-grow-2` - Flex, tablet PC max üzerinde fareyle üzerine gelindiğinde 2rem büyütür
-- `.hover:tablet-pc-max:flex-grow-1` - Flex, tablet PC max'ta fareyle üzerine gelindiğinde 1 rem büyür
-- `.hover:tablet-pc-max:flex-grow-0` - Flex, tablet pc max'ta fareyle üzerine gelindiğinde 0rem büyütür
-- `.tablet-pc-max:flex-grow-3` - Flex tablet pc max'ta 3rem büyütün
-- `.tablet-pc-max:flex-grow-2` - Flex tablet pc max'ta 2rem büyütün
-- `.tablet-pc-max:flex-grow-1` - Flex tablet pc max'ta 1rem büyütün
-- `.tablet-pc-max:flex-grow-0` - Flex tablet pc max'ta 0rem büyütün
+- `.hover:tablet-pc-max:flex-grow-3` - Flex, tablet PC max üzerinde fareyle üzerine gelindiğinde 3 büyütür
+- `.hover:tablet-pc-max:flex-grow-2` - Flex, tablet PC max üzerinde fareyle üzerine gelindiğinde 2 büyütür
+- `.hover:tablet-pc-max:flex-grow-1` - Flex, tablet PC max'ta fareyle üzerine gelindiğinde 1 büyür
+- `.hover:tablet-pc-max:flex-grow-0` - Flex, tablet pc max'ta fareyle üzerine gelindiğinde 0 büyütür
+- `.tablet-pc-max:flex-grow-3` - Flex tablet pc max'ta 3 büyütün
+- `.tablet-pc-max:flex-grow-2` - Flex tablet pc max'ta 2 büyütün
+- `.tablet-pc-max:flex-grow-1` - Flex tablet pc max'ta 1 büyütün
+- `.tablet-pc-max:flex-grow-0` - Flex tablet pc max'ta 0 büyütün
 
-##### Flex grow - Pc Max (< 1200px)
+##### Flex grow - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:flex-grow-3` - Flex, PC max'ta fareyle üzerine gelindiğinde 3rem büyütür
-- `.hover:pc-max:flex-grow-2` - Flex, PC max'ta fareyle üzerine gelindiğinde 2rem büyütür
-- `.hover:pc-max:flex-grow-1` - Flex, PC max üzerinde fareyle üzerine gelindiğinde 1 rem büyür
-- `.hover:pc-max:flex-grow-0` - Flex, PC max üzerinde fareyle üzerine gelindiğinde 0rem büyütür
-- `.pc-max:flex-grow-3` - Flex PC max'ta 3rem büyütün
-- `.pc-max:flex-grow-2` - Flex PC'de maksimum 2rem büyütün
-- `.pc-max:flex-grow-1` - Flex PC'de maksimum 1rem büyütün
-- `.pc-max:flex-grow-0` - Flex PC'de maksimum 0rem büyütün
+- `.hover:pc-max:flex-grow-3` - Flex, PC max'ta fareyle üzerine gelindiğinde 3 büyütür
+- `.hover:pc-max:flex-grow-2` - Flex, PC max'ta fareyle üzerine gelindiğinde 2 büyütür
+- `.hover:pc-max:flex-grow-1` - Flex, PC max üzerinde fareyle üzerine gelindiğinde 1 büyür
+- `.hover:pc-max:flex-grow-0` - Flex, PC max üzerinde fareyle üzerine gelindiğinde 0 büyütür
+- `.pc-max:flex-grow-3` - Flex PC max'ta 3 büyütün
+- `.pc-max:flex-grow-2` - Flex PC'de maksimum 2 büyütün
+- `.pc-max:flex-grow-1` - Flex PC'de maksimum 1 büyütün
+- `.pc-max:flex-grow-0` - Flex PC'de maksimum 0 büyütün
 
 ### Flex wrap
 
 - `.flex-wrap-reverse` - Flex sarma ters
 - `.hover:flex-wrap-reverse` - Fareyle üzerine gelindiğinde ters yönde esnek sarma
 
-##### Flex wrap - Mobile (< 480px)
+##### Flex wrap - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - Mobil cihazda fareyle üzerine gelindiğinde esnek sarma ters
 - `.mobile:flex-wrap-reverse` - Mobil cihazda esnek sarma ters
@@ -877,22 +876,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pc:flex-wrap-reverse` - PC'de fareyle üzerine gelindiğinde esnek sarma ters
 - `.pc:flex-wrap-reverse` - PC'de esnek sarma ters
 
-##### Flex wrap - Tv (> 1200px)
+##### Flex wrap - Tv (≥ 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - Televizyonda fareyle üzerine gelindiğinde ters sarma
 - `.tv:flex-wrap-reverse` - Televizyonda ters sarma
 
-##### Flex wrap - Tablet Max (< 768px)
+##### Flex wrap - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - Tablet max'te fareyle üzerine gelindiğinde ters yönde esnek sarma
 - `.tablet-max:flex-wrap-reverse` - Tablet max'ta ters yönde esnek sarma
 
-##### Flex wrap - Tablet Pc Max (< 992px)
+##### Flex wrap - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - Tablet PC max'ta fareyle üzerine gelindiğinde ters sarma
 - `.tablet-pc-max:flex-wrap-reverse` - Tablet PC Max'te Flex Wrap ters
 
-##### Flex wrap - Pc Max (< 1200px)
+##### Flex wrap - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - PC max'ta fareyle üzerine gelindiğinde ters yönde esnek sarma
 - `.pc-max:flex-wrap-reverse` - PC max'ta esnek sarma ters
@@ -1087,7 +1086,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:align-content-start` - İçerik başlangıcını fareyle üzerine gelindiğinde hizalayın
 - `.hover:align-content-stretch` - Fareyle üzerine gelindiğinde içerik uzantısını hizalayın
 
-##### Align content - Mobile (< 480px)
+##### Align content - Mobile (≤ 480px)
 
 - `.hover:mobile:align-content-around` - Mobil cihazda fareyle üzerine gelindiğinde içeriği hizalayın
 - `.hover:mobile:align-content-between` - Mobil cihazda fareyle üzerine gelindiğinde içeriği hizalayın
@@ -1155,7 +1154,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:align-content-start` - PC'de içerik başlangıcını hizalayın
 - `.pc:align-content-stretch` - PC'de içerik genişletmeyi hizalama
 
-##### Align content - Tv (> 1200px)
+##### Align content - Tv (≥ 1200px)
 
 - `.hover:tv:align-content-around` - Televizyonun üzerine gelindiğinde içeriği hizalayın
 - `.hover:tv:align-content-between` - İçeriği TV'de fareyle üzerine gelindiğinde hizalama
@@ -1172,7 +1171,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:align-content-start` - İçerik başlangıcını TV'de hizalayın
 - `.tv:align-content-stretch` - TV'deki içerik uzantısını hizalayın
 
-##### Align content - Tablet Max (< 768px)
+##### Align content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-content-around` - İçeriği tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
 - `.hover:tablet-max:align-content-between` - İçeriği tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
@@ -1189,7 +1188,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:align-content-start` - İçerik başlangıcını tablet max'ta hizalayın
 - `.tablet-max:align-content-stretch` - Tablet max'te içerik genişletmeyi hizalayın
 
-##### Align content - Tablet Pc Max (< 992px)
+##### Align content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - Tablet PC Max'te fareyle üzerine gelindiğinde içeriği hizalayın
 - `.hover:tablet-pc-max:align-content-between` - İçeriği tablet PC max üzerinde fareyle üzerine gelindiğinde hizalayın
@@ -1206,7 +1205,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:align-content-start` - Tablet PC Max'te içerik başlangıcını hizalayın
 - `.tablet-pc-max:align-content-stretch` - Tablet PC Max'te içerik genişletmeyi hizalama
 
-##### Align content - Pc Max (< 1200px)
+##### Align content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-content-around` - PC max'ta fareyle üzerine gelindiğinde içeriği hizalayın
 - `.hover:pc-max:align-content-between` - İçeriği PC max'ta fareyle üzerine gelindiğinde hizalayın
@@ -1234,7 +1233,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:align-items-start` - Öğeleri hizalama fareyle üzerine gelindiğinde başlar
 - `.hover:align-items-stretch` - Fareyle üzerine gelindiğinde öğeleri hizalayın
 
-##### Align items - Mobile (< 480px)
+##### Align items - Mobile (≤ 480px)
 
 - `.hover:mobile:align-items-center` - Mobil cihazda fareyle üzerine gelindiğinde öğelerin ortasını hizalayın
 - `.hover:mobile:align-items-end` - Öğeleri mobil cihazda fareyle üzerine gelindiğinde hizalayın
@@ -1278,7 +1277,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:align-items-start` - Öğeleri hizalama bilgisayarda başlar
 - `.pc:align-items-stretch` - PC'deki öğeleri hizalayın
 
-##### Align items - Tv (> 1200px)
+##### Align items - Tv (≥ 1200px)
 
 - `.hover:tv:align-items-center` - Televizyondaki fareyle üzerine gelindiğinde öğelerin ortasını hizalayın
 - `.hover:tv:align-items-end` - Öğeleri TV'de fareyle üzerine gelindiğinde hizalayın
@@ -1289,7 +1288,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:align-items-start` - Öğeleri hizalama TV'de başlar
 - `.tv:align-items-stretch` - TV'deki öğeleri hizalayın
 
-##### Align items - Tablet Max (< 768px)
+##### Align items - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-items-center` - Tablet max üzerinde fareyle üzerine gelindiğinde öğelerin merkezini hizalayın
 - `.hover:tablet-max:align-items-end` - Öğeleri tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
@@ -1300,7 +1299,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:align-items-start` - Öğeleri hizalama tablet max'ta başlar
 - `.tablet-max:align-items-stretch` - Öğeleri tablet max üzerinde hizalayın
 
-##### Align items - Tablet Pc Max (< 992px)
+##### Align items - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - Tablet PC Max'te fareyle üzerine gelindiğinde öğelerin merkezini hizalayın
 - `.hover:tablet-pc-max:align-items-end` - Öğeleri hizalama, tablet PC max'ta fareyle üzerine gelindiğinde sona eriyor
@@ -1311,7 +1310,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:align-items-start` - Öğeleri hizalama tablet pc max'ta başlar
 - `.tablet-pc-max:align-items-stretch` - Tablet PC'de gerilmiş öğeleri hizalama max
 
-##### Align items - Pc Max (< 1200px)
+##### Align items - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-items-center` - PC max'ta fareyle üzerine gelindiğinde öğelerin merkezini hizalayın
 - `.hover:pc-max:align-items-end` - Öğeleri hizalama, PC max'ta fareyle üzerine gelindiğinde sona erer
@@ -1333,7 +1332,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:align-self-start` - Fareyle üzerine gelindiğinde otomatik başlatmayı hizalayın
 - `.hover:align-self-stretch` - Fareyle üzerine gelindiğinde kendini uzatmayı hizalayın
 
-##### Align self - Mobile (< 480px)
+##### Align self - Mobile (≤ 480px)
 
 - `.hover:mobile:align-self-center` - Mobil cihazda fareyle üzerine gelindiğinde kendi merkezimi hizalama
 - `.hover:mobile:align-self-end` - Mobil cihazda fareyle üzerine gelindiğinde kendi ucunu hizalayın
@@ -1377,7 +1376,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:align-self-start` - PC'de kendi kendine başlatmayı hizalama
 - `.pc:align-self-stretch` - PC'de kendi kendini germeyi hizalayın
 
-##### Align self - Tv (> 1200px)
+##### Align self - Tv (≥ 1200px)
 
 - `.hover:tv:align-self-center` - Televizyonun üzerine gelindiğinde kendi merkezini hizala
 - `.hover:tv:align-self-end` - TV'de fareyle üzerine gelindiğinde kendi ucunu hizalayın
@@ -1388,7 +1387,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:align-self-start` - TV'de otomatik başlatmayı hizalama
 - `.tv:align-self-stretch` - TV'de kendi kendini uzatmayı hizalayın
 
-##### Align self - Tablet Max (< 768px)
+##### Align self - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-self-center` - Tablet max üzerinde fareyle üzerine gelindiğinde kendi merkezini hizalayın
 - `.hover:tablet-max:align-self-end` - Tablet max üzerinde fareyle üzerine gelindiğinde kendi ucunu hizalayın
@@ -1399,7 +1398,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:align-self-start` - Tablet max'te otomatik başlatmayı hizalama
 - `.tablet-max:align-self-stretch` - Tablet max'ta kendi kendine esnemeyi hizalayın
 
-##### Align self - Tablet Pc Max (< 992px)
+##### Align self - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - Tablet PC max üzerinde fareyle üzerine gelindiğinde kendi merkezini hizalayın
 - `.hover:tablet-pc-max:align-self-end` - Tablet PC max üzerinde fareyle üzerine gelindiğinde kendi ucunu hizalayın
@@ -1410,7 +1409,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:align-self-start` - Tablet PC max'ta otomatik başlatmayı hizalama
 - `.tablet-pc-max:align-self-stretch` - Tablet PC Max'te kendi kendine gerdirmeyi hizalayın
 
-##### Align self - Pc Max (< 1200px)
+##### Align self - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-self-center` - PC max üzerinde fareyle üzerine gelindiğinde kendi merkezini hizalayın
 - `.hover:pc-max:align-self-end` - PC max üzerinde fareyle üzerine gelindiğinde kendi ucunu hizalayın
@@ -1438,7 +1437,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.justify-content-start` - İçerik başlangıcını haklı göster
 - `.justify-content-stretch` - İçerik genişletmeyi gerekçelendir
 
-##### Justify content - Mobile (< 480px)
+##### Justify content - Mobile (≤ 480px)
 
 - `.hover:mobile:justify-content-around` - Mobil cihazda fareyle üzerine gelindiğinde içeriği sağa sola yaslayın
 - `.hover:mobile:justify-content-between` - Mobil cihazda fareyle üzerine gelindiğinde içeriği iki yana yaslayın
@@ -1490,7 +1489,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:justify-content-end` - PC'de içeriğin sonunu haklı çıkarma
 - `.pc:justify-content-start` - İçeriğin bilgisayarda başlatılmasını gerekçelendirin
 
-##### Justify content - Tv (> 1200px)
+##### Justify content - Tv (≥ 1200px)
 
 - `.hover:tv:justify-content-around` - Televizyonun üzerine gelindiğinde içeriği gerekçelendirin
 - `.hover:tv:justify-content-between` - Televizyonun üzerine gelindiğinde içeriği iki yana yaslayın
@@ -1503,7 +1502,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:justify-content-end` - TV'de içeriğin bitmesini haklı göster
 - `.tv:justify-content-start` - İçeriğin TV'de başlatılmasını gerekçelendirin
 
-##### Justify content - Tablet Max (< 768px)
+##### Justify content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:justify-content-around` - İçeriği tablet max üzerinde fareyle üzerine gelindiğinde iki yana yaslayın
 - `.hover:tablet-max:justify-content-between` - İçeriği tablet max üzerinde fareyle üzerine gelindiğinde iki yana yaslayın
@@ -1516,7 +1515,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:justify-content-end` - İçeriğin tablet max'ta sona ermesini gerekçelendir
 - `.tablet-max:justify-content-start` - İçeriğin tablet max'ta başlatılmasını gerekçelendirin
 
-##### Justify content - Tablet Pc Max (< 992px)
+##### Justify content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - Tablet PC Max'te fareyle üzerine gelindiğinde içeriği iki yana yaslayın
 - `.hover:tablet-pc-max:justify-content-between` - İçeriği tablet PC max üzerinde fareyle üzerine gelindiğinde iki yana yaslayın
@@ -1529,7 +1528,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:justify-content-end` - Tablet PC Max'te içeriğin sonunu haklı çıkarma
 - `.tablet-pc-max:justify-content-start` - İçeriğin tablet pc max'ta başlatılmasını gerekçelendirin
 
-##### Justify content - Pc Max (< 1200px)
+##### Justify content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:justify-content-around` - PC max'ta fareyle üzerine gelindiğinde içeriği gerekçelendirin
 - `.hover:pc-max:justify-content-between` - İçeriği PC max üzerinde fareyle üzerine gelindiğinde iki yana yaslayın
@@ -1585,7 +1584,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:-order-2` - Fareyle üzerine gelindiğinde Negatif Sıra 2
 - `.hover:-order-1` - Fareyle üzerine gelindiğinde Negatif Sıra 1
 
-##### Order - Mobile (< 480px)
+##### Order - Mobile (≤ 480px)
 
 - `.hover:mobile:order-5` - Mobil cihazda fareyle üzerine gelindiğinde 5 sipariş verin
 - `.hover:mobile:order-4` - Mobil cihazda fareyle üzerine gelindiğinde 4'ü sipariş edin
@@ -1604,7 +1603,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mobile:order-first` - Mobilde ilk önce sipariş verin
 - `.mobile:order-last` - Mobil cihazda son sipariş
 
-##### Negative Order - Mobile (< 480px)
+##### Negative Order - Mobile (≤ 480px)
 
 - `.hover:mobile:-order-5` - Mobil cihazda fareyle üzerine gelindiğinde Negatif Sıra 5
 - `.hover:mobile:-order-4` - Mobil cihazda fareyle üzerine gelindiğinde Negatif Sıra 4
@@ -1713,7 +1712,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:-order-2` - PC'de Negatif Sipariş 2
 - `.pc:-order-1` - PC'de Negatif Sipariş 1
 
-##### Order - Tv (> 1200px)
+##### Order - Tv (≥ 1200px)
 
 - `.hover:tv:order-5` - Televizyonda fareyle üzerine gelindiğinde 5'i sipariş edin
 - `.hover:tv:order-4` - TV'de fareyle üzerine gelindiğinde 4'ü sipariş edin
@@ -1732,7 +1731,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:order-first` - TV'de ilk önce sipariş verin
 - `.tv:order-last` - TV'de son sipariş
 
-##### Negative Order - Tv (> 1200px)
+##### Negative Order - Tv (≥ 1200px)
 
 - `.hover:tv:-order-5` - Televizyonun üzerine gelindiğinde Negatif Sıra 5
 - `.hover:tv:-order-4` - Negatif Sıralama 4 televizyonun üzerine gelindiğinde
@@ -1745,7 +1744,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:-order-2` - Negatif Sipariş 2 televizyonda
 - `.tv:-order-1` - TV'de Negatif Sıra 1
 
-##### Order - Tablet Max (< 768px)
+##### Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:order-5` - Maksimum tablette fareyle üzerine gelindiğinde 5 sipariş verin
 - `.hover:tablet-max:order-4` - Maksimum tablette fareyle üzerine gelindiğinde 4 sipariş verin
@@ -1764,7 +1763,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:order-first` - Tablet max'ta ilk önce sipariş verin
 - `.tablet-max:order-last` - Tablet max'ta son sipariş
 
-##### Negative Order - Tablet Max (< 768px)
+##### Negative Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:-order-5` - Maksimum tabletin üzerine gelindiğinde Negatif Sıra 5
 - `.hover:tablet-max:-order-4` - Maksimum tabletin üzerine gelindiğinde Negatif Sıra 4
@@ -1777,7 +1776,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:-order-2` - Tablet max'ta Negatif Sipariş 2
 - `.tablet-max:-order-1` - Maksimum tablette Negatif Sıra 1
 
-##### Order - Tablet Pc Max (< 992px)
+##### Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:order-5` - Tablet PC max üzerinde fareyle üzerine gelindiğinde 5 sipariş verin
 - `.hover:tablet-pc-max:order-4` - Tablet PC max üzerinde fareyle üzerine gelindiğinde 4 sipariş verin
@@ -1796,7 +1795,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:order-first` - Tablet PC Max'te ilk önce sipariş verin
 - `.tablet-pc-max:order-last` - Tablet PC max'ta son sipariş
 
-##### Negative Order - Tablet Pc Max (< 992px)
+##### Negative Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:-order-5` - Tablet PC max'ın üzerine gelindiğinde Negatif Sıra 5
 - `.hover:tablet-pc-max:-order-4` - Tablet PC max'ın üzerine gelindiğinde Negatif Sıra 4
@@ -1809,7 +1808,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:-order-2` - Tablet PC max'ta Negatif Sıra 2
 - `.tablet-pc-max:-order-1` - Tablet PC max'ta Negatif Sıra 1
 
-##### Order - Pc Max (< 1200px)
+##### Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:order-5` - PC max üzerinde fareyle üzerine gelindiğinde 5 sipariş verin
 - `.hover:pc-max:order-4` - PC max üzerinde fareyle üzerine gelindiğinde 4 sipariş verin
@@ -1828,7 +1827,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc-max:order-first` - PC max'ta ilk önce sipariş verin
 - `.pc-max:order-last` - PC max'ta son sipariş
 
-##### Negative Order - Pc Max (< 1200px)
+##### Negative Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:-order-5` - PC max üzerinde fareyle üzerine gelindiğinde Negatif Sıra 5
 - `.hover:pc-max:-order-4` - PC max üzerinde fareyle üzerine gelindiğinde Negatif Sıra 4
@@ -1909,10 +1908,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Margin Bottom
 
 - `.first:mb-0` - Marj Alt 0rem ilk başta
-- `.hover:mb-100` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 100rem
-- `.hover:mb-75` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 75rem
-- `.hover:mb-50` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 50rem
-- `.hover:mb-25` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 25rem
+- `.hover:mb-100` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt %100
+- `.hover:mb-75` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt %75
+- `.hover:mb-50` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt %50
+- `.hover:mb-25` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt %25
 - `.hover:mb-5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 5rem
 - `.hover:mb-4.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
 - `.hover:mb-4` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 4rem
@@ -1942,10 +1941,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mb-0` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
 - `.hover:mb-auto` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt otomatik
 - `.last:mb-0` - Marj Alt 0rem sonda
-- `.mb-100` - Kenar Boşluğu Alt 100rem
-- `.mb-75` - Alt Marj 75rem
-- `.mb-50` - Kenar Boşluğu Alt 50rem
-- `.mb-25` - Kenar Boşluğu Alt 25rem
+- `.mb-100` - Kenar Boşluğu Alt %100
+- `.mb-75` - Alt Marj %75
+- `.mb-50` - Kenar Boşluğu Alt %50
+- `.mb-25` - Kenar Boşluğu Alt %25
 - `.mb-5` - Kenar Boşluğu Alt 5rem
 - `.mb-4.5` - Marj Alt 0rem
 - `.mb-4` - Kenar Boşluğu Alt 4rem
@@ -1991,10 +1990,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Margin Left
 
 - `.first:ml-0` - Marj İlk başta 0rem kaldı
-- `.hover:ml-100` - Fareyle üzerine gelindiğinde Sol Marj 100rem
-- `.hover:ml-75` - Fareyle üzerine gelindiğinde Sol Marj 75rem
-- `.hover:ml-50` - Fareyle üzerine gelindiğinde Sol Marj 50rem
-- `.hover:ml-25` - Fareyle üzerine gelindiğinde Sol Marj 25rem
+- `.hover:ml-100` - Fareyle üzerine gelindiğinde Sol Marj %100
+- `.hover:ml-75` - Fareyle üzerine gelindiğinde Sol Marj %75
+- `.hover:ml-50` - Fareyle üzerine gelindiğinde Sol Marj %50
+- `.hover:ml-25` - Fareyle üzerine gelindiğinde Sol Marj %25
 - `.hover:ml-5` - Fareyle üzerine gelindiğinde Sol Marj 5rem
 - `.hover:ml-4.5` - Fareyle üzerine gelindiğinde Sol Marj 0rem
 - `.hover:ml-4` - Fareyle üzerine gelindiğinde Sol Marj 4rem
@@ -2024,10 +2023,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:ml-0` - Fareyle üzerine gelindiğinde Sol Marj 0rem
 - `.hover:ml-auto` - Fareyle üzerine gelindiğinde Kenar Boşluğu Sol otomatik
 - `.last:ml-0` - Sonda Kalan Marj 0rem
-- `.ml-100` - Sol Marj 100rem
-- `.ml-75` - Sol Marj 75rem
-- `.ml-50` - Sol Marj 50rem
-- `.ml-25` - Sol Marj 25rem
+- `.ml-100` - Sol Marj %100
+- `.ml-75` - Sol Marj %75
+- `.ml-50` - Sol Marj %50
+- `.ml-25` - Sol Marj %25
 - `.ml-5` - Sol Kenar Boşluğu 5rem
 - `.ml-4.5` - Sol Marj 0rem
 - `.ml-4` - Sol Marj 4rem
@@ -2060,10 +2059,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Margin Right
 
 - `.first:mr-0` - Marj Sağ İlk başta 0rem
-- `.hover:mr-100` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 100rem
-- `.hover:mr-75` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 75rem
-- `.hover:mr-50` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 50rem
-- `.hover:mr-25` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 25rem
+- `.hover:mr-100` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu %100
+- `.hover:mr-75` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu %75
+- `.hover:mr-50` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu %50
+- `.hover:mr-25` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu %25
 - `.hover:mr-5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 5rem
 - `.hover:mr-4.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
 - `.hover:mr-4` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 4rem
@@ -2093,10 +2092,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mr-0` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
 - `.hover:mr-auto` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu otomatik
 - `.last:mr-0` - Marj Sağ 0rem sonda
-- `.mr-100` - Sağ Kenar Boşluğu 100rem
-- `.mr-75` - Sağ Kenar Boşluğu 75rem
-- `.mr-50` - Sağ Kenar Boşluğu 50rem
-- `.mr-25` - Sağ Kenar Boşluğu 25rem
+- `.mr-100` - Sağ Kenar Boşluğu %100
+- `.mr-75` - Sağ Kenar Boşluğu %75
+- `.mr-50` - Sağ Kenar Boşluğu %50
+- `.mr-25` - Sağ Kenar Boşluğu %25
 - `.mr-5` - Sağ Kenar Boşluğu 5rem
 - `.mr-4.5` - Sağ Kenar Boşluğu 0rem
 - `.mr-4` - Sağ Kenar Boşluğu 4rem
@@ -2142,10 +2141,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Margin Top
 
 - `.first:mt-0` - Marj Üst 0rem ilk başta
-- `.hover:mt-100` - Fareyle üzerine gelindiğinde Marj İlk 100rem
-- `.hover:mt-75` - Fareyle üzerine gelindiğinde Marj Top 75rem
-- `.hover:mt-50` - Fareyle üzerine gelindiğinde Marj İlk 50rem
-- `.hover:mt-25` - Fareyle üzerine gelindiğinde Marj İlk 25rem
+- `.hover:mt-100` - Fareyle üzerine gelindiğinde Marj İlk %100
+- `.hover:mt-75` - Fareyle üzerine gelindiğinde Marj Top %75
+- `.hover:mt-50` - Fareyle üzerine gelindiğinde Marj İlk %50
+- `.hover:mt-25` - Fareyle üzerine gelindiğinde Marj İlk %25
 - `.hover:mt-5` - Fareyle üzerine gelindiğinde Marj İlk 5rem
 - `.hover:mt-4.5` - Fareyle üzerine gelindiğinde Marj Üst 0rem
 - `.hover:mt-4` - Fareyle üzerine gelindiğinde Marj Top 4rem
@@ -2175,10 +2174,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mt-0` - Fareyle üzerine gelindiğinde Marj Üst 0rem
 - `.hover:mt-auto` - Fareyle üzerine gelindiğinde Kenar Boşluğu Üstü otomatik
 - `.last:mt-0` - Marj Üst 0rem sonda
-- `.mt-100` - Marj İlk 100rem
-- `.mt-75` - Marj Üst 75rem
-- `.mt-50` - Marj İlk 50rem
-- `.mt-25` - Marj Üst 25rem
+- `.mt-100` - Marj İlk %100
+- `.mt-75` - Marj Üst %75
+- `.mt-50` - Marj İlk %50
+- `.mt-25` - Marj Üst %25
 - `.mt-5` - Marj Üst 5rem
 - `.mt-4.5` - Marj Üst 0rem
 - `.mt-4` - Marj Üst 4rem
@@ -2210,10 +2209,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Margin X-Axis
 
-- `.hover:mx-100` - Fareyle üzerine gelindiğinde X Ekseni Marjı 100rem
-- `.hover:mx-75` - Fareyle üzerine gelindiğinde X Ekseni Marjı 75rem
-- `.hover:mx-50` - Fareyle üzerine gelindiğinde X Ekseni Marjı 50rem
-- `.hover:mx-25` - Fareyle üzerine gelindiğinde X Ekseni Marjı 25rem
+- `.hover:mx-100` - Fareyle üzerine gelindiğinde X Ekseni Marjı %100
+- `.hover:mx-75` - Fareyle üzerine gelindiğinde X Ekseni Marjı %75
+- `.hover:mx-50` - Fareyle üzerine gelindiğinde X Ekseni Marjı %50
+- `.hover:mx-25` - Fareyle üzerine gelindiğinde X Ekseni Marjı %25
 - `.hover:mx-5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 5rem
 - `.hover:mx-4.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
 - `.hover:mx-4` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 4rem
@@ -2242,10 +2241,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mx-0.1` - Fareyle üzerine gelindiğinde X Ekseni Marjı 0,1 rem
 - `.hover:mx-0` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
 - `.hover:mx-auto` - Fareyle üzerine gelindiğinde X Ekseni Marjı otomatik
-- `.mx-100` - Marj X Ekseni 100rem
-- `.mx-75` - Marj X Ekseni 75rem
-- `.mx-50` - Marj X Ekseni 50rem
-- `.mx-25` - Marj X Ekseni 25rem
+- `.mx-100` - Marj X Ekseni %100
+- `.mx-75` - Marj X Ekseni %75
+- `.mx-50` - Marj X Ekseni %50
+- `.mx-25` - Marj X Ekseni %25
 - `.mx-5` - Marj X Ekseni 5 rem
 - `.mx-4.5` - Marj X Ekseni 0rem
 - `.mx-4` - Marj X Ekseni 4rem
@@ -2277,10 +2276,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Margin Y-Axis
 
-- `.hover:my-100` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 100rem
-- `.hover:my-75` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 75rem
-- `.hover:my-50` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 50rem
-- `.hover:my-25` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 25rem
+- `.hover:my-100` - Fareyle üzerine gelindiğinde Y Ekseni Marjı %100
+- `.hover:my-75` - Fareyle üzerine gelindiğinde Y Ekseni Marjı %75
+- `.hover:my-50` - Fareyle üzerine gelindiğinde Y Ekseni Marjı %50
+- `.hover:my-25` - Fareyle üzerine gelindiğinde Y Ekseni Marjı %25
 - `.hover:my-5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 5rem
 - `.hover:my-4.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
 - `.hover:my-4` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 4rem
@@ -2309,10 +2308,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:my-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0,1 rem
 - `.hover:my-0` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
 - `.hover:my-auto` - Fareyle üzerine gelindiğinde Y Ekseni Kenar Boşluğu otomatik
-- `.my-100` - Marj Y Ekseni 100rem
-- `.my-75` - Marj Y Ekseni 75mm
-- `.my-50` - Marj Y Ekseni 50rem
-- `.my-25` - Marj Y Ekseni 25rem
+- `.my-100` - Marj Y Ekseni %100
+- `.my-75` - Marj Y Ekseni %75
+- `.my-50` - Marj Y Ekseni %50
+- `.my-25` - Marj Y Ekseni %25
 - `.my-5` - Marj Y Ekseni 5 rem
 - `.my-4.5` - Marj Y Ekseni 0rem
 - `.my-4` - Marj Y Ekseni 4rem
@@ -2406,10 +2405,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Padding Bottom
 
 - `.first:pb-0` - Önce Alttan 0rem Dolgu
-- `.hover:pb-100` - Vurguluyken Altta 100rem Dolgu
-- `.hover:pb-75` - Vurguluyken Alt Dolgu 75rem
-- `.hover:pb-50` - Vurguluyken Alttan 50rem Dolgu
-- `.hover:pb-25` - Vurguluyken Alttan 25rem Dolgu
+- `.hover:pb-100` - Vurguluyken Altta %100 Dolgu
+- `.hover:pb-75` - Vurguluyken Alt Dolgu %75
+- `.hover:pb-50` - Vurguluyken Alttan %50 Dolgu
+- `.hover:pb-25` - Vurguluyken Alttan %25 Dolgu
 - `.hover:pb-5` - Vurguluyken Alttan 5rem Dolgu
 - `.hover:pb-4.5` - Vurguluyken Alttan 0rem Dolgu
 - `.hover:pb-4` - Vurguluyken Alttan 4rem Dolgu
@@ -2438,10 +2437,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pb-0.1` - Vurguluyken Alt Dolgu 0,1 rem
 - `.hover:pb-0` - Vurguluyken Alttan 0rem Dolgu
 - `.last:pb-0` - Dolgu Alt 0rem sonda
-- `.pb-100` - Dolgu Alt 100rem
-- `.pb-75` - Alt Dolgu 75rem
-- `.pb-50` - Dolgu Alt 50rem
-- `.pb-25` - Dolgu Alt 25rem
+- `.pb-100` - Dolgu Alt %100
+- `.pb-75` - Alt Dolgu %75
+- `.pb-50` - Dolgu Alt %50
+- `.pb-25` - Dolgu Alt %25
 - `.pb-5` - Dolgu Alt 5rem
 - `.pb-4.5` - Alt Dolgu 0rem
 - `.pb-4` - Dolgu Alt 4rem
@@ -2532,10 +2531,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Padding Right
 
 - `.first:pr-0` - İlk önce Sağa 0rem Dolgu
-- `.hover:pr-100` - Vurguluyken Sağa 100rem Dolgu
-- `.hover:pr-75` - Vurguluyken Sağa 75rem Dolgu
-- `.hover:pr-50` - Vurguluyken Sağa 50rem Dolgu
-- `.hover:pr-25` - Vurguluyken Sağa 25rem Dolgu
+- `.hover:pr-100` - Vurguluyken Sağa %100 Dolgu
+- `.hover:pr-75` - Vurguluyken Sağa %75 Dolgu
+- `.hover:pr-50` - Vurguluyken Sağa %50 Dolgu
+- `.hover:pr-25` - Vurguluyken Sağa %25 Dolgu
 - `.hover:pr-5` - Vurguluyken Sağa 5rem Dolgu
 - `.hover:pr-4.5` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
 - `.hover:pr-4` - Fareyle üzerine gelindiğinde Sağa 4rem Dolgu
@@ -2564,10 +2563,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pr-0.1` - Fareyle üzerine gelindiğinde Sağa 0,1 rem Dolgu
 - `.hover:pr-0` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
 - `.last:pr-0` - Sonda Sağa 0rem Dolgu
-- `.pr-100` - Sağa Dolgu 100rem
-- `.pr-75` - Sağa Dolgu 75rem
-- `.pr-50` - Sağa Dolgu 50rem
-- `.pr-25` - Sağa Dolgu 25rem
+- `.pr-100` - Sağa Dolgu %100
+- `.pr-75` - Sağa Dolgu %75
+- `.pr-50` - Sağa Dolgu %50
+- `.pr-25` - Sağa Dolgu %25
 - `.pr-5` - Sağa Dolgu 5rem
 - `.pr-4.5` - Sağa Dolgu 0rem
 - `.pr-4` - Sağa Dolgu 4rem
@@ -2599,10 +2598,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Padding Top
 
 - `.first:pt-0` - İlk önce Üst 0rem dolgusu
-- `.hover:pt-100` - Fareyle üzerine gelindiğinde Top 100rem'i doldurma
-- `.hover:pt-75` - Fareyle üzerine gelindiğinde Top 75rem dolgusu
-- `.hover:pt-50` - Fareyle üzerine gelindiğinde Top 50rem dolgusu
-- `.hover:pt-25` - Fareyle üzerine gelindiğinde Top 25rem dolgusu
+- `.hover:pt-100` - Fareyle üzerine gelindiğinde Top %100 doldurma
+- `.hover:pt-75` - Fareyle üzerine gelindiğinde Top %75 dolgusu
+- `.hover:pt-50` - Fareyle üzerine gelindiğinde Top %50 dolgusu
+- `.hover:pt-25` - Fareyle üzerine gelindiğinde Top %25 dolgusu
 - `.hover:pt-5` - Fareyle üzerine gelindiğinde Top 5rem dolgusu
 - `.hover:pt-4.5` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
 - `.hover:pt-4` - Fareyle üzerine gelindiğinde Top 4rem dolgusu
@@ -2631,10 +2630,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pt-0.1` - Vurguluyken Üst Dolgu 0,1rem
 - `.hover:pt-0` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
 - `.last:pt-0` - Dolgu Üst 0rem sonda
-- `.pt-100` - Dolgu Üstü 100rem
-- `.pt-75` - Dolgu Üstü 75rem
-- `.pt-50` - Dolgu Üst 50rem
-- `.pt-25` - Dolgu Üstü 25rem
+- `.pt-100` - Dolgu Üstü %100
+- `.pt-75` - Dolgu Üstü %75
+- `.pt-50` - Dolgu Üst %50
+- `.pt-25` - Dolgu Üstü %25
 - `.pt-5` - Dolgu Üstü 5rem
 - `.pt-4.5` - Dolgu Üstü 0rem
 - `.pt-4` - Dolgu Üstü 4rem
@@ -2665,10 +2664,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Padding X-Axis
 
-- `.hover:px-100` - Fareyle üzerine gelindiğinde X Ekseni 100rem dolgusu
-- `.hover:px-75` - Fareyle üzerine gelindiğinde X Ekseni 75rem dolgusu
-- `.hover:px-50` - Fareyle üzerine gelindiğinde X Ekseni 50rem dolgusu
-- `.hover:px-25` - Fareyle üzerine gelindiğinde X Ekseni 25rem dolgusu
+- `.hover:px-100` - Fareyle üzerine gelindiğinde X Ekseni %100 dolgusu
+- `.hover:px-75` - Fareyle üzerine gelindiğinde X Ekseni %75 dolgusu
+- `.hover:px-50` - Fareyle üzerine gelindiğinde X Ekseni %50 dolgusu
+- `.hover:px-25` - Fareyle üzerine gelindiğinde X Ekseni %25 dolgusu
 - `.hover:px-5` - Fareyle üzerine gelindiğinde X Ekseni 5rem dolgusu
 - `.hover:px-4.5` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
 - `.hover:px-4` - Fareyle üzerine gelindiğinde X Ekseni 4rem dolgusu
@@ -2696,10 +2695,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:px-0.2` - Fareyle üzerine gelindiğinde X Ekseni 0,2rem dolgusu
 - `.hover:px-0.1` - Fareyle üzerine gelindiğinde X Ekseni 0,1rem dolgusu
 - `.hover:px-0` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.px-100` - Dolgu X Ekseni 100rem
-- `.px-75` - Dolgu X Ekseni 75rem
-- `.px-50` - Dolgu X Ekseni 50rem
-- `.px-25` - Dolgu X Ekseni 25rem
+- `.px-100` - Dolgu X Ekseni %100
+- `.px-75` - Dolgu X Ekseni %75
+- `.px-50` - Dolgu X Ekseni %50
+- `.px-25` - Dolgu X Ekseni %25
 - `.px-5` - Dolgu X Ekseni 5rem
 - `.px-4.5` - Dolgu X Ekseni 0 rem
 - `.px-4` - Dolgu X Ekseni 4rem
@@ -2730,10 +2729,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Padding Y-Axis
 
-- `.hover:py-100` - Fareyle üzerine gelindiğinde Y Ekseni 100rem dolgusu
-- `.hover:py-75` - Vurguluyken Y Ekseni 75rem dolgusu
-- `.hover:py-50` - Fareyle üzerine gelindiğinde Y Ekseni 50rem dolgusu
-- `.hover:py-25` - Vurguluyken Y Ekseni 25rem dolgusu
+- `.hover:py-100` - Fareyle üzerine gelindiğinde Y Ekseni %100 dolgusu
+- `.hover:py-75` - Vurguluyken Y Ekseni %75 dolgusu
+- `.hover:py-50` - Fareyle üzerine gelindiğinde Y Ekseni %50 dolgusu
+- `.hover:py-25` - Vurguluyken Y Ekseni %25 dolgusu
 - `.hover:py-5` - Fareyle üzerine gelindiğinde Y Ekseni 5rem dolgusu
 - `.hover:py-4.5` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
 - `.hover:py-4` - Fareyle üzerine gelindiğinde Y Ekseni 4rem dolgusu
@@ -2761,10 +2760,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:py-0.2` - Fareyle üzerine gelindiğinde Y Ekseni 0,2 rem dolgusu
 - `.hover:py-0.1` - Fareyle üzerine gelindiğinde Y Ekseni 0,1 rem dolgusu
 - `.hover:py-0` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.py-100` - Dolgu Y Ekseni 100rem
-- `.py-75` - Dolgu Y Ekseni 75rem
-- `.py-50` - Dolgu Y Ekseni 50rem
-- `.py-25` - Dolgu Y Ekseni 25rem
+- `.py-100` - Dolgu Y Ekseni %100
+- `.py-75` - Dolgu Y Ekseni %75
+- `.py-50` - Dolgu Y Ekseni %50
+- `.py-25` - Dolgu Y Ekseni %25
 - `.py-5` - Dolgu Y Ekseni 5rem
 - `.py-4.5` - Dolgu Y Ekseni 0rem
 - `.py-4` - Dolgu Y Ekseni 4rem
@@ -2840,7 +2839,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.w-5` - Genişlik %5
 - `.w-auto` - Otomatik genişlik %
 
-##### Width - Mobile (< 480px)
+##### Width - Mobile (≤ 480px)
 
 - `.hover:mobile:w-100` - Mobil cihazda fareyle üzerine gelindiğinde genişlik %100
 - `.hover:mobile:w-95` - Mobil cihazda fareyle üzerine gelindiğinde genişlik %95
@@ -3020,7 +3019,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:w-5` - PC'de genişlik %5
 - `.pc:w-auto` - PC'de otomatik genişlik %'si
 
-##### Width - Tv (> 1200px)
+##### Width - Tv (≥ 1200px)
 
 - `.hover:tv:w-100` - TV'de fareyle üzerine gelindiğinde genişlik %100
 - `.hover:tv:w-95` - TV'de fareyle üzerine gelindiğinde genişlik %95
@@ -3065,7 +3064,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:w-5` - Televizyonda genişlik %5
 - `.tv:w-auto` - TV'de otomatik genişlik %'si
 
-##### Width - Tablet Max (< 768px)
+##### Width - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:w-100` - Maksimum tabletin üzerine gelindiğinde genişlik %100
 - `.hover:tablet-max:w-95` - Maksimum tabletin üzerine gelindiğinde genişlik %95
@@ -3110,7 +3109,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:w-5` - Maksimum tablette %5 genişlik
 - `.tablet-max:w-auto` - Maksimum tablette otomatik genişlik yüzdesi
 
-##### Width - Tablet Pc Max (< 992px)
+##### Width - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:w-100` - Maksimum tablet bilgisayarda fareyle üzerine gelindiğinde genişlik %100
 - `.hover:tablet-pc-max:w-95` - Maksimum tablet bilgisayarda fareyle üzerine gelindiğinde %95 genişlik
@@ -3155,7 +3154,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:w-5` - Tablet PC'de maksimum %5 genişlik
 - `.tablet-pc-max:w-auto` - Tablet PC'de maksimum genişlik otomatik %
 
-##### Width - Pc Max (< 1200px)
+##### Width - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:w-100` - PC'de fareyle üzerine gelindiğinde genişlik %100 maksimum
 - `.hover:pc-max:w-95` - PC'de fareyle üzerine gelindiğinde genişlik %95 maksimum
@@ -3202,25 +3201,25 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Width vh
 
-- `.hover:w-vh-100` - Genişlik vh fareyle üzerine gelindiğinde %100
-- `.hover:w-vh-75` - Genişlik vh fareyle üzerine gelindiğinde %75
-- `.hover:w-vh-50` - Genişlik vh %50 fareyle üzerine gelindiğinde
-- `.hover:w-vh-25` - Genişlik vh fareyle üzerine gelindiğinde %25
-- `.w-vh-100` - Genişlik vh %100
-- `.w-vh-75` - Genişlik vh %75
-- `.w-vh-50` - Genişlik vh %50
-- `.w-vh-25` - Genişlik vh %25
+- `.hover:w-vh-100` - Genişlik vh fareyle üzerine gelindiğinde 100vh
+- `.hover:w-vh-75` - Genişlik vh fareyle üzerine gelindiğinde 75vh
+- `.hover:w-vh-50` - Genişlik vh 50vh fareyle üzerine gelindiğinde
+- `.hover:w-vh-25` - Genişlik vh fareyle üzerine gelindiğinde 25vh
+- `.w-vh-100` - Genişlik vh 100vh
+- `.w-vh-75` - Genişlik vh 75vh
+- `.w-vh-50` - Genişlik vh 50vh
+- `.w-vh-25` - Genişlik vh 25vh
 
 #### Width vw
 
-- `.hover:w-vw-100` - Vw genişliği %100 fareyle üzerine gelindiğinde
-- `.hover:w-vw-75` - Vw genişliği %75 fareyle üzerine gelindiğinde
-- `.hover:w-vw-50` - Vw genişliği fareyle üzerine gelindiğinde %50
-- `.hover:w-vw-25` - Vw genişliği fareyle üzerine gelindiğinde %25
-- `.w-vw-100` - Genişlik vw %100
-- `.w-vw-75` - Genişlik vw %75
-- `.w-vw-50` - Genişlik vw %50
-- `.w-vw-25` - Genişlik vw %25
+- `.hover:w-vw-100` - Vw genişliği 100vw fareyle üzerine gelindiğinde
+- `.hover:w-vw-75` - Vw genişliği 75vw fareyle üzerine gelindiğinde
+- `.hover:w-vw-50` - Vw genişliği fareyle üzerine gelindiğinde 50vw
+- `.hover:w-vw-25` - Vw genişliği fareyle üzerine gelindiğinde 25vw
+- `.w-vw-100` - Genişlik vw 100vw
+- `.w-vw-75` - Genişlik vw 75vw
+- `.w-vw-50` - Genişlik vw 50vw
+- `.w-vw-25` - Genişlik vw 25vw
 
 ### Height
 
@@ -3267,7 +3266,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:h-5` - Fareyle üzerine gelindiğinde yükseklik %5
 - `.hover:h-auto` - Fareyle üzerine gelindiğinde otomatik yükseklik %'si
 
-##### Height - Mobile (< 480px)
+##### Height - Mobile (≤ 480px)
 
 - `.hover:mobile:h-100` - Mobil cihazda fareyle üzerine gelindiğinde yükseklik %100
 - `.hover:mobile:h-95` - Mobil cihazda fareyle üzerine gelindiğinde yükseklik %95
@@ -3446,7 +3445,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:h-5` - PC'de yükseklik %5
 - `.pc:h-auto` - PC'de otomatik yükseklik yüzdesi
 
-##### Height - Tv (> 1200px)
+##### Height - Tv (≥ 1200px)
 
 - `.hover:tv:h-100` - TV'de fareyle üzerine gelindiğinde yükseklik %100
 - `.hover:tv:h-95` - TV'de fareyle üzerine gelindiğinde yükseklik %95
@@ -3491,7 +3490,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:h-5` - Televizyonda yükseklik %5
 - `.tv:h-auto` - TV'de otomatik yükseklik %'si
 
-##### Height - Tablet Max (< 768px)
+##### Height - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:h-100` - Maksimum tabletin üzerine gelindiğinde yükseklik %100
 - `.hover:tablet-max:h-95` - Maksimum tabletin üzerine gelindiğinde yükseklik %95
@@ -3536,7 +3535,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:h-5` - Tablette yükseklik maksimum %5
 - `.tablet-max:h-auto` - Maksimum tablette otomatik yükseklik yüzdesi
 
-##### Height - Tablet Pc Max (< 992px)
+##### Height - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:h-100` - Maksimum tablet bilgisayarda fareyle üzerine gelindiğinde yükseklik %100
 - `.hover:tablet-pc-max:h-95` - Maksimum tablet bilgisayarda fareyle üzerine gelindiğinde yükseklik %95
@@ -3581,7 +3580,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:h-5` - Tablet PC'de maksimum yükseklik %5
 - `.tablet-pc-max:h-auto` - Tablet PC'de maksimum yükseklik otomatik %
 
-##### Height - Pc Max (< 1200px)
+##### Height - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:h-100` - PC'de fareyle üzerine gelindiğinde yükseklik %100 maksimum
 - `.hover:pc-max:h-95` - Maksimum PC üzerinde fareyle üzerine gelindiğinde yükseklik %95
@@ -3628,25 +3627,25 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Height vh
 
-- `.h-vh-100` - Yükseklik vh %100
-- `.h-vh-75` - Yükseklik vh %75
-- `.h-vh-50` - Yükseklik vh %50
-- `.h-vh-25` - Yükseklik vh %25
-- `.hover:h-vh-100` - Fareyle üzerine gelindiğinde yükseklik vh %100
-- `.hover:h-vh-75` - Yükseklik vh %75 fareyle üzerine gelindiğinde
-- `.hover:h-vh-50` - Fareyle üzerine gelindiğinde yükseklik vh %50
-- `.hover:h-vh-25` - Yükseklik vh %25 fareyle üzerine gelindiğinde
+- `.h-vh-100` - Yükseklik vh 100vh
+- `.h-vh-75` - Yükseklik vh 75vh
+- `.h-vh-50` - Yükseklik vh 50vh
+- `.h-vh-25` - Yükseklik vh 25vh
+- `.hover:h-vh-100` - Fareyle üzerine gelindiğinde yükseklik vh 100vh
+- `.hover:h-vh-75` - Yükseklik vh 75vh fareyle üzerine gelindiğinde
+- `.hover:h-vh-50` - Fareyle üzerine gelindiğinde yükseklik vh 50vh
+- `.hover:h-vh-25` - Yükseklik vh 25vh fareyle üzerine gelindiğinde
 
 #### Height vw
 
-- `.h-vw-100` - Yükseklik vw %100
-- `.h-vw-75` - Yükseklik vw %75
-- `.h-vw-50` - Yükseklik vw %50
-- `.h-vw-25` - Yükseklik vw %25
-- `.hover:h-vw-100` - Vw'nin yüksekliği fareyle üzerine gelindiğinde %100
-- `.hover:h-vw-75` - Yükseklik vw %75 fareyle üzerine gelindiğinde
-- `.hover:h-vw-50` - Vw'nin yüksekliği fareyle üzerine gelindiğinde %50
-- `.hover:h-vw-25` - Yükseklik vw %25 fareyle üzerine gelindiğinde
+- `.h-vw-100` - Yükseklik vw 100vw
+- `.h-vw-75` - Yükseklik vw 75vw
+- `.h-vw-50` - Yükseklik vw 50vw
+- `.h-vw-25` - Yükseklik vw 25vw
+- `.hover:h-vw-100` - Vw'nin yüksekliği fareyle üzerine gelindiğinde 100vw
+- `.hover:h-vw-75` - Yükseklik vw 75vw fareyle üzerine gelindiğinde
+- `.hover:h-vw-50` - Vw'nin yüksekliği fareyle üzerine gelindiğinde 50vw
+- `.hover:h-vw-25` - Yükseklik vw 25vw fareyle üzerine gelindiğinde
 
 ## Positioning
 
@@ -3677,10 +3676,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Top
 
-- `.hover:top-100` - Fareyle üzerine gelindiğinde ilk 100rem
-- `.hover:top-75` - Fareyle üzerine gelindiğinde ilk 75rem
-- `.hover:top-50` - Fareyle üzerine gelindiğinde ilk 50rem
-- `.hover:top-25` - Fareyle üzerine gelindiğinde ilk 25rem
+- `.hover:top-100` - Fareyle üzerine gelindiğinde ilk %100
+- `.hover:top-75` - Fareyle üzerine gelindiğinde ilk %75
+- `.hover:top-50` - Fareyle üzerine gelindiğinde ilk %50
+- `.hover:top-25` - Fareyle üzerine gelindiğinde ilk %25
 - `.hover:top-5` - Fareyle üzerine gelindiğinde ilk 5rem
 - `.hover:top-4.5` - Fareyle üzerine gelindiğinde ilk 0rem
 - `.hover:top-4` - Fareyle üzerine gelindiğinde ilk 4rem
@@ -3708,10 +3707,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:top-0.2` - Fareyle üzerine gelindiğinde en iyi 0,2rem
 - `.hover:top-0.1` - Fareyle üzerine gelindiğinde ilk 0,1rem
 - `.hover:top-0` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.top-100` - En iyi 100 saniye
-- `.top-75` - En iyi 75rem
-- `.top-50` - En iyi 50 saniye
-- `.top-25` - En iyi 25rem
+- `.top-100` - En iyi %100
+- `.top-75` - En iyi %75
+- `.top-50` - En iyi %50
+- `.top-25` - En iyi %25
 - `.top-5` - İlk 5rem
 - `.top-4.5` - En iyi 0rem
 - `.top-4` - En iyi 4rem
@@ -3797,10 +3796,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Right
 
-- `.hover:right-100` - Fareyle üzerine gelindiğinde sağa 100rem
-- `.hover:right-75` - Fareyle üzerine gelindiğinde sağa 75rem
-- `.hover:right-50` - Vurguluyken sağa 50rem
-- `.hover:right-25` - Fareyle üzerine gelindiğinde sağa 25rem
+- `.hover:right-100` - Fareyle üzerine gelindiğinde sağa %100
+- `.hover:right-75` - Fareyle üzerine gelindiğinde sağa %75
+- `.hover:right-50` - Vurguluyken sağa %50
+- `.hover:right-25` - Fareyle üzerine gelindiğinde sağa %25
 - `.hover:right-5` - Vurguluyken sağa 5rem
 - `.hover:right-4.5` - Vurguluyken sağa 0rem
 - `.hover:right-4` - Fareyle üzerine gelindiğinde sağa 4rem
@@ -3828,10 +3827,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:right-0.2` - Fareyle üzerine gelindiğinde sağa 0,2rem
 - `.hover:right-0.1` - Fareyle üzerine gelindiğinde sağa 0,1 rem
 - `.hover:right-0` - Vurguluyken sağa 0rem
-- `.right-100` - Sağ 100rem
-- `.right-75` - Sağ 75rem
-- `.right-50` - Sağ 50rem
-- `.right-25` - Sağ 25rem
+- `.right-100` - Sağ %100
+- `.right-75` - Sağ %75
+- `.right-50` - Sağ %50
+- `.right-25` - Sağ %25
 - `.right-5` - Sağ 5rem
 - `.right-4.5` - Sağ 0rem
 - `.right-4` - Sağ 4rem
@@ -3917,10 +3916,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Bottom
 
-- `.bottom-100` - Alt 100rem
-- `.bottom-75` - Alt 75rem
-- `.bottom-50` - Alt 50rem
-- `.bottom-25` - Alt 25rem
+- `.bottom-100` - Alt %100
+- `.bottom-75` - Alt %75
+- `.bottom-50` - Alt %50
+- `.bottom-25` - Alt %25
 - `.bottom-5` - Alt 5rem
 - `.bottom-4.5` - Alt 0rem
 - `.bottom-4` - Alt 4rem
@@ -3948,10 +3947,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.bottom-0.2` - Alt 0,2rem
 - `.bottom-0.1` - Alt 0,1 rem
 - `.bottom-0` - Alt 0rem
-- `.hover:bottom-100` - Fareyle üzerine gelindiğinde alt 100rem
-- `.hover:bottom-75` - Fareyle üzerine gelindiğinde alt 75rem
-- `.hover:bottom-50` - Fareyle üzerine gelindiğinde alt 50rem
-- `.hover:bottom-25` - Fareyle üzerine gelindiğinde alt 25rem
+- `.hover:bottom-100` - Fareyle üzerine gelindiğinde alt %100
+- `.hover:bottom-75` - Fareyle üzerine gelindiğinde alt %75
+- `.hover:bottom-50` - Fareyle üzerine gelindiğinde alt %50
+- `.hover:bottom-25` - Fareyle üzerine gelindiğinde alt %25
 - `.hover:bottom-5` - Fareyle üzerine gelindiğinde alt 5rem
 - `.hover:bottom-4.5` - Fareyle üzerine gelindiğinde alt 0rem
 - `.hover:bottom-4` - Fareyle üzerine gelindiğinde alt 4rem
@@ -4037,10 +4036,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Left
 
-- `.hover:left-100` - Fareyle üzerine gelindiğinde 100 saniye kaldı
-- `.hover:left-75` - Fareyle üzerine gelindiğinde 75rem kaldı
-- `.hover:left-50` - Fareyle üzerine gelindiğinde 50rem kaldı
-- `.hover:left-25` - Fareyle üzerine gelindiğinde 25rem kaldı
+- `.hover:left-100` - Fareyle üzerine gelindiğinde %100 kaldı
+- `.hover:left-75` - Fareyle üzerine gelindiğinde %75 kaldı
+- `.hover:left-50` - Fareyle üzerine gelindiğinde %50 kaldı
+- `.hover:left-25` - Fareyle üzerine gelindiğinde %25 kaldı
 - `.hover:left-5` - Fareyle üzerine gelindiğinde 5rem kaldı
 - `.hover:left-4.5` - Fareyle üzerine gelindiğinde 0rem kaldı
 - `.hover:left-4` - Fareyle üzerine gelindiğinde 4rem sola
@@ -4068,10 +4067,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:left-0.2` - Fareyle üzerine gelindiğinde 0,2rem kaldı
 - `.hover:left-0.1` - Fareyle üzerine gelindiğinde 0,1rem kaldı
 - `.hover:left-0` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.left-100` - 100rem kaldı
-- `.left-75` - Sol 75rem
-- `.left-50` - 50rem kaldı
-- `.left-25` - 25rem kaldı
+- `.left-100` - %100 kaldı
+- `.left-75` - Sol %75
+- `.left-50` - %50 kaldı
+- `.left-25` - %25 kaldı
 - `.left-5` - 5rem kaldı
 - `.left-4.5` - 0rem kaldı
 - `.left-4` - Sol 4rem
@@ -4157,18 +4156,18 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Z-Index
 
-- `.hover:z-5` - Fareyle üzerine gelindiğinde Z-Index 5
-- `.hover:z-4` - Fareyle üzerine gelindiğinde Z-Index 4
-- `.hover:z-3` - Fareyle üzerine gelindiğinde Z-Index 3
-- `.hover:z-2` - Fareyle üzerine gelindiğinde Z-Index 2
-- `.hover:z-1` - Fareyle üzerine gelindiğinde Z-Index 1
+- `.hover:z-5` - Fareyle üzerine gelindiğinde Z-Index 1005
+- `.hover:z-4` - Fareyle üzerine gelindiğinde Z-Index 1004
+- `.hover:z-3` - Fareyle üzerine gelindiğinde Z-Index 1003
+- `.hover:z-2` - Fareyle üzerine gelindiğinde Z-Index 1002
+- `.hover:z-1` - Fareyle üzerine gelindiğinde Z-Index 1001
 - `.hover:z-0` - Fareyle üzerine gelindiğinde Z-Index 0
 - `.hover:z-auto` - Fareyle üzerine gelindiğinde Z-Index otomatik
-- `.z-5` - Z-indeksi 5
-- `.z-4` - Z-indeksi 4
-- `.z-3` - Z-indeksi 3
-- `.z-2` - Z-indeksi 2
-- `.z-1` - Z-indeksi 1
+- `.z-5` - Z-indeksi 1005
+- `.z-4` - Z-indeksi 1004
+- `.z-3` - Z-indeksi 1003
+- `.z-2` - Z-indeksi 1002
+- `.z-1` - Z-indeksi 1001
 - `.z-0` - Z-indeksi 0
 - `.z-auto` - Z-Index otomatik
 
@@ -4357,7 +4356,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.text-transparent` - Metin şeffaf
 - `.text-uppercase` - Metin büyük harf
 
-##### Text - Mobile (< 480px)
+##### Text - Mobile (≤ 480px)
 
 - `.hover:mobile:text-center` - Mobil cihazda fareyle üzerine gelindiğinde metnin merkezi
 - `.hover:mobile:text-end` - Mobil cihazda fareyle üzerine gelindiğinde metin sonu
@@ -4417,7 +4416,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:text-right` - Doğrudan PC'de metin gönderin
 - `.pc:text-start` - PC'de metin başlangıcı
 
-##### Text - Tv (> 1200px)
+##### Text - Tv (≥ 1200px)
 
 - `.hover:tv:text-center` - Televizyonun üzerine gelindiğinde metin merkezi
 - `.hover:tv:text-end` - Televizyonun üzerine gelindiğinde metin sonu
@@ -4432,7 +4431,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:text-right` - Doğrudan televizyonda mesaj gönderin
 - `.tv:text-start` - Televizyonda metin başlangıcı
 
-##### Text - Tablet Max (< 768px)
+##### Text - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:text-center` - Tablet max üzerinde fareyle üzerine gelindiğinde metin merkezi
 - `.hover:tablet-max:text-end` - Tablet max'ın üzerine gelindiğinde metin sonu
@@ -4447,7 +4446,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:text-right` - Tablet max'in sağ tarafında metin
 - `.tablet-max:text-start` - Tablet max'ta metin başlangıcı
 
-##### Text - Tablet Pc Max (< 992px)
+##### Text - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:text-center` - Tablet PC max'ta fareyle üzerine gelindiğinde metin merkezi
 - `.hover:tablet-pc-max:text-end` - Tablet PC max üzerinde fareyle üzerine gelindiğinde metin sonu
@@ -4462,7 +4461,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:text-right` - Tablet pc max'ta metin sağ
 - `.tablet-pc-max:text-start` - Tablet PC max'ta metin başlangıcı
 
-##### Text - Pc Max (< 1200px)
+##### Text - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:text-center` - PC max'ta fareyle üzerine gelindiğinde metin merkezi
 - `.hover:pc-max:text-end` - PC max'ta fareyle üzerine gelindiğinde metin sonu
@@ -4514,18 +4513,18 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Bg blur
 
-- `.bg-blur-5` - Bg bulanıklığı 5rem
-- `.bg-blur-4` - Bg bulanıklık 4rem
-- `.bg-blur-3` - Bg bulanıklık 3rem
-- `.bg-blur-2` - Bg bulanıklığı 2rem
-- `.bg-blur-1` - Bg bulanıklığı 1rem
-- `.bg-blur-0` - Bg bulanıklığı 0rem
-- `.hover:bg-blur-5` - Vurguluyken Bg bulanıklığı 5rem
-- `.hover:bg-blur-4` - Bg fareyle üzerine gelindiğinde 4rem bulanıklığı
-- `.hover:bg-blur-3` - Vurguluyken Bg bulanıklığı 3rem
-- `.hover:bg-blur-2` - Vurguluyken Bg bulanıklığı 2rem
-- `.hover:bg-blur-1` - Vurguluyken Bg bulanıklığı 1rem
-- `.hover:bg-blur-0` - Vurguluyken Bg bulanıklığı 0rem
+- `.bg-blur-5` - Bg bulanıklığı 24px
+- `.bg-blur-4` - Bg bulanıklık 16px
+- `.bg-blur-3` - Bg bulanıklık 12px
+- `.bg-blur-2` - Bg bulanıklığı 8px
+- `.bg-blur-1` - Bg bulanıklığı 4px
+- `.bg-blur-0` - Bg bulanıklığı 0px
+- `.hover:bg-blur-5` - Vurguluyken Bg bulanıklığı 24px
+- `.hover:bg-blur-4` - Bg fareyle üzerine gelindiğinde 16px bulanıklığı
+- `.hover:bg-blur-3` - Vurguluyken Bg bulanıklığı 12px
+- `.hover:bg-blur-2` - Vurguluyken Bg bulanıklığı 8px
+- `.hover:bg-blur-1` - Vurguluyken Bg bulanıklığı 4px
+- `.hover:bg-blur-0` - Vurguluyken Bg bulanıklığı 0px
 
 ## Borders
 
@@ -4884,26 +4883,26 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Box Shadow All
 
 - `.hover:shadow-5` - Kutu Gölgesi Tümü 5rem fareyle üzerine gelindiğinde
-- `.hover:shadow-5-1` - Kutu Gölgesi Tümü 5-1rem fareyle üzerine gelindiğinde
+- `.hover:shadow-5-1` - Kutu Gölgesi Tümü 0 0 5rem 2rem fareyle üzerine gelindiğinde
 - `.hover:shadow-4` - Kutu Gölgesi Tümü 4rem fareyle üzerine gelindiğinde
-- `.hover:shadow-4-1` - Kutu Gölgesi Tümü 4-1rem fareyle üzerine gelindiğinde
+- `.hover:shadow-4-1` - Kutu Gölgesi Tümü 0 0 4rem 2rem fareyle üzerine gelindiğinde
 - `.hover:shadow-3` - Kutu Gölgesi Tümü 3rem fareyle üzerine gelindiğinde
-- `.hover:shadow-3-1` - Kutu Gölgesi Tümü 3-1rem fareyle üzerine gelindiğinde
+- `.hover:shadow-3-1` - Kutu Gölgesi Tümü 0 0 3rem 2rem fareyle üzerine gelindiğinde
 - `.hover:shadow-2` - Kutu Gölgesi Tümü 2rem fareyle üzerine gelindiğinde
-- `.hover:shadow-2-1` - Kutu Gölgesi Tümü 2-1rem fareyle üzerine gelindiğinde
+- `.hover:shadow-2-1` - Kutu Gölgesi Tümü 0 0 2rem 2rem fareyle üzerine gelindiğinde
 - `.hover:shadow-1` - Kutu Gölgesi Tümü 1rem fareyle üzerine gelindiğinde
-- `.hover:shadow-1-1` - Kutu Gölgesi Tümü 1-1rem fareyle üzerine gelindiğinde
+- `.hover:shadow-1-1` - Kutu Gölgesi Tümü 0 0 1rem 2rem fareyle üzerine gelindiğinde
 - `.hover:shadow-none` - Kutu Gölgesi Fareyle üzerine gelindiğinde hiçbiri yok
 - `.shadow-5` - Kutu Gölgesi Tümü 5rem
-- `.shadow-5-1` - Kutu Gölgesi Tümü 5-1rem
+- `.shadow-5-1` - Kutu Gölgesi Tümü 0 0 5rem 2rem
 - `.shadow-4` - Kutu Gölgesi Tümü 4rem
-- `.shadow-4-1` - Kutu Gölgesi Tümü 4-1rem
+- `.shadow-4-1` - Kutu Gölgesi Tümü 0 0 4rem 2rem
 - `.shadow-3` - Kutu Gölgesi Tümü 3rem
-- `.shadow-3-1` - Kutu Gölgesi Tümü 3-1rem
+- `.shadow-3-1` - Kutu Gölgesi Tümü 0 0 3rem 2rem
 - `.shadow-2` - Kutu Gölgesi Tümü 2rem
-- `.shadow-2-1` - Kutu Gölgesi Tümü 2-1rem
+- `.shadow-2-1` - Kutu Gölgesi Tümü 0 0 2rem 2rem
 - `.shadow-1` - Kutu Gölgesi Tümü 1rem
-- `.shadow-1-1` - Kutu Gölgesi Tümü 1-1rem
+- `.shadow-1-1` - Kutu Gölgesi Tümü 0 0 1rem 2rem
 - `.shadow-none` - Kutu Gölgesi Hepsi hiçbiri
 
 #### Box Shadow Bottom
@@ -5046,18 +5045,18 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Blur
 
-- `.blur-5` - Bulanıklaştırma 5rem
-- `.blur-4` - Bulanıklaştırma 4rem
-- `.blur-3` - Bulanıklaştırma 3rem
-- `.blur-2` - Bulanıklaştırma 2rem
-- `.blur-1` - Bulanıklaştırma 1rem
-- `.blur-0` - Bulanıklaştırma 0rem
-- `.hover:blur-5` - Fareyle üzerine gelindiğinde 5rem bulanıklaştır
-- `.hover:blur-4` - Fareyle üzerine gelindiğinde 4rem bulanıklaştırma
-- `.hover:blur-3` - Fareyle üzerine gelindiğinde 3rem bulanıklaştırma
-- `.hover:blur-2` - Fareyle üzerine gelindiğinde 2rem bulanıklaştır
-- `.hover:blur-1` - Fareyle üzerine gelindiğinde 1 rem bulanıklaştır
-- `.hover:blur-0` - Fareyle üzerine gelindiğinde 0rem bulanıklaştır
+- `.blur-5` - Bulanıklaştırma 24px
+- `.blur-4` - Bulanıklaştırma 16px
+- `.blur-3` - Bulanıklaştırma 12px
+- `.blur-2` - Bulanıklaştırma 8px
+- `.blur-1` - Bulanıklaştırma 4px
+- `.blur-0` - Bulanıklaştırma 0px
+- `.hover:blur-5` - Fareyle üzerine gelindiğinde 24px bulanıklaştır
+- `.hover:blur-4` - Fareyle üzerine gelindiğinde 16px bulanıklaştırma
+- `.hover:blur-3` - Fareyle üzerine gelindiğinde 12px bulanıklaştırma
+- `.hover:blur-2` - Fareyle üzerine gelindiğinde 8px bulanıklaştır
+- `.hover:blur-1` - Fareyle üzerine gelindiğinde 4px bulanıklaştır
+- `.hover:blur-0` - Fareyle üzerine gelindiğinde 0px bulanıklaştır
 
 ### Opacity
 
@@ -5108,111 +5107,111 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Rotate
 
-- `.hover:rotate-180` - Fareyle üzerine gelindiğinde 180rem döndürün
-- `.hover:rotate-135` - Fareyle üzerine gelindiğinde 135rem döndürün
-- `.hover:rotate-90` - Fareyle üzerine gelindiğinde 90rem döndürün
-- `.hover:rotate-45` - Fareyle üzerine gelindiğinde 45rem döndürün
-- `.hover:rotate-12` - Fareyle üzerine gelindiğinde 12rem döndür
-- `.hover:rotate-9` - Fareyle üzerine gelindiğinde 9rem döndür
-- `.hover:rotate-6` - Fareyle üzerine gelindiğinde 6rem döndür
-- `.hover:rotate-3` - Fareyle üzerine gelindiğinde 3rem döndür
-- `.hover:rotate-0` - Fareyle üzerine gelindiğinde 0rem döndür
-- `.rotate-180` - 180rem döndür
-- `.rotate-135` - 135rem döndür
-- `.rotate-90` - 90rem döndür
-- `.rotate-45` - 45rem döndür
-- `.rotate-12` - 12rem döndür
-- `.rotate-9` - 9rem döndür
-- `.rotate-6` - 6rem döndür
-- `.rotate-3` - 3rem döndür
-- `.rotate-0` - 0rem döndür
+- `.hover:rotate-180` - Fareyle üzerine gelindiğinde 180deg döndürün
+- `.hover:rotate-135` - Fareyle üzerine gelindiğinde 135deg döndürün
+- `.hover:rotate-90` - Fareyle üzerine gelindiğinde 90deg döndürün
+- `.hover:rotate-45` - Fareyle üzerine gelindiğinde 45deg döndürün
+- `.hover:rotate-12` - Fareyle üzerine gelindiğinde 12deg döndür
+- `.hover:rotate-9` - Fareyle üzerine gelindiğinde 9deg döndür
+- `.hover:rotate-6` - Fareyle üzerine gelindiğinde 6deg döndür
+- `.hover:rotate-3` - Fareyle üzerine gelindiğinde 3deg döndür
+- `.hover:rotate-0` - Fareyle üzerine gelindiğinde 0deg döndür
+- `.rotate-180` - 180deg döndür
+- `.rotate-135` - 135deg döndür
+- `.rotate-90` - 90deg döndür
+- `.rotate-45` - 45deg döndür
+- `.rotate-12` - 12deg döndür
+- `.rotate-9` - 9deg döndür
+- `.rotate-6` - 6deg döndür
+- `.rotate-3` - 3deg döndür
+- `.rotate-0` - 0deg döndür
 
 ##### Negative Rotate
 
-- `.-rotate-180` - Negatif Döndürme 180rem
-- `.-rotate-135` - Negatif Döndürme 135rem
-- `.-rotate-90` - Negatif Döndürme 90rem
-- `.-rotate-45` - Negatif Döndürme 45rem
-- `.-rotate-12` - Negatif Döndürme 12rem
-- `.-rotate-9` - Negatif Döndürme 9rem
-- `.-rotate-6` - Negatif Döndürme 6rem
-- `.-rotate-3` - Negatif Döndürme 3rem
-- `.hover:-rotate-180` - Fareyle üzerine gelindiğinde 180rem Negatif Döndürme
-- `.hover:-rotate-135` - Fareyle üzerine gelindiğinde 135rem Negatif Döndürme
-- `.hover:-rotate-90` - Fareyle üzerine gelindiğinde 90rem Negatif Döndürme
-- `.hover:-rotate-45` - Fareyle üzerine gelindiğinde 45rem Negatif Döndürme
-- `.hover:-rotate-12` - Fareyle üzerine gelindiğinde 12rem Negatif Döndürme
-- `.hover:-rotate-9` - Fareyle üzerine gelindiğinde 9rem Negatif Döndürme
-- `.hover:-rotate-6` - Vurguluyken 6rem Negatif Döndürme
-- `.hover:-rotate-3` - Vurguluyken 3rem Negatif Döndürme
+- `.-rotate-180` - Negatif Döndürme 180deg
+- `.-rotate-135` - Negatif Döndürme 135deg
+- `.-rotate-90` - Negatif Döndürme 90deg
+- `.-rotate-45` - Negatif Döndürme 45deg
+- `.-rotate-12` - Negatif Döndürme 12deg
+- `.-rotate-9` - Negatif Döndürme 9deg
+- `.-rotate-6` - Negatif Döndürme 6deg
+- `.-rotate-3` - Negatif Döndürme 3deg
+- `.hover:-rotate-180` - Fareyle üzerine gelindiğinde 180deg Negatif Döndürme
+- `.hover:-rotate-135` - Fareyle üzerine gelindiğinde 135deg Negatif Döndürme
+- `.hover:-rotate-90` - Fareyle üzerine gelindiğinde 90deg Negatif Döndürme
+- `.hover:-rotate-45` - Fareyle üzerine gelindiğinde 45deg Negatif Döndürme
+- `.hover:-rotate-12` - Fareyle üzerine gelindiğinde 12deg Negatif Döndürme
+- `.hover:-rotate-9` - Fareyle üzerine gelindiğinde 9deg Negatif Döndürme
+- `.hover:-rotate-6` - Vurguluyken 6deg Negatif Döndürme
+- `.hover:-rotate-3` - Vurguluyken 3deg Negatif Döndürme
 
 ### Skew
 
 #### Skew X-Axis
 
-- `.hover:skew-x-12` - Fareyle üzerine gelindiğinde X Ekseni'ni 12rem eğme
-- `.hover:skew-x-6` - Fareyle üzerine gelindiğinde X Ekseni'ni 6rem eğme
-- `.hover:skew-x-3` - Fareyle üzerine gelindiğinde X Ekseni'ni 3rem eğme
-- `.hover:skew-x-0` - Fareyle üzerine gelindiğinde X Ekseni'ni 0rem eğme
-- `.skew-x-12` - Eğik X Ekseni 12rem
-- `.skew-x-6` - Eğik X Ekseni 6rem
-- `.skew-x-3` - Eğik X Ekseni 3rem
-- `.skew-x-0` - X Ekseni Eğriltme 0rem
+- `.hover:skew-x-12` - Fareyle üzerine gelindiğinde X Ekseni'ni 12deg eğme
+- `.hover:skew-x-6` - Fareyle üzerine gelindiğinde X Ekseni'ni 6deg eğme
+- `.hover:skew-x-3` - Fareyle üzerine gelindiğinde X Ekseni'ni 3deg eğme
+- `.hover:skew-x-0` - Fareyle üzerine gelindiğinde X Ekseni'ni 0deg eğme
+- `.skew-x-12` - Eğik X Ekseni 12deg
+- `.skew-x-6` - Eğik X Ekseni 6deg
+- `.skew-x-3` - Eğik X Ekseni 3deg
+- `.skew-x-0` - X Ekseni Eğriltme 0deg
 
 ##### Negative Skew X-Axis
 
-- `.-skew-x-12` - Negatif Eğimli X Ekseni 12rem
-- `.-skew-x-6` - Negatif Eğimli X Ekseni 6rem
-- `.-skew-x-3` - Negatif Eğimli X Ekseni 3rem
-- `.hover:-skew-x-12` - Negatif Eğik X Ekseni 12rem fareyle üzerine gelindiğinde
-- `.hover:-skew-x-6` - Negatif Eğik X Ekseni 6rem fareyle üzerine gelindiğinde
-- `.hover:-skew-x-3` - Negatif Eğik X Ekseni 3rem fareyle üzerine gelindiğinde
+- `.-skew-x-12` - Negatif Eğimli X Ekseni 12deg
+- `.-skew-x-6` - Negatif Eğimli X Ekseni 6deg
+- `.-skew-x-3` - Negatif Eğimli X Ekseni 3deg
+- `.hover:-skew-x-12` - Negatif Eğik X Ekseni 12deg fareyle üzerine gelindiğinde
+- `.hover:-skew-x-6` - Negatif Eğik X Ekseni 6deg fareyle üzerine gelindiğinde
+- `.hover:-skew-x-3` - Negatif Eğik X Ekseni 3deg fareyle üzerine gelindiğinde
 
 #### Skew Y-Axis
 
-- `.hover:skew-y-12` - Fareyle üzerine gelindiğinde Y Ekseni'ni 12rem eğme
-- `.hover:skew-y-6` - Fareyle üzerine gelindiğinde Y Ekseni'ni 6rem eğme
-- `.hover:skew-y-3` - Fareyle üzerine gelindiğinde Y Ekseni'ni 3rem eğme
-- `.hover:skew-y-0` - Fareyle üzerine gelindiğinde Y Eksenini 0rem eğme
-- `.skew-y-12` - Eğik Y Ekseni 12rem
-- `.skew-y-6` - Eğik Y Ekseni 6rem
-- `.skew-y-3` - Eğik Y Ekseni 3rem
-- `.skew-y-0` - Eğik Y Ekseni 0rem
+- `.hover:skew-y-12` - Fareyle üzerine gelindiğinde Y Ekseni'ni 12deg eğme
+- `.hover:skew-y-6` - Fareyle üzerine gelindiğinde Y Ekseni'ni 6deg eğme
+- `.hover:skew-y-3` - Fareyle üzerine gelindiğinde Y Ekseni'ni 3deg eğme
+- `.hover:skew-y-0` - Fareyle üzerine gelindiğinde Y Eksenini 0deg eğme
+- `.skew-y-12` - Eğik Y Ekseni 12deg
+- `.skew-y-6` - Eğik Y Ekseni 6deg
+- `.skew-y-3` - Eğik Y Ekseni 3deg
+- `.skew-y-0` - Eğik Y Ekseni 0deg
 
 ##### Negative Skew Y-Axis
 
-- `.-skew-y-12` - Negatif Eğik Y Ekseni 12rem
-- `.-skew-y-6` - Negatif Eğik Y Ekseni 6rem
-- `.-skew-y-3` - Negatif Eğik Y Ekseni 3rem
-- `.hover:-skew-y-12` - Vurguluyken Negatif Eğik Y Ekseni 12rem
-- `.hover:-skew-y-6` - Vurguluyken Negatif Eğik Y Ekseni 6rem
-- `.hover:-skew-y-3` - Negatif Eğik Y Ekseni 3rem fareyle üzerine gelindiğinde
+- `.-skew-y-12` - Negatif Eğik Y Ekseni 12deg
+- `.-skew-y-6` - Negatif Eğik Y Ekseni 6deg
+- `.-skew-y-3` - Negatif Eğik Y Ekseni 3deg
+- `.hover:-skew-y-12` - Vurguluyken Negatif Eğik Y Ekseni 12deg
+- `.hover:-skew-y-6` - Vurguluyken Negatif Eğik Y Ekseni 6deg
+- `.hover:-skew-y-3` - Negatif Eğik Y Ekseni 3deg fareyle üzerine gelindiğinde
 
 ### Translate
 
-- `.hover:translate-50` - Fareyle üzerine gelindiğinde 50rem'i çevirin
-- `.hover:translate-25` - Fareyle üzerine gelindiğinde 25rem'i çevirin
-- `.translate-50` - 50rem'i çevir
-- `.translate-25` - 25rem'i çevir
+- `.hover:translate-50` - Fareyle üzerine gelindiğinde %50 çevirin
+- `.hover:translate-25` - Fareyle üzerine gelindiğinde %25 çevirin
+- `.translate-50` - %50 çevir
+- `.translate-25` - %25 çevir
 
 ##### Negative Translate
 
-- `.-translate-50` - Negatif Çevirme 50rem
-- `.-translate-25` - Negatif Çevirme 25rem
-- `.hover:-translate-50` - Negatif Çevirme 50rem fareyle üzerine gelindiğinde
-- `.hover:-translate-25` - Negatif Çevirme 25rem fareyle üzerine gelindiğinde
+- `.-translate-50` - Negatif Çevirme %50
+- `.-translate-25` - Negatif Çevirme %25
+- `.hover:-translate-50` - Negatif Çevirme %50 fareyle üzerine gelindiğinde
+- `.hover:-translate-25` - Negatif Çevirme %25 fareyle üzerine gelindiğinde
 
 #### Translate X-Axis
 
-- `.hover:translate-x-50` - Fareyle üzerine gelindiğinde X Ekseni 50rem'i çevirin
-- `.hover:translate-x-25` - Fareyle üzerine gelindiğinde X Ekseni 25rem'i çevirin
+- `.hover:translate-x-50` - Fareyle üzerine gelindiğinde X Ekseni %50 çevirin
+- `.hover:translate-x-25` - Fareyle üzerine gelindiğinde X Ekseni %25 çevirin
 - `.hover:translate-x-2` - Fareyle üzerine gelindiğinde X Ekseni 2rem'i çevirin
 - `.hover:translate-x-1.5` - Fareyle üzerine gelindiğinde X Ekseni 0rem'i çevirin
 - `.hover:translate-x-1` - Fareyle üzerine gelindiğinde X Ekseni 1rem'i çevirin
 - `.hover:translate-x-0.5` - Fareyle üzerine gelindiğinde X Ekseni 0,5rem'i çevirin
 - `.hover:translate-x-0` - Fareyle üzerine gelindiğinde X Ekseni 0rem'i çevirin
-- `.translate-x-50` - X Ekseni 50rem'i çevir
-- `.translate-x-25` - X Ekseni 25rem'i çevir
+- `.translate-x-50` - X Ekseni %50 çevir
+- `.translate-x-25` - X Ekseni %25 çevir
 - `.translate-x-2` - X Ekseni 2rem'i çevir
 - `.translate-x-1.5` - X Ekseni 0rem'i Çevir
 - `.translate-x-1` - X Ekseni 1rem'i Çevir
@@ -5221,14 +5220,14 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ##### Negative Translate X-Axis
 
-- `.-translate-x-50` - Negatif Çevirme X Ekseni 50rem
-- `.-translate-x-25` - Negatif Öteleme X Ekseni 25rem
+- `.-translate-x-50` - Negatif Çevirme X Ekseni %50
+- `.-translate-x-25` - Negatif Öteleme X Ekseni %25
 - `.-translate-x-2` - Negatif Öteleme X Ekseni 2rem
 - `.-translate-x-1.5` - Negatif Öteleme X Ekseni 1,5rem
 - `.-translate-x-1` - Negatif Öteleme X Ekseni 1rem
 - `.-translate-x-0.5` - Negatif Öteleme X Ekseni 0,5rem
-- `.hover:-translate-x-50` - Negatif Çevirme X Ekseni 50rem fareyle üzerine gelindiğinde
-- `.hover:-translate-x-25` - Negatif Çevirme X Ekseni 25rem fareyle üzerine gelindiğinde
+- `.hover:-translate-x-50` - Negatif Çevirme X Ekseni %50 fareyle üzerine gelindiğinde
+- `.hover:-translate-x-25` - Negatif Çevirme X Ekseni %25 fareyle üzerine gelindiğinde
 - `.hover:-translate-x-2` - Negatif Çevirme X Ekseni 2rem fareyle üzerine gelindiğinde
 - `.hover:-translate-x-1.5` - Negatif Çevirme X Ekseni 1,5rem fareyle üzerine gelindiğinde
 - `.hover:-translate-x-1` - Negatif Çevirme X Ekseni 1rem fareyle üzerine gelindiğinde
@@ -5236,15 +5235,15 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Translate Y-Axis
 
-- `.hover:translate-y-50` - Fareyle üzerine gelindiğinde Y Eksenini 50rem çevir
-- `.hover:translate-y-25` - Fareyle üzerine gelindiğinde Y Ekseni 25rem'i çevirin
+- `.hover:translate-y-50` - Fareyle üzerine gelindiğinde Y Eksenini %50 çevir
+- `.hover:translate-y-25` - Fareyle üzerine gelindiğinde Y Ekseni %25 çevirin
 - `.hover:translate-y-2` - Fareyle üzerine gelindiğinde Y Ekseni 2rem'i çevirin
 - `.hover:translate-y-1.5` - Fareyle üzerine gelindiğinde Y Ekseni 0rem'i çevirin
 - `.hover:translate-y-1` - Fareyle üzerine gelindiğinde Y Ekseni 1rem'i çevirin
 - `.hover:translate-y-0.5` - Fareyle üzerine gelindiğinde Y Ekseni 0,5rem'i çevirin
 - `.hover:translate-y-0` - Fareyle üzerine gelindiğinde Y Ekseni 0rem'i çevirin
-- `.translate-y-50` - Y Ekseni 50rem'i Çevir
-- `.translate-y-25` - Y Ekseni 25rem'i Çevir
+- `.translate-y-50` - Y Ekseni %50 Çevir
+- `.translate-y-25` - Y Ekseni %25 Çevir
 - `.translate-y-2` - Y Ekseni 2rem'i Çevir
 - `.translate-y-1.5` - Y Ekseni 0rem'i Çevir
 - `.translate-y-1` - Y Ekseni 1rem'i Çevir
@@ -5253,14 +5252,14 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ##### Negative Translate Y-Axis
 
-- `.-translate-y-50` - Negatif Çevirme Y Ekseni 50rem
-- `.-translate-y-25` - Negatif Çevirme Y Ekseni 25rem
+- `.-translate-y-50` - Negatif Çevirme Y Ekseni %50
+- `.-translate-y-25` - Negatif Çevirme Y Ekseni %25
 - `.-translate-y-2` - Negatif Öteleme Y Ekseni 2rem
 - `.-translate-y-1.5` - Negatif Çevirme Y Ekseni 1,5rem
 - `.-translate-y-1` - Negatif Öteleme Y Ekseni 1rem
 - `.-translate-y-0.5` - Negatif Çevirme Y Ekseni 0,5rem
-- `.hover:-translate-y-50` - Negatif Çevirme Y Ekseni 50rem fareyle üzerine gelindiğinde
-- `.hover:-translate-y-25` - Negatif Çevirme Y Ekseni 25rem fareyle üzerine gelindiğinde
+- `.hover:-translate-y-50` - Negatif Çevirme Y Ekseni %50 fareyle üzerine gelindiğinde
+- `.hover:-translate-y-25` - Negatif Çevirme Y Ekseni %25 fareyle üzerine gelindiğinde
 - `.hover:-translate-y-2` - Negatif Çevirme Y Ekseni 2rem fareyle üzerine gelindiğinde
 - `.hover:-translate-y-1.5` - Negatif Çevirme Y Ekseni 1,5rem fareyle üzerine gelindiğinde
 - `.hover:-translate-y-1` - Negatif Çevirme Y Ekseni 1rem fareyle üzerine gelindiğinde
@@ -5269,10 +5268,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 ### Zoom
 
 - `.hover:zoom` - Vurguluyken yakınlaştır
-- `.hover:zoom-2` - Vurguluyken 2rem yakınlaştır
-- `.hover:zoom-1.5` - Fareyle üzerine gelindiğinde 1,5 rem yakınlaştırma
+- `.hover:zoom-2` - Vurguluyken 2 yakınlaştır
+- `.hover:zoom-1.5` - Fareyle üzerine gelindiğinde 1,5 yakınlaştırma
 - `.zoom` - Yakınlaştır
-- `.zoom-2` - Yakınlaştırma 2rem
+- `.zoom-2` - Yakınlaştırma 2
 - `.zoom-1.5` - Yakınlaştırma 1,5
 
 ## Colors
@@ -5354,19 +5353,19 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Content
 
-- `.content-3` - İçerik 3rem
-- `.content-3-bg` - İçerik 3-bgrem
-- `.content-2` - İçerik 2rem
-- `.content-2-bg` - İçerik 2-bgrem
-- `.content-2-text` - İçerik 2 metin
-- `.content-1` - İçerik 1rem
-- `.content-1-bg` - İçerik 1-bgrem
-- `.content-1-text` - İçerik 1 metin
-- `.hover:content-3-bg` - İçerik 3-bgrem fareyle üzerine gelindiğinde
-- `.hover:content-2-bg` - İçerik 2-bgrem fareyle üzerine gelindiğinde
-- `.hover:content-2-text` - İçerik üzerine gelindiğinde 2 metin
-- `.hover:content-1-bg` - İçerik 1-bgrem fareyle üzerine gelindiğinde
-- `.hover:content-1-text` - Fareyle üzerine gelindiğinde içerik 1 metin
+- `.content-3` - İçerik 3
+- `.content-3-bg` - İçerik 3-bg
+- `.content-2` - İçerik 2
+- `.content-2-bg` - İçerik 2-bg
+- `.content-2-text` - İçerik 2-text
+- `.content-1` - İçerik 1
+- `.content-1-bg` - İçerik 1-bg
+- `.content-1-text` - İçerik 1-text
+- `.hover:content-3-bg` - İçerik 3-bg fareyle üzerine gelindiğinde
+- `.hover:content-2-bg` - İçerik 2-bg fareyle üzerine gelindiğinde
+- `.hover:content-2-text` - İçerik üzerine gelindiğinde 2-text
+- `.hover:content-1-bg` - İçerik 1-bg fareyle üzerine gelindiğinde
+- `.hover:content-1-text` - Fareyle üzerine gelindiğinde içerik 1-text
 
 ### Dir
 
@@ -5386,12 +5385,6 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mse-0.5` - Mse 0,5rem
 - `.mse-0` - Mse 0rem
 
-### Other
-
-##### Other - undefined
-
-- `.hover:px-3.5` - Diğer fareyle px 3.5'in üzerine gelindiğinde
-
 ### Visibility
 
 - `.hover:v-hide` - Fareyle üzerine gelindiğinde görünürlük gizlendi
@@ -5399,7 +5392,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.v-hide` - Görünürlük gizlendi
 - `.v-show` - Görünürlük görünür
 
-##### Visibility - Mobile (< 480px)
+##### Visibility - Mobile (≤ 480px)
 
 - `.hover:mobile:v-hide` - Mobil cihazda fareyle üzerine gelindiğinde görünürlük gizlendi
 - `.hover:mobile:v-show` - Mobil cihazda fareyle üzerine gelindiğinde görünürlük
@@ -5427,28 +5420,28 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:v-hide` - Görünürlük bilgisayarda gizlendi
 - `.pc:v-show` - PC'de görünürlük
 
-##### Visibility - Tv (> 1200px)
+##### Visibility - Tv (≥ 1200px)
 
 - `.hover:tv:v-hide` - Televizyonun üzerine gelindiğinde görünürlük gizlendi
 - `.hover:tv:v-show` - Televizyonun üzerine gelindiğinde görünürlük
 - `.tv:v-hide` - Görünürlük televizyonda gizlendi
 - `.tv:v-show` - TV'de görünürlük
 
-##### Visibility - Tablet Max (< 768px)
+##### Visibility - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:v-hide` - Maksimum tablette fareyle üzerine gelindiğinde görünürlük gizlendi
 - `.hover:tablet-max:v-show` - Maksimum tabletin üzerine gelindiğinde görünürlük
 - `.tablet-max:v-hide` - Tablet max'te görünürlük gizlendi
 - `.tablet-max:v-show` - Görünürlük tablet max'ta görünür
 
-##### Visibility - Tablet Pc Max (< 992px)
+##### Visibility - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:v-hide` - Tablet PC Max'te fareyle üzerine gelindiğinde görünürlük gizlendi
 - `.hover:tablet-pc-max:v-show` - Tablet PC max'ta fareyle üzerine gelindiğinde görünürlük
 - `.tablet-pc-max:v-hide` - Tablet PC Max'te görünürlük gizlendi
 - `.tablet-pc-max:v-show` - Tablet PC max'ta görünürlük
 
-##### Visibility - Pc Max (< 1200px)
+##### Visibility - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:v-hide` - PC max'ta fareyle üzerine gelindiğinde görünürlük gizlendi
 - `.hover:pc-max:v-show` - PC max'ta fareyle üzerine gelindiğinde görünürlük

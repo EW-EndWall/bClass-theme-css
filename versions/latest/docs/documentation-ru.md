@@ -114,7 +114,6 @@
 - [Content](#content)
 - [Dir](#dir)
 - [Mse](#mse)
-- [Other](#other)
 - [Visibility](#visibility)
 - [Customization](#customization)
 - [License](#license)
@@ -157,7 +156,7 @@
 - `.hover:d-inline-flex` - Отображать inline-flex при наведении
 - `.hover:d-none` - Не отображать ничего при наведении
 
-##### Display - Mobile (< 480px)
+##### Display - Mobile (≤ 480px)
 
 - `.hover:mobile:d-block` - Блок отображения при наведении на мобильном телефоне
 - `.hover:mobile:d-flex` - Гибкий дисплей при наведении на мобильном устройстве
@@ -225,7 +224,7 @@
 - `.pc:d-inline-grid` - Отображение встроенной сетки на ПК
 - `.pc:d-none` - Не отображать ничего на ПК
 
-##### Display - Tv (> 1200px)
+##### Display - Tv (≥ 1200px)
 
 - `.hover:tv:d-block` - Блок отображения при наведении на телевизор
 - `.hover:tv:d-flex` - Гибкий дисплей при наведении на телевизор
@@ -242,7 +241,7 @@
 - `.tv:d-inline-grid` - Отображение встроенной сетки на телевизоре
 - `.tv:d-none` - Ничего не показывать на телевизоре
 
-##### Display - Tablet Max (< 768px)
+##### Display - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:d-block` - Блок отображения при наведении на планшет макс.
 - `.hover:tablet-max:d-flex` - Гибкий дисплей при наведении на планшет макс.
@@ -259,7 +258,7 @@
 - `.tablet-max:d-inline-grid` - Отображение встроенной сетки на планшете Max
 - `.tablet-max:d-none` - Ничего не отображать на планшете Max
 
-##### Display - Tablet Pc Max (< 992px)
+##### Display - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:d-block` - Блок отображения при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:d-flex` - Гибкий дисплей при наведении на планшетный ПК макс.
@@ -276,7 +275,7 @@
 - `.tablet-pc-max:d-inline-grid` - Отображение встроенной сетки на планшетном ПК макс.
 - `.tablet-pc-max:d-none` - Отображать нет на планшетном ПК макс.
 
-##### Display - Pc Max (< 1200px)
+##### Display - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:d-block` - Блок отображения при наведении на ПК макс.
 - `.hover:pc-max:d-flex` - Гибкий дисплей при наведении на ПК макс.
@@ -306,7 +305,7 @@
 - `.hover:float-right` - Плавать прямо при наведении
 - `.hover:float-start` - Плавающий запуск при наведении
 
-##### Float - Mobile (< 480px)
+##### Float - Mobile (≤ 480px)
 
 - `.hover:mobile:float-end` - Плавающее завершение при наведении курсора на мобильном телефоне
 - `.hover:mobile:float-left` - Поплавок влево при наведении на мобильном телефоне
@@ -358,7 +357,7 @@
 - `.pc:float-right` - Плавайте прямо на ПК
 - `.pc:float-start` - Плавающий запуск на ПК
 
-##### Float - Tv (> 1200px)
+##### Float - Tv (≥ 1200px)
 
 - `.hover:tv:float-end` - Плавающее завершение при наведении на телевизор
 - `.hover:tv:float-left` - Плавать влево при наведении на телевизор
@@ -371,7 +370,7 @@
 - `.tv:float-right` - Плавайте прямо по телевизору
 - `.tv:float-start` - Плавающий запуск на телевизоре
 
-##### Float - Tablet Max (< 768px)
+##### Float - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:float-end` - Плавающий конец при наведении на планшет макс.
 - `.hover:tablet-max:float-left` - Поплавок влево при наведении на планшете максимум
@@ -384,7 +383,7 @@
 - `.tablet-max:float-right` - Плавающее право на планшете Max
 - `.tablet-max:float-start` - Плавающий запуск на планшете Max
 
-##### Float - Tablet Pc Max (< 992px)
+##### Float - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:float-end` - Плавающий конец при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:float-left` - Поплавок влево при наведении на планшетном ПК макс.
@@ -397,7 +396,7 @@
 - `.tablet-pc-max:float-right` - Плавать прямо на планшетном ПК макс.
 - `.tablet-pc-max:float-start` - Плавающий запуск на планшетном ПК макс.
 
-##### Float - Pc Max (< 1200px)
+##### Float - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:float-end` - Плавающий конец при наведении на ПК макс.
 - `.hover:pc-max:float-left` - Поплавок влево при наведении на ПК макс.
@@ -423,7 +422,7 @@
 - `.object-none` - Объект нет
 - `.object-scale` - Масштаб объекта
 
-##### Object - Mobile (< 480px)
+##### Object - Mobile (≤ 480px)
 
 - `.hover:mobile:object-contain` - Объект содержится при наведении на мобильный телефон
 - `.hover:mobile:object-cover` - Закрытие объекта при наведении на мобильном телефоне
@@ -475,7 +474,7 @@
 - `.pc:object-none` - Объект отсутствует на ПК
 - `.pc:object-scale` - Масштаб объекта на ПК
 
-##### Object - Tv (> 1200px)
+##### Object - Tv (≥ 1200px)
 
 - `.hover:tv:object-contain` - Объект содержится при наведении на телевизор
 - `.hover:tv:object-cover` - Закрытие объекта при наведении на телевизоре
@@ -488,7 +487,7 @@
 - `.tv:object-none` - Объект нет по телевизору
 - `.tv:object-scale` - Масштаб объекта на телевизоре
 
-##### Object - Tablet Max (< 768px)
+##### Object - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:object-contain` - Объект содержится при наведении на планшет макс.
 - `.hover:tablet-max:object-cover` - Закрытие объекта при наведении на планшет макс.
@@ -501,7 +500,7 @@
 - `.tablet-max:object-none` - Объект отсутствует на планшете Max
 - `.tablet-max:object-scale` - Масштаб объекта на планшете макс.
 
-##### Object - Tablet Pc Max (< 992px)
+##### Object - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:object-contain` - Объект содержится при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:object-cover` - Покрытие объекта при наведении на планшетный ПК макс.
@@ -514,7 +513,7 @@
 - `.tablet-pc-max:object-none` - Объект отсутствует на планшетном ПК Макс.
 - `.tablet-pc-max:object-scale` - Масштаб объекта на планшетном ПК макс.
 
-##### Object - Pc Max (< 1200px)
+##### Object - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:object-contain` - Объект содержится при наведении на ПК макс.
 - `.hover:pc-max:object-cover` - Закрытие объекта при наведении на ПК макс
@@ -575,7 +574,7 @@
 - `.hover:flex-row` - Гибкая строка при наведении
 - `.hover:flex-wrap` - Гибкая упаковка при наведении
 
-##### Flex - Mobile (< 480px)
+##### Flex - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col` - Flex Col при наведении на мобильном телефоне
 - `.hover:mobile:flex-nowrap` - Flex nowrap при наведении на мобильном телефоне
@@ -619,7 +618,7 @@
 - `.pc:flex-row` - Гибкая строка на ПК
 - `.pc:flex-wrap` - Гибкая пленка на ПК
 
-##### Flex - Tv (> 1200px)
+##### Flex - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col` - Flex Col при наведении на телевизор
 - `.hover:tv:flex-nowrap` - Flex nowrap при наведении на телевизор
@@ -630,7 +629,7 @@
 - `.tv:flex-row` - Flex Row по телевизору
 - `.tv:flex-wrap` - Гибкая пленка на телевизоре
 
-##### Flex - Tablet Max (< 768px)
+##### Flex - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col` - Flex Col при наведении на планшете Max
 - `.hover:tablet-max:flex-nowrap` - Flex Nowrap при наведении на планшете Max
@@ -641,7 +640,7 @@
 - `.tablet-max:flex-row` - Flex row на планшете Max
 - `.tablet-max:flex-wrap` - Гибкая пленка на планшете Max
 
-##### Flex - Tablet Pc Max (< 992px)
+##### Flex - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col` - Flex Col при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:flex-nowrap` - Flex Nowrap при наведении на планшетный ПК макс.
@@ -652,7 +651,7 @@
 - `.tablet-pc-max:flex-row` - Flex row на планшетном ПК макс.
 - `.tablet-pc-max:flex-wrap` - Гибкая пленка на планшетном ПК макс.
 
-##### Flex - Pc Max (< 1200px)
+##### Flex - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col` - Flex Col при наведении на ПК макс.
 - `.hover:pc-max:flex-nowrap` - Flex Nowrap при наведении на ПК макс.
@@ -668,7 +667,7 @@
 - `.flex-col-reverse` - Гибкая колонка реверс
 - `.hover:flex-col-reverse` - Flex Col переворачивается при наведении
 
-##### Flex col - Mobile (< 480px)
+##### Flex col - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col-reverse` - Flex Col переворачивается при наведении на мобильном телефоне
 - `.mobile:flex-col-reverse` - Flex Col Reverse на мобильном телефоне
@@ -688,22 +687,22 @@
 - `.hover:pc:flex-col-reverse` - Flex Col переворачивается при наведении на ПК
 - `.pc:flex-col-reverse` - Flex Col Reverse на ПК
 
-##### Flex col - Tv (> 1200px)
+##### Flex col - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col-reverse` - Flex Col переворачивается при наведении на телевизор
 - `.tv:flex-col-reverse` - Flex Col Reverse на телевизоре
 
-##### Flex col - Tablet Max (< 768px)
+##### Flex col - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - Flex Col Reverse при наведении на планшете Max
 - `.tablet-max:flex-col-reverse` - Flex Col Reverse на планшете Max
 
-##### Flex col - Tablet Pc Max (< 992px)
+##### Flex col - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - Flex Col Reverse при наведении на планшетный ПК макс.
 - `.tablet-pc-max:flex-col-reverse` - Flex Col Reverse на планшетном ПК макс.
 
-##### Flex col - Pc Max (< 1200px)
+##### Flex col - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - Flex Col Reverse при наведении на ПК макс.
 - `.pc-max:flex-col-reverse` - Flex Col Reverse на ПК Макс.
@@ -713,7 +712,7 @@
 - `.flex-row-reverse` - Гибкая строка в обратном направлении
 - `.hover:flex-row-reverse` - Изменение направления строки при наведении
 
-##### Flex row - Mobile (< 480px)
+##### Flex row - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-row-reverse` - Изменение направления строки при наведении на мобильном устройстве
 - `.mobile:flex-row-reverse` - Изменение направления гибкой строки на мобильном устройстве
@@ -733,131 +732,131 @@
 - `.hover:pc:flex-row-reverse` - Изменение направления строки при наведении на ПК
 - `.pc:flex-row-reverse` - Реверс гибкой строки на ПК
 
-##### Flex row - Tv (> 1200px)
+##### Flex row - Tv (≥ 1200px)
 
 - `.hover:tv:flex-row-reverse` - Изменение положения строки при наведении на телевизор
 - `.tv:flex-row-reverse` - Flex Row обратный по телевизору
 
-##### Flex row - Tablet Max (< 768px)
+##### Flex row - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - Гибкая обратная строка при наведении на планшет макс.
 - `.tablet-max:flex-row-reverse` - Реверс гибкой строки на планшете Max
 
-##### Flex row - Tablet Pc Max (< 992px)
+##### Flex row - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - Реверс гибкой строки при наведении на планшетный ПК макс.
 - `.tablet-pc-max:flex-row-reverse` - Flex Row Reverse на планшетном ПК макс.
 
-##### Flex row - Pc Max (< 1200px)
+##### Flex row - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - Гибкая обратная строка при наведении на ПК макс.
 - `.pc-max:flex-row-reverse` - Обратная строка Flex на ПК Макс.
 
 ### Flex grow
 
-- `.flex-grow-3` - Flex Grow 3рем
-- `.flex-grow-2` - Flex Grow 2рем
-- `.flex-grow-1` - Гибкий рост 1рем
-- `.flex-grow-0` - Flex растет 0рем
-- `.hover:flex-grow-3` - Flex Grow 3rem при наведении
-- `.hover:flex-grow-2` - Flex растет на 2rem при наведении
-- `.hover:flex-grow-1` - Flex растет на 1рем при наведении
-- `.hover:flex-grow-0` - Flex растет на 0rem при наведении
+- `.flex-grow-3` - Flex Grow 3
+- `.flex-grow-2` - Flex Grow 2
+- `.flex-grow-1` - Гибкий рост 1
+- `.flex-grow-0` - Flex растет 0
+- `.hover:flex-grow-3` - Flex Grow 3 при наведении
+- `.hover:flex-grow-2` - Flex растет на 2 при наведении
+- `.hover:flex-grow-1` - Flex растет на 1 при наведении
+- `.hover:flex-grow-0` - Flex растет на 0 при наведении
 
-##### Flex grow - Mobile (< 480px)
+##### Flex grow - Mobile (≤ 480px)
 
-- `.hover:mobile:flex-grow-3` - Flex Grow 3rem при наведении на мобильном телефоне
-- `.hover:mobile:flex-grow-2` - Flex Grow 2rem при наведении на мобильном телефоне
-- `.hover:mobile:flex-grow-1` - Flex Grow 1rem при наведении на мобильном телефоне
-- `.hover:mobile:flex-grow-0` - Flex Grow 0rem при наведении на мобильном телефоне
-- `.mobile:flex-grow-3` - Flex Grow 3rem на мобильном телефоне
-- `.mobile:flex-grow-2` - Flex Grow 2rem на мобильном телефоне
-- `.mobile:flex-grow-1` - Flex Grow 1Rem на мобильном телефоне
-- `.mobile:flex-grow-0` - Flex Grow 0rem на мобильном телефоне
+- `.hover:mobile:flex-grow-3` - Flex Grow 3 при наведении на мобильном телефоне
+- `.hover:mobile:flex-grow-2` - Flex Grow 2 при наведении на мобильном телефоне
+- `.hover:mobile:flex-grow-1` - Flex Grow 1 при наведении на мобильном телефоне
+- `.hover:mobile:flex-grow-0` - Flex Grow 0 при наведении на мобильном телефоне
+- `.mobile:flex-grow-3` - Flex Grow 3 на мобильном телефоне
+- `.mobile:flex-grow-2` - Flex Grow 2 на мобильном телефоне
+- `.mobile:flex-grow-1` - Flex Grow 1 на мобильном телефоне
+- `.mobile:flex-grow-0` - Flex Grow 0 на мобильном телефоне
 
 ##### Flex grow - Tablet (480px - 768px)
 
-- `.hover:tablet:flex-grow-3` - Flex Grow 3rem при наведении на планшет
-- `.hover:tablet:flex-grow-2` - Flex Grow 2rem при наведении на планшет
-- `.hover:tablet:flex-grow-1` - Flex Grow 1rem при наведении на планшет
-- `.hover:tablet:flex-grow-0` - Flex увеличивает 0rem при наведении на планшет
-- `.tablet:flex-grow-3` - Flex Grow 3rem на планшете
-- `.tablet:flex-grow-2` - Flex Grow 2rem на планшете
-- `.tablet:flex-grow-1` - Flex Grow 1rem на планшете
-- `.tablet:flex-grow-0` - Flex Grow 0rem на планшете
+- `.hover:tablet:flex-grow-3` - Flex Grow 3 при наведении на планшет
+- `.hover:tablet:flex-grow-2` - Flex Grow 2 при наведении на планшет
+- `.hover:tablet:flex-grow-1` - Flex Grow 1 при наведении на планшет
+- `.hover:tablet:flex-grow-0` - Flex увеличивает 0 при наведении на планшет
+- `.tablet:flex-grow-3` - Flex Grow 3 на планшете
+- `.tablet:flex-grow-2` - Flex Grow 2 на планшете
+- `.tablet:flex-grow-1` - Flex Grow 1 на планшете
+- `.tablet:flex-grow-0` - Flex Grow 0 на планшете
 
 ##### Flex grow - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:flex-grow-3` - Flex Grow 3rem при наведении на планшетный ПК
-- `.hover:tablet-pc:flex-grow-2` - Flex Grow 2rem при наведении на планшетный ПК
-- `.hover:tablet-pc:flex-grow-1` - Flex Grow 1rem при наведении на планшетный ПК
-- `.hover:tablet-pc:flex-grow-0` - Flex Grow 0rem при наведении на планшетный ПК
-- `.tablet-pc:flex-grow-3` - Flex Grow 3rem на планшетном ПК
-- `.tablet-pc:flex-grow-2` - Flex Grow 2rem на планшетном ПК
-- `.tablet-pc:flex-grow-1` - Flex Grow 1rem на планшетном ПК
-- `.tablet-pc:flex-grow-0` - Flex Grow 0rem на планшетном ПК
+- `.hover:tablet-pc:flex-grow-3` - Flex Grow 3 при наведении на планшетный ПК
+- `.hover:tablet-pc:flex-grow-2` - Flex Grow 2 при наведении на планшетный ПК
+- `.hover:tablet-pc:flex-grow-1` - Flex Grow 1 при наведении на планшетный ПК
+- `.hover:tablet-pc:flex-grow-0` - Flex Grow 0 при наведении на планшетный ПК
+- `.tablet-pc:flex-grow-3` - Flex Grow 3 на планшетном ПК
+- `.tablet-pc:flex-grow-2` - Flex Grow 2 на планшетном ПК
+- `.tablet-pc:flex-grow-1` - Flex Grow 1 на планшетном ПК
+- `.tablet-pc:flex-grow-0` - Flex Grow 0 на планшетном ПК
 
 ##### Flex grow - Pc (992px - 1200px)
 
-- `.hover:pc:flex-grow-3` - Flex Grow 3rem при наведении на ПК
-- `.hover:pc:flex-grow-2` - Flex Grow 2rem при наведении на ПК
-- `.hover:pc:flex-grow-1` - Flex Grow 1rem при наведении на ПК
-- `.hover:pc:flex-grow-0` - Flex Grow 0rem при наведении на ПК
-- `.pc:flex-grow-3` - Flex Grow 3rem на ПК
-- `.pc:flex-grow-2` - Flex Grow 2rem на ПК
-- `.pc:flex-grow-1` - Flex Grow 1rem на ПК
-- `.pc:flex-grow-0` - Flex Grow 0rem на ПК
+- `.hover:pc:flex-grow-3` - Flex Grow 3 при наведении на ПК
+- `.hover:pc:flex-grow-2` - Flex Grow 2 при наведении на ПК
+- `.hover:pc:flex-grow-1` - Flex Grow 1 при наведении на ПК
+- `.hover:pc:flex-grow-0` - Flex Grow 0 при наведении на ПК
+- `.pc:flex-grow-3` - Flex Grow 3 на ПК
+- `.pc:flex-grow-2` - Flex Grow 2 на ПК
+- `.pc:flex-grow-1` - Flex Grow 1 на ПК
+- `.pc:flex-grow-0` - Flex Grow 0 на ПК
 
-##### Flex grow - Tv (> 1200px)
+##### Flex grow - Tv (≥ 1200px)
 
-- `.hover:tv:flex-grow-3` - Flex Grow 3rem при наведении на телевизор
-- `.hover:tv:flex-grow-2` - Flex Grow 2rem при наведении на телевизор
-- `.hover:tv:flex-grow-1` - Flex Grow 1rem при наведении на телевизор
-- `.hover:tv:flex-grow-0` - Flex Grow 0rem при наведении на телевизор
-- `.tv:flex-grow-3` - Flex Grow 3rem по телевизору
-- `.tv:flex-grow-2` - Flex Grow 2Rem по телевизору
-- `.tv:flex-grow-1` - Flex Grow 1Rem по телевизору
-- `.tv:flex-grow-0` - Flex Grow 0rem по телевизору
+- `.hover:tv:flex-grow-3` - Flex Grow 3 при наведении на телевизор
+- `.hover:tv:flex-grow-2` - Flex Grow 2 при наведении на телевизор
+- `.hover:tv:flex-grow-1` - Flex Grow 1 при наведении на телевизор
+- `.hover:tv:flex-grow-0` - Flex Grow 0 при наведении на телевизор
+- `.tv:flex-grow-3` - Flex Grow 3 по телевизору
+- `.tv:flex-grow-2` - Flex Grow 2 по телевизору
+- `.tv:flex-grow-1` - Flex Grow 1 по телевизору
+- `.tv:flex-grow-0` - Flex Grow 0 по телевизору
 
-##### Flex grow - Tablet Max (< 768px)
+##### Flex grow - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:flex-grow-3` - Flex Grow 3rem при наведении на планшет макс.
-- `.hover:tablet-max:flex-grow-2` - Flex Grow 2rem при наведении на планшет макс.
-- `.hover:tablet-max:flex-grow-1` - Flex Grow 1rem при наведении на планшет макс.
-- `.hover:tablet-max:flex-grow-0` - Flex Grow 0rem при наведении на планшет макс.
-- `.tablet-max:flex-grow-3` - Flex Grow 3rem на планшете Max
-- `.tablet-max:flex-grow-2` - Flex Grow 2rem на планшете Max
-- `.tablet-max:flex-grow-1` - Flex Grow 1rem на планшете макс.
-- `.tablet-max:flex-grow-0` - Flex Grow 0rem на планшете Max
+- `.hover:tablet-max:flex-grow-3` - Flex Grow 3 при наведении на планшет макс.
+- `.hover:tablet-max:flex-grow-2` - Flex Grow 2 при наведении на планшет макс.
+- `.hover:tablet-max:flex-grow-1` - Flex Grow 1 при наведении на планшет макс.
+- `.hover:tablet-max:flex-grow-0` - Flex Grow 0 при наведении на планшет макс.
+- `.tablet-max:flex-grow-3` - Flex Grow 3 на планшете Max
+- `.tablet-max:flex-grow-2` - Flex Grow 2 на планшете Max
+- `.tablet-max:flex-grow-1` - Flex Grow 1 на планшете макс.
+- `.tablet-max:flex-grow-0` - Flex Grow 0 на планшете Max
 
-##### Flex grow - Tablet Pc Max (< 992px)
+##### Flex grow - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:flex-grow-3` - Flex Grow 3rem при наведении на планшетный ПК макс.
-- `.hover:tablet-pc-max:flex-grow-2` - Flex Grow 2rem при наведении на планшетный ПК макс.
-- `.hover:tablet-pc-max:flex-grow-1` - Flex Grow 1rem при наведении на планшетный ПК макс.
-- `.hover:tablet-pc-max:flex-grow-0` - Flex Grow 0rem при наведении на планшетный ПК макс.
-- `.tablet-pc-max:flex-grow-3` - Flex Grow 3rem на планшетном ПК макс.
-- `.tablet-pc-max:flex-grow-2` - Flex Grow 2rem на планшетном ПК макс.
-- `.tablet-pc-max:flex-grow-1` - Flex Grow 1rem на планшетном ПК макс.
-- `.tablet-pc-max:flex-grow-0` - Flex Grow 0rem на планшетном ПК макс.
+- `.hover:tablet-pc-max:flex-grow-3` - Flex Grow 3 при наведении на планшетный ПК макс.
+- `.hover:tablet-pc-max:flex-grow-2` - Flex Grow 2 при наведении на планшетный ПК макс.
+- `.hover:tablet-pc-max:flex-grow-1` - Flex Grow 1 при наведении на планшетный ПК макс.
+- `.hover:tablet-pc-max:flex-grow-0` - Flex Grow 0 при наведении на планшетный ПК макс.
+- `.tablet-pc-max:flex-grow-3` - Flex Grow 3 на планшетном ПК макс.
+- `.tablet-pc-max:flex-grow-2` - Flex Grow 2 на планшетном ПК макс.
+- `.tablet-pc-max:flex-grow-1` - Flex Grow 1 на планшетном ПК макс.
+- `.tablet-pc-max:flex-grow-0` - Flex Grow 0 на планшетном ПК макс.
 
-##### Flex grow - Pc Max (< 1200px)
+##### Flex grow - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:flex-grow-3` - Flex Grow 3rem при наведении на ПК макс.
-- `.hover:pc-max:flex-grow-2` - Flex Grow 2rem при наведении на ПК макс.
-- `.hover:pc-max:flex-grow-1` - Flex Grow 1rem при наведении на ПК макс.
-- `.hover:pc-max:flex-grow-0` - Flex Grow 0rem при наведении на ПК макс.
-- `.pc-max:flex-grow-3` - Flex Grow 3rem на ПК Макс.
-- `.pc-max:flex-grow-2` - Flex Grow 2rem на ПК Макс.
-- `.pc-max:flex-grow-1` - Flex Grow 1rem на ПК макс.
-- `.pc-max:flex-grow-0` - Flex Grow 0Rem на ПК Макс.
+- `.hover:pc-max:flex-grow-3` - Flex Grow 3 при наведении на ПК макс.
+- `.hover:pc-max:flex-grow-2` - Flex Grow 2 при наведении на ПК макс.
+- `.hover:pc-max:flex-grow-1` - Flex Grow 1 при наведении на ПК макс.
+- `.hover:pc-max:flex-grow-0` - Flex Grow 0 при наведении на ПК макс.
+- `.pc-max:flex-grow-3` - Flex Grow 3 на ПК Макс.
+- `.pc-max:flex-grow-2` - Flex Grow 2 на ПК Макс.
+- `.pc-max:flex-grow-1` - Flex Grow 1 на ПК макс.
+- `.pc-max:flex-grow-0` - Flex Grow 0 на ПК Макс.
 
 ### Flex wrap
 
 - `.flex-wrap-reverse` - Гибкая обертка обратная
 - `.hover:flex-wrap-reverse` - Обратное переворачивание Flex при наведении
 
-##### Flex wrap - Mobile (< 480px)
+##### Flex wrap - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - Обратное переворачивание Flex при наведении на мобильном телефоне
 - `.mobile:flex-wrap-reverse` - Обратная обертка Flex на мобильном телефоне
@@ -877,22 +876,22 @@
 - `.hover:pc:flex-wrap-reverse` - Обратное переворачивание Flex при наведении на ПК
 - `.pc:flex-wrap-reverse` - Обратная пленка Flex на ПК
 
-##### Flex wrap - Tv (> 1200px)
+##### Flex wrap - Tv (≥ 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - Реверс гибкой обмотки при наведении курсора на телевизоре
 - `.tv:flex-wrap-reverse` - Гибкая пленка обратная на телевизоре
 
-##### Flex wrap - Tablet Max (< 768px)
+##### Flex wrap - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - Реверс гибкой обертки при наведении на планшет макс.
 - `.tablet-max:flex-wrap-reverse` - Обратная пленка Flex на планшете Max
 
-##### Flex wrap - Tablet Pc Max (< 992px)
+##### Flex wrap - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - Гибкая пленка обратная при наведении на планшетный ПК макс.
 - `.tablet-pc-max:flex-wrap-reverse` - Обратная пленка Flex на планшетном ПК Max
 
-##### Flex wrap - Pc Max (< 1200px)
+##### Flex wrap - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - Обратное переворачивание Flex при наведении на ПК макс.
 - `.pc-max:flex-wrap-reverse` - Обратная пленка Flex на ПК Макс.
@@ -1087,7 +1086,7 @@
 - `.hover:align-content-start` - Выровнять начало контента при наведении
 - `.hover:align-content-stretch` - Выравнивание растяжения контента при наведении
 
-##### Align content - Mobile (< 480px)
+##### Align content - Mobile (≤ 480px)
 
 - `.hover:mobile:align-content-around` - Выравнивание контента при наведении на мобильном устройстве
 - `.hover:mobile:align-content-between` - Выравнивание контента при наведении на мобильном устройстве
@@ -1155,7 +1154,7 @@
 - `.pc:align-content-start` - Выровнять начало контента на ПК
 - `.pc:align-content-stretch` - Выровнять растяжение содержимого на ПК
 
-##### Align content - Tv (> 1200px)
+##### Align content - Tv (≥ 1200px)
 
 - `.hover:tv:align-content-around` - Выравнивание контента при наведении курсора на телевизоре
 - `.hover:tv:align-content-between` - Выравнивание контента при наведении курсора на телевизоре
@@ -1172,7 +1171,7 @@
 - `.tv:align-content-start` - Выровнять начало контента на телевизоре
 - `.tv:align-content-stretch` - Выровняйте растяжение контента на телевизоре
 
-##### Align content - Tablet Max (< 768px)
+##### Align content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-content-around` - Выравнивание контента при наведении на планшете Max
 - `.hover:tablet-max:align-content-between` - Выравнивание содержимого при наведении на планшете Max
@@ -1189,7 +1188,7 @@
 - `.tablet-max:align-content-start` - Выровнять начало контента на планшете Max
 - `.tablet-max:align-content-stretch` - Выровнять растяжение контента на планшете Max
 
-##### Align content - Tablet Pc Max (< 992px)
+##### Align content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - Выравнивание контента при наведении на планшетном ПК макс.
 - `.hover:tablet-pc-max:align-content-between` - Выравнивание содержимого при наведении на планшетном ПК макс.
@@ -1206,7 +1205,7 @@
 - `.tablet-pc-max:align-content-start` - Выровнять начало контента на планшетном ПК макс.
 - `.tablet-pc-max:align-content-stretch` - Выровнять растяжение содержимого на планшетном ПК макс.
 
-##### Align content - Pc Max (< 1200px)
+##### Align content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-content-around` - Выравнивание контента при наведении на ПК Max
 - `.hover:pc-max:align-content-between` - Выровнять контент при наведении на ПК макс.
@@ -1234,7 +1233,7 @@
 - `.hover:align-items-start` - Выровнять элементы, начиная с наведения
 - `.hover:align-items-stretch` - Выравнивание элементов, растягивающихся при наведении
 
-##### Align items - Mobile (< 480px)
+##### Align items - Mobile (≤ 480px)
 
 - `.hover:mobile:align-items-center` - Выровнять элементы по центру при наведении на мобильном телефоне
 - `.hover:mobile:align-items-end` - Выровнять элементы по концу при наведении на мобильном устройстве
@@ -1278,7 +1277,7 @@
 - `.pc:align-items-start` - Выровнять элементы по началу на ПК
 - `.pc:align-items-stretch` - Выровнять элементы, растягивая их на ПК
 
-##### Align items - Tv (> 1200px)
+##### Align items - Tv (≥ 1200px)
 
 - `.hover:tv:align-items-center` - Выровнять элементы по центру при наведении курсора на телевизоре
 - `.hover:tv:align-items-end` - Выровнять элементы по концу при наведении на телевизоре
@@ -1289,7 +1288,7 @@
 - `.tv:align-items-start` - Выравнивание элементов начинается на телевизоре
 - `.tv:align-items-stretch` - Выровнять элементы, растягивая их на телевизоре
 
-##### Align items - Tablet Max (< 768px)
+##### Align items - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-items-center` - Выровнять элементы по центру при наведении на планшете Max
 - `.hover:tablet-max:align-items-end` - Выровнять элементы по концу при наведении на планшете максимум
@@ -1300,7 +1299,7 @@
 - `.tablet-max:align-items-start` - Выровнять элементы по началу на планшете Max
 - `.tablet-max:align-items-stretch` - Выровнять элементы, растягивая их на планшете Max
 
-##### Align items - Tablet Pc Max (< 992px)
+##### Align items - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - Выровнять элементы по центру при наведении на планшетном ПК макс.
 - `.hover:tablet-pc-max:align-items-end` - Выровнять элементы по концу при наведении на планшетном ПК макс.
@@ -1311,7 +1310,7 @@
 - `.tablet-pc-max:align-items-start` - Выровнять элементы по началу на планшетном ПК макс.
 - `.tablet-pc-max:align-items-stretch` - Выровнять элементы, растягивая их на планшетном ПК Max
 
-##### Align items - Pc Max (< 1200px)
+##### Align items - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-items-center` - Выровнять элементы по центру при наведении на ПК макс.
 - `.hover:pc-max:align-items-end` - Выровнять элементы по концу при наведении на ПК макс.
@@ -1333,7 +1332,7 @@
 - `.hover:align-self-start` - Выровнять автозапуск при наведении
 - `.hover:align-self-stretch` - Выровнять саморастягивание при наведении
 
-##### Align self - Mobile (< 480px)
+##### Align self - Mobile (≤ 480px)
 
 - `.hover:mobile:align-self-center` - Выравнивание центра при наведении на мобильном телефоне
 - `.hover:mobile:align-self-end` - Выровнять конец при наведении на мобильном устройстве
@@ -1377,7 +1376,7 @@
 - `.pc:align-self-start` - Выровняйте автозапуск на ПК
 - `.pc:align-self-stretch` - Выровняйте саморастягивание на ПК
 
-##### Align self - Tv (> 1200px)
+##### Align self - Tv (≥ 1200px)
 
 - `.hover:tv:align-self-center` - Выровнять центр при наведении на телевизор
 - `.hover:tv:align-self-end` - Выровнять конец при наведении на телевизор
@@ -1388,7 +1387,7 @@
 - `.tv:align-self-start` - Настройте автозапуск на телевизоре
 - `.tv:align-self-stretch` - Выровняйте саморастяжку на телевизоре
 
-##### Align self - Tablet Max (< 768px)
+##### Align self - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-self-center` - Выровнять центр при наведении на планшет максимум
 - `.hover:tablet-max:align-self-end` - Выровнять край при наведении на планшет максимум
@@ -1399,7 +1398,7 @@
 - `.tablet-max:align-self-start` - Выровняйте автозапуск на планшете Max
 - `.tablet-max:align-self-stretch` - Выровняйте саморастягивание на планшете Max
 
-##### Align self - Tablet Pc Max (< 992px)
+##### Align self - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - Выровнять самоцентрирование при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:align-self-end` - Выровнять конец при наведении на планшетный ПК макс.
@@ -1410,7 +1409,7 @@
 - `.tablet-pc-max:align-self-start` - Выровняйте самозапуск на планшетном ПК макс.
 - `.tablet-pc-max:align-self-stretch` - Выровняйте саморастягивание на планшетном ПК макс.
 
-##### Align self - Pc Max (< 1200px)
+##### Align self - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-self-center` - Выровнять центр при наведении на ПК макс.
 - `.hover:pc-max:align-self-end` - Выровнять конец при наведении на ПК макс.
@@ -1438,7 +1437,7 @@
 - `.justify-content-start` - Обоснуйте начало контента
 - `.justify-content-stretch` - Оправдать растяжение контента
 
-##### Justify content - Mobile (< 480px)
+##### Justify content - Mobile (≤ 480px)
 
 - `.hover:mobile:justify-content-around` - Выравнивание контента при наведении курсора на мобильном телефоне
 - `.hover:mobile:justify-content-between` - Выравнивание контента между наведением на мобильном устройстве
@@ -1490,7 +1489,7 @@
 - `.pc:justify-content-end` - Обосновать конец контента на ПК
 - `.pc:justify-content-start` - Обоснование начала контента на ПК
 
-##### Justify content - Tv (> 1200px)
+##### Justify content - Tv (≥ 1200px)
 
 - `.hover:tv:justify-content-around` - Обоснование контента при наведении курсора на телевизор
 - `.hover:tv:justify-content-between` - Обоснование контента между наведением на телевизоре
@@ -1503,7 +1502,7 @@
 - `.tv:justify-content-end` - Обосновать конец контента на телевидении
 - `.tv:justify-content-start` - Обосновать запуск контента на телевидении
 
-##### Justify content - Tablet Max (< 768px)
+##### Justify content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:justify-content-around` - Выравнивание контента при наведении курсора мыши на планшете Max
 - `.hover:tablet-max:justify-content-between` - Выравнивание контента между наведением на планшете Max
@@ -1516,7 +1515,7 @@
 - `.tablet-max:justify-content-end` - Выровнять конец контента на планшете Max
 - `.tablet-max:justify-content-start` - Обоснование начала контента на планшете Max
 
-##### Justify content - Tablet Pc Max (< 992px)
+##### Justify content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - Выравнивание контента при наведении на планшетный ПК Max
 - `.hover:tablet-pc-max:justify-content-between` - Выравнивание контента при наведении на планшетный ПК макс.
@@ -1529,7 +1528,7 @@
 - `.tablet-pc-max:justify-content-end` - Выровнять конец контента на планшетном ПК макс.
 - `.tablet-pc-max:justify-content-start` - Обоснование начала контента на планшетном ПК макс.
 
-##### Justify content - Pc Max (< 1200px)
+##### Justify content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:justify-content-around` - Выравнивание контента при наведении на ПК Max
 - `.hover:pc-max:justify-content-between` - Выравнивание контента при наведении на ПК макс.
@@ -1585,7 +1584,7 @@
 - `.hover:-order-2` - Отрицательный порядок 2 при наведении
 - `.hover:-order-1` - Отрицательный порядок 1 при наведении
 
-##### Order - Mobile (< 480px)
+##### Order - Mobile (≤ 480px)
 
 - `.hover:mobile:order-5` - Закажите 5 при наведении на мобильном телефоне
 - `.hover:mobile:order-4` - Заказать 4 при наведении на мобильном телефоне
@@ -1604,7 +1603,7 @@
 - `.mobile:order-first` - Сначала закажите на мобильном телефоне
 - `.mobile:order-last` - Последний заказ на мобильном телефоне
 
-##### Negative Order - Mobile (< 480px)
+##### Negative Order - Mobile (≤ 480px)
 
 - `.hover:mobile:-order-5` - Отрицательный порядок 5 при наведении на мобильном телефоне
 - `.hover:mobile:-order-4` - Отрицательный порядок 4 при наведении на мобильном телефоне
@@ -1713,7 +1712,7 @@
 - `.pc:-order-2` - Отрицательный заказ 2 на ПК
 - `.pc:-order-1` - Отрицательный заказ 1 на ПК
 
-##### Order - Tv (> 1200px)
+##### Order - Tv (≥ 1200px)
 
 - `.hover:tv:order-5` - Заказать 5 при наведении на телевизор
 - `.hover:tv:order-4` - Заказать 4 при наведении на телевизор
@@ -1732,7 +1731,7 @@
 - `.tv:order-first` - Сначала закажи по телевизору
 - `.tv:order-last` - Последний заказ по телевизору
 
-##### Negative Order - Tv (> 1200px)
+##### Negative Order - Tv (≥ 1200px)
 
 - `.hover:tv:-order-5` - Отрицательный порядок 5 при наведении на телевизор
 - `.hover:tv:-order-4` - Отрицательный порядок 4 при наведении на телевизор
@@ -1745,7 +1744,7 @@
 - `.tv:-order-2` - Негативный заказ 2 на ТВ
 - `.tv:-order-1` - Негативный заказ 1 по телевизору
 
-##### Order - Tablet Max (< 768px)
+##### Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:order-5` - Заказать 5 при наведении на планшет макс.
 - `.hover:tablet-max:order-4` - Заказать 4 при наведении на планшет макс.
@@ -1764,7 +1763,7 @@
 - `.tablet-max:order-first` - Сначала закажите планшет Max
 - `.tablet-max:order-last` - Последний заказ на планшете Max
 
-##### Negative Order - Tablet Max (< 768px)
+##### Negative Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:-order-5` - Отрицательный заказ 5 при наведении на планшет макс.
 - `.hover:tablet-max:-order-4` - Отрицательный заказ 4 при наведении на планшет макс.
@@ -1777,7 +1776,7 @@
 - `.tablet-max:-order-2` - Отрицательный заказ 2 на планшете макс.
 - `.tablet-max:-order-1` - Отрицательный заказ 1 на планшете макс.
 
-##### Order - Tablet Pc Max (< 992px)
+##### Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:order-5` - Закажите 5 при наведении на планшетный ПК максимум
 - `.hover:tablet-pc-max:order-4` - Заказ 4 при наведении на планшетный ПК максимум
@@ -1796,7 +1795,7 @@
 - `.tablet-pc-max:order-first` - Сначала закажите на планшетном ПК макс.
 - `.tablet-pc-max:order-last` - Последний заказ на планшетном ПК макс.
 
-##### Negative Order - Tablet Pc Max (< 992px)
+##### Negative Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:-order-5` - Отрицательный заказ 5 при наведении на планшетный ПК максимум
 - `.hover:tablet-pc-max:-order-4` - Отрицательный заказ 4 при наведении на планшетный ПК максимум
@@ -1809,7 +1808,7 @@
 - `.tablet-pc-max:-order-2` - Отрицательный заказ 2 на планшетном ПК макс.
 - `.tablet-pc-max:-order-1` - Отрицательный заказ 1 на планшетном ПК максимум
 
-##### Order - Pc Max (< 1200px)
+##### Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:order-5` - Заказать 5 при наведении на ПК максимум
 - `.hover:pc-max:order-4` - Заказ 4 при наведении на ПК максимум
@@ -1828,7 +1827,7 @@
 - `.pc-max:order-first` - Сначала закажите на ПК Макс.
 - `.pc-max:order-last` - Последний заказ на ПК Макс.
 
-##### Negative Order - Pc Max (< 1200px)
+##### Negative Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:-order-5` - Отрицательный порядок 5 при наведении на ПК макс.
 - `.hover:pc-max:-order-4` - Отрицательный порядок 4 при наведении на ПК макс.
@@ -1909,10 +1908,10 @@
 #### Margin Bottom
 
 - `.first:mb-0` - Нижняя маржа 0rem на первом месте
-- `.hover:mb-100` - Нижняя маржа 100 рем. при наведении
-- `.hover:mb-75` - Нижняя маржа 75rem при наведении
-- `.hover:mb-50` - Нижняя маржа 50 рем. при наведении
-- `.hover:mb-25` - Нижняя маржа 25 рем. при наведении
+- `.hover:mb-100` - Нижняя маржа 100% при наведении
+- `.hover:mb-75` - Нижняя маржа 75% при наведении
+- `.hover:mb-50` - Нижняя маржа 50% при наведении
+- `.hover:mb-25` - Нижняя маржа 25% при наведении
 - `.hover:mb-5` - Нижняя маржа 5рем при наведении
 - `.hover:mb-4.5` - Нижняя граница поля 0rem при наведении
 - `.hover:mb-4` - Нижняя граница поля 4rem при наведении
@@ -1942,10 +1941,10 @@
 - `.hover:mb-0` - Нижняя граница поля 0rem при наведении
 - `.hover:mb-auto` - Нижнее поле автоматически при наведении
 - `.last:mb-0` - Нижняя маржа 0rem на последнем
-- `.mb-100` - Нижняя маржа 100 рем.
-- `.mb-75` - Нижняя маржа 75 рем.
-- `.mb-50` - Нижняя маржа 50 рем.
-- `.mb-25` - Нижняя маржа 25 рем.
+- `.mb-100` - Нижняя маржа 100%
+- `.mb-75` - Нижняя маржа 75%
+- `.mb-50` - Нижняя маржа 50%
+- `.mb-25` - Нижняя маржа 25%
 - `.mb-5` - Нижняя маржа 5рем
 - `.mb-4.5` - Нижняя граница 0рем
 - `.mb-4` - Нижняя маржа 4rem
@@ -1991,10 +1990,10 @@
 #### Margin Left
 
 - `.first:ml-0` - Маржа слева 0rem на первом месте
-- `.hover:ml-100` - Маржа слева 100rem при наведении
-- `.hover:ml-75` - Маржа слева 75rem при наведении
-- `.hover:ml-50` - Маржа слева 50rem при наведении
-- `.hover:ml-25` - Маржа слева 25рем при наведении
+- `.hover:ml-100` - Маржа слева 100% при наведении
+- `.hover:ml-75` - Маржа слева 75% при наведении
+- `.hover:ml-50` - Маржа слева 50% при наведении
+- `.hover:ml-25` - Маржа слева 25% при наведении
 - `.hover:ml-5` - Маржа слева 5рем при наведении
 - `.hover:ml-4.5` - Маржа слева 0rem при наведении
 - `.hover:ml-4` - Маржа слева 4rem при наведении
@@ -2024,10 +2023,10 @@
 - `.hover:ml-0` - Маржа слева 0rem при наведении
 - `.hover:ml-auto` - Поле слева автоматически при наведении
 - `.last:ml-0` - Маржа слева 0рем на последнем
-- `.ml-100` - Оставшаяся маржа 100 рем.
-- `.ml-75` - Маржа слева 75рем
-- `.ml-50` - Оставшаяся маржа 50 рем.
-- `.ml-25` - Маржа слева 25рем
+- `.ml-100` - Оставшаяся маржа 100%
+- `.ml-75` - Маржа слева 75%
+- `.ml-50` - Оставшаяся маржа 50%
+- `.ml-25` - Маржа слева 25%
 - `.ml-5` - Маржа слева 5рем
 - `.ml-4.5` - Левое поле 0рем
 - `.ml-4` - Маржа слева 4рем
@@ -2060,10 +2059,10 @@
 #### Margin Right
 
 - `.first:mr-0` - Маржа справа 0rem на первом месте
-- `.hover:mr-100` - Маржа справа 100rem при наведении
-- `.hover:mr-75` - Маржа справа 75rem при наведении
-- `.hover:mr-50` - Маржа справа 50рем при наведении
-- `.hover:mr-25` - Маржа справа 25rem при наведении
+- `.hover:mr-100` - Маржа справа 100% при наведении
+- `.hover:mr-75` - Маржа справа 75% при наведении
+- `.hover:mr-50` - Маржа справа 50% при наведении
+- `.hover:mr-25` - Маржа справа 25% при наведении
 - `.hover:mr-5` - Маржа справа 5рем при наведении
 - `.hover:mr-4.5` - Маржа справа 0рем при наведении
 - `.hover:mr-4` - Маржа справа 4rem при наведении
@@ -2093,10 +2092,10 @@
 - `.hover:mr-0` - Маржа справа 0рем при наведении
 - `.hover:mr-auto` - Поле справа автоматически при наведении
 - `.last:mr-0` - Маржа справа 0рем на последнем
-- `.mr-100` - Маржа справа 100рем
-- `.mr-75` - Маржа справа 75рем
-- `.mr-50` - Маржа справа 50рем
-- `.mr-25` - Маржа справа 25рем
+- `.mr-100` - Маржа справа 100%
+- `.mr-75` - Маржа справа 75%
+- `.mr-50` - Маржа справа 50%
+- `.mr-25` - Маржа справа 25%
 - `.mr-5` - Маржа справа 5рем
 - `.mr-4.5` - Маржа справа 0рем
 - `.mr-4` - Маржа справа 4рем
@@ -2142,10 +2141,10 @@
 #### Margin Top
 
 - `.first:mt-0` - Маржа Top 0rem на первом месте
-- `.hover:mt-100` - Маржа Top 100rem при наведении
-- `.hover:mt-75` - Маржа Top 75rem при наведении
-- `.hover:mt-50` - Маржа Top 50rem при наведении
-- `.hover:mt-25` - Маржа Top 25rem при наведении
+- `.hover:mt-100` - Маржа Top 100% при наведении
+- `.hover:mt-75` - Маржа Top 75% при наведении
+- `.hover:mt-50` - Маржа Top 50% при наведении
+- `.hover:mt-25` - Маржа Top 25% при наведении
 - `.hover:mt-5` - Маржа Top 5rem при наведении
 - `.hover:mt-4.5` - Маржа сверху 0рем при наведении
 - `.hover:mt-4` - Маржа Top 4rem при наведении
@@ -2175,10 +2174,10 @@
 - `.hover:mt-0` - Маржа сверху 0рем при наведении
 - `.hover:mt-auto` - Margin Top автоматически при наведении
 - `.last:mt-0` - Маржа Top 0rem на последнем
-- `.mt-100` - Маржа Топ 100рем
-- `.mt-75` - Маржа Топ 75рем
-- `.mt-50` - Маржа Топ 50рем
-- `.mt-25` - Маржа Топ 25рем
+- `.mt-100` - Маржа Топ 100%
+- `.mt-75` - Маржа Топ 75%
+- `.mt-50` - Маржа Топ 50%
+- `.mt-25` - Маржа Топ 25%
 - `.mt-5` - Маржа Топ 5рем
 - `.mt-4.5` - Маржа сверху 0рем
 - `.mt-4` - Маржа Топ 4рем
@@ -2210,10 +2209,10 @@
 
 #### Margin X-Axis
 
-- `.hover:mx-100` - Маржа X-Axis 100rem при наведении
-- `.hover:mx-75` - Маржа X-Axis 75rem при наведении
-- `.hover:mx-50` - Маржа по оси X 50 рем при наведении
-- `.hover:mx-25` - Маржа X-Axis 25rem при наведении
+- `.hover:mx-100` - Маржа X-Axis 100% при наведении
+- `.hover:mx-75` - Маржа X-Axis 75% при наведении
+- `.hover:mx-50` - Маржа по оси X 50% при наведении
+- `.hover:mx-25` - Маржа X-Axis 25% при наведении
 - `.hover:mx-5` - Маржа X-Axis 5rem при наведении
 - `.hover:mx-4.5` - Маржа X-Axis 0rem при наведении
 - `.hover:mx-4` - Маржа X-Axis 4rem при наведении
@@ -2242,10 +2241,10 @@
 - `.hover:mx-0.1` - Маржа по оси X: 0,1 рем при наведении
 - `.hover:mx-0` - Маржа X-Axis 0rem при наведении
 - `.hover:mx-auto` - Маржа по оси X автоматически при наведении
-- `.mx-100` - Маржа по оси X: 100 рем.
-- `.mx-75` - Запас по оси X 75рем
-- `.mx-50` - Маржа по оси X: 50 рем.
-- `.mx-25` - Маржа по оси X: 25 рем.
+- `.mx-100` - Маржа по оси X: 100%
+- `.mx-75` - Запас по оси X 75%
+- `.mx-50` - Маржа по оси X: 50%
+- `.mx-25` - Маржа по оси X: 25%
 - `.mx-5` - Маржа по оси X 5рем
 - `.mx-4.5` - Маржа по оси X: 0рем
 - `.mx-4` - Маржа по оси X 4rem
@@ -2277,10 +2276,10 @@
 
 #### Margin Y-Axis
 
-- `.hover:my-100` - Маржа по оси Y: 100 рем при наведении
-- `.hover:my-75` - Маржа по оси Y 75рем при наведении
-- `.hover:my-50` - Маржа по оси Y 50 рем при наведении
-- `.hover:my-25` - Маржа по оси Y 25рем при наведении
+- `.hover:my-100` - Маржа по оси Y: 100% при наведении
+- `.hover:my-75` - Маржа по оси Y 75% при наведении
+- `.hover:my-50` - Маржа по оси Y 50% при наведении
+- `.hover:my-25` - Маржа по оси Y 25% при наведении
 - `.hover:my-5` - Маржа по оси Y 5rem при наведении
 - `.hover:my-4.5` - Маржа оси Y 0rem при наведении
 - `.hover:my-4` - Маржа по оси Y 4rem при наведении
@@ -2309,10 +2308,10 @@
 - `.hover:my-0.1` - Маржа по оси Y: 0,1 рем при наведении
 - `.hover:my-0` - Маржа оси Y 0rem при наведении
 - `.hover:my-auto` - Отступ по оси Y автоматически при наведении
-- `.my-100` - Запас по оси Y: 100 рем.
-- `.my-75` - Поле по оси Y 75 мм
-- `.my-50` - Запас по оси Y: 50 рем.
-- `.my-25` - Запас по оси Y: 25 рем.
+- `.my-100` - Запас по оси Y: 100%
+- `.my-75` - Поле по оси Y 75%
+- `.my-50` - Запас по оси Y: 50%
+- `.my-25` - Запас по оси Y: 25%
 - `.my-5` - Запас по оси Y 5rem
 - `.my-4.5` - Поле по оси Y 0рем
 - `.my-4` - Запас по оси Y 4rem
@@ -2406,10 +2405,10 @@
 #### Padding Bottom
 
 - `.first:pb-0` - Заполнение Bottom 0rem в первую очередь
-- `.hover:pb-100` - Padding Bottom 100rem при наведении
-- `.hover:pb-75` - Заполнение нижней части 75rem при наведении
-- `.hover:pb-50` - Padding Bottom 50rem при наведении
-- `.hover:pb-25` - Padding Bottom 25rem при наведении
+- `.hover:pb-100` - Padding Bottom 100% при наведении
+- `.hover:pb-75` - Заполнение нижней части 75% при наведении
+- `.hover:pb-50` - Padding Bottom 50% при наведении
+- `.hover:pb-25` - Padding Bottom 25% при наведении
 - `.hover:pb-5` - Отступ снизу 5rem при наведении
 - `.hover:pb-4.5` - Отступ снизу 0rem при наведении
 - `.hover:pb-4` - Отступ снизу 4rem при наведении
@@ -2438,10 +2437,10 @@
 - `.hover:pb-0.1` - Отступ снизу 0.1rem при наведении
 - `.hover:pb-0` - Отступ снизу 0rem при наведении
 - `.last:pb-0` - Заполнение Bottom 0rem в последнюю очередь
-- `.pb-100` - Подкладка снизу 100рем
-- `.pb-75` - Подкладка снизу 75rem
-- `.pb-50` - Подкладка снизу 50рем
-- `.pb-25` - Подкладка снизу 25rem
+- `.pb-100` - Подкладка снизу 100%
+- `.pb-75` - Подкладка снизу 75%
+- `.pb-50` - Подкладка снизу 50%
+- `.pb-25` - Подкладка снизу 25%
 - `.pb-5` - Подкладка снизу 5rem
 - `.pb-4.5` - Отступ снизу 0rem
 - `.pb-4` - Подкладка снизу 4rem
@@ -2532,10 +2531,10 @@
 #### Padding Right
 
 - `.first:pr-0` - Заполнение справа 0rem в первую очередь
-- `.hover:pr-100` - Отступ вправо 100рем при наведении
-- `.hover:pr-75` - Padding Right 75rem при наведении
-- `.hover:pr-50` - Отступ вправо 50рем при наведении
-- `.hover:pr-25` - Отступ справа 25рем при наведении
+- `.hover:pr-100` - Отступ вправо 100% при наведении
+- `.hover:pr-75` - Padding Right 75% при наведении
+- `.hover:pr-50` - Отступ вправо 50% при наведении
+- `.hover:pr-25` - Отступ справа 25% при наведении
 - `.hover:pr-5` - Отступ вправо 5rem при наведении
 - `.hover:pr-4.5` - Заполнение справа 0rem при наведении
 - `.hover:pr-4` - Отступ вправо 4rem при наведении
@@ -2564,10 +2563,10 @@
 - `.hover:pr-0.1` - Отступ вправо 0,1 рем при наведении
 - `.hover:pr-0` - Заполнение справа 0rem при наведении
 - `.last:pr-0` - Заполнение справа 0rem на последнем
-- `.pr-100` - Заполнение справа 100рем
-- `.pr-75` - Набивка правая 75рем
-- `.pr-50` - Заполнение справа 50рем
-- `.pr-25` - Набивка справа 25рем
+- `.pr-100` - Заполнение справа 100%
+- `.pr-75` - Набивка правая 75%
+- `.pr-50` - Заполнение справа 50%
+- `.pr-25` - Набивка справа 25%
 - `.pr-5` - Заполнение справа 5рем
 - `.pr-4.5` - Заполнение справа 0rem
 - `.pr-4` - Заполнение справа 4rem
@@ -2599,10 +2598,10 @@
 #### Padding Top
 
 - `.first:pt-0` - Заполнение Top 0rem в первую очередь
-- `.hover:pt-100` - Заполнение Top 100rem при наведении
-- `.hover:pt-75` - Прокладка Top 75rem при наведении
-- `.hover:pt-50` - Заполнение Top 50rem при наведении
-- `.hover:pt-25` - Заполнение Top 25rem при наведении
+- `.hover:pt-100` - Заполнение Top 100% при наведении
+- `.hover:pt-75` - Прокладка Top 75% при наведении
+- `.hover:pt-50` - Заполнение Top 50% при наведении
+- `.hover:pt-25` - Заполнение Top 25% при наведении
 - `.hover:pt-5` - Отступы Top 5rem при наведении
 - `.hover:pt-4.5` - Отступы Top 0rem при наведении
 - `.hover:pt-4` - Заполнение Top 4rem при наведении
@@ -2631,10 +2630,10 @@
 - `.hover:pt-0.1` - Отступы Top 0,1rem при наведении
 - `.hover:pt-0` - Отступы Top 0rem при наведении
 - `.last:pt-0` - Заполнение Top 0rem на последнем месте
-- `.pt-100` - Набивка Топ 100рем
-- `.pt-75` - Набивка Топ 75рем
-- `.pt-50` - Набивка Топ 50рем
-- `.pt-25` - Набивка Топ 25рем
+- `.pt-100` - Набивка Топ 100%
+- `.pt-75` - Набивка Топ 75%
+- `.pt-50` - Набивка Топ 50%
+- `.pt-25` - Набивка Топ 25%
 - `.pt-5` - Набивка Топ 5рем
 - `.pt-4.5` - Прокладка сверху 0rem
 - `.pt-4` - Набивка Топ 4рем
@@ -2665,10 +2664,10 @@
 
 #### Padding X-Axis
 
-- `.hover:px-100` - Заполнение X-Axis 100rem при наведении
-- `.hover:px-75` - Заполнение X-Axis 75rem при наведении
-- `.hover:px-50` - Отступ X-Axis 50rem при наведении
-- `.hover:px-25` - Заполнение X-Axis 25rem при наведении
+- `.hover:px-100` - Заполнение X-Axis 100% при наведении
+- `.hover:px-75` - Заполнение X-Axis 75% при наведении
+- `.hover:px-50` - Отступ X-Axis 50% при наведении
+- `.hover:px-25` - Заполнение X-Axis 25% при наведении
 - `.hover:px-5` - Заполнение X-Axis 5rem при наведении
 - `.hover:px-4.5` - Заполнение оси X 0rem при наведении
 - `.hover:px-4` - Заполнение X-Axis 4rem при наведении
@@ -2696,10 +2695,10 @@
 - `.hover:px-0.2` - Заполнение оси X 0,2 рем. при наведении
 - `.hover:px-0.1` - Заполнение оси X 0,1 рем при наведении
 - `.hover:px-0` - Заполнение оси X 0rem при наведении
-- `.px-100` - Заполнение оси X 100рем
-- `.px-75` - Заполнение оси X 75рем
-- `.px-50` - Заполнение оси X 50рем
-- `.px-25` - Заполнение X-Axis 25rem
+- `.px-100` - Заполнение оси X 100%
+- `.px-75` - Заполнение оси X 75%
+- `.px-50` - Заполнение оси X 50%
+- `.px-25` - Заполнение X-Axis 25%
 - `.px-5` - Заполнение оси X 5rem
 - `.px-4.5` - Заполнение оси X 0rem
 - `.px-4` - Заполнение оси X 4rem
@@ -2730,10 +2729,10 @@
 
 #### Padding Y-Axis
 
-- `.hover:py-100` - Заполнение оси Y 100рем при наведении
-- `.hover:py-75` - Заполнение оси Y 75рем при наведении
-- `.hover:py-50` - Заполнение оси Y 50рем при наведении
-- `.hover:py-25` - Заполнение оси Y 25рем при наведении
+- `.hover:py-100` - Заполнение оси Y 100% при наведении
+- `.hover:py-75` - Заполнение оси Y 75% при наведении
+- `.hover:py-50` - Заполнение оси Y 50% при наведении
+- `.hover:py-25` - Заполнение оси Y 25% при наведении
 - `.hover:py-5` - Заполнение оси Y 5rem при наведении
 - `.hover:py-4.5` - Заполнение оси Y 0rem при наведении
 - `.hover:py-4` - Заполнение оси Y 4rem при наведении
@@ -2761,10 +2760,10 @@
 - `.hover:py-0.2` - Заполнение оси Y 0,2 рем. при наведении
 - `.hover:py-0.1` - Заполнение оси Y 0,1 рем при наведении
 - `.hover:py-0` - Заполнение оси Y 0rem при наведении
-- `.py-100` - Заполнение оси Y 100рем
-- `.py-75` - Заполнение оси Y 75рем
-- `.py-50` - Заполнение оси Y 50рем
-- `.py-25` - Заполнение оси Y 25рем
+- `.py-100` - Заполнение оси Y 100%
+- `.py-75` - Заполнение оси Y 75%
+- `.py-50` - Заполнение оси Y 50%
+- `.py-25` - Заполнение оси Y 25%
 - `.py-5` - Заполнение оси Y 5rem
 - `.py-4.5` - Заполнение оси Y 0rem
 - `.py-4` - Заполнение оси Y 4rem
@@ -2840,7 +2839,7 @@
 - `.w-5` - Ширина 5%
 - `.w-auto` - Ширина авто%
 
-##### Width - Mobile (< 480px)
+##### Width - Mobile (≤ 480px)
 
 - `.hover:mobile:w-100` - Ширина 100% при наведении на мобильном устройстве
 - `.hover:mobile:w-95` - Ширина 95% при наведении на мобильном устройстве
@@ -3020,7 +3019,7 @@
 - `.pc:w-5` - Ширина 5% на ПК
 - `.pc:w-auto` - Ширина авто% на ПК
 
-##### Width - Tv (> 1200px)
+##### Width - Tv (≥ 1200px)
 
 - `.hover:tv:w-100` - Ширина 100% при наведении на телевизор
 - `.hover:tv:w-95` - Ширина 95% при наведении на телевизор
@@ -3065,7 +3064,7 @@
 - `.tv:w-5` - Ширина 5% на ТВ
 - `.tv:w-auto` - Ширина авто% на ТВ
 
-##### Width - Tablet Max (< 768px)
+##### Width - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:w-100` - Ширина 100% при наведении на планшете макс.
 - `.hover:tablet-max:w-95` - Ширина 95% при наведении на планшете макс.
@@ -3110,7 +3109,7 @@
 - `.tablet-max:w-5` - Ширина 5% на планшете макс.
 - `.tablet-max:w-auto` - Ширина авто% на планшете макс.
 
-##### Width - Tablet Pc Max (< 992px)
+##### Width - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:w-100` - Ширина 100% при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:w-95` - Ширина 95 % при наведении на планшетном ПК (макс.)
@@ -3155,7 +3154,7 @@
 - `.tablet-pc-max:w-5` - Ширина 5% на планшетном ПК макс.
 - `.tablet-pc-max:w-auto` - Ширина авто% на планшетном ПК макс.
 
-##### Width - Pc Max (< 1200px)
+##### Width - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:w-100` - Ширина 100% при наведении на ПК макс.
 - `.hover:pc-max:w-95` - Ширина 95% при наведении на ПК макс.
@@ -3202,25 +3201,25 @@
 
 #### Width vh
 
-- `.hover:w-vh-100` - Ширина vh 100% при наведении
-- `.hover:w-vh-75` - Ширина vh 75% при наведении
-- `.hover:w-vh-50` - Ширина vh 50% при наведении
-- `.hover:w-vh-25` - Ширина vh 25% при наведении
-- `.w-vh-100` - Ширина вх 100%
-- `.w-vh-75` - Ширина вх 75%
-- `.w-vh-50` - Ширина вх 50%
-- `.w-vh-25` - Ширина вх 25%
+- `.hover:w-vh-100` - Ширина vh 100vh при наведении
+- `.hover:w-vh-75` - Ширина vh 75vh при наведении
+- `.hover:w-vh-50` - Ширина vh 50vh при наведении
+- `.hover:w-vh-25` - Ширина vh 25vh при наведении
+- `.w-vh-100` - Ширина вх 100vh
+- `.w-vh-75` - Ширина вх 75vh
+- `.w-vh-50` - Ширина вх 50vh
+- `.w-vh-25` - Ширина вх 25vh
 
 #### Width vw
 
-- `.hover:w-vw-100` - Ширина vw 100% при наведении
-- `.hover:w-vw-75` - Ширина vw 75% при наведении
-- `.hover:w-vw-50` - Ширина vw 50% при наведении
-- `.hover:w-vw-25` - Ширина vw 25% при наведении
-- `.w-vw-100` - Ширина vw 100%
-- `.w-vw-75` - Ширина Фольксваген 75%
-- `.w-vw-50` - Ширина 50%
-- `.w-vw-25` - Ширина vw 25%
+- `.hover:w-vw-100` - Ширина vw 100vw при наведении
+- `.hover:w-vw-75` - Ширина vw 75vw при наведении
+- `.hover:w-vw-50` - Ширина vw 50vw при наведении
+- `.hover:w-vw-25` - Ширина vw 25vw при наведении
+- `.w-vw-100` - Ширина vw 100vw
+- `.w-vw-75` - Ширина Фольксваген 75vw
+- `.w-vw-50` - Ширина 50vw
+- `.w-vw-25` - Ширина vw 25vw
 
 ### Height
 
@@ -3267,7 +3266,7 @@
 - `.hover:h-5` - Высота 5% при наведении
 - `.hover:h-auto` - Высота автоматически % при наведении
 
-##### Height - Mobile (< 480px)
+##### Height - Mobile (≤ 480px)
 
 - `.hover:mobile:h-100` - Высота 100% при наведении на мобильном телефоне
 - `.hover:mobile:h-95` - Высота 95% при наведении на мобильном телефоне
@@ -3446,7 +3445,7 @@
 - `.pc:h-5` - Высота 5% на ПК
 - `.pc:h-auto` - Высота авто% на ПК
 
-##### Height - Tv (> 1200px)
+##### Height - Tv (≥ 1200px)
 
 - `.hover:tv:h-100` - Высота 100% при наведении на телевизор
 - `.hover:tv:h-95` - Высота 95% при наведении на телевизор
@@ -3491,7 +3490,7 @@
 - `.tv:h-5` - Рост 5% по телевизору
 - `.tv:h-auto` - Высота авто% на ТВ
 
-##### Height - Tablet Max (< 768px)
+##### Height - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:h-100` - Высота 100 % при наведении на планшет (максимум)
 - `.hover:tablet-max:h-95` - Высота 95% при наведении на планшет макс.
@@ -3536,7 +3535,7 @@
 - `.tablet-max:h-5` - Высота 5% на планшете макс.
 - `.tablet-max:h-auto` - Высота авто% на планшете макс.
 
-##### Height - Tablet Pc Max (< 992px)
+##### Height - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:h-100` - Высота 100% при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:h-95` - Высота 95% при наведении на планшетный ПК макс.
@@ -3581,7 +3580,7 @@
 - `.tablet-pc-max:h-5` - Высота 5% на планшетном ПК макс.
 - `.tablet-pc-max:h-auto` - Высота авто% на планшетном ПК макс.
 
-##### Height - Pc Max (< 1200px)
+##### Height - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:h-100` - Высота 100% при наведении на ПК макс.
 - `.hover:pc-max:h-95` - Высота 95% при наведении на ПК макс.
@@ -3628,25 +3627,25 @@
 
 #### Height vh
 
-- `.h-vh-100` - Высота вх 100%
-- `.h-vh-75` - Высота вх 75%
-- `.h-vh-50` - Высота вх 50%
-- `.h-vh-25` - Высота вх 25%
-- `.hover:h-vh-100` - Высота vh 100% при наведении
-- `.hover:h-vh-75` - Высота vh 75% при наведении
-- `.hover:h-vh-50` - Высота vh 50% при наведении
-- `.hover:h-vh-25` - Высота vh 25% при наведении
+- `.h-vh-100` - Высота вх 100vh
+- `.h-vh-75` - Высота вх 75vh
+- `.h-vh-50` - Высота вх 50vh
+- `.h-vh-25` - Высота вх 25vh
+- `.hover:h-vh-100` - Высота vh 100vh при наведении
+- `.hover:h-vh-75` - Высота vh 75vh при наведении
+- `.hover:h-vh-50` - Высота vh 50vh при наведении
+- `.hover:h-vh-25` - Высота vh 25vh при наведении
 
 #### Height vw
 
-- `.h-vw-100` - Высота vw 100%
-- `.h-vw-75` - Высота автомобиля 75%
-- `.h-vw-50` - Высота vw 50%
-- `.h-vw-25` - Высота vw 25%
-- `.hover:h-vw-100` - Высота vw 100% при наведении
-- `.hover:h-vw-75` - Высота vw 75% при наведении
-- `.hover:h-vw-50` - Высота vw 50% при наведении
-- `.hover:h-vw-25` - Высота vw 25% при наведении
+- `.h-vw-100` - Высота vw 100vw
+- `.h-vw-75` - Высота автомобиля 75vw
+- `.h-vw-50` - Высота vw 50vw
+- `.h-vw-25` - Высота vw 25vw
+- `.hover:h-vw-100` - Высота vw 100vw при наведении
+- `.hover:h-vw-75` - Высота vw 75vw при наведении
+- `.hover:h-vw-50` - Высота vw 50vw при наведении
+- `.hover:h-vw-25` - Высота vw 25vw при наведении
 
 ## Positioning
 
@@ -3677,10 +3676,10 @@
 
 ### Top
 
-- `.hover:top-100` - Топ-100рем при наведении
-- `.hover:top-75` - Топ 75рем при наведении
-- `.hover:top-50` - Топ-50рем при наведении
-- `.hover:top-25` - Топ-25рем при наведении
+- `.hover:top-100` - Топ-100% при наведении
+- `.hover:top-75` - Топ 75% при наведении
+- `.hover:top-50` - Топ-50% при наведении
+- `.hover:top-25` - Топ-25% при наведении
 - `.hover:top-5` - Топ-5рем при наведении
 - `.hover:top-4.5` - Топ 0rem при наведении
 - `.hover:top-4` - Топ 4рем при наведении
@@ -3708,10 +3707,10 @@
 - `.hover:top-0.2` - Топ 0,2рем при наведении
 - `.hover:top-0.1` - Топ 0,1рем при наведении
 - `.hover:top-0` - Топ 0rem при наведении
-- `.top-100` - Топ 100рем
-- `.top-75` - Топ 75рем
-- `.top-50` - Топ 50рем
-- `.top-25` - Топ 25рем
+- `.top-100` - Топ 100%
+- `.top-75` - Топ 75%
+- `.top-50` - Топ 50%
+- `.top-25` - Топ 25%
 - `.top-5` - Топ 5рем
 - `.top-4.5` - Топ 0рем
 - `.top-4` - Топ 4рем
@@ -3797,10 +3796,10 @@
 
 ### Right
 
-- `.hover:right-100` - Правые 100рем при наведении
-- `.hover:right-75` - Правый 75рем при наведении
-- `.hover:right-50` - Правый 50рем при наведении
-- `.hover:right-25` - Правый 25рем при наведении
+- `.hover:right-100` - Правые 100% при наведении
+- `.hover:right-75` - Правый 75% при наведении
+- `.hover:right-50` - Правый 50% при наведении
+- `.hover:right-25` - Правый 25% при наведении
 - `.hover:right-5` - Правая 5рем при наведении
 - `.hover:right-4.5` - Правый 0rem при наведении
 - `.hover:right-4` - Правый 4рем при наведении
@@ -3828,10 +3827,10 @@
 - `.hover:right-0.2` - Вправо 0,2рем при наведении
 - `.hover:right-0.1` - Вправо 0,1рем при наведении
 - `.hover:right-0` - Правый 0rem при наведении
-- `.right-100` - Правый 100рем
-- `.right-75` - Правый 75рем
-- `.right-50` - Правый 50рем
-- `.right-25` - Правый 25рем
+- `.right-100` - Правый 100%
+- `.right-75` - Правый 75%
+- `.right-50` - Правый 50%
+- `.right-25` - Правый 25%
 - `.right-5` - Правый 5рем
 - `.right-4.5` - Право 0рем
 - `.right-4` - Правый 4рем
@@ -3917,10 +3916,10 @@
 
 ### Bottom
 
-- `.bottom-100` - Низ 100рем
-- `.bottom-75` - Низ 75рем
-- `.bottom-50` - Нижний 50рем
-- `.bottom-25` - Низ 25рем
+- `.bottom-100` - Низ 100%
+- `.bottom-75` - Низ 75%
+- `.bottom-50` - Нижний 50%
+- `.bottom-25` - Низ 25%
 - `.bottom-5` - Нижний 5рем
 - `.bottom-4.5` - Нижний 0рем
 - `.bottom-4` - Нижний 4рем
@@ -3948,10 +3947,10 @@
 - `.bottom-0.2` - Низ 0,2рем
 - `.bottom-0.1` - Низ 0,1бэр
 - `.bottom-0` - Нижний 0рем
-- `.hover:bottom-100` - Нижние 100рем при наведении
-- `.hover:bottom-75` - Нижняя 75рем при наведении
-- `.hover:bottom-50` - Нижние 50рем при наведении
-- `.hover:bottom-25` - Нижние 25рем при наведении
+- `.hover:bottom-100` - Нижние 100% при наведении
+- `.hover:bottom-75` - Нижняя 75% при наведении
+- `.hover:bottom-50` - Нижние 50% при наведении
+- `.hover:bottom-25` - Нижние 25% при наведении
 - `.hover:bottom-5` - Нижние 5рем при наведении
 - `.hover:bottom-4.5` - Нижний 0рем при наведении
 - `.hover:bottom-4` - Нижний 4rem при наведении
@@ -4037,10 +4036,10 @@
 
 ### Left
 
-- `.hover:left-100` - Осталось 100рем при наведении
-- `.hover:left-75` - Осталось 75рем при наведении
-- `.hover:left-50` - Осталось 50рем при наведении
-- `.hover:left-25` - Осталось 25рем при наведении
+- `.hover:left-100` - Осталось 100% при наведении
+- `.hover:left-75` - Осталось 75% при наведении
+- `.hover:left-50` - Осталось 50% при наведении
+- `.hover:left-25` - Осталось 25% при наведении
 - `.hover:left-5` - Осталось 5рем при наведении
 - `.hover:left-4.5` - Осталось 0рем при наведении
 - `.hover:left-4` - Осталось 4рем при наведении
@@ -4068,10 +4067,10 @@
 - `.hover:left-0.2` - Осталось 0,2рем при наведении
 - `.hover:left-0.1` - Осталось 0,1 рем при наведении
 - `.hover:left-0` - Осталось 0рем при наведении
-- `.left-100` - Осталось 100рем
-- `.left-75` - Осталось 75рем
-- `.left-50` - Осталось 50рем
-- `.left-25` - Осталось 25рем
+- `.left-100` - Осталось 100%
+- `.left-75` - Осталось 75%
+- `.left-50` - Осталось 50%
+- `.left-25` - Осталось 25%
 - `.left-5` - Левый 5рем
 - `.left-4.5` - Осталось 0рем
 - `.left-4` - Левый 4рем
@@ -4157,18 +4156,18 @@
 
 ### Z-Index
 
-- `.hover:z-5` - Z-индекс 5 при наведении
-- `.hover:z-4` - Z-индекс 4 при наведении
-- `.hover:z-3` - Z-индекс 3 при наведении
-- `.hover:z-2` - Z-индекс 2 при наведении
-- `.hover:z-1` - Z-индекс 1 при наведении
+- `.hover:z-5` - Z-индекс 1005 при наведении
+- `.hover:z-4` - Z-индекс 1004 при наведении
+- `.hover:z-3` - Z-индекс 1003 при наведении
+- `.hover:z-2` - Z-индекс 1002 при наведении
+- `.hover:z-1` - Z-индекс 1001 при наведении
 - `.hover:z-0` - Z-индекс 0 при наведении
 - `.hover:z-auto` - Z-Index автоматически при наведении
-- `.z-5` - Z-индекс 5
-- `.z-4` - Z-индекс 4
-- `.z-3` - Z-индекс 3
-- `.z-2` - Z-индекс 2
-- `.z-1` - Z-индекс 1
+- `.z-5` - Z-индекс 1005
+- `.z-4` - Z-индекс 1004
+- `.z-3` - Z-индекс 1003
+- `.z-2` - Z-индекс 1002
+- `.z-1` - Z-индекс 1001
 - `.z-0` - Z-индекс 0
 - `.z-auto` - Z-индекс авто
 
@@ -4357,7 +4356,7 @@
 - `.text-transparent` - Текст прозрачный
 - `.text-uppercase` - Текст в верхнем регистре
 
-##### Text - Mobile (< 480px)
+##### Text - Mobile (≤ 480px)
 
 - `.hover:mobile:text-center` - Текстовый центр при наведении на мобильном телефоне
 - `.hover:mobile:text-end` - Завершение текста при наведении на мобильном телефоне
@@ -4417,7 +4416,7 @@
 - `.pc:text-right` - Текст прямо на компьютере
 - `.pc:text-start` - Начало текста на ПК
 
-##### Text - Tv (> 1200px)
+##### Text - Tv (≥ 1200px)
 
 - `.hover:tv:text-center` - Текстовый центр при наведении на телевизор
 - `.hover:tv:text-end` - Конец текста при наведении на телевизор
@@ -4432,7 +4431,7 @@
 - `.tv:text-right` - Текст прямо на телевизоре
 - `.tv:text-start` - Начало текстового сообщения на телевизоре
 
-##### Text - Tablet Max (< 768px)
+##### Text - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:text-center` - Текстовый центр при наведении на планшете Max
 - `.hover:tablet-max:text-end` - Завершение текста при наведении на планшете Max
@@ -4447,7 +4446,7 @@
 - `.tablet-max:text-right` - Текст прямо на планшете Max
 - `.tablet-max:text-start` - Начало текста на планшете Max
 
-##### Text - Tablet Pc Max (< 992px)
+##### Text - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:text-center` - Текстовый центр при наведении на планшетном ПК макс.
 - `.hover:tablet-pc-max:text-end` - Конец текста при наведении на планшетном ПК макс.
@@ -4462,7 +4461,7 @@
 - `.tablet-pc-max:text-right` - Текст прямо на планшетном ПК Макс.
 - `.tablet-pc-max:text-start` - Начало текста на планшетном ПК Max
 
-##### Text - Pc Max (< 1200px)
+##### Text - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:text-center` - Текстовый центр при наведении на ПК макс.
 - `.hover:pc-max:text-end` - Завершение текста при наведении на ПК макс.
@@ -4514,18 +4513,18 @@
 
 ### Bg blur
 
-- `.bg-blur-5` - Фоновое размытие 5рем
-- `.bg-blur-4` - Фоновое размытие 4рем.
-- `.bg-blur-3` - Фоновое размытие 3рем.
-- `.bg-blur-2` - Фоновое размытие 2rem
-- `.bg-blur-1` - Размытие фона 1рем.
-- `.bg-blur-0` - Размытие фона 0rem
-- `.hover:bg-blur-5` - Размытие фона 5рем при наведении
-- `.hover:bg-blur-4` - Размытие фона 4rem при наведении
-- `.hover:bg-blur-3` - Размытие фона 3rem при наведении
-- `.hover:bg-blur-2` - Размытие фона 2rem при наведении
-- `.hover:bg-blur-1` - Размытие фона 1рем при наведении
-- `.hover:bg-blur-0` - Размытие фона 0rem при наведении
+- `.bg-blur-5` - Фоновое размытие 24px
+- `.bg-blur-4` - Фоновое размытие 16px
+- `.bg-blur-3` - Фоновое размытие 12px
+- `.bg-blur-2` - Фоновое размытие 8px
+- `.bg-blur-1` - Размытие фона 4px
+- `.bg-blur-0` - Размытие фона 0px
+- `.hover:bg-blur-5` - Размытие фона 24px при наведении
+- `.hover:bg-blur-4` - Размытие фона 16px при наведении
+- `.hover:bg-blur-3` - Размытие фона 12px при наведении
+- `.hover:bg-blur-2` - Размытие фона 8px при наведении
+- `.hover:bg-blur-1` - Размытие фона 4px при наведении
+- `.hover:bg-blur-0` - Размытие фона 0px при наведении
 
 ## Borders
 
@@ -4884,26 +4883,26 @@
 #### Box Shadow All
 
 - `.hover:shadow-5` - Box Shadow All 5rem при наведении
-- `.hover:shadow-5-1` - Box Shadow Все 5-1рем при наведении
+- `.hover:shadow-5-1` - Box Shadow Все 0 0 5rem 2rem при наведении
 - `.hover:shadow-4` - Box Shadow All 4rem при наведении
-- `.hover:shadow-4-1` - Box Shadow All 4-1рем при наведении
+- `.hover:shadow-4-1` - Box Shadow All 0 0 4rem 2rem при наведении
 - `.hover:shadow-3` - Box Shadow All 3rem при наведении
-- `.hover:shadow-3-1` - Box Shadow All 3-1рем при наведении
+- `.hover:shadow-3-1` - Box Shadow All 0 0 3rem 2rem при наведении
 - `.hover:shadow-2` - Box Shadow All 2rem при наведении
-- `.hover:shadow-2-1` - Box Shadow All 2-1рем при наведении
+- `.hover:shadow-2-1` - Box Shadow All 0 0 2rem 2rem при наведении
 - `.hover:shadow-1` - Box Shadow Все 1рем при наведении
-- `.hover:shadow-1-1` - Box Shadow Все 1-1рем при наведении
+- `.hover:shadow-1-1` - Box Shadow Все 0 0 1rem 2rem при наведении
 - `.hover:shadow-none` - Box Shadow Все нет при наведении
 - `.shadow-5` - Коробка Shadow All 5rem
-- `.shadow-5-1` - Бокс Шэдоу Все 5-1рем
+- `.shadow-5-1` - Бокс Шэдоу Все 0 0 5rem 2rem
 - `.shadow-4` - Коробка Shadow All 4rem
-- `.shadow-4-1` - Бокс Шэдоу Все 4-1рем
+- `.shadow-4-1` - Бокс Шэдоу Все 0 0 4rem 2rem
 - `.shadow-3` - Коробка Тень Все 3рем
-- `.shadow-3-1` - Бокс Шэдоу Все 3-1рем
+- `.shadow-3-1` - Бокс Шэдоу Все 0 0 3rem 2rem
 - `.shadow-2` - Коробка Тень Все 2рем
-- `.shadow-2-1` - Бокс Шэдоу Все 2-1рем
+- `.shadow-2-1` - Бокс Шэдоу Все 0 0 2rem 2rem
 - `.shadow-1` - Коробка Тень Все 1рем
-- `.shadow-1-1` - Box Shadow Все 1-1рем
+- `.shadow-1-1` - Box Shadow Все 0 0 1rem 2rem
 - `.shadow-none` - Box Shadow Все нет
 
 #### Box Shadow Bottom
@@ -5046,18 +5045,18 @@
 
 ### Blur
 
-- `.blur-5` - Размытие 5рем
-- `.blur-4` - Размытие 4рем
-- `.blur-3` - Размытие 3рем
-- `.blur-2` - Размытие 2рем
-- `.blur-1` - Размытие 1рем
-- `.blur-0` - Размытие 0рем
-- `.hover:blur-5` - Размытие 5рем при наведении
-- `.hover:blur-4` - Размытие 4rem при наведении
-- `.hover:blur-3` - Размытие 3rem при наведении
-- `.hover:blur-2` - Размытие 2rem при наведении
-- `.hover:blur-1` - Размытие 1рем при наведении
-- `.hover:blur-0` - Размытие 0rem при наведении
+- `.blur-5` - Размытие 24px
+- `.blur-4` - Размытие 16px
+- `.blur-3` - Размытие 12px
+- `.blur-2` - Размытие 8px
+- `.blur-1` - Размытие 4px
+- `.blur-0` - Размытие 0px
+- `.hover:blur-5` - Размытие 24px при наведении
+- `.hover:blur-4` - Размытие 16px при наведении
+- `.hover:blur-3` - Размытие 12px при наведении
+- `.hover:blur-2` - Размытие 8px при наведении
+- `.hover:blur-1` - Размытие 4px при наведении
+- `.hover:blur-0` - Размытие 0px при наведении
 
 ### Opacity
 
@@ -5108,111 +5107,111 @@
 
 ### Rotate
 
-- `.hover:rotate-180` - Поворот на 180рем при наведении
-- `.hover:rotate-135` - Поворот на 135рем при наведении
-- `.hover:rotate-90` - Поворот на 90рем при наведении
-- `.hover:rotate-45` - Поворот на 45рем при наведении
-- `.hover:rotate-12` - Поворот на 12рем при наведении
-- `.hover:rotate-9` - Поворот на 9rem при наведении
-- `.hover:rotate-6` - Поворот на 6rem при наведении
-- `.hover:rotate-3` - Поворот на 3rem при наведении
-- `.hover:rotate-0` - Поворот 0rem при наведении
-- `.rotate-180` - Поворот на 180рем
-- `.rotate-135` - Поворот на 135рем
-- `.rotate-90` - Поворот на 90рем
-- `.rotate-45` - Поворот на 45рем
-- `.rotate-12` - Поворот на 12 рем.
-- `.rotate-9` - Поворот на 9рем.
-- `.rotate-6` - Поворот на 6 рем.
-- `.rotate-3` - Поворот на 3 рем.
-- `.rotate-0` - Поворот на 0рем.
+- `.hover:rotate-180` - Поворот на 180deg при наведении
+- `.hover:rotate-135` - Поворот на 135deg при наведении
+- `.hover:rotate-90` - Поворот на 90deg при наведении
+- `.hover:rotate-45` - Поворот на 45deg при наведении
+- `.hover:rotate-12` - Поворот на 12deg при наведении
+- `.hover:rotate-9` - Поворот на 9deg при наведении
+- `.hover:rotate-6` - Поворот на 6deg при наведении
+- `.hover:rotate-3` - Поворот на 3deg при наведении
+- `.hover:rotate-0` - Поворот 0deg при наведении
+- `.rotate-180` - Поворот на 180deg
+- `.rotate-135` - Поворот на 135deg
+- `.rotate-90` - Поворот на 90deg
+- `.rotate-45` - Поворот на 45deg
+- `.rotate-12` - Поворот на 12deg
+- `.rotate-9` - Поворот на 9deg
+- `.rotate-6` - Поворот на 6deg
+- `.rotate-3` - Поворот на 3deg
+- `.rotate-0` - Поворот на 0deg
 
 ##### Negative Rotate
 
-- `.-rotate-180` - Отрицательное вращение 180рем
-- `.-rotate-135` - Отрицательное вращение 135рем
-- `.-rotate-90` - Отрицательное вращение 90рем.
-- `.-rotate-45` - Отрицательное вращение 45рем
-- `.-rotate-12` - Отрицательное вращение 12рем
-- `.-rotate-9` - Отрицательное вращение 9rem
-- `.-rotate-6` - Отрицательное вращение 6рем
-- `.-rotate-3` - Отрицательное вращение 3рем.
-- `.hover:-rotate-180` - Отрицательное вращение на 180 рем при наведении
-- `.hover:-rotate-135` - Отрицательное вращение на 135 рем при наведении
-- `.hover:-rotate-90` - Отрицательное вращение на 90 рем. при наведении
-- `.hover:-rotate-45` - Отрицательное вращение на 45 рем при наведении
-- `.hover:-rotate-12` - Отрицательное вращение на 12 рем. при наведении
-- `.hover:-rotate-9` - Отрицательное вращение 9rem при наведении
-- `.hover:-rotate-6` - Отрицательное вращение 6rem при наведении
-- `.hover:-rotate-3` - Отрицательное вращение на 3 рем при наведении
+- `.-rotate-180` - Отрицательное вращение 180deg
+- `.-rotate-135` - Отрицательное вращение 135deg
+- `.-rotate-90` - Отрицательное вращение 90deg
+- `.-rotate-45` - Отрицательное вращение 45deg
+- `.-rotate-12` - Отрицательное вращение 12deg
+- `.-rotate-9` - Отрицательное вращение 9deg
+- `.-rotate-6` - Отрицательное вращение 6deg
+- `.-rotate-3` - Отрицательное вращение 3deg
+- `.hover:-rotate-180` - Отрицательное вращение на 180deg при наведении
+- `.hover:-rotate-135` - Отрицательное вращение на 135deg при наведении
+- `.hover:-rotate-90` - Отрицательное вращение на 90deg при наведении
+- `.hover:-rotate-45` - Отрицательное вращение на 45deg при наведении
+- `.hover:-rotate-12` - Отрицательное вращение на 12deg при наведении
+- `.hover:-rotate-9` - Отрицательное вращение 9deg при наведении
+- `.hover:-rotate-6` - Отрицательное вращение 6deg при наведении
+- `.hover:-rotate-3` - Отрицательное вращение на 3deg при наведении
 
 ### Skew
 
 #### Skew X-Axis
 
-- `.hover:skew-x-12` - Наклон оси X на 12 рем при наведении
-- `.hover:skew-x-6` - Наклон оси X 6rem при наведении
-- `.hover:skew-x-3` - Наклон оси X 3rem при наведении
-- `.hover:skew-x-0` - Наклон оси X 0rem при наведении
-- `.skew-x-12` - Наклон оси X 12рем
-- `.skew-x-6` - Наклон оси X 6rem
-- `.skew-x-3` - Наклон оси X 3rem
-- `.skew-x-0` - Наклон оси X 0rem
+- `.hover:skew-x-12` - Наклон оси X на 12deg при наведении
+- `.hover:skew-x-6` - Наклон оси X 6deg при наведении
+- `.hover:skew-x-3` - Наклон оси X 3deg при наведении
+- `.hover:skew-x-0` - Наклон оси X 0deg при наведении
+- `.skew-x-12` - Наклон оси X 12deg
+- `.skew-x-6` - Наклон оси X 6deg
+- `.skew-x-3` - Наклон оси X 3deg
+- `.skew-x-0` - Наклон оси X 0deg
 
 ##### Negative Skew X-Axis
 
-- `.-skew-x-12` - Отрицательный перекос по оси X, 12 рем.
-- `.-skew-x-6` - Отрицательный перекос по оси X 6rem
-- `.-skew-x-3` - Отрицательный перекос по оси X 3rem
-- `.hover:-skew-x-12` - Отрицательный наклон оси X 12рем при наведении
-- `.hover:-skew-x-6` - Отрицательный наклон оси X 6rem при наведении
-- `.hover:-skew-x-3` - Отрицательный наклон оси X 3rem при наведении
+- `.-skew-x-12` - Отрицательный перекос по оси X, 12deg
+- `.-skew-x-6` - Отрицательный перекос по оси X 6deg
+- `.-skew-x-3` - Отрицательный перекос по оси X 3deg
+- `.hover:-skew-x-12` - Отрицательный наклон оси X 12deg при наведении
+- `.hover:-skew-x-6` - Отрицательный наклон оси X 6deg при наведении
+- `.hover:-skew-x-3` - Отрицательный наклон оси X 3deg при наведении
 
 #### Skew Y-Axis
 
-- `.hover:skew-y-12` - Наклон оси Y на 12 рем при наведении
-- `.hover:skew-y-6` - Наклон оси Y 6rem при наведении
-- `.hover:skew-y-3` - Наклон оси Y 3rem при наведении
-- `.hover:skew-y-0` - Наклон оси Y 0rem при наведении
-- `.skew-y-12` - Наклон оси Y 12рем
-- `.skew-y-6` - Наклон оси Y 6rem
-- `.skew-y-3` - Наклон оси Y 3rem
-- `.skew-y-0` - Наклон оси Y 0rem
+- `.hover:skew-y-12` - Наклон оси Y на 12deg при наведении
+- `.hover:skew-y-6` - Наклон оси Y 6deg при наведении
+- `.hover:skew-y-3` - Наклон оси Y 3deg при наведении
+- `.hover:skew-y-0` - Наклон оси Y 0deg при наведении
+- `.skew-y-12` - Наклон оси Y 12deg
+- `.skew-y-6` - Наклон оси Y 6deg
+- `.skew-y-3` - Наклон оси Y 3deg
+- `.skew-y-0` - Наклон оси Y 0deg
 
 ##### Negative Skew Y-Axis
 
-- `.-skew-y-12` - Отрицательный перекос оси Y 12rem
-- `.-skew-y-6` - Отрицательный перекос оси Y 6rem
-- `.-skew-y-3` - Отрицательный перекос оси Y 3rem
-- `.hover:-skew-y-12` - Отрицательный наклон оси Y 12рем при наведении
-- `.hover:-skew-y-6` - Отрицательный наклон оси Y 6rem при наведении
-- `.hover:-skew-y-3` - Отрицательный наклон оси Y 3rem при наведении
+- `.-skew-y-12` - Отрицательный перекос оси Y 12deg
+- `.-skew-y-6` - Отрицательный перекос оси Y 6deg
+- `.-skew-y-3` - Отрицательный перекос оси Y 3deg
+- `.hover:-skew-y-12` - Отрицательный наклон оси Y 12deg при наведении
+- `.hover:-skew-y-6` - Отрицательный наклон оси Y 6deg при наведении
+- `.hover:-skew-y-3` - Отрицательный наклон оси Y 3deg при наведении
 
 ### Translate
 
-- `.hover:translate-50` - Перевести 50рем при наведении
-- `.hover:translate-25` - Перевести 25rem при наведении
-- `.translate-50` - Перевести 50rem
-- `.translate-25` - Перевести 25rem
+- `.hover:translate-50` - Перевести 50% при наведении
+- `.hover:translate-25` - Перевести 25% при наведении
+- `.translate-50` - Перевести 50%
+- `.translate-25` - Перевести 25%
 
 ##### Negative Translate
 
-- `.-translate-50` - Отрицательный перевод 50рем
-- `.-translate-25` - Отрицательный перевод 25рем
-- `.hover:-translate-50` - Отрицательный перевод 50рем при наведении
-- `.hover:-translate-25` - Отрицательный перевод 25рем при наведении
+- `.-translate-50` - Отрицательный перевод 50%
+- `.-translate-25` - Отрицательный перевод 25%
+- `.hover:-translate-50` - Отрицательный перевод 50% при наведении
+- `.hover:-translate-25` - Отрицательный перевод 25% при наведении
 
 #### Translate X-Axis
 
-- `.hover:translate-x-50` - Перевести X-Axis 50rem при наведении
-- `.hover:translate-x-25` - Перевести X-Axis 25rem при наведении
+- `.hover:translate-x-50` - Перевести X-Axis 50% при наведении
+- `.hover:translate-x-25` - Перевести X-Axis 25% при наведении
 - `.hover:translate-x-2` - Перевести X-Axis 2rem при наведении
 - `.hover:translate-x-1.5` - Перевести X-Axis 0rem при наведении
 - `.hover:translate-x-1` - Перевести X-Axis 1rem при наведении
 - `.hover:translate-x-0.5` - Перевести 0,5рем по оси X при наведении
 - `.hover:translate-x-0` - Перевести X-Axis 0rem при наведении
-- `.translate-x-50` - Перевести ось X 50рем
-- `.translate-x-25` - Перевести X-Axis 25rem
+- `.translate-x-50` - Перевести ось X 50%
+- `.translate-x-25` - Перевести X-Axis 25%
 - `.translate-x-2` - Перевести ось X 2rem
 - `.translate-x-1.5` - Перевести ось X 0rem
 - `.translate-x-1` - Перевести ось X 1rem
@@ -5221,14 +5220,14 @@
 
 ##### Negative Translate X-Axis
 
-- `.-translate-x-50` - Отрицательное перемещение оси X 50рем
-- `.-translate-x-25` - Отрицательный перевод оси X 25рем
+- `.-translate-x-50` - Отрицательное перемещение оси X 50%
+- `.-translate-x-25` - Отрицательный перевод оси X 25%
 - `.-translate-x-2` - Отрицательное перемещение оси X 2rem
 - `.-translate-x-1.5` - Отрицательное перемещение оси X 1,5 рем.
 - `.-translate-x-1` - Отрицательное перемещение оси X 1rem
 - `.-translate-x-0.5` - Отрицательное перемещение оси X 0,5 рем.
-- `.hover:-translate-x-50` - Отрицательный перевод оси X 50рем при наведении
-- `.hover:-translate-x-25` - Отрицательный перевод оси X 25рем при наведении
+- `.hover:-translate-x-50` - Отрицательный перевод оси X 50% при наведении
+- `.hover:-translate-x-25` - Отрицательный перевод оси X 25% при наведении
 - `.hover:-translate-x-2` - Отрицательный перевод оси X 2rem при наведении
 - `.hover:-translate-x-1.5` - Отрицательное перемещение оси X 1,5 рем. при наведении
 - `.hover:-translate-x-1` - Отрицательный перевод оси X 1rem при наведении
@@ -5236,15 +5235,15 @@
 
 #### Translate Y-Axis
 
-- `.hover:translate-y-50` - Перевести ось Y на 50 рем при наведении
-- `.hover:translate-y-25` - Перевести ось Y 25рем при наведении
+- `.hover:translate-y-50` - Перевести ось Y на 50% при наведении
+- `.hover:translate-y-25` - Перевести ось Y 25% при наведении
 - `.hover:translate-y-2` - Перевести ось Y 2rem при наведении
 - `.hover:translate-y-1.5` - Перевести ось Y 0rem при наведении
 - `.hover:translate-y-1` - Перевести ось Y 1rem при наведении
 - `.hover:translate-y-0.5` - Перевести ось Y на 0,5 рем при наведении
 - `.hover:translate-y-0` - Перевести ось Y 0rem при наведении
-- `.translate-y-50` - Перевести ось Y 50рем
-- `.translate-y-25` - Перевести ось Y 25рем
+- `.translate-y-50` - Перевести ось Y 50%
+- `.translate-y-25` - Перевести ось Y 25%
 - `.translate-y-2` - Перевести ось Y 2rem
 - `.translate-y-1.5` - Перевести ось Y 0rem
 - `.translate-y-1` - Перевести ось Y 1rem
@@ -5253,14 +5252,14 @@
 
 ##### Negative Translate Y-Axis
 
-- `.-translate-y-50` - Отрицательное перемещение оси Y 50рем
-- `.-translate-y-25` - Отрицательное перемещение оси Y 25рем
+- `.-translate-y-50` - Отрицательное перемещение оси Y 50%
+- `.-translate-y-25` - Отрицательное перемещение оси Y 25%
 - `.-translate-y-2` - Отрицательное перемещение оси Y 2rem
 - `.-translate-y-1.5` - Отрицательное перемещение оси Y 1,5 рем.
 - `.-translate-y-1` - Отрицательное перемещение оси Y 1rem
 - `.-translate-y-0.5` - Отрицательное перемещение оси Y 0,5рем
-- `.hover:-translate-y-50` - Отрицательное перемещение оси Y 50рем при наведении
-- `.hover:-translate-y-25` - Отрицательный перевод оси Y 25рем при наведении
+- `.hover:-translate-y-50` - Отрицательное перемещение оси Y 50% при наведении
+- `.hover:-translate-y-25` - Отрицательный перевод оси Y 25% при наведении
 - `.hover:-translate-y-2` - Отрицательное перемещение оси Y 2rem при наведении
 - `.hover:-translate-y-1.5` - Отрицательное перемещение оси Y 1,5 рем. при наведении
 - `.hover:-translate-y-1` - Отрицательное перемещение оси Y на 1 рем при наведении
@@ -5269,10 +5268,10 @@
 ### Zoom
 
 - `.hover:zoom` - Увеличение при наведении
-- `.hover:zoom-2` - Увеличение 2рем при наведении
-- `.hover:zoom-1.5` - Увеличение 1,5рем при наведении
+- `.hover:zoom-2` - Увеличение 2 при наведении
+- `.hover:zoom-1.5` - Увеличение 1,5 при наведении
 - `.zoom` - Увеличить
-- `.zoom-2` - Зум 2рем
+- `.zoom-2` - Зум 2
 - `.zoom-1.5` - Увеличение 1,5
 
 ## Colors
@@ -5354,19 +5353,19 @@
 
 ### Content
 
-- `.content-3` - Контент 3рем
-- `.content-3-bg` - Содержание 3-бгрем
-- `.content-2` - Контент 2рем
-- `.content-2-bg` - Содержание 2-бгрем
-- `.content-2-text` - Контент 2-тестрем
-- `.content-1` - Контент 1рем
-- `.content-1-bg` - Содержание 1-бгрем
-- `.content-1-text` - Содержание 1-тестрем
-- `.hover:content-3-bg` - Содержимое 3-bgrem при наведении
-- `.hover:content-2-bg` - Содержимое 2-bgrem при наведении
-- `.hover:content-2-text` - Контент 2-textrem при наведении
-- `.hover:content-1-bg` - Содержимое 1-bgrem при наведении
-- `.hover:content-1-text` - Контент 1-textrem при наведении
+- `.content-3` - Контент 3
+- `.content-3-bg` - Содержание 3-bg
+- `.content-2` - Контент 2
+- `.content-2-bg` - Содержание 2-bg
+- `.content-2-text` - Контент 2-text
+- `.content-1` - Контент 1
+- `.content-1-bg` - Содержание 1-bg
+- `.content-1-text` - Содержание 1-text
+- `.hover:content-3-bg` - Содержимое 3-bg при наведении
+- `.hover:content-2-bg` - Содержимое 2-bg при наведении
+- `.hover:content-2-text` - Контент 2-text при наведении
+- `.hover:content-1-bg` - Содержимое 1-bg при наведении
+- `.hover:content-1-text` - Контент 1-text при наведении
 
 ### Dir
 
@@ -5386,12 +5385,6 @@
 - `.mse-0.5` - Мсэ 0,5бэр
 - `.mse-0` - Мсе 0рем
 
-### Other
-
-##### Other - undefined
-
-- `.hover:px-3.5` - Другое при наведении на px 3,5
-
 ### Visibility
 
 - `.hover:v-hide` - Видимость скрыта при наведении
@@ -5399,7 +5392,7 @@
 - `.v-hide` - Видимость скрыта
 - `.v-show` - Видимость видимая
 
-##### Visibility - Mobile (< 480px)
+##### Visibility - Mobile (≤ 480px)
 
 - `.hover:mobile:v-hide` - Видимость скрыта при наведении на мобильном телефоне
 - `.hover:mobile:v-show` - Видимость видна при наведении на мобильном телефоне
@@ -5427,28 +5420,28 @@
 - `.pc:v-hide` - Видимость скрыта на ПК
 - `.pc:v-show` - Видимость видна на ПК
 
-##### Visibility - Tv (> 1200px)
+##### Visibility - Tv (≥ 1200px)
 
 - `.hover:tv:v-hide` - Видимость скрыта при наведении на телевизоре
 - `.hover:tv:v-show` - Видимость видна при наведении на телевизор
 - `.tv:v-hide` - Видимость скрыта по телевизору
 - `.tv:v-show` - Видимость видна по телевизору
 
-##### Visibility - Tablet Max (< 768px)
+##### Visibility - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:v-hide` - Видимость скрыта при наведении на планшете Max
 - `.hover:tablet-max:v-show` - Видимость видна при наведении на планшете макс.
 - `.tablet-max:v-hide` - Видимость скрыта на планшете Max
 - `.tablet-max:v-show` - Видимость видима на планшете макс.
 
-##### Visibility - Tablet Pc Max (< 992px)
+##### Visibility - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:v-hide` - Видимость скрыта при наведении на планшетном ПК макс.
 - `.hover:tablet-pc-max:v-show` - Видимость видима при наведении на планшетном ПК макс.
 - `.tablet-pc-max:v-hide` - Видимость скрыта на планшетном ПК макс.
 - `.tablet-pc-max:v-show` - Видимость видима на планшетном ПК макс.
 
-##### Visibility - Pc Max (< 1200px)
+##### Visibility - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:v-hide` - Видимость скрыта при наведении на ПК макс.
 - `.hover:pc-max:v-show` - Видимость видна при наведении на ПК макс.

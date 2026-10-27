@@ -114,7 +114,6 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - [Content](#content)
 - [Dir](#dir)
 - [Mse](#mse)
-- [Other](#other)
 - [Visibility](#visibility)
 - [Customization](#customization)
 - [License](#license)
@@ -157,7 +156,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:d-inline-flex` - Display inline-flex on hover
 - `.hover:d-none` - Display none on hover
 
-##### Display - Mobile (< 480px)
+##### Display - Mobile (≤ 480px)
 
 - `.hover:mobile:d-block` - Display block on hover on mobile
 - `.hover:mobile:d-flex` - Display flex on hover on mobile
@@ -225,7 +224,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:d-inline-grid` - Display inline-grid on pc
 - `.pc:d-none` - Display none on pc
 
-##### Display - Tv (> 1200px)
+##### Display - Tv (≥ 1200px)
 
 - `.hover:tv:d-block` - Display block on hover on tv
 - `.hover:tv:d-flex` - Display flex on hover on tv
@@ -242,7 +241,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:d-inline-grid` - Display inline-grid on tv
 - `.tv:d-none` - Display none on tv
 
-##### Display - Tablet Max (< 768px)
+##### Display - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:d-block` - Display block on hover on tablet max
 - `.hover:tablet-max:d-flex` - Display flex on hover on tablet max
@@ -259,7 +258,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:d-inline-grid` - Display inline-grid on tablet max
 - `.tablet-max:d-none` - Display none on tablet max
 
-##### Display - Tablet Pc Max (< 992px)
+##### Display - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:d-block` - Display block on hover on tablet pc max
 - `.hover:tablet-pc-max:d-flex` - Display flex on hover on tablet pc max
@@ -276,7 +275,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:d-inline-grid` - Display inline-grid on tablet pc max
 - `.tablet-pc-max:d-none` - Display none on tablet pc max
 
-##### Display - Pc Max (< 1200px)
+##### Display - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:d-block` - Display block on hover on pc max
 - `.hover:pc-max:d-flex` - Display flex on hover on pc max
@@ -306,7 +305,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:float-right` - Float right on hover
 - `.hover:float-start` - Float start on hover
 
-##### Float - Mobile (< 480px)
+##### Float - Mobile (≤ 480px)
 
 - `.hover:mobile:float-end` - Float end on hover on mobile
 - `.hover:mobile:float-left` - Float left on hover on mobile
@@ -358,7 +357,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:float-right` - Float right on pc
 - `.pc:float-start` - Float start on pc
 
-##### Float - Tv (> 1200px)
+##### Float - Tv (≥ 1200px)
 
 - `.hover:tv:float-end` - Float end on hover on tv
 - `.hover:tv:float-left` - Float left on hover on tv
@@ -371,7 +370,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:float-right` - Float right on tv
 - `.tv:float-start` - Float start on tv
 
-##### Float - Tablet Max (< 768px)
+##### Float - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:float-end` - Float end on hover on tablet max
 - `.hover:tablet-max:float-left` - Float left on hover on tablet max
@@ -384,7 +383,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:float-right` - Float right on tablet max
 - `.tablet-max:float-start` - Float start on tablet max
 
-##### Float - Tablet Pc Max (< 992px)
+##### Float - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:float-end` - Float end on hover on tablet pc max
 - `.hover:tablet-pc-max:float-left` - Float left on hover on tablet pc max
@@ -397,7 +396,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:float-right` - Float right on tablet pc max
 - `.tablet-pc-max:float-start` - Float start on tablet pc max
 
-##### Float - Pc Max (< 1200px)
+##### Float - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:float-end` - Float end on hover on pc max
 - `.hover:pc-max:float-left` - Float left on hover on pc max
@@ -423,7 +422,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.object-none` - Object none
 - `.object-scale` - Object scale
 
-##### Object - Mobile (< 480px)
+##### Object - Mobile (≤ 480px)
 
 - `.hover:mobile:object-contain` - Object contain on hover on mobile
 - `.hover:mobile:object-cover` - Object cover on hover on mobile
@@ -475,7 +474,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:object-none` - Object none on pc
 - `.pc:object-scale` - Object scale on pc
 
-##### Object - Tv (> 1200px)
+##### Object - Tv (≥ 1200px)
 
 - `.hover:tv:object-contain` - Object contain on hover on tv
 - `.hover:tv:object-cover` - Object cover on hover on tv
@@ -488,7 +487,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:object-none` - Object none on tv
 - `.tv:object-scale` - Object scale on tv
 
-##### Object - Tablet Max (< 768px)
+##### Object - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:object-contain` - Object contain on hover on tablet max
 - `.hover:tablet-max:object-cover` - Object cover on hover on tablet max
@@ -501,7 +500,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:object-none` - Object none on tablet max
 - `.tablet-max:object-scale` - Object scale on tablet max
 
-##### Object - Tablet Pc Max (< 992px)
+##### Object - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:object-contain` - Object contain on hover on tablet pc max
 - `.hover:tablet-pc-max:object-cover` - Object cover on hover on tablet pc max
@@ -514,7 +513,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:object-none` - Object none on tablet pc max
 - `.tablet-pc-max:object-scale` - Object scale on tablet pc max
 
-##### Object - Pc Max (< 1200px)
+##### Object - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:object-contain` - Object contain on hover on pc max
 - `.hover:pc-max:object-cover` - Object cover on hover on pc max
@@ -575,7 +574,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:flex-row` - Flex row on hover
 - `.hover:flex-wrap` - Flex wrap on hover
 
-##### Flex - Mobile (< 480px)
+##### Flex - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col` - Flex col on hover on mobile
 - `.hover:mobile:flex-nowrap` - Flex nowrap on hover on mobile
@@ -619,7 +618,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:flex-row` - Flex row on pc
 - `.pc:flex-wrap` - Flex wrap on pc
 
-##### Flex - Tv (> 1200px)
+##### Flex - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col` - Flex col on hover on tv
 - `.hover:tv:flex-nowrap` - Flex nowrap on hover on tv
@@ -630,7 +629,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:flex-row` - Flex row on tv
 - `.tv:flex-wrap` - Flex wrap on tv
 
-##### Flex - Tablet Max (< 768px)
+##### Flex - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col` - Flex col on hover on tablet max
 - `.hover:tablet-max:flex-nowrap` - Flex nowrap on hover on tablet max
@@ -641,7 +640,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:flex-row` - Flex row on tablet max
 - `.tablet-max:flex-wrap` - Flex wrap on tablet max
 
-##### Flex - Tablet Pc Max (< 992px)
+##### Flex - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col` - Flex col on hover on tablet pc max
 - `.hover:tablet-pc-max:flex-nowrap` - Flex nowrap on hover on tablet pc max
@@ -652,7 +651,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:flex-row` - Flex row on tablet pc max
 - `.tablet-pc-max:flex-wrap` - Flex wrap on tablet pc max
 
-##### Flex - Pc Max (< 1200px)
+##### Flex - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col` - Flex col on hover on pc max
 - `.hover:pc-max:flex-nowrap` - Flex nowrap on hover on pc max
@@ -668,7 +667,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.flex-col-reverse` - Flex col reverse
 - `.hover:flex-col-reverse` - Flex col reverse on hover
 
-##### Flex col - Mobile (< 480px)
+##### Flex col - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-col-reverse` - Flex col reverse on hover on mobile
 - `.mobile:flex-col-reverse` - Flex col reverse on mobile
@@ -688,22 +687,22 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pc:flex-col-reverse` - Flex col reverse on hover on pc
 - `.pc:flex-col-reverse` - Flex col reverse on pc
 
-##### Flex col - Tv (> 1200px)
+##### Flex col - Tv (≥ 1200px)
 
 - `.hover:tv:flex-col-reverse` - Flex col reverse on hover on tv
 - `.tv:flex-col-reverse` - Flex col reverse on tv
 
-##### Flex col - Tablet Max (< 768px)
+##### Flex col - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - Flex col reverse on hover on tablet max
 - `.tablet-max:flex-col-reverse` - Flex col reverse on tablet max
 
-##### Flex col - Tablet Pc Max (< 992px)
+##### Flex col - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - Flex col reverse on hover on tablet pc max
 - `.tablet-pc-max:flex-col-reverse` - Flex col reverse on tablet pc max
 
-##### Flex col - Pc Max (< 1200px)
+##### Flex col - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - Flex col reverse on hover on pc max
 - `.pc-max:flex-col-reverse` - Flex col reverse on pc max
@@ -713,7 +712,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.flex-row-reverse` - Flex row reverse
 - `.hover:flex-row-reverse` - Flex row reverse on hover
 
-##### Flex row - Mobile (< 480px)
+##### Flex row - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-row-reverse` - Flex row reverse on hover on mobile
 - `.mobile:flex-row-reverse` - Flex row reverse on mobile
@@ -733,131 +732,131 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pc:flex-row-reverse` - Flex row reverse on hover on pc
 - `.pc:flex-row-reverse` - Flex row reverse on pc
 
-##### Flex row - Tv (> 1200px)
+##### Flex row - Tv (≥ 1200px)
 
 - `.hover:tv:flex-row-reverse` - Flex row reverse on hover on tv
 - `.tv:flex-row-reverse` - Flex row reverse on tv
 
-##### Flex row - Tablet Max (< 768px)
+##### Flex row - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - Flex row reverse on hover on tablet max
 - `.tablet-max:flex-row-reverse` - Flex row reverse on tablet max
 
-##### Flex row - Tablet Pc Max (< 992px)
+##### Flex row - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - Flex row reverse on hover on tablet pc max
 - `.tablet-pc-max:flex-row-reverse` - Flex row reverse on tablet pc max
 
-##### Flex row - Pc Max (< 1200px)
+##### Flex row - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - Flex row reverse on hover on pc max
 - `.pc-max:flex-row-reverse` - Flex row reverse on pc max
 
 ### Flex grow
 
-- `.flex-grow-3` - Flex grow 3rem
-- `.flex-grow-2` - Flex grow 2rem
-- `.flex-grow-1` - Flex grow 1rem
-- `.flex-grow-0` - Flex grow 0rem
-- `.hover:flex-grow-3` - Flex grow 3rem on hover
-- `.hover:flex-grow-2` - Flex grow 2rem on hover
-- `.hover:flex-grow-1` - Flex grow 1rem on hover
-- `.hover:flex-grow-0` - Flex grow 0rem on hover
+- `.flex-grow-3` - Flex grow 3
+- `.flex-grow-2` - Flex grow 2
+- `.flex-grow-1` - Flex grow 1
+- `.flex-grow-0` - Flex grow 0
+- `.hover:flex-grow-3` - Flex grow 3 on hover
+- `.hover:flex-grow-2` - Flex grow 2 on hover
+- `.hover:flex-grow-1` - Flex grow 1 on hover
+- `.hover:flex-grow-0` - Flex grow 0 on hover
 
-##### Flex grow - Mobile (< 480px)
+##### Flex grow - Mobile (≤ 480px)
 
-- `.hover:mobile:flex-grow-3` - Flex grow 3rem on hover on mobile
-- `.hover:mobile:flex-grow-2` - Flex grow 2rem on hover on mobile
-- `.hover:mobile:flex-grow-1` - Flex grow 1rem on hover on mobile
-- `.hover:mobile:flex-grow-0` - Flex grow 0rem on hover on mobile
-- `.mobile:flex-grow-3` - Flex grow 3rem on mobile
-- `.mobile:flex-grow-2` - Flex grow 2rem on mobile
-- `.mobile:flex-grow-1` - Flex grow 1rem on mobile
-- `.mobile:flex-grow-0` - Flex grow 0rem on mobile
+- `.hover:mobile:flex-grow-3` - Flex grow 3 on hover on mobile
+- `.hover:mobile:flex-grow-2` - Flex grow 2 on hover on mobile
+- `.hover:mobile:flex-grow-1` - Flex grow 1 on hover on mobile
+- `.hover:mobile:flex-grow-0` - Flex grow 0 on hover on mobile
+- `.mobile:flex-grow-3` - Flex grow 3 on mobile
+- `.mobile:flex-grow-2` - Flex grow 2 on mobile
+- `.mobile:flex-grow-1` - Flex grow 1 on mobile
+- `.mobile:flex-grow-0` - Flex grow 0 on mobile
 
 ##### Flex grow - Tablet (480px - 768px)
 
-- `.hover:tablet:flex-grow-3` - Flex grow 3rem on hover on tablet
-- `.hover:tablet:flex-grow-2` - Flex grow 2rem on hover on tablet
-- `.hover:tablet:flex-grow-1` - Flex grow 1rem on hover on tablet
-- `.hover:tablet:flex-grow-0` - Flex grow 0rem on hover on tablet
-- `.tablet:flex-grow-3` - Flex grow 3rem on tablet
-- `.tablet:flex-grow-2` - Flex grow 2rem on tablet
-- `.tablet:flex-grow-1` - Flex grow 1rem on tablet
-- `.tablet:flex-grow-0` - Flex grow 0rem on tablet
+- `.hover:tablet:flex-grow-3` - Flex grow 3 on hover on tablet
+- `.hover:tablet:flex-grow-2` - Flex grow 2 on hover on tablet
+- `.hover:tablet:flex-grow-1` - Flex grow 1 on hover on tablet
+- `.hover:tablet:flex-grow-0` - Flex grow 0 on hover on tablet
+- `.tablet:flex-grow-3` - Flex grow 3 on tablet
+- `.tablet:flex-grow-2` - Flex grow 2 on tablet
+- `.tablet:flex-grow-1` - Flex grow 1 on tablet
+- `.tablet:flex-grow-0` - Flex grow 0 on tablet
 
 ##### Flex grow - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:flex-grow-3` - Flex grow 3rem on hover on tablet pc
-- `.hover:tablet-pc:flex-grow-2` - Flex grow 2rem on hover on tablet pc
-- `.hover:tablet-pc:flex-grow-1` - Flex grow 1rem on hover on tablet pc
-- `.hover:tablet-pc:flex-grow-0` - Flex grow 0rem on hover on tablet pc
-- `.tablet-pc:flex-grow-3` - Flex grow 3rem on tablet pc
-- `.tablet-pc:flex-grow-2` - Flex grow 2rem on tablet pc
-- `.tablet-pc:flex-grow-1` - Flex grow 1rem on tablet pc
-- `.tablet-pc:flex-grow-0` - Flex grow 0rem on tablet pc
+- `.hover:tablet-pc:flex-grow-3` - Flex grow 3 on hover on tablet pc
+- `.hover:tablet-pc:flex-grow-2` - Flex grow 2 on hover on tablet pc
+- `.hover:tablet-pc:flex-grow-1` - Flex grow 1 on hover on tablet pc
+- `.hover:tablet-pc:flex-grow-0` - Flex grow 0 on hover on tablet pc
+- `.tablet-pc:flex-grow-3` - Flex grow 3 on tablet pc
+- `.tablet-pc:flex-grow-2` - Flex grow 2 on tablet pc
+- `.tablet-pc:flex-grow-1` - Flex grow 1 on tablet pc
+- `.tablet-pc:flex-grow-0` - Flex grow 0 on tablet pc
 
 ##### Flex grow - Pc (992px - 1200px)
 
-- `.hover:pc:flex-grow-3` - Flex grow 3rem on hover on pc
-- `.hover:pc:flex-grow-2` - Flex grow 2rem on hover on pc
-- `.hover:pc:flex-grow-1` - Flex grow 1rem on hover on pc
-- `.hover:pc:flex-grow-0` - Flex grow 0rem on hover on pc
-- `.pc:flex-grow-3` - Flex grow 3rem on pc
-- `.pc:flex-grow-2` - Flex grow 2rem on pc
-- `.pc:flex-grow-1` - Flex grow 1rem on pc
-- `.pc:flex-grow-0` - Flex grow 0rem on pc
+- `.hover:pc:flex-grow-3` - Flex grow 3 on hover on pc
+- `.hover:pc:flex-grow-2` - Flex grow 2 on hover on pc
+- `.hover:pc:flex-grow-1` - Flex grow 1 on hover on pc
+- `.hover:pc:flex-grow-0` - Flex grow 0 on hover on pc
+- `.pc:flex-grow-3` - Flex grow 3 on pc
+- `.pc:flex-grow-2` - Flex grow 2 on pc
+- `.pc:flex-grow-1` - Flex grow 1 on pc
+- `.pc:flex-grow-0` - Flex grow 0 on pc
 
-##### Flex grow - Tv (> 1200px)
+##### Flex grow - Tv (≥ 1200px)
 
-- `.hover:tv:flex-grow-3` - Flex grow 3rem on hover on tv
-- `.hover:tv:flex-grow-2` - Flex grow 2rem on hover on tv
-- `.hover:tv:flex-grow-1` - Flex grow 1rem on hover on tv
-- `.hover:tv:flex-grow-0` - Flex grow 0rem on hover on tv
-- `.tv:flex-grow-3` - Flex grow 3rem on tv
-- `.tv:flex-grow-2` - Flex grow 2rem on tv
-- `.tv:flex-grow-1` - Flex grow 1rem on tv
-- `.tv:flex-grow-0` - Flex grow 0rem on tv
+- `.hover:tv:flex-grow-3` - Flex grow 3 on hover on tv
+- `.hover:tv:flex-grow-2` - Flex grow 2 on hover on tv
+- `.hover:tv:flex-grow-1` - Flex grow 1 on hover on tv
+- `.hover:tv:flex-grow-0` - Flex grow 0 on hover on tv
+- `.tv:flex-grow-3` - Flex grow 3 on tv
+- `.tv:flex-grow-2` - Flex grow 2 on tv
+- `.tv:flex-grow-1` - Flex grow 1 on tv
+- `.tv:flex-grow-0` - Flex grow 0 on tv
 
-##### Flex grow - Tablet Max (< 768px)
+##### Flex grow - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:flex-grow-3` - Flex grow 3rem on hover on tablet max
-- `.hover:tablet-max:flex-grow-2` - Flex grow 2rem on hover on tablet max
-- `.hover:tablet-max:flex-grow-1` - Flex grow 1rem on hover on tablet max
-- `.hover:tablet-max:flex-grow-0` - Flex grow 0rem on hover on tablet max
-- `.tablet-max:flex-grow-3` - Flex grow 3rem on tablet max
-- `.tablet-max:flex-grow-2` - Flex grow 2rem on tablet max
-- `.tablet-max:flex-grow-1` - Flex grow 1rem on tablet max
-- `.tablet-max:flex-grow-0` - Flex grow 0rem on tablet max
+- `.hover:tablet-max:flex-grow-3` - Flex grow 3 on hover on tablet max
+- `.hover:tablet-max:flex-grow-2` - Flex grow 2 on hover on tablet max
+- `.hover:tablet-max:flex-grow-1` - Flex grow 1 on hover on tablet max
+- `.hover:tablet-max:flex-grow-0` - Flex grow 0 on hover on tablet max
+- `.tablet-max:flex-grow-3` - Flex grow 3 on tablet max
+- `.tablet-max:flex-grow-2` - Flex grow 2 on tablet max
+- `.tablet-max:flex-grow-1` - Flex grow 1 on tablet max
+- `.tablet-max:flex-grow-0` - Flex grow 0 on tablet max
 
-##### Flex grow - Tablet Pc Max (< 992px)
+##### Flex grow - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:flex-grow-3` - Flex grow 3rem on hover on tablet pc max
-- `.hover:tablet-pc-max:flex-grow-2` - Flex grow 2rem on hover on tablet pc max
-- `.hover:tablet-pc-max:flex-grow-1` - Flex grow 1rem on hover on tablet pc max
-- `.hover:tablet-pc-max:flex-grow-0` - Flex grow 0rem on hover on tablet pc max
-- `.tablet-pc-max:flex-grow-3` - Flex grow 3rem on tablet pc max
-- `.tablet-pc-max:flex-grow-2` - Flex grow 2rem on tablet pc max
-- `.tablet-pc-max:flex-grow-1` - Flex grow 1rem on tablet pc max
-- `.tablet-pc-max:flex-grow-0` - Flex grow 0rem on tablet pc max
+- `.hover:tablet-pc-max:flex-grow-3` - Flex grow 3 on hover on tablet pc max
+- `.hover:tablet-pc-max:flex-grow-2` - Flex grow 2 on hover on tablet pc max
+- `.hover:tablet-pc-max:flex-grow-1` - Flex grow 1 on hover on tablet pc max
+- `.hover:tablet-pc-max:flex-grow-0` - Flex grow 0 on hover on tablet pc max
+- `.tablet-pc-max:flex-grow-3` - Flex grow 3 on tablet pc max
+- `.tablet-pc-max:flex-grow-2` - Flex grow 2 on tablet pc max
+- `.tablet-pc-max:flex-grow-1` - Flex grow 1 on tablet pc max
+- `.tablet-pc-max:flex-grow-0` - Flex grow 0 on tablet pc max
 
-##### Flex grow - Pc Max (< 1200px)
+##### Flex grow - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:flex-grow-3` - Flex grow 3rem on hover on pc max
-- `.hover:pc-max:flex-grow-2` - Flex grow 2rem on hover on pc max
-- `.hover:pc-max:flex-grow-1` - Flex grow 1rem on hover on pc max
-- `.hover:pc-max:flex-grow-0` - Flex grow 0rem on hover on pc max
-- `.pc-max:flex-grow-3` - Flex grow 3rem on pc max
-- `.pc-max:flex-grow-2` - Flex grow 2rem on pc max
-- `.pc-max:flex-grow-1` - Flex grow 1rem on pc max
-- `.pc-max:flex-grow-0` - Flex grow 0rem on pc max
+- `.hover:pc-max:flex-grow-3` - Flex grow 3 on hover on pc max
+- `.hover:pc-max:flex-grow-2` - Flex grow 2 on hover on pc max
+- `.hover:pc-max:flex-grow-1` - Flex grow 1 on hover on pc max
+- `.hover:pc-max:flex-grow-0` - Flex grow 0 on hover on pc max
+- `.pc-max:flex-grow-3` - Flex grow 3 on pc max
+- `.pc-max:flex-grow-2` - Flex grow 2 on pc max
+- `.pc-max:flex-grow-1` - Flex grow 1 on pc max
+- `.pc-max:flex-grow-0` - Flex grow 0 on pc max
 
 ### Flex wrap
 
 - `.flex-wrap-reverse` - Flex wrap reverse
 - `.hover:flex-wrap-reverse` - Flex wrap reverse on hover
 
-##### Flex wrap - Mobile (< 480px)
+##### Flex wrap - Mobile (≤ 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - Flex wrap reverse on hover on mobile
 - `.mobile:flex-wrap-reverse` - Flex wrap reverse on mobile
@@ -877,22 +876,22 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pc:flex-wrap-reverse` - Flex wrap reverse on hover on pc
 - `.pc:flex-wrap-reverse` - Flex wrap reverse on pc
 
-##### Flex wrap - Tv (> 1200px)
+##### Flex wrap - Tv (≥ 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - Flex wrap reverse on hover on tv
 - `.tv:flex-wrap-reverse` - Flex wrap reverse on tv
 
-##### Flex wrap - Tablet Max (< 768px)
+##### Flex wrap - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - Flex wrap reverse on hover on tablet max
 - `.tablet-max:flex-wrap-reverse` - Flex wrap reverse on tablet max
 
-##### Flex wrap - Tablet Pc Max (< 992px)
+##### Flex wrap - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - Flex wrap reverse on hover on tablet pc max
 - `.tablet-pc-max:flex-wrap-reverse` - Flex wrap reverse on tablet pc max
 
-##### Flex wrap - Pc Max (< 1200px)
+##### Flex wrap - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - Flex wrap reverse on hover on pc max
 - `.pc-max:flex-wrap-reverse` - Flex wrap reverse on pc max
@@ -1087,7 +1086,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:align-content-start` - Align content start on hover
 - `.hover:align-content-stretch` - Align content stretch on hover
 
-##### Align content - Mobile (< 480px)
+##### Align content - Mobile (≤ 480px)
 
 - `.hover:mobile:align-content-around` - Align content around on hover on mobile
 - `.hover:mobile:align-content-between` - Align content between on hover on mobile
@@ -1155,7 +1154,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:align-content-start` - Align content start on pc
 - `.pc:align-content-stretch` - Align content stretch on pc
 
-##### Align content - Tv (> 1200px)
+##### Align content - Tv (≥ 1200px)
 
 - `.hover:tv:align-content-around` - Align content around on hover on tv
 - `.hover:tv:align-content-between` - Align content between on hover on tv
@@ -1172,7 +1171,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:align-content-start` - Align content start on tv
 - `.tv:align-content-stretch` - Align content stretch on tv
 
-##### Align content - Tablet Max (< 768px)
+##### Align content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-content-around` - Align content around on hover on tablet max
 - `.hover:tablet-max:align-content-between` - Align content between on hover on tablet max
@@ -1189,7 +1188,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:align-content-start` - Align content start on tablet max
 - `.tablet-max:align-content-stretch` - Align content stretch on tablet max
 
-##### Align content - Tablet Pc Max (< 992px)
+##### Align content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - Align content around on hover on tablet pc max
 - `.hover:tablet-pc-max:align-content-between` - Align content between on hover on tablet pc max
@@ -1206,7 +1205,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:align-content-start` - Align content start on tablet pc max
 - `.tablet-pc-max:align-content-stretch` - Align content stretch on tablet pc max
 
-##### Align content - Pc Max (< 1200px)
+##### Align content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-content-around` - Align content around on hover on pc max
 - `.hover:pc-max:align-content-between` - Align content between on hover on pc max
@@ -1234,7 +1233,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:align-items-start` - Align items start on hover
 - `.hover:align-items-stretch` - Align items stretch on hover
 
-##### Align items - Mobile (< 480px)
+##### Align items - Mobile (≤ 480px)
 
 - `.hover:mobile:align-items-center` - Align items center on hover on mobile
 - `.hover:mobile:align-items-end` - Align items end on hover on mobile
@@ -1278,7 +1277,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:align-items-start` - Align items start on pc
 - `.pc:align-items-stretch` - Align items stretch on pc
 
-##### Align items - Tv (> 1200px)
+##### Align items - Tv (≥ 1200px)
 
 - `.hover:tv:align-items-center` - Align items center on hover on tv
 - `.hover:tv:align-items-end` - Align items end on hover on tv
@@ -1289,7 +1288,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:align-items-start` - Align items start on tv
 - `.tv:align-items-stretch` - Align items stretch on tv
 
-##### Align items - Tablet Max (< 768px)
+##### Align items - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-items-center` - Align items center on hover on tablet max
 - `.hover:tablet-max:align-items-end` - Align items end on hover on tablet max
@@ -1300,7 +1299,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:align-items-start` - Align items start on tablet max
 - `.tablet-max:align-items-stretch` - Align items stretch on tablet max
 
-##### Align items - Tablet Pc Max (< 992px)
+##### Align items - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - Align items center on hover on tablet pc max
 - `.hover:tablet-pc-max:align-items-end` - Align items end on hover on tablet pc max
@@ -1311,7 +1310,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:align-items-start` - Align items start on tablet pc max
 - `.tablet-pc-max:align-items-stretch` - Align items stretch on tablet pc max
 
-##### Align items - Pc Max (< 1200px)
+##### Align items - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-items-center` - Align items center on hover on pc max
 - `.hover:pc-max:align-items-end` - Align items end on hover on pc max
@@ -1333,7 +1332,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:align-self-start` - Align self start on hover
 - `.hover:align-self-stretch` - Align self stretch on hover
 
-##### Align self - Mobile (< 480px)
+##### Align self - Mobile (≤ 480px)
 
 - `.hover:mobile:align-self-center` - Align self center on hover on mobile
 - `.hover:mobile:align-self-end` - Align self end on hover on mobile
@@ -1377,7 +1376,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:align-self-start` - Align self start on pc
 - `.pc:align-self-stretch` - Align self stretch on pc
 
-##### Align self - Tv (> 1200px)
+##### Align self - Tv (≥ 1200px)
 
 - `.hover:tv:align-self-center` - Align self center on hover on tv
 - `.hover:tv:align-self-end` - Align self end on hover on tv
@@ -1388,7 +1387,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:align-self-start` - Align self start on tv
 - `.tv:align-self-stretch` - Align self stretch on tv
 
-##### Align self - Tablet Max (< 768px)
+##### Align self - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:align-self-center` - Align self center on hover on tablet max
 - `.hover:tablet-max:align-self-end` - Align self end on hover on tablet max
@@ -1399,7 +1398,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:align-self-start` - Align self start on tablet max
 - `.tablet-max:align-self-stretch` - Align self stretch on tablet max
 
-##### Align self - Tablet Pc Max (< 992px)
+##### Align self - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - Align self center on hover on tablet pc max
 - `.hover:tablet-pc-max:align-self-end` - Align self end on hover on tablet pc max
@@ -1410,7 +1409,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:align-self-start` - Align self start on tablet pc max
 - `.tablet-pc-max:align-self-stretch` - Align self stretch on tablet pc max
 
-##### Align self - Pc Max (< 1200px)
+##### Align self - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:align-self-center` - Align self center on hover on pc max
 - `.hover:pc-max:align-self-end` - Align self end on hover on pc max
@@ -1438,7 +1437,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.justify-content-start` - Justify content start
 - `.justify-content-stretch` - Justify content stretch
 
-##### Justify content - Mobile (< 480px)
+##### Justify content - Mobile (≤ 480px)
 
 - `.hover:mobile:justify-content-around` - Justify content around on hover on mobile
 - `.hover:mobile:justify-content-between` - Justify content between on hover on mobile
@@ -1490,7 +1489,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:justify-content-end` - Justify content end on pc
 - `.pc:justify-content-start` - Justify content start on pc
 
-##### Justify content - Tv (> 1200px)
+##### Justify content - Tv (≥ 1200px)
 
 - `.hover:tv:justify-content-around` - Justify content around on hover on tv
 - `.hover:tv:justify-content-between` - Justify content between on hover on tv
@@ -1503,7 +1502,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:justify-content-end` - Justify content end on tv
 - `.tv:justify-content-start` - Justify content start on tv
 
-##### Justify content - Tablet Max (< 768px)
+##### Justify content - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:justify-content-around` - Justify content around on hover on tablet max
 - `.hover:tablet-max:justify-content-between` - Justify content between on hover on tablet max
@@ -1516,7 +1515,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:justify-content-end` - Justify content end on tablet max
 - `.tablet-max:justify-content-start` - Justify content start on tablet max
 
-##### Justify content - Tablet Pc Max (< 992px)
+##### Justify content - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - Justify content around on hover on tablet pc max
 - `.hover:tablet-pc-max:justify-content-between` - Justify content between on hover on tablet pc max
@@ -1529,7 +1528,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:justify-content-end` - Justify content end on tablet pc max
 - `.tablet-pc-max:justify-content-start` - Justify content start on tablet pc max
 
-##### Justify content - Pc Max (< 1200px)
+##### Justify content - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:justify-content-around` - Justify content around on hover on pc max
 - `.hover:pc-max:justify-content-between` - Justify content between on hover on pc max
@@ -1585,7 +1584,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:-order-2` - Negative Order 2 on hover
 - `.hover:-order-1` - Negative Order 1 on hover
 
-##### Order - Mobile (< 480px)
+##### Order - Mobile (≤ 480px)
 
 - `.hover:mobile:order-5` - Order 5 on hover on mobile
 - `.hover:mobile:order-4` - Order 4 on hover on mobile
@@ -1604,7 +1603,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.mobile:order-first` - Order first on mobile
 - `.mobile:order-last` - Order last on mobile
 
-##### Negative Order - Mobile (< 480px)
+##### Negative Order - Mobile (≤ 480px)
 
 - `.hover:mobile:-order-5` - Negative Order 5 on hover on mobile
 - `.hover:mobile:-order-4` - Negative Order 4 on hover on mobile
@@ -1713,7 +1712,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:-order-2` - Negative Order 2 on pc
 - `.pc:-order-1` - Negative Order 1 on pc
 
-##### Order - Tv (> 1200px)
+##### Order - Tv (≥ 1200px)
 
 - `.hover:tv:order-5` - Order 5 on hover on tv
 - `.hover:tv:order-4` - Order 4 on hover on tv
@@ -1732,7 +1731,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:order-first` - Order first on tv
 - `.tv:order-last` - Order last on tv
 
-##### Negative Order - Tv (> 1200px)
+##### Negative Order - Tv (≥ 1200px)
 
 - `.hover:tv:-order-5` - Negative Order 5 on hover on tv
 - `.hover:tv:-order-4` - Negative Order 4 on hover on tv
@@ -1745,7 +1744,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:-order-2` - Negative Order 2 on tv
 - `.tv:-order-1` - Negative Order 1 on tv
 
-##### Order - Tablet Max (< 768px)
+##### Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:order-5` - Order 5 on hover on tablet max
 - `.hover:tablet-max:order-4` - Order 4 on hover on tablet max
@@ -1764,7 +1763,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:order-first` - Order first on tablet max
 - `.tablet-max:order-last` - Order last on tablet max
 
-##### Negative Order - Tablet Max (< 768px)
+##### Negative Order - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:-order-5` - Negative Order 5 on hover on tablet max
 - `.hover:tablet-max:-order-4` - Negative Order 4 on hover on tablet max
@@ -1777,7 +1776,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:-order-2` - Negative Order 2 on tablet max
 - `.tablet-max:-order-1` - Negative Order 1 on tablet max
 
-##### Order - Tablet Pc Max (< 992px)
+##### Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:order-5` - Order 5 on hover on tablet pc max
 - `.hover:tablet-pc-max:order-4` - Order 4 on hover on tablet pc max
@@ -1796,7 +1795,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:order-first` - Order first on tablet pc max
 - `.tablet-pc-max:order-last` - Order last on tablet pc max
 
-##### Negative Order - Tablet Pc Max (< 992px)
+##### Negative Order - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:-order-5` - Negative Order 5 on hover on tablet pc max
 - `.hover:tablet-pc-max:-order-4` - Negative Order 4 on hover on tablet pc max
@@ -1809,7 +1808,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:-order-2` - Negative Order 2 on tablet pc max
 - `.tablet-pc-max:-order-1` - Negative Order 1 on tablet pc max
 
-##### Order - Pc Max (< 1200px)
+##### Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:order-5` - Order 5 on hover on pc max
 - `.hover:pc-max:order-4` - Order 4 on hover on pc max
@@ -1828,7 +1827,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc-max:order-first` - Order first on pc max
 - `.pc-max:order-last` - Order last on pc max
 
-##### Negative Order - Pc Max (< 1200px)
+##### Negative Order - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:-order-5` - Negative Order 5 on hover on pc max
 - `.hover:pc-max:-order-4` - Negative Order 4 on hover on pc max
@@ -1909,10 +1908,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Margin Bottom
 
 - `.first:mb-0` - Margin Bottom 0rem on first
-- `.hover:mb-100` - Margin Bottom 100rem on hover
-- `.hover:mb-75` - Margin Bottom 75rem on hover
-- `.hover:mb-50` - Margin Bottom 50rem on hover
-- `.hover:mb-25` - Margin Bottom 25rem on hover
+- `.hover:mb-100` - Margin Bottom 100% on hover
+- `.hover:mb-75` - Margin Bottom 75% on hover
+- `.hover:mb-50` - Margin Bottom 50% on hover
+- `.hover:mb-25` - Margin Bottom 25% on hover
 - `.hover:mb-5` - Margin Bottom 5rem on hover
 - `.hover:mb-4.5` - Margin Bottom 0rem on hover
 - `.hover:mb-4` - Margin Bottom 4rem on hover
@@ -1942,10 +1941,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:mb-0` - Margin Bottom 0rem on hover
 - `.hover:mb-auto` - Margin Bottom auto on hover
 - `.last:mb-0` - Margin Bottom 0rem on last
-- `.mb-100` - Margin Bottom 100rem
-- `.mb-75` - Margin Bottom 75rem
-- `.mb-50` - Margin Bottom 50rem
-- `.mb-25` - Margin Bottom 25rem
+- `.mb-100` - Margin Bottom 100%
+- `.mb-75` - Margin Bottom 75%
+- `.mb-50` - Margin Bottom 50%
+- `.mb-25` - Margin Bottom 25%
 - `.mb-5` - Margin Bottom 5rem
 - `.mb-4.5` - Margin Bottom 0rem
 - `.mb-4` - Margin Bottom 4rem
@@ -1991,10 +1990,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Margin Left
 
 - `.first:ml-0` - Margin Left 0rem on first
-- `.hover:ml-100` - Margin Left 100rem on hover
-- `.hover:ml-75` - Margin Left 75rem on hover
-- `.hover:ml-50` - Margin Left 50rem on hover
-- `.hover:ml-25` - Margin Left 25rem on hover
+- `.hover:ml-100` - Margin Left 100% on hover
+- `.hover:ml-75` - Margin Left 75% on hover
+- `.hover:ml-50` - Margin Left 50% on hover
+- `.hover:ml-25` - Margin Left 25% on hover
 - `.hover:ml-5` - Margin Left 5rem on hover
 - `.hover:ml-4.5` - Margin Left 0rem on hover
 - `.hover:ml-4` - Margin Left 4rem on hover
@@ -2024,10 +2023,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:ml-0` - Margin Left 0rem on hover
 - `.hover:ml-auto` - Margin Left auto on hover
 - `.last:ml-0` - Margin Left 0rem on last
-- `.ml-100` - Margin Left 100rem
-- `.ml-75` - Margin Left 75rem
-- `.ml-50` - Margin Left 50rem
-- `.ml-25` - Margin Left 25rem
+- `.ml-100` - Margin Left 100%
+- `.ml-75` - Margin Left 75%
+- `.ml-50` - Margin Left 50%
+- `.ml-25` - Margin Left 25%
 - `.ml-5` - Margin Left 5rem
 - `.ml-4.5` - Margin Left 0rem
 - `.ml-4` - Margin Left 4rem
@@ -2060,10 +2059,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Margin Right
 
 - `.first:mr-0` - Margin Right 0rem on first
-- `.hover:mr-100` - Margin Right 100rem on hover
-- `.hover:mr-75` - Margin Right 75rem on hover
-- `.hover:mr-50` - Margin Right 50rem on hover
-- `.hover:mr-25` - Margin Right 25rem on hover
+- `.hover:mr-100` - Margin Right 100% on hover
+- `.hover:mr-75` - Margin Right 75% on hover
+- `.hover:mr-50` - Margin Right 50% on hover
+- `.hover:mr-25` - Margin Right 25% on hover
 - `.hover:mr-5` - Margin Right 5rem on hover
 - `.hover:mr-4.5` - Margin Right 0rem on hover
 - `.hover:mr-4` - Margin Right 4rem on hover
@@ -2093,10 +2092,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:mr-0` - Margin Right 0rem on hover
 - `.hover:mr-auto` - Margin Right auto on hover
 - `.last:mr-0` - Margin Right 0rem on last
-- `.mr-100` - Margin Right 100rem
-- `.mr-75` - Margin Right 75rem
-- `.mr-50` - Margin Right 50rem
-- `.mr-25` - Margin Right 25rem
+- `.mr-100` - Margin Right 100%
+- `.mr-75` - Margin Right 75%
+- `.mr-50` - Margin Right 50%
+- `.mr-25` - Margin Right 25%
 - `.mr-5` - Margin Right 5rem
 - `.mr-4.5` - Margin Right 0rem
 - `.mr-4` - Margin Right 4rem
@@ -2142,10 +2141,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Margin Top
 
 - `.first:mt-0` - Margin Top 0rem on first
-- `.hover:mt-100` - Margin Top 100rem on hover
-- `.hover:mt-75` - Margin Top 75rem on hover
-- `.hover:mt-50` - Margin Top 50rem on hover
-- `.hover:mt-25` - Margin Top 25rem on hover
+- `.hover:mt-100` - Margin Top 100% on hover
+- `.hover:mt-75` - Margin Top 75% on hover
+- `.hover:mt-50` - Margin Top 50% on hover
+- `.hover:mt-25` - Margin Top 25% on hover
 - `.hover:mt-5` - Margin Top 5rem on hover
 - `.hover:mt-4.5` - Margin Top 0rem on hover
 - `.hover:mt-4` - Margin Top 4rem on hover
@@ -2175,10 +2174,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:mt-0` - Margin Top 0rem on hover
 - `.hover:mt-auto` - Margin Top auto on hover
 - `.last:mt-0` - Margin Top 0rem on last
-- `.mt-100` - Margin Top 100rem
-- `.mt-75` - Margin Top 75rem
-- `.mt-50` - Margin Top 50rem
-- `.mt-25` - Margin Top 25rem
+- `.mt-100` - Margin Top 100%
+- `.mt-75` - Margin Top 75%
+- `.mt-50` - Margin Top 50%
+- `.mt-25` - Margin Top 25%
 - `.mt-5` - Margin Top 5rem
 - `.mt-4.5` - Margin Top 0rem
 - `.mt-4` - Margin Top 4rem
@@ -2210,10 +2209,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 #### Margin X-Axis
 
-- `.hover:mx-100` - Margin X-Axis 100rem on hover
-- `.hover:mx-75` - Margin X-Axis 75rem on hover
-- `.hover:mx-50` - Margin X-Axis 50rem on hover
-- `.hover:mx-25` - Margin X-Axis 25rem on hover
+- `.hover:mx-100` - Margin X-Axis 100% on hover
+- `.hover:mx-75` - Margin X-Axis 75% on hover
+- `.hover:mx-50` - Margin X-Axis 50% on hover
+- `.hover:mx-25` - Margin X-Axis 25% on hover
 - `.hover:mx-5` - Margin X-Axis 5rem on hover
 - `.hover:mx-4.5` - Margin X-Axis 0rem on hover
 - `.hover:mx-4` - Margin X-Axis 4rem on hover
@@ -2242,10 +2241,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:mx-0.1` - Margin X-Axis 0.1rem on hover
 - `.hover:mx-0` - Margin X-Axis 0rem on hover
 - `.hover:mx-auto` - Margin X-Axis auto on hover
-- `.mx-100` - Margin X-Axis 100rem
-- `.mx-75` - Margin X-Axis 75rem
-- `.mx-50` - Margin X-Axis 50rem
-- `.mx-25` - Margin X-Axis 25rem
+- `.mx-100` - Margin X-Axis 100%
+- `.mx-75` - Margin X-Axis 75%
+- `.mx-50` - Margin X-Axis 50%
+- `.mx-25` - Margin X-Axis 25%
 - `.mx-5` - Margin X-Axis 5rem
 - `.mx-4.5` - Margin X-Axis 0rem
 - `.mx-4` - Margin X-Axis 4rem
@@ -2277,10 +2276,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 #### Margin Y-Axis
 
-- `.hover:my-100` - Margin Y-Axis 100rem on hover
-- `.hover:my-75` - Margin Y-Axis 75rem on hover
-- `.hover:my-50` - Margin Y-Axis 50rem on hover
-- `.hover:my-25` - Margin Y-Axis 25rem on hover
+- `.hover:my-100` - Margin Y-Axis 100% on hover
+- `.hover:my-75` - Margin Y-Axis 75% on hover
+- `.hover:my-50` - Margin Y-Axis 50% on hover
+- `.hover:my-25` - Margin Y-Axis 25% on hover
 - `.hover:my-5` - Margin Y-Axis 5rem on hover
 - `.hover:my-4.5` - Margin Y-Axis 0rem on hover
 - `.hover:my-4` - Margin Y-Axis 4rem on hover
@@ -2309,10 +2308,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:my-0.1` - Margin Y-Axis 0.1rem on hover
 - `.hover:my-0` - Margin Y-Axis 0rem on hover
 - `.hover:my-auto` - Margin Y-Axis auto on hover
-- `.my-100` - Margin Y-Axis 100rem
-- `.my-75` - Margin Y-Axis 75rem
-- `.my-50` - Margin Y-Axis 50rem
-- `.my-25` - Margin Y-Axis 25rem
+- `.my-100` - Margin Y-Axis 100%
+- `.my-75` - Margin Y-Axis 75%
+- `.my-50` - Margin Y-Axis 50%
+- `.my-25` - Margin Y-Axis 25%
 - `.my-5` - Margin Y-Axis 5rem
 - `.my-4.5` - Margin Y-Axis 0rem
 - `.my-4` - Margin Y-Axis 4rem
@@ -2406,10 +2405,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Padding Bottom
 
 - `.first:pb-0` - Padding Bottom 0rem on first
-- `.hover:pb-100` - Padding Bottom 100rem on hover
-- `.hover:pb-75` - Padding Bottom 75rem on hover
-- `.hover:pb-50` - Padding Bottom 50rem on hover
-- `.hover:pb-25` - Padding Bottom 25rem on hover
+- `.hover:pb-100` - Padding Bottom 100% on hover
+- `.hover:pb-75` - Padding Bottom 75% on hover
+- `.hover:pb-50` - Padding Bottom 50% on hover
+- `.hover:pb-25` - Padding Bottom 25% on hover
 - `.hover:pb-5` - Padding Bottom 5rem on hover
 - `.hover:pb-4.5` - Padding Bottom 0rem on hover
 - `.hover:pb-4` - Padding Bottom 4rem on hover
@@ -2438,10 +2437,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pb-0.1` - Padding Bottom 0.1rem on hover
 - `.hover:pb-0` - Padding Bottom 0rem on hover
 - `.last:pb-0` - Padding Bottom 0rem on last
-- `.pb-100` - Padding Bottom 100rem
-- `.pb-75` - Padding Bottom 75rem
-- `.pb-50` - Padding Bottom 50rem
-- `.pb-25` - Padding Bottom 25rem
+- `.pb-100` - Padding Bottom 100%
+- `.pb-75` - Padding Bottom 75%
+- `.pb-50` - Padding Bottom 50%
+- `.pb-25` - Padding Bottom 25%
 - `.pb-5` - Padding Bottom 5rem
 - `.pb-4.5` - Padding Bottom 0rem
 - `.pb-4` - Padding Bottom 4rem
@@ -2532,10 +2531,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Padding Right
 
 - `.first:pr-0` - Padding Right 0rem on first
-- `.hover:pr-100` - Padding Right 100rem on hover
-- `.hover:pr-75` - Padding Right 75rem on hover
-- `.hover:pr-50` - Padding Right 50rem on hover
-- `.hover:pr-25` - Padding Right 25rem on hover
+- `.hover:pr-100` - Padding Right 100% on hover
+- `.hover:pr-75` - Padding Right 75% on hover
+- `.hover:pr-50` - Padding Right 50% on hover
+- `.hover:pr-25` - Padding Right 25% on hover
 - `.hover:pr-5` - Padding Right 5rem on hover
 - `.hover:pr-4.5` - Padding Right 0rem on hover
 - `.hover:pr-4` - Padding Right 4rem on hover
@@ -2564,10 +2563,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pr-0.1` - Padding Right 0.1rem on hover
 - `.hover:pr-0` - Padding Right 0rem on hover
 - `.last:pr-0` - Padding Right 0rem on last
-- `.pr-100` - Padding Right 100rem
-- `.pr-75` - Padding Right 75rem
-- `.pr-50` - Padding Right 50rem
-- `.pr-25` - Padding Right 25rem
+- `.pr-100` - Padding Right 100%
+- `.pr-75` - Padding Right 75%
+- `.pr-50` - Padding Right 50%
+- `.pr-25` - Padding Right 25%
 - `.pr-5` - Padding Right 5rem
 - `.pr-4.5` - Padding Right 0rem
 - `.pr-4` - Padding Right 4rem
@@ -2599,10 +2598,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Padding Top
 
 - `.first:pt-0` - Padding Top 0rem on first
-- `.hover:pt-100` - Padding Top 100rem on hover
-- `.hover:pt-75` - Padding Top 75rem on hover
-- `.hover:pt-50` - Padding Top 50rem on hover
-- `.hover:pt-25` - Padding Top 25rem on hover
+- `.hover:pt-100` - Padding Top 100% on hover
+- `.hover:pt-75` - Padding Top 75% on hover
+- `.hover:pt-50` - Padding Top 50% on hover
+- `.hover:pt-25` - Padding Top 25% on hover
 - `.hover:pt-5` - Padding Top 5rem on hover
 - `.hover:pt-4.5` - Padding Top 0rem on hover
 - `.hover:pt-4` - Padding Top 4rem on hover
@@ -2631,10 +2630,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pt-0.1` - Padding Top 0.1rem on hover
 - `.hover:pt-0` - Padding Top 0rem on hover
 - `.last:pt-0` - Padding Top 0rem on last
-- `.pt-100` - Padding Top 100rem
-- `.pt-75` - Padding Top 75rem
-- `.pt-50` - Padding Top 50rem
-- `.pt-25` - Padding Top 25rem
+- `.pt-100` - Padding Top 100%
+- `.pt-75` - Padding Top 75%
+- `.pt-50` - Padding Top 50%
+- `.pt-25` - Padding Top 25%
 - `.pt-5` - Padding Top 5rem
 - `.pt-4.5` - Padding Top 0rem
 - `.pt-4` - Padding Top 4rem
@@ -2665,10 +2664,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 #### Padding X-Axis
 
-- `.hover:px-100` - Padding X-Axis 100rem on hover
-- `.hover:px-75` - Padding X-Axis 75rem on hover
-- `.hover:px-50` - Padding X-Axis 50rem on hover
-- `.hover:px-25` - Padding X-Axis 25rem on hover
+- `.hover:px-100` - Padding X-Axis 100% on hover
+- `.hover:px-75` - Padding X-Axis 75% on hover
+- `.hover:px-50` - Padding X-Axis 50% on hover
+- `.hover:px-25` - Padding X-Axis 25% on hover
 - `.hover:px-5` - Padding X-Axis 5rem on hover
 - `.hover:px-4.5` - Padding X-Axis 0rem on hover
 - `.hover:px-4` - Padding X-Axis 4rem on hover
@@ -2696,10 +2695,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:px-0.2` - Padding X-Axis 0.2rem on hover
 - `.hover:px-0.1` - Padding X-Axis 0.1rem on hover
 - `.hover:px-0` - Padding X-Axis 0rem on hover
-- `.px-100` - Padding X-Axis 100rem
-- `.px-75` - Padding X-Axis 75rem
-- `.px-50` - Padding X-Axis 50rem
-- `.px-25` - Padding X-Axis 25rem
+- `.px-100` - Padding X-Axis 100%
+- `.px-75` - Padding X-Axis 75%
+- `.px-50` - Padding X-Axis 50%
+- `.px-25` - Padding X-Axis 25%
 - `.px-5` - Padding X-Axis 5rem
 - `.px-4.5` - Padding X-Axis 0rem
 - `.px-4` - Padding X-Axis 4rem
@@ -2730,10 +2729,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 #### Padding Y-Axis
 
-- `.hover:py-100` - Padding Y-Axis 100rem on hover
-- `.hover:py-75` - Padding Y-Axis 75rem on hover
-- `.hover:py-50` - Padding Y-Axis 50rem on hover
-- `.hover:py-25` - Padding Y-Axis 25rem on hover
+- `.hover:py-100` - Padding Y-Axis 100% on hover
+- `.hover:py-75` - Padding Y-Axis 75% on hover
+- `.hover:py-50` - Padding Y-Axis 50% on hover
+- `.hover:py-25` - Padding Y-Axis 25% on hover
 - `.hover:py-5` - Padding Y-Axis 5rem on hover
 - `.hover:py-4.5` - Padding Y-Axis 0rem on hover
 - `.hover:py-4` - Padding Y-Axis 4rem on hover
@@ -2761,10 +2760,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:py-0.2` - Padding Y-Axis 0.2rem on hover
 - `.hover:py-0.1` - Padding Y-Axis 0.1rem on hover
 - `.hover:py-0` - Padding Y-Axis 0rem on hover
-- `.py-100` - Padding Y-Axis 100rem
-- `.py-75` - Padding Y-Axis 75rem
-- `.py-50` - Padding Y-Axis 50rem
-- `.py-25` - Padding Y-Axis 25rem
+- `.py-100` - Padding Y-Axis 100%
+- `.py-75` - Padding Y-Axis 75%
+- `.py-50` - Padding Y-Axis 50%
+- `.py-25` - Padding Y-Axis 25%
 - `.py-5` - Padding Y-Axis 5rem
 - `.py-4.5` - Padding Y-Axis 0rem
 - `.py-4` - Padding Y-Axis 4rem
@@ -2840,7 +2839,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.w-5` - Width 5%
 - `.w-auto` - Width auto%
 
-##### Width - Mobile (< 480px)
+##### Width - Mobile (≤ 480px)
 
 - `.hover:mobile:w-100` - Width 100% on hover on mobile
 - `.hover:mobile:w-95` - Width 95% on hover on mobile
@@ -3020,7 +3019,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:w-5` - Width 5% on pc
 - `.pc:w-auto` - Width auto% on pc
 
-##### Width - Tv (> 1200px)
+##### Width - Tv (≥ 1200px)
 
 - `.hover:tv:w-100` - Width 100% on hover on tv
 - `.hover:tv:w-95` - Width 95% on hover on tv
@@ -3065,7 +3064,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:w-5` - Width 5% on tv
 - `.tv:w-auto` - Width auto% on tv
 
-##### Width - Tablet Max (< 768px)
+##### Width - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:w-100` - Width 100% on hover on tablet max
 - `.hover:tablet-max:w-95` - Width 95% on hover on tablet max
@@ -3110,7 +3109,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:w-5` - Width 5% on tablet max
 - `.tablet-max:w-auto` - Width auto% on tablet max
 
-##### Width - Tablet Pc Max (< 992px)
+##### Width - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:w-100` - Width 100% on hover on tablet pc max
 - `.hover:tablet-pc-max:w-95` - Width 95% on hover on tablet pc max
@@ -3155,7 +3154,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:w-5` - Width 5% on tablet pc max
 - `.tablet-pc-max:w-auto` - Width auto% on tablet pc max
 
-##### Width - Pc Max (< 1200px)
+##### Width - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:w-100` - Width 100% on hover on pc max
 - `.hover:pc-max:w-95` - Width 95% on hover on pc max
@@ -3202,25 +3201,25 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 #### Width vh
 
-- `.hover:w-vh-100` - Width vh 100% on hover
-- `.hover:w-vh-75` - Width vh 75% on hover
-- `.hover:w-vh-50` - Width vh 50% on hover
-- `.hover:w-vh-25` - Width vh 25% on hover
-- `.w-vh-100` - Width vh 100%
-- `.w-vh-75` - Width vh 75%
-- `.w-vh-50` - Width vh 50%
-- `.w-vh-25` - Width vh 25%
+- `.hover:w-vh-100` - Width vh 100vh on hover
+- `.hover:w-vh-75` - Width vh 75vh on hover
+- `.hover:w-vh-50` - Width vh 50vh on hover
+- `.hover:w-vh-25` - Width vh 25vh on hover
+- `.w-vh-100` - Width vh 100vh
+- `.w-vh-75` - Width vh 75vh
+- `.w-vh-50` - Width vh 50vh
+- `.w-vh-25` - Width vh 25vh
 
 #### Width vw
 
-- `.hover:w-vw-100` - Width vw 100% on hover
-- `.hover:w-vw-75` - Width vw 75% on hover
-- `.hover:w-vw-50` - Width vw 50% on hover
-- `.hover:w-vw-25` - Width vw 25% on hover
-- `.w-vw-100` - Width vw 100%
-- `.w-vw-75` - Width vw 75%
-- `.w-vw-50` - Width vw 50%
-- `.w-vw-25` - Width vw 25%
+- `.hover:w-vw-100` - Width vw 100vw on hover
+- `.hover:w-vw-75` - Width vw 75vw on hover
+- `.hover:w-vw-50` - Width vw 50vw on hover
+- `.hover:w-vw-25` - Width vw 25vw on hover
+- `.w-vw-100` - Width vw 100vw
+- `.w-vw-75` - Width vw 75vw
+- `.w-vw-50` - Width vw 50vw
+- `.w-vw-25` - Width vw 25vw
 
 ### Height
 
@@ -3267,7 +3266,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:h-5` - Height 5% on hover
 - `.hover:h-auto` - Height auto% on hover
 
-##### Height - Mobile (< 480px)
+##### Height - Mobile (≤ 480px)
 
 - `.hover:mobile:h-100` - Height 100% on hover on mobile
 - `.hover:mobile:h-95` - Height 95% on hover on mobile
@@ -3446,7 +3445,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:h-5` - Height 5% on pc
 - `.pc:h-auto` - Height auto% on pc
 
-##### Height - Tv (> 1200px)
+##### Height - Tv (≥ 1200px)
 
 - `.hover:tv:h-100` - Height 100% on hover on tv
 - `.hover:tv:h-95` - Height 95% on hover on tv
@@ -3491,7 +3490,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:h-5` - Height 5% on tv
 - `.tv:h-auto` - Height auto% on tv
 
-##### Height - Tablet Max (< 768px)
+##### Height - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:h-100` - Height 100% on hover on tablet max
 - `.hover:tablet-max:h-95` - Height 95% on hover on tablet max
@@ -3536,7 +3535,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:h-5` - Height 5% on tablet max
 - `.tablet-max:h-auto` - Height auto% on tablet max
 
-##### Height - Tablet Pc Max (< 992px)
+##### Height - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:h-100` - Height 100% on hover on tablet pc max
 - `.hover:tablet-pc-max:h-95` - Height 95% on hover on tablet pc max
@@ -3581,7 +3580,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:h-5` - Height 5% on tablet pc max
 - `.tablet-pc-max:h-auto` - Height auto% on tablet pc max
 
-##### Height - Pc Max (< 1200px)
+##### Height - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:h-100` - Height 100% on hover on pc max
 - `.hover:pc-max:h-95` - Height 95% on hover on pc max
@@ -3628,25 +3627,25 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 #### Height vh
 
-- `.h-vh-100` - Height vh 100%
-- `.h-vh-75` - Height vh 75%
-- `.h-vh-50` - Height vh 50%
-- `.h-vh-25` - Height vh 25%
-- `.hover:h-vh-100` - Height vh 100% on hover
-- `.hover:h-vh-75` - Height vh 75% on hover
-- `.hover:h-vh-50` - Height vh 50% on hover
-- `.hover:h-vh-25` - Height vh 25% on hover
+- `.h-vh-100` - Height vh 100vh
+- `.h-vh-75` - Height vh 75vh
+- `.h-vh-50` - Height vh 50vh
+- `.h-vh-25` - Height vh 25vh
+- `.hover:h-vh-100` - Height vh 100vh on hover
+- `.hover:h-vh-75` - Height vh 75vh on hover
+- `.hover:h-vh-50` - Height vh 50vh on hover
+- `.hover:h-vh-25` - Height vh 25vh on hover
 
 #### Height vw
 
-- `.h-vw-100` - Height vw 100%
-- `.h-vw-75` - Height vw 75%
-- `.h-vw-50` - Height vw 50%
-- `.h-vw-25` - Height vw 25%
-- `.hover:h-vw-100` - Height vw 100% on hover
-- `.hover:h-vw-75` - Height vw 75% on hover
-- `.hover:h-vw-50` - Height vw 50% on hover
-- `.hover:h-vw-25` - Height vw 25% on hover
+- `.h-vw-100` - Height vw 100vw
+- `.h-vw-75` - Height vw 75vw
+- `.h-vw-50` - Height vw 50vw
+- `.h-vw-25` - Height vw 25vw
+- `.hover:h-vw-100` - Height vw 100vw on hover
+- `.hover:h-vw-75` - Height vw 75vw on hover
+- `.hover:h-vw-50` - Height vw 50vw on hover
+- `.hover:h-vw-25` - Height vw 25vw on hover
 
 ## Positioning
 
@@ -3677,10 +3676,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ### Top
 
-- `.hover:top-100` - Top 100rem on hover
-- `.hover:top-75` - Top 75rem on hover
-- `.hover:top-50` - Top 50rem on hover
-- `.hover:top-25` - Top 25rem on hover
+- `.hover:top-100` - Top 100% on hover
+- `.hover:top-75` - Top 75% on hover
+- `.hover:top-50` - Top 50% on hover
+- `.hover:top-25` - Top 25% on hover
 - `.hover:top-5` - Top 5rem on hover
 - `.hover:top-4.5` - Top 0rem on hover
 - `.hover:top-4` - Top 4rem on hover
@@ -3708,10 +3707,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:top-0.2` - Top 0.2rem on hover
 - `.hover:top-0.1` - Top 0.1rem on hover
 - `.hover:top-0` - Top 0rem on hover
-- `.top-100` - Top 100rem
-- `.top-75` - Top 75rem
-- `.top-50` - Top 50rem
-- `.top-25` - Top 25rem
+- `.top-100` - Top 100%
+- `.top-75` - Top 75%
+- `.top-50` - Top 50%
+- `.top-25` - Top 25%
 - `.top-5` - Top 5rem
 - `.top-4.5` - Top 0rem
 - `.top-4` - Top 4rem
@@ -3797,10 +3796,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ### Right
 
-- `.hover:right-100` - Right 100rem on hover
-- `.hover:right-75` - Right 75rem on hover
-- `.hover:right-50` - Right 50rem on hover
-- `.hover:right-25` - Right 25rem on hover
+- `.hover:right-100` - Right 100% on hover
+- `.hover:right-75` - Right 75% on hover
+- `.hover:right-50` - Right 50% on hover
+- `.hover:right-25` - Right 25% on hover
 - `.hover:right-5` - Right 5rem on hover
 - `.hover:right-4.5` - Right 0rem on hover
 - `.hover:right-4` - Right 4rem on hover
@@ -3828,10 +3827,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:right-0.2` - Right 0.2rem on hover
 - `.hover:right-0.1` - Right 0.1rem on hover
 - `.hover:right-0` - Right 0rem on hover
-- `.right-100` - Right 100rem
-- `.right-75` - Right 75rem
-- `.right-50` - Right 50rem
-- `.right-25` - Right 25rem
+- `.right-100` - Right 100%
+- `.right-75` - Right 75%
+- `.right-50` - Right 50%
+- `.right-25` - Right 25%
 - `.right-5` - Right 5rem
 - `.right-4.5` - Right 0rem
 - `.right-4` - Right 4rem
@@ -3917,10 +3916,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ### Bottom
 
-- `.bottom-100` - Bottom 100rem
-- `.bottom-75` - Bottom 75rem
-- `.bottom-50` - Bottom 50rem
-- `.bottom-25` - Bottom 25rem
+- `.bottom-100` - Bottom 100%
+- `.bottom-75` - Bottom 75%
+- `.bottom-50` - Bottom 50%
+- `.bottom-25` - Bottom 25%
 - `.bottom-5` - Bottom 5rem
 - `.bottom-4.5` - Bottom 0rem
 - `.bottom-4` - Bottom 4rem
@@ -3948,10 +3947,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.bottom-0.2` - Bottom 0.2rem
 - `.bottom-0.1` - Bottom 0.1rem
 - `.bottom-0` - Bottom 0rem
-- `.hover:bottom-100` - Bottom 100rem on hover
-- `.hover:bottom-75` - Bottom 75rem on hover
-- `.hover:bottom-50` - Bottom 50rem on hover
-- `.hover:bottom-25` - Bottom 25rem on hover
+- `.hover:bottom-100` - Bottom 100% on hover
+- `.hover:bottom-75` - Bottom 75% on hover
+- `.hover:bottom-50` - Bottom 50% on hover
+- `.hover:bottom-25` - Bottom 25% on hover
 - `.hover:bottom-5` - Bottom 5rem on hover
 - `.hover:bottom-4.5` - Bottom 0rem on hover
 - `.hover:bottom-4` - Bottom 4rem on hover
@@ -4037,10 +4036,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ### Left
 
-- `.hover:left-100` - Left 100rem on hover
-- `.hover:left-75` - Left 75rem on hover
-- `.hover:left-50` - Left 50rem on hover
-- `.hover:left-25` - Left 25rem on hover
+- `.hover:left-100` - Left 100% on hover
+- `.hover:left-75` - Left 75% on hover
+- `.hover:left-50` - Left 50% on hover
+- `.hover:left-25` - Left 25% on hover
 - `.hover:left-5` - Left 5rem on hover
 - `.hover:left-4.5` - Left 0rem on hover
 - `.hover:left-4` - Left 4rem on hover
@@ -4068,10 +4067,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:left-0.2` - Left 0.2rem on hover
 - `.hover:left-0.1` - Left 0.1rem on hover
 - `.hover:left-0` - Left 0rem on hover
-- `.left-100` - Left 100rem
-- `.left-75` - Left 75rem
-- `.left-50` - Left 50rem
-- `.left-25` - Left 25rem
+- `.left-100` - Left 100%
+- `.left-75` - Left 75%
+- `.left-50` - Left 50%
+- `.left-25` - Left 25%
 - `.left-5` - Left 5rem
 - `.left-4.5` - Left 0rem
 - `.left-4` - Left 4rem
@@ -4157,18 +4156,18 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ### Z-Index
 
-- `.hover:z-5` - Z-Index 5 on hover
-- `.hover:z-4` - Z-Index 4 on hover
-- `.hover:z-3` - Z-Index 3 on hover
-- `.hover:z-2` - Z-Index 2 on hover
-- `.hover:z-1` - Z-Index 1 on hover
+- `.hover:z-5` - Z-Index 1005 on hover
+- `.hover:z-4` - Z-Index 1004 on hover
+- `.hover:z-3` - Z-Index 1003 on hover
+- `.hover:z-2` - Z-Index 1002 on hover
+- `.hover:z-1` - Z-Index 1001 on hover
 - `.hover:z-0` - Z-Index 0 on hover
 - `.hover:z-auto` - Z-Index auto on hover
-- `.z-5` - Z-Index 5
-- `.z-4` - Z-Index 4
-- `.z-3` - Z-Index 3
-- `.z-2` - Z-Index 2
-- `.z-1` - Z-Index 1
+- `.z-5` - Z-Index 1005
+- `.z-4` - Z-Index 1004
+- `.z-3` - Z-Index 1003
+- `.z-2` - Z-Index 1002
+- `.z-1` - Z-Index 1001
 - `.z-0` - Z-Index 0
 - `.z-auto` - Z-Index auto
 
@@ -4357,7 +4356,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.text-transparent` - Text transparent
 - `.text-uppercase` - Text uppercase
 
-##### Text - Mobile (< 480px)
+##### Text - Mobile (≤ 480px)
 
 - `.hover:mobile:text-center` - Text center on hover on mobile
 - `.hover:mobile:text-end` - Text end on hover on mobile
@@ -4417,7 +4416,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:text-right` - Text right on pc
 - `.pc:text-start` - Text start on pc
 
-##### Text - Tv (> 1200px)
+##### Text - Tv (≥ 1200px)
 
 - `.hover:tv:text-center` - Text center on hover on tv
 - `.hover:tv:text-end` - Text end on hover on tv
@@ -4432,7 +4431,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:text-right` - Text right on tv
 - `.tv:text-start` - Text start on tv
 
-##### Text - Tablet Max (< 768px)
+##### Text - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:text-center` - Text center on hover on tablet max
 - `.hover:tablet-max:text-end` - Text end on hover on tablet max
@@ -4447,7 +4446,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:text-right` - Text right on tablet max
 - `.tablet-max:text-start` - Text start on tablet max
 
-##### Text - Tablet Pc Max (< 992px)
+##### Text - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:text-center` - Text center on hover on tablet pc max
 - `.hover:tablet-pc-max:text-end` - Text end on hover on tablet pc max
@@ -4462,7 +4461,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:text-right` - Text right on tablet pc max
 - `.tablet-pc-max:text-start` - Text start on tablet pc max
 
-##### Text - Pc Max (< 1200px)
+##### Text - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:text-center` - Text center on hover on pc max
 - `.hover:pc-max:text-end` - Text end on hover on pc max
@@ -4514,18 +4513,18 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ### Bg blur
 
-- `.bg-blur-5` - Bg blur 5rem
-- `.bg-blur-4` - Bg blur 4rem
-- `.bg-blur-3` - Bg blur 3rem
-- `.bg-blur-2` - Bg blur 2rem
-- `.bg-blur-1` - Bg blur 1rem
-- `.bg-blur-0` - Bg blur 0rem
-- `.hover:bg-blur-5` - Bg blur 5rem on hover
-- `.hover:bg-blur-4` - Bg blur 4rem on hover
-- `.hover:bg-blur-3` - Bg blur 3rem on hover
-- `.hover:bg-blur-2` - Bg blur 2rem on hover
-- `.hover:bg-blur-1` - Bg blur 1rem on hover
-- `.hover:bg-blur-0` - Bg blur 0rem on hover
+- `.bg-blur-5` - Bg blur 24px
+- `.bg-blur-4` - Bg blur 16px
+- `.bg-blur-3` - Bg blur 12px
+- `.bg-blur-2` - Bg blur 8px
+- `.bg-blur-1` - Bg blur 4px
+- `.bg-blur-0` - Bg blur 0px
+- `.hover:bg-blur-5` - Bg blur 24px on hover
+- `.hover:bg-blur-4` - Bg blur 16px on hover
+- `.hover:bg-blur-3` - Bg blur 12px on hover
+- `.hover:bg-blur-2` - Bg blur 8px on hover
+- `.hover:bg-blur-1` - Bg blur 4px on hover
+- `.hover:bg-blur-0` - Bg blur 0px on hover
 
 ## Borders
 
@@ -4884,26 +4883,26 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Box Shadow All
 
 - `.hover:shadow-5` - Box Shadow All 5rem on hover
-- `.hover:shadow-5-1` - Box Shadow All 5-1rem on hover
+- `.hover:shadow-5-1` - Box Shadow All 0 0 5rem 2rem on hover
 - `.hover:shadow-4` - Box Shadow All 4rem on hover
-- `.hover:shadow-4-1` - Box Shadow All 4-1rem on hover
+- `.hover:shadow-4-1` - Box Shadow All 0 0 4rem 2rem on hover
 - `.hover:shadow-3` - Box Shadow All 3rem on hover
-- `.hover:shadow-3-1` - Box Shadow All 3-1rem on hover
+- `.hover:shadow-3-1` - Box Shadow All 0 0 3rem 2rem on hover
 - `.hover:shadow-2` - Box Shadow All 2rem on hover
-- `.hover:shadow-2-1` - Box Shadow All 2-1rem on hover
+- `.hover:shadow-2-1` - Box Shadow All 0 0 2rem 2rem on hover
 - `.hover:shadow-1` - Box Shadow All 1rem on hover
-- `.hover:shadow-1-1` - Box Shadow All 1-1rem on hover
+- `.hover:shadow-1-1` - Box Shadow All 0 0 1rem 2rem on hover
 - `.hover:shadow-none` - Box Shadow All none on hover
 - `.shadow-5` - Box Shadow All 5rem
-- `.shadow-5-1` - Box Shadow All 5-1rem
+- `.shadow-5-1` - Box Shadow All 0 0 5rem 2rem
 - `.shadow-4` - Box Shadow All 4rem
-- `.shadow-4-1` - Box Shadow All 4-1rem
+- `.shadow-4-1` - Box Shadow All 0 0 4rem 2rem
 - `.shadow-3` - Box Shadow All 3rem
-- `.shadow-3-1` - Box Shadow All 3-1rem
+- `.shadow-3-1` - Box Shadow All 0 0 3rem 2rem
 - `.shadow-2` - Box Shadow All 2rem
-- `.shadow-2-1` - Box Shadow All 2-1rem
+- `.shadow-2-1` - Box Shadow All 0 0 2rem 2rem
 - `.shadow-1` - Box Shadow All 1rem
-- `.shadow-1-1` - Box Shadow All 1-1rem
+- `.shadow-1-1` - Box Shadow All 0 0 1rem 2rem
 - `.shadow-none` - Box Shadow All none
 
 #### Box Shadow Bottom
@@ -5046,18 +5045,18 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ### Blur
 
-- `.blur-5` - Blur 5rem
-- `.blur-4` - Blur 4rem
-- `.blur-3` - Blur 3rem
-- `.blur-2` - Blur 2rem
-- `.blur-1` - Blur 1rem
-- `.blur-0` - Blur 0rem
-- `.hover:blur-5` - Blur 5rem on hover
-- `.hover:blur-4` - Blur 4rem on hover
-- `.hover:blur-3` - Blur 3rem on hover
-- `.hover:blur-2` - Blur 2rem on hover
-- `.hover:blur-1` - Blur 1rem on hover
-- `.hover:blur-0` - Blur 0rem on hover
+- `.blur-5` - Blur 24px
+- `.blur-4` - Blur 16px
+- `.blur-3` - Blur 12px
+- `.blur-2` - Blur 8px
+- `.blur-1` - Blur 4px
+- `.blur-0` - Blur 0px
+- `.hover:blur-5` - Blur 24px on hover
+- `.hover:blur-4` - Blur 16px on hover
+- `.hover:blur-3` - Blur 12px on hover
+- `.hover:blur-2` - Blur 8px on hover
+- `.hover:blur-1` - Blur 4px on hover
+- `.hover:blur-0` - Blur 0px on hover
 
 ### Opacity
 
@@ -5108,111 +5107,111 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ### Rotate
 
-- `.hover:rotate-180` - Rotate 180rem on hover
-- `.hover:rotate-135` - Rotate 135rem on hover
-- `.hover:rotate-90` - Rotate 90rem on hover
-- `.hover:rotate-45` - Rotate 45rem on hover
-- `.hover:rotate-12` - Rotate 12rem on hover
-- `.hover:rotate-9` - Rotate 9rem on hover
-- `.hover:rotate-6` - Rotate 6rem on hover
-- `.hover:rotate-3` - Rotate 3rem on hover
-- `.hover:rotate-0` - Rotate 0rem on hover
-- `.rotate-180` - Rotate 180rem
-- `.rotate-135` - Rotate 135rem
-- `.rotate-90` - Rotate 90rem
-- `.rotate-45` - Rotate 45rem
-- `.rotate-12` - Rotate 12rem
-- `.rotate-9` - Rotate 9rem
-- `.rotate-6` - Rotate 6rem
-- `.rotate-3` - Rotate 3rem
-- `.rotate-0` - Rotate 0rem
+- `.hover:rotate-180` - Rotate 180deg on hover
+- `.hover:rotate-135` - Rotate 135deg on hover
+- `.hover:rotate-90` - Rotate 90deg on hover
+- `.hover:rotate-45` - Rotate 45deg on hover
+- `.hover:rotate-12` - Rotate 12deg on hover
+- `.hover:rotate-9` - Rotate 9deg on hover
+- `.hover:rotate-6` - Rotate 6deg on hover
+- `.hover:rotate-3` - Rotate 3deg on hover
+- `.hover:rotate-0` - Rotate 0deg on hover
+- `.rotate-180` - Rotate 180deg
+- `.rotate-135` - Rotate 135deg
+- `.rotate-90` - Rotate 90deg
+- `.rotate-45` - Rotate 45deg
+- `.rotate-12` - Rotate 12deg
+- `.rotate-9` - Rotate 9deg
+- `.rotate-6` - Rotate 6deg
+- `.rotate-3` - Rotate 3deg
+- `.rotate-0` - Rotate 0deg
 
 ##### Negative Rotate
 
-- `.-rotate-180` - Negative Rotate 180rem
-- `.-rotate-135` - Negative Rotate 135rem
-- `.-rotate-90` - Negative Rotate 90rem
-- `.-rotate-45` - Negative Rotate 45rem
-- `.-rotate-12` - Negative Rotate 12rem
-- `.-rotate-9` - Negative Rotate 9rem
-- `.-rotate-6` - Negative Rotate 6rem
-- `.-rotate-3` - Negative Rotate 3rem
-- `.hover:-rotate-180` - Negative Rotate 180rem on hover
-- `.hover:-rotate-135` - Negative Rotate 135rem on hover
-- `.hover:-rotate-90` - Negative Rotate 90rem on hover
-- `.hover:-rotate-45` - Negative Rotate 45rem on hover
-- `.hover:-rotate-12` - Negative Rotate 12rem on hover
-- `.hover:-rotate-9` - Negative Rotate 9rem on hover
-- `.hover:-rotate-6` - Negative Rotate 6rem on hover
-- `.hover:-rotate-3` - Negative Rotate 3rem on hover
+- `.-rotate-180` - Negative Rotate 180deg
+- `.-rotate-135` - Negative Rotate 135deg
+- `.-rotate-90` - Negative Rotate 90deg
+- `.-rotate-45` - Negative Rotate 45deg
+- `.-rotate-12` - Negative Rotate 12deg
+- `.-rotate-9` - Negative Rotate 9deg
+- `.-rotate-6` - Negative Rotate 6deg
+- `.-rotate-3` - Negative Rotate 3deg
+- `.hover:-rotate-180` - Negative Rotate 180deg on hover
+- `.hover:-rotate-135` - Negative Rotate 135deg on hover
+- `.hover:-rotate-90` - Negative Rotate 90deg on hover
+- `.hover:-rotate-45` - Negative Rotate 45deg on hover
+- `.hover:-rotate-12` - Negative Rotate 12deg on hover
+- `.hover:-rotate-9` - Negative Rotate 9deg on hover
+- `.hover:-rotate-6` - Negative Rotate 6deg on hover
+- `.hover:-rotate-3` - Negative Rotate 3deg on hover
 
 ### Skew
 
 #### Skew X-Axis
 
-- `.hover:skew-x-12` - Skew X-Axis 12rem on hover
-- `.hover:skew-x-6` - Skew X-Axis 6rem on hover
-- `.hover:skew-x-3` - Skew X-Axis 3rem on hover
-- `.hover:skew-x-0` - Skew X-Axis 0rem on hover
-- `.skew-x-12` - Skew X-Axis 12rem
-- `.skew-x-6` - Skew X-Axis 6rem
-- `.skew-x-3` - Skew X-Axis 3rem
-- `.skew-x-0` - Skew X-Axis 0rem
+- `.hover:skew-x-12` - Skew X-Axis 12deg on hover
+- `.hover:skew-x-6` - Skew X-Axis 6deg on hover
+- `.hover:skew-x-3` - Skew X-Axis 3deg on hover
+- `.hover:skew-x-0` - Skew X-Axis 0deg on hover
+- `.skew-x-12` - Skew X-Axis 12deg
+- `.skew-x-6` - Skew X-Axis 6deg
+- `.skew-x-3` - Skew X-Axis 3deg
+- `.skew-x-0` - Skew X-Axis 0deg
 
 ##### Negative Skew X-Axis
 
-- `.-skew-x-12` - Negative Skew X-Axis 12rem
-- `.-skew-x-6` - Negative Skew X-Axis 6rem
-- `.-skew-x-3` - Negative Skew X-Axis 3rem
-- `.hover:-skew-x-12` - Negative Skew X-Axis 12rem on hover
-- `.hover:-skew-x-6` - Negative Skew X-Axis 6rem on hover
-- `.hover:-skew-x-3` - Negative Skew X-Axis 3rem on hover
+- `.-skew-x-12` - Negative Skew X-Axis 12deg
+- `.-skew-x-6` - Negative Skew X-Axis 6deg
+- `.-skew-x-3` - Negative Skew X-Axis 3deg
+- `.hover:-skew-x-12` - Negative Skew X-Axis 12deg on hover
+- `.hover:-skew-x-6` - Negative Skew X-Axis 6deg on hover
+- `.hover:-skew-x-3` - Negative Skew X-Axis 3deg on hover
 
 #### Skew Y-Axis
 
-- `.hover:skew-y-12` - Skew Y-Axis 12rem on hover
-- `.hover:skew-y-6` - Skew Y-Axis 6rem on hover
-- `.hover:skew-y-3` - Skew Y-Axis 3rem on hover
-- `.hover:skew-y-0` - Skew Y-Axis 0rem on hover
-- `.skew-y-12` - Skew Y-Axis 12rem
-- `.skew-y-6` - Skew Y-Axis 6rem
-- `.skew-y-3` - Skew Y-Axis 3rem
-- `.skew-y-0` - Skew Y-Axis 0rem
+- `.hover:skew-y-12` - Skew Y-Axis 12deg on hover
+- `.hover:skew-y-6` - Skew Y-Axis 6deg on hover
+- `.hover:skew-y-3` - Skew Y-Axis 3deg on hover
+- `.hover:skew-y-0` - Skew Y-Axis 0deg on hover
+- `.skew-y-12` - Skew Y-Axis 12deg
+- `.skew-y-6` - Skew Y-Axis 6deg
+- `.skew-y-3` - Skew Y-Axis 3deg
+- `.skew-y-0` - Skew Y-Axis 0deg
 
 ##### Negative Skew Y-Axis
 
-- `.-skew-y-12` - Negative Skew Y-Axis 12rem
-- `.-skew-y-6` - Negative Skew Y-Axis 6rem
-- `.-skew-y-3` - Negative Skew Y-Axis 3rem
-- `.hover:-skew-y-12` - Negative Skew Y-Axis 12rem on hover
-- `.hover:-skew-y-6` - Negative Skew Y-Axis 6rem on hover
-- `.hover:-skew-y-3` - Negative Skew Y-Axis 3rem on hover
+- `.-skew-y-12` - Negative Skew Y-Axis 12deg
+- `.-skew-y-6` - Negative Skew Y-Axis 6deg
+- `.-skew-y-3` - Negative Skew Y-Axis 3deg
+- `.hover:-skew-y-12` - Negative Skew Y-Axis 12deg on hover
+- `.hover:-skew-y-6` - Negative Skew Y-Axis 6deg on hover
+- `.hover:-skew-y-3` - Negative Skew Y-Axis 3deg on hover
 
 ### Translate
 
-- `.hover:translate-50` - Translate 50rem on hover
-- `.hover:translate-25` - Translate 25rem on hover
-- `.translate-50` - Translate 50rem
-- `.translate-25` - Translate 25rem
+- `.hover:translate-50` - Translate 50% on hover
+- `.hover:translate-25` - Translate 25% on hover
+- `.translate-50` - Translate 50%
+- `.translate-25` - Translate 25%
 
 ##### Negative Translate
 
-- `.-translate-50` - Negative Translate 50rem
-- `.-translate-25` - Negative Translate 25rem
-- `.hover:-translate-50` - Negative Translate 50rem on hover
-- `.hover:-translate-25` - Negative Translate 25rem on hover
+- `.-translate-50` - Negative Translate 50%
+- `.-translate-25` - Negative Translate 25%
+- `.hover:-translate-50` - Negative Translate 50% on hover
+- `.hover:-translate-25` - Negative Translate 25% on hover
 
 #### Translate X-Axis
 
-- `.hover:translate-x-50` - Translate X-Axis 50rem on hover
-- `.hover:translate-x-25` - Translate X-Axis 25rem on hover
+- `.hover:translate-x-50` - Translate X-Axis 50% on hover
+- `.hover:translate-x-25` - Translate X-Axis 25% on hover
 - `.hover:translate-x-2` - Translate X-Axis 2rem on hover
 - `.hover:translate-x-1.5` - Translate X-Axis 0rem on hover
 - `.hover:translate-x-1` - Translate X-Axis 1rem on hover
 - `.hover:translate-x-0.5` - Translate X-Axis 0.5rem on hover
 - `.hover:translate-x-0` - Translate X-Axis 0rem on hover
-- `.translate-x-50` - Translate X-Axis 50rem
-- `.translate-x-25` - Translate X-Axis 25rem
+- `.translate-x-50` - Translate X-Axis 50%
+- `.translate-x-25` - Translate X-Axis 25%
 - `.translate-x-2` - Translate X-Axis 2rem
 - `.translate-x-1.5` - Translate X-Axis 0rem
 - `.translate-x-1` - Translate X-Axis 1rem
@@ -5221,14 +5220,14 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ##### Negative Translate X-Axis
 
-- `.-translate-x-50` - Negative Translate X-Axis 50rem
-- `.-translate-x-25` - Negative Translate X-Axis 25rem
+- `.-translate-x-50` - Negative Translate X-Axis 50%
+- `.-translate-x-25` - Negative Translate X-Axis 25%
 - `.-translate-x-2` - Negative Translate X-Axis 2rem
 - `.-translate-x-1.5` - Negative Translate X-Axis 1.5rem
 - `.-translate-x-1` - Negative Translate X-Axis 1rem
 - `.-translate-x-0.5` - Negative Translate X-Axis 0.5rem
-- `.hover:-translate-x-50` - Negative Translate X-Axis 50rem on hover
-- `.hover:-translate-x-25` - Negative Translate X-Axis 25rem on hover
+- `.hover:-translate-x-50` - Negative Translate X-Axis 50% on hover
+- `.hover:-translate-x-25` - Negative Translate X-Axis 25% on hover
 - `.hover:-translate-x-2` - Negative Translate X-Axis 2rem on hover
 - `.hover:-translate-x-1.5` - Negative Translate X-Axis 1.5rem on hover
 - `.hover:-translate-x-1` - Negative Translate X-Axis 1rem on hover
@@ -5236,15 +5235,15 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 #### Translate Y-Axis
 
-- `.hover:translate-y-50` - Translate Y-Axis 50rem on hover
-- `.hover:translate-y-25` - Translate Y-Axis 25rem on hover
+- `.hover:translate-y-50` - Translate Y-Axis 50% on hover
+- `.hover:translate-y-25` - Translate Y-Axis 25% on hover
 - `.hover:translate-y-2` - Translate Y-Axis 2rem on hover
 - `.hover:translate-y-1.5` - Translate Y-Axis 0rem on hover
 - `.hover:translate-y-1` - Translate Y-Axis 1rem on hover
 - `.hover:translate-y-0.5` - Translate Y-Axis 0.5rem on hover
 - `.hover:translate-y-0` - Translate Y-Axis 0rem on hover
-- `.translate-y-50` - Translate Y-Axis 50rem
-- `.translate-y-25` - Translate Y-Axis 25rem
+- `.translate-y-50` - Translate Y-Axis 50%
+- `.translate-y-25` - Translate Y-Axis 25%
 - `.translate-y-2` - Translate Y-Axis 2rem
 - `.translate-y-1.5` - Translate Y-Axis 0rem
 - `.translate-y-1` - Translate Y-Axis 1rem
@@ -5253,14 +5252,14 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ##### Negative Translate Y-Axis
 
-- `.-translate-y-50` - Negative Translate Y-Axis 50rem
-- `.-translate-y-25` - Negative Translate Y-Axis 25rem
+- `.-translate-y-50` - Negative Translate Y-Axis 50%
+- `.-translate-y-25` - Negative Translate Y-Axis 25%
 - `.-translate-y-2` - Negative Translate Y-Axis 2rem
 - `.-translate-y-1.5` - Negative Translate Y-Axis 1.5rem
 - `.-translate-y-1` - Negative Translate Y-Axis 1rem
 - `.-translate-y-0.5` - Negative Translate Y-Axis 0.5rem
-- `.hover:-translate-y-50` - Negative Translate Y-Axis 50rem on hover
-- `.hover:-translate-y-25` - Negative Translate Y-Axis 25rem on hover
+- `.hover:-translate-y-50` - Negative Translate Y-Axis 50% on hover
+- `.hover:-translate-y-25` - Negative Translate Y-Axis 25% on hover
 - `.hover:-translate-y-2` - Negative Translate Y-Axis 2rem on hover
 - `.hover:-translate-y-1.5` - Negative Translate Y-Axis 1.5rem on hover
 - `.hover:-translate-y-1` - Negative Translate Y-Axis 1rem on hover
@@ -5269,10 +5268,10 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 ### Zoom
 
 - `.hover:zoom` - Zoom on hover
-- `.hover:zoom-2` - Zoom 2rem on hover
-- `.hover:zoom-1.5` - Zoom 1.5rem on hover
+- `.hover:zoom-2` - Zoom 2 on hover
+- `.hover:zoom-1.5` - Zoom 1.5 on hover
 - `.zoom` - Zoom
-- `.zoom-2` - Zoom 2rem
+- `.zoom-2` - Zoom 2
 - `.zoom-1.5` - Zoom 1.5
 
 ## Colors
@@ -5354,19 +5353,19 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 ### Content
 
-- `.content-3` - Content 3rem
-- `.content-3-bg` - Content 3-bgrem
-- `.content-2` - Content 2rem
-- `.content-2-bg` - Content 2-bgrem
-- `.content-2-text` - Content 2-textrem
-- `.content-1` - Content 1rem
-- `.content-1-bg` - Content 1-bgrem
-- `.content-1-text` - Content 1-textrem
-- `.hover:content-3-bg` - Content 3-bgrem on hover
-- `.hover:content-2-bg` - Content 2-bgrem on hover
-- `.hover:content-2-text` - Content 2-textrem on hover
-- `.hover:content-1-bg` - Content 1-bgrem on hover
-- `.hover:content-1-text` - Content 1-textrem on hover
+- `.content-3` - Content 3
+- `.content-3-bg` - Content 3-bg
+- `.content-2` - Content 2
+- `.content-2-bg` - Content 2-bg
+- `.content-2-text` - Content 2-text
+- `.content-1` - Content 1
+- `.content-1-bg` - Content 1-bg
+- `.content-1-text` - Content 1-text
+- `.hover:content-3-bg` - Content 3-bg on hover
+- `.hover:content-2-bg` - Content 2-bg on hover
+- `.hover:content-2-text` - Content 2-text on hover
+- `.hover:content-1-bg` - Content 1-bg on hover
+- `.hover:content-1-text` - Content 1-text on hover
 
 ### Dir
 
@@ -5386,12 +5385,6 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.mse-0.5` - Mse 0.5rem
 - `.mse-0` - Mse 0rem
 
-### Other
-
-##### Other - undefined
-
-- `.hover:px-3.5` - Other on hover on px 3.5
-
 ### Visibility
 
 - `.hover:v-hide` - Visibility hidden on hover
@@ -5399,7 +5392,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.v-hide` - Visibility hidden
 - `.v-show` - Visibility visible
 
-##### Visibility - Mobile (< 480px)
+##### Visibility - Mobile (≤ 480px)
 
 - `.hover:mobile:v-hide` - Visibility hidden on hover on mobile
 - `.hover:mobile:v-show` - Visibility visible on hover on mobile
@@ -5427,28 +5420,28 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:v-hide` - Visibility hidden on pc
 - `.pc:v-show` - Visibility visible on pc
 
-##### Visibility - Tv (> 1200px)
+##### Visibility - Tv (≥ 1200px)
 
 - `.hover:tv:v-hide` - Visibility hidden on hover on tv
 - `.hover:tv:v-show` - Visibility visible on hover on tv
 - `.tv:v-hide` - Visibility hidden on tv
 - `.tv:v-show` - Visibility visible on tv
 
-##### Visibility - Tablet Max (< 768px)
+##### Visibility - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:v-hide` - Visibility hidden on hover on tablet max
 - `.hover:tablet-max:v-show` - Visibility visible on hover on tablet max
 - `.tablet-max:v-hide` - Visibility hidden on tablet max
 - `.tablet-max:v-show` - Visibility visible on tablet max
 
-##### Visibility - Tablet Pc Max (< 992px)
+##### Visibility - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:v-hide` - Visibility hidden on hover on tablet pc max
 - `.hover:tablet-pc-max:v-show` - Visibility visible on hover on tablet pc max
 - `.tablet-pc-max:v-hide` - Visibility hidden on tablet pc max
 - `.tablet-pc-max:v-show` - Visibility visible on tablet pc max
 
-##### Visibility - Pc Max (< 1200px)
+##### Visibility - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:v-hide` - Visibility hidden on hover on pc max
 - `.hover:pc-max:v-show` - Visibility visible on hover on pc max
