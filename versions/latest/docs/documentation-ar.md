@@ -294,120 +294,120 @@
 
 ### Float
 
-- `.float-end` - نهاية تعويم
-- `.float-left` - تطفو إلى اليسار
-- `.float-none` - لا تطفو
-- `.float-right` - تطفو على اليمين
-- `.float-start` - تعويم البداية
-- `.hover:float-end` - نهاية تعويم عند التحويم
-- `.hover:float-left` - تعويم اليسار على التحويم
-- `.hover:float-none` - تعويم لا شيء عند التمرير
-- `.hover:float-right` - تطفو على اليمين عند التمرير
-- `.hover:float-start` - تعويم البدء عند التحويم
+- `.float-end` - تعويم إلى النهاية
+- `.float-left` - تعويم إلى اليسار
+- `.float-none` - بدون تعويم
+- `.float-right` - تعويم إلى اليمين
+- `.float-start` - تعويم إلى البداية
+- `.hover:float-end` - تعويم إلى النهاية عند التمرير
+- `.hover:float-left` - تعويم إلى اليسار عند التمرير
+- `.hover:float-none` - بدون تعويم عند التمرير
+- `.hover:float-right` - تعويم إلى اليمين عند التمرير
+- `.hover:float-start` - تعويم إلى البداية عند التمرير
 
 ##### Float - Mobile (≤ 480px)
 
-- `.hover:mobile:float-end` - تعويم النهاية عند التمرير على الهاتف المحمول
-- `.hover:mobile:float-left` - تعويم لليسار عند التمرير على الهاتف المحمول
-- `.hover:mobile:float-none` - تعويم لا شيء عند التمرير على الهاتف المحمول
-- `.hover:mobile:float-right` - تطفو مباشرة عند التمرير على الهاتف المحمول
-- `.hover:mobile:float-start` - تعويم البدء عند التمرير على الهاتف المحمول
-- `.mobile:float-end` - نهاية تعويم على الهاتف المحمول
-- `.mobile:float-left` - تعويم اليسار على الهاتف المحمول
-- `.mobile:float-none` - لا تطفو على الهاتف المحمول
-- `.mobile:float-right` - تطفو مباشرة على الهاتف المحمول
-- `.mobile:float-start` - تعويم البداية على الهاتف المحمول
+- `.hover:mobile:float-end` - تعويم إلى النهاية عند التمرير على الجوال
+- `.hover:mobile:float-left` - تعويم إلى اليسار عند التمرير على الجوال
+- `.hover:mobile:float-none` - بدون تعويم عند التمرير على الجوال
+- `.hover:mobile:float-right` - تعويم إلى اليمين عند التمرير على الجوال
+- `.hover:mobile:float-start` - تعويم إلى البداية عند التمرير على الجوال
+- `.mobile:float-end` - تعويم إلى النهاية على الجوال
+- `.mobile:float-left` - تعويم إلى اليسار على الجوال
+- `.mobile:float-none` - بدون تعويم على الجوال
+- `.mobile:float-right` - تعويم إلى اليمين على الجوال
+- `.mobile:float-start` - تعويم إلى البداية على الجوال
 
 ##### Float - Tablet (480px - 768px)
 
-- `.hover:tablet:float-end` - تعويم النهاية عند التمرير على الجهاز اللوحي
-- `.hover:tablet:float-left` - تطفو على اليسار عند التمرير على الجهاز اللوحي
-- `.hover:tablet:float-none` - لا تطفو على الإطلاق عند التمرير على الجهاز اللوحي
-- `.hover:tablet:float-right` - تطفو مباشرة عند التمرير على الجهاز اللوحي
-- `.hover:tablet:float-start` - تعويم البدء عند التمرير على الجهاز اللوحي
-- `.tablet:float-end` - نهاية تعويم على الجهاز اللوحي
-- `.tablet:float-left` - تطفو على اليسار على الجهاز اللوحي
-- `.tablet:float-none` - لا تطفو على الجهاز اللوحي
-- `.tablet:float-right` - تطفو مباشرة على الجهاز اللوحي
-- `.tablet:float-start` - تعويم البداية على الكمبيوتر اللوحي
+- `.hover:tablet:float-end` - تعويم إلى النهاية عند التمرير على الجهاز اللوحي
+- `.hover:tablet:float-left` - تعويم إلى اليسار عند التمرير على الجهاز اللوحي
+- `.hover:tablet:float-none` - بدون تعويم عند التمرير على الجهاز اللوحي
+- `.hover:tablet:float-right` - تعويم إلى اليمين عند التمرير على الجهاز اللوحي
+- `.hover:tablet:float-start` - تعويم إلى البداية عند التمرير على الجهاز اللوحي
+- `.tablet:float-end` - تعويم إلى النهاية على الجهاز اللوحي
+- `.tablet:float-left` - تعويم إلى اليسار على الجهاز اللوحي
+- `.tablet:float-none` - بدون تعويم على الجهاز اللوحي
+- `.tablet:float-right` - تعويم إلى اليمين على الجهاز اللوحي
+- `.tablet:float-start` - تعويم إلى البداية على الجهاز اللوحي
 
 ##### Float - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:float-end` - تعويم النهاية عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:float-left` - تطفو على اليسار عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:float-none` - تعويم لا شيء عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:float-right` - تطفو مباشرة عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:float-start` - تعويم البدء عند التمرير على الكمبيوتر اللوحي
-- `.tablet-pc:float-end` - نهاية تعويم على الكمبيوتر اللوحي
-- `.tablet-pc:float-left` - تطفو على اليسار على الكمبيوتر اللوحي
-- `.tablet-pc:float-none` - لا تطفو على الكمبيوتر اللوحي
-- `.tablet-pc:float-right` - تطفو مباشرة على الكمبيوتر اللوحي
-- `.tablet-pc:float-start` - تعويم البداية على الكمبيوتر اللوحي
+- `.hover:tablet-pc:float-end` - تعويم إلى النهاية عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:float-left` - تعويم إلى اليسار عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:float-none` - بدون تعويم عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:float-right` - تعويم إلى اليمين عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:float-start` - تعويم إلى البداية عند التمرير على الكمبيوتر اللوحي
+- `.tablet-pc:float-end` - تعويم إلى النهاية على الكمبيوتر اللوحي
+- `.tablet-pc:float-left` - تعويم إلى اليسار على الكمبيوتر اللوحي
+- `.tablet-pc:float-none` - بدون تعويم على الكمبيوتر اللوحي
+- `.tablet-pc:float-right` - تعويم إلى اليمين على الكمبيوتر اللوحي
+- `.tablet-pc:float-start` - تعويم إلى البداية على الكمبيوتر اللوحي
 
 ##### Float - Pc (992px - 1200px)
 
-- `.hover:pc:float-end` - تعويم النهاية عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:float-left` - تطفو على اليسار عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:float-none` - تعويم لا شيء عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:float-right` - تطفو مباشرة عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:float-start` - تعويم البدء عند التمرير على جهاز الكمبيوتر
-- `.pc:float-end` - نهاية تعويم على جهاز الكمبيوتر
-- `.pc:float-left` - تطفو على اليسار على جهاز الكمبيوتر
-- `.pc:float-none` - لا تطفو على جهاز الكمبيوتر
-- `.pc:float-right` - تطفو مباشرة على جهاز الكمبيوتر
-- `.pc:float-start` - تعويم البداية على جهاز الكمبيوتر
+- `.hover:pc:float-end` - تعويم إلى النهاية عند التمرير على الكمبيوتر
+- `.hover:pc:float-left` - تعويم إلى اليسار عند التمرير على الكمبيوتر
+- `.hover:pc:float-none` - بدون تعويم عند التمرير على الكمبيوتر
+- `.hover:pc:float-right` - تعويم إلى اليمين عند التمرير على الكمبيوتر
+- `.hover:pc:float-start` - تعويم إلى البداية عند التمرير على الكمبيوتر
+- `.pc:float-end` - تعويم إلى النهاية على الكمبيوتر
+- `.pc:float-left` - تعويم إلى اليسار على الكمبيوتر
+- `.pc:float-none` - بدون تعويم على الكمبيوتر
+- `.pc:float-right` - تعويم إلى اليمين على الكمبيوتر
+- `.pc:float-start` - تعويم إلى البداية على الكمبيوتر
 
 ##### Float - Tv (≥ 1200px)
 
-- `.hover:tv:float-end` - نهاية التعويم عند التمرير على شاشة التلفزيون
-- `.hover:tv:float-left` - تطفو على اليسار عند التمرير على شاشة التلفزيون
-- `.hover:tv:float-none` - لا شيء يطفو على التحويم على شاشة التلفزيون
-- `.hover:tv:float-right` - تطفو مباشرة على التحويم على شاشة التلفزيون
-- `.hover:tv:float-start` - تعويم البدء عند التمرير على شاشة التلفزيون
-- `.tv:float-end` - تعويم النهاية على شاشة التلفزيون
-- `.tv:float-left` - تطفو على اليسار على شاشة التلفزيون
-- `.tv:float-none` - لا تطفو على شاشة التلفزيون
-- `.tv:float-right` - تطفو مباشرة على شاشة التلفزيون
-- `.tv:float-start` - تعويم البداية على شاشة التلفزيون
+- `.hover:tv:float-end` - تعويم إلى النهاية عند التمرير على التلفزيون
+- `.hover:tv:float-left` - تعويم إلى اليسار عند التمرير على التلفزيون
+- `.hover:tv:float-none` - بدون تعويم عند التمرير على التلفزيون
+- `.hover:tv:float-right` - تعويم إلى اليمين عند التمرير على التلفزيون
+- `.hover:tv:float-start` - تعويم إلى البداية عند التمرير على التلفزيون
+- `.tv:float-end` - تعويم إلى النهاية على التلفزيون
+- `.tv:float-left` - تعويم إلى اليسار على التلفزيون
+- `.tv:float-none` - بدون تعويم على التلفزيون
+- `.tv:float-right` - تعويم إلى اليمين على التلفزيون
+- `.tv:float-start` - تعويم إلى البداية على التلفزيون
 
 ##### Float - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:float-end` - تعويم النهاية عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:float-left` - تعويم لليسار عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:float-none` - تعويم لا شيء عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:float-right` - تطفو مباشرة عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:float-start` - تعويم البدء عند التمرير على الجهاز اللوحي بحد أقصى
-- `.tablet-max:float-end` - نهاية تعويم على الجهاز اللوحي بحد أقصى
-- `.tablet-max:float-left` - تعويم اليسار على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-max:float-none` - تعويم لا شيء على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-max:float-right` - تطفو مباشرة على الجهاز اللوحي بحد أقصى
-- `.tablet-max:float-start` - تعويم البداية على الكمبيوتر اللوحي كحد أقصى
+- `.hover:tablet-max:float-end` - تعويم إلى النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:float-left` - تعويم إلى اليسار عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:float-none` - بدون تعويم عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:float-right` - تعويم إلى اليمين عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:float-start` - تعويم إلى البداية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:float-end` - تعويم إلى النهاية على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:float-left` - تعويم إلى اليسار على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:float-none` - بدون تعويم على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:float-right` - تعويم إلى اليمين على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:float-start` - تعويم إلى البداية على الجهاز اللوحي (الحد الأقصى)
 
 ##### Float - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:float-end` - تعويم النهاية عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:float-left` - تعويم لليسار عند التمرير على الكمبيوتر اللوحي كحد أقصى
-- `.hover:tablet-pc-max:float-none` - تعويم لا شيء عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:float-right` - تطفو مباشرة عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:float-start` - تعويم البدء عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:float-end` - نهاية تعويم على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:float-left` - تعويم اليسار على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:float-none` - تعويم لا شيء على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:float-right` - تطفو مباشرة على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:float-start` - تعويم البداية على الكمبيوتر اللوحي كحد أقصى
+- `.hover:tablet-pc-max:float-end` - تعويم إلى النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:float-left` - تعويم إلى اليسار عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:float-none` - بدون تعويم عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:float-right` - تعويم إلى اليمين عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:float-start` - تعويم إلى البداية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:float-end` - تعويم إلى النهاية على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:float-left` - تعويم إلى اليسار على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:float-none` - بدون تعويم على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:float-right` - تعويم إلى اليمين على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:float-start` - تعويم إلى البداية على الكمبيوتر اللوحي (الحد الأقصى)
 
 ##### Float - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:float-end` - تعويم نهاية عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:float-left` - تعويم لليسار عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:float-none` - تعويم لا شيء عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:float-right` - تطفو مباشرة عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:float-start` - تعويم البدء عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:float-end` - نهاية تعويم على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:float-left` - تعويم اليسار على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:float-none` - تعويم لا شيء على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:float-right` - تطفو مباشرة على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:float-start` - تعويم البداية على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:float-end` - تعويم إلى النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:float-left` - تعويم إلى اليسار عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:float-none` - بدون تعويم عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:float-right` - تعويم إلى اليمين عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:float-start` - تعويم إلى البداية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.pc-max:float-end` - تعويم إلى النهاية على الكمبيوتر (الحد الأقصى)
+- `.pc-max:float-left` - تعويم إلى اليسار على الكمبيوتر (الحد الأقصى)
+- `.pc-max:float-none` - بدون تعويم على الكمبيوتر (الحد الأقصى)
+- `.pc-max:float-right` - تعويم إلى اليمين على الكمبيوتر (الحد الأقصى)
+- `.pc-max:float-start` - تعويم إلى البداية على الكمبيوتر (الحد الأقصى)
 
 ### Object
 
@@ -1071,774 +1071,774 @@
 
 ### Align content
 
-- `.align-content-around` - محاذاة المحتوى حولها
-- `.align-content-between` - محاذاة المحتوى بين
-- `.align-content-center` - محاذاة مركز المحتوى
-- `.align-content-end` - محاذاة نهاية المحتوى
-- `.align-content-evenly` - محاذاة المحتوى بالتساوي
-- `.align-content-start` - محاذاة بداية المحتوى
-- `.align-content-stretch` - محاذاة امتداد المحتوى
-- `.hover:align-content-around` - قم بمحاذاة المحتوى عند التمرير
-- `.hover:align-content-between` - محاذاة المحتوى بين عند التمرير
-- `.hover:align-content-center` - محاذاة مركز المحتوى عند التمرير
-- `.hover:align-content-end` - محاذاة نهاية المحتوى عند التمرير
-- `.hover:align-content-evenly` - محاذاة المحتوى بالتساوي عند التمرير
-- `.hover:align-content-start` - محاذاة المحتوى تبدأ عند التمرير
-- `.hover:align-content-stretch` - محاذاة امتداد المحتوى عند التمرير
+- `.align-content-around` - محاذاة المحتوى: around
+- `.align-content-between` - محاذاة المحتوى: between
+- `.align-content-center` - محاذاة المحتوى: المنتصف
+- `.align-content-end` - محاذاة المحتوى: النهاية
+- `.align-content-evenly` - محاذاة المحتوى: evenly
+- `.align-content-start` - محاذاة المحتوى: البداية
+- `.align-content-stretch` - محاذاة المحتوى: stretch
+- `.hover:align-content-around` - محاذاة المحتوى: around عند التمرير
+- `.hover:align-content-between` - محاذاة المحتوى: between عند التمرير
+- `.hover:align-content-center` - محاذاة المحتوى: المنتصف عند التمرير
+- `.hover:align-content-end` - محاذاة المحتوى: النهاية عند التمرير
+- `.hover:align-content-evenly` - محاذاة المحتوى: evenly عند التمرير
+- `.hover:align-content-start` - محاذاة المحتوى: البداية عند التمرير
+- `.hover:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير
 
 ##### Align content - Mobile (≤ 480px)
 
-- `.hover:mobile:align-content-around` - قم بمحاذاة المحتوى عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-content-between` - قم بمحاذاة المحتوى بين التمرير على الهاتف المحمول
-- `.hover:mobile:align-content-center` - محاذاة مركز المحتوى عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-content-end` - محاذاة نهاية المحتوى عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-content-evenly` - قم بمحاذاة المحتوى بالتساوي عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-content-start` - محاذاة المحتوى تبدأ عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-content-stretch` - محاذاة امتداد المحتوى عند التمرير على الهاتف المحمول
-- `.mobile:align-content-around` - محاذاة المحتوى على الهاتف المحمول
-- `.mobile:align-content-between` - محاذاة المحتوى بين على الهاتف المحمول
-- `.mobile:align-content-center` - محاذاة مركز المحتوى على الهاتف المحمول
-- `.mobile:align-content-end` - محاذاة نهاية المحتوى على الهاتف المحمول
-- `.mobile:align-content-evenly` - محاذاة المحتوى بالتساوي على الهاتف المحمول
-- `.mobile:align-content-start` - محاذاة المحتوى تبدأ على الهاتف المحمول
-- `.mobile:align-content-stretch` - محاذاة امتداد المحتوى على الهاتف المحمول
+- `.hover:mobile:align-content-around` - محاذاة المحتوى: around عند التمرير على الجوال
+- `.hover:mobile:align-content-between` - محاذاة المحتوى: between عند التمرير على الجوال
+- `.hover:mobile:align-content-center` - محاذاة المحتوى: المنتصف عند التمرير على الجوال
+- `.hover:mobile:align-content-end` - محاذاة المحتوى: النهاية عند التمرير على الجوال
+- `.hover:mobile:align-content-evenly` - محاذاة المحتوى: evenly عند التمرير على الجوال
+- `.hover:mobile:align-content-start` - محاذاة المحتوى: البداية عند التمرير على الجوال
+- `.hover:mobile:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير على الجوال
+- `.mobile:align-content-around` - محاذاة المحتوى: around على الجوال
+- `.mobile:align-content-between` - محاذاة المحتوى: between على الجوال
+- `.mobile:align-content-center` - محاذاة المحتوى: المنتصف على الجوال
+- `.mobile:align-content-end` - محاذاة المحتوى: النهاية على الجوال
+- `.mobile:align-content-evenly` - محاذاة المحتوى: evenly على الجوال
+- `.mobile:align-content-start` - محاذاة المحتوى: البداية على الجوال
+- `.mobile:align-content-stretch` - محاذاة المحتوى: stretch على الجوال
 
 ##### Align content - Tablet (480px - 768px)
 
-- `.hover:tablet:align-content-around` - قم بمحاذاة المحتوى عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-content-between` - قم بمحاذاة المحتوى بين التمرير على الجهاز اللوحي
-- `.hover:tablet:align-content-center` - محاذاة مركز المحتوى عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-content-end` - قم بمحاذاة نهاية المحتوى عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-content-evenly` - قم بمحاذاة المحتوى بالتساوي عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-content-start` - محاذاة المحتوى تبدأ عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-content-stretch` - محاذاة امتداد المحتوى عند التمرير على الجهاز اللوحي
-- `.tablet:align-content-around` - محاذاة المحتوى على الجهاز اللوحي
-- `.tablet:align-content-between` - محاذاة المحتوى بين على الجهاز اللوحي
-- `.tablet:align-content-center` - محاذاة مركز المحتوى على الجهاز اللوحي
-- `.tablet:align-content-end` - محاذاة نهاية المحتوى على الجهاز اللوحي
-- `.tablet:align-content-evenly` - محاذاة المحتوى بالتساوي على الجهاز اللوحي
-- `.tablet:align-content-start` - محاذاة المحتوى يبدأ على الجهاز اللوحي
-- `.tablet:align-content-stretch` - محاذاة امتداد المحتوى على الجهاز اللوحي
+- `.hover:tablet:align-content-around` - محاذاة المحتوى: around عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-content-between` - محاذاة المحتوى: between عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-content-center` - محاذاة المحتوى: المنتصف عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-content-end` - محاذاة المحتوى: النهاية عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-content-evenly` - محاذاة المحتوى: evenly عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-content-start` - محاذاة المحتوى: البداية عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير على الجهاز اللوحي
+- `.tablet:align-content-around` - محاذاة المحتوى: around على الجهاز اللوحي
+- `.tablet:align-content-between` - محاذاة المحتوى: between على الجهاز اللوحي
+- `.tablet:align-content-center` - محاذاة المحتوى: المنتصف على الجهاز اللوحي
+- `.tablet:align-content-end` - محاذاة المحتوى: النهاية على الجهاز اللوحي
+- `.tablet:align-content-evenly` - محاذاة المحتوى: evenly على الجهاز اللوحي
+- `.tablet:align-content-start` - محاذاة المحتوى: البداية على الجهاز اللوحي
+- `.tablet:align-content-stretch` - محاذاة المحتوى: stretch على الجهاز اللوحي
 
 ##### Align content - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:align-content-around` - قم بمحاذاة المحتوى عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-content-between` - قم بمحاذاة المحتوى بين التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-content-center` - محاذاة مركز المحتوى عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-content-end` - قم بمحاذاة نهاية المحتوى عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-content-evenly` - قم بمحاذاة المحتوى بالتساوي عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-content-start` - محاذاة المحتوى تبدأ عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-content-stretch` - محاذاة امتداد المحتوى عند التمرير على الكمبيوتر اللوحي
-- `.tablet-pc:align-content-around` - محاذاة المحتوى حول الكمبيوتر اللوحي
-- `.tablet-pc:align-content-between` - محاذاة المحتوى بين الكمبيوتر اللوحي
-- `.tablet-pc:align-content-center` - محاذاة مركز المحتوى على الكمبيوتر اللوحي
-- `.tablet-pc:align-content-end` - محاذاة نهاية المحتوى على الكمبيوتر اللوحي
-- `.tablet-pc:align-content-evenly` - محاذاة المحتوى بالتساوي على الكمبيوتر اللوحي
-- `.tablet-pc:align-content-start` - محاذاة المحتوى تبدأ على الكمبيوتر اللوحي
-- `.tablet-pc:align-content-stretch` - محاذاة المحتوى تمتد على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-content-around` - محاذاة المحتوى: around عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-content-between` - محاذاة المحتوى: between عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-content-center` - محاذاة المحتوى: المنتصف عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-content-end` - محاذاة المحتوى: النهاية عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-content-evenly` - محاذاة المحتوى: evenly عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-content-start` - محاذاة المحتوى: البداية عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير على الكمبيوتر اللوحي
+- `.tablet-pc:align-content-around` - محاذاة المحتوى: around على الكمبيوتر اللوحي
+- `.tablet-pc:align-content-between` - محاذاة المحتوى: between على الكمبيوتر اللوحي
+- `.tablet-pc:align-content-center` - محاذاة المحتوى: المنتصف على الكمبيوتر اللوحي
+- `.tablet-pc:align-content-end` - محاذاة المحتوى: النهاية على الكمبيوتر اللوحي
+- `.tablet-pc:align-content-evenly` - محاذاة المحتوى: evenly على الكمبيوتر اللوحي
+- `.tablet-pc:align-content-start` - محاذاة المحتوى: البداية على الكمبيوتر اللوحي
+- `.tablet-pc:align-content-stretch` - محاذاة المحتوى: stretch على الكمبيوتر اللوحي
 
 ##### Align content - Pc (992px - 1200px)
 
-- `.hover:pc:align-content-around` - قم بمحاذاة المحتوى عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-content-between` - قم بمحاذاة المحتوى بين التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-content-center` - محاذاة مركز المحتوى عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-content-end` - محاذاة نهاية المحتوى عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-content-evenly` - محاذاة المحتوى بالتساوي عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-content-start` - محاذاة المحتوى تبدأ عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-content-stretch` - محاذاة امتداد المحتوى عند التمرير على جهاز الكمبيوتر
-- `.pc:align-content-around` - محاذاة المحتوى حول جهاز الكمبيوتر
-- `.pc:align-content-between` - محاذاة المحتوى بين على جهاز الكمبيوتر
-- `.pc:align-content-center` - محاذاة مركز المحتوى على جهاز الكمبيوتر
-- `.pc:align-content-end` - محاذاة نهاية المحتوى على جهاز الكمبيوتر
-- `.pc:align-content-evenly` - محاذاة المحتوى بالتساوي على جهاز الكمبيوتر
-- `.pc:align-content-start` - محاذاة المحتوى تبدأ على جهاز الكمبيوتر
-- `.pc:align-content-stretch` - محاذاة المحتوى تمتد على جهاز الكمبيوتر
+- `.hover:pc:align-content-around` - محاذاة المحتوى: around عند التمرير على الكمبيوتر
+- `.hover:pc:align-content-between` - محاذاة المحتوى: between عند التمرير على الكمبيوتر
+- `.hover:pc:align-content-center` - محاذاة المحتوى: المنتصف عند التمرير على الكمبيوتر
+- `.hover:pc:align-content-end` - محاذاة المحتوى: النهاية عند التمرير على الكمبيوتر
+- `.hover:pc:align-content-evenly` - محاذاة المحتوى: evenly عند التمرير على الكمبيوتر
+- `.hover:pc:align-content-start` - محاذاة المحتوى: البداية عند التمرير على الكمبيوتر
+- `.hover:pc:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير على الكمبيوتر
+- `.pc:align-content-around` - محاذاة المحتوى: around على الكمبيوتر
+- `.pc:align-content-between` - محاذاة المحتوى: between على الكمبيوتر
+- `.pc:align-content-center` - محاذاة المحتوى: المنتصف على الكمبيوتر
+- `.pc:align-content-end` - محاذاة المحتوى: النهاية على الكمبيوتر
+- `.pc:align-content-evenly` - محاذاة المحتوى: evenly على الكمبيوتر
+- `.pc:align-content-start` - محاذاة المحتوى: البداية على الكمبيوتر
+- `.pc:align-content-stretch` - محاذاة المحتوى: stretch على الكمبيوتر
 
 ##### Align content - Tv (≥ 1200px)
 
-- `.hover:tv:align-content-around` - قم بمحاذاة المحتوى عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-content-between` - قم بمحاذاة المحتوى بين التمرير على شاشة التلفزيون
-- `.hover:tv:align-content-center` - محاذاة مركز المحتوى عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-content-end` - قم بمحاذاة نهاية المحتوى عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-content-evenly` - قم بمحاذاة المحتوى بالتساوي عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-content-start` - محاذاة المحتوى تبدأ عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-content-stretch` - محاذاة امتداد المحتوى عند التمرير على شاشة التلفزيون
-- `.tv:align-content-around` - محاذاة المحتوى حول التلفزيون
-- `.tv:align-content-between` - محاذاة المحتوى بين على شاشة التلفزيون
-- `.tv:align-content-center` - محاذاة مركز المحتوى على شاشة التلفزيون
-- `.tv:align-content-end` - محاذاة نهاية المحتوى على شاشة التلفزيون
-- `.tv:align-content-evenly` - محاذاة المحتوى بالتساوي على شاشة التلفزيون
-- `.tv:align-content-start` - محاذاة المحتوى يبدأ على شاشة التلفزيون
-- `.tv:align-content-stretch` - محاذاة امتداد المحتوى على شاشة التلفزيون
+- `.hover:tv:align-content-around` - محاذاة المحتوى: around عند التمرير على التلفزيون
+- `.hover:tv:align-content-between` - محاذاة المحتوى: between عند التمرير على التلفزيون
+- `.hover:tv:align-content-center` - محاذاة المحتوى: المنتصف عند التمرير على التلفزيون
+- `.hover:tv:align-content-end` - محاذاة المحتوى: النهاية عند التمرير على التلفزيون
+- `.hover:tv:align-content-evenly` - محاذاة المحتوى: evenly عند التمرير على التلفزيون
+- `.hover:tv:align-content-start` - محاذاة المحتوى: البداية عند التمرير على التلفزيون
+- `.hover:tv:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير على التلفزيون
+- `.tv:align-content-around` - محاذاة المحتوى: around على التلفزيون
+- `.tv:align-content-between` - محاذاة المحتوى: between على التلفزيون
+- `.tv:align-content-center` - محاذاة المحتوى: المنتصف على التلفزيون
+- `.tv:align-content-end` - محاذاة المحتوى: النهاية على التلفزيون
+- `.tv:align-content-evenly` - محاذاة المحتوى: evenly على التلفزيون
+- `.tv:align-content-start` - محاذاة المحتوى: البداية على التلفزيون
+- `.tv:align-content-stretch` - محاذاة المحتوى: stretch على التلفزيون
 
 ##### Align content - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:align-content-around` - قم بمحاذاة المحتوى عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-content-between` - قم بمحاذاة المحتوى بين التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-content-center` - محاذاة مركز المحتوى عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-content-end` - قم بمحاذاة نهاية المحتوى عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-content-evenly` - قم بمحاذاة المحتوى بالتساوي عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-content-start` - محاذاة المحتوى تبدأ عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-content-stretch` - محاذاة امتداد المحتوى عند التمرير على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-content-around` - قم بمحاذاة المحتوى على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-content-between` - محاذاة المحتوى بين الحد الأقصى للكمبيوتر اللوحي
-- `.tablet-max:align-content-center` - محاذاة مركز المحتوى على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-content-end` - محاذاة نهاية المحتوى على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-content-evenly` - محاذاة المحتوى بالتساوي على الجهاز اللوحي كحد أقصى
-- `.tablet-max:align-content-start` - محاذاة المحتوى تبدأ على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-content-stretch` - محاذاة امتداد المحتوى على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:align-content-around` - محاذاة المحتوى: around عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-content-between` - محاذاة المحتوى: between عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-content-center` - محاذاة المحتوى: المنتصف عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-content-end` - محاذاة المحتوى: النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-content-evenly` - محاذاة المحتوى: evenly عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-content-start` - محاذاة المحتوى: البداية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-content-around` - محاذاة المحتوى: around على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-content-between` - محاذاة المحتوى: between على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-content-center` - محاذاة المحتوى: المنتصف على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-content-end` - محاذاة المحتوى: النهاية على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-content-evenly` - محاذاة المحتوى: evenly على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-content-start` - محاذاة المحتوى: البداية على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-content-stretch` - محاذاة المحتوى: stretch على الجهاز اللوحي (الحد الأقصى)
 
 ##### Align content - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:align-content-around` - قم بمحاذاة المحتوى عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:align-content-between` - قم بمحاذاة المحتوى بين التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:align-content-center` - قم بمحاذاة مركز المحتوى عند التمرير على الكمبيوتر اللوحي كحد أقصى
-- `.hover:tablet-pc-max:align-content-end` - قم بمحاذاة نهاية المحتوى عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:align-content-evenly` - قم بمحاذاة المحتوى بالتساوي عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:align-content-start` - محاذاة المحتوى تبدأ عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:align-content-stretch` - محاذاة المحتوى عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-content-around` - قم بمحاذاة المحتوى على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-content-between` - محاذاة المحتوى بين أجهزة الكمبيوتر اللوحية بحد أقصى
-- `.tablet-pc-max:align-content-center` - محاذاة مركز المحتوى على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-content-end` - محاذاة نهاية المحتوى على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-content-evenly` - محاذاة المحتوى بالتساوي على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-content-start` - محاذاة المحتوى تبدأ على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-content-stretch` - محاذاة المحتوى الممتد على الكمبيوتر اللوحي كحد أقصى
+- `.hover:tablet-pc-max:align-content-around` - محاذاة المحتوى: around عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-content-between` - محاذاة المحتوى: between عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-content-center` - محاذاة المحتوى: المنتصف عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-content-end` - محاذاة المحتوى: النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-content-evenly` - محاذاة المحتوى: evenly عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-content-start` - محاذاة المحتوى: البداية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-content-around` - محاذاة المحتوى: around على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-content-between` - محاذاة المحتوى: between على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-content-center` - محاذاة المحتوى: المنتصف على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-content-end` - محاذاة المحتوى: النهاية على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-content-evenly` - محاذاة المحتوى: evenly على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-content-start` - محاذاة المحتوى: البداية على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-content-stretch` - محاذاة المحتوى: stretch على الكمبيوتر اللوحي (الحد الأقصى)
 
 ##### Align content - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:align-content-around` - قم بمحاذاة المحتوى عند التمرير على جهاز الكمبيوتر بحد أقصى
-- `.hover:pc-max:align-content-between` - محاذاة المحتوى بين عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:align-content-center` - محاذاة مركز المحتوى عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:align-content-end` - محاذاة نهاية المحتوى عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:align-content-evenly` - محاذاة المحتوى بالتساوي عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:align-content-start` - محاذاة المحتوى تبدأ عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:align-content-stretch` - محاذاة المحتوى الممتد عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-content-around` - محاذاة المحتوى على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-content-between` - محاذاة المحتوى بين الحد الأقصى لجهاز الكمبيوتر
-- `.pc-max:align-content-center` - محاذاة مركز المحتوى على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-content-end` - محاذاة نهاية المحتوى على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-content-evenly` - محاذاة المحتوى بالتساوي على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-content-start` - محاذاة المحتوى تبدأ على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-content-stretch` - محاذاة المحتوى تمتد على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:align-content-around` - محاذاة المحتوى: around عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-content-between` - محاذاة المحتوى: between عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-content-center` - محاذاة المحتوى: المنتصف عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-content-end` - محاذاة المحتوى: النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-content-evenly` - محاذاة المحتوى: evenly عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-content-start` - محاذاة المحتوى: البداية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-content-around` - محاذاة المحتوى: around على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-content-between` - محاذاة المحتوى: between على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-content-center` - محاذاة المحتوى: المنتصف على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-content-end` - محاذاة المحتوى: النهاية على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-content-evenly` - محاذاة المحتوى: evenly على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-content-start` - محاذاة المحتوى: البداية على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-content-stretch` - محاذاة المحتوى: stretch على الكمبيوتر (الحد الأقصى)
 
 ### Align items
 
-- `.align-items-center` - محاذاة العناصر إلى المركز
-- `.align-items-end` - نهاية محاذاة العناصر
-- `.align-items-start` - محاذاة العناصر تبدأ
-- `.align-items-stretch` - محاذاة العناصر تمتد
-- `.hover:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير
-- `.hover:align-items-end` - تنتهي محاذاة العناصر عند التمرير
-- `.hover:align-items-start` - تبدأ محاذاة العناصر عند التمرير
-- `.hover:align-items-stretch` - محاذاة العناصر تمتد عند التمرير
+- `.align-items-center` - محاذاة العناصر: المنتصف
+- `.align-items-end` - محاذاة العناصر: النهاية
+- `.align-items-start` - محاذاة العناصر: البداية
+- `.align-items-stretch` - محاذاة العناصر: stretch
+- `.hover:align-items-center` - محاذاة العناصر: المنتصف عند التمرير
+- `.hover:align-items-end` - محاذاة العناصر: النهاية عند التمرير
+- `.hover:align-items-start` - محاذاة العناصر: البداية عند التمرير
+- `.hover:align-items-stretch` - محاذاة العناصر: stretch عند التمرير
 
 ##### Align items - Mobile (≤ 480px)
 
-- `.hover:mobile:align-items-center` - محاذاة العناصر إلى المركز عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-items-end` - تنتهي محاذاة العناصر عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-items-start` - تبدأ محاذاة العناصر عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-items-stretch` - تمتد محاذاة العناصر عند التمرير على الهاتف المحمول
-- `.mobile:align-items-center` - محاذاة العناصر إلى المركز على الهاتف المحمول
-- `.mobile:align-items-end` - محاذاة العناصر تنتهي على الهاتف المحمول
-- `.mobile:align-items-start` - محاذاة العناصر تبدأ على الهاتف المحمول
-- `.mobile:align-items-stretch` - محاذاة العناصر تمتد على الهاتف المحمول
+- `.hover:mobile:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الجوال
+- `.hover:mobile:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الجوال
+- `.hover:mobile:align-items-start` - محاذاة العناصر: البداية عند التمرير على الجوال
+- `.hover:mobile:align-items-stretch` - محاذاة العناصر: stretch عند التمرير على الجوال
+- `.mobile:align-items-center` - محاذاة العناصر: المنتصف على الجوال
+- `.mobile:align-items-end` - محاذاة العناصر: النهاية على الجوال
+- `.mobile:align-items-start` - محاذاة العناصر: البداية على الجوال
+- `.mobile:align-items-stretch` - محاذاة العناصر: stretch على الجوال
 
 ##### Align items - Tablet (480px - 768px)
 
-- `.hover:tablet:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-items-end` - تنتهي محاذاة العناصر عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-items-start` - تبدأ محاذاة العناصر عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-items-stretch` - تمتد محاذاة العناصر عند التمرير على الجهاز اللوحي
-- `.tablet:align-items-center` - محاذاة العناصر إلى المنتصف على الجهاز اللوحي
-- `.tablet:align-items-end` - محاذاة العناصر نهاية على الجهاز اللوحي
-- `.tablet:align-items-start` - محاذاة العناصر تبدأ على الجهاز اللوحي
-- `.tablet:align-items-stretch` - محاذاة العناصر تمتد على الجهاز اللوحي
+- `.hover:tablet:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-items-start` - محاذاة العناصر: البداية عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-items-stretch` - محاذاة العناصر: stretch عند التمرير على الجهاز اللوحي
+- `.tablet:align-items-center` - محاذاة العناصر: المنتصف على الجهاز اللوحي
+- `.tablet:align-items-end` - محاذاة العناصر: النهاية على الجهاز اللوحي
+- `.tablet:align-items-start` - محاذاة العناصر: البداية على الجهاز اللوحي
+- `.tablet:align-items-stretch` - محاذاة العناصر: stretch على الجهاز اللوحي
 
 ##### Align items - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-items-end` - تنتهي محاذاة العناصر عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-items-start` - تبدأ محاذاة العناصر عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-items-stretch` - محاذاة العناصر تمتد عند التمرير على الكمبيوتر اللوحي
-- `.tablet-pc:align-items-center` - محاذاة العناصر إلى المنتصف على الكمبيوتر اللوحي
-- `.tablet-pc:align-items-end` - محاذاة العناصر تنتهي على الكمبيوتر اللوحي
-- `.tablet-pc:align-items-start` - تبدأ محاذاة العناصر على الكمبيوتر اللوحي
-- `.tablet-pc:align-items-stretch` - محاذاة العناصر تمتد على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-items-start` - محاذاة العناصر: البداية عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-items-stretch` - محاذاة العناصر: stretch عند التمرير على الكمبيوتر اللوحي
+- `.tablet-pc:align-items-center` - محاذاة العناصر: المنتصف على الكمبيوتر اللوحي
+- `.tablet-pc:align-items-end` - محاذاة العناصر: النهاية على الكمبيوتر اللوحي
+- `.tablet-pc:align-items-start` - محاذاة العناصر: البداية على الكمبيوتر اللوحي
+- `.tablet-pc:align-items-stretch` - محاذاة العناصر: stretch على الكمبيوتر اللوحي
 
 ##### Align items - Pc (992px - 1200px)
 
-- `.hover:pc:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-items-end` - تنتهي محاذاة العناصر عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-items-start` - تبدأ محاذاة العناصر عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-items-stretch` - محاذاة العناصر تمتد عند التمرير على جهاز الكمبيوتر
-- `.pc:align-items-center` - محاذاة العناصر إلى المركز على جهاز الكمبيوتر
-- `.pc:align-items-end` - محاذاة العناصر تنتهي على جهاز الكمبيوتر
-- `.pc:align-items-start` - محاذاة العناصر تبدأ على جهاز الكمبيوتر
-- `.pc:align-items-stretch` - محاذاة العناصر تمتد على جهاز الكمبيوتر
+- `.hover:pc:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الكمبيوتر
+- `.hover:pc:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الكمبيوتر
+- `.hover:pc:align-items-start` - محاذاة العناصر: البداية عند التمرير على الكمبيوتر
+- `.hover:pc:align-items-stretch` - محاذاة العناصر: stretch عند التمرير على الكمبيوتر
+- `.pc:align-items-center` - محاذاة العناصر: المنتصف على الكمبيوتر
+- `.pc:align-items-end` - محاذاة العناصر: النهاية على الكمبيوتر
+- `.pc:align-items-start` - محاذاة العناصر: البداية على الكمبيوتر
+- `.pc:align-items-stretch` - محاذاة العناصر: stretch على الكمبيوتر
 
 ##### Align items - Tv (≥ 1200px)
 
-- `.hover:tv:align-items-center` - محاذاة العناصر إلى المركز عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-items-end` - تنتهي محاذاة العناصر عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-items-start` - تبدأ محاذاة العناصر عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-items-stretch` - محاذاة العناصر تمتد عند التمرير على شاشة التلفزيون
-- `.tv:align-items-center` - محاذاة مركز العناصر على شاشة التلفزيون
-- `.tv:align-items-end` - محاذاة العناصر تنتهي على شاشة التلفزيون
-- `.tv:align-items-start` - محاذاة العناصر تبدأ على شاشة التلفزيون
-- `.tv:align-items-stretch` - محاذاة العناصر تمتد على شاشة التلفزيون
+- `.hover:tv:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على التلفزيون
+- `.hover:tv:align-items-end` - محاذاة العناصر: النهاية عند التمرير على التلفزيون
+- `.hover:tv:align-items-start` - محاذاة العناصر: البداية عند التمرير على التلفزيون
+- `.hover:tv:align-items-stretch` - محاذاة العناصر: stretch عند التمرير على التلفزيون
+- `.tv:align-items-center` - محاذاة العناصر: المنتصف على التلفزيون
+- `.tv:align-items-end` - محاذاة العناصر: النهاية على التلفزيون
+- `.tv:align-items-start` - محاذاة العناصر: البداية على التلفزيون
+- `.tv:align-items-stretch` - محاذاة العناصر: stretch على التلفزيون
 
 ##### Align items - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-items-end` - تنتهي محاذاة العناصر عند التمرير على الجهاز اللوحي كحد أقصى
-- `.hover:tablet-max:align-items-start` - تبدأ محاذاة العناصر عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-items-stretch` - تمتد محاذاة العناصر عند التمرير على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-items-center` - محاذاة العناصر إلى المنتصف على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-items-end` - محاذاة العناصر تنتهي على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-items-start` - تبدأ محاذاة العناصر على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-items-stretch` - محاذاة العناصر تمتد على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-items-start` - محاذاة العناصر: البداية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-items-stretch` - محاذاة العناصر: stretch عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-items-center` - محاذاة العناصر: المنتصف على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-items-end` - محاذاة العناصر: النهاية على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-items-start` - محاذاة العناصر: البداية على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-items-stretch` - محاذاة العناصر: stretch على الجهاز اللوحي (الحد الأقصى)
 
 ##### Align items - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:align-items-end` - تنتهي محاذاة العناصر عند التمرير على الكمبيوتر اللوحي كحد أقصى
-- `.hover:tablet-pc-max:align-items-start` - تبدأ محاذاة العناصر عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:align-items-stretch` - محاذاة العناصر تمتد عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-items-center` - محاذاة العناصر إلى المنتصف على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-items-end` - محاذاة العناصر تنتهي على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:align-items-start` - تبدأ محاذاة العناصر على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:align-items-stretch` - محاذاة العناصر تمتد على الكمبيوتر اللوحي كحد أقصى
+- `.hover:tablet-pc-max:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-items-start` - محاذاة العناصر: البداية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-items-stretch` - محاذاة العناصر: stretch عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-items-center` - محاذاة العناصر: المنتصف على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-items-end` - محاذاة العناصر: النهاية على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-items-start` - محاذاة العناصر: البداية على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-items-stretch` - محاذاة العناصر: stretch على الكمبيوتر اللوحي (الحد الأقصى)
 
 ##### Align items - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:align-items-center` - محاذاة العناصر إلى المنتصف عند التمرير على جهاز الكمبيوتر بحد أقصى
-- `.hover:pc-max:align-items-end` - تنتهي محاذاة العناصر عند التمرير على جهاز الكمبيوتر بحد أقصى
-- `.hover:pc-max:align-items-start` - تبدأ محاذاة العناصر عند التمرير على جهاز الكمبيوتر بحد أقصى
-- `.hover:pc-max:align-items-stretch` - محاذاة العناصر تمتد عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-items-center` - محاذاة العناصر إلى المركز على جهاز الكمبيوتر بحد أقصى
-- `.pc-max:align-items-end` - محاذاة العناصر تنتهي على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-items-start` - تبدأ محاذاة العناصر على جهاز الكمبيوتر بحد أقصى
-- `.pc-max:align-items-stretch` - محاذاة العناصر تمتد على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-items-start` - محاذاة العناصر: البداية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-items-stretch` - محاذاة العناصر: stretch عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-items-center` - محاذاة العناصر: المنتصف على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-items-end` - محاذاة العناصر: النهاية على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-items-start` - محاذاة العناصر: البداية على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-items-stretch` - محاذاة العناصر: stretch على الكمبيوتر (الحد الأقصى)
 
 ### Align self
 
-- `.align-self-center` - محاذاة المركز الذاتي
-- `.align-self-end` - محاذاة النهاية الذاتية
-- `.align-self-start` - محاذاة البداية الذاتية
-- `.align-self-stretch` - محاذاة تمتد الذاتي
-- `.hover:align-self-center` - محاذاة المركز الذاتي عند التمرير
-- `.hover:align-self-end` - محاذاة النهاية الذاتية عند التمرير
-- `.hover:align-self-start` - محاذاة البداية الذاتية عند التمرير
-- `.hover:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير
+- `.align-self-center` - محاذاة العنصر ذاته: المنتصف
+- `.align-self-end` - محاذاة العنصر ذاته: النهاية
+- `.align-self-start` - محاذاة العنصر ذاته: البداية
+- `.align-self-stretch` - محاذاة العنصر ذاته: stretch
+- `.hover:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير
+- `.hover:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير
+- `.hover:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير
+- `.hover:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير
 
 ##### Align self - Mobile (≤ 480px)
 
-- `.hover:mobile:align-self-center` - محاذاة المركز الذاتي عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-self-end` - محاذاة النهاية الذاتية عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-self-start` - محاذاة البدء الذاتي عند التمرير على الهاتف المحمول
-- `.hover:mobile:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير على الهاتف المحمول
-- `.mobile:align-self-center` - محاذاة المركز الذاتي على الهاتف المحمول
-- `.mobile:align-self-end` - محاذاة النهاية الذاتية على الهاتف المحمول
-- `.mobile:align-self-start` - محاذاة البداية الذاتية على الهاتف المحمول
-- `.mobile:align-self-stretch` - محاذاة تمتد الذاتي على الهاتف المحمول
+- `.hover:mobile:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الجوال
+- `.hover:mobile:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الجوال
+- `.hover:mobile:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير على الجوال
+- `.hover:mobile:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير على الجوال
+- `.mobile:align-self-center` - محاذاة العنصر ذاته: المنتصف على الجوال
+- `.mobile:align-self-end` - محاذاة العنصر ذاته: النهاية على الجوال
+- `.mobile:align-self-start` - محاذاة العنصر ذاته: البداية على الجوال
+- `.mobile:align-self-stretch` - محاذاة العنصر ذاته: stretch على الجوال
 
 ##### Align self - Tablet (480px - 768px)
 
-- `.hover:tablet:align-self-center` - محاذاة المركز الذاتي عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-self-end` - قم بمحاذاة النهاية الذاتية عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-self-start` - محاذاة البدء الذاتي عند التمرير على الجهاز اللوحي
-- `.hover:tablet:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير على الجهاز اللوحي
-- `.tablet:align-self-center` - محاذاة المركز الذاتي على الجهاز اللوحي
-- `.tablet:align-self-end` - محاذاة النهاية الذاتية على الجهاز اللوحي
-- `.tablet:align-self-start` - محاذاة البدء الذاتي على الجهاز اللوحي
-- `.tablet:align-self-stretch` - محاذاة تمتد الذاتي على الكمبيوتر اللوحي
+- `.hover:tablet:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير على الجهاز اللوحي
+- `.hover:tablet:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير على الجهاز اللوحي
+- `.tablet:align-self-center` - محاذاة العنصر ذاته: المنتصف على الجهاز اللوحي
+- `.tablet:align-self-end` - محاذاة العنصر ذاته: النهاية على الجهاز اللوحي
+- `.tablet:align-self-start` - محاذاة العنصر ذاته: البداية على الجهاز اللوحي
+- `.tablet:align-self-stretch` - محاذاة العنصر ذاته: stretch على الجهاز اللوحي
 
 ##### Align self - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:align-self-center` - محاذاة المركز الذاتي عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-self-end` - قم بمحاذاة النهاية الذاتية عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-self-start` - محاذاة البدء الذاتي عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير على الكمبيوتر اللوحي
-- `.tablet-pc:align-self-center` - محاذاة المركز الذاتي على الكمبيوتر اللوحي
-- `.tablet-pc:align-self-end` - محاذاة النهاية الذاتية على الكمبيوتر اللوحي
-- `.tablet-pc:align-self-start` - محاذاة البدء الذاتي على الكمبيوتر اللوحي
-- `.tablet-pc:align-self-stretch` - محاذاة التمدد الذاتي على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير على الكمبيوتر اللوحي
+- `.tablet-pc:align-self-center` - محاذاة العنصر ذاته: المنتصف على الكمبيوتر اللوحي
+- `.tablet-pc:align-self-end` - محاذاة العنصر ذاته: النهاية على الكمبيوتر اللوحي
+- `.tablet-pc:align-self-start` - محاذاة العنصر ذاته: البداية على الكمبيوتر اللوحي
+- `.tablet-pc:align-self-stretch` - محاذاة العنصر ذاته: stretch على الكمبيوتر اللوحي
 
 ##### Align self - Pc (992px - 1200px)
 
-- `.hover:pc:align-self-center` - محاذاة المركز الذاتي عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-self-end` - محاذاة النهاية الذاتية عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-self-start` - محاذاة البدء الذاتي عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير على جهاز الكمبيوتر
-- `.pc:align-self-center` - محاذاة المركز الذاتي على جهاز الكمبيوتر
-- `.pc:align-self-end` - محاذاة النهاية الذاتية على جهاز الكمبيوتر
-- `.pc:align-self-start` - محاذاة البداية الذاتية على جهاز الكمبيوتر
-- `.pc:align-self-stretch` - محاذاة التمدد الذاتي على جهاز الكمبيوتر
+- `.hover:pc:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الكمبيوتر
+- `.hover:pc:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الكمبيوتر
+- `.hover:pc:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير على الكمبيوتر
+- `.hover:pc:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير على الكمبيوتر
+- `.pc:align-self-center` - محاذاة العنصر ذاته: المنتصف على الكمبيوتر
+- `.pc:align-self-end` - محاذاة العنصر ذاته: النهاية على الكمبيوتر
+- `.pc:align-self-start` - محاذاة العنصر ذاته: البداية على الكمبيوتر
+- `.pc:align-self-stretch` - محاذاة العنصر ذاته: stretch على الكمبيوتر
 
 ##### Align self - Tv (≥ 1200px)
 
-- `.hover:tv:align-self-center` - محاذاة المركز الذاتي عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-self-end` - محاذاة النهاية الذاتية عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-self-start` - محاذاة البدء الذاتي عند التمرير على شاشة التلفزيون
-- `.hover:tv:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير على شاشة التلفزيون
-- `.tv:align-self-center` - محاذاة المركز الذاتي على شاشة التلفزيون
-- `.tv:align-self-end` - محاذاة النهاية الذاتية على شاشة التلفزيون
-- `.tv:align-self-start` - محاذاة البداية الذاتية على شاشة التلفزيون
-- `.tv:align-self-stretch` - محاذاة تمتد النفس على شاشة التلفزيون
+- `.hover:tv:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على التلفزيون
+- `.hover:tv:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على التلفزيون
+- `.hover:tv:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير على التلفزيون
+- `.hover:tv:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير على التلفزيون
+- `.tv:align-self-center` - محاذاة العنصر ذاته: المنتصف على التلفزيون
+- `.tv:align-self-end` - محاذاة العنصر ذاته: النهاية على التلفزيون
+- `.tv:align-self-start` - محاذاة العنصر ذاته: البداية على التلفزيون
+- `.tv:align-self-stretch` - محاذاة العنصر ذاته: stretch على التلفزيون
 
 ##### Align self - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:align-self-center` - محاذاة المركز الذاتي عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-self-end` - قم بمحاذاة النهاية الذاتية عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-self-start` - محاذاة البدء الذاتي عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-self-center` - محاذاة المركز الذاتي على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-self-end` - محاذاة النهاية الذاتية على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-self-start` - محاذاة البدء الذاتي على الجهاز اللوحي بحد أقصى
-- `.tablet-max:align-self-stretch` - محاذاة التمدد الذاتي على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-self-center` - محاذاة العنصر ذاته: المنتصف على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-self-end` - محاذاة العنصر ذاته: النهاية على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-self-start` - محاذاة العنصر ذاته: البداية على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:align-self-stretch` - محاذاة العنصر ذاته: stretch على الجهاز اللوحي (الحد الأقصى)
 
 ##### Align self - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:align-self-center` - قم بمحاذاة المركز الذاتي عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:align-self-end` - قم بمحاذاة النهاية الذاتية عند التمرير على الكمبيوتر اللوحي كحد أقصى
-- `.hover:tablet-pc-max:align-self-start` - محاذاة البدء الذاتي عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-self-center` - محاذاة المركز الذاتي على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-self-end` - محاذاة النهاية الذاتية على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-self-start` - محاذاة البدء الذاتي على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:align-self-stretch` - محاذاة التمدد الذاتي على الكمبيوتر اللوحي بحد أقصى
+- `.hover:tablet-pc-max:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-self-center` - محاذاة العنصر ذاته: المنتصف على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-self-end` - محاذاة العنصر ذاته: النهاية على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-self-start` - محاذاة العنصر ذاته: البداية على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:align-self-stretch` - محاذاة العنصر ذاته: stretch على الكمبيوتر اللوحي (الحد الأقصى)
 
 ##### Align self - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:align-self-center` - محاذاة المركز الذاتي عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:align-self-end` - محاذاة النهاية الذاتية عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:align-self-start` - محاذاة البدء الذاتي عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:align-self-stretch` - محاذاة التمدد الذاتي عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-self-center` - محاذاة المركز الذاتي على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-self-end` - محاذاة النهاية الذاتية على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-self-start` - محاذاة البداية الذاتية على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:align-self-stretch` - محاذاة التمدد الذاتي على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-self-center` - محاذاة العنصر ذاته: المنتصف على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-self-end` - محاذاة العنصر ذاته: النهاية على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-self-start` - محاذاة العنصر ذاته: البداية على الكمبيوتر (الحد الأقصى)
+- `.pc-max:align-self-stretch` - محاذاة العنصر ذاته: stretch على الكمبيوتر (الحد الأقصى)
 
 ### Justify content
 
-- `.hover:justify-content-around` - ضبط المحتوى عند التمرير
-- `.hover:justify-content-between` - ضبط المحتوى بين عند التمرير
-- `.hover:justify-content-center` - ضبط مركز المحتوى عند التمرير
-- `.hover:justify-content-end` - نهاية ضبط المحتوى عند التمرير
-- `.hover:justify-content-evenly` - ضبط المحتوى بالتساوي عند التمرير
-- `.hover:justify-content-start` - ضبط المحتوى يبدأ عند التمرير
-- `.hover:justify-content-stretch` - ضبط امتداد المحتوى عند التمرير
-- `.justify-content-around` - تبرير المحتوى حولها
-- `.justify-content-between` - تبرير المحتوى بين
-- `.justify-content-center` - تبرير مركز المحتوى
-- `.justify-content-end` - تبرير نهاية المحتوى
-- `.justify-content-evenly` - تبرير المحتوى بالتساوي
-- `.justify-content-start` - تبرير بداية المحتوى
-- `.justify-content-stretch` - تبرير امتداد المحتوى
+- `.hover:justify-content-around` - توزيع المحتوى: around عند التمرير
+- `.hover:justify-content-between` - توزيع المحتوى: between عند التمرير
+- `.hover:justify-content-center` - توزيع المحتوى: المنتصف عند التمرير
+- `.hover:justify-content-end` - توزيع المحتوى: النهاية عند التمرير
+- `.hover:justify-content-evenly` - توزيع المحتوى: evenly عند التمرير
+- `.hover:justify-content-start` - توزيع المحتوى: البداية عند التمرير
+- `.hover:justify-content-stretch` - توزيع المحتوى: stretch عند التمرير
+- `.justify-content-around` - توزيع المحتوى: around
+- `.justify-content-between` - توزيع المحتوى: between
+- `.justify-content-center` - توزيع المحتوى: المنتصف
+- `.justify-content-end` - توزيع المحتوى: النهاية
+- `.justify-content-evenly` - توزيع المحتوى: evenly
+- `.justify-content-start` - توزيع المحتوى: البداية
+- `.justify-content-stretch` - توزيع المحتوى: stretch
 
 ##### Justify content - Mobile (≤ 480px)
 
-- `.hover:mobile:justify-content-around` - قم بضبط المحتوى عند التمرير على الهاتف المحمول
-- `.hover:mobile:justify-content-between` - ضبط المحتوى بين التمرير على الهاتف المحمول
-- `.hover:mobile:justify-content-center` - قم بضبط مركز المحتوى عند التمرير على الهاتف المحمول
-- `.hover:mobile:justify-content-end` - قم بضبط نهاية المحتوى عند التمرير على الهاتف المحمول
-- `.hover:mobile:justify-content-start` - ضبط المحتوى يبدأ عند التمرير على الهاتف المحمول
-- `.mobile:justify-content-around` - تبرير المحتوى الموجود على الهاتف المحمول
-- `.mobile:justify-content-between` - تبرير المحتوى بين على الهاتف المحمول
-- `.mobile:justify-content-center` - ضبط مركز المحتوى على الهاتف المحمول
-- `.mobile:justify-content-end` - تبرير نهاية المحتوى على الهاتف المحمول
-- `.mobile:justify-content-start` - تبرير المحتوى يبدأ على الهاتف المحمول
+- `.hover:mobile:justify-content-around` - توزيع المحتوى: around عند التمرير على الجوال
+- `.hover:mobile:justify-content-between` - توزيع المحتوى: between عند التمرير على الجوال
+- `.hover:mobile:justify-content-center` - توزيع المحتوى: المنتصف عند التمرير على الجوال
+- `.hover:mobile:justify-content-end` - توزيع المحتوى: النهاية عند التمرير على الجوال
+- `.hover:mobile:justify-content-start` - توزيع المحتوى: البداية عند التمرير على الجوال
+- `.mobile:justify-content-around` - توزيع المحتوى: around على الجوال
+- `.mobile:justify-content-between` - توزيع المحتوى: between على الجوال
+- `.mobile:justify-content-center` - توزيع المحتوى: المنتصف على الجوال
+- `.mobile:justify-content-end` - توزيع المحتوى: النهاية على الجوال
+- `.mobile:justify-content-start` - توزيع المحتوى: البداية على الجوال
 
 ##### Justify content - Tablet (480px - 768px)
 
-- `.hover:tablet:justify-content-around` - قم بضبط المحتوى عند التمرير على الجهاز اللوحي
-- `.hover:tablet:justify-content-between` - قم بضبط المحتوى بين التمرير على الجهاز اللوحي
-- `.hover:tablet:justify-content-center` - قم بضبط مركز المحتوى عند التمرير على الجهاز اللوحي
-- `.hover:tablet:justify-content-end` - قم بضبط نهاية المحتوى عند التمرير على الجهاز اللوحي
-- `.hover:tablet:justify-content-start` - ضبط المحتوى يبدأ عند التمرير على الجهاز اللوحي
-- `.tablet:justify-content-around` - تبرير المحتوى الموجود على الجهاز اللوحي
-- `.tablet:justify-content-between` - ضبط المحتوى بين الجهاز اللوحي
-- `.tablet:justify-content-center` - ضبط مركز المحتوى على الجهاز اللوحي
-- `.tablet:justify-content-end` - ضبط نهاية المحتوى على الجهاز اللوحي
-- `.tablet:justify-content-start` - ضبط محتوى البدء على الجهاز اللوحي
+- `.hover:tablet:justify-content-around` - توزيع المحتوى: around عند التمرير على الجهاز اللوحي
+- `.hover:tablet:justify-content-between` - توزيع المحتوى: between عند التمرير على الجهاز اللوحي
+- `.hover:tablet:justify-content-center` - توزيع المحتوى: المنتصف عند التمرير على الجهاز اللوحي
+- `.hover:tablet:justify-content-end` - توزيع المحتوى: النهاية عند التمرير على الجهاز اللوحي
+- `.hover:tablet:justify-content-start` - توزيع المحتوى: البداية عند التمرير على الجهاز اللوحي
+- `.tablet:justify-content-around` - توزيع المحتوى: around على الجهاز اللوحي
+- `.tablet:justify-content-between` - توزيع المحتوى: between على الجهاز اللوحي
+- `.tablet:justify-content-center` - توزيع المحتوى: المنتصف على الجهاز اللوحي
+- `.tablet:justify-content-end` - توزيع المحتوى: النهاية على الجهاز اللوحي
+- `.tablet:justify-content-start` - توزيع المحتوى: البداية على الجهاز اللوحي
 
 ##### Justify content - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:justify-content-around` - قم بضبط المحتوى عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:justify-content-between` - قم بضبط المحتوى بين التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:justify-content-center` - قم بضبط مركز المحتوى عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:justify-content-end` - قم بضبط نهاية المحتوى عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:justify-content-start` - ضبط المحتوى يبدأ عند التمرير على الكمبيوتر اللوحي
-- `.tablet-pc:justify-content-around` - تبرير المحتوى الموجود على الكمبيوتر اللوحي
-- `.tablet-pc:justify-content-between` - ضبط المحتوى بين الكمبيوتر اللوحي
-- `.tablet-pc:justify-content-center` - ضبط مركز المحتوى على الكمبيوتر اللوحي
-- `.tablet-pc:justify-content-end` - ضبط نهاية المحتوى على الكمبيوتر اللوحي
-- `.tablet-pc:justify-content-start` - ضبط المحتوى يبدأ على الكمبيوتر اللوحي
+- `.hover:tablet-pc:justify-content-around` - توزيع المحتوى: around عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:justify-content-between` - توزيع المحتوى: between عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:justify-content-center` - توزيع المحتوى: المنتصف عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:justify-content-end` - توزيع المحتوى: النهاية عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:justify-content-start` - توزيع المحتوى: البداية عند التمرير على الكمبيوتر اللوحي
+- `.tablet-pc:justify-content-around` - توزيع المحتوى: around على الكمبيوتر اللوحي
+- `.tablet-pc:justify-content-between` - توزيع المحتوى: between على الكمبيوتر اللوحي
+- `.tablet-pc:justify-content-center` - توزيع المحتوى: المنتصف على الكمبيوتر اللوحي
+- `.tablet-pc:justify-content-end` - توزيع المحتوى: النهاية على الكمبيوتر اللوحي
+- `.tablet-pc:justify-content-start` - توزيع المحتوى: البداية على الكمبيوتر اللوحي
 
 ##### Justify content - Pc (992px - 1200px)
 
-- `.hover:pc:justify-content-around` - تبرير المحتوى الموجود عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:justify-content-between` - ضبط المحتوى بين التمرير على جهاز الكمبيوتر
-- `.hover:pc:justify-content-center` - قم بضبط مركز المحتوى عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:justify-content-end` - ضبط نهاية المحتوى عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:justify-content-start` - ضبط المحتوى يبدأ عند التمرير على جهاز الكمبيوتر
-- `.pc:justify-content-around` - تبرير المحتوى الموجود على جهاز الكمبيوتر
-- `.pc:justify-content-between` - تبرير المحتوى بين على جهاز الكمبيوتر
-- `.pc:justify-content-center` - ضبط مركز المحتوى على جهاز الكمبيوتر
-- `.pc:justify-content-end` - تبرير نهاية المحتوى على جهاز الكمبيوتر
-- `.pc:justify-content-start` - تبرير بدء المحتوى على جهاز الكمبيوتر
+- `.hover:pc:justify-content-around` - توزيع المحتوى: around عند التمرير على الكمبيوتر
+- `.hover:pc:justify-content-between` - توزيع المحتوى: between عند التمرير على الكمبيوتر
+- `.hover:pc:justify-content-center` - توزيع المحتوى: المنتصف عند التمرير على الكمبيوتر
+- `.hover:pc:justify-content-end` - توزيع المحتوى: النهاية عند التمرير على الكمبيوتر
+- `.hover:pc:justify-content-start` - توزيع المحتوى: البداية عند التمرير على الكمبيوتر
+- `.pc:justify-content-around` - توزيع المحتوى: around على الكمبيوتر
+- `.pc:justify-content-between` - توزيع المحتوى: between على الكمبيوتر
+- `.pc:justify-content-center` - توزيع المحتوى: المنتصف على الكمبيوتر
+- `.pc:justify-content-end` - توزيع المحتوى: النهاية على الكمبيوتر
+- `.pc:justify-content-start` - توزيع المحتوى: البداية على الكمبيوتر
 
 ##### Justify content - Tv (≥ 1200px)
 
-- `.hover:tv:justify-content-around` - قم بتبرير المحتوى الموجود عند التمرير على شاشة التلفزيون
-- `.hover:tv:justify-content-between` - ضبط المحتوى بين التمرير على شاشة التلفزيون
-- `.hover:tv:justify-content-center` - قم بضبط مركز المحتوى عند التمرير على شاشة التلفزيون
-- `.hover:tv:justify-content-end` - قم بتبرير نهاية المحتوى عند التمرير على شاشة التلفزيون
-- `.hover:tv:justify-content-start` - ضبط المحتوى يبدأ عند التمرير على شاشة التلفزيون
-- `.tv:justify-content-around` - تبرير المحتوى الموجود على شاشة التلفزيون
-- `.tv:justify-content-between` - تبرير المحتوى بين على شاشة التلفزيون
-- `.tv:justify-content-center` - تبرير مركز المحتوى على شاشة التلفزيون
-- `.tv:justify-content-end` - تبرير نهاية المحتوى على شاشة التلفزيون
-- `.tv:justify-content-start` - تبرير المحتوى يبدأ على شاشة التلفزيون
+- `.hover:tv:justify-content-around` - توزيع المحتوى: around عند التمرير على التلفزيون
+- `.hover:tv:justify-content-between` - توزيع المحتوى: between عند التمرير على التلفزيون
+- `.hover:tv:justify-content-center` - توزيع المحتوى: المنتصف عند التمرير على التلفزيون
+- `.hover:tv:justify-content-end` - توزيع المحتوى: النهاية عند التمرير على التلفزيون
+- `.hover:tv:justify-content-start` - توزيع المحتوى: البداية عند التمرير على التلفزيون
+- `.tv:justify-content-around` - توزيع المحتوى: around على التلفزيون
+- `.tv:justify-content-between` - توزيع المحتوى: between على التلفزيون
+- `.tv:justify-content-center` - توزيع المحتوى: المنتصف على التلفزيون
+- `.tv:justify-content-end` - توزيع المحتوى: النهاية على التلفزيون
+- `.tv:justify-content-start` - توزيع المحتوى: البداية على التلفزيون
 
 ##### Justify content - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:justify-content-around` - قم بضبط المحتوى عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:justify-content-between` - ضبط المحتوى بين التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:justify-content-center` - قم بضبط مركز المحتوى عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:justify-content-end` - قم بضبط نهاية المحتوى عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:justify-content-start` - ضبط المحتوى يبدأ عند التمرير على الجهاز اللوحي بحد أقصى
-- `.tablet-max:justify-content-around` - تبرير المحتوى الموجود على الجهاز اللوحي بحد أقصى
-- `.tablet-max:justify-content-between` - ضبط المحتوى بين الحد الأقصى للكمبيوتر اللوحي
-- `.tablet-max:justify-content-center` - ضبط مركز المحتوى على الجهاز اللوحي بحد أقصى
-- `.tablet-max:justify-content-end` - ضبط نهاية المحتوى على الجهاز اللوحي بحد أقصى
-- `.tablet-max:justify-content-start` - ضبط المحتوى يبدأ على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:justify-content-around` - توزيع المحتوى: around عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:justify-content-between` - توزيع المحتوى: between عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:justify-content-center` - توزيع المحتوى: المنتصف عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:justify-content-end` - توزيع المحتوى: النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:justify-content-start` - توزيع المحتوى: البداية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:justify-content-around` - توزيع المحتوى: around على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:justify-content-between` - توزيع المحتوى: between على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:justify-content-center` - توزيع المحتوى: المنتصف على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:justify-content-end` - توزيع المحتوى: النهاية على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:justify-content-start` - توزيع المحتوى: البداية على الجهاز اللوحي (الحد الأقصى)
 
 ##### Justify content - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:justify-content-around` - قم بضبط المحتوى عند التمرير على الكمبيوتر اللوحي كحد أقصى
-- `.hover:tablet-pc-max:justify-content-between` - ضبط المحتوى بين التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:justify-content-center` - قم بضبط مركز المحتوى عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:justify-content-end` - قم بضبط نهاية المحتوى عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:justify-content-start` - ضبط المحتوى يبدأ عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:justify-content-around` - تبرير المحتوى الموجود على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:justify-content-between` - ضبط المحتوى بين أجهزة الكمبيوتر اللوحية بحد أقصى
-- `.tablet-pc-max:justify-content-center` - ضبط مركز المحتوى على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:justify-content-end` - ضبط نهاية المحتوى على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:justify-content-start` - ضبط محتوى البدء على الكمبيوتر اللوحي بحد أقصى
+- `.hover:tablet-pc-max:justify-content-around` - توزيع المحتوى: around عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:justify-content-between` - توزيع المحتوى: between عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:justify-content-center` - توزيع المحتوى: المنتصف عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:justify-content-end` - توزيع المحتوى: النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:justify-content-start` - توزيع المحتوى: البداية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:justify-content-around` - توزيع المحتوى: around على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:justify-content-between` - توزيع المحتوى: between على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:justify-content-center` - توزيع المحتوى: المنتصف على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:justify-content-end` - توزيع المحتوى: النهاية على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:justify-content-start` - توزيع المحتوى: البداية على الكمبيوتر اللوحي (الحد الأقصى)
 
 ##### Justify content - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:justify-content-around` - قم بضبط المحتوى عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:justify-content-between` - ضبط المحتوى بين التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:justify-content-center` - ضبط مركز المحتوى عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:justify-content-end` - ضبط نهاية المحتوى عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:justify-content-start` - ضبط المحتوى يبدأ عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:justify-content-around` - تبرير المحتوى الموجود على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:justify-content-between` - تبرير المحتوى بين الحد الأقصى لجهاز الكمبيوتر
-- `.pc-max:justify-content-center` - ضبط مركز المحتوى على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:justify-content-end` - تبرير نهاية المحتوى على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:justify-content-start` - تبرير بدء المحتوى على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:justify-content-around` - توزيع المحتوى: around عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:justify-content-between` - توزيع المحتوى: between عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:justify-content-center` - توزيع المحتوى: المنتصف عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:justify-content-end` - توزيع المحتوى: النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:justify-content-start` - توزيع المحتوى: البداية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.pc-max:justify-content-around` - توزيع المحتوى: around على الكمبيوتر (الحد الأقصى)
+- `.pc-max:justify-content-between` - توزيع المحتوى: between على الكمبيوتر (الحد الأقصى)
+- `.pc-max:justify-content-center` - توزيع المحتوى: المنتصف على الكمبيوتر (الحد الأقصى)
+- `.pc-max:justify-content-end` - توزيع المحتوى: النهاية على الكمبيوتر (الحد الأقصى)
+- `.pc-max:justify-content-start` - توزيع المحتوى: البداية على الكمبيوتر (الحد الأقصى)
 
 ### Justify items
 
-- `.hover:justify-items-center` - ضبط مركز العناصر عند التمرير
-- `.hover:justify-items-end` - تنتهي عناصر الضبط عند التمرير
-- `.hover:justify-items-start` - تبدأ عناصر الضبط عند التمرير
-- `.hover:justify-items-stretch` - تبرير العناصر يمتد عند التمرير
-- `.justify-items-center` - تبرير مركز العناصر
-- `.justify-items-end` - نهاية تبرير العناصر
-- `.justify-items-start` - تبرير العناصر تبدأ
-- `.justify-items-stretch` - تبرير العناصر تمتد
+- `.hover:justify-items-center` - محاذاة العناصر أفقياً: المنتصف عند التمرير
+- `.hover:justify-items-end` - محاذاة العناصر أفقياً: النهاية عند التمرير
+- `.hover:justify-items-start` - محاذاة العناصر أفقياً: البداية عند التمرير
+- `.hover:justify-items-stretch` - محاذاة العناصر أفقياً: stretch عند التمرير
+- `.justify-items-center` - محاذاة العناصر أفقياً: المنتصف
+- `.justify-items-end` - محاذاة العناصر أفقياً: النهاية
+- `.justify-items-start` - محاذاة العناصر أفقياً: البداية
+- `.justify-items-stretch` - محاذاة العناصر أفقياً: stretch
 
 ### Order
 
-- `.hover:order-5` - اطلب 5 عند التمرير
-- `.hover:order-4` - اطلب 4 عند التمرير
-- `.hover:order-3` - اطلب 3 عند التمرير
-- `.hover:order-2` - اطلب 2 عند التمرير
-- `.hover:order-1` - اطلب 1 عند التمرير
-- `.hover:order-0` - اطلب 0 عند التمرير
-- `.hover:order-first` - اطلب أولاً عند التمرير
-- `.hover:order-last` - الطلب الأخير عند التمرير
-- `.order-5` - الطلب 5
-- `.order-4` - الطلب 4
-- `.order-3` - الطلب 3
-- `.order-2` - الطلب 2
-- `.order-1` - الطلب 1
-- `.order-0` - اطلب 0
-- `.order-first` - اطلب أولاً
-- `.order-last` - اطلب أخيرًا
+- `.hover:order-5` - الترتيب 5 عند التمرير
+- `.hover:order-4` - الترتيب 4 عند التمرير
+- `.hover:order-3` - الترتيب 3 عند التمرير
+- `.hover:order-2` - الترتيب 2 عند التمرير
+- `.hover:order-1` - الترتيب 1 عند التمرير
+- `.hover:order-0` - الترتيب 0 عند التمرير
+- `.hover:order-first` - الترتيب: الأول عند التمرير
+- `.hover:order-last` - الترتيب: الأخير عند التمرير
+- `.order-5` - الترتيب 5
+- `.order-4` - الترتيب 4
+- `.order-3` - الترتيب 3
+- `.order-2` - الترتيب 2
+- `.order-1` - الترتيب 1
+- `.order-0` - الترتيب 0
+- `.order-first` - الترتيب: الأول
+- `.order-last` - الترتيب: الأخير
 
 ##### Negative Order
 
-- `.-order-5` - أمر سلبي 5
+- `.-order-5` - الترتيب السلبي 5
 - `.-order-4` - الترتيب السلبي 4
-- `.-order-3` - أمر سلبي 3
-- `.-order-2` - أمر سلبي 2
-- `.-order-1` - أمر سلبي 1
-- `.hover:-order-5` - الطلب السلبي 5 عند التمرير
-- `.hover:-order-4` - الطلب السلبي 4 عند التمرير
-- `.hover:-order-3` - الطلب السلبي 3 عند التمرير
-- `.hover:-order-2` - الطلب السلبي 2 عند التمرير
-- `.hover:-order-1` - أمر سلبي 1 عند التمرير
+- `.-order-3` - الترتيب السلبي 3
+- `.-order-2` - الترتيب السلبي 2
+- `.-order-1` - الترتيب السلبي 1
+- `.hover:-order-5` - الترتيب السلبي 5 عند التمرير
+- `.hover:-order-4` - الترتيب السلبي 4 عند التمرير
+- `.hover:-order-3` - الترتيب السلبي 3 عند التمرير
+- `.hover:-order-2` - الترتيب السلبي 2 عند التمرير
+- `.hover:-order-1` - الترتيب السلبي 1 عند التمرير
 
 ##### Order - Mobile (≤ 480px)
 
-- `.hover:mobile:order-5` - اطلب 5 عند التمرير على الهاتف المحمول
-- `.hover:mobile:order-4` - اطلب 4 عند التمرير على الهاتف المحمول
-- `.hover:mobile:order-3` - اطلب 3 عند التمرير على الهاتف المحمول
-- `.hover:mobile:order-2` - اطلب 2 عند التمرير على الهاتف المحمول
-- `.hover:mobile:order-1` - اطلب 1 عند التمرير على الهاتف المحمول
-- `.hover:mobile:order-0` - اطلب 0 عند التمرير على الهاتف المحمول
-- `.hover:mobile:order-first` - اطلب أولاً عند التمرير على الهاتف المحمول
-- `.hover:mobile:order-last` - الطلب الأخير عند التمرير على الهاتف المحمول
-- `.mobile:order-5` - اطلب 5 على الهاتف المحمول
-- `.mobile:order-4` - اطلب 4 على الهاتف المحمول
-- `.mobile:order-3` - اطلب 3 على الجوال
-- `.mobile:order-2` - اطلب 2 على الجوال
-- `.mobile:order-1` - اطلب 1 على الهاتف المحمول
-- `.mobile:order-0` - اطلب 0 على الهاتف المحمول
-- `.mobile:order-first` - اطلب أولاً على الهاتف المحمول
-- `.mobile:order-last` - الطلب الأخير على الهاتف المحمول
+- `.hover:mobile:order-5` - الترتيب 5 عند التمرير على الجوال
+- `.hover:mobile:order-4` - الترتيب 4 عند التمرير على الجوال
+- `.hover:mobile:order-3` - الترتيب 3 عند التمرير على الجوال
+- `.hover:mobile:order-2` - الترتيب 2 عند التمرير على الجوال
+- `.hover:mobile:order-1` - الترتيب 1 عند التمرير على الجوال
+- `.hover:mobile:order-0` - الترتيب 0 عند التمرير على الجوال
+- `.hover:mobile:order-first` - الترتيب: الأول عند التمرير على الجوال
+- `.hover:mobile:order-last` - الترتيب: الأخير عند التمرير على الجوال
+- `.mobile:order-5` - الترتيب 5 على الجوال
+- `.mobile:order-4` - الترتيب 4 على الجوال
+- `.mobile:order-3` - الترتيب 3 على الجوال
+- `.mobile:order-2` - الترتيب 2 على الجوال
+- `.mobile:order-1` - الترتيب 1 على الجوال
+- `.mobile:order-0` - الترتيب 0 على الجوال
+- `.mobile:order-first` - الترتيب: الأول على الجوال
+- `.mobile:order-last` - الترتيب: الأخير على الجوال
 
 ##### Negative Order - Mobile (≤ 480px)
 
-- `.hover:mobile:-order-5` - الطلب السلبي 5 عند التمرير على الهاتف المحمول
-- `.hover:mobile:-order-4` - الطلب السلبي 4 عند التمرير على الهاتف المحمول
-- `.hover:mobile:-order-3` - الطلب السلبي 3 عند التمرير على الهاتف المحمول
-- `.hover:mobile:-order-2` - الطلب السلبي 2 عند التمرير على الهاتف المحمول
-- `.hover:mobile:-order-1` - الطلب السلبي 1 عند التمرير على الهاتف المحمول
-- `.mobile:-order-5` - الطلب السلبي 5 على الهاتف المحمول
-- `.mobile:-order-4` - الطلب السلبي 4 على الهاتف المحمول
-- `.mobile:-order-3` - الطلب السلبي 3 على الهاتف المحمول
-- `.mobile:-order-2` - الطلب السلبي 2 على الهاتف المحمول
-- `.mobile:-order-1` - الطلب السلبي 1 على الهاتف المحمول
+- `.hover:mobile:-order-5` - الترتيب السلبي 5 عند التمرير على الجوال
+- `.hover:mobile:-order-4` - الترتيب السلبي 4 عند التمرير على الجوال
+- `.hover:mobile:-order-3` - الترتيب السلبي 3 عند التمرير على الجوال
+- `.hover:mobile:-order-2` - الترتيب السلبي 2 عند التمرير على الجوال
+- `.hover:mobile:-order-1` - الترتيب السلبي 1 عند التمرير على الجوال
+- `.mobile:-order-5` - الترتيب السلبي 5 على الجوال
+- `.mobile:-order-4` - الترتيب السلبي 4 على الجوال
+- `.mobile:-order-3` - الترتيب السلبي 3 على الجوال
+- `.mobile:-order-2` - الترتيب السلبي 2 على الجوال
+- `.mobile:-order-1` - الترتيب السلبي 1 على الجوال
 
 ##### Order - Tablet (480px - 768px)
 
-- `.hover:tablet:order-5` - اطلب 5 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:order-4` - اطلب 4 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:order-3` - اطلب 3 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:order-2` - اطلب 2 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:order-1` - اطلب 1 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:order-0` - اطلب 0 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:order-first` - اطلب أولاً عند التمرير على الجهاز اللوحي
-- `.hover:tablet:order-last` - اطلب آخر مرة عند التمرير على الجهاز اللوحي
-- `.tablet:order-5` - اطلب 5 على الجهاز اللوحي
-- `.tablet:order-4` - اطلب 4 على الجهاز اللوحي
-- `.tablet:order-3` - اطلب 3 على الجهاز اللوحي
-- `.tablet:order-2` - اطلب 2 على الجهاز اللوحي
-- `.tablet:order-1` - اطلب 1 على الجهاز اللوحي
-- `.tablet:order-0` - اطلب 0 على الجهاز اللوحي
-- `.tablet:order-first` - اطلب أولاً على الجهاز اللوحي
-- `.tablet:order-last` - الطلب الأخير على الجهاز اللوحي
+- `.hover:tablet:order-5` - الترتيب 5 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:order-4` - الترتيب 4 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:order-3` - الترتيب 3 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:order-2` - الترتيب 2 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:order-1` - الترتيب 1 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:order-0` - الترتيب 0 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:order-first` - الترتيب: الأول عند التمرير على الجهاز اللوحي
+- `.hover:tablet:order-last` - الترتيب: الأخير عند التمرير على الجهاز اللوحي
+- `.tablet:order-5` - الترتيب 5 على الجهاز اللوحي
+- `.tablet:order-4` - الترتيب 4 على الجهاز اللوحي
+- `.tablet:order-3` - الترتيب 3 على الجهاز اللوحي
+- `.tablet:order-2` - الترتيب 2 على الجهاز اللوحي
+- `.tablet:order-1` - الترتيب 1 على الجهاز اللوحي
+- `.tablet:order-0` - الترتيب 0 على الجهاز اللوحي
+- `.tablet:order-first` - الترتيب: الأول على الجهاز اللوحي
+- `.tablet:order-last` - الترتيب: الأخير على الجهاز اللوحي
 
 ##### Negative Order - Tablet (480px - 768px)
 
-- `.hover:tablet:-order-5` - الطلب السلبي 5 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:-order-4` - الطلب السلبي 4 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:-order-3` - الطلب السلبي 3 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:-order-2` - الطلب السلبي 2 عند التمرير على الجهاز اللوحي
-- `.hover:tablet:-order-1` - الطلب السلبي 1 عند التمرير على الجهاز اللوحي
-- `.tablet:-order-5` - الطلب السلبي 5 على الجهاز اللوحي
-- `.tablet:-order-4` - الطلب السلبي 4 على الجهاز اللوحي
-- `.tablet:-order-3` - الطلب السلبي 3 على الجهاز اللوحي
-- `.tablet:-order-2` - الطلب السلبي 2 على الجهاز اللوحي
-- `.tablet:-order-1` - الطلب السلبي 1 على الجهاز اللوحي
+- `.hover:tablet:-order-5` - الترتيب السلبي 5 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:-order-4` - الترتيب السلبي 4 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:-order-3` - الترتيب السلبي 3 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:-order-2` - الترتيب السلبي 2 عند التمرير على الجهاز اللوحي
+- `.hover:tablet:-order-1` - الترتيب السلبي 1 عند التمرير على الجهاز اللوحي
+- `.tablet:-order-5` - الترتيب السلبي 5 على الجهاز اللوحي
+- `.tablet:-order-4` - الترتيب السلبي 4 على الجهاز اللوحي
+- `.tablet:-order-3` - الترتيب السلبي 3 على الجهاز اللوحي
+- `.tablet:-order-2` - الترتيب السلبي 2 على الجهاز اللوحي
+- `.tablet:-order-1` - الترتيب السلبي 1 على الجهاز اللوحي
 
 ##### Order - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:order-5` - اطلب 5 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:order-4` - اطلب 4 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:order-3` - اطلب 3 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:order-2` - اطلب 2 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:order-1` - اطلب 1 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:order-0` - اطلب 0 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:order-first` - اطلب أولاً عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:order-last` - اطلب آخر مرة عند التمرير على الكمبيوتر اللوحي
-- `.tablet-pc:order-5` - اطلب 5 على الكمبيوتر اللوحي
-- `.tablet-pc:order-4` - اطلب 4 على الكمبيوتر اللوحي
-- `.tablet-pc:order-3` - اطلب 3 على الكمبيوتر اللوحي
-- `.tablet-pc:order-2` - اطلب 2 على الكمبيوتر اللوحي
-- `.tablet-pc:order-1` - اطلب 1 على الكمبيوتر اللوحي
-- `.tablet-pc:order-0` - اطلب 0 على الكمبيوتر اللوحي
-- `.tablet-pc:order-first` - اطلب أولاً على الكمبيوتر اللوحي
-- `.tablet-pc:order-last` - اطلب أخيرًا على الكمبيوتر اللوحي
+- `.hover:tablet-pc:order-5` - الترتيب 5 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:order-4` - الترتيب 4 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:order-3` - الترتيب 3 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:order-2` - الترتيب 2 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:order-1` - الترتيب 1 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:order-0` - الترتيب 0 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:order-first` - الترتيب: الأول عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:order-last` - الترتيب: الأخير عند التمرير على الكمبيوتر اللوحي
+- `.tablet-pc:order-5` - الترتيب 5 على الكمبيوتر اللوحي
+- `.tablet-pc:order-4` - الترتيب 4 على الكمبيوتر اللوحي
+- `.tablet-pc:order-3` - الترتيب 3 على الكمبيوتر اللوحي
+- `.tablet-pc:order-2` - الترتيب 2 على الكمبيوتر اللوحي
+- `.tablet-pc:order-1` - الترتيب 1 على الكمبيوتر اللوحي
+- `.tablet-pc:order-0` - الترتيب 0 على الكمبيوتر اللوحي
+- `.tablet-pc:order-first` - الترتيب: الأول على الكمبيوتر اللوحي
+- `.tablet-pc:order-last` - الترتيب: الأخير على الكمبيوتر اللوحي
 
 ##### Negative Order - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:-order-5` - الطلب السلبي 5 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:-order-4` - الطلب السلبي 4 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:-order-3` - الطلب السلبي 3 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:-order-2` - الطلب السلبي 2 عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:-order-1` - الطلب السلبي 1 عند التمرير على الكمبيوتر اللوحي
-- `.tablet-pc:-order-5` - الطلب السلبي 5 على الكمبيوتر اللوحي
-- `.tablet-pc:-order-4` - الطلب السلبي 4 على الكمبيوتر اللوحي
-- `.tablet-pc:-order-3` - الطلب السلبي 3 على الكمبيوتر اللوحي
-- `.tablet-pc:-order-2` - الطلب السلبي 2 على الكمبيوتر اللوحي
-- `.tablet-pc:-order-1` - الطلب السلبي 1 على الكمبيوتر اللوحي
+- `.hover:tablet-pc:-order-5` - الترتيب السلبي 5 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:-order-4` - الترتيب السلبي 4 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:-order-3` - الترتيب السلبي 3 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:-order-2` - الترتيب السلبي 2 عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:-order-1` - الترتيب السلبي 1 عند التمرير على الكمبيوتر اللوحي
+- `.tablet-pc:-order-5` - الترتيب السلبي 5 على الكمبيوتر اللوحي
+- `.tablet-pc:-order-4` - الترتيب السلبي 4 على الكمبيوتر اللوحي
+- `.tablet-pc:-order-3` - الترتيب السلبي 3 على الكمبيوتر اللوحي
+- `.tablet-pc:-order-2` - الترتيب السلبي 2 على الكمبيوتر اللوحي
+- `.tablet-pc:-order-1` - الترتيب السلبي 1 على الكمبيوتر اللوحي
 
 ##### Order - Pc (992px - 1200px)
 
-- `.hover:pc:order-5` - اطلب 5 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:order-4` - اطلب 4 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:order-3` - اطلب 3 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:order-2` - اطلب 2 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:order-1` - اطلب 1 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:order-0` - اطلب 0 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:order-first` - اطلب أولاً عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:order-last` - الطلب الأخير عند التمرير على جهاز الكمبيوتر
-- `.pc:order-5` - اطلب 5 على جهاز الكمبيوتر
-- `.pc:order-4` - اطلب 4 على جهاز الكمبيوتر
-- `.pc:order-3` - اطلب 3 على جهاز الكمبيوتر
-- `.pc:order-2` - اطلب 2 على جهاز الكمبيوتر
-- `.pc:order-1` - اطلب 1 على جهاز الكمبيوتر
-- `.pc:order-0` - اطلب 0 على جهاز الكمبيوتر
-- `.pc:order-first` - اطلب أولاً على جهاز الكمبيوتر
-- `.pc:order-last` - الطلب الأخير على جهاز الكمبيوتر
+- `.hover:pc:order-5` - الترتيب 5 عند التمرير على الكمبيوتر
+- `.hover:pc:order-4` - الترتيب 4 عند التمرير على الكمبيوتر
+- `.hover:pc:order-3` - الترتيب 3 عند التمرير على الكمبيوتر
+- `.hover:pc:order-2` - الترتيب 2 عند التمرير على الكمبيوتر
+- `.hover:pc:order-1` - الترتيب 1 عند التمرير على الكمبيوتر
+- `.hover:pc:order-0` - الترتيب 0 عند التمرير على الكمبيوتر
+- `.hover:pc:order-first` - الترتيب: الأول عند التمرير على الكمبيوتر
+- `.hover:pc:order-last` - الترتيب: الأخير عند التمرير على الكمبيوتر
+- `.pc:order-5` - الترتيب 5 على الكمبيوتر
+- `.pc:order-4` - الترتيب 4 على الكمبيوتر
+- `.pc:order-3` - الترتيب 3 على الكمبيوتر
+- `.pc:order-2` - الترتيب 2 على الكمبيوتر
+- `.pc:order-1` - الترتيب 1 على الكمبيوتر
+- `.pc:order-0` - الترتيب 0 على الكمبيوتر
+- `.pc:order-first` - الترتيب: الأول على الكمبيوتر
+- `.pc:order-last` - الترتيب: الأخير على الكمبيوتر
 
 ##### Negative Order - Pc (992px - 1200px)
 
-- `.hover:pc:-order-5` - الطلب السلبي 5 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:-order-4` - الطلب السلبي 4 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:-order-3` - الطلب السلبي 3 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:-order-2` - الطلب السلبي 2 عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:-order-1` - الطلب السلبي 1 عند التمرير على جهاز الكمبيوتر
-- `.pc:-order-5` - الطلب السلبي 5 على جهاز الكمبيوتر
-- `.pc:-order-4` - الطلب السلبي 4 على جهاز الكمبيوتر
-- `.pc:-order-3` - الطلب السلبي 3 على جهاز الكمبيوتر
-- `.pc:-order-2` - الطلب السلبي 2 على جهاز الكمبيوتر
-- `.pc:-order-1` - الطلب السلبي 1 على جهاز الكمبيوتر
+- `.hover:pc:-order-5` - الترتيب السلبي 5 عند التمرير على الكمبيوتر
+- `.hover:pc:-order-4` - الترتيب السلبي 4 عند التمرير على الكمبيوتر
+- `.hover:pc:-order-3` - الترتيب السلبي 3 عند التمرير على الكمبيوتر
+- `.hover:pc:-order-2` - الترتيب السلبي 2 عند التمرير على الكمبيوتر
+- `.hover:pc:-order-1` - الترتيب السلبي 1 عند التمرير على الكمبيوتر
+- `.pc:-order-5` - الترتيب السلبي 5 على الكمبيوتر
+- `.pc:-order-4` - الترتيب السلبي 4 على الكمبيوتر
+- `.pc:-order-3` - الترتيب السلبي 3 على الكمبيوتر
+- `.pc:-order-2` - الترتيب السلبي 2 على الكمبيوتر
+- `.pc:-order-1` - الترتيب السلبي 1 على الكمبيوتر
 
 ##### Order - Tv (≥ 1200px)
 
-- `.hover:tv:order-5` - اطلب 5 عند التمرير على شاشة التلفزيون
-- `.hover:tv:order-4` - اطلب 4 عند التمرير على شاشة التلفزيون
-- `.hover:tv:order-3` - اطلب 3 عند التمرير على شاشة التلفزيون
-- `.hover:tv:order-2` - اطلب 2 عند التمرير على شاشة التلفزيون
-- `.hover:tv:order-1` - اطلب 1 عند التمرير على شاشة التلفزيون
-- `.hover:tv:order-0` - اطلب 0 عند التمرير على شاشة التلفزيون
-- `.hover:tv:order-first` - اطلب أولاً عند التمرير على شاشة التلفزيون
-- `.hover:tv:order-last` - الطلب الأخير عند التمرير على شاشة التلفزيون
-- `.tv:order-5` - اطلب 5 على شاشة التلفزيون
-- `.tv:order-4` - اطلب 4 على شاشة التلفزيون
-- `.tv:order-3` - اطلب 3 على شاشة التلفزيون
-- `.tv:order-2` - اطلب 2 على شاشة التلفزيون
-- `.tv:order-1` - اطلب 1 على شاشة التلفزيون
-- `.tv:order-0` - اطلب 0 على شاشة التلفزيون
-- `.tv:order-first` - اطلب أولاً على شاشة التلفزيون
-- `.tv:order-last` - النظام الأخير على شاشة التلفزيون
+- `.hover:tv:order-5` - الترتيب 5 عند التمرير على التلفزيون
+- `.hover:tv:order-4` - الترتيب 4 عند التمرير على التلفزيون
+- `.hover:tv:order-3` - الترتيب 3 عند التمرير على التلفزيون
+- `.hover:tv:order-2` - الترتيب 2 عند التمرير على التلفزيون
+- `.hover:tv:order-1` - الترتيب 1 عند التمرير على التلفزيون
+- `.hover:tv:order-0` - الترتيب 0 عند التمرير على التلفزيون
+- `.hover:tv:order-first` - الترتيب: الأول عند التمرير على التلفزيون
+- `.hover:tv:order-last` - الترتيب: الأخير عند التمرير على التلفزيون
+- `.tv:order-5` - الترتيب 5 على التلفزيون
+- `.tv:order-4` - الترتيب 4 على التلفزيون
+- `.tv:order-3` - الترتيب 3 على التلفزيون
+- `.tv:order-2` - الترتيب 2 على التلفزيون
+- `.tv:order-1` - الترتيب 1 على التلفزيون
+- `.tv:order-0` - الترتيب 0 على التلفزيون
+- `.tv:order-first` - الترتيب: الأول على التلفزيون
+- `.tv:order-last` - الترتيب: الأخير على التلفزيون
 
 ##### Negative Order - Tv (≥ 1200px)
 
-- `.hover:tv:-order-5` - الطلب السلبي 5 عند التمرير على شاشة التلفزيون
-- `.hover:tv:-order-4` - الطلب السلبي 4 عند التمرير على شاشة التلفزيون
-- `.hover:tv:-order-3` - الطلب السلبي 3 عند التمرير على شاشة التلفزيون
-- `.hover:tv:-order-2` - الطلب السلبي 2 عند التمرير على شاشة التلفزيون
-- `.hover:tv:-order-1` - الطلب السلبي 1 عند التمرير على شاشة التلفزيون
-- `.tv:-order-5` - الطلب السلبي 5 على شاشة التلفزيون
-- `.tv:-order-4` - الطلب السلبي 4 على شاشة التلفزيون
-- `.tv:-order-3` - الطلب السلبي 3 على شاشة التلفزيون
-- `.tv:-order-2` - الطلب السلبي 2 على شاشة التلفزيون
-- `.tv:-order-1` - الطلب السلبي 1 على شاشة التلفزيون
+- `.hover:tv:-order-5` - الترتيب السلبي 5 عند التمرير على التلفزيون
+- `.hover:tv:-order-4` - الترتيب السلبي 4 عند التمرير على التلفزيون
+- `.hover:tv:-order-3` - الترتيب السلبي 3 عند التمرير على التلفزيون
+- `.hover:tv:-order-2` - الترتيب السلبي 2 عند التمرير على التلفزيون
+- `.hover:tv:-order-1` - الترتيب السلبي 1 عند التمرير على التلفزيون
+- `.tv:-order-5` - الترتيب السلبي 5 على التلفزيون
+- `.tv:-order-4` - الترتيب السلبي 4 على التلفزيون
+- `.tv:-order-3` - الترتيب السلبي 3 على التلفزيون
+- `.tv:-order-2` - الترتيب السلبي 2 على التلفزيون
+- `.tv:-order-1` - الترتيب السلبي 1 على التلفزيون
 
 ##### Order - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:order-5` - اطلب 5 عند التمرير على الجهاز اللوحي كحد أقصى
-- `.hover:tablet-max:order-4` - اطلب 4 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:order-3` - اطلب 3 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:order-2` - اطلب 2 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:order-1` - اطلب 1 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:order-0` - اطلب 0 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:order-first` - اطلب أولاً عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:order-last` - الطلب الأخير عند التمرير على الجهاز اللوحي بحد أقصى
-- `.tablet-max:order-5` - اطلب 5 على الجهاز اللوحي كحد أقصى
-- `.tablet-max:order-4` - اطلب 4 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-max:order-3` - اطلب 3 على الجهاز اللوحي كحد أقصى
-- `.tablet-max:order-2` - اطلب 2 على الجهاز اللوحي كحد أقصى
-- `.tablet-max:order-1` - اطلب 1 على الجهاز اللوحي كحد أقصى
-- `.tablet-max:order-0` - اطلب 0 على الجهاز اللوحي كحد أقصى
-- `.tablet-max:order-first` - اطلب أولاً على الجهاز اللوحي بحد أقصى
-- `.tablet-max:order-last` - الطلب الأخير على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:order-5` - الترتيب 5 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:order-4` - الترتيب 4 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:order-3` - الترتيب 3 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:order-2` - الترتيب 2 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:order-1` - الترتيب 1 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:order-0` - الترتيب 0 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:order-first` - الترتيب: الأول عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:order-last` - الترتيب: الأخير عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:order-5` - الترتيب 5 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:order-4` - الترتيب 4 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:order-3` - الترتيب 3 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:order-2` - الترتيب 2 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:order-1` - الترتيب 1 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:order-0` - الترتيب 0 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:order-first` - الترتيب: الأول على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:order-last` - الترتيب: الأخير على الجهاز اللوحي (الحد الأقصى)
 
 ##### Negative Order - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:-order-5` - الطلب السلبي 5 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:-order-4` - الطلب السلبي 4 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:-order-3` - الطلب السلبي 3 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:-order-2` - الطلب السلبي 2 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:-order-1` - الطلب السلبي 1 عند التمرير على الجهاز اللوحي بحد أقصى
-- `.tablet-max:-order-5` - الطلب السلبي 5 على الجهاز اللوحي كحد أقصى
-- `.tablet-max:-order-4` - الطلب السلبي 4 على الجهاز اللوحي كحد أقصى
-- `.tablet-max:-order-3` - الطلب السلبي 3 على الجهاز اللوحي كحد أقصى
-- `.tablet-max:-order-2` - الطلب السلبي 2 على الجهاز اللوحي كحد أقصى
-- `.tablet-max:-order-1` - الطلب السلبي 1 على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:-order-5` - الترتيب السلبي 5 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:-order-4` - الترتيب السلبي 4 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:-order-3` - الترتيب السلبي 3 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:-order-2` - الترتيب السلبي 2 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:-order-1` - الترتيب السلبي 1 عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:-order-5` - الترتيب السلبي 5 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:-order-4` - الترتيب السلبي 4 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:-order-3` - الترتيب السلبي 3 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:-order-2` - الترتيب السلبي 2 على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:-order-1` - الترتيب السلبي 1 على الجهاز اللوحي (الحد الأقصى)
 
 ##### Order - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:order-5` - اطلب 5 عند التمرير على الكمبيوتر اللوحي كحد أقصى
-- `.hover:tablet-pc-max:order-4` - اطلب 4 عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:order-3` - اطلب 3 عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:order-2` - اطلب 2 عند التمرير على الكمبيوتر اللوحي كحد أقصى
-- `.hover:tablet-pc-max:order-1` - اطلب 1 عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:order-0` - اطلب 0 عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:order-first` - اطلب أولاً عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:order-last` - اطلب آخر مرة عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:order-5` - اطلب 5 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:order-4` - اطلب 4 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:order-3` - اطلب 3 قطع على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:order-2` - اطلب 2 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:order-1` - اطلب 1 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:order-0` - اطلب 0 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:order-first` - اطلب أولاً على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:order-last` - الطلب الأخير على الكمبيوتر اللوحي بحد أقصى
+- `.hover:tablet-pc-max:order-5` - الترتيب 5 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:order-4` - الترتيب 4 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:order-3` - الترتيب 3 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:order-2` - الترتيب 2 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:order-1` - الترتيب 1 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:order-0` - الترتيب 0 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:order-first` - الترتيب: الأول عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:order-last` - الترتيب: الأخير عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:order-5` - الترتيب 5 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:order-4` - الترتيب 4 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:order-3` - الترتيب 3 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:order-2` - الترتيب 2 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:order-1` - الترتيب 1 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:order-0` - الترتيب 0 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:order-first` - الترتيب: الأول على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:order-last` - الترتيب: الأخير على الكمبيوتر اللوحي (الحد الأقصى)
 
 ##### Negative Order - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:-order-5` - الطلب السلبي 5 عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:-order-4` - الطلب السلبي 4 عند التمرير على الكمبيوتر اللوحي كحد أقصى
-- `.hover:tablet-pc-max:-order-3` - الطلب السلبي 3 عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:-order-2` - الطلب السلبي 2 عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:-order-1` - الطلب السلبي 1 عند التمرير على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:-order-5` - الطلب السلبي 5 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:-order-4` - الطلب السلبي 4 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:-order-3` - الطلب السلبي 3 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:-order-2` - الطلب السلبي 2 على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:-order-1` - الطلب السلبي 1 على الكمبيوتر اللوحي بحد أقصى
+- `.hover:tablet-pc-max:-order-5` - الترتيب السلبي 5 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:-order-4` - الترتيب السلبي 4 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:-order-3` - الترتيب السلبي 3 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:-order-2` - الترتيب السلبي 2 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:-order-1` - الترتيب السلبي 1 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:-order-5` - الترتيب السلبي 5 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:-order-4` - الترتيب السلبي 4 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:-order-3` - الترتيب السلبي 3 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:-order-2` - الترتيب السلبي 2 على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:-order-1` - الترتيب السلبي 1 على الكمبيوتر اللوحي (الحد الأقصى)
 
 ##### Order - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:order-5` - اطلب 5 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:order-4` - اطلب 4 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:order-3` - اطلب 3 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:order-2` - اطلب 2 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:order-1` - اطلب 1 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:order-0` - اطلب 0 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:order-first` - اطلب أولاً عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:order-last` - الطلب الأخير عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:order-5` - اطلب 5 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:order-4` - اطلب 4 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:order-3` - اطلب 3 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:order-2` - اطلب 2 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:order-1` - اطلب 1 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:order-0` - اطلب 0 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:order-first` - اطلب أولاً على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:order-last` - الطلب الأخير على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:order-5` - الترتيب 5 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:order-4` - الترتيب 4 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:order-3` - الترتيب 3 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:order-2` - الترتيب 2 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:order-1` - الترتيب 1 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:order-0` - الترتيب 0 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:order-first` - الترتيب: الأول عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:order-last` - الترتيب: الأخير عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.pc-max:order-5` - الترتيب 5 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:order-4` - الترتيب 4 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:order-3` - الترتيب 3 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:order-2` - الترتيب 2 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:order-1` - الترتيب 1 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:order-0` - الترتيب 0 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:order-first` - الترتيب: الأول على الكمبيوتر (الحد الأقصى)
+- `.pc-max:order-last` - الترتيب: الأخير على الكمبيوتر (الحد الأقصى)
 
 ##### Negative Order - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:-order-5` - الطلب السلبي 5 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:-order-4` - الطلب السلبي 4 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:-order-3` - الطلب السلبي 3 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:-order-2` - الطلب السلبي 2 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:-order-1` - الطلب السلبي 1 عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:-order-5` - الطلب السلبي 5 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:-order-4` - الطلب السلبي 4 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:-order-3` - الطلب السلبي 3 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:-order-2` - الطلب السلبي 2 على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:-order-1` - الطلب السلبي 1 على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:-order-5` - الترتيب السلبي 5 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:-order-4` - الترتيب السلبي 4 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:-order-3` - الترتيب السلبي 3 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:-order-2` - الترتيب السلبي 2 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:-order-1` - الترتيب السلبي 1 عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.pc-max:-order-5` - الترتيب السلبي 5 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:-order-4` - الترتيب السلبي 4 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:-order-3` - الترتيب السلبي 3 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:-order-2` - الترتيب السلبي 2 على الكمبيوتر (الحد الأقصى)
+- `.pc-max:-order-1` - الترتيب السلبي 1 على الكمبيوتر (الحد الأقصى)
 
 ## Spacing
 
@@ -1846,7 +1846,7 @@
 
 #### Margin All
 
-- `.first:m-0` - هامش الكل 0rem في البداية
+- `.first:m-0` - هامش الكل 0rem للعنصر الأول
 - `.hover:m-5` - الهامش الكل 5rem عند التمرير
 - `.hover:m-4.5` - الهامش الكل 0rem عند التمرير
 - `.hover:m-4` - هامش الكل 4rem عند التمرير
@@ -1875,7 +1875,7 @@
 - `.hover:m-0.1` - الهامش الكل 0.1rem عند التمرير
 - `.hover:m-0` - الهامش الكل 0rem عند التمرير
 - `.hover:m-auto` - الهامش الكل تلقائي عند التمرير
-- `.last:m-0` - هامش الكل 0rem في الماضي
+- `.last:m-0` - هامش الكل 0rem للعنصر الأخير
 - `.m-5` - هامش الكل 5rem
 - `.m-4.5` - هامش الكل 0rem
 - `.m-4` - هامش الكل 4rem
@@ -1907,7 +1907,7 @@
 
 #### Margin Bottom
 
-- `.first:mb-0` - الهامش السفلي 0rem في البداية
+- `.first:mb-0` - الهامش السفلي 0rem للعنصر الأول
 - `.hover:mb-100` - الهامش السفلي 100% عند التحويم
 - `.hover:mb-75` - الهامش السفلي 75% عند التحويم
 - `.hover:mb-50` - الهامش السفلي 50% عند التحويم
@@ -1940,7 +1940,7 @@
 - `.hover:mb-0.1` - الهامش السفلي 0.1rem عند التمرير
 - `.hover:mb-0` - الهامش السفلي 0rem عند التمرير
 - `.hover:mb-auto` - أسفل الهامش تلقائيًا عند التمرير
-- `.last:mb-0` - الهامش السفلي 0rem في الماضي
+- `.last:mb-0` - الهامش السفلي 0rem للعنصر الأخير
 - `.mb-100` - الهامش السفلي 100%
 - `.mb-75` - الهامش السفلي 75%
 - `.mb-50` - الهامش السفلي 50%
@@ -1977,19 +1977,19 @@
 #### Margin End
 
 - `.hover:me-2` - نهاية الهامش 2rem عند التمرير
-- `.hover:me-1.5` - نهاية الهامش 1.5ريم عند التمرير
+- `.hover:me-1.5` - نهاية الهامش 1.5rem عند التمرير
 - `.hover:me-1` - نهاية الهامش 1rem عند التمرير
-- `.hover:me-0.5` - نهاية الهامش 0.5ريم عند التمرير
+- `.hover:me-0.5` - نهاية الهامش 0.5rem عند التمرير
 - `.hover:me-0` - نهاية الهامش 0rem عند التمرير
 - `.me-2` - نهاية الهامش 2rem
-- `.me-1.5` - نهاية الهامش 1.5ريم
+- `.me-1.5` - نهاية الهامش 1.5rem
 - `.me-1` - نهاية الهامش 1rem
-- `.me-0.5` - نهاية الهامش 0.5ريم
+- `.me-0.5` - نهاية الهامش 0.5rem
 - `.me-0` - نهاية الهامش 0rem
 
 #### Margin Left
 
-- `.first:ml-0` - الهامش الأيسر 0rem في البداية
+- `.first:ml-0` - الهامش الأيسر 0rem للعنصر الأول
 - `.hover:ml-100` - الهامش الأيسر 100% عند التحويم
 - `.hover:ml-75` - الهامش الأيسر 75% عند التحويم
 - `.hover:ml-50` - الهامش الأيسر 50% عند التحويم
@@ -2019,21 +2019,21 @@
 - `.hover:ml-0.4` - الهامش الأيسر 0rem عند التمرير
 - `.hover:ml-0.3` - الهامش الأيسر 0rem عند التمرير
 - `.hover:ml-0.2` - الهامش الأيسر 0.2rem عند التمرير
-- `.hover:ml-0.1` - الهامش الأيسر 0.1ريم عند التمرير
+- `.hover:ml-0.1` - الهامش الأيسر 0.1rem عند التمرير
 - `.hover:ml-0` - الهامش الأيسر 0rem عند التمرير
 - `.hover:ml-auto` - الهامش الأيسر تلقائي عند التمرير
-- `.last:ml-0` - الهامش الأيسر 0rem في الماضي
+- `.last:ml-0` - الهامش الأيسر 0rem للعنصر الأخير
 - `.ml-100` - الهامش الأيسر 100%
 - `.ml-75` - الهامش الأيسر 75%
 - `.ml-50` - الهامش الأيسر 50%
 - `.ml-25` - الهامش الأيسر 25%
-- `.ml-5` - الهامش الأيسر 5ريم
+- `.ml-5` - الهامش الأيسر 5rem
 - `.ml-4.5` - الهامش الأيسر 0rem
 - `.ml-4` - الهامش الأيسر 4rem
 - `.ml-3.5` - الهامش الأيسر 0rem
 - `.ml-3` - الهامش الأيسر 3rem
 - `.ml-2.5` - الهامش الأيسر 0rem
-- `.ml-2` - الهامش الأيسر 2ريم
+- `.ml-2` - الهامش الأيسر 2rem
 - `.ml-1.9` - الهامش الأيسر 0rem
 - `.ml-1.8` - الهامش الأيسر 0rem
 - `.ml-1.7` - الهامش الأيسر 0rem
@@ -2043,7 +2043,7 @@
 - `.ml-1.3` - الهامش الأيسر 0rem
 - `.ml-1.2` - الهامش الأيسر 0rem
 - `.ml-1.1` - الهامش الأيسر 0rem
-- `.ml-1` - الهامش الأيسر 1ريم
+- `.ml-1` - الهامش الأيسر 1rem
 - `.ml-0.9` - الهامش الأيسر 0rem
 - `.ml-0.8` - الهامش الأيسر 0rem
 - `.ml-0.7` - الهامش الأيسر 0rem
@@ -2051,14 +2051,14 @@
 - `.ml-0.5` - الهامش الأيسر 0rem
 - `.ml-0.4` - الهامش الأيسر 0rem
 - `.ml-0.3` - الهامش الأيسر 0rem
-- `.ml-0.2` - الهامش الأيسر 0.2ريم
-- `.ml-0.1` - الهامش الأيسر 0.1ريم
+- `.ml-0.2` - الهامش الأيسر 0.2rem
+- `.ml-0.1` - الهامش الأيسر 0.1rem
 - `.ml-0` - الهامش الأيسر 0rem
 - `.ml-auto` - الهامش الأيسر تلقائي
 
 #### Margin Right
 
-- `.first:mr-0` - الهامش الأيمن 0rem في البداية
+- `.first:mr-0` - الهامش الأيمن 0rem للعنصر الأول
 - `.hover:mr-100` - الهامش الأيمن 100% عند التحويم
 - `.hover:mr-75` - الهامش الأيمن 75% عند التحويم
 - `.hover:mr-50` - الهامش الأيمن 50% عند التحويم
@@ -2091,10 +2091,10 @@
 - `.hover:mr-0.1` - الهامش الأيمن 0.1rem عند التمرير
 - `.hover:mr-0` - الهامش الأيمن 0rem عند التمرير
 - `.hover:mr-auto` - الهامش الأيمن تلقائي عند التمرير
-- `.last:mr-0` - الهامش الأيمن 0rem في الماضي
-- `.mr-100` - الهامش الصحيح 100%
+- `.last:mr-0` - الهامش الأيمن 0rem للعنصر الأخير
+- `.mr-100` - الهامش الأيمن 100%
 - `.mr-75` - الهامش الأيمن 75%
-- `.mr-50` - الهامش الصحيح 50%
+- `.mr-50` - الهامش الأيمن 50%
 - `.mr-25` - الهامش الأيمن 25%
 - `.mr-5` - الهامش الأيمن 5rem
 - `.mr-4.5` - الهامش الأيمن 0rem
@@ -2120,7 +2120,7 @@
 - `.mr-0.5` - الهامش الأيمن 0rem
 - `.mr-0.4` - الهامش الأيمن 0rem
 - `.mr-0.3` - الهامش الأيمن 0rem
-- `.mr-0.2` - الهامش الأيمن 0.2ريم
+- `.mr-0.2` - الهامش الأيمن 0.2rem
 - `.mr-0.1` - الهامش الأيمن 0.1rem
 - `.mr-0` - الهامش الأيمن 0rem
 - `.mr-auto` - الهامش الأيمن تلقائي
@@ -2128,19 +2128,19 @@
 #### Margin Start
 
 - `.hover:ms-2` - الهامش يبدأ 2rem عند التمرير
-- `.hover:ms-1.5` - الهامش يبدأ 1.5ريم عند التحويم
+- `.hover:ms-1.5` - الهامش يبدأ 1.5rem عند التحويم
 - `.hover:ms-1` - الهامش يبدأ 1rem عند التمرير
-- `.hover:ms-0.5` - الهامش يبدأ 0.5ريم عند التمرير
+- `.hover:ms-0.5` - الهامش يبدأ 0.5rem عند التمرير
 - `.hover:ms-0` - الهامش يبدأ 0rem عند التمرير
-- `.ms-2` - هامش البداية 2ريم
-- `.ms-1.5` - الهامش يبدأ 1.5ريم
-- `.ms-1` - الهامش يبدأ 1ريم
-- `.ms-0.5` - الهامش يبدأ 0.5ريم
+- `.ms-2` - هامش البداية 2rem
+- `.ms-1.5` - الهامش يبدأ 1.5rem
+- `.ms-1` - الهامش يبدأ 1rem
+- `.ms-0.5` - الهامش يبدأ 0.5rem
 - `.ms-0` - الهامش يبدأ 0rem
 
 #### Margin Top
 
-- `.first:mt-0` - الهامش الأعلى 0rem في البداية
+- `.first:mt-0` - الهامش الأعلى 0rem للعنصر الأول
 - `.hover:mt-100` - أعلى هامش 100% عند التمرير
 - `.hover:mt-75` - أعلى الهامش 75% عند التمرير
 - `.hover:mt-50` - أعلى هامش 50% عند التمرير
@@ -2173,7 +2173,7 @@
 - `.hover:mt-0.1` - أعلى الهامش 0.1rem عند التمرير
 - `.hover:mt-0` - أعلى الهامش 0rem عند التمرير
 - `.hover:mt-auto` - أعلى الهامش تلقائيًا عند التمرير
-- `.last:mt-0` - الهامش الأعلى 0rem في الماضي
+- `.last:mt-0` - الهامش الأعلى 0rem للعنصر الأخير
 - `.mt-100` - الهامش الأعلى 100%
 - `.mt-75` - الهامش الأعلى 75%
 - `.mt-50` - الهامش الأعلى 50%
@@ -2345,7 +2345,7 @@
 
 #### Padding All
 
-- `.first:p-0` - الحشو الكل 0rem في البداية
+- `.first:p-0` - الحشو الكل 0rem للعنصر الأول
 - `.hover:p-5` - الحشو كل 5rem عند التحويم
 - `.hover:p-4.5` - الحشو كل 0rem عند التحويم
 - `.hover:p-4` - الحشو كل 4rem عند التحويم
@@ -2373,7 +2373,7 @@
 - `.hover:p-0.2` - الحشو كل 0.2rem عند التمرير
 - `.hover:p-0.1` - الحشو كل 0.1rem عند التمرير
 - `.hover:p-0` - الحشو كل 0rem عند التحويم
-- `.last:p-0` - الحشو جميع 0rem في الماضي
+- `.last:p-0` - الحشو الكل 0rem للعنصر الأخير
 - `.p-5` - الحشو جميع 5rem
 - `.p-4.5` - الحشو الكل 0rem
 - `.p-4` - الحشو جميع 4rem
@@ -2404,7 +2404,7 @@
 
 #### Padding Bottom
 
-- `.first:pb-0` - الحشو السفلي 0rem في البداية
+- `.first:pb-0` - الحشو السفلي 0rem للعنصر الأول
 - `.hover:pb-100` - الحشو السفلي 100% عند التحويم
 - `.hover:pb-75` - الحشو السفلي 75% عند التحويم
 - `.hover:pb-50` - الحشو السفلي 50% عند التحويم
@@ -2436,7 +2436,7 @@
 - `.hover:pb-0.2` - الحشو السفلي 0.2rem عند التحويم
 - `.hover:pb-0.1` - الحشو السفلي 0.1rem عند التحويم
 - `.hover:pb-0` - الحشو السفلي 0rem عند التحويم
-- `.last:pb-0` - الحشو أسفل 0rem في الماضي
+- `.last:pb-0` - الحشو السفلي 0rem للعنصر الأخير
 - `.pb-100` - الحشو السفلي 100%
 - `.pb-75` - الحشو السفلي 75%
 - `.pb-50` - الحشو السفلي 50%
@@ -2471,7 +2471,7 @@
 
 #### Padding Left
 
-- `.first:pl-0` - الحشو الأيسر 0rem في البداية
+- `.first:pl-0` - الحشو الأيسر 0rem للعنصر الأول
 - `.hover:pl-5` - الحشو الأيسر 5rem عند التحويم
 - `.hover:pl-4.5` - الحشو الأيسر 0rem عند التمرير
 - `.hover:pl-4` - الحشو الأيسر 4rem عند التحويم
@@ -2497,12 +2497,12 @@
 - `.hover:pl-0.4` - الحشو الأيسر 0rem عند التمرير
 - `.hover:pl-0.3` - الحشو الأيسر 0rem عند التمرير
 - `.hover:pl-0.2` - الحشو الأيسر 0.2rem عند التحويم
-- `.hover:pl-0.1` - الحشو الأيسر 0.1ريم عند التحويم
+- `.hover:pl-0.1` - الحشو الأيسر 0.1rem عند التحويم
 - `.hover:pl-0` - الحشو الأيسر 0rem عند التمرير
-- `.last:pl-0` - الحشو الأيسر 0rem في الماضي
-- `.pl-5` - الحشو الأيسر 5ريم
+- `.last:pl-0` - الحشو الأيسر 0rem للعنصر الأخير
+- `.pl-5` - الحشو الأيسر 5rem
 - `.pl-4.5` - الحشو الأيسر 0rem
-- `.pl-4` - الحشو الأيسر 4ريم
+- `.pl-4` - الحشو الأيسر 4rem
 - `.pl-3.5` - الحشو الأيسر 0rem
 - `.pl-3` - الحشو الأيسر 3rem
 - `.pl-2.5` - الحشو الأيسر 0rem
@@ -2530,16 +2530,16 @@
 
 #### Padding Right
 
-- `.first:pr-0` - الحشو الأيمن 0rem في البداية
+- `.first:pr-0` - الحشو الأيمن 0rem للعنصر الأول
 - `.hover:pr-100` - الحشو الأيمن 100% عند التحويم
-- `.hover:pr-75` - الحشو الصحيح 75% عند التحويم
-- `.hover:pr-50` - الحشو الصحيح 50% عند التحويم
-- `.hover:pr-25` - الحشو الصحيح 25% عند التحويم
-- `.hover:pr-5` - الحشو الصحيح 5rem عند التحويم
+- `.hover:pr-75` - الحشو الأيمن 75% عند التمرير
+- `.hover:pr-50` - الحشو الأيمن 50% عند التمرير
+- `.hover:pr-25` - الحشو الأيمن 25% عند التمرير
+- `.hover:pr-5` - الحشو الأيمن 5rem عند التمرير
 - `.hover:pr-4.5` - الحشو الأيمن 0rem عند التحويم
-- `.hover:pr-4` - الحشو الصحيح 4rem عند التحويم
+- `.hover:pr-4` - الحشو الأيمن 4rem عند التمرير
 - `.hover:pr-3.5` - الحشو الأيمن 0rem عند التحويم
-- `.hover:pr-3` - الحشو الصحيح 3rem عند التحويم
+- `.hover:pr-3` - الحشو الأيمن 3rem عند التمرير
 - `.hover:pr-2.5` - الحشو الأيمن 0rem عند التحويم
 - `.hover:pr-2` - الحشو الأيمن 2rem عند التحويم
 - `.hover:pr-1.9` - الحشو الأيمن 0rem عند التحويم
@@ -2551,7 +2551,7 @@
 - `.hover:pr-1.3` - الحشو الأيمن 0rem عند التحويم
 - `.hover:pr-1.2` - الحشو الأيمن 0rem عند التحويم
 - `.hover:pr-1.1` - الحشو الأيمن 0rem عند التحويم
-- `.hover:pr-1` - الحشو الصحيح 1rem عند التمرير
+- `.hover:pr-1` - الحشو الأيمن 1rem عند التمرير
 - `.hover:pr-0.9` - الحشو الأيمن 0rem عند التحويم
 - `.hover:pr-0.8` - الحشو الأيمن 0rem عند التحويم
 - `.hover:pr-0.7` - الحشو الأيمن 0rem عند التحويم
@@ -2559,21 +2559,21 @@
 - `.hover:pr-0.5` - الحشو الأيمن 0rem عند التحويم
 - `.hover:pr-0.4` - الحشو الأيمن 0rem عند التحويم
 - `.hover:pr-0.3` - الحشو الأيمن 0rem عند التحويم
-- `.hover:pr-0.2` - الحشو الأيمن 0.2ريم عند التحويم
-- `.hover:pr-0.1` - الحشو الأيمن 0.1ريم عند التحويم
+- `.hover:pr-0.2` - الحشو الأيمن 0.2rem عند التحويم
+- `.hover:pr-0.1` - الحشو الأيمن 0.1rem عند التحويم
 - `.hover:pr-0` - الحشو الأيمن 0rem عند التحويم
-- `.last:pr-0` - الحشو الأيمن 0rem في الماضي
-- `.pr-100` - الحشو الصحيح 100%
-- `.pr-75` - الحشو الصحيح 75%
-- `.pr-50` - الحشو الصحيح 50%
-- `.pr-25` - الحشو الصحيح 25%
-- `.pr-5` - الحشو الصحيح 5rem
+- `.last:pr-0` - الحشو الأيمن 0rem للعنصر الأخير
+- `.pr-100` - الحشو الأيمن 100%
+- `.pr-75` - الحشو الأيمن 75%
+- `.pr-50` - الحشو الأيمن 50%
+- `.pr-25` - الحشو الأيمن 25%
+- `.pr-5` - الحشو الأيمن 5rem
 - `.pr-4.5` - الحشو الأيمن 0rem
-- `.pr-4` - الحشو الصحيح 4rem
+- `.pr-4` - الحشو الأيمن 4rem
 - `.pr-3.5` - الحشو الأيمن 0rem
-- `.pr-3` - الحشو الصحيح 3rem
+- `.pr-3` - الحشو الأيمن 3rem
 - `.pr-2.5` - الحشو الأيمن 0rem
-- `.pr-2` - الحشو الصحيح 2rem
+- `.pr-2` - الحشو الأيمن 2rem
 - `.pr-1.9` - الحشو الأيمن 0rem
 - `.pr-1.8` - الحشو الأيمن 0rem
 - `.pr-1.7` - الحشو الأيمن 0rem
@@ -2583,7 +2583,7 @@
 - `.pr-1.3` - الحشو الأيمن 0rem
 - `.pr-1.2` - الحشو الأيمن 0rem
 - `.pr-1.1` - الحشو الأيمن 0rem
-- `.pr-1` - الحشو الصحيح 1rem
+- `.pr-1` - الحشو الأيمن 1rem
 - `.pr-0.9` - الحشو الأيمن 0rem
 - `.pr-0.8` - الحشو الأيمن 0rem
 - `.pr-0.7` - الحشو الأيمن 0rem
@@ -2597,7 +2597,7 @@
 
 #### Padding Top
 
-- `.first:pt-0` - الحشو أعلى 0rem في البداية
+- `.first:pt-0` - الحشو أعلى 0rem للعنصر الأول
 - `.hover:pt-100` - الحشو أعلى 100% عند التحويم
 - `.hover:pt-75` - الحشو أعلى 75% عند التحويم
 - `.hover:pt-50` - الحشو أعلى 50% عند التحويم
@@ -2629,7 +2629,7 @@
 - `.hover:pt-0.2` - الحشو العلوي 0.2rem عند التحويم
 - `.hover:pt-0.1` - الحشو العلوي 0.1rem عند التحويم
 - `.hover:pt-0` - الحشو أعلى 0rem عند التحويم
-- `.last:pt-0` - الحشو أعلى 0rem في الماضي
+- `.last:pt-0` - الحشو أعلى 0rem للعنصر الأخير
 - `.pt-100` - الحشو أعلى 100%
 - `.pt-75` - الحشو أعلى 75%
 - `.pt-50` - الحشو أعلى 50%
@@ -3676,483 +3676,483 @@
 
 ### Top
 
-- `.hover:top-100` - أعلى 100% عند التحويم
-- `.hover:top-75` - أعلى 75% عند التحويم
-- `.hover:top-50` - أعلى 50% عند التحويم
-- `.hover:top-25` - أعلى 25% عند التحويم
-- `.hover:top-5` - أعلى 5ريم عند التحويم
-- `.hover:top-4.5` - أعلى 0rem عند التمرير
-- `.hover:top-4` - أعلى 4ريم عند التحويم
-- `.hover:top-3.5` - أعلى 0rem عند التمرير
-- `.hover:top-3` - أعلى 3ريم عند التمرير
-- `.hover:top-2.5` - أعلى 0rem عند التمرير
-- `.hover:top-2` - أعلى 2rem عند التمرير
-- `.hover:top-1.9` - أعلى 0rem عند التمرير
-- `.hover:top-1.8` - أعلى 0rem عند التمرير
-- `.hover:top-1.7` - أعلى 0rem عند التمرير
-- `.hover:top-1.6` - أعلى 0rem عند التمرير
-- `.hover:top-1.5` - أعلى 0rem عند التمرير
-- `.hover:top-1.4` - أعلى 0rem عند التمرير
-- `.hover:top-1.3` - أعلى 0rem عند التمرير
-- `.hover:top-1.2` - أعلى 0rem عند التمرير
-- `.hover:top-1.1` - أعلى 0rem عند التمرير
-- `.hover:top-1` - أعلى 1rem عند التمرير
-- `.hover:top-0.9` - أعلى 0rem عند التمرير
-- `.hover:top-0.8` - أعلى 0rem عند التمرير
-- `.hover:top-0.7` - أعلى 0rem عند التمرير
-- `.hover:top-0.6` - أعلى 0rem عند التمرير
-- `.hover:top-0.5` - أعلى 0rem عند التمرير
-- `.hover:top-0.4` - أعلى 0rem عند التمرير
-- `.hover:top-0.3` - أعلى 0rem عند التمرير
-- `.hover:top-0.2` - أعلى 0.2rem عند التمرير
-- `.hover:top-0.1` - أعلى 0.1rem عند التمرير
-- `.hover:top-0` - أعلى 0rem عند التمرير
-- `.top-100` - أعلى 100%
-- `.top-75` - أعلى 75%
-- `.top-50` - أعلى 50%
-- `.top-25` - أعلى 25%
-- `.top-5` - أعلى 5ريم
-- `.top-4.5` - أعلى 0ريم
-- `.top-4` - أعلى 4ريم
-- `.top-3.5` - أعلى 0ريم
-- `.top-3` - أعلى 3ريم
-- `.top-2.5` - أعلى 0ريم
-- `.top-2` - أعلى 2ريم
-- `.top-1.9` - أعلى 0ريم
-- `.top-1.8` - أعلى 0ريم
-- `.top-1.7` - أعلى 0ريم
-- `.top-1.6` - أعلى 0ريم
-- `.top-1.5` - أعلى 0ريم
-- `.top-1.4` - أعلى 0ريم
-- `.top-1.3` - أعلى 0ريم
-- `.top-1.2` - أعلى 0ريم
-- `.top-1.1` - أعلى 0ريم
-- `.top-1` - أعلى 1ريم
-- `.top-0.9` - أعلى 0ريم
-- `.top-0.8` - أعلى 0ريم
-- `.top-0.7` - أعلى 0ريم
-- `.top-0.6` - أعلى 0ريم
-- `.top-0.5` - أعلى 0ريم
-- `.top-0.4` - أعلى 0ريم
-- `.top-0.3` - أعلى 0ريم
-- `.top-0.2` - أعلى 0.2ريم
-- `.top-0.1` - أعلى 0.1rem
-- `.top-0` - أعلى 0ريم
+- `.hover:top-100` - الموضع من الأعلى 100% عند التمرير
+- `.hover:top-75` - الموضع من الأعلى 75% عند التمرير
+- `.hover:top-50` - الموضع من الأعلى 50% عند التمرير
+- `.hover:top-25` - الموضع من الأعلى 25% عند التمرير
+- `.hover:top-5` - الموضع من الأعلى 5rem عند التمرير
+- `.hover:top-4.5` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-4` - الموضع من الأعلى 4rem عند التمرير
+- `.hover:top-3.5` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-3` - الموضع من الأعلى 3rem عند التمرير
+- `.hover:top-2.5` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-2` - الموضع من الأعلى 2rem عند التمرير
+- `.hover:top-1.9` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-1.8` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-1.7` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-1.6` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-1.5` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-1.4` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-1.3` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-1.2` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-1.1` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-1` - الموضع من الأعلى 1rem عند التمرير
+- `.hover:top-0.9` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-0.8` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-0.7` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-0.6` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-0.5` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-0.4` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-0.3` - الموضع من الأعلى 0rem عند التمرير
+- `.hover:top-0.2` - الموضع من الأعلى 0.2rem عند التمرير
+- `.hover:top-0.1` - الموضع من الأعلى 0.1rem عند التمرير
+- `.hover:top-0` - الموضع من الأعلى 0rem عند التمرير
+- `.top-100` - الموضع من الأعلى 100%
+- `.top-75` - الموضع من الأعلى 75%
+- `.top-50` - الموضع من الأعلى 50%
+- `.top-25` - الموضع من الأعلى 25%
+- `.top-5` - الموضع من الأعلى 5rem
+- `.top-4.5` - الموضع من الأعلى 0rem
+- `.top-4` - الموضع من الأعلى 4rem
+- `.top-3.5` - الموضع من الأعلى 0rem
+- `.top-3` - الموضع من الأعلى 3rem
+- `.top-2.5` - الموضع من الأعلى 0rem
+- `.top-2` - الموضع من الأعلى 2rem
+- `.top-1.9` - الموضع من الأعلى 0rem
+- `.top-1.8` - الموضع من الأعلى 0rem
+- `.top-1.7` - الموضع من الأعلى 0rem
+- `.top-1.6` - الموضع من الأعلى 0rem
+- `.top-1.5` - الموضع من الأعلى 0rem
+- `.top-1.4` - الموضع من الأعلى 0rem
+- `.top-1.3` - الموضع من الأعلى 0rem
+- `.top-1.2` - الموضع من الأعلى 0rem
+- `.top-1.1` - الموضع من الأعلى 0rem
+- `.top-1` - الموضع من الأعلى 1rem
+- `.top-0.9` - الموضع من الأعلى 0rem
+- `.top-0.8` - الموضع من الأعلى 0rem
+- `.top-0.7` - الموضع من الأعلى 0rem
+- `.top-0.6` - الموضع من الأعلى 0rem
+- `.top-0.5` - الموضع من الأعلى 0rem
+- `.top-0.4` - الموضع من الأعلى 0rem
+- `.top-0.3` - الموضع من الأعلى 0rem
+- `.top-0.2` - الموضع من الأعلى 0.2rem
+- `.top-0.1` - الموضع من الأعلى 0.1rem
+- `.top-0` - الموضع من الأعلى 0rem
 
 ##### Negative Top
 
-- `.-top-5` - أعلى 5rem سلبي
-- `.-top-4.5` - أعلى سلبي 0rem
-- `.-top-4` - أعلى سلبي 4rem
-- `.-top-3.5` - أعلى سلبي 0rem
-- `.-top-3` - أعلى سلبي 3rem
-- `.-top-2.5` - أعلى سلبي 0rem
-- `.-top-2` - أعلى سلبي 2rem
-- `.-top-1.9` - أعلى سلبي 0rem
-- `.-top-1.8` - أعلى سلبي 0rem
-- `.-top-1.7` - أعلى سلبي 0rem
-- `.-top-1.6` - أعلى سلبي 0rem
-- `.-top-1.5` - أعلى سلبي 0rem
-- `.-top-1.4` - أعلى سلبي 0rem
-- `.-top-1.3` - أعلى سلبي 0rem
-- `.-top-1.2` - أعلى سلبي 0rem
-- `.-top-1.1` - أعلى سلبي 0rem
-- `.-top-1` - أعلى سلبي 1rem
-- `.-top-0.9` - أعلى سلبي 0rem
-- `.-top-0.8` - أعلى سلبي 0rem
-- `.-top-0.7` - أعلى سلبي 0rem
-- `.-top-0.6` - أعلى سلبي 0rem
-- `.-top-0.5` - أعلى سلبي 0rem
-- `.-top-0.4` - أعلى سلبي 0rem
-- `.-top-0.3` - أعلى سلبي 0.3rem
-- `.-top-0.2` - أعلى سلبي 0.2rem
-- `.-top-0.1` - أعلى سلبي 0.1rem
-- `.hover:-top-5` - أعلى 5rem سلبي عند التمرير
-- `.hover:-top-4.5` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-4` - أعلى 4rem سلبي عند التمرير
-- `.hover:-top-3.5` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-3` - أعلى 3rem سلبي عند التمرير
-- `.hover:-top-2.5` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-2` - أعلى 2rem سلبي عند التمرير
-- `.hover:-top-1.9` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-1.8` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-1.7` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-1.6` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-1.5` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-1.4` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-1.3` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-1.2` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-1.1` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-1` - أعلى 1rem سلبي عند التمرير
-- `.hover:-top-0.9` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-0.8` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-0.7` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-0.6` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-0.5` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-0.4` - أعلى سلبي 0rem عند التمرير
-- `.hover:-top-0.3` - أعلى سلبي 0.3rem عند التمرير
-- `.hover:-top-0.2` - أعلى سلبي 0.2rem عند التمرير
-- `.hover:-top-0.1` - أعلى سلبي 0.1rem عند التمرير
+- `.-top-5` - الموضع السلبي من الأعلى 5rem
+- `.-top-4.5` - الموضع السلبي من الأعلى 0rem
+- `.-top-4` - الموضع السلبي من الأعلى 4rem
+- `.-top-3.5` - الموضع السلبي من الأعلى 0rem
+- `.-top-3` - الموضع السلبي من الأعلى 3rem
+- `.-top-2.5` - الموضع السلبي من الأعلى 0rem
+- `.-top-2` - الموضع السلبي من الأعلى 2rem
+- `.-top-1.9` - الموضع السلبي من الأعلى 0rem
+- `.-top-1.8` - الموضع السلبي من الأعلى 0rem
+- `.-top-1.7` - الموضع السلبي من الأعلى 0rem
+- `.-top-1.6` - الموضع السلبي من الأعلى 0rem
+- `.-top-1.5` - الموضع السلبي من الأعلى 0rem
+- `.-top-1.4` - الموضع السلبي من الأعلى 0rem
+- `.-top-1.3` - الموضع السلبي من الأعلى 0rem
+- `.-top-1.2` - الموضع السلبي من الأعلى 0rem
+- `.-top-1.1` - الموضع السلبي من الأعلى 0rem
+- `.-top-1` - الموضع السلبي من الأعلى 1rem
+- `.-top-0.9` - الموضع السلبي من الأعلى 0rem
+- `.-top-0.8` - الموضع السلبي من الأعلى 0rem
+- `.-top-0.7` - الموضع السلبي من الأعلى 0rem
+- `.-top-0.6` - الموضع السلبي من الأعلى 0rem
+- `.-top-0.5` - الموضع السلبي من الأعلى 0rem
+- `.-top-0.4` - الموضع السلبي من الأعلى 0rem
+- `.-top-0.3` - الموضع السلبي من الأعلى 0.3rem
+- `.-top-0.2` - الموضع السلبي من الأعلى 0.2rem
+- `.-top-0.1` - الموضع السلبي من الأعلى 0.1rem
+- `.hover:-top-5` - الموضع السلبي من الأعلى 5rem عند التمرير
+- `.hover:-top-4.5` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-4` - الموضع السلبي من الأعلى 4rem عند التمرير
+- `.hover:-top-3.5` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-3` - الموضع السلبي من الأعلى 3rem عند التمرير
+- `.hover:-top-2.5` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-2` - الموضع السلبي من الأعلى 2rem عند التمرير
+- `.hover:-top-1.9` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-1.8` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-1.7` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-1.6` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-1.5` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-1.4` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-1.3` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-1.2` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-1.1` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-1` - الموضع السلبي من الأعلى 1rem عند التمرير
+- `.hover:-top-0.9` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-0.8` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-0.7` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-0.6` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-0.5` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-0.4` - الموضع السلبي من الأعلى 0rem عند التمرير
+- `.hover:-top-0.3` - الموضع السلبي من الأعلى 0.3rem عند التمرير
+- `.hover:-top-0.2` - الموضع السلبي من الأعلى 0.2rem عند التمرير
+- `.hover:-top-0.1` - الموضع السلبي من الأعلى 0.1rem عند التمرير
 
 ### Right
 
-- `.hover:right-100` - حق 100% عند التحويم
-- `.hover:right-75` - 75% صحيحًا عند التحويم
-- `.hover:right-50` - حق 50% عند التحويم
-- `.hover:right-25` - الحق 25% عند التحويم
-- `.hover:right-5` - 5rem الصحيح عند التحويم
-- `.hover:right-4.5` - حق 0rem عند التحويم
-- `.hover:right-4` - حق 4rem عند التحويم
-- `.hover:right-3.5` - حق 0rem عند التحويم
-- `.hover:right-3` - حق 3rem عند التحويم
-- `.hover:right-2.5` - حق 0rem عند التحويم
-- `.hover:right-2` - حق 2rem عند التحويم
-- `.hover:right-1.9` - حق 0rem عند التحويم
-- `.hover:right-1.8` - حق 0rem عند التحويم
-- `.hover:right-1.7` - حق 0rem عند التحويم
-- `.hover:right-1.6` - حق 0rem عند التحويم
-- `.hover:right-1.5` - حق 0rem عند التحويم
-- `.hover:right-1.4` - حق 0rem عند التحويم
-- `.hover:right-1.3` - حق 0rem عند التحويم
-- `.hover:right-1.2` - حق 0rem عند التحويم
-- `.hover:right-1.1` - حق 0rem عند التحويم
-- `.hover:right-1` - 1rem الصحيح عند التمرير
-- `.hover:right-0.9` - حق 0rem عند التحويم
-- `.hover:right-0.8` - حق 0rem عند التحويم
-- `.hover:right-0.7` - حق 0rem عند التحويم
-- `.hover:right-0.6` - حق 0rem عند التحويم
-- `.hover:right-0.5` - حق 0rem عند التحويم
-- `.hover:right-0.4` - حق 0rem عند التحويم
-- `.hover:right-0.3` - حق 0rem عند التحويم
-- `.hover:right-0.2` - الحق 0.2rem عند التحويم
-- `.hover:right-0.1` - حق 0.1rem عند التحويم
-- `.hover:right-0` - حق 0rem عند التحويم
-- `.right-100` - الحق 100%
-- `.right-75` - الحق 75%
-- `.right-50` - حق 50%
-- `.right-25` - حق 25%
-- `.right-5` - حق 5ريم
-- `.right-4.5` - صحيح 0ريم
-- `.right-4` - حق 4ريم
-- `.right-3.5` - صحيح 0ريم
-- `.right-3` - حق 3ريم
-- `.right-2.5` - صحيح 0ريم
-- `.right-2` - حق 2ريم
-- `.right-1.9` - صحيح 0ريم
-- `.right-1.8` - صحيح 0ريم
-- `.right-1.7` - صحيح 0ريم
-- `.right-1.6` - صحيح 0ريم
-- `.right-1.5` - صحيح 0ريم
-- `.right-1.4` - صحيح 0ريم
-- `.right-1.3` - صحيح 0ريم
-- `.right-1.2` - صحيح 0ريم
-- `.right-1.1` - صحيح 0ريم
-- `.right-1` - حق 1ريم
-- `.right-0.9` - صحيح 0ريم
-- `.right-0.8` - صحيح 0ريم
-- `.right-0.7` - صحيح 0ريم
-- `.right-0.6` - صحيح 0ريم
-- `.right-0.5` - صحيح 0ريم
-- `.right-0.4` - صحيح 0ريم
-- `.right-0.3` - صحيح 0ريم
-- `.right-0.2` - حق 0.2ريم
-- `.right-0.1` - الحق 0.1ريم
-- `.right-0` - صحيح 0ريم
+- `.hover:right-100` - الموضع من اليمين 100% عند التمرير
+- `.hover:right-75` - الموضع من اليمين 75% عند التمرير
+- `.hover:right-50` - الموضع من اليمين 50% عند التمرير
+- `.hover:right-25` - الموضع من اليمين 25% عند التمرير
+- `.hover:right-5` - الموضع من اليمين 5rem عند التمرير
+- `.hover:right-4.5` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-4` - الموضع من اليمين 4rem عند التمرير
+- `.hover:right-3.5` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-3` - الموضع من اليمين 3rem عند التمرير
+- `.hover:right-2.5` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-2` - الموضع من اليمين 2rem عند التمرير
+- `.hover:right-1.9` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-1.8` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-1.7` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-1.6` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-1.5` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-1.4` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-1.3` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-1.2` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-1.1` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-1` - الموضع من اليمين 1rem عند التمرير
+- `.hover:right-0.9` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-0.8` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-0.7` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-0.6` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-0.5` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-0.4` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-0.3` - الموضع من اليمين 0rem عند التمرير
+- `.hover:right-0.2` - الموضع من اليمين 0.2rem عند التمرير
+- `.hover:right-0.1` - الموضع من اليمين 0.1rem عند التمرير
+- `.hover:right-0` - الموضع من اليمين 0rem عند التمرير
+- `.right-100` - الموضع من اليمين 100%
+- `.right-75` - الموضع من اليمين 75%
+- `.right-50` - الموضع من اليمين 50%
+- `.right-25` - الموضع من اليمين 25%
+- `.right-5` - الموضع من اليمين 5rem
+- `.right-4.5` - الموضع من اليمين 0rem
+- `.right-4` - الموضع من اليمين 4rem
+- `.right-3.5` - الموضع من اليمين 0rem
+- `.right-3` - الموضع من اليمين 3rem
+- `.right-2.5` - الموضع من اليمين 0rem
+- `.right-2` - الموضع من اليمين 2rem
+- `.right-1.9` - الموضع من اليمين 0rem
+- `.right-1.8` - الموضع من اليمين 0rem
+- `.right-1.7` - الموضع من اليمين 0rem
+- `.right-1.6` - الموضع من اليمين 0rem
+- `.right-1.5` - الموضع من اليمين 0rem
+- `.right-1.4` - الموضع من اليمين 0rem
+- `.right-1.3` - الموضع من اليمين 0rem
+- `.right-1.2` - الموضع من اليمين 0rem
+- `.right-1.1` - الموضع من اليمين 0rem
+- `.right-1` - الموضع من اليمين 1rem
+- `.right-0.9` - الموضع من اليمين 0rem
+- `.right-0.8` - الموضع من اليمين 0rem
+- `.right-0.7` - الموضع من اليمين 0rem
+- `.right-0.6` - الموضع من اليمين 0rem
+- `.right-0.5` - الموضع من اليمين 0rem
+- `.right-0.4` - الموضع من اليمين 0rem
+- `.right-0.3` - الموضع من اليمين 0rem
+- `.right-0.2` - الموضع من اليمين 0.2rem
+- `.right-0.1` - الموضع من اليمين 0.1rem
+- `.right-0` - الموضع من اليمين 0rem
 
 ##### Negative Right
 
-- `.-right-5` - الحق السلبي 5rem
-- `.-right-4.5` - الحق السلبي 0rem
-- `.-right-4` - الحق السلبي 4rem
-- `.-right-3.5` - الحق السلبي 0rem
-- `.-right-3` - الحق السلبي 3rem
-- `.-right-2.5` - الحق السلبي 0rem
-- `.-right-2` - الحق السلبي 2rem
-- `.-right-1.9` - الحق السلبي 0rem
-- `.-right-1.8` - الحق السلبي 0rem
-- `.-right-1.7` - الحق السلبي 0rem
-- `.-right-1.6` - الحق السلبي 0rem
-- `.-right-1.5` - الحق السلبي 0rem
-- `.-right-1.4` - الحق السلبي 0rem
-- `.-right-1.3` - الحق السلبي 0rem
-- `.-right-1.2` - الحق السلبي 0rem
-- `.-right-1.1` - الحق السلبي 0rem
-- `.-right-1` - الحق السلبي 1rem
-- `.-right-0.9` - الحق السلبي 0rem
-- `.-right-0.8` - الحق السلبي 0rem
-- `.-right-0.7` - الحق السلبي 0rem
-- `.-right-0.6` - الحق السلبي 0rem
-- `.-right-0.5` - الحق السلبي 0rem
-- `.-right-0.4` - الحق السلبي 0rem
-- `.-right-0.3` - الحق السلبي 0.3rem
-- `.-right-0.2` - الحق السلبي 0.2rem
-- `.-right-0.1` - الحق السلبي 0.1rem
-- `.hover:-right-5` - 5rem الأيمن السلبي عند التحويم
-- `.hover:-right-4.5` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-4` - الحق السلبي 4rem عند التحويم
-- `.hover:-right-3.5` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-3` - 3rem صحيح سلبي عند التمرير
-- `.hover:-right-2.5` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-2` - حق سلبي 2rem عند التحويم
-- `.hover:-right-1.9` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-1.8` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-1.7` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-1.6` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-1.5` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-1.4` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-1.3` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-1.2` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-1.1` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-1` - 1rem صحيح سلبي عند التمرير
-- `.hover:-right-0.9` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-0.8` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-0.7` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-0.6` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-0.5` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-0.4` - سلبي صحيح 0rem عند التحويم
-- `.hover:-right-0.3` - الحق السلبي 0.3rem عند التحويم
-- `.hover:-right-0.2` - الحق السلبي 0.2rem عند التحويم
-- `.hover:-right-0.1` - الحق السلبي 0.1rem عند التحويم
+- `.-right-5` - الموضع السلبي من اليمين 5rem
+- `.-right-4.5` - الموضع السلبي من اليمين 0rem
+- `.-right-4` - الموضع السلبي من اليمين 4rem
+- `.-right-3.5` - الموضع السلبي من اليمين 0rem
+- `.-right-3` - الموضع السلبي من اليمين 3rem
+- `.-right-2.5` - الموضع السلبي من اليمين 0rem
+- `.-right-2` - الموضع السلبي من اليمين 2rem
+- `.-right-1.9` - الموضع السلبي من اليمين 0rem
+- `.-right-1.8` - الموضع السلبي من اليمين 0rem
+- `.-right-1.7` - الموضع السلبي من اليمين 0rem
+- `.-right-1.6` - الموضع السلبي من اليمين 0rem
+- `.-right-1.5` - الموضع السلبي من اليمين 0rem
+- `.-right-1.4` - الموضع السلبي من اليمين 0rem
+- `.-right-1.3` - الموضع السلبي من اليمين 0rem
+- `.-right-1.2` - الموضع السلبي من اليمين 0rem
+- `.-right-1.1` - الموضع السلبي من اليمين 0rem
+- `.-right-1` - الموضع السلبي من اليمين 1rem
+- `.-right-0.9` - الموضع السلبي من اليمين 0rem
+- `.-right-0.8` - الموضع السلبي من اليمين 0rem
+- `.-right-0.7` - الموضع السلبي من اليمين 0rem
+- `.-right-0.6` - الموضع السلبي من اليمين 0rem
+- `.-right-0.5` - الموضع السلبي من اليمين 0rem
+- `.-right-0.4` - الموضع السلبي من اليمين 0rem
+- `.-right-0.3` - الموضع السلبي من اليمين 0.3rem
+- `.-right-0.2` - الموضع السلبي من اليمين 0.2rem
+- `.-right-0.1` - الموضع السلبي من اليمين 0.1rem
+- `.hover:-right-5` - الموضع السلبي من اليمين 5rem عند التمرير
+- `.hover:-right-4.5` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-4` - الموضع السلبي من اليمين 4rem عند التمرير
+- `.hover:-right-3.5` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-3` - الموضع السلبي من اليمين 3rem عند التمرير
+- `.hover:-right-2.5` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-2` - الموضع السلبي من اليمين 2rem عند التمرير
+- `.hover:-right-1.9` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-1.8` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-1.7` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-1.6` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-1.5` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-1.4` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-1.3` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-1.2` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-1.1` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-1` - الموضع السلبي من اليمين 1rem عند التمرير
+- `.hover:-right-0.9` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-0.8` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-0.7` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-0.6` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-0.5` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-0.4` - الموضع السلبي من اليمين 0rem عند التمرير
+- `.hover:-right-0.3` - الموضع السلبي من اليمين 0.3rem عند التمرير
+- `.hover:-right-0.2` - الموضع السلبي من اليمين 0.2rem عند التمرير
+- `.hover:-right-0.1` - الموضع السلبي من اليمين 0.1rem عند التمرير
 
 ### Bottom
 
-- `.bottom-100` - أسفل 100%
-- `.bottom-75` - أسفل 75%
-- `.bottom-50` - أسفل 50%
-- `.bottom-25` - أسفل 25%
-- `.bottom-5` - أسفل 5ريم
-- `.bottom-4.5` - أسفل 0ريم
-- `.bottom-4` - أسفل 4ريم
-- `.bottom-3.5` - أسفل 0ريم
-- `.bottom-3` - أسفل 3ريم
-- `.bottom-2.5` - أسفل 0ريم
-- `.bottom-2` - أسفل 2ريم
-- `.bottom-1.9` - أسفل 0ريم
-- `.bottom-1.8` - أسفل 0ريم
-- `.bottom-1.7` - أسفل 0ريم
-- `.bottom-1.6` - أسفل 0ريم
-- `.bottom-1.5` - أسفل 0ريم
-- `.bottom-1.4` - أسفل 0ريم
-- `.bottom-1.3` - أسفل 0ريم
-- `.bottom-1.2` - أسفل 0ريم
-- `.bottom-1.1` - أسفل 0ريم
-- `.bottom-1` - أسفل 1ريم
-- `.bottom-0.9` - أسفل 0ريم
-- `.bottom-0.8` - أسفل 0ريم
-- `.bottom-0.7` - أسفل 0ريم
-- `.bottom-0.6` - أسفل 0ريم
-- `.bottom-0.5` - أسفل 0ريم
-- `.bottom-0.4` - أسفل 0ريم
-- `.bottom-0.3` - أسفل 0ريم
-- `.bottom-0.2` - أسفل 0.2rem
-- `.bottom-0.1` - أسفل 0.1rem
-- `.bottom-0` - أسفل 0ريم
-- `.hover:bottom-100` - أسفل 100% عند التحويم
-- `.hover:bottom-75` - أسفل 75% عند التحويم
-- `.hover:bottom-50` - أسفل 50% عند التحويم
-- `.hover:bottom-25` - أسفل 25% عند التحويم
-- `.hover:bottom-5` - أسفل 5rem عند التمرير
-- `.hover:bottom-4.5` - أسفل 0rem عند التمرير
-- `.hover:bottom-4` - أسفل 4rem عند التمرير
-- `.hover:bottom-3.5` - أسفل 0rem عند التمرير
-- `.hover:bottom-3` - أسفل 3rem عند التمرير
-- `.hover:bottom-2.5` - أسفل 0rem عند التمرير
-- `.hover:bottom-2` - أسفل 2rem عند التمرير
-- `.hover:bottom-1.9` - أسفل 0rem عند التمرير
-- `.hover:bottom-1.8` - أسفل 0rem عند التمرير
-- `.hover:bottom-1.7` - أسفل 0rem عند التمرير
-- `.hover:bottom-1.6` - أسفل 0rem عند التمرير
-- `.hover:bottom-1.5` - أسفل 0rem عند التمرير
-- `.hover:bottom-1.4` - أسفل 0rem عند التمرير
-- `.hover:bottom-1.3` - أسفل 0rem عند التمرير
-- `.hover:bottom-1.2` - أسفل 0rem عند التمرير
-- `.hover:bottom-1.1` - أسفل 0rem عند التمرير
-- `.hover:bottom-1` - أسفل 1rem عند التمرير
-- `.hover:bottom-0.9` - أسفل 0rem عند التمرير
-- `.hover:bottom-0.8` - أسفل 0rem عند التمرير
-- `.hover:bottom-0.7` - أسفل 0rem عند التمرير
-- `.hover:bottom-0.6` - أسفل 0rem عند التمرير
-- `.hover:bottom-0.5` - أسفل 0rem عند التمرير
-- `.hover:bottom-0.4` - أسفل 0rem عند التمرير
-- `.hover:bottom-0.3` - أسفل 0rem عند التمرير
-- `.hover:bottom-0.2` - أسفل 0.2rem عند التمرير
-- `.hover:bottom-0.1` - أسفل 0.1rem عند التمرير
-- `.hover:bottom-0` - أسفل 0rem عند التمرير
+- `.bottom-100` - الموضع من الأسفل 100%
+- `.bottom-75` - الموضع من الأسفل 75%
+- `.bottom-50` - الموضع من الأسفل 50%
+- `.bottom-25` - الموضع من الأسفل 25%
+- `.bottom-5` - الموضع من الأسفل 5rem
+- `.bottom-4.5` - الموضع من الأسفل 0rem
+- `.bottom-4` - الموضع من الأسفل 4rem
+- `.bottom-3.5` - الموضع من الأسفل 0rem
+- `.bottom-3` - الموضع من الأسفل 3rem
+- `.bottom-2.5` - الموضع من الأسفل 0rem
+- `.bottom-2` - الموضع من الأسفل 2rem
+- `.bottom-1.9` - الموضع من الأسفل 0rem
+- `.bottom-1.8` - الموضع من الأسفل 0rem
+- `.bottom-1.7` - الموضع من الأسفل 0rem
+- `.bottom-1.6` - الموضع من الأسفل 0rem
+- `.bottom-1.5` - الموضع من الأسفل 0rem
+- `.bottom-1.4` - الموضع من الأسفل 0rem
+- `.bottom-1.3` - الموضع من الأسفل 0rem
+- `.bottom-1.2` - الموضع من الأسفل 0rem
+- `.bottom-1.1` - الموضع من الأسفل 0rem
+- `.bottom-1` - الموضع من الأسفل 1rem
+- `.bottom-0.9` - الموضع من الأسفل 0rem
+- `.bottom-0.8` - الموضع من الأسفل 0rem
+- `.bottom-0.7` - الموضع من الأسفل 0rem
+- `.bottom-0.6` - الموضع من الأسفل 0rem
+- `.bottom-0.5` - الموضع من الأسفل 0rem
+- `.bottom-0.4` - الموضع من الأسفل 0rem
+- `.bottom-0.3` - الموضع من الأسفل 0rem
+- `.bottom-0.2` - الموضع من الأسفل 0.2rem
+- `.bottom-0.1` - الموضع من الأسفل 0.1rem
+- `.bottom-0` - الموضع من الأسفل 0rem
+- `.hover:bottom-100` - الموضع من الأسفل 100% عند التمرير
+- `.hover:bottom-75` - الموضع من الأسفل 75% عند التمرير
+- `.hover:bottom-50` - الموضع من الأسفل 50% عند التمرير
+- `.hover:bottom-25` - الموضع من الأسفل 25% عند التمرير
+- `.hover:bottom-5` - الموضع من الأسفل 5rem عند التمرير
+- `.hover:bottom-4.5` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-4` - الموضع من الأسفل 4rem عند التمرير
+- `.hover:bottom-3.5` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-3` - الموضع من الأسفل 3rem عند التمرير
+- `.hover:bottom-2.5` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-2` - الموضع من الأسفل 2rem عند التمرير
+- `.hover:bottom-1.9` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-1.8` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-1.7` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-1.6` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-1.5` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-1.4` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-1.3` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-1.2` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-1.1` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-1` - الموضع من الأسفل 1rem عند التمرير
+- `.hover:bottom-0.9` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-0.8` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-0.7` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-0.6` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-0.5` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-0.4` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-0.3` - الموضع من الأسفل 0rem عند التمرير
+- `.hover:bottom-0.2` - الموضع من الأسفل 0.2rem عند التمرير
+- `.hover:bottom-0.1` - الموضع من الأسفل 0.1rem عند التمرير
+- `.hover:bottom-0` - الموضع من الأسفل 0rem عند التمرير
 
 ##### Negative Bottom
 
-- `.-bottom-5` - القاع السلبي 5rem
-- `.-bottom-4.5` - القاع السلبي 0rem
-- `.-bottom-4` - القاع السلبي 4rem
-- `.-bottom-3.5` - القاع السلبي 0rem
-- `.-bottom-3` - القاع السلبي 3rem
-- `.-bottom-2.5` - القاع السلبي 0rem
-- `.-bottom-2` - القاع السلبي 2rem
-- `.-bottom-1.9` - القاع السلبي 0rem
-- `.-bottom-1.8` - القاع السلبي 0rem
-- `.-bottom-1.7` - القاع السلبي 0rem
-- `.-bottom-1.6` - القاع السلبي 0rem
-- `.-bottom-1.5` - القاع السلبي 0rem
-- `.-bottom-1.4` - القاع السلبي 0rem
-- `.-bottom-1.3` - القاع السلبي 0rem
-- `.-bottom-1.2` - القاع السلبي 0rem
-- `.-bottom-1.1` - القاع السلبي 0rem
-- `.-bottom-1` - القاع السلبي 1rem
-- `.-bottom-0.9` - القاع السلبي 0rem
-- `.-bottom-0.8` - القاع السلبي 0rem
-- `.-bottom-0.7` - القاع السلبي 0rem
-- `.-bottom-0.6` - القاع السلبي 0rem
-- `.-bottom-0.5` - القاع السلبي 0rem
-- `.-bottom-0.4` - القاع السلبي 0rem
-- `.-bottom-0.3` - القاع السلبي 0.3rem
-- `.-bottom-0.2` - القاع السلبي 0.2rem
-- `.-bottom-0.1` - القاع السلبي 0.1rem
-- `.hover:-bottom-5` - 5rem السفلي السلبي عند التمرير
-- `.hover:-bottom-4.5` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-4` - سلبي أسفل 4rem عند التمرير
-- `.hover:-bottom-3.5` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-3` - سلبي أسفل 3rem عند التمرير
-- `.hover:-bottom-2.5` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-2` - سلبي أسفل 2rem عند التمرير
-- `.hover:-bottom-1.9` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-1.8` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-1.7` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-1.6` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-1.5` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-1.4` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-1.3` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-1.2` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-1.1` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-1` - 1rem أسفل سلبي عند التمرير
-- `.hover:-bottom-0.9` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-0.8` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-0.7` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-0.6` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-0.5` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-0.4` - سلبي أسفل 0rem عند التمرير
-- `.hover:-bottom-0.3` - القاع السلبي 0.3rem عند التحويم
-- `.hover:-bottom-0.2` - القاع السلبي 0.2rem عند التمرير
-- `.hover:-bottom-0.1` - القاع السلبي 0.1rem عند التمرير
+- `.-bottom-5` - الموضع السلبي من الأسفل 5rem
+- `.-bottom-4.5` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-4` - الموضع السلبي من الأسفل 4rem
+- `.-bottom-3.5` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-3` - الموضع السلبي من الأسفل 3rem
+- `.-bottom-2.5` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-2` - الموضع السلبي من الأسفل 2rem
+- `.-bottom-1.9` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-1.8` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-1.7` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-1.6` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-1.5` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-1.4` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-1.3` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-1.2` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-1.1` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-1` - الموضع السلبي من الأسفل 1rem
+- `.-bottom-0.9` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-0.8` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-0.7` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-0.6` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-0.5` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-0.4` - الموضع السلبي من الأسفل 0rem
+- `.-bottom-0.3` - الموضع السلبي من الأسفل 0.3rem
+- `.-bottom-0.2` - الموضع السلبي من الأسفل 0.2rem
+- `.-bottom-0.1` - الموضع السلبي من الأسفل 0.1rem
+- `.hover:-bottom-5` - الموضع السلبي من الأسفل 5rem عند التمرير
+- `.hover:-bottom-4.5` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-4` - الموضع السلبي من الأسفل 4rem عند التمرير
+- `.hover:-bottom-3.5` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-3` - الموضع السلبي من الأسفل 3rem عند التمرير
+- `.hover:-bottom-2.5` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-2` - الموضع السلبي من الأسفل 2rem عند التمرير
+- `.hover:-bottom-1.9` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-1.8` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-1.7` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-1.6` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-1.5` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-1.4` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-1.3` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-1.2` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-1.1` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-1` - الموضع السلبي من الأسفل 1rem عند التمرير
+- `.hover:-bottom-0.9` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-0.8` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-0.7` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-0.6` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-0.5` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-0.4` - الموضع السلبي من الأسفل 0rem عند التمرير
+- `.hover:-bottom-0.3` - الموضع السلبي من الأسفل 0.3rem عند التمرير
+- `.hover:-bottom-0.2` - الموضع السلبي من الأسفل 0.2rem عند التمرير
+- `.hover:-bottom-0.1` - الموضع السلبي من الأسفل 0.1rem عند التمرير
 
 ### Left
 
-- `.hover:left-100` - ترك 100% عند التحويم
-- `.hover:left-75` - ترك 75% عند التحويم
-- `.hover:left-50` - ترك 50% عند التحويم
-- `.hover:left-25` - ترك 25% عند التحويم
-- `.hover:left-5` - اليسار 5ريم على التحويم
-- `.hover:left-4.5` - اليسار 0rem عند التمرير
-- `.hover:left-4` - اليسار 4ريم على التحويم
-- `.hover:left-3.5` - اليسار 0rem عند التمرير
-- `.hover:left-3` - اليسار 3rem على التحويم
-- `.hover:left-2.5` - اليسار 0rem عند التمرير
-- `.hover:left-2` - اليسار 2ريم على التحويم
-- `.hover:left-1.9` - اليسار 0rem عند التمرير
-- `.hover:left-1.8` - اليسار 0rem عند التمرير
-- `.hover:left-1.7` - اليسار 0rem عند التمرير
-- `.hover:left-1.6` - اليسار 0rem عند التمرير
-- `.hover:left-1.5` - اليسار 0rem عند التمرير
-- `.hover:left-1.4` - اليسار 0rem عند التمرير
-- `.hover:left-1.3` - اليسار 0rem عند التمرير
-- `.hover:left-1.2` - اليسار 0rem عند التمرير
-- `.hover:left-1.1` - اليسار 0rem عند التمرير
-- `.hover:left-1` - ترك 1rem عند التمرير
-- `.hover:left-0.9` - اليسار 0rem عند التمرير
-- `.hover:left-0.8` - اليسار 0rem عند التمرير
-- `.hover:left-0.7` - اليسار 0rem عند التمرير
-- `.hover:left-0.6` - اليسار 0rem عند التمرير
-- `.hover:left-0.5` - اليسار 0rem عند التمرير
-- `.hover:left-0.4` - اليسار 0rem عند التمرير
-- `.hover:left-0.3` - اليسار 0rem عند التمرير
-- `.hover:left-0.2` - ترك 0.2ريم عند التحويم
-- `.hover:left-0.1` - اليسار 0.1rem عند التمرير
-- `.hover:left-0` - اليسار 0rem عند التمرير
-- `.left-100` - اليسار 100%
-- `.left-75` - اليسار 75%
-- `.left-50` - اليسار 50%
-- `.left-25` - اليسار 25%
-- `.left-5` - اليسار 5ريم
-- `.left-4.5` - اليسار 0ريم
-- `.left-4` - اليسار 4ريم
-- `.left-3.5` - اليسار 0ريم
-- `.left-3` - اليسار 3ريم
-- `.left-2.5` - اليسار 0ريم
-- `.left-2` - اليسار 2ريم
-- `.left-1.9` - اليسار 0ريم
-- `.left-1.8` - اليسار 0ريم
-- `.left-1.7` - اليسار 0ريم
-- `.left-1.6` - اليسار 0ريم
-- `.left-1.5` - اليسار 0ريم
-- `.left-1.4` - اليسار 0ريم
-- `.left-1.3` - اليسار 0ريم
-- `.left-1.2` - اليسار 0ريم
-- `.left-1.1` - اليسار 0ريم
-- `.left-1` - اليسار 1ريم
-- `.left-0.9` - اليسار 0ريم
-- `.left-0.8` - اليسار 0ريم
-- `.left-0.7` - اليسار 0ريم
-- `.left-0.6` - اليسار 0ريم
-- `.left-0.5` - اليسار 0ريم
-- `.left-0.4` - اليسار 0ريم
-- `.left-0.3` - اليسار 0ريم
-- `.left-0.2` - اليسار 0.2ريم
-- `.left-0.1` - اليسار 0.1ريم
-- `.left-0` - اليسار 0ريم
+- `.hover:left-100` - الموضع من اليسار 100% عند التمرير
+- `.hover:left-75` - الموضع من اليسار 75% عند التمرير
+- `.hover:left-50` - الموضع من اليسار 50% عند التمرير
+- `.hover:left-25` - الموضع من اليسار 25% عند التمرير
+- `.hover:left-5` - الموضع من اليسار 5rem عند التمرير
+- `.hover:left-4.5` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-4` - الموضع من اليسار 4rem عند التمرير
+- `.hover:left-3.5` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-3` - الموضع من اليسار 3rem عند التمرير
+- `.hover:left-2.5` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-2` - الموضع من اليسار 2rem عند التمرير
+- `.hover:left-1.9` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-1.8` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-1.7` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-1.6` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-1.5` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-1.4` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-1.3` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-1.2` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-1.1` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-1` - الموضع من اليسار 1rem عند التمرير
+- `.hover:left-0.9` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-0.8` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-0.7` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-0.6` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-0.5` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-0.4` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-0.3` - الموضع من اليسار 0rem عند التمرير
+- `.hover:left-0.2` - الموضع من اليسار 0.2rem عند التمرير
+- `.hover:left-0.1` - الموضع من اليسار 0.1rem عند التمرير
+- `.hover:left-0` - الموضع من اليسار 0rem عند التمرير
+- `.left-100` - الموضع من اليسار 100%
+- `.left-75` - الموضع من اليسار 75%
+- `.left-50` - الموضع من اليسار 50%
+- `.left-25` - الموضع من اليسار 25%
+- `.left-5` - الموضع من اليسار 5rem
+- `.left-4.5` - الموضع من اليسار 0rem
+- `.left-4` - الموضع من اليسار 4rem
+- `.left-3.5` - الموضع من اليسار 0rem
+- `.left-3` - الموضع من اليسار 3rem
+- `.left-2.5` - الموضع من اليسار 0rem
+- `.left-2` - الموضع من اليسار 2rem
+- `.left-1.9` - الموضع من اليسار 0rem
+- `.left-1.8` - الموضع من اليسار 0rem
+- `.left-1.7` - الموضع من اليسار 0rem
+- `.left-1.6` - الموضع من اليسار 0rem
+- `.left-1.5` - الموضع من اليسار 0rem
+- `.left-1.4` - الموضع من اليسار 0rem
+- `.left-1.3` - الموضع من اليسار 0rem
+- `.left-1.2` - الموضع من اليسار 0rem
+- `.left-1.1` - الموضع من اليسار 0rem
+- `.left-1` - الموضع من اليسار 1rem
+- `.left-0.9` - الموضع من اليسار 0rem
+- `.left-0.8` - الموضع من اليسار 0rem
+- `.left-0.7` - الموضع من اليسار 0rem
+- `.left-0.6` - الموضع من اليسار 0rem
+- `.left-0.5` - الموضع من اليسار 0rem
+- `.left-0.4` - الموضع من اليسار 0rem
+- `.left-0.3` - الموضع من اليسار 0rem
+- `.left-0.2` - الموضع من اليسار 0.2rem
+- `.left-0.1` - الموضع من اليسار 0.1rem
+- `.left-0` - الموضع من اليسار 0rem
 
 ##### Negative Left
 
-- `.-left-5` - اليسار السلبي 5rem
-- `.-left-4.5` - اليسار السلبي 0rem
-- `.-left-4` - اليسار السلبي 4rem
-- `.-left-3.5` - اليسار السلبي 0rem
-- `.-left-3` - اليسار السلبي 3rem
-- `.-left-2.5` - اليسار السلبي 0rem
-- `.-left-2` - اليسار السلبي 2rem
-- `.-left-1.9` - اليسار السلبي 0rem
-- `.-left-1.8` - اليسار السلبي 0rem
-- `.-left-1.7` - اليسار السلبي 0rem
-- `.-left-1.6` - اليسار السلبي 0rem
-- `.-left-1.5` - اليسار السلبي 0rem
-- `.-left-1.4` - اليسار السلبي 0rem
-- `.-left-1.3` - اليسار السلبي 0rem
-- `.-left-1.2` - اليسار السلبي 0rem
-- `.-left-1.1` - اليسار السلبي 0rem
-- `.-left-1` - سلبي اليسار 1rem
-- `.-left-0.9` - اليسار السلبي 0rem
-- `.-left-0.8` - اليسار السلبي 0rem
-- `.-left-0.7` - اليسار السلبي 0rem
-- `.-left-0.6` - اليسار السلبي 0rem
-- `.-left-0.5` - اليسار السلبي 0rem
-- `.-left-0.4` - اليسار السلبي 0rem
-- `.-left-0.3` - سلبي اليسار 0.3rem
-- `.-left-0.2` - سلبي اليسار 0.2rem
-- `.-left-0.1` - سلبي اليسار 0.1rem
-- `.hover:-left-5` - السلبية اليسرى 5rem عند التحويم
-- `.hover:-left-4.5` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-4` - السلبية اليسرى 4rem عند التحويم
-- `.hover:-left-3.5` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-3` - سلبي 3rem الأيسر عند التمرير
-- `.hover:-left-2.5` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-2` - السلبية اليسرى 2rem عند التحويم
-- `.hover:-left-1.9` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-1.8` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-1.7` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-1.6` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-1.5` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-1.4` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-1.3` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-1.2` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-1.1` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-1` - 1rem الأيسر السلبي عند التمرير
-- `.hover:-left-0.9` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-0.8` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-0.7` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-0.6` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-0.5` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-0.4` - السلبية اليسرى 0rem عند التمرير
-- `.hover:-left-0.3` - اليسار السلبي 0.3rem عند التمرير
-- `.hover:-left-0.2` - سلبي اليسار 0.2rem عند التحويم
-- `.hover:-left-0.1` - سلبي اليسار 0.1rem عند التحويم
+- `.-left-5` - الموضع السلبي من اليسار 5rem
+- `.-left-4.5` - الموضع السلبي من اليسار 0rem
+- `.-left-4` - الموضع السلبي من اليسار 4rem
+- `.-left-3.5` - الموضع السلبي من اليسار 0rem
+- `.-left-3` - الموضع السلبي من اليسار 3rem
+- `.-left-2.5` - الموضع السلبي من اليسار 0rem
+- `.-left-2` - الموضع السلبي من اليسار 2rem
+- `.-left-1.9` - الموضع السلبي من اليسار 0rem
+- `.-left-1.8` - الموضع السلبي من اليسار 0rem
+- `.-left-1.7` - الموضع السلبي من اليسار 0rem
+- `.-left-1.6` - الموضع السلبي من اليسار 0rem
+- `.-left-1.5` - الموضع السلبي من اليسار 0rem
+- `.-left-1.4` - الموضع السلبي من اليسار 0rem
+- `.-left-1.3` - الموضع السلبي من اليسار 0rem
+- `.-left-1.2` - الموضع السلبي من اليسار 0rem
+- `.-left-1.1` - الموضع السلبي من اليسار 0rem
+- `.-left-1` - الموضع السلبي من اليسار 1rem
+- `.-left-0.9` - الموضع السلبي من اليسار 0rem
+- `.-left-0.8` - الموضع السلبي من اليسار 0rem
+- `.-left-0.7` - الموضع السلبي من اليسار 0rem
+- `.-left-0.6` - الموضع السلبي من اليسار 0rem
+- `.-left-0.5` - الموضع السلبي من اليسار 0rem
+- `.-left-0.4` - الموضع السلبي من اليسار 0rem
+- `.-left-0.3` - الموضع السلبي من اليسار 0.3rem
+- `.-left-0.2` - الموضع السلبي من اليسار 0.2rem
+- `.-left-0.1` - الموضع السلبي من اليسار 0.1rem
+- `.hover:-left-5` - الموضع السلبي من اليسار 5rem عند التمرير
+- `.hover:-left-4.5` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-4` - الموضع السلبي من اليسار 4rem عند التمرير
+- `.hover:-left-3.5` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-3` - الموضع السلبي من اليسار 3rem عند التمرير
+- `.hover:-left-2.5` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-2` - الموضع السلبي من اليسار 2rem عند التمرير
+- `.hover:-left-1.9` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-1.8` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-1.7` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-1.6` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-1.5` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-1.4` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-1.3` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-1.2` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-1.1` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-1` - الموضع السلبي من اليسار 1rem عند التمرير
+- `.hover:-left-0.9` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-0.8` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-0.7` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-0.6` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-0.5` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-0.4` - الموضع السلبي من اليسار 0rem عند التمرير
+- `.hover:-left-0.3` - الموضع السلبي من اليسار 0.3rem عند التمرير
+- `.hover:-left-0.2` - الموضع السلبي من اليسار 0.2rem عند التمرير
+- `.hover:-left-0.1` - الموضع السلبي من اليسار 0.1rem عند التمرير
 
 ### Z-Index
 
@@ -4195,39 +4195,39 @@
 
 ### Font Size
 
-- `.font-size-10` - حجم الخط 10ريم
-- `.font-size-9.5` - حجم الخط 0ريم
-- `.font-size-9` - حجم الخط 9ريم
-- `.font-size-8.5` - حجم الخط 0ريم
-- `.font-size-8` - حجم الخط 8ريم
-- `.font-size-7.5` - حجم الخط 0ريم
-- `.font-size-7` - حجم الخط 7ريم
-- `.font-size-6.5` - حجم الخط 0ريم
-- `.font-size-6` - حجم الخط 6ريم
-- `.font-size-5.5` - حجم الخط 0ريم
-- `.font-size-5` - حجم الخط 5ريم
-- `.font-size-4.5` - حجم الخط 0ريم
-- `.font-size-4` - حجم الخط 4ريم
-- `.font-size-3.5` - حجم الخط 0ريم
-- `.font-size-3` - حجم الخط 3ريم
-- `.font-size-2.5` - حجم الخط 0ريم
-- `.font-size-2` - حجم الخط 2ريم
-- `.font-size-1.9` - حجم الخط 0ريم
-- `.font-size-1.8` - حجم الخط 0ريم
-- `.font-size-1.7` - حجم الخط 0ريم
-- `.font-size-1.6` - حجم الخط 0ريم
-- `.font-size-1.5` - حجم الخط 0ريم
-- `.font-size-1.4` - حجم الخط 0ريم
-- `.font-size-1.3` - حجم الخط 0ريم
-- `.font-size-1.2` - حجم الخط 0ريم
-- `.font-size-1.1` - حجم الخط 0ريم
-- `.font-size-1` - حجم الخط 1ريم
-- `.font-size-0.9` - حجم الخط 0ريم
-- `.font-size-0.8` - حجم الخط 0ريم
-- `.font-size-0.7` - حجم الخط 0.7ريم
-- `.font-size-0.6` - حجم الخط 0.6ريم
-- `.font-size-0.5` - حجم الخط 0.5ريم
-- `.hover:font-size-10` - حجم الخط 10ريم عند التحويم
+- `.font-size-10` - حجم الخط 10rem
+- `.font-size-9.5` - حجم الخط 0rem
+- `.font-size-9` - حجم الخط 9rem
+- `.font-size-8.5` - حجم الخط 0rem
+- `.font-size-8` - حجم الخط 8rem
+- `.font-size-7.5` - حجم الخط 0rem
+- `.font-size-7` - حجم الخط 7rem
+- `.font-size-6.5` - حجم الخط 0rem
+- `.font-size-6` - حجم الخط 6rem
+- `.font-size-5.5` - حجم الخط 0rem
+- `.font-size-5` - حجم الخط 5rem
+- `.font-size-4.5` - حجم الخط 0rem
+- `.font-size-4` - حجم الخط 4rem
+- `.font-size-3.5` - حجم الخط 0rem
+- `.font-size-3` - حجم الخط 3rem
+- `.font-size-2.5` - حجم الخط 0rem
+- `.font-size-2` - حجم الخط 2rem
+- `.font-size-1.9` - حجم الخط 0rem
+- `.font-size-1.8` - حجم الخط 0rem
+- `.font-size-1.7` - حجم الخط 0rem
+- `.font-size-1.6` - حجم الخط 0rem
+- `.font-size-1.5` - حجم الخط 0rem
+- `.font-size-1.4` - حجم الخط 0rem
+- `.font-size-1.3` - حجم الخط 0rem
+- `.font-size-1.2` - حجم الخط 0rem
+- `.font-size-1.1` - حجم الخط 0rem
+- `.font-size-1` - حجم الخط 1rem
+- `.font-size-0.9` - حجم الخط 0rem
+- `.font-size-0.8` - حجم الخط 0rem
+- `.font-size-0.7` - حجم الخط 0.7rem
+- `.font-size-0.6` - حجم الخط 0.6rem
+- `.font-size-0.5` - حجم الخط 0.5rem
+- `.hover:font-size-10` - حجم الخط 10rem عند التحويم
 - `.hover:font-size-9.5` - حجم الخط 0rem عند التمرير
 - `.hover:font-size-9` - حجم الخط 9rem عند التحويم
 - `.hover:font-size-8.5` - حجم الخط 0rem عند التمرير
@@ -4256,7 +4256,7 @@
 - `.hover:font-size-1` - حجم الخط 1rem عند التمرير
 - `.hover:font-size-0.9` - حجم الخط 0rem عند التمرير
 - `.hover:font-size-0.8` - حجم الخط 0rem عند التمرير
-- `.hover:font-size-0.7` - حجم الخط 0.7ريم عند التحويم
+- `.hover:font-size-0.7` - حجم الخط 0.7rem عند التحويم
 - `.hover:font-size-0.6` - حجم الخط 0.6rem عند التمرير
 - `.hover:font-size-0.5` - حجم الخط 0.5rem عند التمرير
 
@@ -4295,44 +4295,44 @@
 - `.hover:letter-spacing-0.3` - تباعد الحروف 0.3rem عند التمرير
 - `.hover:letter-spacing-0.2` - تباعد الحروف 0.2rem عند التمرير
 - `.hover:letter-spacing-0.1` - تباعد الحروف 0.1rem عند التمرير
-- `.letter-spacing-1` - تباعد الحروف 1ريم
+- `.letter-spacing-1` - تباعد الحروف 1rem
 - `.letter-spacing-0.9` - تباعد الحروف 0rem
 - `.letter-spacing-0.8` - تباعد الحروف 0rem
 - `.letter-spacing-0.7` - تباعد الحروف 0rem
 - `.letter-spacing-0.6` - تباعد الحروف 0rem
 - `.letter-spacing-0.5` - تباعد الحروف 0rem
 - `.letter-spacing-0.4` - تباعد الحروف 0rem
-- `.letter-spacing-0.3` - تباعد الحروف 0.3ريم
-- `.letter-spacing-0.2` - تباعد الحروف 0.2ريم
-- `.letter-spacing-0.1` - تباعد الحروف 0.1ريم
+- `.letter-spacing-0.3` - تباعد الحروف 0.3rem
+- `.letter-spacing-0.2` - تباعد الحروف 0.2rem
+- `.letter-spacing-0.1` - تباعد الحروف 0.1rem
 
 ### Line height
 
-- `.hover:line-height-5` - ارتفاع الخط 5rem عند التحويم
-- `.hover:line-height-4` - ارتفاع الخط 4rem عند التحويم
-- `.hover:line-height-3` - ارتفاع الخط 3rem عند التمرير
-- `.hover:line-height-2` - ارتفاع الخط 2rem عند التحويم
-- `.hover:line-height-1` - ارتفاع الخط 1rem عند التمرير
-- `.line-height-5` - ارتفاع الخط 5ريم
-- `.line-height-4` - ارتفاع الخط 4ريم
-- `.line-height-3` - ارتفاع الخط 3ريم
-- `.line-height-2` - ارتفاع الخط 2ريم
-- `.line-height-1` - ارتفاع الخط 1ريم
+- `.hover:line-height-5` - ارتفاع السطر 5rem عند التمرير
+- `.hover:line-height-4` - ارتفاع السطر 4rem عند التمرير
+- `.hover:line-height-3` - ارتفاع السطر 3rem عند التمرير
+- `.hover:line-height-2` - ارتفاع السطر 2rem عند التمرير
+- `.hover:line-height-1` - ارتفاع السطر 1rem عند التمرير
+- `.line-height-5` - ارتفاع السطر 5rem
+- `.line-height-4` - ارتفاع السطر 4rem
+- `.line-height-3` - ارتفاع السطر 3rem
+- `.line-height-2` - ارتفاع السطر 2rem
+- `.line-height-1` - ارتفاع السطر 1rem
 
 ### Text
 
 - `.hover:text-capitalize` - الاستفادة من النص عند التمرير
 - `.hover:text-center` - مركز النص عند التمرير
-- `.hover:text-end` - نهاية النص عند التمرير
+- `.hover:text-end` - محاذاة النص إلى النهاية عند التمرير
 - `.hover:text-justify` - ضبط النص عند التمرير
-- `.hover:text-left` - ترك النص عند التمرير
+- `.hover:text-left` - محاذاة النص إلى اليسار عند التمرير
 - `.hover:text-line-none` - سطر النص لا شيء عند التمرير
 - `.hover:text-line-overline` - خط علوي للنص عند التمرير
 - `.hover:text-line-through` - سطر النص عند التمرير
 - `.hover:text-line-underline` - تسطير سطر النص عند التمرير
 - `.hover:text-lowercase` - نص صغير عند التمرير
-- `.hover:text-right` - النص مباشرة عند التمرير
-- `.hover:text-start` - يبدأ النص عند التمرير
+- `.hover:text-right` - محاذاة النص إلى اليمين عند التمرير
+- `.hover:text-start` - محاذاة النص إلى البداية عند التمرير
 - `.hover:text-transparent` - نص شفاف عند التمرير
 - `.hover:text-uppercase` - النص بأحرف كبيرة عند التمرير
 - `.text-break-all` - كسر النص للجميع
@@ -4341,9 +4341,9 @@
 - `.text-break-word` - كلمة فاصل النص
 - `.text-capitalize` - تكبير النص
 - `.text-center` - مركز النص
-- `.text-end` - نهاية النص
-- `.text-justify` - تبرير النص
-- `.text-left` - ترك النص
+- `.text-end` - محاذاة النص إلى النهاية
+- `.text-justify` - ضبط النص
+- `.text-left` - محاذاة النص إلى اليسار
 - `.text-line-none` - سطر النص-لا شيء
 - `.text-line-overline` - خط النص فوق الخط
 - `.text-line-through` - سطر من خلال النص
@@ -4351,130 +4351,130 @@
 - `.text-lowercase` - النص بأحرف صغيرة
 - `.text-overflow-clip` - مقطع تجاوز النص
 - `.text-overflow-ellipsis` - تجاوز النص القطع الناقص
-- `.text-right` - النص الصحيح
-- `.text-start` - بداية النص
+- `.text-right` - محاذاة النص إلى اليمين
+- `.text-start` - محاذاة النص إلى البداية
 - `.text-transparent` - النص شفاف
 - `.text-uppercase` - النص بأحرف كبيرة
 
 ##### Text - Mobile (≤ 480px)
 
 - `.hover:mobile:text-center` - مركز النص عند التمرير على الهاتف المحمول
-- `.hover:mobile:text-end` - نهاية النص عند التمرير على الهاتف المحمول
-- `.hover:mobile:text-justify` - ضبط النص عند التمرير على الهاتف المحمول
-- `.hover:mobile:text-left` - النص المتبقي عند التمرير على الهاتف المحمول
-- `.hover:mobile:text-right` - إرسال رسالة نصية مباشرة عند التمرير على الهاتف المحمول
-- `.hover:mobile:text-start` - يبدأ النص عند التمرير على الهاتف المحمول
+- `.hover:mobile:text-end` - محاذاة النص إلى النهاية عند التمرير على الجوال
+- `.hover:mobile:text-justify` - ضبط النص عند التمرير على الجوال
+- `.hover:mobile:text-left` - محاذاة النص إلى اليسار عند التمرير على الجوال
+- `.hover:mobile:text-right` - محاذاة النص إلى اليمين عند التمرير على الجوال
+- `.hover:mobile:text-start` - محاذاة النص إلى البداية عند التمرير على الجوال
 - `.mobile:text-center` - مركز النص على الهاتف المحمول
-- `.mobile:text-end` - نهاية النص على الهاتف المحمول
-- `.mobile:text-justify` - ضبط النص على الهاتف المحمول
-- `.mobile:text-left` - النص المتبقي على الهاتف المحمول
-- `.mobile:text-right` - إرسال رسالة نصية مباشرة على الهاتف المحمول
-- `.mobile:text-start` - يبدأ النص على الهاتف المحمول
+- `.mobile:text-end` - محاذاة النص إلى النهاية على الجوال
+- `.mobile:text-justify` - ضبط النص على الجوال
+- `.mobile:text-left` - محاذاة النص إلى اليسار على الجوال
+- `.mobile:text-right` - محاذاة النص إلى اليمين على الجوال
+- `.mobile:text-start` - محاذاة النص إلى البداية على الجوال
 
 ##### Text - Tablet (480px - 768px)
 
 - `.hover:tablet:text-center` - مركز النص عند التمرير على الجهاز اللوحي
-- `.hover:tablet:text-end` - نهاية النص عند التمرير على الجهاز اللوحي
+- `.hover:tablet:text-end` - محاذاة النص إلى النهاية عند التمرير على الجهاز اللوحي
 - `.hover:tablet:text-justify` - ضبط النص عند التمرير على الجهاز اللوحي
-- `.hover:tablet:text-left` - النص المتبقي عند التمرير على الجهاز اللوحي
-- `.hover:tablet:text-right` - إرسال النص مباشرة عند التمرير على الجهاز اللوحي
-- `.hover:tablet:text-start` - يبدأ النص عند التمرير على الجهاز اللوحي
+- `.hover:tablet:text-left` - محاذاة النص إلى اليسار عند التمرير على الجهاز اللوحي
+- `.hover:tablet:text-right` - محاذاة النص إلى اليمين عند التمرير على الجهاز اللوحي
+- `.hover:tablet:text-start` - محاذاة النص إلى البداية عند التمرير على الجهاز اللوحي
 - `.tablet:text-center` - مركز النص على الجهاز اللوحي
-- `.tablet:text-end` - نهاية النص على الجهاز اللوحي
+- `.tablet:text-end` - محاذاة النص إلى النهاية على الجهاز اللوحي
 - `.tablet:text-justify` - ضبط النص على الجهاز اللوحي
-- `.tablet:text-left` - النص المتبقي على الجهاز اللوحي
-- `.tablet:text-right` - النص مباشرة على الجهاز اللوحي
-- `.tablet:text-start` - يبدأ النص على الجهاز اللوحي
+- `.tablet:text-left` - محاذاة النص إلى اليسار على الجهاز اللوحي
+- `.tablet:text-right` - محاذاة النص إلى اليمين على الجهاز اللوحي
+- `.tablet:text-start` - محاذاة النص إلى البداية على الجهاز اللوحي
 
 ##### Text - Tablet Pc (768px - 992px)
 
 - `.hover:tablet-pc:text-center` - مركز النص عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:text-end` - نهاية النص عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:text-end` - محاذاة النص إلى النهاية عند التمرير على الكمبيوتر اللوحي
 - `.hover:tablet-pc:text-justify` - ضبط النص عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:text-left` - النص المتبقي عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:text-right` - النص مباشرة عند التمرير على الكمبيوتر اللوحي
-- `.hover:tablet-pc:text-start` - يبدأ النص عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:text-left` - محاذاة النص إلى اليسار عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:text-right` - محاذاة النص إلى اليمين عند التمرير على الكمبيوتر اللوحي
+- `.hover:tablet-pc:text-start` - محاذاة النص إلى البداية عند التمرير على الكمبيوتر اللوحي
 - `.tablet-pc:text-center` - مركز النص على الكمبيوتر اللوحي
-- `.tablet-pc:text-end` - نهاية النص على الكمبيوتر اللوحي
+- `.tablet-pc:text-end` - محاذاة النص إلى النهاية على الكمبيوتر اللوحي
 - `.tablet-pc:text-justify` - ضبط النص على الكمبيوتر اللوحي
-- `.tablet-pc:text-left` - النص المتبقي على الكمبيوتر اللوحي
-- `.tablet-pc:text-right` - النص مباشرة على الكمبيوتر اللوحي
-- `.tablet-pc:text-start` - يبدأ النص على الكمبيوتر اللوحي
+- `.tablet-pc:text-left` - محاذاة النص إلى اليسار على الكمبيوتر اللوحي
+- `.tablet-pc:text-right` - محاذاة النص إلى اليمين على الكمبيوتر اللوحي
+- `.tablet-pc:text-start` - محاذاة النص إلى البداية على الكمبيوتر اللوحي
 
 ##### Text - Pc (992px - 1200px)
 
 - `.hover:pc:text-center` - مركز النص عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:text-end` - نهاية النص عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:text-justify` - ضبط النص عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:text-left` - النص المتبقي عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:text-right` - إرسال النص مباشرة عند التمرير على جهاز الكمبيوتر
-- `.hover:pc:text-start` - يبدأ النص عند التمرير على جهاز الكمبيوتر
+- `.hover:pc:text-end` - محاذاة النص إلى النهاية عند التمرير على الكمبيوتر
+- `.hover:pc:text-justify` - ضبط النص عند التمرير على الكمبيوتر
+- `.hover:pc:text-left` - محاذاة النص إلى اليسار عند التمرير على الكمبيوتر
+- `.hover:pc:text-right` - محاذاة النص إلى اليمين عند التمرير على الكمبيوتر
+- `.hover:pc:text-start` - محاذاة النص إلى البداية عند التمرير على الكمبيوتر
 - `.pc:text-center` - مركز النص على جهاز الكمبيوتر
-- `.pc:text-end` - نهاية النص على جهاز الكمبيوتر
-- `.pc:text-justify` - ضبط النص على جهاز الكمبيوتر
-- `.pc:text-left` - النص المتبقي على جهاز الكمبيوتر
-- `.pc:text-right` - النص مباشرة على جهاز الكمبيوتر
-- `.pc:text-start` - يبدأ النص على جهاز الكمبيوتر
+- `.pc:text-end` - محاذاة النص إلى النهاية على الكمبيوتر
+- `.pc:text-justify` - ضبط النص على الكمبيوتر
+- `.pc:text-left` - محاذاة النص إلى اليسار على الكمبيوتر
+- `.pc:text-right` - محاذاة النص إلى اليمين على الكمبيوتر
+- `.pc:text-start` - محاذاة النص إلى البداية على الكمبيوتر
 
 ##### Text - Tv (≥ 1200px)
 
 - `.hover:tv:text-center` - مركز النص عند التمرير على شاشة التلفزيون
-- `.hover:tv:text-end` - نهاية النص عند التمرير على شاشة التلفزيون
-- `.hover:tv:text-justify` - تبرير النص عند التمرير على شاشة التلفزيون
-- `.hover:tv:text-left` - النص المتبقي على التمرير على شاشة التلفزيون
-- `.hover:tv:text-right` - إرسال رسالة نصية مباشرة عند التمرير على شاشة التلفزيون
-- `.hover:tv:text-start` - يبدأ النص عند التمرير على شاشة التلفزيون
+- `.hover:tv:text-end` - محاذاة النص إلى النهاية عند التمرير على التلفزيون
+- `.hover:tv:text-justify` - ضبط النص عند التمرير على التلفزيون
+- `.hover:tv:text-left` - محاذاة النص إلى اليسار عند التمرير على التلفزيون
+- `.hover:tv:text-right` - محاذاة النص إلى اليمين عند التمرير على التلفزيون
+- `.hover:tv:text-start` - محاذاة النص إلى البداية عند التمرير على التلفزيون
 - `.tv:text-center` - مركز النص على شاشة التلفزيون
-- `.tv:text-end` - نهاية النص على شاشة التلفزيون
-- `.tv:text-justify` - تبرير النص على شاشة التلفزيون
-- `.tv:text-left` - النص المتبقي على شاشة التلفزيون
-- `.tv:text-right` - النص مباشرة على شاشة التلفزيون
-- `.tv:text-start` - يبدأ النص على شاشة التلفزيون
+- `.tv:text-end` - محاذاة النص إلى النهاية على التلفزيون
+- `.tv:text-justify` - ضبط النص على التلفزيون
+- `.tv:text-left` - محاذاة النص إلى اليسار على التلفزيون
+- `.tv:text-right` - محاذاة النص إلى اليمين على التلفزيون
+- `.tv:text-start` - محاذاة النص إلى البداية على التلفزيون
 
 ##### Text - Tablet Max (≤ 768px)
 
 - `.hover:tablet-max:text-center` - مركز النص عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:text-end` - نهاية النص عند التمرير على الجهاز اللوحي كحد أقصى
-- `.hover:tablet-max:text-justify` - ضبط النص عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:text-left` - النص المتبقي عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:text-right` - النص مباشرة عند التمرير على الجهاز اللوحي بحد أقصى
-- `.hover:tablet-max:text-start` - يبدأ النص عند التمرير على الجهاز اللوحي بحد أقصى
+- `.hover:tablet-max:text-end` - محاذاة النص إلى النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:text-justify` - ضبط النص عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:text-left` - محاذاة النص إلى اليسار عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:text-right` - محاذاة النص إلى اليمين عند التمرير على الجهاز اللوحي (الحد الأقصى)
+- `.hover:tablet-max:text-start` - محاذاة النص إلى البداية عند التمرير على الجهاز اللوحي (الحد الأقصى)
 - `.tablet-max:text-center` - مركز النص على الجهاز اللوحي كحد أقصى
-- `.tablet-max:text-end` - نهاية النص على الجهاز اللوحي كحد أقصى
-- `.tablet-max:text-justify` - ضبط النص على الجهاز اللوحي بحد أقصى
-- `.tablet-max:text-left` - النص المتبقي على الجهاز اللوحي كحد أقصى
-- `.tablet-max:text-right` - النص مباشرة على الجهاز اللوحي بحد أقصى
-- `.tablet-max:text-start` - بداية النص على الجهاز اللوحي بحد أقصى
+- `.tablet-max:text-end` - محاذاة النص إلى النهاية على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:text-justify` - ضبط النص على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:text-left` - محاذاة النص إلى اليسار على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:text-right` - محاذاة النص إلى اليمين على الجهاز اللوحي (الحد الأقصى)
+- `.tablet-max:text-start` - محاذاة النص إلى البداية على الجهاز اللوحي (الحد الأقصى)
 
 ##### Text - Tablet Pc Max (≤ 992px)
 
 - `.hover:tablet-pc-max:text-center` - مركز النص عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:text-end` - نهاية النص عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:text-justify` - ضبط النص عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:text-left` - النص المتبقي عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:text-right` - النص مباشرة عند التمرير على الكمبيوتر اللوحي بحد أقصى
-- `.hover:tablet-pc-max:text-start` - يبدأ النص عند التمرير على الكمبيوتر اللوحي بحد أقصى
+- `.hover:tablet-pc-max:text-end` - محاذاة النص إلى النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:text-justify` - ضبط النص عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:text-left` - محاذاة النص إلى اليسار عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:text-right` - محاذاة النص إلى اليمين عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
+- `.hover:tablet-pc-max:text-start` - محاذاة النص إلى البداية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
 - `.tablet-pc-max:text-center` - مركز النص على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:text-end` - نهاية النص على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:text-justify` - ضبط النص على الكمبيوتر اللوحي بحد أقصى
-- `.tablet-pc-max:text-left` - النص المتبقي على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:text-right` - النص مباشرة على الكمبيوتر اللوحي كحد أقصى
-- `.tablet-pc-max:text-start` - بدء النص على الكمبيوتر اللوحي بحد أقصى
+- `.tablet-pc-max:text-end` - محاذاة النص إلى النهاية على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:text-justify` - ضبط النص على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:text-left` - محاذاة النص إلى اليسار على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:text-right` - محاذاة النص إلى اليمين على الكمبيوتر اللوحي (الحد الأقصى)
+- `.tablet-pc-max:text-start` - محاذاة النص إلى البداية على الكمبيوتر اللوحي (الحد الأقصى)
 
 ##### Text - Pc Max (≤ 1200px)
 
 - `.hover:pc-max:text-center` - مركز النص عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:text-end` - نهاية النص عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:text-justify` - ضبط النص عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:text-left` - النص المتبقي عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:text-right` - النص مباشرة عند التمرير على جهاز الكمبيوتر كحد أقصى
-- `.hover:pc-max:text-start` - يبدأ النص عند التمرير على جهاز الكمبيوتر كحد أقصى
+- `.hover:pc-max:text-end` - محاذاة النص إلى النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:text-justify` - ضبط النص عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:text-left` - محاذاة النص إلى اليسار عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:text-right` - محاذاة النص إلى اليمين عند التمرير على الكمبيوتر (الحد الأقصى)
+- `.hover:pc-max:text-start` - محاذاة النص إلى البداية عند التمرير على الكمبيوتر (الحد الأقصى)
 - `.pc-max:text-center` - مركز النص على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:text-end` - نهاية النص على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:text-justify` - ضبط النص على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:text-left` - النص المتبقي على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:text-right` - النص مباشرة على جهاز الكمبيوتر كحد أقصى
-- `.pc-max:text-start` - بدء النص على جهاز الكمبيوتر كحد أقصى
+- `.pc-max:text-end` - محاذاة النص إلى النهاية على الكمبيوتر (الحد الأقصى)
+- `.pc-max:text-justify` - ضبط النص على الكمبيوتر (الحد الأقصى)
+- `.pc-max:text-left` - محاذاة النص إلى اليسار على الكمبيوتر (الحد الأقصى)
+- `.pc-max:text-right` - محاذاة النص إلى اليمين على الكمبيوتر (الحد الأقصى)
+- `.pc-max:text-start` - محاذاة النص إلى البداية على الكمبيوتر (الحد الأقصى)
 
 ### Whitespace
 
@@ -4513,18 +4513,18 @@
 
 ### Bg blur
 
-- `.bg-blur-5` - بي جي طمس 24px
-- `.bg-blur-4` - بي جي طمس 16px
-- `.bg-blur-3` - بي جي طمس 12px
-- `.bg-blur-2` - بي جي طمس 8px
-- `.bg-blur-1` - بي جي طمس 4px
-- `.bg-blur-0` - طمس 0px
-- `.hover:bg-blur-5` - Bg طمس 24px عند التحويم
-- `.hover:bg-blur-4` - Bg طمس 16px عند التحويم
-- `.hover:bg-blur-3` - Bg طمس 12px عند التحويم
-- `.hover:bg-blur-2` - Bg طمس 8px عند التحويم
-- `.hover:bg-blur-1` - Bg طمس 4px عند التمرير
-- `.hover:bg-blur-0` - Bg طمس 0px عند التحويم
+- `.bg-blur-5` - تمويه الخلفية 24px
+- `.bg-blur-4` - تمويه الخلفية 16px
+- `.bg-blur-3` - تمويه الخلفية 12px
+- `.bg-blur-2` - تمويه الخلفية 8px
+- `.bg-blur-1` - تمويه الخلفية 4px
+- `.bg-blur-0` - تمويه الخلفية 0px
+- `.hover:bg-blur-5` - تمويه الخلفية 24px عند التمرير
+- `.hover:bg-blur-4` - تمويه الخلفية 16px عند التمرير
+- `.hover:bg-blur-3` - تمويه الخلفية 12px عند التمرير
+- `.hover:bg-blur-2` - تمويه الخلفية 8px عند التمرير
+- `.hover:bg-blur-1` - تمويه الخلفية 4px عند التمرير
+- `.hover:bg-blur-0` - تمويه الخلفية 0px عند التمرير
 
 ## Borders
 
@@ -4568,7 +4568,7 @@
 - `.border-b-0.8` - الحدود السفلية 0rem
 - `.border-b-0.7` - الحدود السفلية 0rem
 - `.border-b-0.6` - الحدود السفلية 0rem
-- `.border-b-0.5` - الحدود السفلية 0.5ريم
+- `.border-b-0.5` - الحدود السفلية 0.5rem
 - `.border-b-0.4` - الحدود السفلية 0rem
 - `.border-b-0.3` - الحدود السفلية 0rem
 - `.border-b-0.2` - الحدود السفلية 0.2rem
@@ -4663,7 +4663,7 @@
 - `.border-t-0` - الحدود الأعلى 0rem
 - `.hover:border-t-2` - الحدود الأعلى 2rem عند التحويم
 - `.hover:border-t-1.5` - الحدود الأعلى 0rem عند التحويم
-- `.hover:border-t-1` - الحدود العليا 1rem عند التحويم
+- `.hover:border-t-1` - الحدود الأعلى 1rem عند التمرير
 - `.hover:border-t-0.9` - الحدود الأعلى 0rem عند التحويم
 - `.hover:border-t-0.8` - الحدود الأعلى 0rem عند التحويم
 - `.hover:border-t-0.7` - الحدود الأعلى 0rem عند التحويم
@@ -4671,7 +4671,7 @@
 - `.hover:border-t-0.5` - الحدود الأعلى 0rem عند التحويم
 - `.hover:border-t-0.4` - الحدود الأعلى 0rem عند التحويم
 - `.hover:border-t-0.3` - الحدود الأعلى 0rem عند التحويم
-- `.hover:border-t-0.2` - الحدود العليا 0.2rem عند التحويم
+- `.hover:border-t-0.2` - الحدود الأعلى 0.2rem عند التمرير
 - `.hover:border-t-0.1` - أعلى الحدود 0.1rem عند التحويم
 - `.hover:border-t-0` - الحدود الأعلى 0rem عند التحويم
 
@@ -4778,43 +4778,43 @@
 
 #### Border Radius Bottom Left
 
-- `.hover:rounded-bl-5` - نصف قطر الحدود أسفل اليسار 5ريم عند التحويم
+- `.hover:rounded-bl-5` - نصف قطر الحدود أسفل اليسار 5rem عند التحويم
 - `.hover:rounded-bl-4.5` - نصف قطر الحدود أسفل اليسار 0rem عند التمرير
-- `.hover:rounded-bl-4` - نصف قطر الحدود أسفل اليسار 4ريم عند التحويم
+- `.hover:rounded-bl-4` - نصف قطر الحدود أسفل اليسار 4rem عند التحويم
 - `.hover:rounded-bl-3.5` - نصف قطر الحدود أسفل اليسار 0rem عند التمرير
 - `.hover:rounded-bl-3` - نصف قطر الحدود أسفل اليسار 3rem عند التمرير
 - `.hover:rounded-bl-2.5` - نصف قطر الحدود أسفل اليسار 0rem عند التمرير
-- `.hover:rounded-bl-2` - نصف قطر الحدود أسفل اليسار 2ريم عند التحويم
+- `.hover:rounded-bl-2` - نصف قطر الحدود أسفل اليسار 2rem عند التحويم
 - `.hover:rounded-bl-1.5` - نصف قطر الحدود أسفل اليسار 0rem عند التمرير
-- `.hover:rounded-bl-1` - نصف قطر الحدود أسفل اليسار 1ريم عند التمرير
-- `.hover:rounded-bl-0.5` - نصف قطر الحدود أسفل اليسار 0.5ريم عند التحويم
+- `.hover:rounded-bl-1` - نصف قطر الحدود أسفل اليسار 1rem عند التمرير
+- `.hover:rounded-bl-0.5` - نصف قطر الحدود أسفل اليسار 0.5rem عند التحويم
 - `.hover:rounded-bl-0` - نصف قطر الحدود أسفل اليسار 0rem عند التمرير
-- `.rounded-bl-5` - نصف قطر الحدود أسفل اليسار 5ريم
+- `.rounded-bl-5` - نصف قطر الحدود أسفل اليسار 5rem
 - `.rounded-bl-4.5` - نصف قطر الحدود أسفل اليسار 0rem
-- `.rounded-bl-4` - نصف قطر الحدود أسفل اليسار 4ريم
+- `.rounded-bl-4` - نصف قطر الحدود أسفل اليسار 4rem
 - `.rounded-bl-3.5` - نصف قطر الحدود أسفل اليسار 0rem
 - `.rounded-bl-3` - نصف قطر الحدود أسفل اليسار 3rem
 - `.rounded-bl-2.5` - نصف قطر الحدود أسفل اليسار 0rem
 - `.rounded-bl-2` - نصف قطر الحدود أسفل اليسار 2rem
 - `.rounded-bl-1.5` - نصف قطر الحدود أسفل اليسار 0rem
 - `.rounded-bl-1` - نصف قطر الحدود أسفل اليسار 1rem
-- `.rounded-bl-0.5` - نصف قطر الحدود أسفل اليسار 0.5ريم
+- `.rounded-bl-0.5` - نصف قطر الحدود أسفل اليسار 0.5rem
 - `.rounded-bl-0` - نصف قطر الحدود أسفل اليسار 0rem
 
 #### Border Radius Bottom Right
 
-- `.hover:rounded-br-5` - نصف قطر الحدود أسفل اليمين 5ريم عند التحويم
+- `.hover:rounded-br-5` - نصف قطر الحدود أسفل اليمين 5rem عند التحويم
 - `.hover:rounded-br-4.5` - نصف قطر الحدود أسفل اليمين 0rem عند التمرير
-- `.hover:rounded-br-4` - نصف قطر الحدود أسفل اليمين 4ريم عند التحويم
+- `.hover:rounded-br-4` - نصف قطر الحدود أسفل اليمين 4rem عند التحويم
 - `.hover:rounded-br-3.5` - نصف قطر الحدود أسفل اليمين 0rem عند التمرير
 - `.hover:rounded-br-3` - نصف قطر الحدود أسفل اليمين 3rem عند التمرير
 - `.hover:rounded-br-2.5` - نصف قطر الحدود أسفل اليمين 0rem عند التمرير
-- `.hover:rounded-br-2` - نصف قطر الحدود أسفل اليمين 2ريم عند التحويم
+- `.hover:rounded-br-2` - نصف قطر الحدود أسفل اليمين 2rem عند التحويم
 - `.hover:rounded-br-1.5` - نصف قطر الحدود أسفل اليمين 0rem عند التمرير
-- `.hover:rounded-br-1` - نصف قطر الحدود أسفل اليمين 1ريم عند التمرير
-- `.hover:rounded-br-0.5` - نصف قطر الحدود أسفل اليمين 0.5 ريم عند التحويم
+- `.hover:rounded-br-1` - نصف قطر الحدود أسفل اليمين 1rem عند التمرير
+- `.hover:rounded-br-0.5` - نصف قطر الحدود أسفل اليمين 0.5rem عند التحويم
 - `.hover:rounded-br-0` - نصف قطر الحدود أسفل اليمين 0rem عند التمرير
-- `.rounded-br-5` - نصف قطر الحدود أسفل اليمين 5ريم
+- `.rounded-br-5` - نصف قطر الحدود أسفل اليمين 5rem
 - `.rounded-br-4.5` - نصف قطر الحدود أسفل اليمين 0rem
 - `.rounded-br-4` - نصف قطر الحدود أسفل اليمين 4rem
 - `.rounded-br-3.5` - نصف قطر الحدود أسفل اليمين 0rem
@@ -4823,21 +4823,21 @@
 - `.rounded-br-2` - نصف قطر الحدود أسفل اليمين 2rem
 - `.rounded-br-1.5` - نصف قطر الحدود أسفل اليمين 0rem
 - `.rounded-br-1` - نصف قطر الحدود أسفل اليمين 1rem
-- `.rounded-br-0.5` - نصف قطر الحدود أسفل اليمين 0.5ريم
+- `.rounded-br-0.5` - نصف قطر الحدود أسفل اليمين 0.5rem
 - `.rounded-br-0` - نصف قطر الحدود أسفل اليمين 0rem
 
 #### Border Radius Top Left
 
-- `.hover:rounded-tl-5` - نصف قطر الحدود أعلى اليسار 5ريم عند التحويم
+- `.hover:rounded-tl-5` - نصف قطر الحدود أعلى اليسار 5rem عند التحويم
 - `.hover:rounded-tl-4.5` - نصف قطر الحدود أعلى اليسار 0rem عند التمرير
-- `.hover:rounded-tl-4` - نصف قطر الحدود أعلى اليسار 4ريم عند التحويم
+- `.hover:rounded-tl-4` - نصف قطر الحدود أعلى اليسار 4rem عند التحويم
 - `.hover:rounded-tl-3.5` - نصف قطر الحدود أعلى اليسار 0rem عند التمرير
 - `.hover:rounded-tl-3` - نصف قطر الحدود أعلى اليسار 3rem عند التمرير
 - `.hover:rounded-tl-2.5` - نصف قطر الحدود أعلى اليسار 0rem عند التمرير
-- `.hover:rounded-tl-2` - نصف قطر الحدود أعلى اليسار 2ريم عند التحويم
+- `.hover:rounded-tl-2` - نصف قطر الحدود أعلى اليسار 2rem عند التحويم
 - `.hover:rounded-tl-1.5` - نصف قطر الحدود أعلى اليسار 0rem عند التمرير
-- `.hover:rounded-tl-1` - نصف قطر الحدود أعلى اليسار 1ريم عند التحويم
-- `.hover:rounded-tl-0.5` - نصف قطر الحدود أعلى اليسار 0.5ريم عند التمرير
+- `.hover:rounded-tl-1` - نصف قطر الحدود أعلى اليسار 1rem عند التحويم
+- `.hover:rounded-tl-0.5` - نصف قطر الحدود أعلى اليسار 0.5rem عند التمرير
 - `.hover:rounded-tl-0` - نصف قطر الحدود أعلى اليسار 0rem عند التمرير
 - `.rounded-tl-5` - نصف قطر الحدود أعلى اليسار 5rem
 - `.rounded-tl-4.5` - نصف قطر الحدود أعلى اليسار 0rem
@@ -4848,21 +4848,21 @@
 - `.rounded-tl-2` - نصف قطر الحدود أعلى اليسار 2rem
 - `.rounded-tl-1.5` - نصف قطر الحدود أعلى اليسار 0rem
 - `.rounded-tl-1` - نصف قطر الحدود أعلى اليسار 1rem
-- `.rounded-tl-0.5` - نصف قطر الحدود أعلى اليسار 0.5ريم
+- `.rounded-tl-0.5` - نصف قطر الحدود أعلى اليسار 0.5rem
 - `.rounded-tl-0` - نصف قطر الحدود أعلى اليسار 0rem
 
 #### Border Radius Top Right
 
-- `.hover:rounded-tr-5` - نصف قطر الحدود أعلى اليمين 5ريم عند التحويم
+- `.hover:rounded-tr-5` - نصف قطر الحدود أعلى اليمين 5rem عند التحويم
 - `.hover:rounded-tr-4.5` - نصف قطر الحدود أعلى اليمين 0rem عند التمرير
-- `.hover:rounded-tr-4` - نصف قطر الحدود العلوي الأيمن 4ريم عند التحويم
+- `.hover:rounded-tr-4` - نصف قطر الحدود العلوي الأيمن 4rem عند التحويم
 - `.hover:rounded-tr-3.5` - نصف قطر الحدود أعلى اليمين 0rem عند التمرير
 - `.hover:rounded-tr-3` - نصف قطر الحدود أعلى اليمين 3rem عند التمرير
 - `.hover:rounded-tr-2.5` - نصف قطر الحدود أعلى اليمين 0rem عند التمرير
-- `.hover:rounded-tr-2` - نصف قطر الحدود العلوي الأيمن 2ريم عند التحويم
+- `.hover:rounded-tr-2` - نصف قطر الحدود العلوي الأيمن 2rem عند التحويم
 - `.hover:rounded-tr-1.5` - نصف قطر الحدود أعلى اليمين 0rem عند التمرير
-- `.hover:rounded-tr-1` - نصف قطر الحدود أعلى اليمين 1ريم عند التمرير
-- `.hover:rounded-tr-0.5` - نصف قطر الحدود العلوي الأيمن 0.5ريم عند التحويم
+- `.hover:rounded-tr-1` - نصف قطر الحدود أعلى اليمين 1rem عند التمرير
+- `.hover:rounded-tr-0.5` - نصف قطر الحدود العلوي الأيمن 0.5rem عند التحويم
 - `.hover:rounded-tr-0` - نصف قطر الحدود أعلى اليمين 0rem عند التمرير
 - `.rounded-tr-5` - نصف قطر الحدود أعلى اليمين 5rem
 - `.rounded-tr-4.5` - نصف قطر الحدود أعلى اليمين 0rem
@@ -4873,7 +4873,7 @@
 - `.rounded-tr-2` - نصف قطر الحدود أعلى اليمين 2rem
 - `.rounded-tr-1.5` - نصف قطر الحدود أعلى اليمين 0rem
 - `.rounded-tr-1` - نصف قطر الحدود أعلى اليمين 1rem
-- `.rounded-tr-0.5` - نصف قطر الحدود أعلى اليمين 0.5ريم
+- `.rounded-tr-0.5` - نصف قطر الحدود أعلى اليمين 0.5rem
 - `.rounded-tr-0` - نصف قطر الحدود أعلى اليمين 0rem
 
 ## Effects
@@ -4882,20 +4882,20 @@
 
 #### Box Shadow All
 
-- `.hover:shadow-5` - Box Shadow All 5rem عند التحويم
-- `.hover:shadow-5-1` - Box Shadow All 0 0 5rem 2rem عند التحويم
-- `.hover:shadow-4` - Box Shadow All 4rem عند التحويم
-- `.hover:shadow-4-1` - Box Shadow All 0 0 4rem 2rem عند التحويم
-- `.hover:shadow-3` - Box Shadow All 3rem عند التحويم
-- `.hover:shadow-3-1` - Box Shadow All 0 0 3rem 2rem عند التحويم
-- `.hover:shadow-2` - Box Shadow All 2rem عند التحويم
-- `.hover:shadow-2-1` - Box Shadow All 0 0 2rem 2rem عند التحويم
-- `.hover:shadow-1` - Box Shadow All 1rem عند التحويم
-- `.hover:shadow-1-1` - Box Shadow All 0 0 1rem 2rem عند التحويم
+- `.hover:shadow-5` - صندوق الظل الكل 5rem عند التمرير
+- `.hover:shadow-5-1` - صندوق الظل الكل 0 0 5rem 2rem عند التمرير
+- `.hover:shadow-4` - صندوق الظل الكل 4rem عند التمرير
+- `.hover:shadow-4-1` - صندوق الظل الكل 0 0 4rem 2rem عند التمرير
+- `.hover:shadow-3` - صندوق الظل الكل 3rem عند التمرير
+- `.hover:shadow-3-1` - صندوق الظل الكل 0 0 3rem 2rem عند التمرير
+- `.hover:shadow-2` - صندوق الظل الكل 2rem عند التمرير
+- `.hover:shadow-2-1` - صندوق الظل الكل 0 0 2rem 2rem عند التمرير
+- `.hover:shadow-1` - صندوق الظل الكل 1rem عند التمرير
+- `.hover:shadow-1-1` - صندوق الظل الكل 0 0 1rem 2rem عند التمرير
 - `.hover:shadow-none` - Box Shadow الكل لا شيء عند التمرير
-- `.shadow-5` - صندوق الظل الكل 5ريم
+- `.shadow-5` - صندوق الظل الكل 5rem
 - `.shadow-5-1` - صندوق الظل الكل 0 0 5rem 2rem
-- `.shadow-4` - صندوق الظل الكل 4ريم
+- `.shadow-4` - صندوق الظل الكل 4rem
 - `.shadow-4-1` - صندوق الظل الكل 0 0 4rem 2rem
 - `.shadow-3` - صندوق الظل الكل 3rem
 - `.shadow-3-1` - صندوق الظل الكل 0 0 3rem 2rem
@@ -4907,92 +4907,92 @@
 
 #### Box Shadow Bottom
 
-- `.hover:shadow-b-10` - صندوق الظل السفلي 10ريم عند التحويم
-- `.hover:shadow-b-9` - Box Shadow Bottom 9rem عند التحويم
-- `.hover:shadow-b-8` - Box Shadow Bottom 8rem عند التحويم
+- `.hover:shadow-b-10` - صندوق الظل السفلي 10rem عند التحويم
+- `.hover:shadow-b-9` - صندوق الظل السفلي 9rem عند التمرير
+- `.hover:shadow-b-8` - صندوق الظل السفلي 8rem عند التمرير
 - `.hover:shadow-b-7` - صندوق الظل السفلي 7rem عند التحويم
-- `.hover:shadow-b-6` - Box Shadow Bottom 6rem عند التحويم
-- `.hover:shadow-b-5` - Box Shadow Bottom 5rem عند التحويم
-- `.hover:shadow-b-4` - Box Shadow Bottom 4rem عند التحويم
-- `.hover:shadow-b-3` - Box Shadow Bottom 3rem عند التحويم
-- `.hover:shadow-b-2` - Box Shadow Bottom 2rem عند التحويم
-- `.hover:shadow-b-1` - Box Shadow Bottom 1rem عند التحويم
-- `.shadow-b-10` - صندوق الظل السفلي 10ريم
+- `.hover:shadow-b-6` - صندوق الظل السفلي 6rem عند التمرير
+- `.hover:shadow-b-5` - صندوق الظل السفلي 5rem عند التمرير
+- `.hover:shadow-b-4` - صندوق الظل السفلي 4rem عند التمرير
+- `.hover:shadow-b-3` - صندوق الظل السفلي 3rem عند التمرير
+- `.hover:shadow-b-2` - صندوق الظل السفلي 2rem عند التمرير
+- `.hover:shadow-b-1` - صندوق الظل السفلي 1rem عند التمرير
+- `.shadow-b-10` - صندوق الظل السفلي 10rem
 - `.shadow-b-9` - صندوق الظل السفلي 9rem
-- `.shadow-b-8` - صندوق الظل السفلي 8ريم
-- `.shadow-b-7` - صندوق الظل السفلي 7ريم
-- `.shadow-b-6` - صندوق الظل السفلي 6ريم
-- `.shadow-b-5` - صندوق الظل السفلي 5ريم
-- `.shadow-b-4` - صندوق الظل السفلي 4ريم
+- `.shadow-b-8` - صندوق الظل السفلي 8rem
+- `.shadow-b-7` - صندوق الظل السفلي 7rem
+- `.shadow-b-6` - صندوق الظل السفلي 6rem
+- `.shadow-b-5` - صندوق الظل السفلي 5rem
+- `.shadow-b-4` - صندوق الظل السفلي 4rem
 - `.shadow-b-3` - صندوق الظل السفلي 3rem
 - `.shadow-b-2` - صندوق الظل السفلي 2rem
 - `.shadow-b-1` - صندوق الظل السفلي 1rem
 
 #### Box Shadow Left
 
-- `.hover:shadow-l-10` - Box Shadow Left 10rem عند التحويم
-- `.hover:shadow-l-9` - Box Shadow Left 9rem عند التحويم
-- `.hover:shadow-l-8` - Box Shadow Left 8rem عند التحويم
-- `.hover:shadow-l-7` - Box Shadow Left 7rem عند التحويم
-- `.hover:shadow-l-6` - Box Shadow Left 6rem عند التحويم
-- `.hover:shadow-l-5` - Box Shadow Left 5rem عند التحويم
-- `.hover:shadow-l-4` - Box Shadow Left 4rem عند التحويم
-- `.hover:shadow-l-3` - Box Shadow Left 3rem عند التحويم
-- `.hover:shadow-l-2` - Box Shadow Left 2rem عند التحويم
-- `.hover:shadow-l-1` - Box Shadow Left 1rem عند التحويم
-- `.shadow-l-10` - صندوق الظل الأيسر 10ريم
+- `.hover:shadow-l-10` - صندوق الظل الأيسر 10rem عند التمرير
+- `.hover:shadow-l-9` - صندوق الظل الأيسر 9rem عند التمرير
+- `.hover:shadow-l-8` - صندوق الظل الأيسر 8rem عند التمرير
+- `.hover:shadow-l-7` - صندوق الظل الأيسر 7rem عند التمرير
+- `.hover:shadow-l-6` - صندوق الظل الأيسر 6rem عند التمرير
+- `.hover:shadow-l-5` - صندوق الظل الأيسر 5rem عند التمرير
+- `.hover:shadow-l-4` - صندوق الظل الأيسر 4rem عند التمرير
+- `.hover:shadow-l-3` - صندوق الظل الأيسر 3rem عند التمرير
+- `.hover:shadow-l-2` - صندوق الظل الأيسر 2rem عند التمرير
+- `.hover:shadow-l-1` - صندوق الظل الأيسر 1rem عند التمرير
+- `.shadow-l-10` - صندوق الظل الأيسر 10rem
 - `.shadow-l-9` - صندوق الظل الأيسر 9rem
-- `.shadow-l-8` - صندوق الظل الأيسر 8ريم
-- `.shadow-l-7` - صندوق الظل الأيسر 7ريم
-- `.shadow-l-6` - صندوق الظل الأيسر 6ريم
-- `.shadow-l-5` - صندوق الظل الأيسر 5ريم
-- `.shadow-l-4` - صندوق الظل الأيسر 4ريم
+- `.shadow-l-8` - صندوق الظل الأيسر 8rem
+- `.shadow-l-7` - صندوق الظل الأيسر 7rem
+- `.shadow-l-6` - صندوق الظل الأيسر 6rem
+- `.shadow-l-5` - صندوق الظل الأيسر 5rem
+- `.shadow-l-4` - صندوق الظل الأيسر 4rem
 - `.shadow-l-3` - صندوق الظل الأيسر 3rem
-- `.shadow-l-2` - صندوق الظل الأيسر 2ريم
-- `.shadow-l-1` - صندوق الظل الأيسر 1ريم
+- `.shadow-l-2` - صندوق الظل الأيسر 2rem
+- `.shadow-l-1` - صندوق الظل الأيسر 1rem
 
 #### Box Shadow Right
 
-- `.hover:shadow-r-10` - Box Shadow يمين 10ريم عند التحويم
-- `.hover:shadow-r-9` - Box Shadow Right 9rem عند التحويم
-- `.hover:shadow-r-8` - Box Shadow Right 8rem عند التحويم
-- `.hover:shadow-r-7` - Box Shadow Right 7rem عند التحويم
-- `.hover:shadow-r-6` - Box Shadow Right 6rem عند التحويم
-- `.hover:shadow-r-5` - Box Shadow Right 5rem عند التحويم
-- `.hover:shadow-r-4` - Box Shadow Right 4rem عند التحويم
-- `.hover:shadow-r-3` - Box Shadow Right 3rem عند التحويم
-- `.hover:shadow-r-2` - Box Shadow Right 2rem عند التحويم
-- `.hover:shadow-r-1` - Box Shadow Right 1rem عند التحويم
-- `.shadow-r-10` - صندوق الظل الأيمن 10ريم
+- `.hover:shadow-r-10` - Box Shadow يمين 10rem عند التحويم
+- `.hover:shadow-r-9` - صندوق الظل الأيمن 9rem عند التمرير
+- `.hover:shadow-r-8` - صندوق الظل الأيمن 8rem عند التمرير
+- `.hover:shadow-r-7` - صندوق الظل الأيمن 7rem عند التمرير
+- `.hover:shadow-r-6` - صندوق الظل الأيمن 6rem عند التمرير
+- `.hover:shadow-r-5` - صندوق الظل الأيمن 5rem عند التمرير
+- `.hover:shadow-r-4` - صندوق الظل الأيمن 4rem عند التمرير
+- `.hover:shadow-r-3` - صندوق الظل الأيمن 3rem عند التمرير
+- `.hover:shadow-r-2` - صندوق الظل الأيمن 2rem عند التمرير
+- `.hover:shadow-r-1` - صندوق الظل الأيمن 1rem عند التمرير
+- `.shadow-r-10` - صندوق الظل الأيمن 10rem
 - `.shadow-r-9` - صندوق الظل الأيمن 9rem
-- `.shadow-r-8` - صندوق الظل الأيمن 8ريم
-- `.shadow-r-7` - صندوق الظل الأيمن 7ريم
-- `.shadow-r-6` - صندوق الظل الأيمن 6ريم
-- `.shadow-r-5` - صندوق الظل الأيمن 5ريم
-- `.shadow-r-4` - صندوق الظل الأيمن 4ريم
+- `.shadow-r-8` - صندوق الظل الأيمن 8rem
+- `.shadow-r-7` - صندوق الظل الأيمن 7rem
+- `.shadow-r-6` - صندوق الظل الأيمن 6rem
+- `.shadow-r-5` - صندوق الظل الأيمن 5rem
+- `.shadow-r-4` - صندوق الظل الأيمن 4rem
 - `.shadow-r-3` - صندوق الظل الأيمن 3rem
-- `.shadow-r-2` - صندوق الظل الأيمن 2ريم
+- `.shadow-r-2` - صندوق الظل الأيمن 2rem
 - `.shadow-r-1` - صندوق الظل الأيمن 1rem
 
 #### Box Shadow Top
 
-- `.hover:shadow-t-10` - Box Shadow Top 10rem عند التحويم
-- `.hover:shadow-t-9` - Box Shadow Top 9rem عند التحويم
-- `.hover:shadow-t-8` - Box Shadow Top 8rem عند التحويم
-- `.hover:shadow-t-7` - Box Shadow Top 7rem عند التحويم
-- `.hover:shadow-t-6` - Box Shadow Top 6rem عند التحويم
-- `.hover:shadow-t-5` - Box Shadow Top 5rem عند التحويم
-- `.hover:shadow-t-4` - Box Shadow Top 4rem عند التحويم
-- `.hover:shadow-t-3` - Box Shadow Top 3rem عند التحويم
-- `.hover:shadow-t-2` - Box Shadow Top 2rem عند التحويم
-- `.hover:shadow-t-1` - Box Shadow Top 1rem عند التحويم
-- `.shadow-t-10` - بوكس شادو توب 10ريم
+- `.hover:shadow-t-10` - صندوق الظل الأعلى 10rem عند التمرير
+- `.hover:shadow-t-9` - صندوق الظل الأعلى 9rem عند التمرير
+- `.hover:shadow-t-8` - صندوق الظل الأعلى 8rem عند التمرير
+- `.hover:shadow-t-7` - صندوق الظل الأعلى 7rem عند التمرير
+- `.hover:shadow-t-6` - صندوق الظل الأعلى 6rem عند التمرير
+- `.hover:shadow-t-5` - صندوق الظل الأعلى 5rem عند التمرير
+- `.hover:shadow-t-4` - صندوق الظل الأعلى 4rem عند التمرير
+- `.hover:shadow-t-3` - صندوق الظل الأعلى 3rem عند التمرير
+- `.hover:shadow-t-2` - صندوق الظل الأعلى 2rem عند التمرير
+- `.hover:shadow-t-1` - صندوق الظل الأعلى 1rem عند التمرير
+- `.shadow-t-10` - صندوق الظل الأعلى 10rem
 - `.shadow-t-9` - صندوق الظل الأعلى 9rem
-- `.shadow-t-8` - بوكس شادو توب 8ريم
-- `.shadow-t-7` - بوكس شادو توب 7ريم
-- `.shadow-t-6` - بوكس شادو توب 6ريم
+- `.shadow-t-8` - صندوق الظل الأعلى 8rem
+- `.shadow-t-7` - صندوق الظل الأعلى 7rem
+- `.shadow-t-6` - صندوق الظل الأعلى 6rem
 - `.shadow-t-5` - صندوق الظل الأعلى 5rem
-- `.shadow-t-4` - بوكس شادو توب 4ريم
+- `.shadow-t-4` - صندوق الظل الأعلى 4rem
 - `.shadow-t-3` - صندوق الظل الأعلى 3rem
 - `.shadow-t-2` - صندوق الظل الأعلى 2rem
 - `.shadow-t-1` - صندوق الظل الأعلى 1rem
@@ -5189,81 +5189,81 @@
 
 ### Translate
 
-- `.hover:translate-50` - ترجمة 50% عند التحويم
-- `.hover:translate-25` - ترجمة 25% عند التحويم
-- `.translate-50` - ترجمة 50%
-- `.translate-25` - ترجمة 25%
+- `.hover:translate-50` - الإزاحة 50% عند التمرير
+- `.hover:translate-25` - الإزاحة 25% عند التمرير
+- `.translate-50` - الإزاحة 50%
+- `.translate-25` - الإزاحة 25%
 
 ##### Negative Translate
 
-- `.-translate-50` - ترجمة سلبية 50%
-- `.-translate-25` - ترجمة سلبية 25%
-- `.hover:-translate-50` - ترجمة سلبية 50% عند التحويم
-- `.hover:-translate-25` - ترجمة سلبية 25% عند التحويم
+- `.-translate-50` - الإزاحة السلبية 50%
+- `.-translate-25` - الإزاحة السلبية 25%
+- `.hover:-translate-50` - الإزاحة السلبية 50% عند التمرير
+- `.hover:-translate-25` - الإزاحة السلبية 25% عند التمرير
 
 #### Translate X-Axis
 
-- `.hover:translate-x-50` - ترجمة المحور X 50% عند التمرير
-- `.hover:translate-x-25` - ترجمة المحور X 25% عند التحويم
-- `.hover:translate-x-2` - ترجمة المحور X 2rem عند التمرير
-- `.hover:translate-x-1.5` - ترجمة المحور السيني 0rem عند التمرير
-- `.hover:translate-x-1` - ترجمة المحور X 1rem عند التمرير
-- `.hover:translate-x-0.5` - ترجمة المحور X 0.5rem عند التمرير
-- `.hover:translate-x-0` - ترجمة المحور السيني 0rem عند التمرير
-- `.translate-x-50` - ترجمة المحور السيني 50%
-- `.translate-x-25` - ترجمة المحور السيني 25%
-- `.translate-x-2` - ترجمة المحور X 2rem
-- `.translate-x-1.5` - ترجمة المحور السيني 0rem
-- `.translate-x-1` - ترجمة المحور السيني 1rem
-- `.translate-x-0.5` - ترجمة المحور السيني 0.5rem
-- `.translate-x-0` - ترجمة المحور السيني 0rem
+- `.hover:translate-x-50` - الإزاحة المحور X 50% عند التمرير
+- `.hover:translate-x-25` - الإزاحة المحور X 25% عند التمرير
+- `.hover:translate-x-2` - الإزاحة المحور X 2rem عند التمرير
+- `.hover:translate-x-1.5` - الإزاحة المحور X 0rem عند التمرير
+- `.hover:translate-x-1` - الإزاحة المحور X 1rem عند التمرير
+- `.hover:translate-x-0.5` - الإزاحة المحور X 0.5rem عند التمرير
+- `.hover:translate-x-0` - الإزاحة المحور X 0rem عند التمرير
+- `.translate-x-50` - الإزاحة المحور X 50%
+- `.translate-x-25` - الإزاحة المحور X 25%
+- `.translate-x-2` - الإزاحة المحور X 2rem
+- `.translate-x-1.5` - الإزاحة المحور X 0rem
+- `.translate-x-1` - الإزاحة المحور X 1rem
+- `.translate-x-0.5` - الإزاحة المحور X 0.5rem
+- `.translate-x-0` - الإزاحة المحور X 0rem
 
 ##### Negative Translate X-Axis
 
-- `.-translate-x-50` - ترجمة سلبية للمحور X 50%
-- `.-translate-x-25` - ترجمة سلبية للمحور السيني 25%
-- `.-translate-x-2` - ترجمة سلبية للمحور X 2rem
-- `.-translate-x-1.5` - ترجمة سلبية للمحور X 1.5rem
-- `.-translate-x-1` - ترجمة سلبية للمحور X 1rem
-- `.-translate-x-0.5` - ترجمة سلبية للمحور X 0.5rem
-- `.hover:-translate-x-50` - ترجمة سلبية للمحور X 50% عند التمرير
-- `.hover:-translate-x-25` - ترجمة سلبية للمحور X 25% عند التمرير
-- `.hover:-translate-x-2` - ترجمة سلبية للمحور X 2rem عند التمرير
-- `.hover:-translate-x-1.5` - ترجمة سلبية للمحور X 1.5rem عند التمرير
-- `.hover:-translate-x-1` - ترجمة سلبية للمحور X 1rem عند التمرير
-- `.hover:-translate-x-0.5` - ترجمة سلبية للمحور X 0.5rem عند التمرير
+- `.-translate-x-50` - الإزاحة السلبية المحور X 50%
+- `.-translate-x-25` - الإزاحة السلبية المحور X 25%
+- `.-translate-x-2` - الإزاحة السلبية المحور X 2rem
+- `.-translate-x-1.5` - الإزاحة السلبية المحور X 1.5rem
+- `.-translate-x-1` - الإزاحة السلبية المحور X 1rem
+- `.-translate-x-0.5` - الإزاحة السلبية المحور X 0.5rem
+- `.hover:-translate-x-50` - الإزاحة السلبية المحور X 50% عند التمرير
+- `.hover:-translate-x-25` - الإزاحة السلبية المحور X 25% عند التمرير
+- `.hover:-translate-x-2` - الإزاحة السلبية المحور X 2rem عند التمرير
+- `.hover:-translate-x-1.5` - الإزاحة السلبية المحور X 1.5rem عند التمرير
+- `.hover:-translate-x-1` - الإزاحة السلبية المحور X 1rem عند التمرير
+- `.hover:-translate-x-0.5` - الإزاحة السلبية المحور X 0.5rem عند التمرير
 
 #### Translate Y-Axis
 
-- `.hover:translate-y-50` - ترجمة المحور Y 50% عند التمرير
-- `.hover:translate-y-25` - ترجمة المحور Y 25% عند التمرير
-- `.hover:translate-y-2` - ترجمة المحور Y 2rem عند التمرير
-- `.hover:translate-y-1.5` - ترجمة المحور Y 0rem عند التمرير
-- `.hover:translate-y-1` - ترجمة المحور Y 1rem عند التمرير
-- `.hover:translate-y-0.5` - ترجمة المحور Y 0.5rem عند التمرير
-- `.hover:translate-y-0` - ترجمة المحور Y 0rem عند التمرير
-- `.translate-y-50` - ترجمة المحور Y 50%
-- `.translate-y-25` - ترجمة المحور Y 25%
-- `.translate-y-2` - ترجمة المحور Y 2rem
-- `.translate-y-1.5` - ترجمة المحور Y 0rem
-- `.translate-y-1` - ترجمة المحور Y 1rem
-- `.translate-y-0.5` - ترجمة المحور Y 0.5rem
-- `.translate-y-0` - ترجمة المحور Y 0rem
+- `.hover:translate-y-50` - الإزاحة المحور Y 50% عند التمرير
+- `.hover:translate-y-25` - الإزاحة المحور Y 25% عند التمرير
+- `.hover:translate-y-2` - الإزاحة المحور Y 2rem عند التمرير
+- `.hover:translate-y-1.5` - الإزاحة المحور Y 0rem عند التمرير
+- `.hover:translate-y-1` - الإزاحة المحور Y 1rem عند التمرير
+- `.hover:translate-y-0.5` - الإزاحة المحور Y 0.5rem عند التمرير
+- `.hover:translate-y-0` - الإزاحة المحور Y 0rem عند التمرير
+- `.translate-y-50` - الإزاحة المحور Y 50%
+- `.translate-y-25` - الإزاحة المحور Y 25%
+- `.translate-y-2` - الإزاحة المحور Y 2rem
+- `.translate-y-1.5` - الإزاحة المحور Y 0rem
+- `.translate-y-1` - الإزاحة المحور Y 1rem
+- `.translate-y-0.5` - الإزاحة المحور Y 0.5rem
+- `.translate-y-0` - الإزاحة المحور Y 0rem
 
 ##### Negative Translate Y-Axis
 
-- `.-translate-y-50` - ترجمة سلبية للمحور Y 50%
-- `.-translate-y-25` - ترجمة سلبية للمحور Y 25%
-- `.-translate-y-2` - ترجمة سلبية للمحور Y 2rem
-- `.-translate-y-1.5` - ترجمة سلبية للمحور Y 1.5rem
-- `.-translate-y-1` - ترجمة سلبية للمحور Y 1rem
-- `.-translate-y-0.5` - ترجمة سلبية للمحور Y 0.5rem
-- `.hover:-translate-y-50` - ترجمة سلبية للمحور Y 50% عند التمرير
-- `.hover:-translate-y-25` - ترجمة سلبية للمحور Y 25% عند التمرير
-- `.hover:-translate-y-2` - ترجمة سلبية للمحور Y 2rem عند التمرير
-- `.hover:-translate-y-1.5` - ترجمة سلبية للمحور Y 1.5rem عند التمرير
-- `.hover:-translate-y-1` - ترجمة سلبية للمحور Y 1rem عند التمرير
-- `.hover:-translate-y-0.5` - ترجمة سلبية للمحور Y 0.5rem عند التمرير
+- `.-translate-y-50` - الإزاحة السلبية المحور Y 50%
+- `.-translate-y-25` - الإزاحة السلبية المحور Y 25%
+- `.-translate-y-2` - الإزاحة السلبية المحور Y 2rem
+- `.-translate-y-1.5` - الإزاحة السلبية المحور Y 1.5rem
+- `.-translate-y-1` - الإزاحة السلبية المحور Y 1rem
+- `.-translate-y-0.5` - الإزاحة السلبية المحور Y 0.5rem
+- `.hover:-translate-y-50` - الإزاحة السلبية المحور Y 50% عند التمرير
+- `.hover:-translate-y-25` - الإزاحة السلبية المحور Y 25% عند التمرير
+- `.hover:-translate-y-2` - الإزاحة السلبية المحور Y 2rem عند التمرير
+- `.hover:-translate-y-1.5` - الإزاحة السلبية المحور Y 1.5rem عند التمرير
+- `.hover:-translate-y-1` - الإزاحة السلبية المحور Y 1rem عند التمرير
+- `.hover:-translate-y-0.5` - الإزاحة السلبية المحور Y 0.5rem عند التمرير
 
 ### Zoom
 
@@ -5379,11 +5379,11 @@
 - `.hover:mse-1` - Mse 1rem عند التحويم
 - `.hover:mse-0.5` - Mse 0.5rem عند التحويم
 - `.hover:mse-0` - Mse 0rem عند التحويم
-- `.mse-2` - مس 2ريم
-- `.mse-1.5` - مس 1.5ريم
-- `.mse-1` - مس 1ريم
-- `.mse-0.5` - مس 0.5ريم
-- `.mse-0` - السيدة 0ريم
+- `.mse-2` - مس 2rem
+- `.mse-1.5` - مس 1.5rem
+- `.mse-1` - مس 1rem
+- `.mse-0.5` - مس 0.5rem
+- `.mse-0` - السيدة 0rem
 
 ### Visibility
 

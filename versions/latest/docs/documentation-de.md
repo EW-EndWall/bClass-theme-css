@@ -294,120 +294,120 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Float
 
-- `.float-end` - Float-Ende
-- `.float-left` - Nach links schweben
+- `.float-end` - Float Ende
+- `.float-left` - Float links
 - `.float-none` - Float keine
-- `.float-right` - Nach rechts schweben
-- `.float-start` - Schwimmstart
-- `.hover:float-end` - Schwebeende beim Schweben
-- `.hover:float-left` - Beim Schweben nach links schweben
-- `.hover:float-none` - Schweben Sie nicht beim Schweben
-- `.hover:float-right` - Schwebe direkt im Schwebeflug
-- `.hover:float-start` - Schwebestart im Schwebeflug
+- `.float-right` - Float rechts
+- `.float-start` - Float Anfang
+- `.hover:float-end` - Float Ende beim Hover
+- `.hover:float-left` - Float links beim Hover
+- `.hover:float-none` - Float keine beim Hover
+- `.hover:float-right` - Float rechts beim Hover
+- `.hover:float-start` - Float Anfang beim Hover
 
 ##### Float - Mobile (≤ 480px)
 
-- `.hover:mobile:float-end` - Float-Ende beim Hover auf dem Handy
-- `.hover:mobile:float-left` - Beim Schweben auf dem Handy nach links schweben
-- `.hover:mobile:float-none` - Schweben Sie nicht, wenn Sie den Mauszeiger auf dem Mobilgerät bewegen
-- `.hover:mobile:float-right` - Schweben Sie beim Hover auf dem Handy nach rechts
-- `.hover:mobile:float-start` - Float-Start beim Schweben auf dem Handy
-- `.mobile:float-end` - Float-Ende auf dem Handy
-- `.mobile:float-left` - Auf dem Handy nach links schweben
-- `.mobile:float-none` - Float none auf Mobilgeräten
-- `.mobile:float-right` - Schweben Sie direkt auf dem Handy
-- `.mobile:float-start` - Float-Start auf dem Handy
+- `.hover:mobile:float-end` - Float Ende beim Hover auf Mobilgeräten
+- `.hover:mobile:float-left` - Float links beim Hover auf Mobilgeräten
+- `.hover:mobile:float-none` - Float keine beim Hover auf Mobilgeräten
+- `.hover:mobile:float-right` - Float rechts beim Hover auf Mobilgeräten
+- `.hover:mobile:float-start` - Float Anfang beim Hover auf Mobilgeräten
+- `.mobile:float-end` - Float Ende auf Mobilgeräten
+- `.mobile:float-left` - Float links auf Mobilgeräten
+- `.mobile:float-none` - Float keine auf Mobilgeräten
+- `.mobile:float-right` - Float rechts auf Mobilgeräten
+- `.mobile:float-start` - Float Anfang auf Mobilgeräten
 
 ##### Float - Tablet (480px - 768px)
 
-- `.hover:tablet:float-end` - Float-Ende beim Schweben auf dem Tablet
-- `.hover:tablet:float-left` - Beim Schweben auf dem Tablet nach links schweben
-- `.hover:tablet:float-none` - Schweben Sie nicht, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.hover:tablet:float-right` - Schweben Sie nach rechts, wenn Sie auf dem Tablet schweben
-- `.hover:tablet:float-start` - Float-Start beim Hover auf dem Tablet
-- `.tablet:float-end` - Ende auf dem Tablet schweben lassen
-- `.tablet:float-left` - Auf dem Tablet nach links schweben
-- `.tablet:float-none` - Keine auf dem Tablet schweben lassen
-- `.tablet:float-right` - Schweben Sie direkt auf dem Tablet
-- `.tablet:float-start` - Float-Start auf dem Tablet
+- `.hover:tablet:float-end` - Float Ende beim Hover auf Tablets
+- `.hover:tablet:float-left` - Float links beim Hover auf Tablets
+- `.hover:tablet:float-none` - Float keine beim Hover auf Tablets
+- `.hover:tablet:float-right` - Float rechts beim Hover auf Tablets
+- `.hover:tablet:float-start` - Float Anfang beim Hover auf Tablets
+- `.tablet:float-end` - Float Ende auf Tablets
+- `.tablet:float-left` - Float links auf Tablets
+- `.tablet:float-none` - Float keine auf Tablets
+- `.tablet:float-right` - Float rechts auf Tablets
+- `.tablet:float-start` - Float Anfang auf Tablets
 
 ##### Float - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:float-end` - Float-Ende beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:float-left` - Beim Hover auf dem Tablet-PC nach links schweben
-- `.hover:tablet-pc:float-none` - Schweben Sie nicht, wenn Sie den Mauszeiger auf dem Tablet-PC bewegen
-- `.hover:tablet-pc:float-right` - Beim Hover auf dem Tablet-PC nach rechts schweben
-- `.hover:tablet-pc:float-start` - Float-Start beim Hover auf dem Tablet-PC
-- `.tablet-pc:float-end` - Float-Ende auf Tablet-PC
-- `.tablet-pc:float-left` - Auf dem Tablet-PC nach links schweben
-- `.tablet-pc:float-none` - Float keine auf dem Tablet-PC
-- `.tablet-pc:float-right` - Schweben Sie direkt auf dem Tablet-PC
-- `.tablet-pc:float-start` - Float-Start auf dem Tablet-PC
+- `.hover:tablet-pc:float-end` - Float Ende beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:float-left` - Float links beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:float-none` - Float keine beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:float-right` - Float rechts beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:float-start` - Float Anfang beim Hover auf Tablet-PCs
+- `.tablet-pc:float-end` - Float Ende auf Tablet-PCs
+- `.tablet-pc:float-left` - Float links auf Tablet-PCs
+- `.tablet-pc:float-none` - Float keine auf Tablet-PCs
+- `.tablet-pc:float-right` - Float rechts auf Tablet-PCs
+- `.tablet-pc:float-start` - Float Anfang auf Tablet-PCs
 
 ##### Float - Pc (992px - 1200px)
 
-- `.hover:pc:float-end` - Float-Ende beim Hover auf dem PC
-- `.hover:pc:float-left` - Beim Hover auf dem PC nach links schweben
-- `.hover:pc:float-none` - Schweben Sie nicht, wenn Sie den Mauszeiger auf dem PC bewegen
-- `.hover:pc:float-right` - Beim Hover auf dem PC nach rechts schweben
-- `.hover:pc:float-start` - Float-Start beim Schweben auf dem PC
-- `.pc:float-end` - Float-Ende am PC
-- `.pc:float-left` - Auf dem PC nach links schweben
-- `.pc:float-none` - Keine auf dem PC schweben lassen
-- `.pc:float-right` - Schweben Sie direkt auf dem PC
-- `.pc:float-start` - Float-Start auf dem PC
+- `.hover:pc:float-end` - Float Ende beim Hover auf dem PC
+- `.hover:pc:float-left` - Float links beim Hover auf dem PC
+- `.hover:pc:float-none` - Float keine beim Hover auf dem PC
+- `.hover:pc:float-right` - Float rechts beim Hover auf dem PC
+- `.hover:pc:float-start` - Float Anfang beim Hover auf dem PC
+- `.pc:float-end` - Float Ende auf dem PC
+- `.pc:float-left` - Float links auf dem PC
+- `.pc:float-none` - Float keine auf dem PC
+- `.pc:float-right` - Float rechts auf dem PC
+- `.pc:float-start` - Float Anfang auf dem PC
 
 ##### Float - Tv (≥ 1200px)
 
-- `.hover:tv:float-end` - Float-Ende beim Hover im Fernsehen
-- `.hover:tv:float-left` - Beim Schweben im Fernsehen nach links schweben
-- `.hover:tv:float-none` - Schweben Sie nicht, schweben Sie im Fernsehen
-- `.hover:tv:float-right` - Schweben Sie direkt beim Schweben im Fernsehen
-- `.hover:tv:float-start` - Schwebestart im Schwebeflug im Fernsehen
-- `.tv:float-end` - Float End im Fernsehen
-- `.tv:float-left` - Nach links schweben im Fernsehen
-- `.tv:float-none` - Schweben Sie nichts im Fernsehen
-- `.tv:float-right` - Schweben Sie direkt im Fernsehen
-- `.tv:float-start` - Float Start im Fernsehen
+- `.hover:tv:float-end` - Float Ende beim Hover auf dem TV
+- `.hover:tv:float-left` - Float links beim Hover auf dem TV
+- `.hover:tv:float-none` - Float keine beim Hover auf dem TV
+- `.hover:tv:float-right` - Float rechts beim Hover auf dem TV
+- `.hover:tv:float-start` - Float Anfang beim Hover auf dem TV
+- `.tv:float-end` - Float Ende auf dem TV
+- `.tv:float-left` - Float links auf dem TV
+- `.tv:float-none` - Float keine auf dem TV
+- `.tv:float-right` - Float rechts auf dem TV
+- `.tv:float-start` - Float Anfang auf dem TV
 
 ##### Float - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:float-end` - Float-Ende beim Schweben auf dem Tablet max
-- `.hover:tablet-max:float-left` - Beim Schweben auf dem Tablet nach links schweben, max
-- `.hover:tablet-max:float-none` - Float keine beim Schweben auf dem Tablet max
-- `.hover:tablet-max:float-right` - Beim Schweben auf dem Tablet nach rechts schweben, max
-- `.hover:tablet-max:float-start` - Float-Start beim Schweben auf dem Tablet max
-- `.tablet-max:float-end` - Float-Ende am Tablet max
-- `.tablet-max:float-left` - Nach links auf dem Tablet schweben max
-- `.tablet-max:float-none` - Float keine auf dem Tablet max
-- `.tablet-max:float-right` - Direkt auf dem Tablet schweben max
-- `.tablet-max:float-start` - Float-Start auf Tablet max
+- `.hover:tablet-max:float-end` - Float Ende beim Hover auf Tablets (max.)
+- `.hover:tablet-max:float-left` - Float links beim Hover auf Tablets (max.)
+- `.hover:tablet-max:float-none` - Float keine beim Hover auf Tablets (max.)
+- `.hover:tablet-max:float-right` - Float rechts beim Hover auf Tablets (max.)
+- `.hover:tablet-max:float-start` - Float Anfang beim Hover auf Tablets (max.)
+- `.tablet-max:float-end` - Float Ende auf Tablets (max.)
+- `.tablet-max:float-left` - Float links auf Tablets (max.)
+- `.tablet-max:float-none` - Float keine auf Tablets (max.)
+- `.tablet-max:float-right` - Float rechts auf Tablets (max.)
+- `.tablet-max:float-start` - Float Anfang auf Tablets (max.)
 
 ##### Float - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:float-end` - Float-Ende beim Schweben auf dem Tablet-PC max
-- `.hover:tablet-pc-max:float-left` - Beim Hover auf dem Tablet-PC nach links schweben, max
-- `.hover:tablet-pc-max:float-none` - Float keine beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:float-right` - Beim Hover auf dem Tablet-PC nach rechts schweben, max
-- `.hover:tablet-pc-max:float-start` - Float-Start beim Hover auf Tablet-PC max
-- `.tablet-pc-max:float-end` - Float-Ende am Tablet-PC max
-- `.tablet-pc-max:float-left` - Float links auf Tablet-PC max
-- `.tablet-pc-max:float-none` - Float keine auf Tablet-PC max
-- `.tablet-pc-max:float-right` - Rechts auf dem Tablet-PC schweben max
-- `.tablet-pc-max:float-start` - Float-Start auf Tablet-PC max
+- `.hover:tablet-pc-max:float-end` - Float Ende beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:float-left` - Float links beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:float-none` - Float keine beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:float-right` - Float rechts beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:float-start` - Float Anfang beim Hover auf Tablet-PCs (max.)
+- `.tablet-pc-max:float-end` - Float Ende auf Tablet-PCs (max.)
+- `.tablet-pc-max:float-left` - Float links auf Tablet-PCs (max.)
+- `.tablet-pc-max:float-none` - Float keine auf Tablet-PCs (max.)
+- `.tablet-pc-max:float-right` - Float rechts auf Tablet-PCs (max.)
+- `.tablet-pc-max:float-start` - Float Anfang auf Tablet-PCs (max.)
 
 ##### Float - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:float-end` - Float-Ende beim Hover auf dem PC max
-- `.hover:pc-max:float-left` - Beim Hover auf dem PC nach links schweben, max
-- `.hover:pc-max:float-none` - Float keine beim Hover auf dem PC max
-- `.hover:pc-max:float-right` - Beim Hover auf dem PC nach rechts schweben, max
-- `.hover:pc-max:float-start` - Float-Start beim Schweben auf dem PC max
-- `.pc-max:float-end` - Float-Ende am PC max
-- `.pc-max:float-left` - Float links auf dem PC max
-- `.pc-max:float-none` - Float keine auf dem PC max
-- `.pc-max:float-right` - Direkt auf dem PC schweben max
-- `.pc-max:float-start` - Float-Start am PC max
+- `.hover:pc-max:float-end` - Float Ende beim Hover auf dem PC (max.)
+- `.hover:pc-max:float-left` - Float links beim Hover auf dem PC (max.)
+- `.hover:pc-max:float-none` - Float keine beim Hover auf dem PC (max.)
+- `.hover:pc-max:float-right` - Float rechts beim Hover auf dem PC (max.)
+- `.hover:pc-max:float-start` - Float Anfang beim Hover auf dem PC (max.)
+- `.pc-max:float-end` - Float Ende auf dem PC (max.)
+- `.pc-max:float-left` - Float links auf dem PC (max.)
+- `.pc-max:float-none` - Float keine auf dem PC (max.)
+- `.pc-max:float-right` - Float rechts auf dem PC (max.)
+- `.pc-max:float-start` - Float Anfang auf dem PC (max.)
 
 ### Object
 
@@ -494,7 +494,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:tablet-max:object-fill` - Objektfüllung beim Schweben auf dem Tablet max
 - `.hover:tablet-max:object-none` - Kein Objekt beim Hovern auf dem Tablet, max
 - `.hover:tablet-max:object-scale` - Objektskalierung beim Schweben auf dem Tablet max
-- `.tablet-max:object-contain` - Objekt enthält max
+- `.tablet-max:object-contain` - Objekt enthalten auf Tablets (max.)
 - `.tablet-max:object-cover` - Objektabdeckung auf Tablet max
 - `.tablet-max:object-fill` - Objektfüllung auf Tablett max
 - `.tablet-max:object-none` - Objekt keines auf Tablet max
@@ -927,33 +927,33 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.gap-0.2` - Lücke Alle 0,2rem
 - `.gap-0.1` - Lücke Alle 0,1rem
 - `.gap-0` - Lücke Alle 0rem
-- `.hover:gap-5` - Gap All 5rem beim Schweben
-- `.hover:gap-4.5` - Gap All 0rem beim Hover
-- `.hover:gap-4` - Gap All 4rem beim Schweben
-- `.hover:gap-3.5` - Gap All 0rem beim Hover
-- `.hover:gap-3` - Gap All 3rem beim Hover
-- `.hover:gap-2.5` - Gap All 0rem beim Hover
-- `.hover:gap-2` - Gap All 2rem beim Schweben
-- `.hover:gap-1.9` - Gap All 0rem beim Hover
-- `.hover:gap-1.8` - Gap All 0rem beim Hover
-- `.hover:gap-1.7` - Gap All 0rem beim Hover
-- `.hover:gap-1.6` - Gap All 0rem beim Hover
-- `.hover:gap-1.5` - Gap All 0rem beim Hover
-- `.hover:gap-1.4` - Gap All 0rem beim Hover
-- `.hover:gap-1.3` - Gap All 0rem beim Hover
-- `.hover:gap-1.2` - Gap All 0rem beim Hover
-- `.hover:gap-1.1` - Gap All 0rem beim Hover
-- `.hover:gap-1` - Gap All 1rem beim Schweben
-- `.hover:gap-0.9` - Gap All 0rem beim Hover
-- `.hover:gap-0.8` - Gap All 0rem beim Hover
-- `.hover:gap-0.7` - Gap All 0rem beim Hover
-- `.hover:gap-0.6` - Gap All 0rem beim Hover
-- `.hover:gap-0.5` - Gap All 0rem beim Hover
-- `.hover:gap-0.4` - Gap All 0rem beim Hover
-- `.hover:gap-0.3` - Gap All 0rem beim Hover
+- `.hover:gap-5` - Lücke Alle 5rem beim Hover
+- `.hover:gap-4.5` - Lücke Alle 0rem beim Hover
+- `.hover:gap-4` - Lücke Alle 4rem beim Hover
+- `.hover:gap-3.5` - Lücke Alle 0rem beim Hover
+- `.hover:gap-3` - Lücke Alle 3rem beim Hover
+- `.hover:gap-2.5` - Lücke Alle 0rem beim Hover
+- `.hover:gap-2` - Lücke Alle 2rem beim Hover
+- `.hover:gap-1.9` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1.8` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1.7` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1.6` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1.5` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1.4` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1.3` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1.2` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1.1` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1` - Lücke Alle 1rem beim Hover
+- `.hover:gap-0.9` - Lücke Alle 0rem beim Hover
+- `.hover:gap-0.8` - Lücke Alle 0rem beim Hover
+- `.hover:gap-0.7` - Lücke Alle 0rem beim Hover
+- `.hover:gap-0.6` - Lücke Alle 0rem beim Hover
+- `.hover:gap-0.5` - Lücke Alle 0rem beim Hover
+- `.hover:gap-0.4` - Lücke Alle 0rem beim Hover
+- `.hover:gap-0.3` - Lücke Alle 0rem beim Hover
 - `.hover:gap-0.2` - Lücke Alle 0,2rem beim Schweben
 - `.hover:gap-0.1` - Lücke Alle 0,1rem beim Schweben
-- `.hover:gap-0` - Gap All 0rem beim Hover
+- `.hover:gap-0` - Lücke Alle 0rem beim Hover
 
 #### Gap X-Axis
 
@@ -1071,774 +1071,774 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Align content
 
-- `.align-content-around` - Richten Sie den Inhalt rundherum aus
-- `.align-content-between` - Inhalte dazwischen ausrichten
-- `.align-content-center` - Inhaltscenter ausrichten
-- `.align-content-end` - Inhalt am Ende ausrichten
-- `.align-content-evenly` - Inhalte gleichmäßig ausrichten
-- `.align-content-start` - Inhaltsanfang ausrichten
-- `.align-content-stretch` - Inhaltsdehnung ausrichten
-- `.hover:align-content-around` - Richten Sie den Inhalt beim Schweben rundherum aus
-- `.hover:align-content-between` - Richten Sie den Inhalt beim Hover aus
-- `.hover:align-content-center` - Inhaltscenter beim Hover ausrichten
-- `.hover:align-content-end` - Richten Sie den Inhalt beim Hover am Ende aus
-- `.hover:align-content-evenly` - Richten Sie den Inhalt beim Schweben gleichmäßig aus
-- `.hover:align-content-start` - Richten Sie den Inhalt beim Hover aus
-- `.hover:align-content-stretch` - Richten Sie die Inhaltsdehnung beim Hover aus
+- `.align-content-around` - Inhalt ausrichten: around
+- `.align-content-between` - Inhalt ausrichten: between
+- `.align-content-center` - Inhalt ausrichten: Mitte
+- `.align-content-end` - Inhalt ausrichten: Ende
+- `.align-content-evenly` - Inhalt ausrichten: evenly
+- `.align-content-start` - Inhalt ausrichten: Start
+- `.align-content-stretch` - Inhalt ausrichten: stretch
+- `.hover:align-content-around` - Inhalt ausrichten: around beim Hover
+- `.hover:align-content-between` - Inhalt ausrichten: between beim Hover
+- `.hover:align-content-center` - Inhalt ausrichten: Mitte beim Hover
+- `.hover:align-content-end` - Inhalt ausrichten: Ende beim Hover
+- `.hover:align-content-evenly` - Inhalt ausrichten: evenly beim Hover
+- `.hover:align-content-start` - Inhalt ausrichten: Start beim Hover
+- `.hover:align-content-stretch` - Inhalt ausrichten: stretch beim Hover
 
 ##### Align content - Mobile (≤ 480px)
 
-- `.hover:mobile:align-content-around` - Richten Sie den Inhalt beim Hover auf Mobilgeräten aus
-- `.hover:mobile:align-content-between` - Richten Sie Inhalte beim Hover auf Mobilgeräten aus
-- `.hover:mobile:align-content-center` - Richten Sie das Inhaltscenter beim Hover auf Mobilgeräten aus
-- `.hover:mobile:align-content-end` - Richten Sie den Inhalt am Ende aus, wenn Sie den Mauszeiger auf dem Mobilgerät bewegen
-- `.hover:mobile:align-content-evenly` - Richten Sie den Inhalt beim Hover auf Mobilgeräten gleichmäßig aus
-- `.hover:mobile:align-content-start` - Richten Sie den Inhalt beim Hover auf Mobilgeräten aus
-- `.hover:mobile:align-content-stretch` - Richten Sie die Inhaltsausdehnung beim Hover auf Mobilgeräten aus
-- `.mobile:align-content-around` - Richten Sie Inhalte auf Mobilgeräten aus
-- `.mobile:align-content-between` - Inhalte auf Mobilgeräten ausrichten
-- `.mobile:align-content-center` - Inhaltscenter auf Mobilgeräten ausrichten
-- `.mobile:align-content-end` - Inhalte auf Mobilgeräten ausrichten
-- `.mobile:align-content-evenly` - Richten Sie Inhalte auf Mobilgeräten gleichmäßig aus
-- `.mobile:align-content-start` - Richten Sie den Content-Start auf Mobilgeräten aus
-- `.mobile:align-content-stretch` - Passen Sie die Inhaltsausdehnung auf Mobilgeräten an
+- `.hover:mobile:align-content-around` - Inhalt ausrichten: around beim Hover auf Mobilgeräten
+- `.hover:mobile:align-content-between` - Inhalt ausrichten: between beim Hover auf Mobilgeräten
+- `.hover:mobile:align-content-center` - Inhalt ausrichten: Mitte beim Hover auf Mobilgeräten
+- `.hover:mobile:align-content-end` - Inhalt ausrichten: Ende beim Hover auf Mobilgeräten
+- `.hover:mobile:align-content-evenly` - Inhalt ausrichten: evenly beim Hover auf Mobilgeräten
+- `.hover:mobile:align-content-start` - Inhalt ausrichten: Start beim Hover auf Mobilgeräten
+- `.hover:mobile:align-content-stretch` - Inhalt ausrichten: stretch beim Hover auf Mobilgeräten
+- `.mobile:align-content-around` - Inhalt ausrichten: around auf Mobilgeräten
+- `.mobile:align-content-between` - Inhalt ausrichten: between auf Mobilgeräten
+- `.mobile:align-content-center` - Inhalt ausrichten: Mitte auf Mobilgeräten
+- `.mobile:align-content-end` - Inhalt ausrichten: Ende auf Mobilgeräten
+- `.mobile:align-content-evenly` - Inhalt ausrichten: evenly auf Mobilgeräten
+- `.mobile:align-content-start` - Inhalt ausrichten: Start auf Mobilgeräten
+- `.mobile:align-content-stretch` - Inhalt ausrichten: stretch auf Mobilgeräten
 
 ##### Align content - Tablet (480px - 768px)
 
-- `.hover:tablet:align-content-around` - Richten Sie den Inhalt beim Bewegen des Mauszeigers auf dem Tablet aus
-- `.hover:tablet:align-content-between` - Richten Sie den Inhalt beim Bewegen des Mauszeigers auf dem Tablet aus
-- `.hover:tablet:align-content-center` - Richten Sie das Inhaltscenter aus, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.hover:tablet:align-content-end` - Richten Sie den Inhalt am Ende aus, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:align-content-evenly` - Richten Sie den Inhalt gleichmäßig aus, wenn Sie den Mauszeiger über das Tablet bewegen
-- `.hover:tablet:align-content-start` - Richten Sie den Inhalt aus, wenn Sie den Mauszeiger auf dem Tablet bewegen
-- `.hover:tablet:align-content-stretch` - Richten Sie den Inhalt beim Bewegen des Mauszeigers auf dem Tablet aus
-- `.tablet:align-content-around` - Richten Sie Inhalte auf dem Tablet aus
-- `.tablet:align-content-between` - Inhalte auf dem Tablet ausrichten
-- `.tablet:align-content-center` - Richten Sie das Inhaltscenter auf dem Tablet aus
-- `.tablet:align-content-end` - Richten Sie den Inhalt am Ende des Tablets aus
-- `.tablet:align-content-evenly` - Richten Sie Inhalte gleichmäßig auf dem Tablet aus
-- `.tablet:align-content-start` - Richten Sie den Inhalt auf dem Tablet aus
-- `.tablet:align-content-stretch` - Richten Sie den Inhalt auf dem Tablet aus
+- `.hover:tablet:align-content-around` - Inhalt ausrichten: around beim Hover auf Tablets
+- `.hover:tablet:align-content-between` - Inhalt ausrichten: between beim Hover auf Tablets
+- `.hover:tablet:align-content-center` - Inhalt ausrichten: Mitte beim Hover auf Tablets
+- `.hover:tablet:align-content-end` - Inhalt ausrichten: Ende beim Hover auf Tablets
+- `.hover:tablet:align-content-evenly` - Inhalt ausrichten: evenly beim Hover auf Tablets
+- `.hover:tablet:align-content-start` - Inhalt ausrichten: Start beim Hover auf Tablets
+- `.hover:tablet:align-content-stretch` - Inhalt ausrichten: stretch beim Hover auf Tablets
+- `.tablet:align-content-around` - Inhalt ausrichten: around auf Tablets
+- `.tablet:align-content-between` - Inhalt ausrichten: between auf Tablets
+- `.tablet:align-content-center` - Inhalt ausrichten: Mitte auf Tablets
+- `.tablet:align-content-end` - Inhalt ausrichten: Ende auf Tablets
+- `.tablet:align-content-evenly` - Inhalt ausrichten: evenly auf Tablets
+- `.tablet:align-content-start` - Inhalt ausrichten: Start auf Tablets
+- `.tablet:align-content-stretch` - Inhalt ausrichten: stretch auf Tablets
 
 ##### Align content - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:align-content-around` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC rundherum aus
-- `.hover:tablet-pc:align-content-between` - Richten Sie den Inhalt beim Bewegen des Mauszeigers auf dem Tablet-PC aus
-- `.hover:tablet-pc:align-content-center` - Richten Sie das Inhaltscenter beim Hover auf dem Tablet-PC aus
-- `.hover:tablet-pc:align-content-end` - Richten Sie den Inhalt am Ende aus, wenn Sie den Mauszeiger auf dem Tablet-PC halten
-- `.hover:tablet-pc:align-content-evenly` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC gleichmäßig aus
-- `.hover:tablet-pc:align-content-start` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC aus
-- `.hover:tablet-pc:align-content-stretch` - Richten Sie die Inhaltsdehnung aus, wenn Sie den Mauszeiger auf dem Tablet-PC halten
-- `.tablet-pc:align-content-around` - Richten Sie Inhalte auf dem Tablet-PC aus
-- `.tablet-pc:align-content-between` - Inhalte auf dem Tablet-PC ausrichten
-- `.tablet-pc:align-content-center` - Richten Sie das Inhaltscenter auf dem Tablet-PC aus
-- `.tablet-pc:align-content-end` - Richten Sie den Inhalt am Ende des Tablet-PCs aus
-- `.tablet-pc:align-content-evenly` - Inhalte gleichmäßig auf dem Tablet-PC ausrichten
-- `.tablet-pc:align-content-start` - Richten Sie den Inhalt auf dem Tablet-PC aus
-- `.tablet-pc:align-content-stretch` - Richten Sie den Inhalt auf dem Tablet-PC aus
+- `.hover:tablet-pc:align-content-around` - Inhalt ausrichten: around beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-content-between` - Inhalt ausrichten: between beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-content-center` - Inhalt ausrichten: Mitte beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-content-end` - Inhalt ausrichten: Ende beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-content-evenly` - Inhalt ausrichten: evenly beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-content-start` - Inhalt ausrichten: Start beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-content-stretch` - Inhalt ausrichten: stretch beim Hover auf Tablet-PCs
+- `.tablet-pc:align-content-around` - Inhalt ausrichten: around auf Tablet-PCs
+- `.tablet-pc:align-content-between` - Inhalt ausrichten: between auf Tablet-PCs
+- `.tablet-pc:align-content-center` - Inhalt ausrichten: Mitte auf Tablet-PCs
+- `.tablet-pc:align-content-end` - Inhalt ausrichten: Ende auf Tablet-PCs
+- `.tablet-pc:align-content-evenly` - Inhalt ausrichten: evenly auf Tablet-PCs
+- `.tablet-pc:align-content-start` - Inhalt ausrichten: Start auf Tablet-PCs
+- `.tablet-pc:align-content-stretch` - Inhalt ausrichten: stretch auf Tablet-PCs
 
 ##### Align content - Pc (992px - 1200px)
 
-- `.hover:pc:align-content-around` - Richten Sie den Inhalt beim Hover auf dem PC aus
-- `.hover:pc:align-content-between` - Inhalte beim Hover auf dem PC ausrichten
-- `.hover:pc:align-content-center` - Richten Sie das Inhaltscenter beim Hover auf dem PC aus
-- `.hover:pc:align-content-end` - Richten Sie den Inhalt beim Hover auf dem PC am Ende aus
-- `.hover:pc:align-content-evenly` - Richten Sie den Inhalt beim Hover auf dem PC gleichmäßig aus
-- `.hover:pc:align-content-start` - Richten Sie den Inhalt beim Hover auf dem PC aus
-- `.hover:pc:align-content-stretch` - Richten Sie die Inhaltsdehnung beim Hover auf dem PC aus
-- `.pc:align-content-around` - Inhalte rund um den PC ausrichten
-- `.pc:align-content-between` - Inhalte auf dem PC ausrichten
-- `.pc:align-content-center` - Inhaltscenter am PC ausrichten
-- `.pc:align-content-end` - Inhalt am PC ausrichten
-- `.pc:align-content-evenly` - Inhalte gleichmäßig auf dem PC ausrichten
-- `.pc:align-content-start` - Richten Sie den Inhalt auf dem PC aus
-- `.pc:align-content-stretch` - Richten Sie den Inhalt auf dem PC aus
+- `.hover:pc:align-content-around` - Inhalt ausrichten: around beim Hover auf dem PC
+- `.hover:pc:align-content-between` - Inhalt ausrichten: between beim Hover auf dem PC
+- `.hover:pc:align-content-center` - Inhalt ausrichten: Mitte beim Hover auf dem PC
+- `.hover:pc:align-content-end` - Inhalt ausrichten: Ende beim Hover auf dem PC
+- `.hover:pc:align-content-evenly` - Inhalt ausrichten: evenly beim Hover auf dem PC
+- `.hover:pc:align-content-start` - Inhalt ausrichten: Start beim Hover auf dem PC
+- `.hover:pc:align-content-stretch` - Inhalt ausrichten: stretch beim Hover auf dem PC
+- `.pc:align-content-around` - Inhalt ausrichten: around auf dem PC
+- `.pc:align-content-between` - Inhalt ausrichten: between auf dem PC
+- `.pc:align-content-center` - Inhalt ausrichten: Mitte auf dem PC
+- `.pc:align-content-end` - Inhalt ausrichten: Ende auf dem PC
+- `.pc:align-content-evenly` - Inhalt ausrichten: evenly auf dem PC
+- `.pc:align-content-start` - Inhalt ausrichten: Start auf dem PC
+- `.pc:align-content-stretch` - Inhalt ausrichten: stretch auf dem PC
 
 ##### Align content - Tv (≥ 1200px)
 
-- `.hover:tv:align-content-around` - Richten Sie den Inhalt beim Hover auf dem Fernseher aus
-- `.hover:tv:align-content-between` - Richten Sie den Inhalt beim Hover auf dem Fernseher aus
-- `.hover:tv:align-content-center` - Richten Sie das Inhaltscenter beim Bewegen des Mauszeigers auf dem Fernseher aus
-- `.hover:tv:align-content-end` - Richten Sie den Inhalt am Ende aus, wenn Sie mit der Maus über den Fernseher fahren
-- `.hover:tv:align-content-evenly` - Richten Sie den Inhalt gleichmäßig aus, wenn Sie den Mauszeiger über den Fernseher bewegen
-- `.hover:tv:align-content-start` - Richten Sie den Inhalt aus, indem Sie ihn mit der Maus über den Fernseher bewegen
-- `.hover:tv:align-content-stretch` - Richten Sie die Inhaltsausdehnung aus, wenn Sie den Mauszeiger auf dem Fernseher bewegen
-- `.tv:align-content-around` - Richten Sie Inhalte im Fernsehen aus
-- `.tv:align-content-between` - Richten Sie Inhalte im Fernsehen aus
-- `.tv:align-content-center` - Inhaltscenter auf dem Fernseher ausrichten
-- `.tv:align-content-end` - Richten Sie den Inhalt am Ende des Fernsehers aus
-- `.tv:align-content-evenly` - Richten Sie Inhalte gleichmäßig auf dem Fernseher aus
-- `.tv:align-content-start` - Richten Sie den Inhaltsstart im Fernsehen aus
-- `.tv:align-content-stretch` - Richten Sie den Inhalt auf dem Fernseher aus
+- `.hover:tv:align-content-around` - Inhalt ausrichten: around beim Hover auf dem TV
+- `.hover:tv:align-content-between` - Inhalt ausrichten: between beim Hover auf dem TV
+- `.hover:tv:align-content-center` - Inhalt ausrichten: Mitte beim Hover auf dem TV
+- `.hover:tv:align-content-end` - Inhalt ausrichten: Ende beim Hover auf dem TV
+- `.hover:tv:align-content-evenly` - Inhalt ausrichten: evenly beim Hover auf dem TV
+- `.hover:tv:align-content-start` - Inhalt ausrichten: Start beim Hover auf dem TV
+- `.hover:tv:align-content-stretch` - Inhalt ausrichten: stretch beim Hover auf dem TV
+- `.tv:align-content-around` - Inhalt ausrichten: around auf dem TV
+- `.tv:align-content-between` - Inhalt ausrichten: between auf dem TV
+- `.tv:align-content-center` - Inhalt ausrichten: Mitte auf dem TV
+- `.tv:align-content-end` - Inhalt ausrichten: Ende auf dem TV
+- `.tv:align-content-evenly` - Inhalt ausrichten: evenly auf dem TV
+- `.tv:align-content-start` - Inhalt ausrichten: Start auf dem TV
+- `.tv:align-content-stretch` - Inhalt ausrichten: stretch auf dem TV
 
 ##### Align content - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:align-content-around` - Richten Sie den Inhalt beim Hover auf dem Tablet maximal aus
-- `.hover:tablet-max:align-content-between` - Richten Sie den Inhalt beim Hover auf dem Tablet max. aus
-- `.hover:tablet-max:align-content-center` - Richten Sie den Inhalt beim Hover auf dem Tablet maximal zentriert aus
-- `.hover:tablet-max:align-content-end` - Richten Sie den Inhalt am Ende aus, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.hover:tablet-max:align-content-evenly` - Richten Sie den Inhalt gleichmäßig aus, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.hover:tablet-max:align-content-start` - Inhalte ausrichten, beginnend beim Hover auf dem Tablet max
-- `.hover:tablet-max:align-content-stretch` - Richten Sie den Inhalt beim Hover auf dem Tablet maximal aus
-- `.tablet-max:align-content-around` - Richten Sie den Inhalt maximal auf dem Tablet aus
-- `.tablet-max:align-content-between` - Inhalte auf dem Tablet max. ausrichten
-- `.tablet-max:align-content-center` - Richten Sie das Inhaltscenter maximal auf dem Tablet aus
-- `.tablet-max:align-content-end` - Richten Sie den Inhalt maximal auf dem Tablet aus
-- `.tablet-max:align-content-evenly` - Richten Sie den Inhalt gleichmäßig auf dem Tablet aus, max
-- `.tablet-max:align-content-start` - Inhalte ab Beginn auf Tablet ausrichten max
-- `.tablet-max:align-content-stretch` - Inhalt auf dem Tablet maximal ausrichten
+- `.hover:tablet-max:align-content-around` - Inhalt ausrichten: around beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-content-between` - Inhalt ausrichten: between beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-content-center` - Inhalt ausrichten: Mitte beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-content-end` - Inhalt ausrichten: Ende beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-content-evenly` - Inhalt ausrichten: evenly beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-content-start` - Inhalt ausrichten: Start beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-content-stretch` - Inhalt ausrichten: stretch beim Hover auf Tablets (max.)
+- `.tablet-max:align-content-around` - Inhalt ausrichten: around auf Tablets (max.)
+- `.tablet-max:align-content-between` - Inhalt ausrichten: between auf Tablets (max.)
+- `.tablet-max:align-content-center` - Inhalt ausrichten: Mitte auf Tablets (max.)
+- `.tablet-max:align-content-end` - Inhalt ausrichten: Ende auf Tablets (max.)
+- `.tablet-max:align-content-evenly` - Inhalt ausrichten: evenly auf Tablets (max.)
+- `.tablet-max:align-content-start` - Inhalt ausrichten: Start auf Tablets (max.)
+- `.tablet-max:align-content-stretch` - Inhalt ausrichten: stretch auf Tablets (max.)
 
 ##### Align content - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:align-content-around` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC max. aus
-- `.hover:tablet-pc-max:align-content-between` - Inhalte beim Hover auf Tablet-PC max. ausrichten
-- `.hover:tablet-pc-max:align-content-center` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC max. zentriert aus
-- `.hover:tablet-pc-max:align-content-end` - Richten Sie den Inhalt am Ende des Hovers auf dem Tablet-PC aus
-- `.hover:tablet-pc-max:align-content-evenly` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC gleichmäßig aus
-- `.hover:tablet-pc-max:align-content-start` - Inhalte ausrichten, beginnend beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:align-content-stretch` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC maximal aus
-- `.tablet-pc-max:align-content-around` - Richten Sie Inhalte maximal auf dem Tablet-PC aus
-- `.tablet-pc-max:align-content-between` - Inhalte auf Tablet-PC max. ausrichten
-- `.tablet-pc-max:align-content-center` - Inhaltscenter auf Tablet-PC max. ausrichten
-- `.tablet-pc-max:align-content-end` - Inhalt am Tablet-PC max. ausrichten
-- `.tablet-pc-max:align-content-evenly` - Inhalte gleichmäßig auf dem Tablet-PC ausrichten max
-- `.tablet-pc-max:align-content-start` - Inhalt auf Tablet-PC starten max
-- `.tablet-pc-max:align-content-stretch` - Inhalt auf Tablet-PC maximal ausrichten
+- `.hover:tablet-pc-max:align-content-around` - Inhalt ausrichten: around beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-content-between` - Inhalt ausrichten: between beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-content-center` - Inhalt ausrichten: Mitte beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-content-end` - Inhalt ausrichten: Ende beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-content-evenly` - Inhalt ausrichten: evenly beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-content-start` - Inhalt ausrichten: Start beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-content-stretch` - Inhalt ausrichten: stretch beim Hover auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-content-around` - Inhalt ausrichten: around auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-content-between` - Inhalt ausrichten: between auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-content-center` - Inhalt ausrichten: Mitte auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-content-end` - Inhalt ausrichten: Ende auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-content-evenly` - Inhalt ausrichten: evenly auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-content-start` - Inhalt ausrichten: Start auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-content-stretch` - Inhalt ausrichten: stretch auf Tablet-PCs (max.)
 
 ##### Align content - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:align-content-around` - Richten Sie den Inhalt beim Hover auf dem PC max. aus
-- `.hover:pc-max:align-content-between` - Inhalte beim Hover auf dem PC max. ausrichten
-- `.hover:pc-max:align-content-center` - Richten Sie das Inhaltscenter beim Hover auf dem PC max. aus
-- `.hover:pc-max:align-content-end` - Richten Sie den Inhalt am Ende des Hovers auf dem PC aus
-- `.hover:pc-max:align-content-evenly` - Richten Sie den Inhalt beim Hover auf dem PC gleichmäßig aus
-- `.hover:pc-max:align-content-start` - Richten Sie den Inhalt beim Hover auf dem PC aus, max
-- `.hover:pc-max:align-content-stretch` - Inhaltsdehnung beim Hover auf PC max. ausrichten
-- `.pc-max:align-content-around` - Richten Sie den Inhalt maximal auf dem PC aus
-- `.pc-max:align-content-between` - Inhalte auf PC max. ausrichten
-- `.pc-max:align-content-center` - Richten Sie das Inhaltscenter maximal auf dem PC aus
-- `.pc-max:align-content-end` - Inhalt am PC max. ausrichten
-- `.pc-max:align-content-evenly` - Inhalte gleichmäßig auf dem PC ausrichten, max
-- `.pc-max:align-content-start` - Inhalte ab Anfang am PC ausrichten max
-- `.pc-max:align-content-stretch` - Inhaltsdehnung auf PC max. ausrichten
+- `.hover:pc-max:align-content-around` - Inhalt ausrichten: around beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-content-between` - Inhalt ausrichten: between beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-content-center` - Inhalt ausrichten: Mitte beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-content-end` - Inhalt ausrichten: Ende beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-content-evenly` - Inhalt ausrichten: evenly beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-content-start` - Inhalt ausrichten: Start beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-content-stretch` - Inhalt ausrichten: stretch beim Hover auf dem PC (max.)
+- `.pc-max:align-content-around` - Inhalt ausrichten: around auf dem PC (max.)
+- `.pc-max:align-content-between` - Inhalt ausrichten: between auf dem PC (max.)
+- `.pc-max:align-content-center` - Inhalt ausrichten: Mitte auf dem PC (max.)
+- `.pc-max:align-content-end` - Inhalt ausrichten: Ende auf dem PC (max.)
+- `.pc-max:align-content-evenly` - Inhalt ausrichten: evenly auf dem PC (max.)
+- `.pc-max:align-content-start` - Inhalt ausrichten: Start auf dem PC (max.)
+- `.pc-max:align-content-stretch` - Inhalt ausrichten: stretch auf dem PC (max.)
 
 ### Align items
 
-- `.align-items-center` - Elemente zentriert ausrichten
-- `.align-items-end` - Elemente am Ende ausrichten
-- `.align-items-start` - Elemente ausrichten beginnen
-- `.align-items-stretch` - Richten Sie die Elemente streckend aus
-- `.hover:align-items-center` - Elemente beim Schweben zentriert ausrichten
-- `.hover:align-items-end` - Elemente ausrichten enden beim Schweben
-- `.hover:align-items-start` - Das Ausrichten von Elementen beginnt beim Schweben
-- `.hover:align-items-stretch` - Richten Sie die gestreckten Elemente beim Schweben aus
+- `.align-items-center` - Elemente ausrichten: Mitte
+- `.align-items-end` - Elemente ausrichten: Ende
+- `.align-items-start` - Elemente ausrichten: Start
+- `.align-items-stretch` - Elemente ausrichten: stretch
+- `.hover:align-items-center` - Elemente ausrichten: Mitte beim Hover
+- `.hover:align-items-end` - Elemente ausrichten: Ende beim Hover
+- `.hover:align-items-start` - Elemente ausrichten: Start beim Hover
+- `.hover:align-items-stretch` - Elemente ausrichten: stretch beim Hover
 
 ##### Align items - Mobile (≤ 480px)
 
-- `.hover:mobile:align-items-center` - Richten Sie Elemente beim Bewegen des Mauszeigers auf dem Mobilgerät zentriert aus
-- `.hover:mobile:align-items-end` - Richten Sie Elemente am Ende aus, wenn Sie den Mauszeiger auf dem Mobilgerät bewegen
-- `.hover:mobile:align-items-start` - Das Ausrichten von Elementen beginnt beim Hover auf Mobilgeräten
-- `.hover:mobile:align-items-stretch` - Richten Sie Elemente aus, wenn Sie den Mauszeiger auf dem Mobilgerät bewegen
-- `.mobile:align-items-center` - Richten Sie Elemente auf dem Mobilgerät zentriert aus
-- `.mobile:align-items-end` - Elemente am Ende auf Mobilgeräten ausrichten
-- `.mobile:align-items-start` - Das Ausrichten von Elementen beginnt auf Mobilgeräten
-- `.mobile:align-items-stretch` - Richten Sie die gestreckten Elemente auf dem Mobilgerät aus
+- `.hover:mobile:align-items-center` - Elemente ausrichten: Mitte beim Hover auf Mobilgeräten
+- `.hover:mobile:align-items-end` - Elemente ausrichten: Ende beim Hover auf Mobilgeräten
+- `.hover:mobile:align-items-start` - Elemente ausrichten: Start beim Hover auf Mobilgeräten
+- `.hover:mobile:align-items-stretch` - Elemente ausrichten: stretch beim Hover auf Mobilgeräten
+- `.mobile:align-items-center` - Elemente ausrichten: Mitte auf Mobilgeräten
+- `.mobile:align-items-end` - Elemente ausrichten: Ende auf Mobilgeräten
+- `.mobile:align-items-start` - Elemente ausrichten: Start auf Mobilgeräten
+- `.mobile:align-items-stretch` - Elemente ausrichten: stretch auf Mobilgeräten
 
 ##### Align items - Tablet (480px - 768px)
 
-- `.hover:tablet:align-items-center` - Richten Sie Elemente beim Bewegen des Mauszeigers auf dem Tablet zentriert aus
-- `.hover:tablet:align-items-end` - Richten Sie die Enden der Elemente aus, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:align-items-start` - Das Ausrichten von Elementen beginnt, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:align-items-stretch` - Richten Sie Elemente aus, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.tablet:align-items-center` - Richten Sie die Elemente mittig auf dem Tablet aus
-- `.tablet:align-items-end` - Richten Sie die Enden der Elemente auf dem Tablet aus
-- `.tablet:align-items-start` - Richten Sie Elemente beginnend auf dem Tablet aus
-- `.tablet:align-items-stretch` - Richten Sie die Elemente auf dem Tablet aus
+- `.hover:tablet:align-items-center` - Elemente ausrichten: Mitte beim Hover auf Tablets
+- `.hover:tablet:align-items-end` - Elemente ausrichten: Ende beim Hover auf Tablets
+- `.hover:tablet:align-items-start` - Elemente ausrichten: Start beim Hover auf Tablets
+- `.hover:tablet:align-items-stretch` - Elemente ausrichten: stretch beim Hover auf Tablets
+- `.tablet:align-items-center` - Elemente ausrichten: Mitte auf Tablets
+- `.tablet:align-items-end` - Elemente ausrichten: Ende auf Tablets
+- `.tablet:align-items-start` - Elemente ausrichten: Start auf Tablets
+- `.tablet:align-items-stretch` - Elemente ausrichten: stretch auf Tablets
 
 ##### Align items - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:align-items-center` - Richten Sie Elemente beim Bewegen des Mauszeigers auf dem Tablet-PC zentriert aus
-- `.hover:tablet-pc:align-items-end` - Richten Sie die Enden der Elemente aus, wenn Sie den Mauszeiger auf dem Tablet-PC halten
-- `.hover:tablet-pc:align-items-start` - Das Ausrichten von Elementen beginnt beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:align-items-stretch` - Richten Sie die gestreckten Elemente beim Schweben auf dem Tablet-PC aus
-- `.tablet-pc:align-items-center` - Richten Sie die Elemente auf dem Tablet-PC zentriert aus
-- `.tablet-pc:align-items-end` - Richten Sie die Enden der Elemente auf dem Tablet-PC aus
-- `.tablet-pc:align-items-start` - Ausrichten von Elementen beginnt auf dem Tablet-PC
-- `.tablet-pc:align-items-stretch` - Richten Sie die gestreckten Elemente auf dem Tablet-PC aus
+- `.hover:tablet-pc:align-items-center` - Elemente ausrichten: Mitte beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-items-end` - Elemente ausrichten: Ende beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-items-start` - Elemente ausrichten: Start beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-items-stretch` - Elemente ausrichten: stretch beim Hover auf Tablet-PCs
+- `.tablet-pc:align-items-center` - Elemente ausrichten: Mitte auf Tablet-PCs
+- `.tablet-pc:align-items-end` - Elemente ausrichten: Ende auf Tablet-PCs
+- `.tablet-pc:align-items-start` - Elemente ausrichten: Start auf Tablet-PCs
+- `.tablet-pc:align-items-stretch` - Elemente ausrichten: stretch auf Tablet-PCs
 
 ##### Align items - Pc (992px - 1200px)
 
-- `.hover:pc:align-items-center` - Richten Sie die Elemente beim Bewegen des Mauszeigers auf dem PC zentriert aus
-- `.hover:pc:align-items-end` - Richten Sie die Enden der Elemente aus, wenn Sie den Mauszeiger auf dem PC halten
-- `.hover:pc:align-items-start` - Das Ausrichten von Elementen beginnt beim Hover auf dem PC
-- `.hover:pc:align-items-stretch` - Richten Sie die gestreckten Elemente beim Schweben auf dem PC aus
-- `.pc:align-items-center` - Richten Sie die Elemente auf dem PC zentriert aus
-- `.pc:align-items-end` - Richten Sie die Enden der Elemente am PC aus
-- `.pc:align-items-start` - Richten Sie die Elemente auf dem PC aus
-- `.pc:align-items-stretch` - Richten Sie die gestreckten Elemente am PC aus
+- `.hover:pc:align-items-center` - Elemente ausrichten: Mitte beim Hover auf dem PC
+- `.hover:pc:align-items-end` - Elemente ausrichten: Ende beim Hover auf dem PC
+- `.hover:pc:align-items-start` - Elemente ausrichten: Start beim Hover auf dem PC
+- `.hover:pc:align-items-stretch` - Elemente ausrichten: stretch beim Hover auf dem PC
+- `.pc:align-items-center` - Elemente ausrichten: Mitte auf dem PC
+- `.pc:align-items-end` - Elemente ausrichten: Ende auf dem PC
+- `.pc:align-items-start` - Elemente ausrichten: Start auf dem PC
+- `.pc:align-items-stretch` - Elemente ausrichten: stretch auf dem PC
 
 ##### Align items - Tv (≥ 1200px)
 
-- `.hover:tv:align-items-center` - Richten Sie die Elemente beim Bewegen des Mauszeigers auf dem Fernseher zentriert aus
-- `.hover:tv:align-items-end` - Richten Sie Elemente aus, wenn Sie mit der Maus über den Fernseher fahren
-- `.hover:tv:align-items-start` - Das Ausrichten von Elementen beginnt, wenn Sie mit der Maus über den Fernseher fahren
-- `.hover:tv:align-items-stretch` - Richten Sie die gestreckten Elemente beim Schweben auf dem Fernseher aus
-- `.tv:align-items-center` - Richten Sie die Gegenstände auf dem Fernseher zentriert aus
-- `.tv:align-items-end` - Richten Sie die Elemente am Ende des Fernsehers aus
-- `.tv:align-items-start` - Richten Sie die Elemente auf dem Fernseher aus
-- `.tv:align-items-stretch` - Richten Sie die gestreckten Gegenstände auf dem Fernseher aus
+- `.hover:tv:align-items-center` - Elemente ausrichten: Mitte beim Hover auf dem TV
+- `.hover:tv:align-items-end` - Elemente ausrichten: Ende beim Hover auf dem TV
+- `.hover:tv:align-items-start` - Elemente ausrichten: Start beim Hover auf dem TV
+- `.hover:tv:align-items-stretch` - Elemente ausrichten: stretch beim Hover auf dem TV
+- `.tv:align-items-center` - Elemente ausrichten: Mitte auf dem TV
+- `.tv:align-items-end` - Elemente ausrichten: Ende auf dem TV
+- `.tv:align-items-start` - Elemente ausrichten: Start auf dem TV
+- `.tv:align-items-stretch` - Elemente ausrichten: stretch auf dem TV
 
 ##### Align items - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:align-items-center` - Elemente beim Hovern auf dem Tablet zentriert ausrichten, max
-- `.hover:tablet-max:align-items-end` - Richten Sie Elemente bis zum Ende aus, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.hover:tablet-max:align-items-start` - Ausrichten von Elementen beginnt beim Hover auf dem Tablet max
-- `.hover:tablet-max:align-items-stretch` - Elemente ausrichten, wenn man den Mauszeiger auf dem Tablet hält, max
-- `.tablet-max:align-items-center` - Richten Sie Gegenstände max. mittig auf dem Tablet aus
-- `.tablet-max:align-items-end` - Richten Sie die Gegenstände maximal auf dem Tablet aus
-- `.tablet-max:align-items-start` - Elemente ausrichten, beginnend auf dem Tablet max
-- `.tablet-max:align-items-stretch` - Richten Sie Gegenstände maximal auf dem Tablet aus
+- `.hover:tablet-max:align-items-center` - Elemente ausrichten: Mitte beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-items-end` - Elemente ausrichten: Ende beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-items-start` - Elemente ausrichten: Start beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-items-stretch` - Elemente ausrichten: stretch beim Hover auf Tablets (max.)
+- `.tablet-max:align-items-center` - Elemente ausrichten: Mitte auf Tablets (max.)
+- `.tablet-max:align-items-end` - Elemente ausrichten: Ende auf Tablets (max.)
+- `.tablet-max:align-items-start` - Elemente ausrichten: Start auf Tablets (max.)
+- `.tablet-max:align-items-stretch` - Elemente ausrichten: stretch auf Tablets (max.)
 
 ##### Align items - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:align-items-center` - Elemente beim Hovern auf dem Tablet-PC zentriert ausrichten, max
-- `.hover:tablet-pc-max:align-items-end` - Richten Sie Elemente bis zum Ende aus, wenn Sie den Mauszeiger auf dem Tablet-PC bewegen
-- `.hover:tablet-pc-max:align-items-start` - Ausrichten von Elementen beginnt beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:align-items-stretch` - Ausrichten von Elementen beim Schweben auf dem Tablet-PC max
-- `.tablet-pc-max:align-items-center` - Richten Sie Elemente maximal auf dem Tablet-PC mittig aus
-- `.tablet-pc-max:align-items-end` - Richten Sie die Elemente maximal auf dem Tablet-PC aus
-- `.tablet-pc-max:align-items-start` - Elemente ausrichten beginnend auf Tablet-PC max
-- `.tablet-pc-max:align-items-stretch` - Ausrichten von Gegenständen auf dem Tablet-PC max
+- `.hover:tablet-pc-max:align-items-center` - Elemente ausrichten: Mitte beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-items-end` - Elemente ausrichten: Ende beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-items-start` - Elemente ausrichten: Start beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-items-stretch` - Elemente ausrichten: stretch beim Hover auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-items-center` - Elemente ausrichten: Mitte auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-items-end` - Elemente ausrichten: Ende auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-items-start` - Elemente ausrichten: Start auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-items-stretch` - Elemente ausrichten: stretch auf Tablet-PCs (max.)
 
 ##### Align items - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:align-items-center` - Elemente beim Hover auf dem PC zentriert ausrichten, max
-- `.hover:pc-max:align-items-end` - Richten Sie Elemente bis zum Ende aus, wenn Sie den Mauszeiger auf dem PC halten
-- `.hover:pc-max:align-items-start` - Ausrichten von Elementen beginnt beim Hover auf dem PC max
-- `.hover:pc-max:align-items-stretch` - Ausrichten von Elementen beim Schweben auf dem PC max
-- `.pc-max:align-items-center` - Richten Sie die Elemente max. mittig auf dem PC aus
-- `.pc-max:align-items-end` - Richten Sie die Elemente maximal auf dem PC aus
-- `.pc-max:align-items-start` - Elemente ausrichten beginnend auf dem PC max
-- `.pc-max:align-items-stretch` - Ausrichten von Gegenständen auf dem PC max
+- `.hover:pc-max:align-items-center` - Elemente ausrichten: Mitte beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-items-end` - Elemente ausrichten: Ende beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-items-start` - Elemente ausrichten: Start beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-items-stretch` - Elemente ausrichten: stretch beim Hover auf dem PC (max.)
+- `.pc-max:align-items-center` - Elemente ausrichten: Mitte auf dem PC (max.)
+- `.pc-max:align-items-end` - Elemente ausrichten: Ende auf dem PC (max.)
+- `.pc-max:align-items-start` - Elemente ausrichten: Start auf dem PC (max.)
+- `.pc-max:align-items-stretch` - Elemente ausrichten: stretch auf dem PC (max.)
 
 ### Align self
 
-- `.align-self-center` - Selbstzentriert ausrichten
-- `.align-self-end` - Selbstende ausrichten
-- `.align-self-start` - Selbststart ausrichten
-- `.align-self-stretch` - Selbstdehnung ausrichten
-- `.hover:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben aus
-- `.hover:align-self-end` - Richten Sie das Selbstende beim Schweben aus
-- `.hover:align-self-start` - Selbststart beim Schweben ausrichten
-- `.hover:align-self-stretch` - Richten Sie die Selbstdehnung beim Schweben aus
+- `.align-self-center` - Element selbst ausrichten: Mitte
+- `.align-self-end` - Element selbst ausrichten: Ende
+- `.align-self-start` - Element selbst ausrichten: Start
+- `.align-self-stretch` - Element selbst ausrichten: stretch
+- `.hover:align-self-center` - Element selbst ausrichten: Mitte beim Hover
+- `.hover:align-self-end` - Element selbst ausrichten: Ende beim Hover
+- `.hover:align-self-start` - Element selbst ausrichten: Start beim Hover
+- `.hover:align-self-stretch` - Element selbst ausrichten: stretch beim Hover
 
 ##### Align self - Mobile (≤ 480px)
 
-- `.hover:mobile:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem Mobilgerät aus
-- `.hover:mobile:align-self-end` - Richten Sie das Selbstende beim Hover auf dem Mobilgerät aus
-- `.hover:mobile:align-self-start` - Richten Sie den Selbststart beim Hover auf Mobilgeräten aus
-- `.hover:mobile:align-self-stretch` - Richten Sie die Selbstdehnung beim Hover auf dem Mobilgerät aus
-- `.mobile:align-self-center` - Richten Sie die Selbstzentrierung auf Mobilgeräten aus
-- `.mobile:align-self-end` - Selbstende am Mobilgerät ausrichten
-- `.mobile:align-self-start` - Richten Sie den Selbststart auf Mobilgeräten aus
-- `.mobile:align-self-stretch` - Richten Sie die Selbstdehnung auf dem Mobilgerät aus
+- `.hover:mobile:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf Mobilgeräten
+- `.hover:mobile:align-self-end` - Element selbst ausrichten: Ende beim Hover auf Mobilgeräten
+- `.hover:mobile:align-self-start` - Element selbst ausrichten: Start beim Hover auf Mobilgeräten
+- `.hover:mobile:align-self-stretch` - Element selbst ausrichten: stretch beim Hover auf Mobilgeräten
+- `.mobile:align-self-center` - Element selbst ausrichten: Mitte auf Mobilgeräten
+- `.mobile:align-self-end` - Element selbst ausrichten: Ende auf Mobilgeräten
+- `.mobile:align-self-start` - Element selbst ausrichten: Start auf Mobilgeräten
+- `.mobile:align-self-stretch` - Element selbst ausrichten: stretch auf Mobilgeräten
 
 ##### Align self - Tablet (480px - 768px)
 
-- `.hover:tablet:align-self-center` - Richten Sie die Selbstzentrierung aus, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:align-self-end` - Richten Sie das Selbstende aus, wenn Sie den Mauszeiger über das Tablet halten
-- `.hover:tablet:align-self-start` - Richten Sie den Selbststart beim Schweben auf dem Tablet aus
-- `.hover:tablet:align-self-stretch` - Richten Sie die Selbstdehnung aus, wenn Sie mit der Maus über das Tablet fahren
-- `.tablet:align-self-center` - Richten Sie die Selbstzentrierung auf dem Tablet aus
-- `.tablet:align-self-end` - Richten Sie das Ende am Tablet aus
-- `.tablet:align-self-start` - Richten Sie den Selbststart am Tablet aus
-- `.tablet:align-self-stretch` - Richten Sie die Selbstdehnung am Tablet aus
+- `.hover:tablet:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf Tablets
+- `.hover:tablet:align-self-end` - Element selbst ausrichten: Ende beim Hover auf Tablets
+- `.hover:tablet:align-self-start` - Element selbst ausrichten: Start beim Hover auf Tablets
+- `.hover:tablet:align-self-stretch` - Element selbst ausrichten: stretch beim Hover auf Tablets
+- `.tablet:align-self-center` - Element selbst ausrichten: Mitte auf Tablets
+- `.tablet:align-self-end` - Element selbst ausrichten: Ende auf Tablets
+- `.tablet:align-self-start` - Element selbst ausrichten: Start auf Tablets
+- `.tablet:align-self-stretch` - Element selbst ausrichten: stretch auf Tablets
 
 ##### Align self - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:align-self-center` - Richten Sie sich beim Schweben auf dem Tablet-PC selbstzentriert aus
-- `.hover:tablet-pc:align-self-end` - Richten Sie das Selbstende beim Hover auf dem Tablet-PC aus
-- `.hover:tablet-pc:align-self-start` - Richten Sie den Selbststart beim Schweben auf dem Tablet-PC aus
-- `.hover:tablet-pc:align-self-stretch` - Richten Sie die Selbstdehnung beim Schweben auf dem Tablet-PC aus
-- `.tablet-pc:align-self-center` - Richten Sie die Selbstzentrierung auf dem Tablet-PC aus
-- `.tablet-pc:align-self-end` - Richten Sie das Selbstende am Tablet-PC aus
-- `.tablet-pc:align-self-start` - Richten Sie den Selbststart auf dem Tablet-PC aus
-- `.tablet-pc:align-self-stretch` - Richten Sie die Selbstdehnung auf dem Tablet-PC aus
+- `.hover:tablet-pc:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-self-end` - Element selbst ausrichten: Ende beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-self-start` - Element selbst ausrichten: Start beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:align-self-stretch` - Element selbst ausrichten: stretch beim Hover auf Tablet-PCs
+- `.tablet-pc:align-self-center` - Element selbst ausrichten: Mitte auf Tablet-PCs
+- `.tablet-pc:align-self-end` - Element selbst ausrichten: Ende auf Tablet-PCs
+- `.tablet-pc:align-self-start` - Element selbst ausrichten: Start auf Tablet-PCs
+- `.tablet-pc:align-self-stretch` - Element selbst ausrichten: stretch auf Tablet-PCs
 
 ##### Align self - Pc (992px - 1200px)
 
-- `.hover:pc:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem PC aus
-- `.hover:pc:align-self-end` - Richten Sie das Selbstende beim Hover auf dem PC aus
-- `.hover:pc:align-self-start` - Richten Sie den Selbststart beim Hover auf dem PC aus
-- `.hover:pc:align-self-stretch` - Richten Sie die Selbstdehnung beim Schweben auf dem PC aus
-- `.pc:align-self-center` - Richten Sie die Selbstzentrierung am PC aus
-- `.pc:align-self-end` - Selbstende am PC ausrichten
-- `.pc:align-self-start` - Selbststart am PC ausrichten
-- `.pc:align-self-stretch` - Richten Sie die Selbstdehnung am PC aus
+- `.hover:pc:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf dem PC
+- `.hover:pc:align-self-end` - Element selbst ausrichten: Ende beim Hover auf dem PC
+- `.hover:pc:align-self-start` - Element selbst ausrichten: Start beim Hover auf dem PC
+- `.hover:pc:align-self-stretch` - Element selbst ausrichten: stretch beim Hover auf dem PC
+- `.pc:align-self-center` - Element selbst ausrichten: Mitte auf dem PC
+- `.pc:align-self-end` - Element selbst ausrichten: Ende auf dem PC
+- `.pc:align-self-start` - Element selbst ausrichten: Start auf dem PC
+- `.pc:align-self-stretch` - Element selbst ausrichten: stretch auf dem PC
 
 ##### Align self - Tv (≥ 1200px)
 
-- `.hover:tv:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem Fernseher aus
-- `.hover:tv:align-self-end` - Richten Sie das Selbstende aus, wenn Sie mit der Maus über den Fernseher schweben
-- `.hover:tv:align-self-start` - Richten Sie den Selbststart beim Schweben auf dem Fernseher aus
-- `.hover:tv:align-self-stretch` - Richten Sie die Selbstdehnung beim Schweben im Fernsehen aus
-- `.tv:align-self-center` - Richten Sie Ihre Selbstzentrierung im Fernsehen aus
-- `.tv:align-self-end` - Richten Sie das Selbstende am Fernseher aus
-- `.tv:align-self-start` - Richten Sie den Selbststart am Fernseher aus
-- `.tv:align-self-stretch` - Richten Sie die Selbstdehnung im Fernsehen aus
+- `.hover:tv:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf dem TV
+- `.hover:tv:align-self-end` - Element selbst ausrichten: Ende beim Hover auf dem TV
+- `.hover:tv:align-self-start` - Element selbst ausrichten: Start beim Hover auf dem TV
+- `.hover:tv:align-self-stretch` - Element selbst ausrichten: stretch beim Hover auf dem TV
+- `.tv:align-self-center` - Element selbst ausrichten: Mitte auf dem TV
+- `.tv:align-self-end` - Element selbst ausrichten: Ende auf dem TV
+- `.tv:align-self-start` - Element selbst ausrichten: Start auf dem TV
+- `.tv:align-self-stretch` - Element selbst ausrichten: stretch auf dem TV
 
 ##### Align self - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem Tablet maximal aus
-- `.hover:tablet-max:align-self-end` - Richten Sie das Selbstende aus, wenn Sie den Mauszeiger auf dem Tablet halten, max
-- `.hover:tablet-max:align-self-start` - Selbststart beim Hover auf dem Tablet max. ausrichten
-- `.hover:tablet-max:align-self-stretch` - Richten Sie die Selbstdehnung beim Schweben auf dem Tablet maximal aus
-- `.tablet-max:align-self-center` - Selbstzentriert auf dem Tablet max. ausrichten
-- `.tablet-max:align-self-end` - Selbstende am Tablet max. ausrichten
-- `.tablet-max:align-self-start` - Selbststart am Tablet max. ausrichten
-- `.tablet-max:align-self-stretch` - Richten Sie die Selbstdehnung am Tablet max. aus
+- `.hover:tablet-max:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-self-end` - Element selbst ausrichten: Ende beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-self-start` - Element selbst ausrichten: Start beim Hover auf Tablets (max.)
+- `.hover:tablet-max:align-self-stretch` - Element selbst ausrichten: stretch beim Hover auf Tablets (max.)
+- `.tablet-max:align-self-center` - Element selbst ausrichten: Mitte auf Tablets (max.)
+- `.tablet-max:align-self-end` - Element selbst ausrichten: Ende auf Tablets (max.)
+- `.tablet-max:align-self-start` - Element selbst ausrichten: Start auf Tablets (max.)
+- `.tablet-max:align-self-stretch` - Element selbst ausrichten: stretch auf Tablets (max.)
 
 ##### Align self - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem Tablet-PC max. aus
-- `.hover:tablet-pc-max:align-self-end` - Richten Sie das Selbstende beim Hover auf dem Tablet-PC aus, max
-- `.hover:tablet-pc-max:align-self-start` - Selbststart beim Schweben auf Tablet-PC max. ausrichten
-- `.hover:tablet-pc-max:align-self-stretch` - Selbstdehnung beim Schweben auf dem Tablet-PC max. ausrichten
-- `.tablet-pc-max:align-self-center` - Selbstzentrierung am Tablet-PC max
-- `.tablet-pc-max:align-self-end` - Selbstende am Tablet-PC ausrichten max
-- `.tablet-pc-max:align-self-start` - Selbststart am Tablet-PC ausrichten max
-- `.tablet-pc-max:align-self-stretch` - Selbstdehnung am Tablet-PC max. ausrichten
+- `.hover:tablet-pc-max:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-self-end` - Element selbst ausrichten: Ende beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-self-start` - Element selbst ausrichten: Start beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:align-self-stretch` - Element selbst ausrichten: stretch beim Hover auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-self-center` - Element selbst ausrichten: Mitte auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-self-end` - Element selbst ausrichten: Ende auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-self-start` - Element selbst ausrichten: Start auf Tablet-PCs (max.)
+- `.tablet-pc-max:align-self-stretch` - Element selbst ausrichten: stretch auf Tablet-PCs (max.)
 
 ##### Align self - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:align-self-center` - Richten Sie die Selbstzentrierung beim Schweben auf dem PC max. aus
-- `.hover:pc-max:align-self-end` - Selbstende beim Schweben auf dem PC ausrichten, max
-- `.hover:pc-max:align-self-start` - Selbststart beim Hover auf PC max. ausrichten
-- `.hover:pc-max:align-self-stretch` - Selbstdehnung beim Schweben auf dem PC ausrichten, max
-- `.pc-max:align-self-center` - Selbstzentriert am PC max. ausrichten
-- `.pc-max:align-self-end` - Selbstende am PC ausrichten max
-- `.pc-max:align-self-start` - Selbststart am PC ausrichten max
-- `.pc-max:align-self-stretch` - Selbstdehnung am PC max. ausrichten
+- `.hover:pc-max:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-self-end` - Element selbst ausrichten: Ende beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-self-start` - Element selbst ausrichten: Start beim Hover auf dem PC (max.)
+- `.hover:pc-max:align-self-stretch` - Element selbst ausrichten: stretch beim Hover auf dem PC (max.)
+- `.pc-max:align-self-center` - Element selbst ausrichten: Mitte auf dem PC (max.)
+- `.pc-max:align-self-end` - Element selbst ausrichten: Ende auf dem PC (max.)
+- `.pc-max:align-self-start` - Element selbst ausrichten: Start auf dem PC (max.)
+- `.pc-max:align-self-stretch` - Element selbst ausrichten: stretch auf dem PC (max.)
 
 ### Justify content
 
-- `.hover:justify-content-around` - Richten Sie den Inhalt beim Hover aus
-- `.hover:justify-content-between` - Richten Sie den Inhalt beim Hover aus
-- `.hover:justify-content-center` - Richten Sie den Inhalt im Center aus, wenn Sie den Mauszeiger darüber bewegen
-- `.hover:justify-content-end` - Inhalt ausrichten, Ende beim Hover
-- `.hover:justify-content-evenly` - Richten Sie den Inhalt beim Schweben gleichmäßig aus
-- `.hover:justify-content-start` - Begründen Sie den Start des Inhalts beim Hover
-- `.hover:justify-content-stretch` - Begründen Sie die Ausdehnung des Inhalts beim Hover
-- `.justify-content-around` - Begründen Sie den Inhalt
-- `.justify-content-between` - Begründen Sie den Inhalt zwischen
-- `.justify-content-center` - Begründen Sie das Inhaltscenter
-- `.justify-content-end` - Begründen Sie den Inhalt am Ende
-- `.justify-content-evenly` - Begründen Sie Inhalte gleichmäßig
-- `.justify-content-start` - Begründen Sie den Beginn des Inhalts
-- `.justify-content-stretch` - Begründen Sie die Ausdehnung des Inhalts
+- `.hover:justify-content-around` - Inhalt verteilen: around beim Hover
+- `.hover:justify-content-between` - Inhalt verteilen: between beim Hover
+- `.hover:justify-content-center` - Inhalt verteilen: Mitte beim Hover
+- `.hover:justify-content-end` - Inhalt verteilen: Ende beim Hover
+- `.hover:justify-content-evenly` - Inhalt verteilen: evenly beim Hover
+- `.hover:justify-content-start` - Inhalt verteilen: Start beim Hover
+- `.hover:justify-content-stretch` - Inhalt verteilen: stretch beim Hover
+- `.justify-content-around` - Inhalt verteilen: around
+- `.justify-content-between` - Inhalt verteilen: between
+- `.justify-content-center` - Inhalt verteilen: Mitte
+- `.justify-content-end` - Inhalt verteilen: Ende
+- `.justify-content-evenly` - Inhalt verteilen: evenly
+- `.justify-content-start` - Inhalt verteilen: Start
+- `.justify-content-stretch` - Inhalt verteilen: stretch
 
 ##### Justify content - Mobile (≤ 480px)
 
-- `.hover:mobile:justify-content-around` - Richten Sie Inhalte aus, wenn Sie den Mauszeiger auf Mobilgeräten bewegen
-- `.hover:mobile:justify-content-between` - Richten Sie den Inhalt beim Bewegen des Mauszeigers auf dem Mobilgerät aus
-- `.hover:mobile:justify-content-center` - Begründen Sie das Inhaltscenter beim Hover auf Mobilgeräten
-- `.hover:mobile:justify-content-end` - Begründen Sie das Ende des Inhalts, wenn Sie den Mauszeiger auf dem Mobilgerät bewegen
-- `.hover:mobile:justify-content-start` - Begründen Sie den Start des Inhalts beim Hover auf Mobilgeräten
-- `.mobile:justify-content-around` - Begründen Sie Inhalte auf Mobilgeräten
-- `.mobile:justify-content-between` - Begründen Sie Inhalte zwischen Mobilgeräten
-- `.mobile:justify-content-center` - Begründen Sie das Content Center auf Mobilgeräten
-- `.mobile:justify-content-end` - Begründen Sie das Ende des Inhalts auf Mobilgeräten
-- `.mobile:justify-content-start` - Begründen Sie den Start von Inhalten auf Mobilgeräten
+- `.hover:mobile:justify-content-around` - Inhalt verteilen: around beim Hover auf Mobilgeräten
+- `.hover:mobile:justify-content-between` - Inhalt verteilen: between beim Hover auf Mobilgeräten
+- `.hover:mobile:justify-content-center` - Inhalt verteilen: Mitte beim Hover auf Mobilgeräten
+- `.hover:mobile:justify-content-end` - Inhalt verteilen: Ende beim Hover auf Mobilgeräten
+- `.hover:mobile:justify-content-start` - Inhalt verteilen: Start beim Hover auf Mobilgeräten
+- `.mobile:justify-content-around` - Inhalt verteilen: around auf Mobilgeräten
+- `.mobile:justify-content-between` - Inhalt verteilen: between auf Mobilgeräten
+- `.mobile:justify-content-center` - Inhalt verteilen: Mitte auf Mobilgeräten
+- `.mobile:justify-content-end` - Inhalt verteilen: Ende auf Mobilgeräten
+- `.mobile:justify-content-start` - Inhalt verteilen: Start auf Mobilgeräten
 
 ##### Justify content - Tablet (480px - 768px)
 
-- `.hover:tablet:justify-content-around` - Richten Sie den Inhalt aus, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.hover:tablet:justify-content-between` - Richten Sie den Inhalt aus, indem Sie den Mauszeiger auf das Tablet bewegen
-- `.hover:tablet:justify-content-center` - Richten Sie das Inhaltscenter aus, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.hover:tablet:justify-content-end` - Begründen Sie das Ende des Inhalts, indem Sie den Mauszeiger auf das Tablet bewegen
-- `.hover:tablet:justify-content-start` - Begründen Sie den Start des Inhalts, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.tablet:justify-content-around` - Richten Sie Inhalte auf dem Tablet aus
-- `.tablet:justify-content-between` - Richten Sie Inhalte auf dem Tablet aus
-- `.tablet:justify-content-center` - Inhaltscenter auf dem Tablet ausrichten
-- `.tablet:justify-content-end` - Begründen Sie das Ende des Inhalts auf dem Tablet
-- `.tablet:justify-content-start` - Begründen Sie den Beginn des Inhalts auf dem Tablet
+- `.hover:tablet:justify-content-around` - Inhalt verteilen: around beim Hover auf Tablets
+- `.hover:tablet:justify-content-between` - Inhalt verteilen: between beim Hover auf Tablets
+- `.hover:tablet:justify-content-center` - Inhalt verteilen: Mitte beim Hover auf Tablets
+- `.hover:tablet:justify-content-end` - Inhalt verteilen: Ende beim Hover auf Tablets
+- `.hover:tablet:justify-content-start` - Inhalt verteilen: Start beim Hover auf Tablets
+- `.tablet:justify-content-around` - Inhalt verteilen: around auf Tablets
+- `.tablet:justify-content-between` - Inhalt verteilen: between auf Tablets
+- `.tablet:justify-content-center` - Inhalt verteilen: Mitte auf Tablets
+- `.tablet:justify-content-end` - Inhalt verteilen: Ende auf Tablets
+- `.tablet:justify-content-start` - Inhalt verteilen: Start auf Tablets
 
 ##### Justify content - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:justify-content-around` - Richten Sie Inhalte aus, wenn Sie den Mauszeiger auf dem Tablet-PC bewegen
-- `.hover:tablet-pc:justify-content-between` - Begründen Sie den Inhalt zwischen dem Hover auf dem Tablet-PC
-- `.hover:tablet-pc:justify-content-center` - Richten Sie das Inhaltscenter aus, wenn Sie den Mauszeiger auf dem Tablet-PC bewegen
-- `.hover:tablet-pc:justify-content-end` - Begründen Sie das Ende des Inhalts, wenn Sie den Mauszeiger auf dem Tablet-PC bewegen
-- `.hover:tablet-pc:justify-content-start` - Begründen Sie den Start des Inhalts, indem Sie den Mauszeiger auf dem Tablet-PC bewegen
-- `.tablet-pc:justify-content-around` - Richten Sie Inhalte auf dem Tablet-PC aus
-- `.tablet-pc:justify-content-between` - Begründen Sie den Inhalt zwischen auf dem Tablet-PC
-- `.tablet-pc:justify-content-center` - Begründen Sie das Inhaltscenter auf dem Tablet-PC
-- `.tablet-pc:justify-content-end` - Begründen Sie das Ende des Inhalts auf dem Tablet-PC
-- `.tablet-pc:justify-content-start` - Begründen Sie den Beginn des Inhalts auf dem Tablet-PC
+- `.hover:tablet-pc:justify-content-around` - Inhalt verteilen: around beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:justify-content-between` - Inhalt verteilen: between beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:justify-content-center` - Inhalt verteilen: Mitte beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:justify-content-end` - Inhalt verteilen: Ende beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:justify-content-start` - Inhalt verteilen: Start beim Hover auf Tablet-PCs
+- `.tablet-pc:justify-content-around` - Inhalt verteilen: around auf Tablet-PCs
+- `.tablet-pc:justify-content-between` - Inhalt verteilen: between auf Tablet-PCs
+- `.tablet-pc:justify-content-center` - Inhalt verteilen: Mitte auf Tablet-PCs
+- `.tablet-pc:justify-content-end` - Inhalt verteilen: Ende auf Tablet-PCs
+- `.tablet-pc:justify-content-start` - Inhalt verteilen: Start auf Tablet-PCs
 
 ##### Justify content - Pc (992px - 1200px)
 
-- `.hover:pc:justify-content-around` - Richten Sie den Inhalt beim Hover auf dem PC aus
-- `.hover:pc:justify-content-between` - Richten Sie den Inhalt aus, indem Sie den Mauszeiger auf den PC bewegen
-- `.hover:pc:justify-content-center` - Richten Sie das Inhaltscenter aus, wenn Sie den Mauszeiger auf dem PC bewegen
-- `.hover:pc:justify-content-end` - Begründen Sie das Ende des Inhalts, indem Sie den Mauszeiger auf den PC bewegen
-- `.hover:pc:justify-content-start` - Begründen Sie den Start des Inhalts beim Hover auf dem PC
-- `.pc:justify-content-around` - Richten Sie Inhalte auf dem PC aus
-- `.pc:justify-content-between` - Begründen Sie den Inhalt zwischen auf dem PC
-- `.pc:justify-content-center` - Begründen Sie das Content Center auf dem PC
-- `.pc:justify-content-end` - Begründen Sie das Ende des Inhalts am PC
-- `.pc:justify-content-start` - Begründen Sie den Beginn des Inhalts auf dem PC
+- `.hover:pc:justify-content-around` - Inhalt verteilen: around beim Hover auf dem PC
+- `.hover:pc:justify-content-between` - Inhalt verteilen: between beim Hover auf dem PC
+- `.hover:pc:justify-content-center` - Inhalt verteilen: Mitte beim Hover auf dem PC
+- `.hover:pc:justify-content-end` - Inhalt verteilen: Ende beim Hover auf dem PC
+- `.hover:pc:justify-content-start` - Inhalt verteilen: Start beim Hover auf dem PC
+- `.pc:justify-content-around` - Inhalt verteilen: around auf dem PC
+- `.pc:justify-content-between` - Inhalt verteilen: between auf dem PC
+- `.pc:justify-content-center` - Inhalt verteilen: Mitte auf dem PC
+- `.pc:justify-content-end` - Inhalt verteilen: Ende auf dem PC
+- `.pc:justify-content-start` - Inhalt verteilen: Start auf dem PC
 
 ##### Justify content - Tv (≥ 1200px)
 
-- `.hover:tv:justify-content-around` - Richten Sie Inhalte aus, indem Sie den Mauszeiger auf dem Fernseher bewegen
-- `.hover:tv:justify-content-between` - Begründen Sie den Inhalt zwischen dem Schweben im Fernsehen
-- `.hover:tv:justify-content-center` - Begründen Sie das Inhaltscenter, indem Sie den Mauszeiger über den Fernseher bewegen
-- `.hover:tv:justify-content-end` - Begründen Sie das Ende des Inhalts, indem Sie den Mauszeiger auf dem Fernseher bewegen
-- `.hover:tv:justify-content-start` - Begründen Sie den Start des Inhalts, indem Sie den Mauszeiger über den Fernseher bewegen
-- `.tv:justify-content-around` - Begründen Sie Inhalte im Fernsehen
-- `.tv:justify-content-between` - Begründen Sie Inhalte im Fernsehen
-- `.tv:justify-content-center` - Begründen Sie das Content Center im Fernsehen
-- `.tv:justify-content-end` - Begründen Sie das Ende des Inhalts im Fernsehen
-- `.tv:justify-content-start` - Begründen Sie den Start von Inhalten im Fernsehen
+- `.hover:tv:justify-content-around` - Inhalt verteilen: around beim Hover auf dem TV
+- `.hover:tv:justify-content-between` - Inhalt verteilen: between beim Hover auf dem TV
+- `.hover:tv:justify-content-center` - Inhalt verteilen: Mitte beim Hover auf dem TV
+- `.hover:tv:justify-content-end` - Inhalt verteilen: Ende beim Hover auf dem TV
+- `.hover:tv:justify-content-start` - Inhalt verteilen: Start beim Hover auf dem TV
+- `.tv:justify-content-around` - Inhalt verteilen: around auf dem TV
+- `.tv:justify-content-between` - Inhalt verteilen: between auf dem TV
+- `.tv:justify-content-center` - Inhalt verteilen: Mitte auf dem TV
+- `.tv:justify-content-end` - Inhalt verteilen: Ende auf dem TV
+- `.tv:justify-content-start` - Inhalt verteilen: Start auf dem TV
 
 ##### Justify content - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:justify-content-around` - Richten Sie den Inhalt beim Hover auf dem Tablet max. aus
-- `.hover:tablet-max:justify-content-between` - Inhalt ausrichten zwischen beim Hovern auf dem Tablet max
-- `.hover:tablet-max:justify-content-center` - Richten Sie den Inhalt im Mittelpunkt aus, wenn Sie den Mauszeiger auf dem Tablet halten
-- `.hover:tablet-max:justify-content-end` - Inhalt ausrichten, Ende bei Hover auf dem Tablet max
-- `.hover:tablet-max:justify-content-start` - Begründen Sie den Beginn des Inhalts beim Bewegen des Mauszeigers auf dem Tablet max
-- `.tablet-max:justify-content-around` - Richten Sie Inhalte auf dem Tablet maximal aus
-- `.tablet-max:justify-content-between` - Inhalt zwischen auf dem Tablet max. ausrichten
-- `.tablet-max:justify-content-center` - Inhaltscenter auf Tablet max. ausrichten
-- `.tablet-max:justify-content-end` - Inhalt rechtfertigen, Ende auf Tablet max
-- `.tablet-max:justify-content-start` - Inhaltsbeginn auf Tablet max. begründen
+- `.hover:tablet-max:justify-content-around` - Inhalt verteilen: around beim Hover auf Tablets (max.)
+- `.hover:tablet-max:justify-content-between` - Inhalt verteilen: between beim Hover auf Tablets (max.)
+- `.hover:tablet-max:justify-content-center` - Inhalt verteilen: Mitte beim Hover auf Tablets (max.)
+- `.hover:tablet-max:justify-content-end` - Inhalt verteilen: Ende beim Hover auf Tablets (max.)
+- `.hover:tablet-max:justify-content-start` - Inhalt verteilen: Start beim Hover auf Tablets (max.)
+- `.tablet-max:justify-content-around` - Inhalt verteilen: around auf Tablets (max.)
+- `.tablet-max:justify-content-between` - Inhalt verteilen: between auf Tablets (max.)
+- `.tablet-max:justify-content-center` - Inhalt verteilen: Mitte auf Tablets (max.)
+- `.tablet-max:justify-content-end` - Inhalt verteilen: Ende auf Tablets (max.)
+- `.tablet-max:justify-content-start` - Inhalt verteilen: Start auf Tablets (max.)
 
 ##### Justify content - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:justify-content-around` - Richten Sie den Inhalt beim Hover auf dem Tablet-PC max. aus
-- `.hover:tablet-pc-max:justify-content-between` - Inhalt ausrichten zwischen beim Bewegen des Mauszeigers auf dem Tablet-PC max
-- `.hover:tablet-pc-max:justify-content-center` - Inhaltscenter bei Hover auf Tablet-PC ausrichten max
-- `.hover:tablet-pc-max:justify-content-end` - Inhalt ausrichten Ende bei Hover auf Tablet-PC max
-- `.hover:tablet-pc-max:justify-content-start` - Inhalt rechtfertigen, Start beim Hover auf Tablet-PC max
-- `.tablet-pc-max:justify-content-around` - Richten Sie Inhalte auf dem Tablet-PC max. aus
-- `.tablet-pc-max:justify-content-between` - Inhalt ausrichten zwischen auf Tablet-PC max
-- `.tablet-pc-max:justify-content-center` - Inhaltscenter auf Tablet-PC max. ausrichten
-- `.tablet-pc-max:justify-content-end` - Inhalt ausrichten Ende auf Tablet-PC max
-- `.tablet-pc-max:justify-content-start` - Inhalt rechtfertigen Start auf Tablet-PC max
+- `.hover:tablet-pc-max:justify-content-around` - Inhalt verteilen: around beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:justify-content-between` - Inhalt verteilen: between beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:justify-content-center` - Inhalt verteilen: Mitte beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:justify-content-end` - Inhalt verteilen: Ende beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:justify-content-start` - Inhalt verteilen: Start beim Hover auf Tablet-PCs (max.)
+- `.tablet-pc-max:justify-content-around` - Inhalt verteilen: around auf Tablet-PCs (max.)
+- `.tablet-pc-max:justify-content-between` - Inhalt verteilen: between auf Tablet-PCs (max.)
+- `.tablet-pc-max:justify-content-center` - Inhalt verteilen: Mitte auf Tablet-PCs (max.)
+- `.tablet-pc-max:justify-content-end` - Inhalt verteilen: Ende auf Tablet-PCs (max.)
+- `.tablet-pc-max:justify-content-start` - Inhalt verteilen: Start auf Tablet-PCs (max.)
 
 ##### Justify content - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:justify-content-around` - Richten Sie den Inhalt beim Hover auf dem PC max. aus
-- `.hover:pc-max:justify-content-between` - Inhalt ausrichten zwischen beim Hover auf dem PC max
-- `.hover:pc-max:justify-content-center` - Inhaltscenter beim Hover auf dem PC ausrichten, max
-- `.hover:pc-max:justify-content-end` - Inhalt ausrichten, Ende bei Hover auf PC max
-- `.hover:pc-max:justify-content-start` - Begründen Sie den Start des Inhalts beim Hover auf dem PC max
-- `.pc-max:justify-content-around` - Inhalte auf dem PC max. ausrichten
-- `.pc-max:justify-content-between` - Inhalt zwischen auf PC max. ausrichten
-- `.pc-max:justify-content-center` - Inhaltscenter auf PC max. ausrichten
-- `.pc-max:justify-content-end` - Inhalt rechtfertigen Ende auf PC max
-- `.pc-max:justify-content-start` - Inhaltsbeginn auf PC max. begründen
+- `.hover:pc-max:justify-content-around` - Inhalt verteilen: around beim Hover auf dem PC (max.)
+- `.hover:pc-max:justify-content-between` - Inhalt verteilen: between beim Hover auf dem PC (max.)
+- `.hover:pc-max:justify-content-center` - Inhalt verteilen: Mitte beim Hover auf dem PC (max.)
+- `.hover:pc-max:justify-content-end` - Inhalt verteilen: Ende beim Hover auf dem PC (max.)
+- `.hover:pc-max:justify-content-start` - Inhalt verteilen: Start beim Hover auf dem PC (max.)
+- `.pc-max:justify-content-around` - Inhalt verteilen: around auf dem PC (max.)
+- `.pc-max:justify-content-between` - Inhalt verteilen: between auf dem PC (max.)
+- `.pc-max:justify-content-center` - Inhalt verteilen: Mitte auf dem PC (max.)
+- `.pc-max:justify-content-end` - Inhalt verteilen: Ende auf dem PC (max.)
+- `.pc-max:justify-content-start` - Inhalt verteilen: Start auf dem PC (max.)
 
 ### Justify items
 
-- `.hover:justify-items-center` - Richten Sie die Elemente beim Schweben zentriert aus
-- `.hover:justify-items-end` - Elemente ausrichten, die beim Hover enden
-- `.hover:justify-items-start` - Elemente ausrichten beginnen beim Hover
-- `.hover:justify-items-stretch` - Richten Sie Elemente aus, die beim Schweben gedehnt werden
-- `.justify-items-center` - Richten Sie Elemente in der Mitte aus
-- `.justify-items-end` - Begründen Sie das Ende der Elemente
-- `.justify-items-start` - Artikelanfang ausrichten
-- `.justify-items-stretch` - Richten Sie die Dehnung von Elementen aus
+- `.hover:justify-items-center` - Elemente justieren: Mitte beim Hover
+- `.hover:justify-items-end` - Elemente justieren: Ende beim Hover
+- `.hover:justify-items-start` - Elemente justieren: Start beim Hover
+- `.hover:justify-items-stretch` - Elemente justieren: stretch beim Hover
+- `.justify-items-center` - Elemente justieren: Mitte
+- `.justify-items-end` - Elemente justieren: Ende
+- `.justify-items-start` - Elemente justieren: Start
+- `.justify-items-stretch` - Elemente justieren: stretch
 
 ### Order
 
-- `.hover:order-5` - Bestellen Sie 5 beim Schweben
-- `.hover:order-4` - Bestellen Sie 4 beim Schweben
-- `.hover:order-3` - Bestellen Sie 3 beim Schweben
-- `.hover:order-2` - Bestellen Sie 2 beim Schweben
-- `.hover:order-1` - Bestellen Sie 1 beim Schweben
-- `.hover:order-0` - Bestellen Sie 0 beim Schweben
-- `.hover:order-first` - Bestellen Sie zuerst mit der Maus
-- `.hover:order-last` - Bestellen Sie zuletzt, wenn Sie mit der Maus darüber fahren
-- `.order-5` - Bestellen Sie 5
-- `.order-4` - Bestellen Sie 4
-- `.order-3` - Bestellung 3
-- `.order-2` - Bestellung 2
-- `.order-1` - Bestellung 1
-- `.order-0` - Bestellen Sie 0
-- `.order-first` - Zuerst bestellen
-- `.order-last` - Zuletzt bestellen
+- `.hover:order-5` - Reihenfolge 5 beim Hover
+- `.hover:order-4` - Reihenfolge 4 beim Hover
+- `.hover:order-3` - Reihenfolge 3 beim Hover
+- `.hover:order-2` - Reihenfolge 2 beim Hover
+- `.hover:order-1` - Reihenfolge 1 beim Hover
+- `.hover:order-0` - Reihenfolge 0 beim Hover
+- `.hover:order-first` - Reihenfolge: erste beim Hover
+- `.hover:order-last` - Reihenfolge: letzte beim Hover
+- `.order-5` - Reihenfolge 5
+- `.order-4` - Reihenfolge 4
+- `.order-3` - Reihenfolge 3
+- `.order-2` - Reihenfolge 2
+- `.order-1` - Reihenfolge 1
+- `.order-0` - Reihenfolge 0
+- `.order-first` - Reihenfolge: erste
+- `.order-last` - Reihenfolge: letzte
 
 ##### Negative Order
 
-- `.-order-5` - Negative Anordnung 5
-- `.-order-4` - Negative Anordnung 4
-- `.-order-3` - Negative Anordnung 3
-- `.-order-2` - Negativer Befehl 2
-- `.-order-1` - Negativer Befehl 1
-- `.hover:-order-5` - Negativer Befehl 5 beim Schweben
-- `.hover:-order-4` - Negativer Befehl 4 beim Schweben
-- `.hover:-order-3` - Negativer Befehl 3 beim Schweben
-- `.hover:-order-2` - Negativer Befehl 2 beim Schweben
-- `.hover:-order-1` - Negativer Befehl 1 beim Schweben
+- `.-order-5` - Negative Reihenfolge 5
+- `.-order-4` - Negative Reihenfolge 4
+- `.-order-3` - Negative Reihenfolge 3
+- `.-order-2` - Negative Reihenfolge 2
+- `.-order-1` - Negative Reihenfolge 1
+- `.hover:-order-5` - Negative Reihenfolge 5 beim Hover
+- `.hover:-order-4` - Negative Reihenfolge 4 beim Hover
+- `.hover:-order-3` - Negative Reihenfolge 3 beim Hover
+- `.hover:-order-2` - Negative Reihenfolge 2 beim Hover
+- `.hover:-order-1` - Negative Reihenfolge 1 beim Hover
 
 ##### Order - Mobile (≤ 480px)
 
-- `.hover:mobile:order-5` - Bestellen Sie 5, indem Sie den Mauszeiger auf dem Handy bewegen
-- `.hover:mobile:order-4` - Bestellen Sie 4, indem Sie den Mauszeiger auf dem Handy bewegen
-- `.hover:mobile:order-3` - Bestellen Sie 3, indem Sie den Mauszeiger auf dem Handy bewegen
-- `.hover:mobile:order-2` - Bestellen Sie 2, indem Sie den Mauszeiger auf dem Handy bewegen
-- `.hover:mobile:order-1` - Bestellen Sie 1, indem Sie den Mauszeiger auf dem Handy bewegen
-- `.hover:mobile:order-0` - Bestellen Sie 0, wenn Sie den Mauszeiger auf dem Mobilgerät bewegen
-- `.hover:mobile:order-first` - Bestellen Sie zuerst, indem Sie den Mauszeiger auf dem Handy bewegen
-- `.hover:mobile:order-last` - Bestellen Sie zuletzt, wenn Sie den Mauszeiger auf dem Handy bewegen
-- `.mobile:order-5` - Bestellen Sie 5 Stück auf dem Handy
-- `.mobile:order-4` - Bestellen Sie 4 auf dem Handy
-- `.mobile:order-3` - Bestellen Sie 3 auf dem Handy
-- `.mobile:order-2` - Bestellen Sie 2 auf dem Handy
-- `.mobile:order-1` - Bestellen Sie 1 auf dem Handy
-- `.mobile:order-0` - Bestellen Sie 0 auf dem Handy
-- `.mobile:order-first` - Bestellen Sie zuerst auf dem Handy
-- `.mobile:order-last` - Bestellen Sie zuletzt auf dem Handy
+- `.hover:mobile:order-5` - Reihenfolge 5 beim Hover auf Mobilgeräten
+- `.hover:mobile:order-4` - Reihenfolge 4 beim Hover auf Mobilgeräten
+- `.hover:mobile:order-3` - Reihenfolge 3 beim Hover auf Mobilgeräten
+- `.hover:mobile:order-2` - Reihenfolge 2 beim Hover auf Mobilgeräten
+- `.hover:mobile:order-1` - Reihenfolge 1 beim Hover auf Mobilgeräten
+- `.hover:mobile:order-0` - Reihenfolge 0 beim Hover auf Mobilgeräten
+- `.hover:mobile:order-first` - Reihenfolge: erste beim Hover auf Mobilgeräten
+- `.hover:mobile:order-last` - Reihenfolge: letzte beim Hover auf Mobilgeräten
+- `.mobile:order-5` - Reihenfolge 5 auf Mobilgeräten
+- `.mobile:order-4` - Reihenfolge 4 auf Mobilgeräten
+- `.mobile:order-3` - Reihenfolge 3 auf Mobilgeräten
+- `.mobile:order-2` - Reihenfolge 2 auf Mobilgeräten
+- `.mobile:order-1` - Reihenfolge 1 auf Mobilgeräten
+- `.mobile:order-0` - Reihenfolge 0 auf Mobilgeräten
+- `.mobile:order-first` - Reihenfolge: erste auf Mobilgeräten
+- `.mobile:order-last` - Reihenfolge: letzte auf Mobilgeräten
 
 ##### Negative Order - Mobile (≤ 480px)
 
-- `.hover:mobile:-order-5` - Negative Order 5 beim Hover auf dem Handy
-- `.hover:mobile:-order-4` - Negative Order 4 beim Hover auf dem Handy
-- `.hover:mobile:-order-3` - Negative Order 3 beim Hover auf dem Handy
-- `.hover:mobile:-order-2` - Negative Order 2 beim Hover auf dem Handy
-- `.hover:mobile:-order-1` - Negative Bestellung 1 beim Hover auf dem Handy
-- `.mobile:-order-5` - Negative Order 5 auf dem Handy
-- `.mobile:-order-4` - Negative Order 4 auf dem Handy
-- `.mobile:-order-3` - Negative Order 3 auf dem Handy
-- `.mobile:-order-2` - Negative Order 2 auf dem Handy
-- `.mobile:-order-1` - Negative Bestellung 1 auf dem Handy
+- `.hover:mobile:-order-5` - Negative Reihenfolge 5 beim Hover auf Mobilgeräten
+- `.hover:mobile:-order-4` - Negative Reihenfolge 4 beim Hover auf Mobilgeräten
+- `.hover:mobile:-order-3` - Negative Reihenfolge 3 beim Hover auf Mobilgeräten
+- `.hover:mobile:-order-2` - Negative Reihenfolge 2 beim Hover auf Mobilgeräten
+- `.hover:mobile:-order-1` - Negative Reihenfolge 1 beim Hover auf Mobilgeräten
+- `.mobile:-order-5` - Negative Reihenfolge 5 auf Mobilgeräten
+- `.mobile:-order-4` - Negative Reihenfolge 4 auf Mobilgeräten
+- `.mobile:-order-3` - Negative Reihenfolge 3 auf Mobilgeräten
+- `.mobile:-order-2` - Negative Reihenfolge 2 auf Mobilgeräten
+- `.mobile:-order-1` - Negative Reihenfolge 1 auf Mobilgeräten
 
 ##### Order - Tablet (480px - 768px)
 
-- `.hover:tablet:order-5` - Bestellen Sie 5, indem Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:order-4` - Bestellen Sie 4, indem Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:order-3` - Bestellen Sie 3, indem Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:order-2` - Bestellen Sie 2, indem Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:order-1` - Bestellen Sie 1, indem Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:order-0` - Bestellen Sie 0, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet:order-first` - Bestellen Sie zuerst, indem Sie den Mauszeiger auf das Tablet halten
-- `.hover:tablet:order-last` - Bestellen Sie zuletzt, wenn Sie mit der Maus über das Tablet fahren
-- `.tablet:order-5` - Bestellen Sie 5 auf dem Tablet
-- `.tablet:order-4` - Bestellen Sie 4 auf dem Tablet
-- `.tablet:order-3` - Bestellen Sie 3 auf dem Tablet
-- `.tablet:order-2` - Bestellen Sie 2 auf dem Tablet
-- `.tablet:order-1` - Bestellen Sie 1 auf dem Tablet
-- `.tablet:order-0` - Bestellen Sie 0 auf dem Tablet
-- `.tablet:order-first` - Bestellen Sie zuerst auf dem Tablet
-- `.tablet:order-last` - Bestellen Sie zuletzt auf dem Tablet
+- `.hover:tablet:order-5` - Reihenfolge 5 beim Hover auf Tablets
+- `.hover:tablet:order-4` - Reihenfolge 4 beim Hover auf Tablets
+- `.hover:tablet:order-3` - Reihenfolge 3 beim Hover auf Tablets
+- `.hover:tablet:order-2` - Reihenfolge 2 beim Hover auf Tablets
+- `.hover:tablet:order-1` - Reihenfolge 1 beim Hover auf Tablets
+- `.hover:tablet:order-0` - Reihenfolge 0 beim Hover auf Tablets
+- `.hover:tablet:order-first` - Reihenfolge: erste beim Hover auf Tablets
+- `.hover:tablet:order-last` - Reihenfolge: letzte beim Hover auf Tablets
+- `.tablet:order-5` - Reihenfolge 5 auf Tablets
+- `.tablet:order-4` - Reihenfolge 4 auf Tablets
+- `.tablet:order-3` - Reihenfolge 3 auf Tablets
+- `.tablet:order-2` - Reihenfolge 2 auf Tablets
+- `.tablet:order-1` - Reihenfolge 1 auf Tablets
+- `.tablet:order-0` - Reihenfolge 0 auf Tablets
+- `.tablet:order-first` - Reihenfolge: erste auf Tablets
+- `.tablet:order-last` - Reihenfolge: letzte auf Tablets
 
 ##### Negative Order - Tablet (480px - 768px)
 
-- `.hover:tablet:-order-5` - Negativbefehl 5 beim Hovern auf dem Tablet
-- `.hover:tablet:-order-4` - Negativbefehl 4 beim Bewegen des Mauszeigers auf dem Tablet
-- `.hover:tablet:-order-3` - Negative Bestellung 3 beim Hovern auf dem Tablet
-- `.hover:tablet:-order-2` - Negative Bestellung 2 beim Bewegen des Mauszeigers auf dem Tablet
-- `.hover:tablet:-order-1` - Negative Bestellung 1 beim Bewegen des Mauszeigers auf dem Tablet
-- `.tablet:-order-5` - Negativer Auftrag 5 auf dem Tablet
-- `.tablet:-order-4` - Negativer Auftrag 4 auf dem Tablet
-- `.tablet:-order-3` - Negativer Auftrag 3 auf dem Tablet
-- `.tablet:-order-2` - Negativer Auftrag 2 auf dem Tablet
-- `.tablet:-order-1` - Negativauftrag 1 auf Tablet
+- `.hover:tablet:-order-5` - Negative Reihenfolge 5 beim Hover auf Tablets
+- `.hover:tablet:-order-4` - Negative Reihenfolge 4 beim Hover auf Tablets
+- `.hover:tablet:-order-3` - Negative Reihenfolge 3 beim Hover auf Tablets
+- `.hover:tablet:-order-2` - Negative Reihenfolge 2 beim Hover auf Tablets
+- `.hover:tablet:-order-1` - Negative Reihenfolge 1 beim Hover auf Tablets
+- `.tablet:-order-5` - Negative Reihenfolge 5 auf Tablets
+- `.tablet:-order-4` - Negative Reihenfolge 4 auf Tablets
+- `.tablet:-order-3` - Negative Reihenfolge 3 auf Tablets
+- `.tablet:-order-2` - Negative Reihenfolge 2 auf Tablets
+- `.tablet:-order-1` - Negative Reihenfolge 1 auf Tablets
 
 ##### Order - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:order-5` - Bestellen Sie 5 beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:order-4` - Bestellen Sie 4 beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:order-3` - Bestellen Sie 3 beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:order-2` - Bestellen Sie 2, indem Sie den Mauszeiger auf dem Tablet-PC bewegen
-- `.hover:tablet-pc:order-1` - Bestellen Sie 1, indem Sie den Mauszeiger auf den Tablet-PC bewegen
-- `.hover:tablet-pc:order-0` - Bestellen Sie 0 beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:order-first` - Bestellen Sie zuerst, indem Sie den Mauszeiger auf den Tablet-PC bewegen
-- `.hover:tablet-pc:order-last` - Bestellen Sie zuletzt, wenn Sie den Mauszeiger auf dem Tablet-PC bewegen
-- `.tablet-pc:order-5` - Bestellen Sie 5 auf dem Tablet-PC
-- `.tablet-pc:order-4` - Bestellen Sie 4 auf dem Tablet-PC
-- `.tablet-pc:order-3` - Bestellen Sie 3 auf dem Tablet-PC
-- `.tablet-pc:order-2` - Bestellen Sie 2 auf dem Tablet-PC
-- `.tablet-pc:order-1` - Bestellen Sie 1 auf dem Tablet-PC
-- `.tablet-pc:order-0` - Bestellen Sie 0 auf dem Tablet-PC
-- `.tablet-pc:order-first` - Bestellen Sie zuerst auf dem Tablet-PC
-- `.tablet-pc:order-last` - Bestellen Sie zuletzt auf dem Tablet-PC
+- `.hover:tablet-pc:order-5` - Reihenfolge 5 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:order-4` - Reihenfolge 4 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:order-3` - Reihenfolge 3 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:order-2` - Reihenfolge 2 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:order-1` - Reihenfolge 1 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:order-0` - Reihenfolge 0 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:order-first` - Reihenfolge: erste beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:order-last` - Reihenfolge: letzte beim Hover auf Tablet-PCs
+- `.tablet-pc:order-5` - Reihenfolge 5 auf Tablet-PCs
+- `.tablet-pc:order-4` - Reihenfolge 4 auf Tablet-PCs
+- `.tablet-pc:order-3` - Reihenfolge 3 auf Tablet-PCs
+- `.tablet-pc:order-2` - Reihenfolge 2 auf Tablet-PCs
+- `.tablet-pc:order-1` - Reihenfolge 1 auf Tablet-PCs
+- `.tablet-pc:order-0` - Reihenfolge 0 auf Tablet-PCs
+- `.tablet-pc:order-first` - Reihenfolge: erste auf Tablet-PCs
+- `.tablet-pc:order-last` - Reihenfolge: letzte auf Tablet-PCs
 
 ##### Negative Order - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:-order-5` - Negativauftrag 5 beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:-order-4` - Negativauftrag 4 beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:-order-3` - Negativauftrag 3 beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:-order-2` - Negative Bestellung 2 beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:-order-1` - Negative Bestellung 1 beim Hover auf dem Tablet-PC
-- `.tablet-pc:-order-5` - Negativer Auftrag 5 auf Tablet-PC
-- `.tablet-pc:-order-4` - Negativauftrag 4 auf Tablet-PC
-- `.tablet-pc:-order-3` - Negativauftrag 3 auf Tablet-PC
-- `.tablet-pc:-order-2` - Negativer Auftrag 2 auf Tablet-PC
-- `.tablet-pc:-order-1` - Negativauftrag 1 auf Tablet-PC
+- `.hover:tablet-pc:-order-5` - Negative Reihenfolge 5 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:-order-4` - Negative Reihenfolge 4 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:-order-3` - Negative Reihenfolge 3 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:-order-2` - Negative Reihenfolge 2 beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:-order-1` - Negative Reihenfolge 1 beim Hover auf Tablet-PCs
+- `.tablet-pc:-order-5` - Negative Reihenfolge 5 auf Tablet-PCs
+- `.tablet-pc:-order-4` - Negative Reihenfolge 4 auf Tablet-PCs
+- `.tablet-pc:-order-3` - Negative Reihenfolge 3 auf Tablet-PCs
+- `.tablet-pc:-order-2` - Negative Reihenfolge 2 auf Tablet-PCs
+- `.tablet-pc:-order-1` - Negative Reihenfolge 1 auf Tablet-PCs
 
 ##### Order - Pc (992px - 1200px)
 
-- `.hover:pc:order-5` - Bestellen Sie 5 beim Hover auf dem PC
-- `.hover:pc:order-4` - Bestellen Sie 4 beim Hover auf dem PC
-- `.hover:pc:order-3` - Bestellen Sie 3 beim Hover auf dem PC
-- `.hover:pc:order-2` - Bestellen Sie 2 beim Hover auf dem PC
-- `.hover:pc:order-1` - Bestellen Sie 1, indem Sie den Mauszeiger auf den PC bewegen
-- `.hover:pc:order-0` - Bestellen Sie 0, wenn Sie mit der Maus über den PC fahren
-- `.hover:pc:order-first` - Bestellen Sie zuerst, indem Sie den Mauszeiger auf den PC bewegen
-- `.hover:pc:order-last` - Bestellen Sie zuletzt, wenn Sie mit der Maus über den PC fahren
-- `.pc:order-5` - Bestellen Sie 5 Stück pro Stück
-- `.pc:order-4` - Bestellen Sie 4 auf PC
-- `.pc:order-3` - Bestellen Sie 3 auf dem PC
-- `.pc:order-2` - Bestellen Sie 2 auf PC
-- `.pc:order-1` - Bestellen Sie 1 auf PC
-- `.pc:order-0` - Bestellen Sie 0 auf dem PC
-- `.pc:order-first` - Bestellen Sie zuerst am PC
-- `.pc:order-last` - Zuletzt auf dem PC bestellen
+- `.hover:pc:order-5` - Reihenfolge 5 beim Hover auf dem PC
+- `.hover:pc:order-4` - Reihenfolge 4 beim Hover auf dem PC
+- `.hover:pc:order-3` - Reihenfolge 3 beim Hover auf dem PC
+- `.hover:pc:order-2` - Reihenfolge 2 beim Hover auf dem PC
+- `.hover:pc:order-1` - Reihenfolge 1 beim Hover auf dem PC
+- `.hover:pc:order-0` - Reihenfolge 0 beim Hover auf dem PC
+- `.hover:pc:order-first` - Reihenfolge: erste beim Hover auf dem PC
+- `.hover:pc:order-last` - Reihenfolge: letzte beim Hover auf dem PC
+- `.pc:order-5` - Reihenfolge 5 auf dem PC
+- `.pc:order-4` - Reihenfolge 4 auf dem PC
+- `.pc:order-3` - Reihenfolge 3 auf dem PC
+- `.pc:order-2` - Reihenfolge 2 auf dem PC
+- `.pc:order-1` - Reihenfolge 1 auf dem PC
+- `.pc:order-0` - Reihenfolge 0 auf dem PC
+- `.pc:order-first` - Reihenfolge: erste auf dem PC
+- `.pc:order-last` - Reihenfolge: letzte auf dem PC
 
 ##### Negative Order - Pc (992px - 1200px)
 
-- `.hover:pc:-order-5` - Negative Ordnung 5 beim Hover auf dem PC
-- `.hover:pc:-order-4` - Negative Ordnung 4 beim Hover auf dem PC
-- `.hover:pc:-order-3` - Negative Ordnung 3 beim Hover auf dem PC
-- `.hover:pc:-order-2` - Negative Ordnung 2 beim Hover auf dem PC
-- `.hover:pc:-order-1` - Negative Ordnung 1 beim Hover auf dem PC
-- `.pc:-order-5` - Negative Ordnung 5 auf PC
-- `.pc:-order-4` - Negative Ordnung 4 auf PC
-- `.pc:-order-3` - Negative Ordnung 3 auf PC
-- `.pc:-order-2` - Negative Ordnung 2 auf PC
-- `.pc:-order-1` - Negativauftrag 1 auf PC
+- `.hover:pc:-order-5` - Negative Reihenfolge 5 beim Hover auf dem PC
+- `.hover:pc:-order-4` - Negative Reihenfolge 4 beim Hover auf dem PC
+- `.hover:pc:-order-3` - Negative Reihenfolge 3 beim Hover auf dem PC
+- `.hover:pc:-order-2` - Negative Reihenfolge 2 beim Hover auf dem PC
+- `.hover:pc:-order-1` - Negative Reihenfolge 1 beim Hover auf dem PC
+- `.pc:-order-5` - Negative Reihenfolge 5 auf dem PC
+- `.pc:-order-4` - Negative Reihenfolge 4 auf dem PC
+- `.pc:-order-3` - Negative Reihenfolge 3 auf dem PC
+- `.pc:-order-2` - Negative Reihenfolge 2 auf dem PC
+- `.pc:-order-1` - Negative Reihenfolge 1 auf dem PC
 
 ##### Order - Tv (≥ 1200px)
 
-- `.hover:tv:order-5` - Bestellen Sie 5 per Hover im Fernsehen
-- `.hover:tv:order-4` - Bestellen Sie 4 per Hover im Fernsehen
-- `.hover:tv:order-3` - Bestellen Sie 3 per Hover im Fernsehen
-- `.hover:tv:order-2` - Bestellen Sie 2 per Hover im Fernsehen
-- `.hover:tv:order-1` - Bestellen Sie 1 per Hover im Fernsehen
-- `.hover:tv:order-0` - Bestellen Sie 0 beim Hover im Fernsehen
-- `.hover:tv:order-first` - Bestellen Sie zuerst per Hover im Fernsehen
-- `.hover:tv:order-last` - Bestellen Sie zuletzt, indem Sie im Fernsehen darüber schweben
-- `.tv:order-5` - Bestellen Sie 5 im Fernsehen
-- `.tv:order-4` - Bestellen Sie 4 im Fernsehen
-- `.tv:order-3` - Bestellen Sie 3 im Fernsehen
-- `.tv:order-2` - Bestellen Sie 2 im Fernsehen
-- `.tv:order-1` - Bestellen Sie 1 im Fernsehen
-- `.tv:order-0` - Bestellen Sie 0 im Fernsehen
-- `.tv:order-first` - Bestellen Sie zuerst im Fernsehen
-- `.tv:order-last` - Zuletzt im Fernsehen bestellen
+- `.hover:tv:order-5` - Reihenfolge 5 beim Hover auf dem TV
+- `.hover:tv:order-4` - Reihenfolge 4 beim Hover auf dem TV
+- `.hover:tv:order-3` - Reihenfolge 3 beim Hover auf dem TV
+- `.hover:tv:order-2` - Reihenfolge 2 beim Hover auf dem TV
+- `.hover:tv:order-1` - Reihenfolge 1 beim Hover auf dem TV
+- `.hover:tv:order-0` - Reihenfolge 0 beim Hover auf dem TV
+- `.hover:tv:order-first` - Reihenfolge: erste beim Hover auf dem TV
+- `.hover:tv:order-last` - Reihenfolge: letzte beim Hover auf dem TV
+- `.tv:order-5` - Reihenfolge 5 auf dem TV
+- `.tv:order-4` - Reihenfolge 4 auf dem TV
+- `.tv:order-3` - Reihenfolge 3 auf dem TV
+- `.tv:order-2` - Reihenfolge 2 auf dem TV
+- `.tv:order-1` - Reihenfolge 1 auf dem TV
+- `.tv:order-0` - Reihenfolge 0 auf dem TV
+- `.tv:order-first` - Reihenfolge: erste auf dem TV
+- `.tv:order-last` - Reihenfolge: letzte auf dem TV
 
 ##### Negative Order - Tv (≥ 1200px)
 
-- `.hover:tv:-order-5` - Negative Order 5 beim Hover im Fernsehen
-- `.hover:tv:-order-4` - Negative Order 4 im Hover im Fernsehen
-- `.hover:tv:-order-3` - Negative Order 3 im Hover im Fernsehen
-- `.hover:tv:-order-2` - Negative Order 2 im Hover im Fernsehen
-- `.hover:tv:-order-1` - Negative Order 1 beim Hover im Fernsehen
-- `.tv:-order-5` - Negative Order 5 im Fernsehen
-- `.tv:-order-4` - Negative Order 4 im Fernsehen
-- `.tv:-order-3` - Negative Order 3 im Fernsehen
-- `.tv:-order-2` - Negative Order 2 im Fernsehen
-- `.tv:-order-1` - Negative Order 1 im Fernsehen
+- `.hover:tv:-order-5` - Negative Reihenfolge 5 beim Hover auf dem TV
+- `.hover:tv:-order-4` - Negative Reihenfolge 4 beim Hover auf dem TV
+- `.hover:tv:-order-3` - Negative Reihenfolge 3 beim Hover auf dem TV
+- `.hover:tv:-order-2` - Negative Reihenfolge 2 beim Hover auf dem TV
+- `.hover:tv:-order-1` - Negative Reihenfolge 1 beim Hover auf dem TV
+- `.tv:-order-5` - Negative Reihenfolge 5 auf dem TV
+- `.tv:-order-4` - Negative Reihenfolge 4 auf dem TV
+- `.tv:-order-3` - Negative Reihenfolge 3 auf dem TV
+- `.tv:-order-2` - Negative Reihenfolge 2 auf dem TV
+- `.tv:-order-1` - Negative Reihenfolge 1 auf dem TV
 
 ##### Order - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:order-5` - Bestellen Sie maximal 5 Stück, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet-max:order-4` - Bestellen Sie maximal 4, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet-max:order-3` - Bestellen Sie maximal 3, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet-max:order-2` - Bestellen Sie maximal 2, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet-max:order-1` - Bestellen Sie 1 Stück, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet-max:order-0` - Bestellen Sie 0, wenn Sie mit der Maus über das Tablet fahren
-- `.hover:tablet-max:order-first` - Bestellen Sie zuerst, indem Sie den Mauszeiger auf das Tablet halten
-- `.hover:tablet-max:order-last` - Bestellen Sie zuletzt, wenn Sie mit der Maus über das Tablet fahren
-- `.tablet-max:order-5` - Bestellen Sie maximal 5 Stück auf dem Tablet
-- `.tablet-max:order-4` - Bestellen Sie maximal 4 Stück auf dem Tablet
-- `.tablet-max:order-3` - Bestellen Sie maximal 3 Stück auf dem Tablet
-- `.tablet-max:order-2` - Bestellen Sie maximal 2 Stück auf dem Tablet
-- `.tablet-max:order-1` - Bestellen Sie maximal 1 Tablette
-- `.tablet-max:order-0` - Bestellen Sie 0 auf dem Tablet max
-- `.tablet-max:order-first` - Bestellen Sie zuerst auf dem Tablet max
-- `.tablet-max:order-last` - Bestellen Sie zuletzt auf dem Tablet max
+- `.hover:tablet-max:order-5` - Reihenfolge 5 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:order-4` - Reihenfolge 4 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:order-3` - Reihenfolge 3 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:order-2` - Reihenfolge 2 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:order-1` - Reihenfolge 1 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:order-0` - Reihenfolge 0 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:order-first` - Reihenfolge: erste beim Hover auf Tablets (max.)
+- `.hover:tablet-max:order-last` - Reihenfolge: letzte beim Hover auf Tablets (max.)
+- `.tablet-max:order-5` - Reihenfolge 5 auf Tablets (max.)
+- `.tablet-max:order-4` - Reihenfolge 4 auf Tablets (max.)
+- `.tablet-max:order-3` - Reihenfolge 3 auf Tablets (max.)
+- `.tablet-max:order-2` - Reihenfolge 2 auf Tablets (max.)
+- `.tablet-max:order-1` - Reihenfolge 1 auf Tablets (max.)
+- `.tablet-max:order-0` - Reihenfolge 0 auf Tablets (max.)
+- `.tablet-max:order-first` - Reihenfolge: erste auf Tablets (max.)
+- `.tablet-max:order-last` - Reihenfolge: letzte auf Tablets (max.)
 
 ##### Negative Order - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:-order-5` - Negative Bestellung 5 beim Hover auf dem Tablet max
-- `.hover:tablet-max:-order-4` - Negative Bestellung 4 beim Hover auf dem Tablet max
-- `.hover:tablet-max:-order-3` - Negative Bestellung 3 beim Hover auf dem Tablet max
-- `.hover:tablet-max:-order-2` - Negative Bestellung 2 beim Hover auf dem Tablet max
-- `.hover:tablet-max:-order-1` - Negative Bestellung 1 beim Hover auf dem Tablet max
-- `.tablet-max:-order-5` - Negative Bestellung 5 auf Tablet max
-- `.tablet-max:-order-4` - Negative Bestellung 4 auf Tablet max
-- `.tablet-max:-order-3` - Negativbestellung 3 auf Tablet max
-- `.tablet-max:-order-2` - Negativbestellung 2 auf Tablet max
-- `.tablet-max:-order-1` - Negativbestellung 1 auf Tablet max
+- `.hover:tablet-max:-order-5` - Negative Reihenfolge 5 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:-order-4` - Negative Reihenfolge 4 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:-order-3` - Negative Reihenfolge 3 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:-order-2` - Negative Reihenfolge 2 beim Hover auf Tablets (max.)
+- `.hover:tablet-max:-order-1` - Negative Reihenfolge 1 beim Hover auf Tablets (max.)
+- `.tablet-max:-order-5` - Negative Reihenfolge 5 auf Tablets (max.)
+- `.tablet-max:-order-4` - Negative Reihenfolge 4 auf Tablets (max.)
+- `.tablet-max:-order-3` - Negative Reihenfolge 3 auf Tablets (max.)
+- `.tablet-max:-order-2` - Negative Reihenfolge 2 auf Tablets (max.)
+- `.tablet-max:-order-1` - Negative Reihenfolge 1 auf Tablets (max.)
 
 ##### Order - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:order-5` - Bestellen Sie maximal 5 Stück beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc-max:order-4` - Bestellen Sie 4 beim Hover auf dem Tablet-PC, max
-- `.hover:tablet-pc-max:order-3` - Bestellen Sie 3 beim Hover auf dem Tablet-PC, max
-- `.hover:tablet-pc-max:order-2` - Bestellen Sie 2 beim Hover auf dem Tablet-PC, max
-- `.hover:tablet-pc-max:order-1` - Bestellen Sie 1 beim Hover auf dem Tablet-PC, max
-- `.hover:tablet-pc-max:order-0` - Bestellen Sie 0 beim Hover auf dem Tablet-PC, max
-- `.hover:tablet-pc-max:order-first` - Bestellen Sie zuerst beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:order-last` - Bestellen Sie zuletzt bei Hover auf dem Tablet-PC max
-- `.tablet-pc-max:order-5` - Bestellen Sie maximal 5 Stück auf dem Tablet-PC
-- `.tablet-pc-max:order-4` - Bestellen Sie maximal 4 Stück auf dem Tablet-PC
-- `.tablet-pc-max:order-3` - Bestellen Sie maximal 3 Stück auf dem Tablet-PC
-- `.tablet-pc-max:order-2` - Bestellen Sie maximal 2 Stück auf dem Tablet-PC
-- `.tablet-pc-max:order-1` - Bestellen Sie maximal 1 Tablet-PC
-- `.tablet-pc-max:order-0` - Bestellen Sie 0 auf Tablet-PC max
-- `.tablet-pc-max:order-first` - Bestellen Sie zuerst auf dem Tablet-PC max
-- `.tablet-pc-max:order-last` - Bestellen Sie zuletzt am Tablet-PC max
+- `.hover:tablet-pc-max:order-5` - Reihenfolge 5 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:order-4` - Reihenfolge 4 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:order-3` - Reihenfolge 3 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:order-2` - Reihenfolge 2 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:order-1` - Reihenfolge 1 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:order-0` - Reihenfolge 0 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:order-first` - Reihenfolge: erste beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:order-last` - Reihenfolge: letzte beim Hover auf Tablet-PCs (max.)
+- `.tablet-pc-max:order-5` - Reihenfolge 5 auf Tablet-PCs (max.)
+- `.tablet-pc-max:order-4` - Reihenfolge 4 auf Tablet-PCs (max.)
+- `.tablet-pc-max:order-3` - Reihenfolge 3 auf Tablet-PCs (max.)
+- `.tablet-pc-max:order-2` - Reihenfolge 2 auf Tablet-PCs (max.)
+- `.tablet-pc-max:order-1` - Reihenfolge 1 auf Tablet-PCs (max.)
+- `.tablet-pc-max:order-0` - Reihenfolge 0 auf Tablet-PCs (max.)
+- `.tablet-pc-max:order-first` - Reihenfolge: erste auf Tablet-PCs (max.)
+- `.tablet-pc-max:order-last` - Reihenfolge: letzte auf Tablet-PCs (max.)
 
 ##### Negative Order - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:-order-5` - Negativbestellung 5 beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:-order-4` - Negative Bestellung 4 beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:-order-3` - Negative Bestellung 3 beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:-order-2` - Negative Bestellung 2 beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:-order-1` - Negative Bestellung 1 beim Hover auf dem Tablet-PC max
-- `.tablet-pc-max:-order-5` - Negativbestellung 5 auf Tablet-PC max
-- `.tablet-pc-max:-order-4` - Negativbestellung 4 auf Tablet-PC max
-- `.tablet-pc-max:-order-3` - Negativbestellung 3 auf Tablet-PC max
-- `.tablet-pc-max:-order-2` - Negativbestellung 2 auf Tablet-PC max
-- `.tablet-pc-max:-order-1` - Negativbestellung 1 auf Tablet-PC max
+- `.hover:tablet-pc-max:-order-5` - Negative Reihenfolge 5 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:-order-4` - Negative Reihenfolge 4 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:-order-3` - Negative Reihenfolge 3 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:-order-2` - Negative Reihenfolge 2 beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:-order-1` - Negative Reihenfolge 1 beim Hover auf Tablet-PCs (max.)
+- `.tablet-pc-max:-order-5` - Negative Reihenfolge 5 auf Tablet-PCs (max.)
+- `.tablet-pc-max:-order-4` - Negative Reihenfolge 4 auf Tablet-PCs (max.)
+- `.tablet-pc-max:-order-3` - Negative Reihenfolge 3 auf Tablet-PCs (max.)
+- `.tablet-pc-max:-order-2` - Negative Reihenfolge 2 auf Tablet-PCs (max.)
+- `.tablet-pc-max:-order-1` - Negative Reihenfolge 1 auf Tablet-PCs (max.)
 
 ##### Order - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:order-5` - Bestellen Sie maximal 5 beim Hover auf dem PC
-- `.hover:pc-max:order-4` - Bestellen Sie maximal 4 beim Hover auf dem PC
-- `.hover:pc-max:order-3` - Bestellen Sie maximal 3 beim Hover auf dem PC
-- `.hover:pc-max:order-2` - Bestellen Sie maximal 2 beim Hover auf dem PC
-- `.hover:pc-max:order-1` - Bestellen Sie 1 beim Hover auf dem PC, max
-- `.hover:pc-max:order-0` - Bestellen Sie 0 beim Hover auf dem PC, max
-- `.hover:pc-max:order-first` - Bestellen Sie zuerst mit der Maus über den PC, max
-- `.hover:pc-max:order-last` - Bestellen Sie zuletzt beim Hover auf dem PC max
-- `.pc-max:order-5` - Bestellen Sie maximal 5 Stück pro PC
-- `.pc-max:order-4` - Bestellen Sie maximal 4 Stück pro PC
-- `.pc-max:order-3` - Bestellen Sie maximal 3 Stück pro PC
-- `.pc-max:order-2` - Bestellen Sie maximal 2 Stück pro PC
-- `.pc-max:order-1` - Bestellen Sie max. 1 Stück pro PC
-- `.pc-max:order-0` - Bestellen Sie max. 0 Stück pro PC
-- `.pc-max:order-first` - Bestellen Sie zuerst auf dem PC max
-- `.pc-max:order-last` - Bestellen Sie zuletzt auf dem PC max
+- `.hover:pc-max:order-5` - Reihenfolge 5 beim Hover auf dem PC (max.)
+- `.hover:pc-max:order-4` - Reihenfolge 4 beim Hover auf dem PC (max.)
+- `.hover:pc-max:order-3` - Reihenfolge 3 beim Hover auf dem PC (max.)
+- `.hover:pc-max:order-2` - Reihenfolge 2 beim Hover auf dem PC (max.)
+- `.hover:pc-max:order-1` - Reihenfolge 1 beim Hover auf dem PC (max.)
+- `.hover:pc-max:order-0` - Reihenfolge 0 beim Hover auf dem PC (max.)
+- `.hover:pc-max:order-first` - Reihenfolge: erste beim Hover auf dem PC (max.)
+- `.hover:pc-max:order-last` - Reihenfolge: letzte beim Hover auf dem PC (max.)
+- `.pc-max:order-5` - Reihenfolge 5 auf dem PC (max.)
+- `.pc-max:order-4` - Reihenfolge 4 auf dem PC (max.)
+- `.pc-max:order-3` - Reihenfolge 3 auf dem PC (max.)
+- `.pc-max:order-2` - Reihenfolge 2 auf dem PC (max.)
+- `.pc-max:order-1` - Reihenfolge 1 auf dem PC (max.)
+- `.pc-max:order-0` - Reihenfolge 0 auf dem PC (max.)
+- `.pc-max:order-first` - Reihenfolge: erste auf dem PC (max.)
+- `.pc-max:order-last` - Reihenfolge: letzte auf dem PC (max.)
 
 ##### Negative Order - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:-order-5` - Negative Ordnung 5 beim Hover auf dem PC max
-- `.hover:pc-max:-order-4` - Negative Ordnung 4 beim Hover auf dem PC max
-- `.hover:pc-max:-order-3` - Negative Ordnung 3 beim Hover auf dem PC max
-- `.hover:pc-max:-order-2` - Negative Ordnung 2 beim Hover auf dem PC max
+- `.hover:pc-max:-order-5` - Negative Reihenfolge 5 beim Hover auf dem PC (max.)
+- `.hover:pc-max:-order-4` - Negative Reihenfolge 4 beim Hover auf dem PC (max.)
+- `.hover:pc-max:-order-3` - Negative Reihenfolge 3 beim Hover auf dem PC (max.)
+- `.hover:pc-max:-order-2` - Negative Reihenfolge 2 beim Hover auf dem PC (max.)
 - `.hover:pc-max:-order-1` - Negative Reihenfolge 1 beim Hover auf dem PC max
-- `.pc-max:-order-5` - Negativauftrag 5 auf PC max
-- `.pc-max:-order-4` - Negativauftrag 4 auf PC max
-- `.pc-max:-order-3` - Negativauftrag 3 auf PC max
-- `.pc-max:-order-2` - Negativauftrag 2 auf PC max
-- `.pc-max:-order-1` - Negativauftrag 1 auf PC max
+- `.pc-max:-order-5` - Negative Reihenfolge 5 auf dem PC (max.)
+- `.pc-max:-order-4` - Negative Reihenfolge 4 auf dem PC (max.)
+- `.pc-max:-order-3` - Negative Reihenfolge 3 auf dem PC (max.)
+- `.pc-max:-order-2` - Negative Reihenfolge 2 auf dem PC (max.)
+- `.pc-max:-order-1` - Negative Reihenfolge 1 auf dem PC (max.)
 
 ## Spacing
 
@@ -1846,284 +1846,284 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Margin All
 
-- `.first:m-0` - Margin All 0rem zuerst
-- `.hover:m-5` - Margin All 5rem beim Hover
-- `.hover:m-4.5` - Margin All 0rem bei Hover
-- `.hover:m-4` - Margin All 4rem beim Hover
-- `.hover:m-3.5` - Margin All 0rem bei Hover
-- `.hover:m-3` - Margin All 3rem beim Hover
-- `.hover:m-2.5` - Margin All 0rem bei Hover
-- `.hover:m-2` - Margin All 2rem beim Hover
-- `.hover:m-1.9` - Margin All 0rem bei Hover
-- `.hover:m-1.8` - Margin All 0rem bei Hover
-- `.hover:m-1.7` - Margin All 0rem bei Hover
-- `.hover:m-1.6` - Margin All 0rem bei Hover
-- `.hover:m-1.5` - Margin All 0rem bei Hover
-- `.hover:m-1.4` - Margin All 0rem bei Hover
-- `.hover:m-1.3` - Margin All 0rem bei Hover
-- `.hover:m-1.2` - Margin All 0rem bei Hover
-- `.hover:m-1.1` - Margin All 0rem bei Hover
-- `.hover:m-1` - Margin All 1rem beim Hover
-- `.hover:m-0.9` - Margin All 0rem bei Hover
-- `.hover:m-0.8` - Margin All 0rem bei Hover
-- `.hover:m-0.7` - Margin All 0rem bei Hover
-- `.hover:m-0.6` - Margin All 0rem bei Hover
-- `.hover:m-0.5` - Margin All 0rem bei Hover
-- `.hover:m-0.4` - Margin All 0rem bei Hover
-- `.hover:m-0.3` - Margin All 0rem bei Hover
-- `.hover:m-0.2` - Marge Alle 0,2rem beim Schweben
-- `.hover:m-0.1` - Marge Alle 0,1rem beim Schweben
-- `.hover:m-0` - Margin All 0rem bei Hover
-- `.hover:m-auto` - Marge Alles automatisch beim Schweben
-- `.last:m-0` - Margin All 0rem zuletzt
-- `.m-5` - Rand Alle 5rem
-- `.m-4.5` - Marge Alle 0rem
-- `.m-4` - Rand Alle 4rem
-- `.m-3.5` - Marge Alle 0rem
-- `.m-3` - Rand Alle 3rem
-- `.m-2.5` - Marge Alle 0rem
-- `.m-2` - Rand Alle 2rem
-- `.m-1.9` - Marge Alle 0rem
-- `.m-1.8` - Marge Alle 0rem
-- `.m-1.7` - Marge Alle 0rem
-- `.m-1.6` - Marge Alle 0rem
-- `.m-1.5` - Marge Alle 0rem
-- `.m-1.4` - Marge Alle 0rem
-- `.m-1.3` - Marge Alle 0rem
-- `.m-1.2` - Marge Alle 0rem
-- `.m-1.1` - Marge Alle 0rem
-- `.m-1` - Marge Alle 1rem
-- `.m-0.9` - Marge Alle 0rem
-- `.m-0.8` - Marge Alle 0rem
-- `.m-0.7` - Marge Alle 0rem
-- `.m-0.6` - Marge Alle 0rem
-- `.m-0.5` - Marge Alle 0rem
-- `.m-0.4` - Marge Alle 0rem
-- `.m-0.3` - Marge Alle 0rem
-- `.m-0.2` - Marge Alle 0,2rem
-- `.m-0.1` - Marge Alle 0,1rem
-- `.m-0` - Marge Alle 0rem
-- `.m-auto` - Rand Alles automatisch
+- `.first:m-0` - Außenabstand alle Seiten 0rem beim ersten Element
+- `.hover:m-5` - Außenabstand alle Seiten 5rem beim Hover
+- `.hover:m-4.5` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-4` - Außenabstand alle Seiten 4rem beim Hover
+- `.hover:m-3.5` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-3` - Außenabstand alle Seiten 3rem beim Hover
+- `.hover:m-2.5` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-2` - Außenabstand alle Seiten 2rem beim Hover
+- `.hover:m-1.9` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1.8` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1.7` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1.6` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1.5` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1.4` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1.3` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1.2` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1.1` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1` - Außenabstand alle Seiten 1rem beim Hover
+- `.hover:m-0.9` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-0.8` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-0.7` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-0.6` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-0.5` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-0.4` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-0.3` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-0.2` - Außenabstand alle Seiten 0.2rem beim Hover
+- `.hover:m-0.1` - Außenabstand alle Seiten 0.1rem beim Hover
+- `.hover:m-0` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-auto` - Außenabstand alle Seiten auto beim Hover
+- `.last:m-0` - Außenabstand alle Seiten 0rem beim letzten Element
+- `.m-5` - Außenabstand alle Seiten 5rem
+- `.m-4.5` - Außenabstand alle Seiten 0rem
+- `.m-4` - Außenabstand alle Seiten 4rem
+- `.m-3.5` - Außenabstand alle Seiten 0rem
+- `.m-3` - Außenabstand alle Seiten 3rem
+- `.m-2.5` - Außenabstand alle Seiten 0rem
+- `.m-2` - Außenabstand alle Seiten 2rem
+- `.m-1.9` - Außenabstand alle Seiten 0rem
+- `.m-1.8` - Außenabstand alle Seiten 0rem
+- `.m-1.7` - Außenabstand alle Seiten 0rem
+- `.m-1.6` - Außenabstand alle Seiten 0rem
+- `.m-1.5` - Außenabstand alle Seiten 0rem
+- `.m-1.4` - Außenabstand alle Seiten 0rem
+- `.m-1.3` - Außenabstand alle Seiten 0rem
+- `.m-1.2` - Außenabstand alle Seiten 0rem
+- `.m-1.1` - Außenabstand alle Seiten 0rem
+- `.m-1` - Außenabstand alle Seiten 1rem
+- `.m-0.9` - Außenabstand alle Seiten 0rem
+- `.m-0.8` - Außenabstand alle Seiten 0rem
+- `.m-0.7` - Außenabstand alle Seiten 0rem
+- `.m-0.6` - Außenabstand alle Seiten 0rem
+- `.m-0.5` - Außenabstand alle Seiten 0rem
+- `.m-0.4` - Außenabstand alle Seiten 0rem
+- `.m-0.3` - Außenabstand alle Seiten 0rem
+- `.m-0.2` - Außenabstand alle Seiten 0.2rem
+- `.m-0.1` - Außenabstand alle Seiten 0.1rem
+- `.m-0` - Außenabstand alle Seiten 0rem
+- `.m-auto` - Außenabstand alle Seiten auto
 
 #### Margin Bottom
 
-- `.first:mb-0` - Rand unten 0rem zuerst anlegen
-- `.hover:mb-100` - Rand unten 100 % beim Schweben
-- `.hover:mb-75` - Rand unten 75 % beim Schweben
-- `.hover:mb-50` - Rand unten 50 % beim Schweben
-- `.hover:mb-25` - Rand unten 25 % beim Schweben
-- `.hover:mb-5` - Rand unten 5rem beim Schweben
-- `.hover:mb-4.5` - Rand unten 0rem beim Schweben
-- `.hover:mb-4` - Rand unten 4rem beim Schweben
-- `.hover:mb-3.5` - Rand unten 0rem beim Schweben
-- `.hover:mb-3` - Rand unten 3rem beim Schweben
-- `.hover:mb-2.5` - Rand unten 0rem beim Schweben
-- `.hover:mb-2` - Rand unten 2rem beim Schweben
-- `.hover:mb-1.9` - Rand unten 0rem beim Schweben
-- `.hover:mb-1.8` - Rand unten 0rem beim Schweben
-- `.hover:mb-1.7` - Rand unten 0rem beim Schweben
-- `.hover:mb-1.6` - Rand unten 0rem beim Schweben
-- `.hover:mb-1.5` - Rand unten 0rem beim Schweben
-- `.hover:mb-1.4` - Rand unten 0rem beim Schweben
-- `.hover:mb-1.3` - Rand unten 0rem beim Schweben
-- `.hover:mb-1.2` - Rand unten 0rem beim Schweben
-- `.hover:mb-1.1` - Rand unten 0rem beim Schweben
-- `.hover:mb-1` - Rand unten 1rem beim Schweben
-- `.hover:mb-0.9` - Rand unten 0rem beim Schweben
-- `.hover:mb-0.8` - Rand unten 0rem beim Schweben
-- `.hover:mb-0.7` - Rand unten 0rem beim Schweben
-- `.hover:mb-0.6` - Rand unten 0rem beim Schweben
-- `.hover:mb-0.5` - Rand unten 0rem beim Schweben
-- `.hover:mb-0.4` - Rand unten 0rem beim Schweben
-- `.hover:mb-0.3` - Rand unten 0rem beim Schweben
-- `.hover:mb-0.2` - Rand unten 0,2rem beim Schweben
-- `.hover:mb-0.1` - Rand unten 0,1rem beim Schweben
-- `.hover:mb-0` - Rand unten 0rem beim Schweben
-- `.hover:mb-auto` - Rand unten automatisch beim Schweben
-- `.last:mb-0` - Rand unten 0rem zuletzt
-- `.mb-100` - Rand unten 100 %
-- `.mb-75` - Rand unten 75 %
-- `.mb-50` - Rand unten 50 %
-- `.mb-25` - Rand unten 25 %
-- `.mb-5` - Rand unten 5rem
-- `.mb-4.5` - Rand unten 0rem
-- `.mb-4` - Rand unten 4rem
-- `.mb-3.5` - Rand unten 0rem
-- `.mb-3` - Rand unten 3rem
-- `.mb-2.5` - Rand unten 0rem
-- `.mb-2` - Rand unten 2rem
-- `.mb-1.9` - Rand unten 0rem
-- `.mb-1.8` - Rand unten 0rem
-- `.mb-1.7` - Rand unten 0rem
-- `.mb-1.6` - Rand unten 0rem
-- `.mb-1.5` - Rand unten 0rem
-- `.mb-1.4` - Rand unten 0rem
-- `.mb-1.3` - Rand unten 0rem
-- `.mb-1.2` - Rand unten 0rem
-- `.mb-1.1` - Rand unten 0rem
-- `.mb-1` - Rand unten 1rem
-- `.mb-0.9` - Rand unten 0rem
-- `.mb-0.8` - Rand unten 0rem
-- `.mb-0.7` - Rand unten 0rem
-- `.mb-0.6` - Rand unten 0rem
-- `.mb-0.5` - Rand unten 0rem
-- `.mb-0.4` - Rand unten 0rem
-- `.mb-0.3` - Rand unten 0rem
-- `.mb-0.2` - Rand unten 0,2rem
-- `.mb-0.1` - Rand unten 0,1rem
-- `.mb-0` - Rand unten 0rem
-- `.mb-auto` - Rand unten automatisch
+- `.first:mb-0` - Außenabstand unten 0rem beim ersten Element
+- `.hover:mb-100` - Außenabstand unten 100 % beim Hover
+- `.hover:mb-75` - Außenabstand unten 75 % beim Hover
+- `.hover:mb-50` - Außenabstand unten 50 % beim Hover
+- `.hover:mb-25` - Außenabstand unten 25 % beim Hover
+- `.hover:mb-5` - Außenabstand unten 5rem beim Hover
+- `.hover:mb-4.5` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-4` - Außenabstand unten 4rem beim Hover
+- `.hover:mb-3.5` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-3` - Außenabstand unten 3rem beim Hover
+- `.hover:mb-2.5` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-2` - Außenabstand unten 2rem beim Hover
+- `.hover:mb-1.9` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1.8` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1.7` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1.6` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1.5` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1.4` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1.3` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1.2` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1.1` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1` - Außenabstand unten 1rem beim Hover
+- `.hover:mb-0.9` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-0.8` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-0.7` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-0.6` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-0.5` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-0.4` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-0.3` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-0.2` - Außenabstand unten 0.2rem beim Hover
+- `.hover:mb-0.1` - Außenabstand unten 0.1rem beim Hover
+- `.hover:mb-0` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-auto` - Außenabstand unten auto beim Hover
+- `.last:mb-0` - Außenabstand unten 0rem beim letzten Element
+- `.mb-100` - Außenabstand unten 100 %
+- `.mb-75` - Außenabstand unten 75 %
+- `.mb-50` - Außenabstand unten 50 %
+- `.mb-25` - Außenabstand unten 25 %
+- `.mb-5` - Außenabstand unten 5rem
+- `.mb-4.5` - Außenabstand unten 0rem
+- `.mb-4` - Außenabstand unten 4rem
+- `.mb-3.5` - Außenabstand unten 0rem
+- `.mb-3` - Außenabstand unten 3rem
+- `.mb-2.5` - Außenabstand unten 0rem
+- `.mb-2` - Außenabstand unten 2rem
+- `.mb-1.9` - Außenabstand unten 0rem
+- `.mb-1.8` - Außenabstand unten 0rem
+- `.mb-1.7` - Außenabstand unten 0rem
+- `.mb-1.6` - Außenabstand unten 0rem
+- `.mb-1.5` - Außenabstand unten 0rem
+- `.mb-1.4` - Außenabstand unten 0rem
+- `.mb-1.3` - Außenabstand unten 0rem
+- `.mb-1.2` - Außenabstand unten 0rem
+- `.mb-1.1` - Außenabstand unten 0rem
+- `.mb-1` - Außenabstand unten 1rem
+- `.mb-0.9` - Außenabstand unten 0rem
+- `.mb-0.8` - Außenabstand unten 0rem
+- `.mb-0.7` - Außenabstand unten 0rem
+- `.mb-0.6` - Außenabstand unten 0rem
+- `.mb-0.5` - Außenabstand unten 0rem
+- `.mb-0.4` - Außenabstand unten 0rem
+- `.mb-0.3` - Außenabstand unten 0rem
+- `.mb-0.2` - Außenabstand unten 0.2rem
+- `.mb-0.1` - Außenabstand unten 0.1rem
+- `.mb-0` - Außenabstand unten 0rem
+- `.mb-auto` - Außenabstand unten auto
 
 #### Margin End
 
-- `.hover:me-2` - Randende 2rem beim Schweben
-- `.hover:me-1.5` - Randende 1,5rem beim Schweben
-- `.hover:me-1` - Randende 1rem beim Schweben
-- `.hover:me-0.5` - Randende 0,5rem beim Schweben
-- `.hover:me-0` - Randende 0rem beim Schweben
-- `.me-2` - Rand Ende 2rem
-- `.me-1.5` - Randende 1,5rem
-- `.me-1` - Rand Ende 1rem
-- `.me-0.5` - Randende 0,5rem
-- `.me-0` - Rand Ende 0rem
+- `.hover:me-2` - Außenabstand Ende 2rem beim Hover
+- `.hover:me-1.5` - Außenabstand Ende 1.5rem beim Hover
+- `.hover:me-1` - Außenabstand Ende 1rem beim Hover
+- `.hover:me-0.5` - Außenabstand Ende 0.5rem beim Hover
+- `.hover:me-0` - Außenabstand Ende 0rem beim Hover
+- `.me-2` - Außenabstand Ende 2rem
+- `.me-1.5` - Außenabstand Ende 1.5rem
+- `.me-1` - Außenabstand Ende 1rem
+- `.me-0.5` - Außenabstand Ende 0.5rem
+- `.me-0` - Außenabstand Ende 0rem
 
 #### Margin Left
 
-- `.first:ml-0` - Rand links 0rem zuerst
-- `.hover:ml-100` - Beim Hover beträgt der verbleibende Rand 100 %
-- `.hover:ml-75` - Beim Schweben beträgt der verbleibende Rand 75 %
-- `.hover:ml-50` - Beim Hover beträgt der verbleibende Rand 50 %
-- `.hover:ml-25` - Beim Hover beträgt der verbleibende Rand 25 %
-- `.hover:ml-5` - Rand links 5rem beim Schweben
-- `.hover:ml-4.5` - Rand links 0rem beim Schweben
-- `.hover:ml-4` - Rand links 4rem beim Schweben
-- `.hover:ml-3.5` - Rand links 0rem beim Schweben
-- `.hover:ml-3` - Rand links 3rem beim Schweben
-- `.hover:ml-2.5` - Rand links 0rem beim Schweben
-- `.hover:ml-2` - Rand links 2rem beim Schweben
-- `.hover:ml-1.9` - Rand links 0rem beim Schweben
-- `.hover:ml-1.8` - Rand links 0rem beim Schweben
-- `.hover:ml-1.7` - Rand links 0rem beim Schweben
-- `.hover:ml-1.6` - Rand links 0rem beim Schweben
-- `.hover:ml-1.5` - Rand links 0rem beim Schweben
-- `.hover:ml-1.4` - Rand links 0rem beim Schweben
-- `.hover:ml-1.3` - Rand links 0rem beim Schweben
-- `.hover:ml-1.2` - Rand links 0rem beim Schweben
-- `.hover:ml-1.1` - Rand links 0rem beim Schweben
-- `.hover:ml-1` - Rand links 1 Rem beim Schweben
-- `.hover:ml-0.9` - Rand links 0rem beim Schweben
-- `.hover:ml-0.8` - Rand links 0rem beim Schweben
-- `.hover:ml-0.7` - Rand links 0rem beim Schweben
-- `.hover:ml-0.6` - Rand links 0rem beim Schweben
-- `.hover:ml-0.5` - Rand links 0rem beim Schweben
-- `.hover:ml-0.4` - Rand links 0rem beim Schweben
-- `.hover:ml-0.3` - Rand links 0rem beim Schweben
-- `.hover:ml-0.2` - Beim Schweben beträgt der verbleibende Rand 0,2 Rem
-- `.hover:ml-0.1` - Beim Schweben beträgt der verbleibende Rand 0,1 Rem
-- `.hover:ml-0` - Rand links 0rem beim Schweben
-- `.hover:ml-auto` - Beim Hover wird der linke Rand automatisch angezeigt
-- `.last:ml-0` - Rand links 0rem am letzten
-- `.ml-100` - Rand links 100 %
-- `.ml-75` - Rand links 75 %
-- `.ml-50` - Rand links 50 %
-- `.ml-25` - Rand links 25 %
-- `.ml-5` - Rand links 5rem
-- `.ml-4.5` - Rand links 0rem
-- `.ml-4` - Rand links 4rem
-- `.ml-3.5` - Rand links 0rem
-- `.ml-3` - Rand links 3rem
-- `.ml-2.5` - Rand links 0rem
-- `.ml-2` - Rand links 2rem
-- `.ml-1.9` - Rand links 0rem
-- `.ml-1.8` - Rand links 0rem
-- `.ml-1.7` - Rand links 0rem
-- `.ml-1.6` - Rand links 0rem
-- `.ml-1.5` - Rand links 0rem
-- `.ml-1.4` - Rand links 0rem
-- `.ml-1.3` - Rand links 0rem
-- `.ml-1.2` - Rand links 0rem
-- `.ml-1.1` - Rand links 0rem
-- `.ml-1` - Rand links 1rem
-- `.ml-0.9` - Rand links 0rem
-- `.ml-0.8` - Rand links 0rem
-- `.ml-0.7` - Rand links 0rem
-- `.ml-0.6` - Rand links 0rem
-- `.ml-0.5` - Rand links 0rem
-- `.ml-0.4` - Rand links 0rem
-- `.ml-0.3` - Rand links 0rem
-- `.ml-0.2` - Rand links 0,2rem
-- `.ml-0.1` - Rand links 0,1rem
-- `.ml-0` - Rand links 0rem
-- `.ml-auto` - Rand links automatisch
+- `.first:ml-0` - Außenabstand links 0rem beim ersten Element
+- `.hover:ml-100` - Außenabstand links 100 % beim Hover
+- `.hover:ml-75` - Außenabstand links 75 % beim Hover
+- `.hover:ml-50` - Außenabstand links 50 % beim Hover
+- `.hover:ml-25` - Außenabstand links 25 % beim Hover
+- `.hover:ml-5` - Außenabstand links 5rem beim Hover
+- `.hover:ml-4.5` - Außenabstand links 0rem beim Hover
+- `.hover:ml-4` - Außenabstand links 4rem beim Hover
+- `.hover:ml-3.5` - Außenabstand links 0rem beim Hover
+- `.hover:ml-3` - Außenabstand links 3rem beim Hover
+- `.hover:ml-2.5` - Außenabstand links 0rem beim Hover
+- `.hover:ml-2` - Außenabstand links 2rem beim Hover
+- `.hover:ml-1.9` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1.8` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1.7` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1.6` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1.5` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1.4` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1.3` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1.2` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1.1` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1` - Außenabstand links 1rem beim Hover
+- `.hover:ml-0.9` - Außenabstand links 0rem beim Hover
+- `.hover:ml-0.8` - Außenabstand links 0rem beim Hover
+- `.hover:ml-0.7` - Außenabstand links 0rem beim Hover
+- `.hover:ml-0.6` - Außenabstand links 0rem beim Hover
+- `.hover:ml-0.5` - Außenabstand links 0rem beim Hover
+- `.hover:ml-0.4` - Außenabstand links 0rem beim Hover
+- `.hover:ml-0.3` - Außenabstand links 0rem beim Hover
+- `.hover:ml-0.2` - Außenabstand links 0.2rem beim Hover
+- `.hover:ml-0.1` - Außenabstand links 0.1rem beim Hover
+- `.hover:ml-0` - Außenabstand links 0rem beim Hover
+- `.hover:ml-auto` - Außenabstand links auto beim Hover
+- `.last:ml-0` - Außenabstand links 0rem beim letzten Element
+- `.ml-100` - Außenabstand links 100 %
+- `.ml-75` - Außenabstand links 75 %
+- `.ml-50` - Außenabstand links 50 %
+- `.ml-25` - Außenabstand links 25 %
+- `.ml-5` - Außenabstand links 5rem
+- `.ml-4.5` - Außenabstand links 0rem
+- `.ml-4` - Außenabstand links 4rem
+- `.ml-3.5` - Außenabstand links 0rem
+- `.ml-3` - Außenabstand links 3rem
+- `.ml-2.5` - Außenabstand links 0rem
+- `.ml-2` - Außenabstand links 2rem
+- `.ml-1.9` - Außenabstand links 0rem
+- `.ml-1.8` - Außenabstand links 0rem
+- `.ml-1.7` - Außenabstand links 0rem
+- `.ml-1.6` - Außenabstand links 0rem
+- `.ml-1.5` - Außenabstand links 0rem
+- `.ml-1.4` - Außenabstand links 0rem
+- `.ml-1.3` - Außenabstand links 0rem
+- `.ml-1.2` - Außenabstand links 0rem
+- `.ml-1.1` - Außenabstand links 0rem
+- `.ml-1` - Außenabstand links 1rem
+- `.ml-0.9` - Außenabstand links 0rem
+- `.ml-0.8` - Außenabstand links 0rem
+- `.ml-0.7` - Außenabstand links 0rem
+- `.ml-0.6` - Außenabstand links 0rem
+- `.ml-0.5` - Außenabstand links 0rem
+- `.ml-0.4` - Außenabstand links 0rem
+- `.ml-0.3` - Außenabstand links 0rem
+- `.ml-0.2` - Außenabstand links 0.2rem
+- `.ml-0.1` - Außenabstand links 0.1rem
+- `.ml-0` - Außenabstand links 0rem
+- `.ml-auto` - Außenabstand links auto
 
 #### Margin Right
 
-- `.first:mr-0` - Rand rechts 0rem zuerst anbringen
-- `.hover:mr-100` - Rand rechts 100 % beim Schweben
-- `.hover:mr-75` - Rand rechts 75 % beim Schweben
-- `.hover:mr-50` - Rand rechts 50 % beim Schweben
-- `.hover:mr-25` - Rand rechts 25 % beim Schweben
-- `.hover:mr-5` - Rand rechts 5rem beim Schweben
-- `.hover:mr-4.5` - Rand rechts 0rem beim Schweben
-- `.hover:mr-4` - Rand rechts 4rem beim Schweben
-- `.hover:mr-3.5` - Rand rechts 0rem beim Schweben
-- `.hover:mr-3` - Rand rechts 3rem beim Schweben
-- `.hover:mr-2.5` - Rand rechts 0rem beim Schweben
-- `.hover:mr-2` - Rand rechts 2rem beim Schweben
-- `.hover:mr-1.9` - Rand rechts 0rem beim Schweben
-- `.hover:mr-1.8` - Rand rechts 0rem beim Schweben
-- `.hover:mr-1.7` - Rand rechts 0rem beim Schweben
-- `.hover:mr-1.6` - Rand rechts 0rem beim Schweben
-- `.hover:mr-1.5` - Rand rechts 0rem beim Schweben
-- `.hover:mr-1.4` - Rand rechts 0rem beim Schweben
-- `.hover:mr-1.3` - Rand rechts 0rem beim Schweben
-- `.hover:mr-1.2` - Rand rechts 0rem beim Schweben
-- `.hover:mr-1.1` - Rand rechts 0rem beim Schweben
-- `.hover:mr-1` - Rand rechts 1rem beim Schweben
-- `.hover:mr-0.9` - Rand rechts 0rem beim Schweben
-- `.hover:mr-0.8` - Rand rechts 0rem beim Schweben
-- `.hover:mr-0.7` - Rand rechts 0rem beim Schweben
-- `.hover:mr-0.6` - Rand rechts 0rem beim Schweben
-- `.hover:mr-0.5` - Rand rechts 0rem beim Schweben
-- `.hover:mr-0.4` - Rand rechts 0rem beim Schweben
-- `.hover:mr-0.3` - Rand rechts 0rem beim Schweben
-- `.hover:mr-0.2` - Rand rechts 0,2rem beim Schweben
-- `.hover:mr-0.1` - Rand rechts 0,1rem beim Schweben
-- `.hover:mr-0` - Rand rechts 0rem beim Schweben
-- `.hover:mr-auto` - Rand rechts automatisch beim Schweben
-- `.last:mr-0` - Rand rechts 0rem zuletzt
-- `.mr-100` - Rand rechts 100 %
-- `.mr-75` - Rand rechts 75 %
-- `.mr-50` - Rand rechts 50 %
-- `.mr-25` - Rand rechts 25 %
-- `.mr-5` - Rand rechts 5rem
-- `.mr-4.5` - Rand rechts 0rem
-- `.mr-4` - Rand rechts 4rem
-- `.mr-3.5` - Rand rechts 0rem
-- `.mr-3` - Rand rechts 3rem
-- `.mr-2.5` - Rand rechts 0rem
-- `.mr-2` - Rand rechts 2rem
-- `.mr-1.9` - Rand rechts 0rem
-- `.mr-1.8` - Rand rechts 0rem
-- `.mr-1.7` - Rand rechts 0rem
-- `.mr-1.6` - Rand rechts 0rem
-- `.mr-1.5` - Rand rechts 0rem
-- `.mr-1.4` - Rand rechts 0rem
-- `.mr-1.3` - Rand rechts 0rem
-- `.mr-1.2` - Rand rechts 0rem
-- `.mr-1.1` - Rand rechts 0rem
-- `.mr-1` - Rand rechts 1rem
-- `.mr-0.9` - Rand rechts 0rem
-- `.mr-0.8` - Rand rechts 0rem
-- `.mr-0.7` - Rand rechts 0rem
-- `.mr-0.6` - Rand rechts 0rem
-- `.mr-0.5` - Rand rechts 0rem
-- `.mr-0.4` - Rand rechts 0rem
-- `.mr-0.3` - Rand rechts 0rem
-- `.mr-0.2` - Rand rechts 0,2rem
-- `.mr-0.1` - Rand rechts 0,1rem
-- `.mr-0` - Rand rechts 0rem
-- `.mr-auto` - Rand rechts automatisch
+- `.first:mr-0` - Außenabstand rechts 0rem beim ersten Element
+- `.hover:mr-100` - Außenabstand rechts 100 % beim Hover
+- `.hover:mr-75` - Außenabstand rechts 75 % beim Hover
+- `.hover:mr-50` - Außenabstand rechts 50 % beim Hover
+- `.hover:mr-25` - Außenabstand rechts 25 % beim Hover
+- `.hover:mr-5` - Außenabstand rechts 5rem beim Hover
+- `.hover:mr-4.5` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-4` - Außenabstand rechts 4rem beim Hover
+- `.hover:mr-3.5` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-3` - Außenabstand rechts 3rem beim Hover
+- `.hover:mr-2.5` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-2` - Außenabstand rechts 2rem beim Hover
+- `.hover:mr-1.9` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1.8` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1.7` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1.6` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1.5` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1.4` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1.3` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1.2` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1.1` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1` - Außenabstand rechts 1rem beim Hover
+- `.hover:mr-0.9` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-0.8` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-0.7` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-0.6` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-0.5` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-0.4` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-0.3` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-0.2` - Außenabstand rechts 0.2rem beim Hover
+- `.hover:mr-0.1` - Außenabstand rechts 0.1rem beim Hover
+- `.hover:mr-0` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-auto` - Außenabstand rechts auto beim Hover
+- `.last:mr-0` - Außenabstand rechts 0rem beim letzten Element
+- `.mr-100` - Außenabstand rechts 100 %
+- `.mr-75` - Außenabstand rechts 75 %
+- `.mr-50` - Außenabstand rechts 50 %
+- `.mr-25` - Außenabstand rechts 25 %
+- `.mr-5` - Außenabstand rechts 5rem
+- `.mr-4.5` - Außenabstand rechts 0rem
+- `.mr-4` - Außenabstand rechts 4rem
+- `.mr-3.5` - Außenabstand rechts 0rem
+- `.mr-3` - Außenabstand rechts 3rem
+- `.mr-2.5` - Außenabstand rechts 0rem
+- `.mr-2` - Außenabstand rechts 2rem
+- `.mr-1.9` - Außenabstand rechts 0rem
+- `.mr-1.8` - Außenabstand rechts 0rem
+- `.mr-1.7` - Außenabstand rechts 0rem
+- `.mr-1.6` - Außenabstand rechts 0rem
+- `.mr-1.5` - Außenabstand rechts 0rem
+- `.mr-1.4` - Außenabstand rechts 0rem
+- `.mr-1.3` - Außenabstand rechts 0rem
+- `.mr-1.2` - Außenabstand rechts 0rem
+- `.mr-1.1` - Außenabstand rechts 0rem
+- `.mr-1` - Außenabstand rechts 1rem
+- `.mr-0.9` - Außenabstand rechts 0rem
+- `.mr-0.8` - Außenabstand rechts 0rem
+- `.mr-0.7` - Außenabstand rechts 0rem
+- `.mr-0.6` - Außenabstand rechts 0rem
+- `.mr-0.5` - Außenabstand rechts 0rem
+- `.mr-0.4` - Außenabstand rechts 0rem
+- `.mr-0.3` - Außenabstand rechts 0rem
+- `.mr-0.2` - Außenabstand rechts 0.2rem
+- `.mr-0.1` - Außenabstand rechts 0.1rem
+- `.mr-0` - Außenabstand rechts 0rem
+- `.mr-auto` - Außenabstand rechts auto
 
 #### Margin Start
 
@@ -2133,213 +2133,213 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:ms-0.5` - Margin Start 0,5rem beim Schweben
 - `.hover:ms-0` - Margin Start 0rem beim Hover
 - `.ms-2` - Margin Start 2rem
-- `.ms-1.5` - Marge Start 1,5rem
+- `.ms-1.5` - Margin Start 1.5rem
 - `.ms-1` - Margin Start 1rem
-- `.ms-0.5` - Randanfang 0,5rem
+- `.ms-0.5` - Margin Start 0.5rem
 - `.ms-0` - Margin-Start 0rem
 
 #### Margin Top
 
-- `.first:mt-0` - Margin Top 0rem zuerst anlegen
-- `.hover:mt-100` - Margin Top 100 % beim Schweben
-- `.hover:mt-75` - Rand oben 75 % beim Schweben
-- `.hover:mt-50` - Rand Top 50 % beim Schweben
-- `.hover:mt-25` - Rand oben 25 % beim Schweben
-- `.hover:mt-5` - Rand oben 5rem beim Schweben
-- `.hover:mt-4.5` - Rand oben 0rem beim Schweben
-- `.hover:mt-4` - Rand oben 4rem beim Schweben
-- `.hover:mt-3.5` - Rand oben 0rem beim Schweben
-- `.hover:mt-3` - Rand oben 3rem beim Schweben
-- `.hover:mt-2.5` - Rand oben 0rem beim Schweben
-- `.hover:mt-2` - Rand oben 2rem beim Schweben
-- `.hover:mt-1.9` - Rand oben 0rem beim Schweben
-- `.hover:mt-1.8` - Rand oben 0rem beim Schweben
-- `.hover:mt-1.7` - Rand oben 0rem beim Schweben
-- `.hover:mt-1.6` - Rand oben 0rem beim Schweben
-- `.hover:mt-1.5` - Rand oben 0rem beim Schweben
-- `.hover:mt-1.4` - Rand oben 0rem beim Schweben
-- `.hover:mt-1.3` - Rand oben 0rem beim Schweben
-- `.hover:mt-1.2` - Rand oben 0rem beim Schweben
-- `.hover:mt-1.1` - Rand oben 0rem beim Schweben
-- `.hover:mt-1` - Rand oben 1rem beim Schweben
-- `.hover:mt-0.9` - Rand oben 0rem beim Schweben
-- `.hover:mt-0.8` - Rand oben 0rem beim Schweben
-- `.hover:mt-0.7` - Rand oben 0rem beim Schweben
-- `.hover:mt-0.6` - Rand oben 0rem beim Schweben
-- `.hover:mt-0.5` - Rand oben 0rem beim Schweben
-- `.hover:mt-0.4` - Rand oben 0rem beim Schweben
-- `.hover:mt-0.3` - Rand oben 0rem beim Schweben
-- `.hover:mt-0.2` - Rand oben 0,2rem beim Schweben
-- `.hover:mt-0.1` - Rand oben 0,1rem beim Schweben
-- `.hover:mt-0` - Rand oben 0rem beim Schweben
-- `.hover:mt-auto` - Rand Oben automatisch beim Schweben
-- `.last:mt-0` - Rand oben 0rem zuletzt
-- `.mt-100` - Rand oben 100 %
-- `.mt-75` - Rand oben 75 %
-- `.mt-50` - Rand oben 50 %
-- `.mt-25` - Rand oben 25 %
-- `.mt-5` - Rand oben 5rem
-- `.mt-4.5` - Rand oben 0rem
-- `.mt-4` - Rand oben 4rem
-- `.mt-3.5` - Rand oben 0rem
-- `.mt-3` - Rand oben 3rem
-- `.mt-2.5` - Rand oben 0rem
-- `.mt-2` - Rand oben 2rem
-- `.mt-1.9` - Rand oben 0rem
-- `.mt-1.8` - Rand oben 0rem
-- `.mt-1.7` - Rand oben 0rem
-- `.mt-1.6` - Rand oben 0rem
-- `.mt-1.5` - Rand oben 0rem
-- `.mt-1.4` - Rand oben 0rem
-- `.mt-1.3` - Rand oben 0rem
-- `.mt-1.2` - Rand oben 0rem
-- `.mt-1.1` - Rand oben 0rem
-- `.mt-1` - Rand oben 1
-- `.mt-0.9` - Rand oben 0rem
-- `.mt-0.8` - Rand oben 0rem
-- `.mt-0.7` - Rand oben 0rem
-- `.mt-0.6` - Rand oben 0rem
-- `.mt-0.5` - Rand oben 0rem
-- `.mt-0.4` - Rand oben 0rem
-- `.mt-0.3` - Rand oben 0rem
-- `.mt-0.2` - Rand oben 0,2rem
-- `.mt-0.1` - Rand oben 0,1rem
-- `.mt-0` - Rand oben 0rem
-- `.mt-auto` - Marge Top-Auto
+- `.first:mt-0` - Außenabstand oben 0rem beim ersten Element
+- `.hover:mt-100` - Außenabstand oben 100 % beim Hover
+- `.hover:mt-75` - Außenabstand oben 75 % beim Hover
+- `.hover:mt-50` - Außenabstand oben 50 % beim Hover
+- `.hover:mt-25` - Außenabstand oben 25 % beim Hover
+- `.hover:mt-5` - Außenabstand oben 5rem beim Hover
+- `.hover:mt-4.5` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-4` - Außenabstand oben 4rem beim Hover
+- `.hover:mt-3.5` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-3` - Außenabstand oben 3rem beim Hover
+- `.hover:mt-2.5` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-2` - Außenabstand oben 2rem beim Hover
+- `.hover:mt-1.9` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1.8` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1.7` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1.6` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1.5` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1.4` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1.3` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1.2` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1.1` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1` - Außenabstand oben 1rem beim Hover
+- `.hover:mt-0.9` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-0.8` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-0.7` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-0.6` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-0.5` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-0.4` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-0.3` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-0.2` - Außenabstand oben 0.2rem beim Hover
+- `.hover:mt-0.1` - Außenabstand oben 0.1rem beim Hover
+- `.hover:mt-0` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-auto` - Außenabstand oben auto beim Hover
+- `.last:mt-0` - Außenabstand oben 0rem beim letzten Element
+- `.mt-100` - Außenabstand oben 100 %
+- `.mt-75` - Außenabstand oben 75 %
+- `.mt-50` - Außenabstand oben 50 %
+- `.mt-25` - Außenabstand oben 25 %
+- `.mt-5` - Außenabstand oben 5rem
+- `.mt-4.5` - Außenabstand oben 0rem
+- `.mt-4` - Außenabstand oben 4rem
+- `.mt-3.5` - Außenabstand oben 0rem
+- `.mt-3` - Außenabstand oben 3rem
+- `.mt-2.5` - Außenabstand oben 0rem
+- `.mt-2` - Außenabstand oben 2rem
+- `.mt-1.9` - Außenabstand oben 0rem
+- `.mt-1.8` - Außenabstand oben 0rem
+- `.mt-1.7` - Außenabstand oben 0rem
+- `.mt-1.6` - Außenabstand oben 0rem
+- `.mt-1.5` - Außenabstand oben 0rem
+- `.mt-1.4` - Außenabstand oben 0rem
+- `.mt-1.3` - Außenabstand oben 0rem
+- `.mt-1.2` - Außenabstand oben 0rem
+- `.mt-1.1` - Außenabstand oben 0rem
+- `.mt-1` - Außenabstand oben 1rem
+- `.mt-0.9` - Außenabstand oben 0rem
+- `.mt-0.8` - Außenabstand oben 0rem
+- `.mt-0.7` - Außenabstand oben 0rem
+- `.mt-0.6` - Außenabstand oben 0rem
+- `.mt-0.5` - Außenabstand oben 0rem
+- `.mt-0.4` - Außenabstand oben 0rem
+- `.mt-0.3` - Außenabstand oben 0rem
+- `.mt-0.2` - Außenabstand oben 0.2rem
+- `.mt-0.1` - Außenabstand oben 0.1rem
+- `.mt-0` - Außenabstand oben 0rem
+- `.mt-auto` - Außenabstand oben auto
 
 #### Margin X-Axis
 
-- `.hover:mx-100` - Rand X-Achse 100 % beim Schweben
-- `.hover:mx-75` - Rand X-Achse 75 % beim Schweben
-- `.hover:mx-50` - Rand X-Achse 50 % beim Schweben
-- `.hover:mx-25` - Rand X-Achse 25 % beim Schweben
-- `.hover:mx-5` - Rand X-Achse 5rem beim Schweben
-- `.hover:mx-4.5` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-4` - Rand X-Achse 4rem beim Schweben
-- `.hover:mx-3.5` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-3` - Rand X-Achse 3rem beim Schweben
-- `.hover:mx-2.5` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-2` - Rand X-Achse 2rem beim Schweben
-- `.hover:mx-1.9` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-1.8` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-1.7` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-1.6` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-1.5` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-1.4` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-1.3` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-1.2` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-1.1` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-1` - Rand X-Achse 1rem beim Schweben
-- `.hover:mx-0.9` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-0.8` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-0.7` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-0.6` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-0.5` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-0.4` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-0.3` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-0.2` - Rand X-Achse 0,2rem beim Schweben
-- `.hover:mx-0.1` - Rand X-Achse 0,1rem beim Schweben
-- `.hover:mx-0` - Rand X-Achse 0rem beim Schweben
-- `.hover:mx-auto` - Rand der X-Achse automatisch beim Schweben
-- `.mx-100` - Rand X-Achse 100 %
-- `.mx-75` - Rand X-Achse 75 %
-- `.mx-50` - Rand X-Achse 50 %
-- `.mx-25` - Rand X-Achse 25 %
-- `.mx-5` - Rand X-Achse 5rem
-- `.mx-4.5` - Rand X-Achse 0rem
-- `.mx-4` - Rand X-Achse 4rem
-- `.mx-3.5` - Rand X-Achse 0rem
-- `.mx-3` - Rand X-Achse 3rem
-- `.mx-2.5` - Rand X-Achse 0rem
-- `.mx-2` - Rand X-Achse 2rem
-- `.mx-1.9` - Rand X-Achse 0rem
-- `.mx-1.8` - Rand X-Achse 0rem
-- `.mx-1.7` - Rand X-Achse 0rem
-- `.mx-1.6` - Rand X-Achse 0rem
-- `.mx-1.5` - Rand X-Achse 0rem
-- `.mx-1.4` - Rand X-Achse 0rem
-- `.mx-1.3` - Rand X-Achse 0rem
-- `.mx-1.2` - Rand X-Achse 0rem
-- `.mx-1.1` - Rand X-Achse 0rem
-- `.mx-1` - Rand X-Achse 1rem
-- `.mx-0.9` - Rand X-Achse 0rem
-- `.mx-0.8` - Rand X-Achse 0rem
-- `.mx-0.7` - Rand X-Achse 0rem
-- `.mx-0.6` - Rand X-Achse 0rem
-- `.mx-0.5` - Rand X-Achse 0rem
-- `.mx-0.4` - Rand X-Achse 0rem
-- `.mx-0.3` - Rand X-Achse 0rem
-- `.mx-0.2` - Rand X-Achse 0,2rem
-- `.mx-0.1` - Rand X-Achse 0,1rem
-- `.mx-0` - Rand X-Achse 0rem
-- `.mx-auto` - Rand X-Achse automatisch
+- `.hover:mx-100` - Außenabstand X-Achse 100 % beim Hover
+- `.hover:mx-75` - Außenabstand X-Achse 75 % beim Hover
+- `.hover:mx-50` - Außenabstand X-Achse 50 % beim Hover
+- `.hover:mx-25` - Außenabstand X-Achse 25 % beim Hover
+- `.hover:mx-5` - Außenabstand X-Achse 5rem beim Hover
+- `.hover:mx-4.5` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-4` - Außenabstand X-Achse 4rem beim Hover
+- `.hover:mx-3.5` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-3` - Außenabstand X-Achse 3rem beim Hover
+- `.hover:mx-2.5` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-2` - Außenabstand X-Achse 2rem beim Hover
+- `.hover:mx-1.9` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1.8` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1.7` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1.6` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1.5` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1.4` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1.3` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1.2` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1.1` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1` - Außenabstand X-Achse 1rem beim Hover
+- `.hover:mx-0.9` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-0.8` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-0.7` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-0.6` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-0.5` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-0.4` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-0.3` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-0.2` - Außenabstand X-Achse 0.2rem beim Hover
+- `.hover:mx-0.1` - Außenabstand X-Achse 0.1rem beim Hover
+- `.hover:mx-0` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-auto` - Außenabstand X-Achse auto beim Hover
+- `.mx-100` - Außenabstand X-Achse 100 %
+- `.mx-75` - Außenabstand X-Achse 75 %
+- `.mx-50` - Außenabstand X-Achse 50 %
+- `.mx-25` - Außenabstand X-Achse 25 %
+- `.mx-5` - Außenabstand X-Achse 5rem
+- `.mx-4.5` - Außenabstand X-Achse 0rem
+- `.mx-4` - Außenabstand X-Achse 4rem
+- `.mx-3.5` - Außenabstand X-Achse 0rem
+- `.mx-3` - Außenabstand X-Achse 3rem
+- `.mx-2.5` - Außenabstand X-Achse 0rem
+- `.mx-2` - Außenabstand X-Achse 2rem
+- `.mx-1.9` - Außenabstand X-Achse 0rem
+- `.mx-1.8` - Außenabstand X-Achse 0rem
+- `.mx-1.7` - Außenabstand X-Achse 0rem
+- `.mx-1.6` - Außenabstand X-Achse 0rem
+- `.mx-1.5` - Außenabstand X-Achse 0rem
+- `.mx-1.4` - Außenabstand X-Achse 0rem
+- `.mx-1.3` - Außenabstand X-Achse 0rem
+- `.mx-1.2` - Außenabstand X-Achse 0rem
+- `.mx-1.1` - Außenabstand X-Achse 0rem
+- `.mx-1` - Außenabstand X-Achse 1rem
+- `.mx-0.9` - Außenabstand X-Achse 0rem
+- `.mx-0.8` - Außenabstand X-Achse 0rem
+- `.mx-0.7` - Außenabstand X-Achse 0rem
+- `.mx-0.6` - Außenabstand X-Achse 0rem
+- `.mx-0.5` - Außenabstand X-Achse 0rem
+- `.mx-0.4` - Außenabstand X-Achse 0rem
+- `.mx-0.3` - Außenabstand X-Achse 0rem
+- `.mx-0.2` - Außenabstand X-Achse 0.2rem
+- `.mx-0.1` - Außenabstand X-Achse 0.1rem
+- `.mx-0` - Außenabstand X-Achse 0rem
+- `.mx-auto` - Außenabstand X-Achse auto
 
 #### Margin Y-Axis
 
-- `.hover:my-100` - Rand Y-Achse 100 % beim Schweben
-- `.hover:my-75` - Rand Y-Achse 75 % beim Schweben
-- `.hover:my-50` - Rand Y-Achse 50 % beim Schweben
-- `.hover:my-25` - Rand Y-Achse 25 % beim Schweben
-- `.hover:my-5` - Rand Y-Achse 5rem beim Schweben
-- `.hover:my-4.5` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-4` - Rand Y-Achse 4rem beim Schweben
-- `.hover:my-3.5` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-3` - Rand Y-Achse 3rem beim Schweben
-- `.hover:my-2.5` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-2` - Rand Y-Achse 2rem beim Schweben
-- `.hover:my-1.9` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-1.8` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-1.7` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-1.6` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-1.5` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-1.4` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-1.3` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-1.2` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-1.1` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-1` - Rand Y-Achse 1rem beim Schweben
-- `.hover:my-0.9` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-0.8` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-0.7` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-0.6` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-0.5` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-0.4` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-0.3` - Rand Y-Achse 0rem beim Schweben
+- `.hover:my-100` - Außenabstand Y-Achse 100 % beim Hover
+- `.hover:my-75` - Außenabstand Y-Achse 75 % beim Hover
+- `.hover:my-50` - Außenabstand Y-Achse 50 % beim Hover
+- `.hover:my-25` - Außenabstand Y-Achse 25 % beim Hover
+- `.hover:my-5` - Außenabstand Y-Achse 5rem beim Hover
+- `.hover:my-4.5` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-4` - Außenabstand Y-Achse 4rem beim Hover
+- `.hover:my-3.5` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-3` - Außenabstand Y-Achse 3rem beim Hover
+- `.hover:my-2.5` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-2` - Außenabstand Y-Achse 2rem beim Hover
+- `.hover:my-1.9` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1.8` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1.7` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1.6` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1.5` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1.4` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1.3` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1.2` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1.1` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1` - Außenabstand Y-Achse 1rem beim Hover
+- `.hover:my-0.9` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-0.8` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-0.7` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-0.6` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-0.5` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-0.4` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-0.3` - Außenabstand Y-Achse 0rem beim Hover
 - `.hover:my-0.2` - Margin Y-Achse 0,2rem beim Schweben
 - `.hover:my-0.1` - Margin Y-Achse 0,1rem beim Schweben
-- `.hover:my-0` - Rand Y-Achse 0rem beim Schweben
-- `.hover:my-auto` - Rand der Y-Achse automatisch beim Schweben
-- `.my-100` - Rand Y-Achse 100 %
-- `.my-75` - Rand Y-Achse 75 %
-- `.my-50` - Rand Y-Achse 50 %
-- `.my-25` - Rand Y-Achse 25 %
-- `.my-5` - Rand Y-Achse 5rem
-- `.my-4.5` - Rand Y-Achse 0rem
-- `.my-4` - Rand Y-Achse 4rem
-- `.my-3.5` - Rand Y-Achse 0rem
-- `.my-3` - Rand Y-Achse 3rem
-- `.my-2.5` - Rand Y-Achse 0rem
-- `.my-2` - Rand Y-Achse 2rem
-- `.my-1.9` - Rand Y-Achse 0rem
-- `.my-1.8` - Rand Y-Achse 0rem
-- `.my-1.7` - Rand Y-Achse 0rem
-- `.my-1.6` - Rand Y-Achse 0rem
-- `.my-1.5` - Rand Y-Achse 0rem
-- `.my-1.4` - Rand Y-Achse 0rem
-- `.my-1.3` - Rand Y-Achse 0rem
-- `.my-1.2` - Rand Y-Achse 0rem
-- `.my-1.1` - Rand Y-Achse 0rem
-- `.my-1` - Rand Y-Achse 1rem
-- `.my-0.9` - Rand Y-Achse 0rem
-- `.my-0.8` - Rand Y-Achse 0rem
-- `.my-0.7` - Rand Y-Achse 0rem
-- `.my-0.6` - Rand Y-Achse 0rem
-- `.my-0.5` - Rand Y-Achse 0rem
-- `.my-0.4` - Rand Y-Achse 0rem
-- `.my-0.3` - Rand Y-Achse 0rem
-- `.my-0.2` - Rand Y-Achse 0,2rem
-- `.my-0.1` - Rand Y-Achse 0,1rem
-- `.my-0` - Rand Y-Achse 0rem
-- `.my-auto` - Rand Y-Achse automatisch
+- `.hover:my-0` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-auto` - Außenabstand Y-Achse auto beim Hover
+- `.my-100` - Außenabstand Y-Achse 100 %
+- `.my-75` - Außenabstand Y-Achse 75 %
+- `.my-50` - Außenabstand Y-Achse 50 %
+- `.my-25` - Außenabstand Y-Achse 25 %
+- `.my-5` - Außenabstand Y-Achse 5rem
+- `.my-4.5` - Außenabstand Y-Achse 0rem
+- `.my-4` - Außenabstand Y-Achse 4rem
+- `.my-3.5` - Außenabstand Y-Achse 0rem
+- `.my-3` - Außenabstand Y-Achse 3rem
+- `.my-2.5` - Außenabstand Y-Achse 0rem
+- `.my-2` - Außenabstand Y-Achse 2rem
+- `.my-1.9` - Außenabstand Y-Achse 0rem
+- `.my-1.8` - Außenabstand Y-Achse 0rem
+- `.my-1.7` - Außenabstand Y-Achse 0rem
+- `.my-1.6` - Außenabstand Y-Achse 0rem
+- `.my-1.5` - Außenabstand Y-Achse 0rem
+- `.my-1.4` - Außenabstand Y-Achse 0rem
+- `.my-1.3` - Außenabstand Y-Achse 0rem
+- `.my-1.2` - Außenabstand Y-Achse 0rem
+- `.my-1.1` - Außenabstand Y-Achse 0rem
+- `.my-1` - Außenabstand Y-Achse 1rem
+- `.my-0.9` - Außenabstand Y-Achse 0rem
+- `.my-0.8` - Außenabstand Y-Achse 0rem
+- `.my-0.7` - Außenabstand Y-Achse 0rem
+- `.my-0.6` - Außenabstand Y-Achse 0rem
+- `.my-0.5` - Außenabstand Y-Achse 0rem
+- `.my-0.4` - Außenabstand Y-Achse 0rem
+- `.my-0.3` - Außenabstand Y-Achse 0rem
+- `.my-0.2` - Außenabstand Y-Achse 0.2rem
+- `.my-0.1` - Außenabstand Y-Achse 0.1rem
+- `.my-0` - Außenabstand Y-Achse 0rem
+- `.my-auto` - Außenabstand Y-Achse auto
 
 ### Padding
 
@@ -2404,11 +2404,11 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Padding Bottom
 
-- `.first:pb-0` - Polstern Sie zuerst den Boden 0rem auf
-- `.hover:pb-100` - Polsterung unten 100 % im Schwebeflug
-- `.hover:pb-75` - Polsterung unten 75 % im Schwebeflug
-- `.hover:pb-50` - Polsterung unten 50 % im Schwebeflug
-- `.hover:pb-25` - Polsterung unten 25 % im Schwebeflug
+- `.first:pb-0` - Polsterung unten 0rem beim ersten Element
+- `.hover:pb-100` - Polsterung unten 100 % beim Hover
+- `.hover:pb-75` - Polsterung unten 75 % beim Hover
+- `.hover:pb-50` - Polsterung unten 50 % beim Hover
+- `.hover:pb-25` - Polsterung unten 25 % beim Hover
 - `.hover:pb-5` - Polsterung unten 5rem beim Schweben
 - `.hover:pb-4.5` - Polsterung unten 0rem beim Schweben
 - `.hover:pb-4` - Polsterung unten 4rem beim Schweben
@@ -2471,7 +2471,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Padding Left
 
-- `.first:pl-0` - Padding Left 0rem zuerst
+- `.first:pl-0` - Polsterung links 0rem beim ersten Element
 - `.hover:pl-5` - Polsterung links 5rem beim Schweben
 - `.hover:pl-4.5` - Polsterung links 0rem beim Schweben
 - `.hover:pl-4` - Polsterung links 4rem beim Schweben
@@ -2488,7 +2488,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pl-1.3` - Polsterung links 0rem beim Schweben
 - `.hover:pl-1.2` - Polsterung links 0rem beim Schweben
 - `.hover:pl-1.1` - Polsterung links 0rem beim Schweben
-- `.hover:pl-1` - Polsterung links 1 Rem beim Schweben
+- `.hover:pl-1` - Polsterung links 1rem beim Schweben
 - `.hover:pl-0.9` - Polsterung links 0rem beim Schweben
 - `.hover:pl-0.8` - Polsterung links 0rem beim Schweben
 - `.hover:pl-0.7` - Polsterung links 0rem beim Schweben
@@ -2530,14 +2530,14 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Padding Right
 
-- `.first:pr-0` - Padding Right 0rem zuerst auf
-- `.hover:pr-100` - Padding Right 100 % beim Schweben
-- `.hover:pr-75` - Polsterung rechts 75 % im Schwebeflug
-- `.hover:pr-50` - Polsterung rechts 50 % im Schwebeflug
-- `.hover:pr-25` - Polsterung rechts 25 % im Schwebeflug
-- `.hover:pr-5` - Padding Right 5rem im Schwebeflug
+- `.first:pr-0` - Polsterung rechts 0rem beim ersten Element
+- `.hover:pr-100` - Polsterung rechts 100 % beim Hover
+- `.hover:pr-75` - Polsterung rechts 75 % beim Hover
+- `.hover:pr-50` - Polsterung rechts 50 % beim Hover
+- `.hover:pr-25` - Polsterung rechts 25 % beim Hover
+- `.hover:pr-5` - Polsterung rechts 5rem beim Hover
 - `.hover:pr-4.5` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-4` - Padding Right 4rem beim Schweben
+- `.hover:pr-4` - Polsterung rechts 4rem beim Hover
 - `.hover:pr-3.5` - Polsterung nach rechts 0rem beim Schweben
 - `.hover:pr-3` - Polsterung rechts 3rem beim Schweben
 - `.hover:pr-2.5` - Polsterung nach rechts 0rem beim Schweben
@@ -2597,18 +2597,18 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Padding Top
 
-- `.first:pt-0` - Zuerst Top 0rem aufpolstern
-- `.hover:pt-100` - Polsterung Top 100 % im Schwebeflug
-- `.hover:pt-75` - Polsterung oben 75 % im Schwebeflug
-- `.hover:pt-50` - Polsterung Top 50 % im Schwebeflug
-- `.hover:pt-25` - Polsterung oben 25 % im Schwebeflug
-- `.hover:pt-5` - Polsterung Top 5rem im Schwebeflug
+- `.first:pt-0` - Polsterung oben 0rem beim ersten Element
+- `.hover:pt-100` - Polsterung oben 100 % beim Hover
+- `.hover:pt-75` - Polsterung oben 75 % beim Hover
+- `.hover:pt-50` - Polsterung oben 50 % beim Hover
+- `.hover:pt-25` - Polsterung oben 25 % beim Hover
+- `.hover:pt-5` - Polsterung oben 5rem beim Hover
 - `.hover:pt-4.5` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-4` - Polsterung Top 4rem im Schwebeflug
+- `.hover:pt-4` - Polsterung oben 4rem beim Hover
 - `.hover:pt-3.5` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-3` - Polsterung Top 3rem beim Schweben
+- `.hover:pt-3` - Polsterung oben 3rem beim Hover
 - `.hover:pt-2.5` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-2` - Polsterung oben 2rem im Schwebeflug
+- `.hover:pt-2` - Polsterung oben 2rem beim Hover
 - `.hover:pt-1.9` - Polsterung oben 0rem beim Schweben
 - `.hover:pt-1.8` - Polsterung oben 0rem beim Schweben
 - `.hover:pt-1.7` - Polsterung oben 0rem beim Schweben
@@ -2618,7 +2618,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pt-1.3` - Polsterung oben 0rem beim Schweben
 - `.hover:pt-1.2` - Polsterung oben 0rem beim Schweben
 - `.hover:pt-1.1` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-1` - Polsterung Top 1rem im Schwebeflug
+- `.hover:pt-1` - Polsterung oben 1rem beim Hover
 - `.hover:pt-0.9` - Polsterung oben 0rem beim Schweben
 - `.hover:pt-0.8` - Polsterung oben 0rem beim Schweben
 - `.hover:pt-0.7` - Polsterung oben 0rem beim Schweben
@@ -2626,7 +2626,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pt-0.5` - Polsterung oben 0rem beim Schweben
 - `.hover:pt-0.4` - Polsterung oben 0rem beim Schweben
 - `.hover:pt-0.3` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-0.2` - Polsterung oben 0,2rem im Schwebeflug
+- `.hover:pt-0.2` - Polsterung oben 0.2rem beim Hover
 - `.hover:pt-0.1` - Polsterung oben 0,1rem beim Schweben
 - `.hover:pt-0` - Polsterung oben 0rem beim Schweben
 - `.last:pt-0` - Polsterung oben 0rem am letzten
@@ -2841,24 +2841,24 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ##### Width - Mobile (≤ 480px)
 
-- `.hover:mobile:w-100` - Breite 100 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-95` - Breite 95 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-90` - Breite 90 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-100` - Breite 100 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-95` - Breite 95 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-90` - Breite 90 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-85` - Breite 85 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-80` - Breite 80 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-75` - Breite 75 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-70` - Breite 70 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-65` - Breite 65 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-60` - Breite 60 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-55` - Breite 55 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-50` - Breite 50 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-45` - Breite 45 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-40` - Breite 40 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-35` - Breite 35 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-30` - Breite 30 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-25` - Breite 25 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-20` - Breite 20 % beim Hover auf Mobilgeräten
-- `.hover:mobile:w-15` - Breite 15 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-60` - Breite 60 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-55` - Breite 55 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-50` - Breite 50 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-45` - Breite 45 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-40` - Breite 40 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-35` - Breite 35 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-30` - Breite 30 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-25` - Breite 25 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-20` - Breite 20 % beim Hover auf Mobilgeräten
+- `.hover:mobile:w-15` - Breite 15 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-10` - Breite 10 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-5` - Breite 5 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-auto` - Breite automatisch % beim Hover auf Mobilgeräten
@@ -2886,20 +2886,20 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ##### Width - Tablet (480px - 768px)
 
-- `.hover:tablet:w-100` - Breite 100 % beim Schweben auf dem Tablet
+- `.hover:tablet:w-100` - Breite 100 % beim Schweben auf dem Tablet
 - `.hover:tablet:w-95` - Breite 95 % beim Bewegen des Mauszeigers auf dem Tablet
 - `.hover:tablet:w-90` - Breite 90 % beim Schweben auf dem Tablet
 - `.hover:tablet:w-85` - Breite 85 % beim Schweben auf dem Tablet
 - `.hover:tablet:w-80` - Breite 80 % beim Schweben auf dem Tablet
-- `.hover:tablet:w-75` - Breite 75 % beim Schweben auf dem Tablet
-- `.hover:tablet:w-70` - Breite 70 % beim Schweben auf dem Tablet
-- `.hover:tablet:w-65` - Breite 65 % beim Schweben auf dem Tablet
+- `.hover:tablet:w-75` - Breite 75 % beim Schweben auf dem Tablet
+- `.hover:tablet:w-70` - Breite 70 % beim Schweben auf dem Tablet
+- `.hover:tablet:w-65` - Breite 65 % beim Schweben auf dem Tablet
 - `.hover:tablet:w-60` - Breite 60 % beim Schweben auf dem Tablet
 - `.hover:tablet:w-55` - Breite 55 % beim Schweben auf dem Tablet
-- `.hover:tablet:w-50` - Breite 50 % beim Schweben auf dem Tablet
+- `.hover:tablet:w-50` - Breite 50 % beim Schweben auf dem Tablet
 - `.hover:tablet:w-45` - Breite 45 % beim Schweben auf dem Tablet
 - `.hover:tablet:w-40` - Breite 40 % beim Schweben auf dem Tablet
-- `.hover:tablet:w-35` - Breite 35 % beim Schweben auf dem Tablet
+- `.hover:tablet:w-35` - Breite 35 % beim Schweben auf dem Tablet
 - `.hover:tablet:w-30` - Breite 30 % beim Hovern auf dem Tablet
 - `.hover:tablet:w-25` - Breite 25 % beim Bewegen des Mauszeigers auf dem Tablet
 - `.hover:tablet:w-20` - Breite 20 % beim Hovern auf dem Tablet
@@ -3213,7 +3213,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Width vw
 
 - `.hover:w-vw-100` - Breite vw 100vw beim Schweben
-- `.hover:w-vw-75` - Breite vw 75vw im Schwebeflug
+- `.hover:w-vw-75` - Breite vw 75vw beim Hover
 - `.hover:w-vw-50` - Breite vw 50vw beim Schweben
 - `.hover:w-vw-25` - Breite vw 25vw beim Schweben
 - `.w-vw-100` - Breite vw 100vw
@@ -3245,14 +3245,14 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.h-5` - Höhe 5 %
 - `.h-auto` - Höhe automatisch %
 - `.hover:h-100` - Höhe 100 % beim Schweben
-- `.hover:h-95` - Höhe 95 % im Schwebeflug
-- `.hover:h-90` - Höhe 90 % im Schwebeflug
-- `.hover:h-85` - Höhe 85 % im Schwebeflug
-- `.hover:h-80` - Höhe 80 % im Schwebeflug
-- `.hover:h-75` - Höhe 75 % im Schwebeflug
-- `.hover:h-70` - Höhe 70 % im Schwebeflug
-- `.hover:h-65` - Höhe 65 % im Schwebeflug
-- `.hover:h-60` - Höhe 60 % im Schwebeflug
+- `.hover:h-95` - Höhe 95 % beim Hover
+- `.hover:h-90` - Höhe 90 % beim Hover
+- `.hover:h-85` - Höhe 85 % beim Hover
+- `.hover:h-80` - Höhe 80 % beim Hover
+- `.hover:h-75` - Höhe 75 % beim Hover
+- `.hover:h-70` - Höhe 70 % beim Hover
+- `.hover:h-65` - Höhe 65 % beim Hover
+- `.hover:h-60` - Höhe 60 % beim Hover
 - `.hover:h-55` - Höhe 55 % beim Schweben
 - `.hover:h-50` - Höhe 50 % beim Schweben
 - `.hover:h-45` - Höhe 45 % beim Schweben
@@ -3268,21 +3268,21 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ##### Height - Mobile (≤ 480px)
 
-- `.hover:mobile:h-100` - Höhe 100 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-100` - Höhe 100 % beim Schweben auf dem Mobilgerät
 - `.hover:mobile:h-95` - Höhe 95 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-90` - Höhe 90 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-90` - Höhe 90 % beim Schweben auf dem Mobilgerät
 - `.hover:mobile:h-85` - Höhe 85 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-80` - Höhe 80 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-75` - Höhe 75 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-70` - Höhe 70 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-65` - Höhe 65 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-60` - Höhe 60 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-55` - Höhe 55 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-50` - Höhe 50 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-45` - Höhe 45 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-40` - Höhe 40 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-35` - Höhe 35 % beim Schweben auf dem Mobilgerät
-- `.hover:mobile:h-30` - Höhe 30 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-80` - Höhe 80 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-75` - Höhe 75 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-70` - Höhe 70 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-65` - Höhe 65 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-60` - Höhe 60 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-55` - Höhe 55 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-50` - Höhe 50 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-45` - Höhe 45 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-40` - Höhe 40 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-35` - Höhe 35 % beim Schweben auf dem Mobilgerät
+- `.hover:mobile:h-30` - Höhe 30 % beim Schweben auf dem Mobilgerät
 - `.hover:mobile:h-25` - Höhe 25 % beim Schweben auf dem Mobilgerät
 - `.hover:mobile:h-20` - Höhe 20 % beim Schweben auf dem Mobilgerät
 - `.hover:mobile:h-15` - Höhe 15 % beim Schweben auf dem Mobilgerät
@@ -3291,21 +3291,21 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:mobile:h-auto` - Höhe automatisch % beim Bewegen des Mauszeigers auf dem Mobilgerät
 - `.mobile:h-100` - Höhe 100 % auf Mobilgeräten
 - `.mobile:h-95` - Höhe 95 % auf dem Handy
-- `.mobile:h-90` - Höhe 90 % auf Mobilgeräten
-- `.mobile:h-85` - Höhe 85 % auf Mobilgeräten
-- `.mobile:h-80` - Höhe 80 % auf Mobilgeräten
-- `.mobile:h-75` - Höhe 75 % auf Mobilgeräten
-- `.mobile:h-70` - Höhe 70 % auf Mobilgeräten
-- `.mobile:h-65` - Höhe 65 % auf Mobilgeräten
-- `.mobile:h-60` - Höhe 60 % auf Mobilgeräten
-- `.mobile:h-55` - Höhe 55 % auf Mobilgeräten
-- `.mobile:h-50` - Höhe 50 % auf Mobilgeräten
-- `.mobile:h-45` - Höhe 45 % auf Mobilgeräten
-- `.mobile:h-40` - Höhe 40 % auf Mobilgeräten
-- `.mobile:h-35` - Höhe 35 % auf Mobilgeräten
-- `.mobile:h-30` - Höhe 30 % auf Mobilgeräten
-- `.mobile:h-25` - Höhe 25 % auf Mobilgeräten
-- `.mobile:h-20` - Höhe 20 % auf Mobilgeräten
+- `.mobile:h-90` - Höhe 90 % auf Mobilgeräten
+- `.mobile:h-85` - Höhe 85 % auf Mobilgeräten
+- `.mobile:h-80` - Höhe 80 % auf Mobilgeräten
+- `.mobile:h-75` - Höhe 75 % auf Mobilgeräten
+- `.mobile:h-70` - Höhe 70 % auf Mobilgeräten
+- `.mobile:h-65` - Höhe 65 % auf Mobilgeräten
+- `.mobile:h-60` - Höhe 60 % auf Mobilgeräten
+- `.mobile:h-55` - Höhe 55 % auf Mobilgeräten
+- `.mobile:h-50` - Höhe 50 % auf Mobilgeräten
+- `.mobile:h-45` - Höhe 45 % auf Mobilgeräten
+- `.mobile:h-40` - Höhe 40 % auf Mobilgeräten
+- `.mobile:h-35` - Höhe 35 % auf Mobilgeräten
+- `.mobile:h-30` - Höhe 30 % auf Mobilgeräten
+- `.mobile:h-25` - Höhe 25 % auf Mobilgeräten
+- `.mobile:h-20` - Höhe 20 % auf Mobilgeräten
 - `.mobile:h-15` - Höhe 15 % auf Mobilgeräten
 - `.mobile:h-10` - Höhe 10 % auf Mobilgeräten
 - `.mobile:h-5` - Höhe 5 % auf Mobilgeräten
@@ -3313,26 +3313,26 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ##### Height - Tablet (480px - 768px)
 
-- `.hover:tablet:h-100` - Höhe 100 % beim Bewegen des Mauszeigers über das Tablet
-- `.hover:tablet:h-95` - Höhe 95 % beim Schweben auf dem Tablet
-- `.hover:tablet:h-90` - Höhe 90 % beim Schweben auf dem Tablet
-- `.hover:tablet:h-85` - Höhe 85 % beim Schweben über das Tablet
+- `.hover:tablet:h-100` - Höhe 100 % beim Bewegen des Mauszeigers über das Tablet
+- `.hover:tablet:h-95` - Höhe 95 % beim Schweben auf dem Tablet
+- `.hover:tablet:h-90` - Höhe 90 % beim Schweben auf dem Tablet
+- `.hover:tablet:h-85` - Höhe 85 % beim Schweben über das Tablet
 - `.hover:tablet:h-80` - Höhe 80 % beim Bewegen des Mauszeigers über das Tablet
-- `.hover:tablet:h-75` - Höhe 75 % beim Bewegen des Mauszeigers über das Tablet
+- `.hover:tablet:h-75` - Höhe 75 % beim Bewegen des Mauszeigers über das Tablet
 - `.hover:tablet:h-70` - Höhe 70 % beim Bewegen des Mauszeigers über das Tablet
 - `.hover:tablet:h-65` - Höhe 65 % beim Bewegen des Mauszeigers über das Tablet
 - `.hover:tablet:h-60` - Höhe 60 % beim Bewegen des Mauszeigers über das Tablet
-- `.hover:tablet:h-55` - Höhe 55 % beim Bewegen des Mauszeigers über das Tablet
+- `.hover:tablet:h-55` - Höhe 55 % beim Bewegen des Mauszeigers über das Tablet
 - `.hover:tablet:h-50` - Höhe 50 % beim Bewegen des Mauszeigers über das Tablet
-- `.hover:tablet:h-45` - Höhe 45 % beim Bewegen des Mauszeigers über das Tablet
+- `.hover:tablet:h-45` - Höhe 45 % beim Bewegen des Mauszeigers über das Tablet
 - `.hover:tablet:h-40` - Höhe 40 % beim Bewegen des Mauszeigers über das Tablet
-- `.hover:tablet:h-35` - Höhe 35 % beim Bewegen des Mauszeigers über das Tablet
+- `.hover:tablet:h-35` - Höhe 35 % beim Bewegen des Mauszeigers über das Tablet
 - `.hover:tablet:h-30` - Höhe 30 % beim Bewegen des Mauszeigers über das Tablet
-- `.hover:tablet:h-25` - Höhe 25 % beim Bewegen des Mauszeigers über das Tablet
+- `.hover:tablet:h-25` - Höhe 25 % beim Bewegen des Mauszeigers über das Tablet
 - `.hover:tablet:h-20` - Höhe 20 % beim Bewegen des Mauszeigers über das Tablet
-- `.hover:tablet:h-15` - Höhe 15 % beim Bewegen des Mauszeigers über das Tablet
+- `.hover:tablet:h-15` - Höhe 15 % beim Bewegen des Mauszeigers über das Tablet
 - `.hover:tablet:h-10` - Höhe 10 % beim Bewegen des Mauszeigers über das Tablet
-- `.hover:tablet:h-5` - Höhe 5 % beim Bewegen des Mauszeigers über das Tablet
+- `.hover:tablet:h-5` - Höhe 5 % beim Bewegen des Mauszeigers über das Tablet
 - `.hover:tablet:h-auto` - Höhe automatisch % beim Bewegen des Mauszeigers auf dem Tablet
 - `.tablet:h-100` - Höhe 100 % auf dem Tablet
 - `.tablet:h-95` - Höhe 95 % auf dem Tablet
@@ -3632,7 +3632,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.h-vh-50` - Höhe vh 50vh
 - `.h-vh-25` - Höhe vh 25vh
 - `.hover:h-vh-100` - Höhe vh 100vh beim Schweben
-- `.hover:h-vh-75` - Höhe vh 75vh im Schwebeflug
+- `.hover:h-vh-75` - Höhe vh 75vh beim Hover
 - `.hover:h-vh-50` - Höhe vh 50vh beim Schweben
 - `.hover:h-vh-25` - Höhe vh 25vh beim Schweben
 
@@ -3642,10 +3642,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.h-vw-75` - Höhe vw 75vw
 - `.h-vw-50` - Höhe vw 50vw
 - `.h-vw-25` - Höhe vw 25vw
-- `.hover:h-vw-100` - Höhe vw 100vw im Schwebeflug
-- `.hover:h-vw-75` - Höhe vw 75vw im Schwebeflug
-- `.hover:h-vw-50` - Höhe vw 50vw im Schwebeflug
-- `.hover:h-vw-25` - Höhe vw 25vw im Schwebeflug
+- `.hover:h-vw-100` - Höhe vw 100vw beim Hover
+- `.hover:h-vw-75` - Höhe vw 75vw beim Hover
+- `.hover:h-vw-50` - Höhe vw 50vw beim Hover
+- `.hover:h-vw-25` - Höhe vw 25vw beim Hover
 
 ## Positioning
 
@@ -3656,13 +3656,13 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Relative
 
-- `.hover:relative` - Relativ im Schwebeflug
+- `.hover:relative` - Relativ beim Hover
 - `.relative` - Relativ
 
 ### Absolute
 
 - `.absolute` - Absolut
-- `.hover:absolute` - Absolut im Schwebeflug
+- `.hover:absolute` - Absolut beim Hover
 
 ### Fixed
 
@@ -3676,483 +3676,483 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Top
 
-- `.hover:top-100` - Top 100 % im Schwebeflug
-- `.hover:top-75` - Top 75 % im Schwebeflug
-- `.hover:top-50` - Top 50 % im Schwebeflug
-- `.hover:top-25` - Top 25 % im Schwebeflug
-- `.hover:top-5` - Top 5rem im Schwebeflug
-- `.hover:top-4.5` - Top 0rem beim Schweben
-- `.hover:top-4` - Top 4rem im Schwebeflug
-- `.hover:top-3.5` - Top 0rem beim Schweben
-- `.hover:top-3` - Top 3rem im Schwebeflug
-- `.hover:top-2.5` - Top 0rem beim Schweben
-- `.hover:top-2` - Top 2rem im Schwebeflug
-- `.hover:top-1.9` - Top 0rem beim Schweben
-- `.hover:top-1.8` - Top 0rem beim Schweben
-- `.hover:top-1.7` - Top 0rem beim Schweben
-- `.hover:top-1.6` - Top 0rem beim Schweben
-- `.hover:top-1.5` - Top 0rem beim Schweben
-- `.hover:top-1.4` - Top 0rem beim Schweben
-- `.hover:top-1.3` - Top 0rem beim Schweben
-- `.hover:top-1.2` - Top 0rem beim Schweben
-- `.hover:top-1.1` - Top 0rem beim Schweben
-- `.hover:top-1` - Top 1rem im Schwebeflug
-- `.hover:top-0.9` - Top 0rem beim Schweben
-- `.hover:top-0.8` - Top 0rem beim Schweben
-- `.hover:top-0.7` - Top 0rem beim Schweben
-- `.hover:top-0.6` - Top 0rem beim Schweben
-- `.hover:top-0.5` - Top 0rem beim Schweben
-- `.hover:top-0.4` - Top 0rem beim Schweben
-- `.hover:top-0.3` - Top 0rem beim Schweben
-- `.hover:top-0.2` - Top 0,2rem beim Schweben
-- `.hover:top-0.1` - Top 0,1rem beim Schweben
-- `.hover:top-0` - Top 0rem beim Schweben
-- `.top-100` - Top 100 %
-- `.top-75` - Top 75 %
-- `.top-50` - Top 50 %
-- `.top-25` - Top 25 %
-- `.top-5` - Top 5rem
-- `.top-4.5` - Top 0rem
-- `.top-4` - Top 4rem
-- `.top-3.5` - Top 0rem
-- `.top-3` - Top 3rem
-- `.top-2.5` - Top 0rem
-- `.top-2` - Top 2rem
-- `.top-1.9` - Top 0rem
-- `.top-1.8` - Top 0rem
-- `.top-1.7` - Top 0rem
-- `.top-1.6` - Top 0rem
-- `.top-1.5` - Top 0rem
-- `.top-1.4` - Top 0rem
-- `.top-1.3` - Top 0rem
-- `.top-1.2` - Top 0rem
-- `.top-1.1` - Top 0rem
-- `.top-1` - Top 1rem
-- `.top-0.9` - Top 0rem
-- `.top-0.8` - Top 0rem
-- `.top-0.7` - Top 0rem
-- `.top-0.6` - Top 0rem
-- `.top-0.5` - Top 0rem
-- `.top-0.4` - Top 0rem
-- `.top-0.3` - Top 0rem
-- `.top-0.2` - Oben 0,2rem
-- `.top-0.1` - Oben 0,1rem
-- `.top-0` - Top 0rem
+- `.hover:top-100` - Abstand oben 100 % beim Hover
+- `.hover:top-75` - Abstand oben 75 % beim Hover
+- `.hover:top-50` - Abstand oben 50 % beim Hover
+- `.hover:top-25` - Abstand oben 25 % beim Hover
+- `.hover:top-5` - Abstand oben 5rem beim Hover
+- `.hover:top-4.5` - Abstand oben 0rem beim Hover
+- `.hover:top-4` - Abstand oben 4rem beim Hover
+- `.hover:top-3.5` - Abstand oben 0rem beim Hover
+- `.hover:top-3` - Abstand oben 3rem beim Hover
+- `.hover:top-2.5` - Abstand oben 0rem beim Hover
+- `.hover:top-2` - Abstand oben 2rem beim Hover
+- `.hover:top-1.9` - Abstand oben 0rem beim Hover
+- `.hover:top-1.8` - Abstand oben 0rem beim Hover
+- `.hover:top-1.7` - Abstand oben 0rem beim Hover
+- `.hover:top-1.6` - Abstand oben 0rem beim Hover
+- `.hover:top-1.5` - Abstand oben 0rem beim Hover
+- `.hover:top-1.4` - Abstand oben 0rem beim Hover
+- `.hover:top-1.3` - Abstand oben 0rem beim Hover
+- `.hover:top-1.2` - Abstand oben 0rem beim Hover
+- `.hover:top-1.1` - Abstand oben 0rem beim Hover
+- `.hover:top-1` - Abstand oben 1rem beim Hover
+- `.hover:top-0.9` - Abstand oben 0rem beim Hover
+- `.hover:top-0.8` - Abstand oben 0rem beim Hover
+- `.hover:top-0.7` - Abstand oben 0rem beim Hover
+- `.hover:top-0.6` - Abstand oben 0rem beim Hover
+- `.hover:top-0.5` - Abstand oben 0rem beim Hover
+- `.hover:top-0.4` - Abstand oben 0rem beim Hover
+- `.hover:top-0.3` - Abstand oben 0rem beim Hover
+- `.hover:top-0.2` - Abstand oben 0.2rem beim Hover
+- `.hover:top-0.1` - Abstand oben 0.1rem beim Hover
+- `.hover:top-0` - Abstand oben 0rem beim Hover
+- `.top-100` - Abstand oben 100 %
+- `.top-75` - Abstand oben 75 %
+- `.top-50` - Abstand oben 50 %
+- `.top-25` - Abstand oben 25 %
+- `.top-5` - Abstand oben 5rem
+- `.top-4.5` - Abstand oben 0rem
+- `.top-4` - Abstand oben 4rem
+- `.top-3.5` - Abstand oben 0rem
+- `.top-3` - Abstand oben 3rem
+- `.top-2.5` - Abstand oben 0rem
+- `.top-2` - Abstand oben 2rem
+- `.top-1.9` - Abstand oben 0rem
+- `.top-1.8` - Abstand oben 0rem
+- `.top-1.7` - Abstand oben 0rem
+- `.top-1.6` - Abstand oben 0rem
+- `.top-1.5` - Abstand oben 0rem
+- `.top-1.4` - Abstand oben 0rem
+- `.top-1.3` - Abstand oben 0rem
+- `.top-1.2` - Abstand oben 0rem
+- `.top-1.1` - Abstand oben 0rem
+- `.top-1` - Abstand oben 1rem
+- `.top-0.9` - Abstand oben 0rem
+- `.top-0.8` - Abstand oben 0rem
+- `.top-0.7` - Abstand oben 0rem
+- `.top-0.6` - Abstand oben 0rem
+- `.top-0.5` - Abstand oben 0rem
+- `.top-0.4` - Abstand oben 0rem
+- `.top-0.3` - Abstand oben 0rem
+- `.top-0.2` - Abstand oben 0.2rem
+- `.top-0.1` - Abstand oben 0.1rem
+- `.top-0` - Abstand oben 0rem
 
 ##### Negative Top
 
-- `.-top-5` - Negativ Top 5rem
-- `.-top-4.5` - Negativ Top 0rem
-- `.-top-4` - Negativ Top 4rem
-- `.-top-3.5` - Negativ Top 0rem
-- `.-top-3` - Negativ Top 3rem
-- `.-top-2.5` - Negativ Top 0rem
-- `.-top-2` - Negativ Top 2rem
-- `.-top-1.9` - Negativ Top 0rem
-- `.-top-1.8` - Negativ Top 0rem
-- `.-top-1.7` - Negativ Top 0rem
-- `.-top-1.6` - Negativ Top 0rem
-- `.-top-1.5` - Negativ Top 0rem
-- `.-top-1.4` - Negativ Top 0rem
-- `.-top-1.3` - Negativ Top 0rem
-- `.-top-1.2` - Negativ Top 0rem
-- `.-top-1.1` - Negativ Top 0rem
-- `.-top-1` - Negativ Top 1rem
-- `.-top-0.9` - Negativ Top 0rem
-- `.-top-0.8` - Negativ Top 0rem
-- `.-top-0.7` - Negativ Top 0rem
-- `.-top-0.6` - Negativ Top 0rem
-- `.-top-0.5` - Negativ Top 0rem
-- `.-top-0.4` - Negativ Top 0rem
-- `.-top-0.3` - Negativ oben 0,3rem
-- `.-top-0.2` - Negativ Oben 0,2rem
-- `.-top-0.1` - Negativ Oben 0,1rem
-- `.hover:-top-5` - Negative Top 5rem beim Schweben
-- `.hover:-top-4.5` - Negatives Top 0rem beim Hover
-- `.hover:-top-4` - Negative Top 4rem beim Hover
-- `.hover:-top-3.5` - Negatives Top 0rem beim Hover
-- `.hover:-top-3` - Negative Top 3rem beim Schweben
-- `.hover:-top-2.5` - Negatives Top 0rem beim Hover
-- `.hover:-top-2` - Negativ Top 2rem beim Hover
-- `.hover:-top-1.9` - Negatives Top 0rem beim Hover
-- `.hover:-top-1.8` - Negatives Top 0rem beim Hover
-- `.hover:-top-1.7` - Negatives Top 0rem beim Hover
-- `.hover:-top-1.6` - Negatives Top 0rem beim Hover
-- `.hover:-top-1.5` - Negatives Top 0rem beim Hover
-- `.hover:-top-1.4` - Negatives Top 0rem beim Hover
-- `.hover:-top-1.3` - Negatives Top 0rem beim Hover
-- `.hover:-top-1.2` - Negatives Top 0rem beim Hover
-- `.hover:-top-1.1` - Negatives Top 0rem beim Hover
-- `.hover:-top-1` - Negativ Top 1rem beim Schweben
-- `.hover:-top-0.9` - Negatives Top 0rem beim Hover
-- `.hover:-top-0.8` - Negatives Top 0rem beim Hover
-- `.hover:-top-0.7` - Negatives Top 0rem beim Hover
-- `.hover:-top-0.6` - Negatives Top 0rem beim Hover
-- `.hover:-top-0.5` - Negatives Top 0rem beim Hover
-- `.hover:-top-0.4` - Negatives Top 0rem beim Hover
-- `.hover:-top-0.3` - Negativ Top 0,3rem beim Schweben
-- `.hover:-top-0.2` - Negativ Top 0,2rem beim Schweben
-- `.hover:-top-0.1` - Negativ Top 0,1rem beim Schweben
+- `.-top-5` - Negativer Abstand oben 5rem
+- `.-top-4.5` - Negativer Abstand oben 0rem
+- `.-top-4` - Negativer Abstand oben 4rem
+- `.-top-3.5` - Negativer Abstand oben 0rem
+- `.-top-3` - Negativer Abstand oben 3rem
+- `.-top-2.5` - Negativer Abstand oben 0rem
+- `.-top-2` - Negativer Abstand oben 2rem
+- `.-top-1.9` - Negativer Abstand oben 0rem
+- `.-top-1.8` - Negativer Abstand oben 0rem
+- `.-top-1.7` - Negativer Abstand oben 0rem
+- `.-top-1.6` - Negativer Abstand oben 0rem
+- `.-top-1.5` - Negativer Abstand oben 0rem
+- `.-top-1.4` - Negativer Abstand oben 0rem
+- `.-top-1.3` - Negativer Abstand oben 0rem
+- `.-top-1.2` - Negativer Abstand oben 0rem
+- `.-top-1.1` - Negativer Abstand oben 0rem
+- `.-top-1` - Negativer Abstand oben 1rem
+- `.-top-0.9` - Negativer Abstand oben 0rem
+- `.-top-0.8` - Negativer Abstand oben 0rem
+- `.-top-0.7` - Negativer Abstand oben 0rem
+- `.-top-0.6` - Negativer Abstand oben 0rem
+- `.-top-0.5` - Negativer Abstand oben 0rem
+- `.-top-0.4` - Negativer Abstand oben 0rem
+- `.-top-0.3` - Negativer Abstand oben 0.3rem
+- `.-top-0.2` - Negativer Abstand oben 0.2rem
+- `.-top-0.1` - Negativer Abstand oben 0.1rem
+- `.hover:-top-5` - Negativer Abstand oben 5rem beim Hover
+- `.hover:-top-4.5` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-4` - Negativer Abstand oben 4rem beim Hover
+- `.hover:-top-3.5` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-3` - Negativer Abstand oben 3rem beim Hover
+- `.hover:-top-2.5` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-2` - Negativer Abstand oben 2rem beim Hover
+- `.hover:-top-1.9` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1.8` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1.7` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1.6` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1.5` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1.4` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1.3` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1.2` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1.1` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1` - Negativer Abstand oben 1rem beim Hover
+- `.hover:-top-0.9` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-0.8` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-0.7` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-0.6` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-0.5` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-0.4` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-0.3` - Negativer Abstand oben 0.3rem beim Hover
+- `.hover:-top-0.2` - Negativer Abstand oben 0.2rem beim Hover
+- `.hover:-top-0.1` - Negativer Abstand oben 0.1rem beim Hover
 
 ### Right
 
-- `.hover:right-100` - Rechts 100 % im Schwebeflug
-- `.hover:right-75` - Rechts 75 % im Schwebeflug
-- `.hover:right-50` - Rechts 50 % im Schwebeflug
-- `.hover:right-25` - Rechts 25 % im Schwebeflug
-- `.hover:right-5` - Rechts 5rem im Schwebeflug
-- `.hover:right-4.5` - Rechts 0rem im Schwebeflug
-- `.hover:right-4` - Rechts 4rem im Schwebeflug
-- `.hover:right-3.5` - Rechts 0rem im Schwebeflug
-- `.hover:right-3` - Rechts 3rem im Schwebeflug
-- `.hover:right-2.5` - Rechts 0rem im Schwebeflug
-- `.hover:right-2` - Rechts 2rem im Schwebeflug
-- `.hover:right-1.9` - Rechts 0rem im Schwebeflug
-- `.hover:right-1.8` - Rechts 0rem im Schwebeflug
-- `.hover:right-1.7` - Rechts 0rem im Schwebeflug
-- `.hover:right-1.6` - Rechts 0rem im Schwebeflug
-- `.hover:right-1.5` - Rechts 0rem im Schwebeflug
-- `.hover:right-1.4` - Rechts 0rem im Schwebeflug
-- `.hover:right-1.3` - Rechts 0rem im Schwebeflug
-- `.hover:right-1.2` - Rechts 0rem im Schwebeflug
-- `.hover:right-1.1` - Rechts 0rem im Schwebeflug
-- `.hover:right-1` - Rechts 1rem im Schwebeflug
-- `.hover:right-0.9` - Rechts 0rem im Schwebeflug
-- `.hover:right-0.8` - Rechts 0rem im Schwebeflug
-- `.hover:right-0.7` - Rechts 0rem im Schwebeflug
-- `.hover:right-0.6` - Rechts 0rem im Schwebeflug
-- `.hover:right-0.5` - Rechts 0rem im Schwebeflug
-- `.hover:right-0.4` - Rechts 0rem im Schwebeflug
-- `.hover:right-0.3` - Rechts 0rem im Schwebeflug
-- `.hover:right-0.2` - Rechts 0,2rem beim Schweben
-- `.hover:right-0.1` - Rechts 0,1rem beim Schweben
-- `.hover:right-0` - Rechts 0rem im Schwebeflug
-- `.right-100` - Richtig 100 %
-- `.right-75` - Rechts 75 %
-- `.right-50` - Richtig 50 %
-- `.right-25` - Rechts 25 %
-- `.right-5` - Rechts 5rem
-- `.right-4.5` - Richtig 0rem
-- `.right-4` - Rechts 4rem
-- `.right-3.5` - Richtig 0rem
-- `.right-3` - Rechts 3rem
-- `.right-2.5` - Richtig 0rem
-- `.right-2` - Rechts 2rem
-- `.right-1.9` - Richtig 0rem
-- `.right-1.8` - Richtig 0rem
-- `.right-1.7` - Richtig 0rem
-- `.right-1.6` - Richtig 0rem
-- `.right-1.5` - Richtig 0rem
-- `.right-1.4` - Richtig 0rem
-- `.right-1.3` - Richtig 0rem
-- `.right-1.2` - Richtig 0rem
-- `.right-1.1` - Richtig 0rem
-- `.right-1` - Rechts 1rem
-- `.right-0.9` - Richtig 0rem
-- `.right-0.8` - Richtig 0rem
-- `.right-0.7` - Richtig 0rem
-- `.right-0.6` - Richtig 0rem
-- `.right-0.5` - Richtig 0rem
-- `.right-0.4` - Richtig 0rem
-- `.right-0.3` - Richtig 0rem
-- `.right-0.2` - Rechts 0,2rem
-- `.right-0.1` - Rechts 0,1rem
-- `.right-0` - Richtig 0rem
+- `.hover:right-100` - Abstand rechts 100 % beim Hover
+- `.hover:right-75` - Abstand rechts 75 % beim Hover
+- `.hover:right-50` - Abstand rechts 50 % beim Hover
+- `.hover:right-25` - Abstand rechts 25 % beim Hover
+- `.hover:right-5` - Abstand rechts 5rem beim Hover
+- `.hover:right-4.5` - Abstand rechts 0rem beim Hover
+- `.hover:right-4` - Abstand rechts 4rem beim Hover
+- `.hover:right-3.5` - Abstand rechts 0rem beim Hover
+- `.hover:right-3` - Abstand rechts 3rem beim Hover
+- `.hover:right-2.5` - Abstand rechts 0rem beim Hover
+- `.hover:right-2` - Abstand rechts 2rem beim Hover
+- `.hover:right-1.9` - Abstand rechts 0rem beim Hover
+- `.hover:right-1.8` - Abstand rechts 0rem beim Hover
+- `.hover:right-1.7` - Abstand rechts 0rem beim Hover
+- `.hover:right-1.6` - Abstand rechts 0rem beim Hover
+- `.hover:right-1.5` - Abstand rechts 0rem beim Hover
+- `.hover:right-1.4` - Abstand rechts 0rem beim Hover
+- `.hover:right-1.3` - Abstand rechts 0rem beim Hover
+- `.hover:right-1.2` - Abstand rechts 0rem beim Hover
+- `.hover:right-1.1` - Abstand rechts 0rem beim Hover
+- `.hover:right-1` - Abstand rechts 1rem beim Hover
+- `.hover:right-0.9` - Abstand rechts 0rem beim Hover
+- `.hover:right-0.8` - Abstand rechts 0rem beim Hover
+- `.hover:right-0.7` - Abstand rechts 0rem beim Hover
+- `.hover:right-0.6` - Abstand rechts 0rem beim Hover
+- `.hover:right-0.5` - Abstand rechts 0rem beim Hover
+- `.hover:right-0.4` - Abstand rechts 0rem beim Hover
+- `.hover:right-0.3` - Abstand rechts 0rem beim Hover
+- `.hover:right-0.2` - Abstand rechts 0.2rem beim Hover
+- `.hover:right-0.1` - Abstand rechts 0.1rem beim Hover
+- `.hover:right-0` - Abstand rechts 0rem beim Hover
+- `.right-100` - Abstand rechts 100 %
+- `.right-75` - Abstand rechts 75 %
+- `.right-50` - Abstand rechts 50 %
+- `.right-25` - Abstand rechts 25 %
+- `.right-5` - Abstand rechts 5rem
+- `.right-4.5` - Abstand rechts 0rem
+- `.right-4` - Abstand rechts 4rem
+- `.right-3.5` - Abstand rechts 0rem
+- `.right-3` - Abstand rechts 3rem
+- `.right-2.5` - Abstand rechts 0rem
+- `.right-2` - Abstand rechts 2rem
+- `.right-1.9` - Abstand rechts 0rem
+- `.right-1.8` - Abstand rechts 0rem
+- `.right-1.7` - Abstand rechts 0rem
+- `.right-1.6` - Abstand rechts 0rem
+- `.right-1.5` - Abstand rechts 0rem
+- `.right-1.4` - Abstand rechts 0rem
+- `.right-1.3` - Abstand rechts 0rem
+- `.right-1.2` - Abstand rechts 0rem
+- `.right-1.1` - Abstand rechts 0rem
+- `.right-1` - Abstand rechts 1rem
+- `.right-0.9` - Abstand rechts 0rem
+- `.right-0.8` - Abstand rechts 0rem
+- `.right-0.7` - Abstand rechts 0rem
+- `.right-0.6` - Abstand rechts 0rem
+- `.right-0.5` - Abstand rechts 0rem
+- `.right-0.4` - Abstand rechts 0rem
+- `.right-0.3` - Abstand rechts 0rem
+- `.right-0.2` - Abstand rechts 0.2rem
+- `.right-0.1` - Abstand rechts 0.1rem
+- `.right-0` - Abstand rechts 0rem
 
 ##### Negative Right
 
-- `.-right-5` - Negativ rechts 5rem
-- `.-right-4.5` - Negativ Rechts 0rem
-- `.-right-4` - Negativ rechts 4rem
-- `.-right-3.5` - Negativ Rechts 0rem
-- `.-right-3` - Negativ rechts 3rem
-- `.-right-2.5` - Negativ Rechts 0rem
-- `.-right-2` - Negativ rechts 2rem
-- `.-right-1.9` - Negativ Rechts 0rem
-- `.-right-1.8` - Negativ Rechts 0rem
-- `.-right-1.7` - Negativ Rechts 0rem
-- `.-right-1.6` - Negativ Rechts 0rem
-- `.-right-1.5` - Negativ Rechts 0rem
-- `.-right-1.4` - Negativ Rechts 0rem
-- `.-right-1.3` - Negativ Rechts 0rem
-- `.-right-1.2` - Negativ Rechts 0rem
-- `.-right-1.1` - Negativ Rechts 0rem
-- `.-right-1` - Negativ rechts 1rem
-- `.-right-0.9` - Negativ Rechts 0rem
-- `.-right-0.8` - Negativ Rechts 0rem
-- `.-right-0.7` - Negativ Rechts 0rem
-- `.-right-0.6` - Negativ Rechts 0rem
-- `.-right-0.5` - Negativ Rechts 0rem
-- `.-right-0.4` - Negativ Rechts 0rem
-- `.-right-0.3` - Negativ rechts 0,3rem
-- `.-right-0.2` - Negativ rechts 0,2rem
-- `.-right-0.1` - Negativ rechts 0,1rem
-- `.hover:-right-5` - Negativ rechts 5rem beim Schweben
-- `.hover:-right-4.5` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-4` - Negativ rechts 4rem beim Schweben
-- `.hover:-right-3.5` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-3` - Negativ rechts 3rem beim Schweben
-- `.hover:-right-2.5` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-2` - Negativ rechts 2rem beim Schweben
-- `.hover:-right-1.9` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-1.8` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-1.7` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-1.6` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-1.5` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-1.4` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-1.3` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-1.2` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-1.1` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-1` - Negativ rechts 1rem beim Schweben
-- `.hover:-right-0.9` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-0.8` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-0.7` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-0.6` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-0.5` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-0.4` - Negativ rechts 0rem beim Schweben
-- `.hover:-right-0.3` - Negativ rechts 0,3rem beim Schweben
-- `.hover:-right-0.2` - Negativ rechts 0,2rem beim Schweben
-- `.hover:-right-0.1` - Negativ rechts 0,1rem beim Schweben
+- `.-right-5` - Negativer Abstand rechts 5rem
+- `.-right-4.5` - Negativer Abstand rechts 0rem
+- `.-right-4` - Negativer Abstand rechts 4rem
+- `.-right-3.5` - Negativer Abstand rechts 0rem
+- `.-right-3` - Negativer Abstand rechts 3rem
+- `.-right-2.5` - Negativer Abstand rechts 0rem
+- `.-right-2` - Negativer Abstand rechts 2rem
+- `.-right-1.9` - Negativer Abstand rechts 0rem
+- `.-right-1.8` - Negativer Abstand rechts 0rem
+- `.-right-1.7` - Negativer Abstand rechts 0rem
+- `.-right-1.6` - Negativer Abstand rechts 0rem
+- `.-right-1.5` - Negativer Abstand rechts 0rem
+- `.-right-1.4` - Negativer Abstand rechts 0rem
+- `.-right-1.3` - Negativer Abstand rechts 0rem
+- `.-right-1.2` - Negativer Abstand rechts 0rem
+- `.-right-1.1` - Negativer Abstand rechts 0rem
+- `.-right-1` - Negativer Abstand rechts 1rem
+- `.-right-0.9` - Negativer Abstand rechts 0rem
+- `.-right-0.8` - Negativer Abstand rechts 0rem
+- `.-right-0.7` - Negativer Abstand rechts 0rem
+- `.-right-0.6` - Negativer Abstand rechts 0rem
+- `.-right-0.5` - Negativer Abstand rechts 0rem
+- `.-right-0.4` - Negativer Abstand rechts 0rem
+- `.-right-0.3` - Negativer Abstand rechts 0.3rem
+- `.-right-0.2` - Negativer Abstand rechts 0.2rem
+- `.-right-0.1` - Negativer Abstand rechts 0.1rem
+- `.hover:-right-5` - Negativer Abstand rechts 5rem beim Hover
+- `.hover:-right-4.5` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-4` - Negativer Abstand rechts 4rem beim Hover
+- `.hover:-right-3.5` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-3` - Negativer Abstand rechts 3rem beim Hover
+- `.hover:-right-2.5` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-2` - Negativer Abstand rechts 2rem beim Hover
+- `.hover:-right-1.9` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1.8` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1.7` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1.6` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1.5` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1.4` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1.3` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1.2` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1.1` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1` - Negativer Abstand rechts 1rem beim Hover
+- `.hover:-right-0.9` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-0.8` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-0.7` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-0.6` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-0.5` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-0.4` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-0.3` - Negativer Abstand rechts 0.3rem beim Hover
+- `.hover:-right-0.2` - Negativer Abstand rechts 0.2rem beim Hover
+- `.hover:-right-0.1` - Negativer Abstand rechts 0.1rem beim Hover
 
 ### Bottom
 
-- `.bottom-100` - Unten 100 %
-- `.bottom-75` - Unten 75 %
-- `.bottom-50` - Unten 50 %
-- `.bottom-25` - Unten 25 %
-- `.bottom-5` - Unten 5rem
-- `.bottom-4.5` - Unten 0rem
-- `.bottom-4` - Unten 4rem
-- `.bottom-3.5` - Unten 0rem
-- `.bottom-3` - Unten 3rem
-- `.bottom-2.5` - Unten 0rem
-- `.bottom-2` - Unten 2rem
-- `.bottom-1.9` - Unten 0rem
-- `.bottom-1.8` - Unten 0rem
-- `.bottom-1.7` - Unten 0rem
-- `.bottom-1.6` - Unten 0rem
-- `.bottom-1.5` - Unten 0rem
-- `.bottom-1.4` - Unten 0rem
-- `.bottom-1.3` - Unten 0rem
-- `.bottom-1.2` - Unten 0rem
-- `.bottom-1.1` - Unten 0rem
-- `.bottom-1` - Unten 1rem
-- `.bottom-0.9` - Unten 0rem
-- `.bottom-0.8` - Unten 0rem
-- `.bottom-0.7` - Unten 0rem
-- `.bottom-0.6` - Unten 0rem
-- `.bottom-0.5` - Unten 0rem
-- `.bottom-0.4` - Unten 0rem
-- `.bottom-0.3` - Unten 0rem
-- `.bottom-0.2` - Unten 0,2rem
-- `.bottom-0.1` - Unten 0,1rem
-- `.bottom-0` - Unten 0rem
-- `.hover:bottom-100` - Untere 100 % im Schwebeflug
-- `.hover:bottom-75` - Unten 75 % im Schwebeflug
-- `.hover:bottom-50` - Unten 50 % im Schwebeflug
-- `.hover:bottom-25` - Unten 25 % im Schwebeflug
-- `.hover:bottom-5` - Unten 5rem im Schwebeflug
-- `.hover:bottom-4.5` - Unten 0rem beim Schweben
-- `.hover:bottom-4` - Unten 4rem im Schwebeflug
-- `.hover:bottom-3.5` - Unten 0rem beim Schweben
-- `.hover:bottom-3` - Unten 3rem im Schwebeflug
-- `.hover:bottom-2.5` - Unten 0rem beim Schweben
-- `.hover:bottom-2` - Unten 2rem im Schwebeflug
-- `.hover:bottom-1.9` - Unten 0rem beim Schweben
-- `.hover:bottom-1.8` - Unten 0rem beim Schweben
-- `.hover:bottom-1.7` - Unten 0rem beim Schweben
-- `.hover:bottom-1.6` - Unten 0rem beim Schweben
-- `.hover:bottom-1.5` - Unten 0rem beim Schweben
-- `.hover:bottom-1.4` - Unten 0rem beim Schweben
-- `.hover:bottom-1.3` - Unten 0rem beim Schweben
-- `.hover:bottom-1.2` - Unten 0rem beim Schweben
-- `.hover:bottom-1.1` - Unten 0rem beim Schweben
-- `.hover:bottom-1` - Unten 1rem im Schwebeflug
-- `.hover:bottom-0.9` - Unten 0rem beim Schweben
-- `.hover:bottom-0.8` - Unten 0rem beim Schweben
-- `.hover:bottom-0.7` - Unten 0rem beim Schweben
-- `.hover:bottom-0.6` - Unten 0rem beim Schweben
-- `.hover:bottom-0.5` - Unten 0rem beim Schweben
-- `.hover:bottom-0.4` - Unten 0rem beim Schweben
-- `.hover:bottom-0.3` - Unten 0rem beim Schweben
-- `.hover:bottom-0.2` - Unten 0,2rem beim Schweben
-- `.hover:bottom-0.1` - Unten 0,1rem beim Schweben
-- `.hover:bottom-0` - Unten 0rem beim Schweben
+- `.bottom-100` - Abstand unten 100 %
+- `.bottom-75` - Abstand unten 75 %
+- `.bottom-50` - Abstand unten 50 %
+- `.bottom-25` - Abstand unten 25 %
+- `.bottom-5` - Abstand unten 5rem
+- `.bottom-4.5` - Abstand unten 0rem
+- `.bottom-4` - Abstand unten 4rem
+- `.bottom-3.5` - Abstand unten 0rem
+- `.bottom-3` - Abstand unten 3rem
+- `.bottom-2.5` - Abstand unten 0rem
+- `.bottom-2` - Abstand unten 2rem
+- `.bottom-1.9` - Abstand unten 0rem
+- `.bottom-1.8` - Abstand unten 0rem
+- `.bottom-1.7` - Abstand unten 0rem
+- `.bottom-1.6` - Abstand unten 0rem
+- `.bottom-1.5` - Abstand unten 0rem
+- `.bottom-1.4` - Abstand unten 0rem
+- `.bottom-1.3` - Abstand unten 0rem
+- `.bottom-1.2` - Abstand unten 0rem
+- `.bottom-1.1` - Abstand unten 0rem
+- `.bottom-1` - Abstand unten 1rem
+- `.bottom-0.9` - Abstand unten 0rem
+- `.bottom-0.8` - Abstand unten 0rem
+- `.bottom-0.7` - Abstand unten 0rem
+- `.bottom-0.6` - Abstand unten 0rem
+- `.bottom-0.5` - Abstand unten 0rem
+- `.bottom-0.4` - Abstand unten 0rem
+- `.bottom-0.3` - Abstand unten 0rem
+- `.bottom-0.2` - Abstand unten 0.2rem
+- `.bottom-0.1` - Abstand unten 0.1rem
+- `.bottom-0` - Abstand unten 0rem
+- `.hover:bottom-100` - Abstand unten 100 % beim Hover
+- `.hover:bottom-75` - Abstand unten 75 % beim Hover
+- `.hover:bottom-50` - Abstand unten 50 % beim Hover
+- `.hover:bottom-25` - Abstand unten 25 % beim Hover
+- `.hover:bottom-5` - Abstand unten 5rem beim Hover
+- `.hover:bottom-4.5` - Abstand unten 0rem beim Hover
+- `.hover:bottom-4` - Abstand unten 4rem beim Hover
+- `.hover:bottom-3.5` - Abstand unten 0rem beim Hover
+- `.hover:bottom-3` - Abstand unten 3rem beim Hover
+- `.hover:bottom-2.5` - Abstand unten 0rem beim Hover
+- `.hover:bottom-2` - Abstand unten 2rem beim Hover
+- `.hover:bottom-1.9` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1.8` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1.7` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1.6` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1.5` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1.4` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1.3` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1.2` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1.1` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1` - Abstand unten 1rem beim Hover
+- `.hover:bottom-0.9` - Abstand unten 0rem beim Hover
+- `.hover:bottom-0.8` - Abstand unten 0rem beim Hover
+- `.hover:bottom-0.7` - Abstand unten 0rem beim Hover
+- `.hover:bottom-0.6` - Abstand unten 0rem beim Hover
+- `.hover:bottom-0.5` - Abstand unten 0rem beim Hover
+- `.hover:bottom-0.4` - Abstand unten 0rem beim Hover
+- `.hover:bottom-0.3` - Abstand unten 0rem beim Hover
+- `.hover:bottom-0.2` - Abstand unten 0.2rem beim Hover
+- `.hover:bottom-0.1` - Abstand unten 0.1rem beim Hover
+- `.hover:bottom-0` - Abstand unten 0rem beim Hover
 
 ##### Negative Bottom
 
-- `.-bottom-5` - Negativer Boden 5rem
-- `.-bottom-4.5` - Negativer Boden 0rem
-- `.-bottom-4` - Negativer Boden 4rem
-- `.-bottom-3.5` - Negativer Boden 0rem
-- `.-bottom-3` - Negativ unten 3rem
-- `.-bottom-2.5` - Negativer Boden 0rem
-- `.-bottom-2` - Negativer Boden 2rem
-- `.-bottom-1.9` - Negativer Boden 0rem
-- `.-bottom-1.8` - Negativer Boden 0rem
-- `.-bottom-1.7` - Negativer Boden 0rem
-- `.-bottom-1.6` - Negativer Boden 0rem
-- `.-bottom-1.5` - Negativer Boden 0rem
-- `.-bottom-1.4` - Negativer Boden 0rem
-- `.-bottom-1.3` - Negativer Boden 0rem
-- `.-bottom-1.2` - Negativer Boden 0rem
-- `.-bottom-1.1` - Negativer Boden 0rem
-- `.-bottom-1` - Negativer Boden 1rem
-- `.-bottom-0.9` - Negativer Boden 0rem
-- `.-bottom-0.8` - Negativer Boden 0rem
-- `.-bottom-0.7` - Negativer Boden 0rem
-- `.-bottom-0.6` - Negativer Boden 0rem
-- `.-bottom-0.5` - Negativer Boden 0rem
-- `.-bottom-0.4` - Negativer Boden 0rem
-- `.-bottom-0.3` - Negativer Boden 0,3rem
-- `.-bottom-0.2` - Negativer Boden 0,2rem
-- `.-bottom-0.1` - Negativer Boden 0,1rem
-- `.hover:-bottom-5` - Negativer Boden 5rem beim Schweben
-- `.hover:-bottom-4.5` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-4` - Negativer Boden 4rem beim Schweben
-- `.hover:-bottom-3.5` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-3` - Negativer Boden 3rem beim Schweben
-- `.hover:-bottom-2.5` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-2` - Negativer Boden 2rem beim Schweben
-- `.hover:-bottom-1.9` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-1.8` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-1.7` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-1.6` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-1.5` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-1.4` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-1.3` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-1.2` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-1.1` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-1` - Negativer Boden 1rem beim Schweben
-- `.hover:-bottom-0.9` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-0.8` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-0.7` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-0.6` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-0.5` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-0.4` - Negativer Boden 0rem beim Schweben
-- `.hover:-bottom-0.3` - Negativer Boden 0,3rem beim Schweben
-- `.hover:-bottom-0.2` - Negativer Boden 0,2rem beim Schweben
-- `.hover:-bottom-0.1` - Negativer Boden 0,1rem beim Schweben
+- `.-bottom-5` - Negativer Abstand unten 5rem
+- `.-bottom-4.5` - Negativer Abstand unten 0rem
+- `.-bottom-4` - Negativer Abstand unten 4rem
+- `.-bottom-3.5` - Negativer Abstand unten 0rem
+- `.-bottom-3` - Negativer Abstand unten 3rem
+- `.-bottom-2.5` - Negativer Abstand unten 0rem
+- `.-bottom-2` - Negativer Abstand unten 2rem
+- `.-bottom-1.9` - Negativer Abstand unten 0rem
+- `.-bottom-1.8` - Negativer Abstand unten 0rem
+- `.-bottom-1.7` - Negativer Abstand unten 0rem
+- `.-bottom-1.6` - Negativer Abstand unten 0rem
+- `.-bottom-1.5` - Negativer Abstand unten 0rem
+- `.-bottom-1.4` - Negativer Abstand unten 0rem
+- `.-bottom-1.3` - Negativer Abstand unten 0rem
+- `.-bottom-1.2` - Negativer Abstand unten 0rem
+- `.-bottom-1.1` - Negativer Abstand unten 0rem
+- `.-bottom-1` - Negativer Abstand unten 1rem
+- `.-bottom-0.9` - Negativer Abstand unten 0rem
+- `.-bottom-0.8` - Negativer Abstand unten 0rem
+- `.-bottom-0.7` - Negativer Abstand unten 0rem
+- `.-bottom-0.6` - Negativer Abstand unten 0rem
+- `.-bottom-0.5` - Negativer Abstand unten 0rem
+- `.-bottom-0.4` - Negativer Abstand unten 0rem
+- `.-bottom-0.3` - Negativer Abstand unten 0.3rem
+- `.-bottom-0.2` - Negativer Abstand unten 0.2rem
+- `.-bottom-0.1` - Negativer Abstand unten 0.1rem
+- `.hover:-bottom-5` - Negativer Abstand unten 5rem beim Hover
+- `.hover:-bottom-4.5` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-4` - Negativer Abstand unten 4rem beim Hover
+- `.hover:-bottom-3.5` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-3` - Negativer Abstand unten 3rem beim Hover
+- `.hover:-bottom-2.5` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-2` - Negativer Abstand unten 2rem beim Hover
+- `.hover:-bottom-1.9` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1.8` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1.7` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1.6` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1.5` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1.4` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1.3` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1.2` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1.1` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1` - Negativer Abstand unten 1rem beim Hover
+- `.hover:-bottom-0.9` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-0.8` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-0.7` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-0.6` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-0.5` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-0.4` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-0.3` - Negativer Abstand unten 0.3rem beim Hover
+- `.hover:-bottom-0.2` - Negativer Abstand unten 0.2rem beim Hover
+- `.hover:-bottom-0.1` - Negativer Abstand unten 0.1rem beim Hover
 
 ### Left
 
-- `.hover:left-100` - 100 % im Schwebeflug übrig geblieben
-- `.hover:left-75` - 75 % im Schwebeflug übrig
-- `.hover:left-50` - 50 % im Schwebeflug übrig
-- `.hover:left-25` - 25 % im Schwebeflug übrig
-- `.hover:left-5` - 5 Minuten im Schwebeflug übrig
-- `.hover:left-4.5` - 0rem im Schwebezustand verlassen
-- `.hover:left-4` - 4 Minuten im Schwebeflug übrig
-- `.hover:left-3.5` - 0rem im Schwebezustand verlassen
-- `.hover:left-3` - 3 Minuten im Schwebeflug übrig
-- `.hover:left-2.5` - 0rem im Schwebezustand verlassen
-- `.hover:left-2` - 2 Minuten im Schwebeflug übrig
-- `.hover:left-1.9` - 0rem im Schwebezustand verlassen
-- `.hover:left-1.8` - 0rem im Schwebezustand verlassen
-- `.hover:left-1.7` - 0rem im Schwebezustand verlassen
-- `.hover:left-1.6` - 0rem im Schwebezustand verlassen
-- `.hover:left-1.5` - 0rem im Schwebezustand verlassen
-- `.hover:left-1.4` - 0rem im Schwebezustand verlassen
-- `.hover:left-1.3` - 0rem im Schwebezustand verlassen
-- `.hover:left-1.2` - 0rem im Schwebezustand verlassen
-- `.hover:left-1.1` - 0rem im Schwebezustand verlassen
-- `.hover:left-1` - 1 Rem im Schwebezustand gelassen
-- `.hover:left-0.9` - 0rem im Schwebezustand verlassen
-- `.hover:left-0.8` - 0rem im Schwebezustand verlassen
-- `.hover:left-0.7` - 0rem im Schwebezustand verlassen
-- `.hover:left-0.6` - 0rem im Schwebezustand verlassen
-- `.hover:left-0.5` - 0rem im Schwebezustand verlassen
-- `.hover:left-0.4` - 0rem im Schwebezustand verlassen
-- `.hover:left-0.3` - 0rem im Schwebezustand verlassen
-- `.hover:left-0.2` - 0,2 Rem beim Schweben übrig
-- `.hover:left-0.1` - Beim Schweben 0,1 Rem übrig
-- `.hover:left-0` - 0rem im Schwebezustand verlassen
-- `.left-100` - 100 % übrig
-- `.left-75` - Links 75 %
-- `.left-50` - Links 50 %
-- `.left-25` - Links 25 %
-- `.left-5` - Links 5rem
-- `.left-4.5` - Links 0rem
-- `.left-4` - Links 4rem
-- `.left-3.5` - Links 0rem
-- `.left-3` - Links 3rem
-- `.left-2.5` - Links 0rem
-- `.left-2` - Links 2rem
-- `.left-1.9` - Links 0rem
-- `.left-1.8` - Links 0rem
-- `.left-1.7` - Links 0rem
-- `.left-1.6` - Links 0rem
-- `.left-1.5` - Links 0rem
-- `.left-1.4` - Links 0rem
-- `.left-1.3` - Links 0rem
-- `.left-1.2` - Links 0rem
-- `.left-1.1` - Links 0rem
-- `.left-1` - Links 1rem
-- `.left-0.9` - Links 0rem
-- `.left-0.8` - Links 0rem
-- `.left-0.7` - Links 0rem
-- `.left-0.6` - Links 0rem
-- `.left-0.5` - Links 0rem
-- `.left-0.4` - Links 0rem
-- `.left-0.3` - Links 0rem
-- `.left-0.2` - Links 0,2rem
-- `.left-0.1` - Links 0,1rem
-- `.left-0` - Links 0rem
+- `.hover:left-100` - Abstand links 100 % beim Hover
+- `.hover:left-75` - Abstand links 75 % beim Hover
+- `.hover:left-50` - Abstand links 50 % beim Hover
+- `.hover:left-25` - Abstand links 25 % beim Hover
+- `.hover:left-5` - Abstand links 5rem beim Hover
+- `.hover:left-4.5` - Abstand links 0rem beim Hover
+- `.hover:left-4` - Abstand links 4rem beim Hover
+- `.hover:left-3.5` - Abstand links 0rem beim Hover
+- `.hover:left-3` - Abstand links 3rem beim Hover
+- `.hover:left-2.5` - Abstand links 0rem beim Hover
+- `.hover:left-2` - Abstand links 2rem beim Hover
+- `.hover:left-1.9` - Abstand links 0rem beim Hover
+- `.hover:left-1.8` - Abstand links 0rem beim Hover
+- `.hover:left-1.7` - Abstand links 0rem beim Hover
+- `.hover:left-1.6` - Abstand links 0rem beim Hover
+- `.hover:left-1.5` - Abstand links 0rem beim Hover
+- `.hover:left-1.4` - Abstand links 0rem beim Hover
+- `.hover:left-1.3` - Abstand links 0rem beim Hover
+- `.hover:left-1.2` - Abstand links 0rem beim Hover
+- `.hover:left-1.1` - Abstand links 0rem beim Hover
+- `.hover:left-1` - Abstand links 1rem beim Hover
+- `.hover:left-0.9` - Abstand links 0rem beim Hover
+- `.hover:left-0.8` - Abstand links 0rem beim Hover
+- `.hover:left-0.7` - Abstand links 0rem beim Hover
+- `.hover:left-0.6` - Abstand links 0rem beim Hover
+- `.hover:left-0.5` - Abstand links 0rem beim Hover
+- `.hover:left-0.4` - Abstand links 0rem beim Hover
+- `.hover:left-0.3` - Abstand links 0rem beim Hover
+- `.hover:left-0.2` - Abstand links 0.2rem beim Hover
+- `.hover:left-0.1` - Abstand links 0.1rem beim Hover
+- `.hover:left-0` - Abstand links 0rem beim Hover
+- `.left-100` - Abstand links 100 %
+- `.left-75` - Abstand links 75 %
+- `.left-50` - Abstand links 50 %
+- `.left-25` - Abstand links 25 %
+- `.left-5` - Abstand links 5rem
+- `.left-4.5` - Abstand links 0rem
+- `.left-4` - Abstand links 4rem
+- `.left-3.5` - Abstand links 0rem
+- `.left-3` - Abstand links 3rem
+- `.left-2.5` - Abstand links 0rem
+- `.left-2` - Abstand links 2rem
+- `.left-1.9` - Abstand links 0rem
+- `.left-1.8` - Abstand links 0rem
+- `.left-1.7` - Abstand links 0rem
+- `.left-1.6` - Abstand links 0rem
+- `.left-1.5` - Abstand links 0rem
+- `.left-1.4` - Abstand links 0rem
+- `.left-1.3` - Abstand links 0rem
+- `.left-1.2` - Abstand links 0rem
+- `.left-1.1` - Abstand links 0rem
+- `.left-1` - Abstand links 1rem
+- `.left-0.9` - Abstand links 0rem
+- `.left-0.8` - Abstand links 0rem
+- `.left-0.7` - Abstand links 0rem
+- `.left-0.6` - Abstand links 0rem
+- `.left-0.5` - Abstand links 0rem
+- `.left-0.4` - Abstand links 0rem
+- `.left-0.3` - Abstand links 0rem
+- `.left-0.2` - Abstand links 0.2rem
+- `.left-0.1` - Abstand links 0.1rem
+- `.left-0` - Abstand links 0rem
 
 ##### Negative Left
 
-- `.-left-5` - Negativ links 5rem
-- `.-left-4.5` - Negativ links 0rem
-- `.-left-4` - Negativ links 4rem
-- `.-left-3.5` - Negativ links 0rem
-- `.-left-3` - Negativ links 3rem
-- `.-left-2.5` - Negativ links 0rem
-- `.-left-2` - Negativ links 2rem
-- `.-left-1.9` - Negativ links 0rem
-- `.-left-1.8` - Negativ links 0rem
-- `.-left-1.7` - Negativ links 0rem
-- `.-left-1.6` - Negativ links 0rem
-- `.-left-1.5` - Negativ links 0rem
-- `.-left-1.4` - Negativ links 0rem
-- `.-left-1.3` - Negativ links 0rem
-- `.-left-1.2` - Negativ links 0rem
-- `.-left-1.1` - Negativ links 0rem
-- `.-left-1` - Negative Linke 1rem
-- `.-left-0.9` - Negativ links 0rem
-- `.-left-0.8` - Negativ links 0rem
-- `.-left-0.7` - Negativ links 0rem
-- `.-left-0.6` - Negativ links 0rem
-- `.-left-0.5` - Negativ links 0rem
-- `.-left-0.4` - Negativ links 0rem
-- `.-left-0.3` - Negativ links 0,3rem
-- `.-left-0.2` - Negativ links 0,2rem
-- `.-left-0.1` - Negativ links 0,1rem
-- `.hover:-left-5` - Negativ links 5rem beim Schweben
-- `.hover:-left-4.5` - Negativ links 0rem beim Schweben
-- `.hover:-left-4` - Negativ links 4rem beim Schweben
-- `.hover:-left-3.5` - Negativ links 0rem beim Schweben
-- `.hover:-left-3` - Negativ links 3rem beim Schweben
-- `.hover:-left-2.5` - Negativ links 0rem beim Schweben
-- `.hover:-left-2` - Negativ links 2rem beim Schweben
-- `.hover:-left-1.9` - Negativ links 0rem beim Schweben
-- `.hover:-left-1.8` - Negativ links 0rem beim Schweben
-- `.hover:-left-1.7` - Negativ links 0rem beim Schweben
-- `.hover:-left-1.6` - Negativ links 0rem beim Schweben
-- `.hover:-left-1.5` - Negativ links 0rem beim Schweben
-- `.hover:-left-1.4` - Negativ links 0rem beim Schweben
-- `.hover:-left-1.3` - Negativ links 0rem beim Schweben
-- `.hover:-left-1.2` - Negativ links 0rem beim Schweben
-- `.hover:-left-1.1` - Negativ links 0rem beim Schweben
-- `.hover:-left-1` - Negativ links 1rem beim Schweben
-- `.hover:-left-0.9` - Negativ links 0rem beim Schweben
-- `.hover:-left-0.8` - Negativ links 0rem beim Schweben
-- `.hover:-left-0.7` - Negativ links 0rem beim Schweben
-- `.hover:-left-0.6` - Negativ links 0rem beim Schweben
-- `.hover:-left-0.5` - Negativ links 0rem beim Schweben
-- `.hover:-left-0.4` - Negativ links 0rem beim Schweben
-- `.hover:-left-0.3` - Negativ links 0,3rem beim Schweben
-- `.hover:-left-0.2` - Negativ links 0,2rem beim Schweben
-- `.hover:-left-0.1` - Negativ links 0,1rem beim Schweben
+- `.-left-5` - Negativer Abstand links 5rem
+- `.-left-4.5` - Negativer Abstand links 0rem
+- `.-left-4` - Negativer Abstand links 4rem
+- `.-left-3.5` - Negativer Abstand links 0rem
+- `.-left-3` - Negativer Abstand links 3rem
+- `.-left-2.5` - Negativer Abstand links 0rem
+- `.-left-2` - Negativer Abstand links 2rem
+- `.-left-1.9` - Negativer Abstand links 0rem
+- `.-left-1.8` - Negativer Abstand links 0rem
+- `.-left-1.7` - Negativer Abstand links 0rem
+- `.-left-1.6` - Negativer Abstand links 0rem
+- `.-left-1.5` - Negativer Abstand links 0rem
+- `.-left-1.4` - Negativer Abstand links 0rem
+- `.-left-1.3` - Negativer Abstand links 0rem
+- `.-left-1.2` - Negativer Abstand links 0rem
+- `.-left-1.1` - Negativer Abstand links 0rem
+- `.-left-1` - Negativer Abstand links 1rem
+- `.-left-0.9` - Negativer Abstand links 0rem
+- `.-left-0.8` - Negativer Abstand links 0rem
+- `.-left-0.7` - Negativer Abstand links 0rem
+- `.-left-0.6` - Negativer Abstand links 0rem
+- `.-left-0.5` - Negativer Abstand links 0rem
+- `.-left-0.4` - Negativer Abstand links 0rem
+- `.-left-0.3` - Negativer Abstand links 0.3rem
+- `.-left-0.2` - Negativer Abstand links 0.2rem
+- `.-left-0.1` - Negativer Abstand links 0.1rem
+- `.hover:-left-5` - Negativer Abstand links 5rem beim Hover
+- `.hover:-left-4.5` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-4` - Negativer Abstand links 4rem beim Hover
+- `.hover:-left-3.5` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-3` - Negativer Abstand links 3rem beim Hover
+- `.hover:-left-2.5` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-2` - Negativer Abstand links 2rem beim Hover
+- `.hover:-left-1.9` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1.8` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1.7` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1.6` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1.5` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1.4` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1.3` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1.2` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1.1` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1` - Negativer Abstand links 1rem beim Hover
+- `.hover:-left-0.9` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-0.8` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-0.7` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-0.6` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-0.5` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-0.4` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-0.3` - Negativer Abstand links 0.3rem beim Hover
+- `.hover:-left-0.2` - Negativer Abstand links 0.2rem beim Hover
+- `.hover:-left-0.1` - Negativer Abstand links 0.1rem beim Hover
 
 ### Z-Index
 
@@ -4308,31 +4308,31 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 ### Line height
 
-- `.hover:line-height-5` - Linienhöhe 5rem beim Schweben
-- `.hover:line-height-4` - Linienhöhe 4rem beim Schweben
-- `.hover:line-height-3` - Linienhöhe 3rem beim Schweben
-- `.hover:line-height-2` - Linienhöhe 2rem beim Schweben
-- `.hover:line-height-1` - Linienhöhe 1rem beim Schweben
-- `.line-height-5` - Strichhöhe 5rem
-- `.line-height-4` - Strichhöhe 4rem
-- `.line-height-3` - Strichhöhe 3rem
-- `.line-height-2` - Strichhöhe 2rem
-- `.line-height-1` - Strichhöhe 1rem
+- `.hover:line-height-5` - Zeilenhöhe 5rem beim Hover
+- `.hover:line-height-4` - Zeilenhöhe 4rem beim Hover
+- `.hover:line-height-3` - Zeilenhöhe 3rem beim Hover
+- `.hover:line-height-2` - Zeilenhöhe 2rem beim Hover
+- `.hover:line-height-1` - Zeilenhöhe 1rem beim Hover
+- `.line-height-5` - Zeilenhöhe 5rem
+- `.line-height-4` - Zeilenhöhe 4rem
+- `.line-height-3` - Zeilenhöhe 3rem
+- `.line-height-2` - Zeilenhöhe 2rem
+- `.line-height-1` - Zeilenhöhe 1rem
 
 ### Text
 
 - `.hover:text-capitalize` - Text wird beim Schweben groß geschrieben
-- `.hover:text-center` - Textmitte beim Schweben
-- `.hover:text-end` - Der Text endet beim Hover
-- `.hover:text-justify` - Text beim Schweben ausrichten
-- `.hover:text-left` - Der Text bleibt beim Schweben übrig
+- `.hover:text-center` - Text zentriert beim Hover
+- `.hover:text-end` - Text am Ende ausgerichtet beim Hover
+- `.hover:text-justify` - Text im Blocksatz beim Hover
+- `.hover:text-left` - Text linksbündig beim Hover
 - `.hover:text-line-none` - Beim Hover gibt es keine Textzeile
 - `.hover:text-line-overline` - Textzeile überstreicht beim Hover
 - `.hover:text-line-through` - Durchgestrichener Text beim Hover
 - `.hover:text-line-underline` - Text zeilenweise unterstreichen, wenn Sie den Mauszeiger darüber bewegen
 - `.hover:text-lowercase` - Text beim Schweben in Kleinbuchstaben schreiben
-- `.hover:text-right` - Direkt beim Hover Text schreiben
-- `.hover:text-start` - Text beginnt beim Hover
+- `.hover:text-right` - Text rechtsbündig beim Hover
+- `.hover:text-start` - Text am Anfang ausgerichtet beim Hover
 - `.hover:text-transparent` - Text beim Schweben transparent
 - `.hover:text-uppercase` - Text beim Hover in Großbuchstaben schreiben
 - `.text-break-all` - Text-Break-All
@@ -4340,10 +4340,10 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.text-break-normal` - Textunterbrechung normal
 - `.text-break-word` - Textumbruchwort
 - `.text-capitalize` - Text groß schreiben
-- `.text-center` - Textmitte
-- `.text-end` - Textende
-- `.text-justify` - Text rechtfertigen
-- `.text-left` - Text übrig
+- `.text-center` - Text zentriert
+- `.text-end` - Text am Ende ausgerichtet
+- `.text-justify` - Text im Blocksatz
+- `.text-left` - Text linksbündig
 - `.text-line-none` - Textzeile – keine
 - `.text-line-overline` - Text zeilenweise überstreichen
 - `.text-line-through` - Durchgestrichener Text
@@ -4351,130 +4351,130 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.text-lowercase` - Text in Kleinbuchstaben
 - `.text-overflow-clip` - Textüberlauf-Clip
 - `.text-overflow-ellipsis` - Textüberlauf-Auslassungspunkte
-- `.text-right` - Text richtig
-- `.text-start` - Textanfang
+- `.text-right` - Text rechtsbündig
+- `.text-start` - Text am Anfang ausgerichtet
 - `.text-transparent` - Text transparent
 - `.text-uppercase` - Text in Großbuchstaben
 
 ##### Text - Mobile (≤ 480px)
 
-- `.hover:mobile:text-center` - Textmitte beim Hover auf dem Mobilgerät
-- `.hover:mobile:text-end` - Der Text endet, wenn man auf dem Handy mit der Maus darüber fährt
-- `.hover:mobile:text-justify` - Text beim Hover auf Mobilgeräten ausrichten
-- `.hover:mobile:text-left` - Beim Bewegen des Mauszeigers auf dem Mobilgerät bleibt Text übrig
-- `.hover:mobile:text-right` - Direkt beim Hover auf dem Handy Text schreiben
-- `.hover:mobile:text-start` - Der Text beginnt beim Hover auf dem Mobilgerät
-- `.mobile:text-center` - Textcenter auf dem Handy
-- `.mobile:text-end` - Textende auf dem Handy
-- `.mobile:text-justify` - Textausrichtung auf Mobilgeräten
-- `.mobile:text-left` - Text auf dem Handy hinterlassen
-- `.mobile:text-right` - Text direkt auf dem Handy
-- `.mobile:text-start` - Textstart auf dem Handy
+- `.hover:mobile:text-center` - Text zentriert beim Hover auf Mobilgeräten
+- `.hover:mobile:text-end` - Text am Ende ausgerichtet beim Hover auf Mobilgeräten
+- `.hover:mobile:text-justify` - Text im Blocksatz beim Hover auf Mobilgeräten
+- `.hover:mobile:text-left` - Text linksbündig beim Hover auf Mobilgeräten
+- `.hover:mobile:text-right` - Text rechtsbündig beim Hover auf Mobilgeräten
+- `.hover:mobile:text-start` - Text am Anfang ausgerichtet beim Hover auf Mobilgeräten
+- `.mobile:text-center` - Text zentriert auf Mobilgeräten
+- `.mobile:text-end` - Text am Ende ausgerichtet auf Mobilgeräten
+- `.mobile:text-justify` - Text im Blocksatz auf Mobilgeräten
+- `.mobile:text-left` - Text linksbündig auf Mobilgeräten
+- `.mobile:text-right` - Text rechtsbündig auf Mobilgeräten
+- `.mobile:text-start` - Text am Anfang ausgerichtet auf Mobilgeräten
 
 ##### Text - Tablet (480px - 768px)
 
-- `.hover:tablet:text-center` - Textmitte beim Schweben auf dem Tablet
-- `.hover:tablet:text-end` - Der Text endet, wenn man mit der Maus über das Tablet fährt
-- `.hover:tablet:text-justify` - Text ausrichten, wenn man den Mauszeiger auf dem Tablet hält
-- `.hover:tablet:text-left` - Der Text bleibt beim Schweben auf dem Tablet übrig
-- `.hover:tablet:text-right` - Text direkt beim Bewegen des Mauszeigers auf dem Tablet
-- `.hover:tablet:text-start` - Der Text beginnt, wenn Sie mit der Maus über das Tablet fahren
-- `.tablet:text-center` - Textzentrum auf dem Tablet
-- `.tablet:text-end` - Text endet auf dem Tablet
-- `.tablet:text-justify` - Text auf dem Tablet ausrichten
-- `.tablet:text-left` - Text auf dem Tablet hinterlassen
-- `.tablet:text-right` - Text direkt auf dem Tablet
-- `.tablet:text-start` - Text beginnt auf dem Tablet
+- `.hover:tablet:text-center` - Text zentriert beim Hover auf Tablets
+- `.hover:tablet:text-end` - Text am Ende ausgerichtet beim Hover auf Tablets
+- `.hover:tablet:text-justify` - Text im Blocksatz beim Hover auf Tablets
+- `.hover:tablet:text-left` - Text linksbündig beim Hover auf Tablets
+- `.hover:tablet:text-right` - Text rechtsbündig beim Hover auf Tablets
+- `.hover:tablet:text-start` - Text am Anfang ausgerichtet beim Hover auf Tablets
+- `.tablet:text-center` - Text zentriert auf Tablets
+- `.tablet:text-end` - Text am Ende ausgerichtet auf Tablets
+- `.tablet:text-justify` - Text im Blocksatz auf Tablets
+- `.tablet:text-left` - Text linksbündig auf Tablets
+- `.tablet:text-right` - Text rechtsbündig auf Tablets
+- `.tablet:text-start` - Text am Anfang ausgerichtet auf Tablets
 
 ##### Text - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:text-center` - Textmitte beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:text-end` - Der Text endet beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:text-justify` - Text ausrichten, wenn Sie den Mauszeiger auf dem Tablet-PC halten
-- `.hover:tablet-pc:text-left` - Text bleibt beim Schweben auf dem Tablet-PC übrig
-- `.hover:tablet-pc:text-right` - Text direkt beim Hover auf dem Tablet-PC
-- `.hover:tablet-pc:text-start` - Text beginnt beim Hover auf dem Tablet-PC
-- `.tablet-pc:text-center` - Textcenter auf dem Tablet-PC
-- `.tablet-pc:text-end` - Textende auf Tablet-PC
-- `.tablet-pc:text-justify` - Text auf dem Tablet-PC ausrichten
-- `.tablet-pc:text-left` - Auf dem Tablet-PC hinterlassener Text
-- `.tablet-pc:text-right` - Text direkt auf dem Tablet-PC
-- `.tablet-pc:text-start` - Textanfang auf Tablet-PC
+- `.hover:tablet-pc:text-center` - Text zentriert beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:text-end` - Text am Ende ausgerichtet beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:text-justify` - Text im Blocksatz beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:text-left` - Text linksbündig beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:text-right` - Text rechtsbündig beim Hover auf Tablet-PCs
+- `.hover:tablet-pc:text-start` - Text am Anfang ausgerichtet beim Hover auf Tablet-PCs
+- `.tablet-pc:text-center` - Text zentriert auf Tablet-PCs
+- `.tablet-pc:text-end` - Text am Ende ausgerichtet auf Tablet-PCs
+- `.tablet-pc:text-justify` - Text im Blocksatz auf Tablet-PCs
+- `.tablet-pc:text-left` - Text linksbündig auf Tablet-PCs
+- `.tablet-pc:text-right` - Text rechtsbündig auf Tablet-PCs
+- `.tablet-pc:text-start` - Text am Anfang ausgerichtet auf Tablet-PCs
 
 ##### Text - Pc (992px - 1200px)
 
 - `.hover:pc:text-center` - Text zentriert beim Hover auf dem PC
-- `.hover:pc:text-end` - Textende beim Hover auf dem PC
-- `.hover:pc:text-justify` - Text ausrichten, wenn man den Mauszeiger auf dem PC hält
-- `.hover:pc:text-left` - Der Text bleibt beim Hover auf dem PC übrig
-- `.hover:pc:text-right` - Text direkt beim Hover auf dem PC
-- `.hover:pc:text-start` - Text beginnt beim Hover auf dem PC
-- `.pc:text-center` - Textmitte auf dem PC
-- `.pc:text-end` - Textende auf dem PC
-- `.pc:text-justify` - Text auf dem PC ausrichten
-- `.pc:text-left` - Text bleibt auf dem PC
-- `.pc:text-right` - Text direkt auf dem PC
-- `.pc:text-start` - Textanfang am PC
+- `.hover:pc:text-end` - Text am Ende ausgerichtet beim Hover auf dem PC
+- `.hover:pc:text-justify` - Text im Blocksatz beim Hover auf dem PC
+- `.hover:pc:text-left` - Text linksbündig beim Hover auf dem PC
+- `.hover:pc:text-right` - Text rechtsbündig beim Hover auf dem PC
+- `.hover:pc:text-start` - Text am Anfang ausgerichtet beim Hover auf dem PC
+- `.pc:text-center` - Text zentriert auf dem PC
+- `.pc:text-end` - Text am Ende ausgerichtet auf dem PC
+- `.pc:text-justify` - Text im Blocksatz auf dem PC
+- `.pc:text-left` - Text linksbündig auf dem PC
+- `.pc:text-right` - Text rechtsbündig auf dem PC
+- `.pc:text-start` - Text am Anfang ausgerichtet auf dem PC
 
 ##### Text - Tv (≥ 1200px)
 
-- `.hover:tv:text-center` - Textmitte beim Schweben auf dem Fernseher
-- `.hover:tv:text-end` - Der Text endet, wenn man mit der Maus über den Fernseher fährt
-- `.hover:tv:text-justify` - Text ausrichten, wenn man den Mauszeiger im Fernsehen hält
-- `.hover:tv:text-left` - Der Text bleibt beim Schweben im Fernsehen
-- `.hover:tv:text-right` - Text direkt beim Hover auf dem Fernseher
-- `.hover:tv:text-start` - Der Text beginnt beim Schweben im Fernsehen
-- `.tv:text-center` - Textcenter im Fernsehen
-- `.tv:text-end` - Text endet im Fernsehen
-- `.tv:text-justify` - Textausrichtung im Fernsehen
-- `.tv:text-left` - Text im Fernsehen hinterlassen
-- `.tv:text-right` - Text direkt im Fernsehen
-- `.tv:text-start` - Textanfang im Fernsehen
+- `.hover:tv:text-center` - Text zentriert beim Hover auf dem TV
+- `.hover:tv:text-end` - Text am Ende ausgerichtet beim Hover auf dem TV
+- `.hover:tv:text-justify` - Text im Blocksatz beim Hover auf dem TV
+- `.hover:tv:text-left` - Text linksbündig beim Hover auf dem TV
+- `.hover:tv:text-right` - Text rechtsbündig beim Hover auf dem TV
+- `.hover:tv:text-start` - Text am Anfang ausgerichtet beim Hover auf dem TV
+- `.tv:text-center` - Text zentriert auf dem TV
+- `.tv:text-end` - Text am Ende ausgerichtet auf dem TV
+- `.tv:text-justify` - Text im Blocksatz auf dem TV
+- `.tv:text-left` - Text linksbündig auf dem TV
+- `.tv:text-right` - Text rechtsbündig auf dem TV
+- `.tv:text-start` - Text am Anfang ausgerichtet auf dem TV
 
 ##### Text - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:text-center` - Textmitte beim Hover auf dem Tablet max
-- `.hover:tablet-max:text-end` - Textende bei Hover auf dem Tablet max
-- `.hover:tablet-max:text-justify` - Text beim Hover auf dem Tablet ausrichten, max
-- `.hover:tablet-max:text-left` - Verbleibender Text beim Hovern auf dem Tablet max
-- `.hover:tablet-max:text-right` - Text direkt beim Hover auf dem Tablet max
-- `.hover:tablet-max:text-start` - Textbeginn beim Hover auf dem Tablet max
-- `.tablet-max:text-center` - Textmitte auf dem Tablet max
-- `.tablet-max:text-end` - Textende auf dem Tablet max
-- `.tablet-max:text-justify` - Text im Blocksatz auf dem Tablet max
-- `.tablet-max:text-left` - Auf dem Tablet verbleibender Text max
-- `.tablet-max:text-right` - Text direkt auf dem Tablet max
-- `.tablet-max:text-start` - Textanfang auf Tablet max
+- `.hover:tablet-max:text-center` - Text zentriert beim Hover auf Tablets (max.)
+- `.hover:tablet-max:text-end` - Text am Ende ausgerichtet beim Hover auf Tablets (max.)
+- `.hover:tablet-max:text-justify` - Text im Blocksatz beim Hover auf Tablets (max.)
+- `.hover:tablet-max:text-left` - Text linksbündig beim Hover auf Tablets (max.)
+- `.hover:tablet-max:text-right` - Text rechtsbündig beim Hover auf Tablets (max.)
+- `.hover:tablet-max:text-start` - Text am Anfang ausgerichtet beim Hover auf Tablets (max.)
+- `.tablet-max:text-center` - Text zentriert auf Tablets (max.)
+- `.tablet-max:text-end` - Text am Ende ausgerichtet auf Tablets (max.)
+- `.tablet-max:text-justify` - Text im Blocksatz auf Tablets (max.)
+- `.tablet-max:text-left` - Text linksbündig auf Tablets (max.)
+- `.tablet-max:text-right` - Text rechtsbündig auf Tablets (max.)
+- `.tablet-max:text-start` - Text am Anfang ausgerichtet auf Tablets (max.)
 
 ##### Text - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:text-center` - Textmitte beim Hover auf Tablet-PC max
-- `.hover:tablet-pc-max:text-end` - Textende bei Hover auf Tablet-PC max
-- `.hover:tablet-pc-max:text-justify` - Text ausrichten bei Hover auf Tablet-PC max
-- `.hover:tablet-pc-max:text-left` - Verbleibender Text beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:text-right` - Text direkt beim Hover auf dem Tablet-PC max
-- `.hover:tablet-pc-max:text-start` - Textbeginn beim Hover auf Tablet-PC max
-- `.tablet-pc-max:text-center` - Textmitte auf Tablet-PC max
-- `.tablet-pc-max:text-end` - Textende auf Tablet-PC max
-- `.tablet-pc-max:text-justify` - Textausrichtung auf Tablet-PC max
-- `.tablet-pc-max:text-left` - Verbleibender Text auf dem Tablet-PC max
-- `.tablet-pc-max:text-right` - Text direkt auf dem Tablet-PC max
-- `.tablet-pc-max:text-start` - Textanfang auf Tablet-PC max
+- `.hover:tablet-pc-max:text-center` - Text zentriert beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:text-end` - Text am Ende ausgerichtet beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:text-justify` - Text im Blocksatz beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:text-left` - Text linksbündig beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:text-right` - Text rechtsbündig beim Hover auf Tablet-PCs (max.)
+- `.hover:tablet-pc-max:text-start` - Text am Anfang ausgerichtet beim Hover auf Tablet-PCs (max.)
+- `.tablet-pc-max:text-center` - Text zentriert auf Tablet-PCs (max.)
+- `.tablet-pc-max:text-end` - Text am Ende ausgerichtet auf Tablet-PCs (max.)
+- `.tablet-pc-max:text-justify` - Text im Blocksatz auf Tablet-PCs (max.)
+- `.tablet-pc-max:text-left` - Text linksbündig auf Tablet-PCs (max.)
+- `.tablet-pc-max:text-right` - Text rechtsbündig auf Tablet-PCs (max.)
+- `.tablet-pc-max:text-start` - Text am Anfang ausgerichtet auf Tablet-PCs (max.)
 
 ##### Text - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:text-center` - Textmitte beim Hover auf dem PC max
-- `.hover:pc-max:text-end` - Textende bei Hover auf PC max
-- `.hover:pc-max:text-justify` - Text beim Hover auf dem PC ausrichten, max
-- `.hover:pc-max:text-left` - Verbleibender Text beim Hover auf dem PC max
-- `.hover:pc-max:text-right` - Text direkt beim Hover auf dem PC max
-- `.hover:pc-max:text-start` - Textbeginn beim Hover auf PC max
-- `.pc-max:text-center` - Textmitte am PC max
-- `.pc-max:text-end` - Textende am PC max
-- `.pc-max:text-justify` - Textausrichtung am PC max
-- `.pc-max:text-left` - Verbleibender Text auf dem PC max
-- `.pc-max:text-right` - Text direkt am PC max
-- `.pc-max:text-start` - Textanfang auf PC max
+- `.hover:pc-max:text-center` - Text zentriert beim Hover auf dem PC (max.)
+- `.hover:pc-max:text-end` - Text am Ende ausgerichtet beim Hover auf dem PC (max.)
+- `.hover:pc-max:text-justify` - Text im Blocksatz beim Hover auf dem PC (max.)
+- `.hover:pc-max:text-left` - Text linksbündig beim Hover auf dem PC (max.)
+- `.hover:pc-max:text-right` - Text rechtsbündig beim Hover auf dem PC (max.)
+- `.hover:pc-max:text-start` - Text am Anfang ausgerichtet beim Hover auf dem PC (max.)
+- `.pc-max:text-center` - Text zentriert auf dem PC (max.)
+- `.pc-max:text-end` - Text am Ende ausgerichtet auf dem PC (max.)
+- `.pc-max:text-justify` - Text im Blocksatz auf dem PC (max.)
+- `.pc-max:text-left` - Text linksbündig auf dem PC (max.)
+- `.pc-max:text-right` - Text rechtsbündig auf dem PC (max.)
+- `.pc-max:text-start` - Text am Anfang ausgerichtet auf dem PC (max.)
 
 ### Whitespace
 
@@ -4532,206 +4532,206 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Border All
 
-- `.border-2` - Rand Alle 2rem
-- `.border-1.5` - Rand Alle 0rem
-- `.border-1` - Rand Alle 1rem
-- `.border-0.9` - Rand Alle 0rem
-- `.border-0.8` - Rand Alle 0rem
-- `.border-0.7` - Rand Alle 0rem
-- `.border-0.6` - Rand Alle 0rem
-- `.border-0.5` - Rand Alle 0rem
-- `.border-0.4` - Rand Alle 0,4rem
-- `.border-0.3` - Rand Alle 0rem
-- `.border-0.2` - Rand Alle 0,2rem
-- `.border-0.1` - Rand Alle 0,1rem
-- `.border-0` - Rand Alle 0rem
-- `.hover:border-2` - Grenze Alle 2rem beim Schweben
-- `.hover:border-1.5` - Rand Alle 0rem beim Schweben
-- `.hover:border-1` - Grenze Alle 1rem beim Schweben
-- `.hover:border-0.9` - Rand Alle 0rem beim Schweben
-- `.hover:border-0.8` - Rand Alle 0rem beim Schweben
-- `.hover:border-0.7` - Rand Alle 0rem beim Schweben
-- `.hover:border-0.6` - Rand Alle 0rem beim Schweben
-- `.hover:border-0.5` - Rand Alle 0rem beim Schweben
-- `.hover:border-0.4` - Rand Alle 0rem beim Schweben
-- `.hover:border-0.3` - Rand Alle 0rem beim Schweben
-- `.hover:border-0.2` - Rand Alle 0,2rem beim Schweben
-- `.hover:border-0.1` - Rand Alle 0,1rem beim Schweben
-- `.hover:border-0` - Rand Alle 0rem beim Schweben
+- `.border-2` - Rahmen alle Seiten 2rem
+- `.border-1.5` - Rahmen alle Seiten 0rem
+- `.border-1` - Rahmen alle Seiten 1rem
+- `.border-0.9` - Rahmen alle Seiten 0rem
+- `.border-0.8` - Rahmen alle Seiten 0rem
+- `.border-0.7` - Rahmen alle Seiten 0rem
+- `.border-0.6` - Rahmen alle Seiten 0rem
+- `.border-0.5` - Rahmen alle Seiten 0rem
+- `.border-0.4` - Rahmen alle Seiten 0.4rem
+- `.border-0.3` - Rahmen alle Seiten 0rem
+- `.border-0.2` - Rahmen alle Seiten 0.2rem
+- `.border-0.1` - Rahmen alle Seiten 0.1rem
+- `.border-0` - Rahmen alle Seiten 0rem
+- `.hover:border-2` - Rahmen alle Seiten 2rem beim Hover
+- `.hover:border-1.5` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-1` - Rahmen alle Seiten 1rem beim Hover
+- `.hover:border-0.9` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-0.8` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-0.7` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-0.6` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-0.5` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-0.4` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-0.3` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-0.2` - Rahmen alle Seiten 0.2rem beim Hover
+- `.hover:border-0.1` - Rahmen alle Seiten 0.1rem beim Hover
+- `.hover:border-0` - Rahmen alle Seiten 0rem beim Hover
 
 #### Border Bottom
 
-- `.border-b-2` - Rand unten 2rem
-- `.border-b-1.5` - Rand unten 0rem
-- `.border-b-1` - Rand unten 1rem
-- `.border-b-0.9` - Rand unten 0rem
-- `.border-b-0.8` - Rand unten 0rem
-- `.border-b-0.7` - Rand unten 0rem
-- `.border-b-0.6` - Rand unten 0rem
-- `.border-b-0.5` - Rand unten 0,5rem
-- `.border-b-0.4` - Rand unten 0rem
-- `.border-b-0.3` - Rand unten 0rem
-- `.border-b-0.2` - Rand unten 0,2rem
-- `.border-b-0.1` - Rand unten 0,1rem
-- `.border-b-0` - Rand unten 0rem
-- `.hover:border-b-2` - Rand unten 2rem beim Schweben
-- `.hover:border-b-1.5` - Rand unten 0rem beim Schweben
-- `.hover:border-b-1` - Rand unten 1rem beim Schweben
-- `.hover:border-b-0.9` - Rand unten 0rem beim Schweben
-- `.hover:border-b-0.8` - Rand unten 0rem beim Schweben
-- `.hover:border-b-0.7` - Rand unten 0rem beim Schweben
-- `.hover:border-b-0.6` - Rand unten 0rem beim Schweben
-- `.hover:border-b-0.5` - Rand unten 0rem beim Schweben
-- `.hover:border-b-0.4` - Rand unten 0rem beim Schweben
-- `.hover:border-b-0.3` - Rand unten 0rem beim Schweben
-- `.hover:border-b-0.2` - Rand unten 0,2rem beim Schweben
-- `.hover:border-b-0.1` - Rand unten 0,1rem beim Schweben
-- `.hover:border-b-0` - Rand unten 0rem beim Schweben
+- `.border-b-2` - Rahmen unten 2rem
+- `.border-b-1.5` - Rahmen unten 0rem
+- `.border-b-1` - Rahmen unten 1rem
+- `.border-b-0.9` - Rahmen unten 0rem
+- `.border-b-0.8` - Rahmen unten 0rem
+- `.border-b-0.7` - Rahmen unten 0rem
+- `.border-b-0.6` - Rahmen unten 0rem
+- `.border-b-0.5` - Rahmen unten 0.5rem
+- `.border-b-0.4` - Rahmen unten 0rem
+- `.border-b-0.3` - Rahmen unten 0rem
+- `.border-b-0.2` - Rahmen unten 0.2rem
+- `.border-b-0.1` - Rahmen unten 0.1rem
+- `.border-b-0` - Rahmen unten 0rem
+- `.hover:border-b-2` - Rahmen unten 2rem beim Hover
+- `.hover:border-b-1.5` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-1` - Rahmen unten 1rem beim Hover
+- `.hover:border-b-0.9` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-0.8` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-0.7` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-0.6` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-0.5` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-0.4` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-0.3` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-0.2` - Rahmen unten 0.2rem beim Hover
+- `.hover:border-b-0.1` - Rahmen unten 0.1rem beim Hover
+- `.hover:border-b-0` - Rahmen unten 0rem beim Hover
 
 #### Border Left
 
-- `.border-l-2` - Rand links 2rem
-- `.border-l-1.5` - Rand links 0rem
-- `.border-l-1` - Rand links 1rem
-- `.border-l-0.9` - Rand links 0rem
-- `.border-l-0.8` - Rand links 0rem
-- `.border-l-0.7` - Rand links 0rem
-- `.border-l-0.6` - Rand links 0rem
-- `.border-l-0.5` - Rand links 0rem
-- `.border-l-0.4` - Rand links 0rem
-- `.border-l-0.3` - Rand links 0rem
-- `.border-l-0.2` - Rand links 0,2rem
-- `.border-l-0.1` - Rand links 0,1rem
-- `.border-l-0` - Rand links 0rem
-- `.hover:border-l-2` - Rand links 2rem beim Schweben
-- `.hover:border-l-1.5` - Rand links 0rem beim Schweben
-- `.hover:border-l-1` - Rand links 1rem beim Schweben
-- `.hover:border-l-0.9` - Rand links 0rem beim Schweben
-- `.hover:border-l-0.8` - Rand links 0rem beim Schweben
-- `.hover:border-l-0.7` - Rand links 0rem beim Schweben
-- `.hover:border-l-0.6` - Rand links 0rem beim Schweben
-- `.hover:border-l-0.5` - Rand links 0rem beim Schweben
-- `.hover:border-l-0.4` - Rand links 0rem beim Schweben
-- `.hover:border-l-0.3` - Rand links 0rem beim Schweben
-- `.hover:border-l-0.2` - Rand links 0,2rem beim Schweben
-- `.hover:border-l-0.1` - Rand links 0,1rem beim Schweben
-- `.hover:border-l-0` - Rand links 0rem beim Schweben
+- `.border-l-2` - Rahmen links 2rem
+- `.border-l-1.5` - Rahmen links 0rem
+- `.border-l-1` - Rahmen links 1rem
+- `.border-l-0.9` - Rahmen links 0rem
+- `.border-l-0.8` - Rahmen links 0rem
+- `.border-l-0.7` - Rahmen links 0rem
+- `.border-l-0.6` - Rahmen links 0rem
+- `.border-l-0.5` - Rahmen links 0rem
+- `.border-l-0.4` - Rahmen links 0rem
+- `.border-l-0.3` - Rahmen links 0rem
+- `.border-l-0.2` - Rahmen links 0.2rem
+- `.border-l-0.1` - Rahmen links 0.1rem
+- `.border-l-0` - Rahmen links 0rem
+- `.hover:border-l-2` - Rahmen links 2rem beim Hover
+- `.hover:border-l-1.5` - Rahmen links 0rem beim Hover
+- `.hover:border-l-1` - Rahmen links 1rem beim Hover
+- `.hover:border-l-0.9` - Rahmen links 0rem beim Hover
+- `.hover:border-l-0.8` - Rahmen links 0rem beim Hover
+- `.hover:border-l-0.7` - Rahmen links 0rem beim Hover
+- `.hover:border-l-0.6` - Rahmen links 0rem beim Hover
+- `.hover:border-l-0.5` - Rahmen links 0rem beim Hover
+- `.hover:border-l-0.4` - Rahmen links 0rem beim Hover
+- `.hover:border-l-0.3` - Rahmen links 0rem beim Hover
+- `.hover:border-l-0.2` - Rahmen links 0.2rem beim Hover
+- `.hover:border-l-0.1` - Rahmen links 0.1rem beim Hover
+- `.hover:border-l-0` - Rahmen links 0rem beim Hover
 
 #### Border Right
 
-- `.border-r-2` - Rand rechts 2rem
-- `.border-r-1.5` - Rand rechts 0rem
-- `.border-r-1` - Rand rechts 1rem
-- `.border-r-0.9` - Rand rechts 0rem
-- `.border-r-0.8` - Rand rechts 0rem
-- `.border-r-0.7` - Rand rechts 0rem
-- `.border-r-0.6` - Rand rechts 0rem
-- `.border-r-0.5` - Rand rechts 0rem
-- `.border-r-0.4` - Rand rechts 0rem
-- `.border-r-0.3` - Rand rechts 0rem
-- `.border-r-0.2` - Rand rechts 0,2rem
-- `.border-r-0.1` - Rand rechts 0,1rem
-- `.border-r-0` - Rand rechts 0rem
-- `.hover:border-r-2` - Rand rechts 2rem beim Schweben
-- `.hover:border-r-1.5` - Rand rechts 0rem beim Schweben
-- `.hover:border-r-1` - Rand rechts 1rem beim Schweben
-- `.hover:border-r-0.9` - Rand rechts 0rem beim Schweben
-- `.hover:border-r-0.8` - Rand rechts 0rem beim Schweben
-- `.hover:border-r-0.7` - Rand rechts 0rem beim Schweben
-- `.hover:border-r-0.6` - Rand rechts 0rem beim Schweben
-- `.hover:border-r-0.5` - Rand rechts 0rem beim Schweben
-- `.hover:border-r-0.4` - Rand rechts 0rem beim Schweben
-- `.hover:border-r-0.3` - Rand rechts 0rem beim Schweben
-- `.hover:border-r-0.2` - Rand rechts 0,2rem beim Schweben
-- `.hover:border-r-0.1` - Rand rechts 0,1rem beim Schweben
-- `.hover:border-r-0` - Rand rechts 0rem beim Schweben
+- `.border-r-2` - Rahmen rechts 2rem
+- `.border-r-1.5` - Rahmen rechts 0rem
+- `.border-r-1` - Rahmen rechts 1rem
+- `.border-r-0.9` - Rahmen rechts 0rem
+- `.border-r-0.8` - Rahmen rechts 0rem
+- `.border-r-0.7` - Rahmen rechts 0rem
+- `.border-r-0.6` - Rahmen rechts 0rem
+- `.border-r-0.5` - Rahmen rechts 0rem
+- `.border-r-0.4` - Rahmen rechts 0rem
+- `.border-r-0.3` - Rahmen rechts 0rem
+- `.border-r-0.2` - Rahmen rechts 0.2rem
+- `.border-r-0.1` - Rahmen rechts 0.1rem
+- `.border-r-0` - Rahmen rechts 0rem
+- `.hover:border-r-2` - Rahmen rechts 2rem beim Hover
+- `.hover:border-r-1.5` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-1` - Rahmen rechts 1rem beim Hover
+- `.hover:border-r-0.9` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-0.8` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-0.7` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-0.6` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-0.5` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-0.4` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-0.3` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-0.2` - Rahmen rechts 0.2rem beim Hover
+- `.hover:border-r-0.1` - Rahmen rechts 0.1rem beim Hover
+- `.hover:border-r-0` - Rahmen rechts 0rem beim Hover
 
 #### Border Top
 
-- `.border-t-2` - Rand oben 2rem
-- `.border-t-1.5` - Rand Oben 0rem
-- `.border-t-1` - Rand oben 1rem
-- `.border-t-0.9` - Rand Oben 0rem
-- `.border-t-0.8` - Rand Oben 0rem
-- `.border-t-0.7` - Rand Oben 0rem
-- `.border-t-0.6` - Rand Oben 0rem
-- `.border-t-0.5` - Rand Oben 0rem
-- `.border-t-0.4` - Rand Oben 0rem
-- `.border-t-0.3` - Rand Oben 0rem
-- `.border-t-0.2` - Rand oben 0,2rem
-- `.border-t-0.1` - Rand oben 0,1rem
-- `.border-t-0` - Rand Oben 0rem
-- `.hover:border-t-2` - Border Top 2rem beim Schweben
-- `.hover:border-t-1.5` - Rand oben 0rem beim Hover
-- `.hover:border-t-1` - Border Top 1rem beim Schweben
-- `.hover:border-t-0.9` - Rand oben 0rem beim Hover
-- `.hover:border-t-0.8` - Rand oben 0rem beim Hover
-- `.hover:border-t-0.7` - Rand oben 0rem beim Hover
-- `.hover:border-t-0.6` - Rand oben 0rem beim Hover
-- `.hover:border-t-0.5` - Rand oben 0rem beim Hover
-- `.hover:border-t-0.4` - Rand oben 0rem beim Hover
-- `.hover:border-t-0.3` - Rand oben 0rem beim Hover
-- `.hover:border-t-0.2` - Rand oben 0,2rem beim Schweben
-- `.hover:border-t-0.1` - Rand oben 0,1rem beim Schweben
-- `.hover:border-t-0` - Rand oben 0rem beim Hover
+- `.border-t-2` - Rahmen oben 2rem
+- `.border-t-1.5` - Rahmen oben 0rem
+- `.border-t-1` - Rahmen oben 1rem
+- `.border-t-0.9` - Rahmen oben 0rem
+- `.border-t-0.8` - Rahmen oben 0rem
+- `.border-t-0.7` - Rahmen oben 0rem
+- `.border-t-0.6` - Rahmen oben 0rem
+- `.border-t-0.5` - Rahmen oben 0rem
+- `.border-t-0.4` - Rahmen oben 0rem
+- `.border-t-0.3` - Rahmen oben 0rem
+- `.border-t-0.2` - Rahmen oben 0.2rem
+- `.border-t-0.1` - Rahmen oben 0.1rem
+- `.border-t-0` - Rahmen oben 0rem
+- `.hover:border-t-2` - Rahmen oben 2rem beim Hover
+- `.hover:border-t-1.5` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-1` - Rahmen oben 1rem beim Hover
+- `.hover:border-t-0.9` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-0.8` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-0.7` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-0.6` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-0.5` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-0.4` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-0.3` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-0.2` - Rahmen oben 0.2rem beim Hover
+- `.hover:border-t-0.1` - Rahmen oben 0.1rem beim Hover
+- `.hover:border-t-0` - Rahmen oben 0rem beim Hover
 
 #### Border X-Axis
 
-- `.border-x-2` - Rand X-Achse 2rem
-- `.border-x-1.5` - Rand X-Achse 0rem
-- `.border-x-1` - Rand X-Achse 1rem
-- `.border-x-0.9` - Rand X-Achse 0rem
-- `.border-x-0.8` - Rand X-Achse 0rem
-- `.border-x-0.7` - Rand X-Achse 0rem
-- `.border-x-0.6` - Rand X-Achse 0rem
-- `.border-x-0.5` - Rand X-Achse 0rem
-- `.border-x-0.4` - Rand X-Achse 0rem
-- `.border-x-0.3` - Rand X-Achse 0rem
-- `.border-x-0.2` - Rand X-Achse 0,2rem
-- `.border-x-0.1` - Rand X-Achse 0,1rem
-- `.border-x-0` - Rand X-Achse 0rem
-- `.hover:border-x-2` - Rand X-Achse 2rem beim Schweben
-- `.hover:border-x-1.5` - Rand X-Achse 0rem beim Schweben
-- `.hover:border-x-1` - Rand X-Achse 1rem beim Schweben
-- `.hover:border-x-0.9` - Rand X-Achse 0rem beim Schweben
-- `.hover:border-x-0.8` - Rand X-Achse 0rem beim Schweben
-- `.hover:border-x-0.7` - Rand X-Achse 0rem beim Schweben
-- `.hover:border-x-0.6` - Rand X-Achse 0rem beim Schweben
-- `.hover:border-x-0.5` - Rand X-Achse 0rem beim Schweben
-- `.hover:border-x-0.4` - Rand X-Achse 0rem beim Schweben
-- `.hover:border-x-0.3` - Rand X-Achse 0rem beim Schweben
-- `.hover:border-x-0.2` - Rand-X-Achse 0,2rem beim Schweben
-- `.hover:border-x-0.1` - Rand-X-Achse 0,1rem beim Schweben
-- `.hover:border-x-0` - Rand X-Achse 0rem beim Schweben
+- `.border-x-2` - Rahmen X-Achse 2rem
+- `.border-x-1.5` - Rahmen X-Achse 0rem
+- `.border-x-1` - Rahmen X-Achse 1rem
+- `.border-x-0.9` - Rahmen X-Achse 0rem
+- `.border-x-0.8` - Rahmen X-Achse 0rem
+- `.border-x-0.7` - Rahmen X-Achse 0rem
+- `.border-x-0.6` - Rahmen X-Achse 0rem
+- `.border-x-0.5` - Rahmen X-Achse 0rem
+- `.border-x-0.4` - Rahmen X-Achse 0rem
+- `.border-x-0.3` - Rahmen X-Achse 0rem
+- `.border-x-0.2` - Rahmen X-Achse 0.2rem
+- `.border-x-0.1` - Rahmen X-Achse 0.1rem
+- `.border-x-0` - Rahmen X-Achse 0rem
+- `.hover:border-x-2` - Rahmen X-Achse 2rem beim Hover
+- `.hover:border-x-1.5` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-1` - Rahmen X-Achse 1rem beim Hover
+- `.hover:border-x-0.9` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-0.8` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-0.7` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-0.6` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-0.5` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-0.4` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-0.3` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-0.2` - Rahmen X-Achse 0.2rem beim Hover
+- `.hover:border-x-0.1` - Rahmen X-Achse 0.1rem beim Hover
+- `.hover:border-x-0` - Rahmen X-Achse 0rem beim Hover
 
 #### Border Y-Axis
 
-- `.border-y-2` - Rand Y-Achse 2rem
-- `.border-y-1.5` - Rand Y-Achse 0rem
-- `.border-y-1` - Rand Y-Achse 1rem
-- `.border-y-0.9` - Rand Y-Achse 0rem
-- `.border-y-0.8` - Rand Y-Achse 0rem
-- `.border-y-0.7` - Rand Y-Achse 0rem
-- `.border-y-0.6` - Rand Y-Achse 0rem
-- `.border-y-0.5` - Rand Y-Achse 0,5rem
-- `.border-y-0.4` - Rand Y-Achse 0rem
-- `.border-y-0.3` - Rand Y-Achse 0rem
-- `.border-y-0.2` - Rand Y-Achse 0,2rem
-- `.border-y-0.1` - Rand Y-Achse 0,1rem
-- `.border-y-0` - Rand Y-Achse 0rem
-- `.hover:border-y-2` - Grenze Y-Achse 2rem beim Schweben
-- `.hover:border-y-1.5` - Grenze Y-Achse 0rem beim Schweben
-- `.hover:border-y-1` - Grenze Y-Achse 1rem beim Schweben
-- `.hover:border-y-0.9` - Grenze Y-Achse 0rem beim Schweben
-- `.hover:border-y-0.8` - Grenze Y-Achse 0rem beim Schweben
-- `.hover:border-y-0.7` - Grenze Y-Achse 0rem beim Schweben
-- `.hover:border-y-0.6` - Grenze Y-Achse 0rem beim Schweben
-- `.hover:border-y-0.5` - Grenze Y-Achse 0rem beim Schweben
-- `.hover:border-y-0.4` - Grenze Y-Achse 0rem beim Schweben
-- `.hover:border-y-0.3` - Grenze Y-Achse 0rem beim Schweben
-- `.hover:border-y-0.2` - Grenze Y-Achse 0,2rem beim Schweben
-- `.hover:border-y-0.1` - Grenze Y-Achse 0,1rem beim Schweben
-- `.hover:border-y-0` - Grenze Y-Achse 0rem beim Schweben
+- `.border-y-2` - Rahmen Y-Achse 2rem
+- `.border-y-1.5` - Rahmen Y-Achse 0rem
+- `.border-y-1` - Rahmen Y-Achse 1rem
+- `.border-y-0.9` - Rahmen Y-Achse 0rem
+- `.border-y-0.8` - Rahmen Y-Achse 0rem
+- `.border-y-0.7` - Rahmen Y-Achse 0rem
+- `.border-y-0.6` - Rahmen Y-Achse 0rem
+- `.border-y-0.5` - Rahmen Y-Achse 0.5rem
+- `.border-y-0.4` - Rahmen Y-Achse 0rem
+- `.border-y-0.3` - Rahmen Y-Achse 0rem
+- `.border-y-0.2` - Rahmen Y-Achse 0.2rem
+- `.border-y-0.1` - Rahmen Y-Achse 0.1rem
+- `.border-y-0` - Rahmen Y-Achse 0rem
+- `.hover:border-y-2` - Rahmen Y-Achse 2rem beim Hover
+- `.hover:border-y-1.5` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-1` - Rahmen Y-Achse 1rem beim Hover
+- `.hover:border-y-0.9` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-0.8` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-0.7` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-0.6` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-0.5` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-0.4` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-0.3` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-0.2` - Rahmen Y-Achse 0.2rem beim Hover
+- `.hover:border-y-0.1` - Rahmen Y-Achse 0.1rem beim Hover
+- `.hover:border-y-0` - Rahmen Y-Achse 0rem beim Hover
 
 ### Border Radius
 
@@ -4882,15 +4882,15 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Box Shadow All
 
-- `.hover:shadow-5` - Box Shadow Alle 5rem im Schwebeflug
-- `.hover:shadow-5-1` - Box Shadow Alle 0 0 5rem 2rem im Schwebeflug
-- `.hover:shadow-4` - Box Shadow Alle 4rem im Schwebeflug
-- `.hover:shadow-4-1` - Box Shadow Alle 0 0 4rem 2rem im Schwebeflug
-- `.hover:shadow-3` - Box Shadow Alle 3rem im Schwebeflug
-- `.hover:shadow-3-1` - Box Shadow Alle 0 0 3rem 2rem im Schwebeflug
-- `.hover:shadow-2` - Box Shadow Alle 2rem im Schwebeflug
+- `.hover:shadow-5` - Box Shadow Alle 5rem beim Hover
+- `.hover:shadow-5-1` - Box Shadow Alle 0 0 5rem 2rem beim Hover
+- `.hover:shadow-4` - Box Shadow Alle 4rem beim Hover
+- `.hover:shadow-4-1` - Box Shadow Alle 0 0 4rem 2rem beim Hover
+- `.hover:shadow-3` - Box Shadow Alle 3rem beim Hover
+- `.hover:shadow-3-1` - Box Shadow Alle 0 0 3rem 2rem beim Hover
+- `.hover:shadow-2` - Box Shadow Alle 2rem beim Hover
 - `.hover:shadow-2-1` - Box Shadow Alle 0 0 2rem 2rem beim Schweben
-- `.hover:shadow-1` - Box Shadow All 1rem beim Schweben
+- `.hover:shadow-1` - Box Shadow Alle 1rem beim Hover
 - `.hover:shadow-1-1` - Box Shadow Alle 0 0 1rem 2rem beim Schweben
 - `.hover:shadow-none` - Box Shadow Alle keine beim Schweben
 - `.shadow-5` - Box Shadow Alle 5rem
@@ -4907,62 +4907,62 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Box Shadow Bottom
 
-- `.hover:shadow-b-10` - Box Shadow Bottom 10rem beim Schweben
-- `.hover:shadow-b-9` - Box Shadow Bottom 9rem beim Schweben
-- `.hover:shadow-b-8` - Box Shadow Bottom 8rem beim Schweben
-- `.hover:shadow-b-7` - Box Shadow Bottom 7rem beim Schweben
-- `.hover:shadow-b-6` - Box Shadow Bottom 6rem beim Schweben
-- `.hover:shadow-b-5` - Box Shadow Bottom 5rem beim Schweben
-- `.hover:shadow-b-4` - Box Shadow Bottom 4rem beim Schweben
-- `.hover:shadow-b-3` - Box Shadow Bottom 3rem beim Schweben
-- `.hover:shadow-b-2` - Box Shadow Bottom 2rem beim Schweben
-- `.hover:shadow-b-1` - Box Shadow Bottom 1rem beim Schweben
-- `.shadow-b-10` - Box Shadow Bottom 10rem
-- `.shadow-b-9` - Box Shadow Bottom 9rem
-- `.shadow-b-8` - Box Shadow Bottom 8rem
-- `.shadow-b-7` - Box Shadow Bottom 7rem
-- `.shadow-b-6` - Box Shadow Bottom 6rem
-- `.shadow-b-5` - Box Shadow Bottom 5rem
-- `.shadow-b-4` - Box Shadow Bottom 4rem
-- `.shadow-b-3` - Box Shadow Bottom 3rem
-- `.shadow-b-2` - Box Shadow Bottom 2rem
-- `.shadow-b-1` - Box Shadow Bottom 1rem
+- `.hover:shadow-b-10` - Box-Shadow unten 10rem beim Hover
+- `.hover:shadow-b-9` - Box-Shadow unten 9rem beim Hover
+- `.hover:shadow-b-8` - Box-Shadow unten 8rem beim Hover
+- `.hover:shadow-b-7` - Box-Shadow unten 7rem beim Hover
+- `.hover:shadow-b-6` - Box-Shadow unten 6rem beim Hover
+- `.hover:shadow-b-5` - Box-Shadow unten 5rem beim Hover
+- `.hover:shadow-b-4` - Box-Shadow unten 4rem beim Hover
+- `.hover:shadow-b-3` - Box-Shadow unten 3rem beim Hover
+- `.hover:shadow-b-2` - Box-Shadow unten 2rem beim Hover
+- `.hover:shadow-b-1` - Box-Shadow unten 1rem beim Hover
+- `.shadow-b-10` - Box-Shadow unten 10rem
+- `.shadow-b-9` - Box-Shadow unten 9rem
+- `.shadow-b-8` - Box-Shadow unten 8rem
+- `.shadow-b-7` - Box-Shadow unten 7rem
+- `.shadow-b-6` - Box-Shadow unten 6rem
+- `.shadow-b-5` - Box-Shadow unten 5rem
+- `.shadow-b-4` - Box-Shadow unten 4rem
+- `.shadow-b-3` - Box-Shadow unten 3rem
+- `.shadow-b-2` - Box-Shadow unten 2rem
+- `.shadow-b-1` - Box-Shadow unten 1rem
 
 #### Box Shadow Left
 
 - `.hover:shadow-l-10` - Box Shadow links 10rem beim Schweben
 - `.hover:shadow-l-9` - Box Shadow links 9rem beim Schweben
-- `.hover:shadow-l-8` - Box Shadow Left 8rem beim Schweben
+- `.hover:shadow-l-8` - Box-Shadow links 8rem beim Hover
 - `.hover:shadow-l-7` - Box Shadow links 7rem beim Schweben
 - `.hover:shadow-l-6` - Box Shadow links 6rem beim Schweben
 - `.hover:shadow-l-5` - Box Shadow links 5rem beim Schweben
-- `.hover:shadow-l-4` - Box Shadow Left 4rem beim Schweben
+- `.hover:shadow-l-4` - Box-Shadow links 4rem beim Hover
 - `.hover:shadow-l-3` - Box Shadow links 3rem beim Schweben
-- `.hover:shadow-l-2` - Box Shadow Left 2rem beim Schweben
-- `.hover:shadow-l-1` - Box Shadow Left 1rem beim Schweben
-- `.shadow-l-10` - Box Shadow Left 10rem
-- `.shadow-l-9` - Box Shadow Left 9rem
-- `.shadow-l-8` - Box Shadow Left 8rem
-- `.shadow-l-7` - Box Shadow Left 7rem
-- `.shadow-l-6` - Box Shadow Left 6rem
-- `.shadow-l-5` - Box Shadow Left 5rem
-- `.shadow-l-4` - Box Shadow Left 4rem
-- `.shadow-l-3` - Box Shadow Left 3rem
-- `.shadow-l-2` - Box Shadow Left 2rem
-- `.shadow-l-1` - Box Shadow Left 1rem
+- `.hover:shadow-l-2` - Box-Shadow links 2rem beim Hover
+- `.hover:shadow-l-1` - Box-Shadow links 1rem beim Hover
+- `.shadow-l-10` - Box-Shadow links 10rem
+- `.shadow-l-9` - Box-Shadow links 9rem
+- `.shadow-l-8` - Box-Shadow links 8rem
+- `.shadow-l-7` - Box-Shadow links 7rem
+- `.shadow-l-6` - Box-Shadow links 6rem
+- `.shadow-l-5` - Box-Shadow links 5rem
+- `.shadow-l-4` - Box-Shadow links 4rem
+- `.shadow-l-3` - Box-Shadow links 3rem
+- `.shadow-l-2` - Box-Shadow links 2rem
+- `.shadow-l-1` - Box-Shadow links 1rem
 
 #### Box Shadow Right
 
-- `.hover:shadow-r-10` - Box Shadow Right 10rem beim Schweben
-- `.hover:shadow-r-9` - Box Shadow Right 9rem beim Schweben
-- `.hover:shadow-r-8` - Box Shadow Right 8rem beim Schweben
-- `.hover:shadow-r-7` - Box Shadow Right 7rem beim Schweben
-- `.hover:shadow-r-6` - Box Shadow Right 6rem beim Schweben
-- `.hover:shadow-r-5` - Box Shadow Right 5rem beim Schweben
-- `.hover:shadow-r-4` - Box Shadow Right 4rem beim Schweben
-- `.hover:shadow-r-3` - Box Shadow Right 3rem beim Schweben
-- `.hover:shadow-r-2` - Box Shadow Right 2rem beim Schweben
-- `.hover:shadow-r-1` - Box Shadow Right 1rem beim Schweben
+- `.hover:shadow-r-10` - Box Shadow Rechts 10rem beim Hover
+- `.hover:shadow-r-9` - Box Shadow Rechts 9rem beim Hover
+- `.hover:shadow-r-8` - Box Shadow Rechts 8rem beim Hover
+- `.hover:shadow-r-7` - Box Shadow Rechts 7rem beim Hover
+- `.hover:shadow-r-6` - Box Shadow Rechts 6rem beim Hover
+- `.hover:shadow-r-5` - Box Shadow Rechts 5rem beim Hover
+- `.hover:shadow-r-4` - Box Shadow Rechts 4rem beim Hover
+- `.hover:shadow-r-3` - Box Shadow Rechts 3rem beim Hover
+- `.hover:shadow-r-2` - Box Shadow Rechts 2rem beim Hover
+- `.hover:shadow-r-1` - Box Shadow Rechts 1rem beim Hover
 - `.shadow-r-10` - Box Shadow Rechts 10rem
 - `.shadow-r-9` - Box Shadow Rechts 9rem
 - `.shadow-r-8` - Box Shadow Rechts 8rem
@@ -4976,26 +4976,26 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 #### Box Shadow Top
 
-- `.hover:shadow-t-10` - Box Shadow Top 10rem beim Schweben
-- `.hover:shadow-t-9` - Box Shadow Top 9rem beim Schweben
-- `.hover:shadow-t-8` - Box Shadow Top 8rem beim Schweben
-- `.hover:shadow-t-7` - Box Shadow Top 7rem im Schwebeflug
-- `.hover:shadow-t-6` - Box Shadow Top 6rem beim Schweben
-- `.hover:shadow-t-5` - Box Shadow Top 5rem beim Schweben
-- `.hover:shadow-t-4` - Box Shadow Top 4rem im Schwebeflug
-- `.hover:shadow-t-3` - Box Shadow Top 3rem beim Schweben
-- `.hover:shadow-t-2` - Box Shadow Top 2rem beim Schweben
-- `.hover:shadow-t-1` - Box Shadow Top 1rem beim Schweben
-- `.shadow-t-10` - Box Shadow Top 10rem
-- `.shadow-t-9` - Box Shadow Top 9rem
-- `.shadow-t-8` - Box Shadow Top 8rem
-- `.shadow-t-7` - Box Shadow Top 7rem
-- `.shadow-t-6` - Box Shadow Top 6rem
-- `.shadow-t-5` - Box Shadow Top 5rem
-- `.shadow-t-4` - Box Shadow Top 4rem
-- `.shadow-t-3` - Box Shadow Top 3rem
-- `.shadow-t-2` - Box Shadow Top 2rem
-- `.shadow-t-1` - Box Shadow Top 1rem
+- `.hover:shadow-t-10` - Box-Shadow oben 10rem beim Hover
+- `.hover:shadow-t-9` - Box-Shadow oben 9rem beim Hover
+- `.hover:shadow-t-8` - Box-Shadow oben 8rem beim Hover
+- `.hover:shadow-t-7` - Box-Shadow oben 7rem beim Hover
+- `.hover:shadow-t-6` - Box-Shadow oben 6rem beim Hover
+- `.hover:shadow-t-5` - Box-Shadow oben 5rem beim Hover
+- `.hover:shadow-t-4` - Box-Shadow oben 4rem beim Hover
+- `.hover:shadow-t-3` - Box-Shadow oben 3rem beim Hover
+- `.hover:shadow-t-2` - Box-Shadow oben 2rem beim Hover
+- `.hover:shadow-t-1` - Box-Shadow oben 1rem beim Hover
+- `.shadow-t-10` - Box-Shadow oben 10rem
+- `.shadow-t-9` - Box-Shadow oben 9rem
+- `.shadow-t-8` - Box-Shadow oben 8rem
+- `.shadow-t-7` - Box-Shadow oben 7rem
+- `.shadow-t-6` - Box-Shadow oben 6rem
+- `.shadow-t-5` - Box-Shadow oben 5rem
+- `.shadow-t-4` - Box-Shadow oben 4rem
+- `.shadow-t-3` - Box-Shadow oben 3rem
+- `.shadow-t-2` - Box-Shadow oben 2rem
+- `.shadow-t-1` - Box-Shadow oben 1rem
 
 #### Box Shadow X-Axis
 
@@ -5208,14 +5208,14 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:translate-x-2` - Verschieben Sie die X-Achse 2rem beim Schweben
 - `.hover:translate-x-1.5` - Verschieben Sie die X-Achse 0rem beim Hover
 - `.hover:translate-x-1` - Verschieben Sie die X-Achse 1rem beim Schweben
-- `.hover:translate-x-0.5` - Verschieben Sie die X-Achse beim Schweben um 0,5 rem
+- `.hover:translate-x-0.5` - Verschieben Sie die X-Achse beim Schweben um 0,5rem
 - `.hover:translate-x-0` - Verschieben Sie die X-Achse 0rem beim Hover
 - `.translate-x-50` - X-Achse 50 % verschieben
 - `.translate-x-25` - X-Achse um 25 % verschieben
 - `.translate-x-2` - X-Achse 2rem verschieben
 - `.translate-x-1.5` - X-Achse 0rem verschieben
 - `.translate-x-1` - X-Achse 1rem verschieben
-- `.translate-x-0.5` - Verschieben Sie die X-Achse um 0,5 rem
+- `.translate-x-0.5` - Verschieben Sie die X-Achse um 0,5rem
 - `.translate-x-0` - X-Achse 0rem verschieben
 
 ##### Negative Translate X-Axis
@@ -5231,7 +5231,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:-translate-x-2` - Negativ X-Achse 2rem verschieben beim Schweben
 - `.hover:-translate-x-1.5` - Negative Verschiebung der X-Achse 1,5rem beim Schweben
 - `.hover:-translate-x-1` - Negative Verschiebung der X-Achse 1rem beim Schweben
-- `.hover:-translate-x-0.5` - Negative Verschiebung der X-Achse um 0,5 Rem beim Schweben
+- `.hover:-translate-x-0.5` - Negative Verschiebung der X-Achse um 0,5rem beim Schweben
 
 #### Translate Y-Axis
 
@@ -5240,14 +5240,14 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:translate-y-2` - Übersetzen Sie die Y-Achse 2rem beim Schweben
 - `.hover:translate-y-1.5` - Übersetzen Sie die Y-Achse 0rem beim Schweben
 - `.hover:translate-y-1` - Verschieben Sie die Y-Achse 1rem beim Hover
-- `.hover:translate-y-0.5` - Verschieben Sie die Y-Achse beim Schweben um 0,5 rem
+- `.hover:translate-y-0.5` - Verschieben Sie die Y-Achse beim Schweben um 0,5rem
 - `.hover:translate-y-0` - Übersetzen Sie die Y-Achse 0rem beim Schweben
 - `.translate-y-50` - Y-Achse 50 % verschieben
 - `.translate-y-25` - Y-Achse um 25 % verschieben
 - `.translate-y-2` - Y-Achse 2rem verschieben
 - `.translate-y-1.5` - Y-Achse 0rem verschieben
 - `.translate-y-1` - Y-Achse 1rem verschieben
-- `.translate-y-0.5` - Verschieben Sie die Y-Achse um 0,5 rem
+- `.translate-y-0.5` - Verschieben Sie die Y-Achse um 0,5rem
 - `.translate-y-0` - Y-Achse 0rem verschieben
 
 ##### Negative Translate Y-Axis
@@ -5263,7 +5263,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:-translate-y-2` - Negativ Y-Achse 2rem verschieben beim Schweben
 - `.hover:-translate-y-1.5` - Negative Verschiebung der Y-Achse 1,5rem beim Schweben
 - `.hover:-translate-y-1` - Negativ Y-Achse 1rem verschieben beim Schweben
-- `.hover:-translate-y-0.5` - Negative Verschiebung der Y-Achse um 0,5 Rem beim Schweben
+- `.hover:-translate-y-0.5` - Negative Verschiebung der Y-Achse um 0,5rem beim Schweben
 
 ### Zoom
 
@@ -5375,7 +5375,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 ### Mse
 
 - `.hover:mse-2` - Mse 2rem beim Schweben
-- `.hover:mse-1.5` - Mse 1,5rem im Schwebeflug
+- `.hover:mse-1.5` - Mse 1.5rem beim Hover
 - `.hover:mse-1` - Mse 1rem beim Schweben
 - `.hover:mse-0.5` - Mse 0,5rem beim Schweben
 - `.hover:mse-0` - Mse 0rem beim Schweben

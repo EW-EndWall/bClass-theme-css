@@ -294,120 +294,120 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Float
 
-- `.float-end` - Şamandıra sonu
-- `.float-left` - Sola kayan
-- `.float-none` - Hiçbiri kayan
-- `.float-right` - Sağa doğru süzül
-- `.float-start` - Kayan başlangıç
-- `.hover:float-end` - Fareyle üzerine gelindiğinde kayan nokta
-- `.hover:float-left` - Fareyle üzerine gelindiğinde sola doğru süzülme
-- `.hover:float-none` - Fareyle üzerine gelindiğinde hiçbiri kayan
-- `.hover:float-right` - Fareyle üzerine gelindiğinde sağa doğru süzülün
-- `.hover:float-start` - Fareyle üzerine gelindiğinde kayan başlangıç
+- `.float-end` - Float bitiş
+- `.float-left` - Float sol
+- `.float-none` - Float yok
+- `.float-right` - Float sağ
+- `.float-start` - Float başlangıç
+- `.hover:float-end` - Fareyle üzerine gelindiğinde float bitiş
+- `.hover:float-left` - Fareyle üzerine gelindiğinde float sol
+- `.hover:float-none` - Fareyle üzerine gelindiğinde float yok
+- `.hover:float-right` - Fareyle üzerine gelindiğinde float sağ
+- `.hover:float-start` - Fareyle üzerine gelindiğinde float başlangıç
 
 ##### Float - Mobile (≤ 480px)
 
-- `.hover:mobile:float-end` - Mobil cihazda fareyle üzerine gelindiğinde kayan nokta
-- `.hover:mobile:float-left` - Mobil cihazda fareyle üzerine gelindiğinde sola doğru kayan
-- `.hover:mobile:float-none` - Mobil cihazda fareyle üzerine gelindiğinde hiçbiri kayan
-- `.hover:mobile:float-right` - Mobil cihazda fareyle üzerine gelindiğinde sağa doğru süzülün
-- `.hover:mobile:float-start` - Mobil cihazda fareyle üzerine gelindiğinde kayan başlangıç
-- `.mobile:float-end` - Mobil cihazda kayan uç
-- `.mobile:float-left` - Mobil cihazda sola doğru kayan
-- `.mobile:float-none` - Mobil cihazda hiçbiri kayan
-- `.mobile:float-right` - Mobil cihazda sağa doğru süzülün
-- `.mobile:float-start` - Mobil cihazda kayan başlangıç
+- `.hover:mobile:float-end` - Mobil cihazda fareyle üzerine gelindiğinde float bitiş
+- `.hover:mobile:float-left` - Mobil cihazda fareyle üzerine gelindiğinde float sol
+- `.hover:mobile:float-none` - Mobil cihazda fareyle üzerine gelindiğinde float yok
+- `.hover:mobile:float-right` - Mobil cihazda fareyle üzerine gelindiğinde float sağ
+- `.hover:mobile:float-start` - Mobil cihazda fareyle üzerine gelindiğinde float başlangıç
+- `.mobile:float-end` - Mobil cihazda float bitiş
+- `.mobile:float-left` - Mobil cihazda float sol
+- `.mobile:float-none` - Mobil cihazda float yok
+- `.mobile:float-right` - Mobil cihazda float sağ
+- `.mobile:float-start` - Mobil cihazda float başlangıç
 
 ##### Float - Tablet (480px - 768px)
 
-- `.hover:tablet:float-end` - Tabletin üzerine gelindiğinde kayan uç
-- `.hover:tablet:float-left` - Tablette fareyle üzerine gelindiğinde sola doğru kayan
-- `.hover:tablet:float-none` - Tabletin üzerine gelindiğinde hiçbiri kayan
-- `.hover:tablet:float-right` - Tabletin üzerine gelindiğinde sağa doğru süzülün
-- `.hover:tablet:float-start` - Tablet üzerinde fareyle üzerine gelindiğinde kayan başlangıç
-- `.tablet:float-end` - Tablette kayan uç
-- `.tablet:float-left` - Tablette sola kayan
-- `.tablet:float-none` - Hiçbiri tablette kayan
-- `.tablet:float-right` - Tabletin üzerinde sağa doğru süzülün
-- `.tablet:float-start` - Tablette kayan başlangıç
+- `.hover:tablet:float-end` - Tablette fareyle üzerine gelindiğinde float bitiş
+- `.hover:tablet:float-left` - Tablette fareyle üzerine gelindiğinde float sol
+- `.hover:tablet:float-none` - Tablette fareyle üzerine gelindiğinde float yok
+- `.hover:tablet:float-right` - Tablette fareyle üzerine gelindiğinde float sağ
+- `.hover:tablet:float-start` - Tablette fareyle üzerine gelindiğinde float başlangıç
+- `.tablet:float-end` - Tablette float bitiş
+- `.tablet:float-left` - Tablette float sol
+- `.tablet:float-none` - Tablette float yok
+- `.tablet:float-right` - Tablette float sağ
+- `.tablet:float-start` - Tablette float başlangıç
 
 ##### Float - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:float-end` - Tablet bilgisayarda fareyle üzerine gelindiğinde kayan uç
-- `.hover:tablet-pc:float-left` - Tablet bilgisayarda fareyle üzerine gelindiğinde sola doğru kayan
-- `.hover:tablet-pc:float-none` - Tablet bilgisayarda fareyle üzerine gelindiğinde hiçbiri kayan
-- `.hover:tablet-pc:float-right` - Tablet bilgisayarda fareyle üzerine gelindiğinde sağa doğru süzülün
-- `.hover:tablet-pc:float-start` - Tablet bilgisayarda fareyle üzerine gelindiğinde kayan başlangıç
-- `.tablet-pc:float-end` - Tablet PC'de kayan uç
-- `.tablet-pc:float-left` - Tablet bilgisayarda sola doğru kayan
-- `.tablet-pc:float-none` - Tablet PC'de hiçbiri kayan
-- `.tablet-pc:float-right` - Tablet PC'de sağa doğru süzülün
-- `.tablet-pc:float-start` - Tablet PC'de kayan başlangıç
+- `.hover:tablet-pc:float-end` - Tablet bilgisayarda fareyle üzerine gelindiğinde float bitiş
+- `.hover:tablet-pc:float-left` - Tablet bilgisayarda fareyle üzerine gelindiğinde float sol
+- `.hover:tablet-pc:float-none` - Tablet bilgisayarda fareyle üzerine gelindiğinde float yok
+- `.hover:tablet-pc:float-right` - Tablet bilgisayarda fareyle üzerine gelindiğinde float sağ
+- `.hover:tablet-pc:float-start` - Tablet bilgisayarda fareyle üzerine gelindiğinde float başlangıç
+- `.tablet-pc:float-end` - Tablet bilgisayarda float bitiş
+- `.tablet-pc:float-left` - Tablet bilgisayarda float sol
+- `.tablet-pc:float-none` - Tablet bilgisayarda float yok
+- `.tablet-pc:float-right` - Tablet bilgisayarda float sağ
+- `.tablet-pc:float-start` - Tablet bilgisayarda float başlangıç
 
 ##### Float - Pc (992px - 1200px)
 
-- `.hover:pc:float-end` - PC'de fareyle üzerine gelindiğinde kayan nokta
-- `.hover:pc:float-left` - PC'de fareyle üzerine gelindiğinde sola doğru kayan
-- `.hover:pc:float-none` - PC'de fareyle üzerine gelindiğinde hiçbiri kayan
-- `.hover:pc:float-right` - PC'de fareyle üzerine gelindiğinde sağa doğru süzülün
-- `.hover:pc:float-start` - PC'de fareyle üzerine gelindiğinde kayan başlangıç
-- `.pc:float-end` - PC'de kayan nokta
-- `.pc:float-left` - PC'de sola doğru kayan
-- `.pc:float-none` - Hiçbiri PC'de kayan
-- `.pc:float-right` - PC'de sağa doğru süzülün
-- `.pc:float-start` - PC'de kayan başlangıç
+- `.hover:pc:float-end` - PC'de fareyle üzerine gelindiğinde float bitiş
+- `.hover:pc:float-left` - PC'de fareyle üzerine gelindiğinde float sol
+- `.hover:pc:float-none` - PC'de fareyle üzerine gelindiğinde float yok
+- `.hover:pc:float-right` - PC'de fareyle üzerine gelindiğinde float sağ
+- `.hover:pc:float-start` - PC'de fareyle üzerine gelindiğinde float başlangıç
+- `.pc:float-end` - PC'de float bitiş
+- `.pc:float-left` - PC'de float sol
+- `.pc:float-none` - PC'de float yok
+- `.pc:float-right` - PC'de float sağ
+- `.pc:float-start` - PC'de float başlangıç
 
 ##### Float - Tv (≥ 1200px)
 
-- `.hover:tv:float-end` - Televizyonun üzerine gelindiğinde kayan nokta
-- `.hover:tv:float-left` - TV'de fareyle üzerine gelindiğinde sola doğru kayan
-- `.hover:tv:float-none` - Hiçbiri TV'nin üzerine gelindiğinde kayan
-- `.hover:tv:float-right` - TV'de fareyle üzerine gelindiğinde sağa doğru süzülün
-- `.hover:tv:float-start` - Televizyonun üzerine gelindiğinde kayan başlangıç
-- `.tv:float-end` - Televizyonda kayan nokta
-- `.tv:float-left` - Televizyonda sola kayan
-- `.tv:float-none` - Hiçbiri televizyonda yayınlanmıyor
-- `.tv:float-right` - Televizyonda sağa doğru süzülün
-- `.tv:float-start` - Televizyonda kayan başlangıç
+- `.hover:tv:float-end` - TV'de fareyle üzerine gelindiğinde float bitiş
+- `.hover:tv:float-left` - TV'de fareyle üzerine gelindiğinde float sol
+- `.hover:tv:float-none` - TV'de fareyle üzerine gelindiğinde float yok
+- `.hover:tv:float-right` - TV'de fareyle üzerine gelindiğinde float sağ
+- `.hover:tv:float-start` - TV'de fareyle üzerine gelindiğinde float başlangıç
+- `.tv:float-end` - TV'de float bitiş
+- `.tv:float-left` - TV'de float sol
+- `.tv:float-none` - TV'de float yok
+- `.tv:float-right` - TV'de float sağ
+- `.tv:float-start` - TV'de float başlangıç
 
 ##### Float - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:float-end` - Maksimum tabletin üzerinde fareyle üzerine gelindiğinde kayan uç
-- `.hover:tablet-max:float-left` - Tablet max üzerinde fareyle üzerine gelindiğinde sola doğru kayan
-- `.hover:tablet-max:float-none` - Tablet max üzerinde fareyle üzerine gelindiğinde hiçbiri kayan
-- `.hover:tablet-max:float-right` - Tablet max üzerinde fareyle üzerine gelindiğinde sağa doğru süzülün
-- `.hover:tablet-max:float-start` - Maksimum tablette fareyle üzerine gelindiğinde kayan başlangıç
-- `.tablet-max:float-end` - Maksimum tablette kayan uç
-- `.tablet-max:float-left` - Maksimum tablette sola doğru kayan
-- `.tablet-max:float-none` - Hiçbiri tablet max'ta kayan
-- `.tablet-max:float-right` - Maksimum tablette sağa doğru süzülün
-- `.tablet-max:float-start` - Maksimum tablette kayan başlangıç
+- `.hover:tablet-max:float-end` - Tablette (maks.) fareyle üzerine gelindiğinde float bitiş
+- `.hover:tablet-max:float-left` - Tablette (maks.) fareyle üzerine gelindiğinde float sol
+- `.hover:tablet-max:float-none` - Tablette (maks.) fareyle üzerine gelindiğinde float yok
+- `.hover:tablet-max:float-right` - Tablette (maks.) fareyle üzerine gelindiğinde float sağ
+- `.hover:tablet-max:float-start` - Tablette (maks.) fareyle üzerine gelindiğinde float başlangıç
+- `.tablet-max:float-end` - Tablette (maks.) float bitiş
+- `.tablet-max:float-left` - Tablette (maks.) float sol
+- `.tablet-max:float-none` - Tablette (maks.) float yok
+- `.tablet-max:float-right` - Tablette (maks.) float sağ
+- `.tablet-max:float-start` - Tablette (maks.) float başlangıç
 
 ##### Float - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:float-end` - Tablet PC max üzerinde fareyle üzerine gelindiğinde kayan uç
-- `.hover:tablet-pc-max:float-left` - Tablet PC max'ta fareyle üzerine gelindiğinde sola doğru kayan
-- `.hover:tablet-pc-max:float-none` - Tablet PC max üzerinde fareyle üzerine gelindiğinde hiçbiri kayan
-- `.hover:tablet-pc-max:float-right` - Tablet PC max üzerinde fareyle üzerine gelindiğinde sağa doğru süzülün
-- `.hover:tablet-pc-max:float-start` - Tablet PC max'ta fareyle üzerine gelindiğinde kayan başlangıç
-- `.tablet-pc-max:float-end` - Tablet PC max'ta kayan uç
-- `.tablet-pc-max:float-left` - Tablet PC max'ta sola doğru kayan
-- `.tablet-pc-max:float-none` - Hiçbiri tablet pc max'ta kayan
-- `.tablet-pc-max:float-right` - Tablet PC max'ta sağa doğru süzülün
-- `.tablet-pc-max:float-start` - Tablet PC Max'te kayan başlangıç
+- `.hover:tablet-pc-max:float-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde float bitiş
+- `.hover:tablet-pc-max:float-left` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde float sol
+- `.hover:tablet-pc-max:float-none` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde float yok
+- `.hover:tablet-pc-max:float-right` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde float sağ
+- `.hover:tablet-pc-max:float-start` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde float başlangıç
+- `.tablet-pc-max:float-end` - Tablet bilgisayarda (maks.) float bitiş
+- `.tablet-pc-max:float-left` - Tablet bilgisayarda (maks.) float sol
+- `.tablet-pc-max:float-none` - Tablet bilgisayarda (maks.) float yok
+- `.tablet-pc-max:float-right` - Tablet bilgisayarda (maks.) float sağ
+- `.tablet-pc-max:float-start` - Tablet bilgisayarda (maks.) float başlangıç
 
 ##### Float - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:float-end` - PC max'ta fareyle üzerine gelindiğinde kayan nokta
-- `.hover:pc-max:float-left` - PC max'ta fareyle üzerine gelindiğinde sola doğru süzülün
-- `.hover:pc-max:float-none` - PC max üzerinde fareyle üzerine gelindiğinde hiçbiri kayan
-- `.hover:pc-max:float-right` - PC max'ta fareyle üzerine gelindiğinde sağa doğru süzülün
-- `.hover:pc-max:float-start` - PC max'ta fareyle üzerine gelindiğinde kayan başlangıç
-- `.pc-max:float-end` - PC max'ta kayan uç
-- `.pc-max:float-left` - PC max'ta sola doğru kayan
-- `.pc-max:float-none` - PC max'ta hiçbiri kayan
-- `.pc-max:float-right` - PC max'ta sağa doğru süzülün
-- `.pc-max:float-start` - PC max'ta kayan başlangıç
+- `.hover:pc-max:float-end` - PC'de (maks.) fareyle üzerine gelindiğinde float bitiş
+- `.hover:pc-max:float-left` - PC'de (maks.) fareyle üzerine gelindiğinde float sol
+- `.hover:pc-max:float-none` - PC'de (maks.) fareyle üzerine gelindiğinde float yok
+- `.hover:pc-max:float-right` - PC'de (maks.) fareyle üzerine gelindiğinde float sağ
+- `.hover:pc-max:float-start` - PC'de (maks.) fareyle üzerine gelindiğinde float başlangıç
+- `.pc-max:float-end` - PC'de (maks.) float bitiş
+- `.pc-max:float-left` - PC'de (maks.) float sol
+- `.pc-max:float-none` - PC'de (maks.) float yok
+- `.pc-max:float-right` - PC'de (maks.) float sağ
+- `.pc-max:float-start` - PC'de (maks.) float başlangıç
 
 ### Object
 
@@ -925,9 +925,9 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.gap-0.4` - Tüm Boşluk 0rem
 - `.gap-0.3` - Tüm Boşluk 0rem
 - `.gap-0.2` - Tüm Boşluk 0,2rem
-- `.gap-0.1` - Tüm Boşluk 0,1 rem
+- `.gap-0.1` - Tüm Boşluk 0,1rem
 - `.gap-0` - Tüm Boşluk 0rem
-- `.hover:gap-5` - Fareyle üzerine gelindiğinde 5rem'in tamamındaki boşluk
+- `.hover:gap-5` - Fareyle üzerine gelindiğinde tüm Boşluk 5rem
 - `.hover:gap-4.5` - Vurguluyken Tüm 0rem'i Boşaltın
 - `.hover:gap-4` - Fareyle üzerine gelindiğinde Tüm 4rem'deki boşluk
 - `.hover:gap-3.5` - Vurguluyken Tüm 0rem'i Boşaltın
@@ -952,7 +952,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:gap-0.4` - Vurguluyken Tüm 0rem'i Boşaltın
 - `.hover:gap-0.3` - Vurguluyken Tüm 0rem'i Boşaltın
 - `.hover:gap-0.2` - Fareyle üzerine gelindiğinde Tüm Boşluk 0,2rem
-- `.hover:gap-0.1` - Fareyle üzerine gelindiğinde Tüm Boşluk 0,1 rem
+- `.hover:gap-0.1` - Fareyle üzerine gelindiğinde Tüm Boşluk 0,1rem
 - `.hover:gap-0` - Vurguluyken Tüm 0rem'i Boşaltın
 
 #### Gap X-Axis
@@ -981,8 +981,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.gap-x-0.5` - Boşluk X Ekseni 0rem
 - `.gap-x-0.4` - Boşluk X Ekseni 0rem
 - `.gap-x-0.3` - Boşluk X Ekseni 0rem
-- `.gap-x-0.2` - Boşluk X Ekseni 0,2 rem
-- `.gap-x-0.1` - Boşluk X Ekseni 0,1 rem
+- `.gap-x-0.2` - Boşluk X Ekseni 0,2rem
+- `.gap-x-0.1` - Boşluk X Ekseni 0,1rem
 - `.gap-x-0` - Boşluk X Ekseni 0rem
 - `.hover:gap-x-5` - Fareyle üzerine gelindiğinde X Ekseni Gap 5rem
 - `.hover:gap-x-4.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
@@ -1039,7 +1039,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.gap-y-0.4` - Boşluk Y Ekseni 0rem
 - `.gap-y-0.3` - Boşluk Y Ekseni 0rem
 - `.gap-y-0.2` - Boşluk Y Ekseni 0,2rem
-- `.gap-y-0.1` - Boşluk Y Ekseni 0,1 rem
+- `.gap-y-0.1` - Boşluk Y Ekseni 0,1rem
 - `.gap-y-0` - Boşluk Y Ekseni 0rem
 - `.hover:gap-y-5` - Fareyle üzerine gelindiğinde Y Ekseni boşluğu 5rem
 - `.hover:gap-y-4.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
@@ -1066,510 +1066,510 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:gap-y-0.4` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
 - `.hover:gap-y-0.3` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
 - `.hover:gap-y-0.2` - Vurguluyken Y Ekseni Boşluğu 0,2rem
-- `.hover:gap-y-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0,1 rem
+- `.hover:gap-y-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0,1rem
 - `.hover:gap-y-0` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
 
 ### Align content
 
-- `.align-content-around` - İçeriği hizalayın
-- `.align-content-between` - İçerikleri arasında hizalayın
-- `.align-content-center` - İçerik merkezini hizalayın
-- `.align-content-end` - İçerik ucunu hizala
-- `.align-content-evenly` - İçeriği eşit şekilde hizalayın
-- `.align-content-start` - İçerik başlangıcını hizala
-- `.align-content-stretch` - İçerik genişletmeyi hizalayın
-- `.hover:align-content-around` - İçeriği fareyle üzerine gelindiğinde hizalayın
-- `.hover:align-content-between` - İçeriği fareyle üzerine gelindiğinde hizalama
-- `.hover:align-content-center` - Fareyle üzerine gelindiğinde içerik merkezini hizalayın
-- `.hover:align-content-end` - İçerik ucunu fareyle üzerine gelindiğinde hizalayın
-- `.hover:align-content-evenly` - İçeriği fareyle üzerine gelindiğinde eşit şekilde hizalayın
-- `.hover:align-content-start` - İçerik başlangıcını fareyle üzerine gelindiğinde hizalayın
-- `.hover:align-content-stretch` - Fareyle üzerine gelindiğinde içerik uzantısını hizalayın
+- `.align-content-around` - İçerik hizalama: around
+- `.align-content-between` - İçerik hizalama: between
+- `.align-content-center` - İçerik hizalama: orta
+- `.align-content-end` - İçerik hizalama: bitiş
+- `.align-content-evenly` - İçerik hizalama: evenly
+- `.align-content-start` - İçerik hizalama: başlangıç
+- `.align-content-stretch` - İçerik hizalama: stretch
+- `.hover:align-content-around` - Fareyle üzerine gelindiğinde içerik hizalama: around
+- `.hover:align-content-between` - Fareyle üzerine gelindiğinde içerik hizalama: between
+- `.hover:align-content-center` - Fareyle üzerine gelindiğinde içerik hizalama: orta
+- `.hover:align-content-end` - Fareyle üzerine gelindiğinde içerik hizalama: bitiş
+- `.hover:align-content-evenly` - Fareyle üzerine gelindiğinde içerik hizalama: evenly
+- `.hover:align-content-start` - Fareyle üzerine gelindiğinde içerik hizalama: başlangıç
+- `.hover:align-content-stretch` - Fareyle üzerine gelindiğinde içerik hizalama: stretch
 
 ##### Align content - Mobile (≤ 480px)
 
-- `.hover:mobile:align-content-around` - Mobil cihazda fareyle üzerine gelindiğinde içeriği hizalayın
-- `.hover:mobile:align-content-between` - Mobil cihazda fareyle üzerine gelindiğinde içeriği hizalayın
-- `.hover:mobile:align-content-center` - Mobil cihazda fareyle üzerine gelindiğinde içerik merkezini hizalayın
-- `.hover:mobile:align-content-end` - Mobil cihazda fareyle üzerine gelindiğinde içeriğin ucunu hizalayın
-- `.hover:mobile:align-content-evenly` - Mobil cihazda fareyle üzerine gelindiğinde içeriği eşit şekilde hizalayın
-- `.hover:mobile:align-content-start` - Mobil cihazda fareyle üzerine gelindiğinde içerik başlangıcını hizalayın
-- `.hover:mobile:align-content-stretch` - Mobil cihazda fareyle üzerine gelindiğinde içerik uzantısını hizalayın
-- `.mobile:align-content-around` - İçeriği mobil cihazlarda hizalayın
-- `.mobile:align-content-between` - İçeriği mobil cihazlar arasında hizalayın
-- `.mobile:align-content-center` - İçerik merkezini mobil cihazda hizalayın
-- `.mobile:align-content-end` - Mobil cihazda içerik ucunu hizalayın
-- `.mobile:align-content-evenly` - İçeriği mobil cihazlarda eşit şekilde hizalayın
-- `.mobile:align-content-start` - Mobil cihazda içerik başlangıcını hizalayın
-- `.mobile:align-content-stretch` - Mobil cihazlarda içerik genişletmeyi hizalayın
+- `.hover:mobile:align-content-around` - Mobil cihazda fareyle üzerine gelindiğinde içerik hizalama: around
+- `.hover:mobile:align-content-between` - Mobil cihazda fareyle üzerine gelindiğinde içerik hizalama: between
+- `.hover:mobile:align-content-center` - Mobil cihazda fareyle üzerine gelindiğinde içerik hizalama: orta
+- `.hover:mobile:align-content-end` - Mobil cihazda fareyle üzerine gelindiğinde içerik hizalama: bitiş
+- `.hover:mobile:align-content-evenly` - Mobil cihazda fareyle üzerine gelindiğinde içerik hizalama: evenly
+- `.hover:mobile:align-content-start` - Mobil cihazda fareyle üzerine gelindiğinde içerik hizalama: başlangıç
+- `.hover:mobile:align-content-stretch` - Mobil cihazda fareyle üzerine gelindiğinde içerik hizalama: stretch
+- `.mobile:align-content-around` - Mobil cihazda içerik hizalama: around
+- `.mobile:align-content-between` - Mobil cihazda içerik hizalama: between
+- `.mobile:align-content-center` - Mobil cihazda içerik hizalama: orta
+- `.mobile:align-content-end` - Mobil cihazda içerik hizalama: bitiş
+- `.mobile:align-content-evenly` - Mobil cihazda içerik hizalama: evenly
+- `.mobile:align-content-start` - Mobil cihazda içerik hizalama: başlangıç
+- `.mobile:align-content-stretch` - Mobil cihazda içerik hizalama: stretch
 
 ##### Align content - Tablet (480px - 768px)
 
-- `.hover:tablet:align-content-around` - İçeriği tablette fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet:align-content-between` - İçeriği tablette fareyle üzerine gelindiğinde hizalama
-- `.hover:tablet:align-content-center` - İçerik merkezini tablet üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet:align-content-end` - İçerik ucunu tablette fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet:align-content-evenly` - Tabletin üzerine gelindiğinde içeriği eşit şekilde hizalayın
-- `.hover:tablet:align-content-start` - İçerik başlangıcını tablette fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet:align-content-stretch` - Tablette fareyle üzerine gelindiğinde içerik uzantısını hizalayın
-- `.tablet:align-content-around` - İçeriği tablette hizalayın
-- `.tablet:align-content-between` - İçeriği tablettekiler arasında hizalayın
-- `.tablet:align-content-center` - İçerik merkezini tablette hizalayın
-- `.tablet:align-content-end` - İçerik ucunu tablette hizalayın
-- `.tablet:align-content-evenly` - İçeriği tablette eşit şekilde hizalayın
-- `.tablet:align-content-start` - Tabletteki içerik başlangıcını hizalayın
-- `.tablet:align-content-stretch` - Tabletteki içerik genişletmeyi hizalama
+- `.hover:tablet:align-content-around` - Tablette fareyle üzerine gelindiğinde içerik hizalama: around
+- `.hover:tablet:align-content-between` - Tablette fareyle üzerine gelindiğinde içerik hizalama: between
+- `.hover:tablet:align-content-center` - Tablette fareyle üzerine gelindiğinde içerik hizalama: orta
+- `.hover:tablet:align-content-end` - Tablette fareyle üzerine gelindiğinde içerik hizalama: bitiş
+- `.hover:tablet:align-content-evenly` - Tablette fareyle üzerine gelindiğinde içerik hizalama: evenly
+- `.hover:tablet:align-content-start` - Tablette fareyle üzerine gelindiğinde içerik hizalama: başlangıç
+- `.hover:tablet:align-content-stretch` - Tablette fareyle üzerine gelindiğinde içerik hizalama: stretch
+- `.tablet:align-content-around` - Tablette içerik hizalama: around
+- `.tablet:align-content-between` - Tablette içerik hizalama: between
+- `.tablet:align-content-center` - Tablette içerik hizalama: orta
+- `.tablet:align-content-end` - Tablette içerik hizalama: bitiş
+- `.tablet:align-content-evenly` - Tablette içerik hizalama: evenly
+- `.tablet:align-content-start` - Tablette içerik hizalama: başlangıç
+- `.tablet:align-content-stretch` - Tablette içerik hizalama: stretch
 
 ##### Align content - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:align-content-around` - İçeriği tablet bilgisayarda fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-pc:align-content-between` - İçeriği tablet bilgisayarda fareyle üzerine gelindiğinde hizalama
-- `.hover:tablet-pc:align-content-center` - İçerik merkezini tablet bilgisayardaki fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-pc:align-content-end` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik ucunu hizalayın
-- `.hover:tablet-pc:align-content-evenly` - İçeriği tablet bilgisayardaki fareyle üzerine gelindiğinde eşit şekilde hizalayın
-- `.hover:tablet-pc:align-content-start` - İçerik başlangıcını tablet bilgisayarda fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-pc:align-content-stretch` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik genişletmeyi hizalayın
-- `.tablet-pc:align-content-around` - Tablet PC'deki içeriği hizalayın
-- `.tablet-pc:align-content-between` - İçeriği tablet bilgisayar arasında hizalayın
-- `.tablet-pc:align-content-center` - Tablet PC'deki içerik merkezini hizalayın
-- `.tablet-pc:align-content-end` - Tablet PC'de içerik ucunu hizalayın
-- `.tablet-pc:align-content-evenly` - İçeriği tablet bilgisayarda eşit şekilde hizalayın
-- `.tablet-pc:align-content-start` - Tablet PC'de içerik başlangıcını hizalayın
-- `.tablet-pc:align-content-stretch` - Tablet bilgisayarda içerik genişletmeyi hizalama
+- `.hover:tablet-pc:align-content-around` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik hizalama: around
+- `.hover:tablet-pc:align-content-between` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik hizalama: between
+- `.hover:tablet-pc:align-content-center` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik hizalama: orta
+- `.hover:tablet-pc:align-content-end` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik hizalama: bitiş
+- `.hover:tablet-pc:align-content-evenly` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik hizalama: evenly
+- `.hover:tablet-pc:align-content-start` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik hizalama: başlangıç
+- `.hover:tablet-pc:align-content-stretch` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik hizalama: stretch
+- `.tablet-pc:align-content-around` - Tablet bilgisayarda içerik hizalama: around
+- `.tablet-pc:align-content-between` - Tablet bilgisayarda içerik hizalama: between
+- `.tablet-pc:align-content-center` - Tablet bilgisayarda içerik hizalama: orta
+- `.tablet-pc:align-content-end` - Tablet bilgisayarda içerik hizalama: bitiş
+- `.tablet-pc:align-content-evenly` - Tablet bilgisayarda içerik hizalama: evenly
+- `.tablet-pc:align-content-start` - Tablet bilgisayarda içerik hizalama: başlangıç
+- `.tablet-pc:align-content-stretch` - Tablet bilgisayarda içerik hizalama: stretch
 
 ##### Align content - Pc (992px - 1200px)
 
-- `.hover:pc:align-content-around` - PC'de fareyle üzerine gelindiğinde içeriği hizalayın
-- `.hover:pc:align-content-between` - İçeriği PC'de fareyle üzerine gelindiğinde hizalayın
-- `.hover:pc:align-content-center` - İçerik merkezini bilgisayardaki fareyle üzerine gelindiğinde hizalayın
-- `.hover:pc:align-content-end` - PC'de fareyle üzerine gelindiğinde içeriğin ucunu hizalayın
-- `.hover:pc:align-content-evenly` - PC'de fareyle üzerine gelindiğinde içeriği eşit şekilde hizalayın
-- `.hover:pc:align-content-start` - İçerik başlangıcını bilgisayarda fareyle üzerine gelindiğinde hizalayın
-- `.hover:pc:align-content-stretch` - PC'de fareyle üzerine gelindiğinde içerik uzantısını hizalayın
-- `.pc:align-content-around` - İçeriği PC'de hizalayın
-- `.pc:align-content-between` - İçeriği bilgisayardakiler arasında hizalayın
-- `.pc:align-content-center` - PC'deki içerik merkezini hizalayın
-- `.pc:align-content-end` - İçeriğin ucunu bilgisayarda hizalayın
-- `.pc:align-content-evenly` - İçeriği bilgisayarda eşit şekilde hizalayın
-- `.pc:align-content-start` - PC'de içerik başlangıcını hizalayın
-- `.pc:align-content-stretch` - PC'de içerik genişletmeyi hizalama
+- `.hover:pc:align-content-around` - PC'de fareyle üzerine gelindiğinde içerik hizalama: around
+- `.hover:pc:align-content-between` - PC'de fareyle üzerine gelindiğinde içerik hizalama: between
+- `.hover:pc:align-content-center` - PC'de fareyle üzerine gelindiğinde içerik hizalama: orta
+- `.hover:pc:align-content-end` - PC'de fareyle üzerine gelindiğinde içerik hizalama: bitiş
+- `.hover:pc:align-content-evenly` - PC'de fareyle üzerine gelindiğinde içerik hizalama: evenly
+- `.hover:pc:align-content-start` - PC'de fareyle üzerine gelindiğinde içerik hizalama: başlangıç
+- `.hover:pc:align-content-stretch` - PC'de fareyle üzerine gelindiğinde içerik hizalama: stretch
+- `.pc:align-content-around` - PC'de içerik hizalama: around
+- `.pc:align-content-between` - PC'de içerik hizalama: between
+- `.pc:align-content-center` - PC'de içerik hizalama: orta
+- `.pc:align-content-end` - PC'de içerik hizalama: bitiş
+- `.pc:align-content-evenly` - PC'de içerik hizalama: evenly
+- `.pc:align-content-start` - PC'de içerik hizalama: başlangıç
+- `.pc:align-content-stretch` - PC'de içerik hizalama: stretch
 
 ##### Align content - Tv (≥ 1200px)
 
-- `.hover:tv:align-content-around` - Televizyonun üzerine gelindiğinde içeriği hizalayın
-- `.hover:tv:align-content-between` - İçeriği TV'de fareyle üzerine gelindiğinde hizalama
-- `.hover:tv:align-content-center` - İçerik merkezini TV'de fareyle üzerine gelindiğinde hizalayın
-- `.hover:tv:align-content-end` - İçeriğin ucunu TV'de fareyle üzerine gelindiğinde hizalayın
-- `.hover:tv:align-content-evenly` - Televizyonun üzerine gelindiğinde içeriği eşit şekilde hizalayın
-- `.hover:tv:align-content-start` - İçerik başlangıcını TV'de fareyle üzerine gelindiğinde hizalayın
-- `.hover:tv:align-content-stretch` - TV'de fareyle üzerine gelindiğinde içerik uzantısını hizalayın
-- `.tv:align-content-around` - İçeriği TV'de hizalayın
-- `.tv:align-content-between` - İçeriği TV'dekiler arasında hizalayın
-- `.tv:align-content-center` - İçerik merkezini TV'de hizalayın
-- `.tv:align-content-end` - İçerik ucunu TV'de hizalayın
-- `.tv:align-content-evenly` - İçeriği TV'de eşit şekilde hizalayın
-- `.tv:align-content-start` - İçerik başlangıcını TV'de hizalayın
-- `.tv:align-content-stretch` - TV'deki içerik uzantısını hizalayın
+- `.hover:tv:align-content-around` - TV'de fareyle üzerine gelindiğinde içerik hizalama: around
+- `.hover:tv:align-content-between` - TV'de fareyle üzerine gelindiğinde içerik hizalama: between
+- `.hover:tv:align-content-center` - TV'de fareyle üzerine gelindiğinde içerik hizalama: orta
+- `.hover:tv:align-content-end` - TV'de fareyle üzerine gelindiğinde içerik hizalama: bitiş
+- `.hover:tv:align-content-evenly` - TV'de fareyle üzerine gelindiğinde içerik hizalama: evenly
+- `.hover:tv:align-content-start` - TV'de fareyle üzerine gelindiğinde içerik hizalama: başlangıç
+- `.hover:tv:align-content-stretch` - TV'de fareyle üzerine gelindiğinde içerik hizalama: stretch
+- `.tv:align-content-around` - TV'de içerik hizalama: around
+- `.tv:align-content-between` - TV'de içerik hizalama: between
+- `.tv:align-content-center` - TV'de içerik hizalama: orta
+- `.tv:align-content-end` - TV'de içerik hizalama: bitiş
+- `.tv:align-content-evenly` - TV'de içerik hizalama: evenly
+- `.tv:align-content-start` - TV'de içerik hizalama: başlangıç
+- `.tv:align-content-stretch` - TV'de içerik hizalama: stretch
 
 ##### Align content - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:align-content-around` - İçeriği tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-max:align-content-between` - İçeriği tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-max:align-content-center` - İçerik merkezini tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-max:align-content-end` - İçerik ucunu tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-max:align-content-evenly` - İçeriği tablet max üzerinde fareyle üzerine gelindiğinde eşit şekilde hizalayın
-- `.hover:tablet-max:align-content-start` - İçerik başlangıcını tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-max:align-content-stretch` - Tablet max üzerinde fareyle üzerine gelindiğinde içerik genişletmeyi hizalayın
-- `.tablet-max:align-content-around` - İçeriği tablet max'a göre hizalayın
-- `.tablet-max:align-content-between` - İçeriği tablet max arasında hizalayın
-- `.tablet-max:align-content-center` - İçerik merkezini tablet max'ta hizalayın
-- `.tablet-max:align-content-end` - İçeriğin ucunu tablet max'ta hizalayın
-- `.tablet-max:align-content-evenly` - İçeriği tablet max'ta eşit şekilde hizalayın
-- `.tablet-max:align-content-start` - İçerik başlangıcını tablet max'ta hizalayın
-- `.tablet-max:align-content-stretch` - Tablet max'te içerik genişletmeyi hizalayın
+- `.hover:tablet-max:align-content-around` - Tablette (maks.) fareyle üzerine gelindiğinde içerik hizalama: around
+- `.hover:tablet-max:align-content-between` - Tablette (maks.) fareyle üzerine gelindiğinde içerik hizalama: between
+- `.hover:tablet-max:align-content-center` - Tablette (maks.) fareyle üzerine gelindiğinde içerik hizalama: orta
+- `.hover:tablet-max:align-content-end` - Tablette (maks.) fareyle üzerine gelindiğinde içerik hizalama: bitiş
+- `.hover:tablet-max:align-content-evenly` - Tablette (maks.) fareyle üzerine gelindiğinde içerik hizalama: evenly
+- `.hover:tablet-max:align-content-start` - Tablette (maks.) fareyle üzerine gelindiğinde içerik hizalama: başlangıç
+- `.hover:tablet-max:align-content-stretch` - Tablette (maks.) fareyle üzerine gelindiğinde içerik hizalama: stretch
+- `.tablet-max:align-content-around` - Tablette (maks.) içerik hizalama: around
+- `.tablet-max:align-content-between` - Tablette (maks.) içerik hizalama: between
+- `.tablet-max:align-content-center` - Tablette (maks.) içerik hizalama: orta
+- `.tablet-max:align-content-end` - Tablette (maks.) içerik hizalama: bitiş
+- `.tablet-max:align-content-evenly` - Tablette (maks.) içerik hizalama: evenly
+- `.tablet-max:align-content-start` - Tablette (maks.) içerik hizalama: başlangıç
+- `.tablet-max:align-content-stretch` - Tablette (maks.) içerik hizalama: stretch
 
 ##### Align content - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:align-content-around` - Tablet PC Max'te fareyle üzerine gelindiğinde içeriği hizalayın
-- `.hover:tablet-pc-max:align-content-between` - İçeriği tablet PC max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-pc-max:align-content-center` - İçerik merkezini tablet pc max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-pc-max:align-content-end` - Tablet PC Max'te fareyle üzerine gelindiğinde içerik ucunu hizalayın
-- `.hover:tablet-pc-max:align-content-evenly` - Tablet PC max üzerinde fareyle üzerine gelindiğinde içeriği eşit şekilde hizalayın
-- `.hover:tablet-pc-max:align-content-start` - İçerik başlangıcını tablet pc max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-pc-max:align-content-stretch` - Tablet PC Max'te fareyle üzerine gelindiğinde içerik genişletmeyi hizalayın
-- `.tablet-pc-max:align-content-around` - İçeriği tablet pc max'a göre hizalayın
-- `.tablet-pc-max:align-content-between` - İçeriği tablet pc max arasında hizalayın
-- `.tablet-pc-max:align-content-center` - İçerik merkezini tablet pc max'ta hizalayın
-- `.tablet-pc-max:align-content-end` - Tablet PC max'ta içerik ucunu hizalayın
-- `.tablet-pc-max:align-content-evenly` - İçeriği tablet pc max'ta eşit şekilde hizalayın
-- `.tablet-pc-max:align-content-start` - Tablet PC Max'te içerik başlangıcını hizalayın
-- `.tablet-pc-max:align-content-stretch` - Tablet PC Max'te içerik genişletmeyi hizalama
+- `.hover:tablet-pc-max:align-content-around` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik hizalama: around
+- `.hover:tablet-pc-max:align-content-between` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik hizalama: between
+- `.hover:tablet-pc-max:align-content-center` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik hizalama: orta
+- `.hover:tablet-pc-max:align-content-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik hizalama: bitiş
+- `.hover:tablet-pc-max:align-content-evenly` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik hizalama: evenly
+- `.hover:tablet-pc-max:align-content-start` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik hizalama: başlangıç
+- `.hover:tablet-pc-max:align-content-stretch` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik hizalama: stretch
+- `.tablet-pc-max:align-content-around` - Tablet bilgisayarda (maks.) içerik hizalama: around
+- `.tablet-pc-max:align-content-between` - Tablet bilgisayarda (maks.) içerik hizalama: between
+- `.tablet-pc-max:align-content-center` - Tablet bilgisayarda (maks.) içerik hizalama: orta
+- `.tablet-pc-max:align-content-end` - Tablet bilgisayarda (maks.) içerik hizalama: bitiş
+- `.tablet-pc-max:align-content-evenly` - Tablet bilgisayarda (maks.) içerik hizalama: evenly
+- `.tablet-pc-max:align-content-start` - Tablet bilgisayarda (maks.) içerik hizalama: başlangıç
+- `.tablet-pc-max:align-content-stretch` - Tablet bilgisayarda (maks.) içerik hizalama: stretch
 
 ##### Align content - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:align-content-around` - PC max'ta fareyle üzerine gelindiğinde içeriği hizalayın
-- `.hover:pc-max:align-content-between` - İçeriği PC max'ta fareyle üzerine gelindiğinde hizalayın
-- `.hover:pc-max:align-content-center` - PC max üzerinde fareyle üzerine gelindiğinde içerik merkezini hizalayın
-- `.hover:pc-max:align-content-end` - PC max'ta fareyle üzerine gelindiğinde içeriğin ucunu hizalayın
-- `.hover:pc-max:align-content-evenly` - PC max'ta fareyle üzerine gelindiğinde içeriği eşit şekilde hizalayın
-- `.hover:pc-max:align-content-start` - İçerik başlangıcını PC max'ta fareyle üzerine gelindiğinde hizalayın
-- `.hover:pc-max:align-content-stretch` - PC max'ta fareyle üzerine gelindiğinde içerik genişletmeyi hizalayın
-- `.pc-max:align-content-around` - İçeriği pc max'a göre hizalayın
-- `.pc-max:align-content-between` - İçeriği PC max arasında hizalayın
-- `.pc-max:align-content-center` - İçerik merkezini pc max'ta hizalayın
-- `.pc-max:align-content-end` - İçeriğin ucunu pc max'ta hizalayın
-- `.pc-max:align-content-evenly` - İçeriği pc max'ta eşit şekilde hizalayın
-- `.pc-max:align-content-start` - İçerik başlangıcını PC max'ta hizalayın
-- `.pc-max:align-content-stretch` - PC max'ta içerik genişletmeyi hizalayın
+- `.hover:pc-max:align-content-around` - PC'de (maks.) fareyle üzerine gelindiğinde içerik hizalama: around
+- `.hover:pc-max:align-content-between` - PC'de (maks.) fareyle üzerine gelindiğinde içerik hizalama: between
+- `.hover:pc-max:align-content-center` - PC'de (maks.) fareyle üzerine gelindiğinde içerik hizalama: orta
+- `.hover:pc-max:align-content-end` - PC'de (maks.) fareyle üzerine gelindiğinde içerik hizalama: bitiş
+- `.hover:pc-max:align-content-evenly` - PC'de (maks.) fareyle üzerine gelindiğinde içerik hizalama: evenly
+- `.hover:pc-max:align-content-start` - PC'de (maks.) fareyle üzerine gelindiğinde içerik hizalama: başlangıç
+- `.hover:pc-max:align-content-stretch` - PC'de (maks.) fareyle üzerine gelindiğinde içerik hizalama: stretch
+- `.pc-max:align-content-around` - PC'de (maks.) içerik hizalama: around
+- `.pc-max:align-content-between` - PC'de (maks.) içerik hizalama: between
+- `.pc-max:align-content-center` - PC'de (maks.) içerik hizalama: orta
+- `.pc-max:align-content-end` - PC'de (maks.) içerik hizalama: bitiş
+- `.pc-max:align-content-evenly` - PC'de (maks.) içerik hizalama: evenly
+- `.pc-max:align-content-start` - PC'de (maks.) içerik hizalama: başlangıç
+- `.pc-max:align-content-stretch` - PC'de (maks.) içerik hizalama: stretch
 
 ### Align items
 
-- `.align-items-center` - Öğe merkezini hizala
-- `.align-items-end` - Öğelerin sonunu hizala
-- `.align-items-start` - Öğeleri hizalama başlangıcı
-- `.align-items-stretch` - Öğeleri hizalayın
-- `.hover:align-items-center` - Fareyle üzerine gelindiğinde öğelerin ortasını hizalayın
-- `.hover:align-items-end` - Fareyle üzerine gelindiğinde öğeleri hizalama
-- `.hover:align-items-start` - Öğeleri hizalama fareyle üzerine gelindiğinde başlar
-- `.hover:align-items-stretch` - Fareyle üzerine gelindiğinde öğeleri hizalayın
+- `.align-items-center` - Öğe hizalama: orta
+- `.align-items-end` - Öğe hizalama: bitiş
+- `.align-items-start` - Öğe hizalama: başlangıç
+- `.align-items-stretch` - Öğe hizalama: stretch
+- `.hover:align-items-center` - Fareyle üzerine gelindiğinde öğe hizalama: orta
+- `.hover:align-items-end` - Fareyle üzerine gelindiğinde öğe hizalama: bitiş
+- `.hover:align-items-start` - Fareyle üzerine gelindiğinde öğe hizalama: başlangıç
+- `.hover:align-items-stretch` - Fareyle üzerine gelindiğinde öğe hizalama: stretch
 
 ##### Align items - Mobile (≤ 480px)
 
-- `.hover:mobile:align-items-center` - Mobil cihazda fareyle üzerine gelindiğinde öğelerin ortasını hizalayın
-- `.hover:mobile:align-items-end` - Öğeleri mobil cihazda fareyle üzerine gelindiğinde hizalayın
-- `.hover:mobile:align-items-start` - Öğeleri hizalama, mobil cihazda fareyle üzerine gelindiğinde başlar
-- `.hover:mobile:align-items-stretch` - Mobil cihazda fareyle üzerine gelindiğinde öğeleri hizalayın
-- `.mobile:align-items-center` - Mobil cihazdaki öğelerin merkezini hizalayın
-- `.mobile:align-items-end` - Mobil cihazda öğelerin sonunu hizalama
-- `.mobile:align-items-start` - Öğeleri hizalama mobilde başlar
-- `.mobile:align-items-stretch` - Mobil cihazdaki öğeleri hizalayın
+- `.hover:mobile:align-items-center` - Mobil cihazda fareyle üzerine gelindiğinde öğe hizalama: orta
+- `.hover:mobile:align-items-end` - Mobil cihazda fareyle üzerine gelindiğinde öğe hizalama: bitiş
+- `.hover:mobile:align-items-start` - Mobil cihazda fareyle üzerine gelindiğinde öğe hizalama: başlangıç
+- `.hover:mobile:align-items-stretch` - Mobil cihazda fareyle üzerine gelindiğinde öğe hizalama: stretch
+- `.mobile:align-items-center` - Mobil cihazda öğe hizalama: orta
+- `.mobile:align-items-end` - Mobil cihazda öğe hizalama: bitiş
+- `.mobile:align-items-start` - Mobil cihazda öğe hizalama: başlangıç
+- `.mobile:align-items-stretch` - Mobil cihazda öğe hizalama: stretch
 
 ##### Align items - Tablet (480px - 768px)
 
-- `.hover:tablet:align-items-center` - Tabletteki fareyle üzerine gelindiğinde öğelerin ortasını hizalayın
-- `.hover:tablet:align-items-end` - Öğeleri tablet üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet:align-items-start` - Öğeleri hizalama tabletin üzerine gelindiğinde başlar
-- `.hover:tablet:align-items-stretch` - Tablette fareyle üzerine gelindiğinde öğeleri hizalayın
-- `.tablet:align-items-center` - Tabletteki öğelerin ortasını hizalayın
-- `.tablet:align-items-end` - Öğeleri tablette hizalayın
-- `.tablet:align-items-start` - Öğeleri hizalama tablette başlar
-- `.tablet:align-items-stretch` - Tabletteki öğeleri hizalayın
+- `.hover:tablet:align-items-center` - Tablette fareyle üzerine gelindiğinde öğe hizalama: orta
+- `.hover:tablet:align-items-end` - Tablette fareyle üzerine gelindiğinde öğe hizalama: bitiş
+- `.hover:tablet:align-items-start` - Tablette fareyle üzerine gelindiğinde öğe hizalama: başlangıç
+- `.hover:tablet:align-items-stretch` - Tablette fareyle üzerine gelindiğinde öğe hizalama: stretch
+- `.tablet:align-items-center` - Tablette öğe hizalama: orta
+- `.tablet:align-items-end` - Tablette öğe hizalama: bitiş
+- `.tablet:align-items-start` - Tablette öğe hizalama: başlangıç
+- `.tablet:align-items-stretch` - Tablette öğe hizalama: stretch
 
 ##### Align items - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:align-items-center` - Tablet PC'de fareyle üzerine gelindiğinde öğelerin ortasını hizalayın
-- `.hover:tablet-pc:align-items-end` - Öğeleri tablet bilgisayarda fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-pc:align-items-start` - Öğeleri hizalama tablet bilgisayarda fareyle üzerine gelindiğinde başlar
-- `.hover:tablet-pc:align-items-stretch` - Tablet bilgisayarda fareyle üzerine gelindiğinde öğeleri hizalayın
-- `.tablet-pc:align-items-center` - Tablet PC'deki öğelerin merkezini hizalama
-- `.tablet-pc:align-items-end` - Öğeleri tablet bilgisayarda hizalayın
-- `.tablet-pc:align-items-start` - Öğeleri hizalama tablet bilgisayarda başlar
-- `.tablet-pc:align-items-stretch` - Tablet PC'deki öğeleri hizalayın
+- `.hover:tablet-pc:align-items-center` - Tablet bilgisayarda fareyle üzerine gelindiğinde öğe hizalama: orta
+- `.hover:tablet-pc:align-items-end` - Tablet bilgisayarda fareyle üzerine gelindiğinde öğe hizalama: bitiş
+- `.hover:tablet-pc:align-items-start` - Tablet bilgisayarda fareyle üzerine gelindiğinde öğe hizalama: başlangıç
+- `.hover:tablet-pc:align-items-stretch` - Tablet bilgisayarda fareyle üzerine gelindiğinde öğe hizalama: stretch
+- `.tablet-pc:align-items-center` - Tablet bilgisayarda öğe hizalama: orta
+- `.tablet-pc:align-items-end` - Tablet bilgisayarda öğe hizalama: bitiş
+- `.tablet-pc:align-items-start` - Tablet bilgisayarda öğe hizalama: başlangıç
+- `.tablet-pc:align-items-stretch` - Tablet bilgisayarda öğe hizalama: stretch
 
 ##### Align items - Pc (992px - 1200px)
 
-- `.hover:pc:align-items-center` - PC'de fareyle üzerine gelindiğinde öğelerin merkezini hizalayın
-- `.hover:pc:align-items-end` - Öğeleri PC'de fareyle üzerine gelindiğinde hizalayın
-- `.hover:pc:align-items-start` - Öğeleri hizalama, bilgisayarda fareyle üzerine gelindiğinde başlar
-- `.hover:pc:align-items-stretch` - PC'de fareyle üzerine gelindiğinde öğeleri hizalayın
-- `.pc:align-items-center` - PC'deki öğelerin merkezini hizalama
-- `.pc:align-items-end` - Öğeleri PC'de hizalayın
-- `.pc:align-items-start` - Öğeleri hizalama bilgisayarda başlar
-- `.pc:align-items-stretch` - PC'deki öğeleri hizalayın
+- `.hover:pc:align-items-center` - PC'de fareyle üzerine gelindiğinde öğe hizalama: orta
+- `.hover:pc:align-items-end` - PC'de fareyle üzerine gelindiğinde öğe hizalama: bitiş
+- `.hover:pc:align-items-start` - PC'de fareyle üzerine gelindiğinde öğe hizalama: başlangıç
+- `.hover:pc:align-items-stretch` - PC'de fareyle üzerine gelindiğinde öğe hizalama: stretch
+- `.pc:align-items-center` - PC'de öğe hizalama: orta
+- `.pc:align-items-end` - PC'de öğe hizalama: bitiş
+- `.pc:align-items-start` - PC'de öğe hizalama: başlangıç
+- `.pc:align-items-stretch` - PC'de öğe hizalama: stretch
 
 ##### Align items - Tv (≥ 1200px)
 
-- `.hover:tv:align-items-center` - Televizyondaki fareyle üzerine gelindiğinde öğelerin ortasını hizalayın
-- `.hover:tv:align-items-end` - Öğeleri TV'de fareyle üzerine gelindiğinde hizalayın
-- `.hover:tv:align-items-start` - Öğeleri hizalama, televizyondaki fareyle üzerine gelindiğinde başlar
-- `.hover:tv:align-items-stretch` - TV'de fareyle üzerine gelindiğinde öğeleri hizalayın
-- `.tv:align-items-center` - TV'deki öğelerin merkezini hizalama
-- `.tv:align-items-end` - Öğeleri TV'de hizalayın
-- `.tv:align-items-start` - Öğeleri hizalama TV'de başlar
-- `.tv:align-items-stretch` - TV'deki öğeleri hizalayın
+- `.hover:tv:align-items-center` - TV'de fareyle üzerine gelindiğinde öğe hizalama: orta
+- `.hover:tv:align-items-end` - TV'de fareyle üzerine gelindiğinde öğe hizalama: bitiş
+- `.hover:tv:align-items-start` - TV'de fareyle üzerine gelindiğinde öğe hizalama: başlangıç
+- `.hover:tv:align-items-stretch` - TV'de fareyle üzerine gelindiğinde öğe hizalama: stretch
+- `.tv:align-items-center` - TV'de öğe hizalama: orta
+- `.tv:align-items-end` - TV'de öğe hizalama: bitiş
+- `.tv:align-items-start` - TV'de öğe hizalama: başlangıç
+- `.tv:align-items-stretch` - TV'de öğe hizalama: stretch
 
 ##### Align items - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:align-items-center` - Tablet max üzerinde fareyle üzerine gelindiğinde öğelerin merkezini hizalayın
-- `.hover:tablet-max:align-items-end` - Öğeleri tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.hover:tablet-max:align-items-start` - Öğeleri hizalama, tablet max üzerinde fareyle üzerine gelindiğinde başlar
-- `.hover:tablet-max:align-items-stretch` - Öğeleri tablet max üzerinde fareyle üzerine gelindiğinde hizalayın
-- `.tablet-max:align-items-center` - Öğeleri tablet max'ta ortalayarak hizalayın
-- `.tablet-max:align-items-end` - Öğeleri tablet max'ta hizalayın
-- `.tablet-max:align-items-start` - Öğeleri hizalama tablet max'ta başlar
-- `.tablet-max:align-items-stretch` - Öğeleri tablet max üzerinde hizalayın
+- `.hover:tablet-max:align-items-center` - Tablette (maks.) fareyle üzerine gelindiğinde öğe hizalama: orta
+- `.hover:tablet-max:align-items-end` - Tablette (maks.) fareyle üzerine gelindiğinde öğe hizalama: bitiş
+- `.hover:tablet-max:align-items-start` - Tablette (maks.) fareyle üzerine gelindiğinde öğe hizalama: başlangıç
+- `.hover:tablet-max:align-items-stretch` - Tablette (maks.) fareyle üzerine gelindiğinde öğe hizalama: stretch
+- `.tablet-max:align-items-center` - Tablette (maks.) öğe hizalama: orta
+- `.tablet-max:align-items-end` - Tablette (maks.) öğe hizalama: bitiş
+- `.tablet-max:align-items-start` - Tablette (maks.) öğe hizalama: başlangıç
+- `.tablet-max:align-items-stretch` - Tablette (maks.) öğe hizalama: stretch
 
 ##### Align items - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:align-items-center` - Tablet PC Max'te fareyle üzerine gelindiğinde öğelerin merkezini hizalayın
-- `.hover:tablet-pc-max:align-items-end` - Öğeleri hizalama, tablet PC max'ta fareyle üzerine gelindiğinde sona eriyor
-- `.hover:tablet-pc-max:align-items-start` - Öğeleri hizalama, tablet pc max'ta fareyle üzerine gelindiğinde başlar
-- `.hover:tablet-pc-max:align-items-stretch` - Tablet PC max'ta fareyle üzerine gelindiğinde öğeleri hizalayın
-- `.tablet-pc-max:align-items-center` - Tablet PC Max'te öğelerin merkezini hizalayın
-- `.tablet-pc-max:align-items-end` - Öğeleri tablet pc max'ta hizalayın
-- `.tablet-pc-max:align-items-start` - Öğeleri hizalama tablet pc max'ta başlar
-- `.tablet-pc-max:align-items-stretch` - Tablet PC'de gerilmiş öğeleri hizalama max
+- `.hover:tablet-pc-max:align-items-center` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğe hizalama: orta
+- `.hover:tablet-pc-max:align-items-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğe hizalama: bitiş
+- `.hover:tablet-pc-max:align-items-start` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğe hizalama: başlangıç
+- `.hover:tablet-pc-max:align-items-stretch` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğe hizalama: stretch
+- `.tablet-pc-max:align-items-center` - Tablet bilgisayarda (maks.) öğe hizalama: orta
+- `.tablet-pc-max:align-items-end` - Tablet bilgisayarda (maks.) öğe hizalama: bitiş
+- `.tablet-pc-max:align-items-start` - Tablet bilgisayarda (maks.) öğe hizalama: başlangıç
+- `.tablet-pc-max:align-items-stretch` - Tablet bilgisayarda (maks.) öğe hizalama: stretch
 
 ##### Align items - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:align-items-center` - PC max'ta fareyle üzerine gelindiğinde öğelerin merkezini hizalayın
-- `.hover:pc-max:align-items-end` - Öğeleri hizalama, PC max'ta fareyle üzerine gelindiğinde sona erer
-- `.hover:pc-max:align-items-start` - Öğeleri hizalama, PC max'ta fareyle üzerine gelindiğinde başlar
-- `.hover:pc-max:align-items-stretch` - PC max'ta fareyle üzerine gelindiğinde öğeleri hizalayın
-- `.pc-max:align-items-center` - PC max'ta öğelerin merkezini hizalayın
-- `.pc-max:align-items-end` - Öğeleri PC max'ta hizalayın
-- `.pc-max:align-items-start` - Öğeleri hizalama PC max'ta başlar
-- `.pc-max:align-items-stretch` - PC max'ta öğeleri hizalayın
+- `.hover:pc-max:align-items-center` - PC'de (maks.) fareyle üzerine gelindiğinde öğe hizalama: orta
+- `.hover:pc-max:align-items-end` - PC'de (maks.) fareyle üzerine gelindiğinde öğe hizalama: bitiş
+- `.hover:pc-max:align-items-start` - PC'de (maks.) fareyle üzerine gelindiğinde öğe hizalama: başlangıç
+- `.hover:pc-max:align-items-stretch` - PC'de (maks.) fareyle üzerine gelindiğinde öğe hizalama: stretch
+- `.pc-max:align-items-center` - PC'de (maks.) öğe hizalama: orta
+- `.pc-max:align-items-end` - PC'de (maks.) öğe hizalama: bitiş
+- `.pc-max:align-items-start` - PC'de (maks.) öğe hizalama: başlangıç
+- `.pc-max:align-items-stretch` - PC'de (maks.) öğe hizalama: stretch
 
 ### Align self
 
-- `.align-self-center` - Kendi merkezini hizala
-- `.align-self-end` - Kendi ucunu hizala
-- `.align-self-start` - Otomatik başlatmayı hizalayın
-- `.align-self-stretch` - Kendi kendine esnemeyi hizalayın
-- `.hover:align-self-center` - Fareyle üzerine gelindiğinde kendi merkezini hizala
-- `.hover:align-self-end` - Fareyle üzerine gelindiğinde kendi ucunu hizalayın
-- `.hover:align-self-start` - Fareyle üzerine gelindiğinde otomatik başlatmayı hizalayın
-- `.hover:align-self-stretch` - Fareyle üzerine gelindiğinde kendini uzatmayı hizalayın
+- `.align-self-center` - Öğenin kendi hizalaması: orta
+- `.align-self-end` - Öğenin kendi hizalaması: bitiş
+- `.align-self-start` - Öğenin kendi hizalaması: başlangıç
+- `.align-self-stretch` - Öğenin kendi hizalaması: stretch
+- `.hover:align-self-center` - Fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
+- `.hover:align-self-end` - Fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
+- `.hover:align-self-start` - Fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
+- `.hover:align-self-stretch` - Fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
 
 ##### Align self - Mobile (≤ 480px)
 
-- `.hover:mobile:align-self-center` - Mobil cihazda fareyle üzerine gelindiğinde kendi merkezimi hizalama
-- `.hover:mobile:align-self-end` - Mobil cihazda fareyle üzerine gelindiğinde kendi ucunu hizalayın
-- `.hover:mobile:align-self-start` - Mobil cihazda fareyle üzerine gelindiğinde otomatik başlatmayı hizalama
-- `.hover:mobile:align-self-stretch` - Mobil cihazda fareyle üzerine gelindiğinde kendi kendini uzatmayı hizalayın
-- `.mobile:align-self-center` - Mobil cihazda benlik merkezini hizalama
-- `.mobile:align-self-end` - Mobil cihazda kendi ucunu hizalama
-- `.mobile:align-self-start` - Mobil cihazda otomatik başlatmayı hizalama
-- `.mobile:align-self-stretch` - Mobil cihazda kendi kendine esnemeyi hizalayın
+- `.hover:mobile:align-self-center` - Mobil cihazda fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
+- `.hover:mobile:align-self-end` - Mobil cihazda fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
+- `.hover:mobile:align-self-start` - Mobil cihazda fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
+- `.hover:mobile:align-self-stretch` - Mobil cihazda fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
+- `.mobile:align-self-center` - Mobil cihazda öğenin kendi hizalaması: orta
+- `.mobile:align-self-end` - Mobil cihazda öğenin kendi hizalaması: bitiş
+- `.mobile:align-self-start` - Mobil cihazda öğenin kendi hizalaması: başlangıç
+- `.mobile:align-self-stretch` - Mobil cihazda öğenin kendi hizalaması: stretch
 
 ##### Align self - Tablet (480px - 768px)
 
-- `.hover:tablet:align-self-center` - Tabletin fareyle üzerine gelindiğinde kendi merkezini hizala
-- `.hover:tablet:align-self-end` - Tabletin üzerine gelindiğinde kendi ucunu hizalayın
-- `.hover:tablet:align-self-start` - Tablet üzerinde fareyle üzerine gelindiğinde otomatik başlatmayı hizalayın
-- `.hover:tablet:align-self-stretch` - Tablet üzerinde fareyle üzerine gelindiğinde kendi kendini uzatmayı hizalayın
-- `.tablet:align-self-center` - Tablette benlik merkezini hizalama
-- `.tablet:align-self-end` - Kendi ucunu tablette hizala
-- `.tablet:align-self-start` - Tablette otomatik başlatmayı hizalama
-- `.tablet:align-self-stretch` - Tablette kendi kendine esnemeyi hizalayın
+- `.hover:tablet:align-self-center` - Tablette fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
+- `.hover:tablet:align-self-end` - Tablette fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
+- `.hover:tablet:align-self-start` - Tablette fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
+- `.hover:tablet:align-self-stretch` - Tablette fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
+- `.tablet:align-self-center` - Tablette öğenin kendi hizalaması: orta
+- `.tablet:align-self-end` - Tablette öğenin kendi hizalaması: bitiş
+- `.tablet:align-self-start` - Tablette öğenin kendi hizalaması: başlangıç
+- `.tablet:align-self-stretch` - Tablette öğenin kendi hizalaması: stretch
 
 ##### Align self - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:align-self-center` - Tablet bilgisayarda fareyle üzerine gelindiğinde kendi merkezini hizalayın
-- `.hover:tablet-pc:align-self-end` - Tablet PC'de fareyle üzerine gelindiğinde kendi ucunu hizalayın
-- `.hover:tablet-pc:align-self-start` - Tablet bilgisayarda fareyle üzerine gelindiğinde otomatik başlatmayı hizalama
-- `.hover:tablet-pc:align-self-stretch` - Tablet bilgisayarda fareyle üzerine gelindiğinde kendi kendini uzatmayı hizalayın
-- `.tablet-pc:align-self-center` - Tablet bilgisayarda benlik merkezini hizalama
-- `.tablet-pc:align-self-end` - Tablet PC'de kendi ucunu hizalayın
-- `.tablet-pc:align-self-start` - Tablet PC'de otomatik başlatmayı hizalama
-- `.tablet-pc:align-self-stretch` - Tablet PC'de kendi kendine gerdirmeyi hizalayın
+- `.hover:tablet-pc:align-self-center` - Tablet bilgisayarda fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
+- `.hover:tablet-pc:align-self-end` - Tablet bilgisayarda fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
+- `.hover:tablet-pc:align-self-start` - Tablet bilgisayarda fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
+- `.hover:tablet-pc:align-self-stretch` - Tablet bilgisayarda fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
+- `.tablet-pc:align-self-center` - Tablet bilgisayarda öğenin kendi hizalaması: orta
+- `.tablet-pc:align-self-end` - Tablet bilgisayarda öğenin kendi hizalaması: bitiş
+- `.tablet-pc:align-self-start` - Tablet bilgisayarda öğenin kendi hizalaması: başlangıç
+- `.tablet-pc:align-self-stretch` - Tablet bilgisayarda öğenin kendi hizalaması: stretch
 
 ##### Align self - Pc (992px - 1200px)
 
-- `.hover:pc:align-self-center` - PC'de fareyle üzerine gelindiğinde kendi merkezini hizalayın
-- `.hover:pc:align-self-end` - PC'de fareyle üzerine gelindiğinde kendi ucunu hizalayın
-- `.hover:pc:align-self-start` - PC'de fareyle üzerine gelindiğinde kendi kendine başlamayı hizalayın
-- `.hover:pc:align-self-stretch` - PC'de fareyle üzerine gelindiğinde kendi kendini uzatmayı hizalayın
-- `.pc:align-self-center` - PC'de kişisel merkezi hizalama
-- `.pc:align-self-end` - PC'de kendi ucunu hizalayın
-- `.pc:align-self-start` - PC'de kendi kendine başlatmayı hizalama
-- `.pc:align-self-stretch` - PC'de kendi kendini germeyi hizalayın
+- `.hover:pc:align-self-center` - PC'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
+- `.hover:pc:align-self-end` - PC'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
+- `.hover:pc:align-self-start` - PC'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
+- `.hover:pc:align-self-stretch` - PC'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
+- `.pc:align-self-center` - PC'de öğenin kendi hizalaması: orta
+- `.pc:align-self-end` - PC'de öğenin kendi hizalaması: bitiş
+- `.pc:align-self-start` - PC'de öğenin kendi hizalaması: başlangıç
+- `.pc:align-self-stretch` - PC'de öğenin kendi hizalaması: stretch
 
 ##### Align self - Tv (≥ 1200px)
 
-- `.hover:tv:align-self-center` - Televizyonun üzerine gelindiğinde kendi merkezini hizala
-- `.hover:tv:align-self-end` - TV'de fareyle üzerine gelindiğinde kendi ucunu hizalayın
-- `.hover:tv:align-self-start` - TV'de fareyle üzerine gelindiğinde otomatik başlatmayı hizalayın
-- `.hover:tv:align-self-stretch` - TV'de fareyle üzerine gelindiğinde kendi kendini uzatmayı hizalayın
-- `.tv:align-self-center` - TV'de benlik merkezini hizalama
-- `.tv:align-self-end` - Kendini TV'de hizala
-- `.tv:align-self-start` - TV'de otomatik başlatmayı hizalama
-- `.tv:align-self-stretch` - TV'de kendi kendini uzatmayı hizalayın
+- `.hover:tv:align-self-center` - TV'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
+- `.hover:tv:align-self-end` - TV'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
+- `.hover:tv:align-self-start` - TV'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
+- `.hover:tv:align-self-stretch` - TV'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
+- `.tv:align-self-center` - TV'de öğenin kendi hizalaması: orta
+- `.tv:align-self-end` - TV'de öğenin kendi hizalaması: bitiş
+- `.tv:align-self-start` - TV'de öğenin kendi hizalaması: başlangıç
+- `.tv:align-self-stretch` - TV'de öğenin kendi hizalaması: stretch
 
 ##### Align self - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:align-self-center` - Tablet max üzerinde fareyle üzerine gelindiğinde kendi merkezini hizalayın
-- `.hover:tablet-max:align-self-end` - Tablet max üzerinde fareyle üzerine gelindiğinde kendi ucunu hizalayın
-- `.hover:tablet-max:align-self-start` - Tablet max üzerinde fareyle üzerine gelindiğinde otomatik başlatmayı hizalayın
-- `.hover:tablet-max:align-self-stretch` - Tablet max üzerinde fareyle üzerine gelindiğinde kendini uzatmayı hizalayın
-- `.tablet-max:align-self-center` - Tablet max'ta kendi merkezini hizala
-- `.tablet-max:align-self-end` - Tablet max'ta kendi ucunu hizalayın
-- `.tablet-max:align-self-start` - Tablet max'te otomatik başlatmayı hizalama
-- `.tablet-max:align-self-stretch` - Tablet max'ta kendi kendine esnemeyi hizalayın
+- `.hover:tablet-max:align-self-center` - Tablette (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
+- `.hover:tablet-max:align-self-end` - Tablette (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
+- `.hover:tablet-max:align-self-start` - Tablette (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
+- `.hover:tablet-max:align-self-stretch` - Tablette (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
+- `.tablet-max:align-self-center` - Tablette (maks.) öğenin kendi hizalaması: orta
+- `.tablet-max:align-self-end` - Tablette (maks.) öğenin kendi hizalaması: bitiş
+- `.tablet-max:align-self-start` - Tablette (maks.) öğenin kendi hizalaması: başlangıç
+- `.tablet-max:align-self-stretch` - Tablette (maks.) öğenin kendi hizalaması: stretch
 
 ##### Align self - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:align-self-center` - Tablet PC max üzerinde fareyle üzerine gelindiğinde kendi merkezini hizalayın
-- `.hover:tablet-pc-max:align-self-end` - Tablet PC max üzerinde fareyle üzerine gelindiğinde kendi ucunu hizalayın
-- `.hover:tablet-pc-max:align-self-start` - Tablet PC max üzerinde fareyle üzerine gelindiğinde otomatik başlatmayı hizalama
-- `.hover:tablet-pc-max:align-self-stretch` - Tablet PC max'ta fareyle üzerine gelindiğinde kendi kendini uzatmayı hizalayın
-- `.tablet-pc-max:align-self-center` - Tablet PC max'ta kendi merkezini hizalama
-- `.tablet-pc-max:align-self-end` - Tablet PC max'ta kendi ucunu hizalayın
-- `.tablet-pc-max:align-self-start` - Tablet PC max'ta otomatik başlatmayı hizalama
-- `.tablet-pc-max:align-self-stretch` - Tablet PC Max'te kendi kendine gerdirmeyi hizalayın
+- `.hover:tablet-pc-max:align-self-center` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
+- `.hover:tablet-pc-max:align-self-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
+- `.hover:tablet-pc-max:align-self-start` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
+- `.hover:tablet-pc-max:align-self-stretch` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
+- `.tablet-pc-max:align-self-center` - Tablet bilgisayarda (maks.) öğenin kendi hizalaması: orta
+- `.tablet-pc-max:align-self-end` - Tablet bilgisayarda (maks.) öğenin kendi hizalaması: bitiş
+- `.tablet-pc-max:align-self-start` - Tablet bilgisayarda (maks.) öğenin kendi hizalaması: başlangıç
+- `.tablet-pc-max:align-self-stretch` - Tablet bilgisayarda (maks.) öğenin kendi hizalaması: stretch
 
 ##### Align self - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:align-self-center` - PC max üzerinde fareyle üzerine gelindiğinde kendi merkezini hizalayın
-- `.hover:pc-max:align-self-end` - PC max üzerinde fareyle üzerine gelindiğinde kendi ucunu hizalayın
-- `.hover:pc-max:align-self-start` - PC max üzerinde fareyle üzerine gelindiğinde kendi kendine başlamayı hizalayın
-- `.hover:pc-max:align-self-stretch` - PC max üzerinde fareyle üzerine gelindiğinde kendi kendini uzatmayı hizalayın
-- `.pc-max:align-self-center` - PC max'ta kendi merkezini hizala
-- `.pc-max:align-self-end` - PC max'ta kendi ucunu hizalayın
-- `.pc-max:align-self-start` - PC max'ta kendi kendine başlamayı hizalayın
-- `.pc-max:align-self-stretch` - PC max'ta kendi kendine gerdirmeyi hizalayın
+- `.hover:pc-max:align-self-center` - PC'de (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
+- `.hover:pc-max:align-self-end` - PC'de (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
+- `.hover:pc-max:align-self-start` - PC'de (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
+- `.hover:pc-max:align-self-stretch` - PC'de (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
+- `.pc-max:align-self-center` - PC'de (maks.) öğenin kendi hizalaması: orta
+- `.pc-max:align-self-end` - PC'de (maks.) öğenin kendi hizalaması: bitiş
+- `.pc-max:align-self-start` - PC'de (maks.) öğenin kendi hizalaması: başlangıç
+- `.pc-max:align-self-stretch` - PC'de (maks.) öğenin kendi hizalaması: stretch
 
 ### Justify content
 
-- `.hover:justify-content-around` - İçeriği fareyle üzerine gelindiğinde iki yana yaslayın
-- `.hover:justify-content-between` - Fareyle üzerine gelindiğinde içeriği iki yana yasla
-- `.hover:justify-content-center` - Fareyle üzerine gelindiğinde içerik merkezini iki yana yasla
-- `.hover:justify-content-end` - Fareyle üzerine gelindiğinde içeriğin sonunu iki yana yasla
-- `.hover:justify-content-evenly` - Fareyle üzerine gelindiğinde içeriği eşit şekilde iki yana yaslayın
-- `.hover:justify-content-start` - İçeriğin fareyle üzerine gelindiğinde başlamasını iki yana yasla
-- `.hover:justify-content-stretch` - Fareyle üzerine gelindiğinde içeriği uzatmayı haklı göster
-- `.justify-content-around` - İçeriği gerekçelendirin
-- `.justify-content-between` - İçeriği iki yana yasla
-- `.justify-content-center` - İçerik merkezini gerekçelendir
-- `.justify-content-end` - İçeriğin sonunu haklı göster
-- `.justify-content-evenly` - İçeriği eşit şekilde gerekçelendirin
-- `.justify-content-start` - İçerik başlangıcını haklı göster
-- `.justify-content-stretch` - İçerik genişletmeyi gerekçelendir
+- `.hover:justify-content-around` - Fareyle üzerine gelindiğinde içerik yaslama: around
+- `.hover:justify-content-between` - Fareyle üzerine gelindiğinde içerik yaslama: between
+- `.hover:justify-content-center` - Fareyle üzerine gelindiğinde içerik yaslama: orta
+- `.hover:justify-content-end` - Fareyle üzerine gelindiğinde içerik yaslama: bitiş
+- `.hover:justify-content-evenly` - Fareyle üzerine gelindiğinde içerik yaslama: evenly
+- `.hover:justify-content-start` - Fareyle üzerine gelindiğinde içerik yaslama: başlangıç
+- `.hover:justify-content-stretch` - Fareyle üzerine gelindiğinde içerik yaslama: stretch
+- `.justify-content-around` - İçerik yaslama: around
+- `.justify-content-between` - İçerik yaslama: between
+- `.justify-content-center` - İçerik yaslama: orta
+- `.justify-content-end` - İçerik yaslama: bitiş
+- `.justify-content-evenly` - İçerik yaslama: evenly
+- `.justify-content-start` - İçerik yaslama: başlangıç
+- `.justify-content-stretch` - İçerik yaslama: stretch
 
 ##### Justify content - Mobile (≤ 480px)
 
-- `.hover:mobile:justify-content-around` - Mobil cihazda fareyle üzerine gelindiğinde içeriği sağa sola yaslayın
-- `.hover:mobile:justify-content-between` - Mobil cihazda fareyle üzerine gelindiğinde içeriği iki yana yaslayın
-- `.hover:mobile:justify-content-center` - Mobil cihazda fareyle üzerine gelindiğinde içerik merkezini gerekçelendirin
-- `.hover:mobile:justify-content-end` - Mobil cihazda fareyle üzerine gelindiğinde içeriğin bitişini haklı göster
-- `.hover:mobile:justify-content-start` - Mobil cihazda fareyle üzerine gelindiğinde içeriğin başlamasını gerekçelendirin
-- `.mobile:justify-content-around` - Mobil cihazlarda içeriği gerekçelendirin
-- `.mobile:justify-content-between` - İçeriği mobil cihazlar arasında iki yana yasla
-- `.mobile:justify-content-center` - Mobil cihazlarda içerik merkezini gerekçelendirin
-- `.mobile:justify-content-end` - Mobil cihazlarda içeriğin sonunu haklı çıkarma
-- `.mobile:justify-content-start` - İçeriğin mobilde başlatılmasını gerekçelendirin
+- `.hover:mobile:justify-content-around` - Mobil cihazda fareyle üzerine gelindiğinde içerik yaslama: around
+- `.hover:mobile:justify-content-between` - Mobil cihazda fareyle üzerine gelindiğinde içerik yaslama: between
+- `.hover:mobile:justify-content-center` - Mobil cihazda fareyle üzerine gelindiğinde içerik yaslama: orta
+- `.hover:mobile:justify-content-end` - Mobil cihazda fareyle üzerine gelindiğinde içerik yaslama: bitiş
+- `.hover:mobile:justify-content-start` - Mobil cihazda fareyle üzerine gelindiğinde içerik yaslama: başlangıç
+- `.mobile:justify-content-around` - Mobil cihazda içerik yaslama: around
+- `.mobile:justify-content-between` - Mobil cihazda içerik yaslama: between
+- `.mobile:justify-content-center` - Mobil cihazda içerik yaslama: orta
+- `.mobile:justify-content-end` - Mobil cihazda içerik yaslama: bitiş
+- `.mobile:justify-content-start` - Mobil cihazda içerik yaslama: başlangıç
 
 ##### Justify content - Tablet (480px - 768px)
 
-- `.hover:tablet:justify-content-around` - İçeriği tablette fareyle üzerine gelindiğinde iki yana yaslayın
-- `.hover:tablet:justify-content-between` - İçeriği tablet üzerinde fareyle üzerine gelindiğinde iki yana yaslama
-- `.hover:tablet:justify-content-center` - Tablette fareyle üzerine gelindiğinde içerik merkezini iki yana yaslayın
-- `.hover:tablet:justify-content-end` - Tablette fareyle üzerine gelindiğinde içeriğin sonunu iki yana yaslayın
-- `.hover:tablet:justify-content-start` - İçerik başlangıcını tablette fareyle üzerine gelindiğinde iki yana yaslayın
-- `.tablet:justify-content-around` - İçeriği tablette iki yana yaslama
-- `.tablet:justify-content-between` - İçeriği tablette iki yana yasla
-- `.tablet:justify-content-center` - Tabletteki içerik merkezini gerekçelendir
-- `.tablet:justify-content-end` - Tablette içerik sonunu iki yana yasla
-- `.tablet:justify-content-start` - İçerik başlangıcını tablette iki yana yasla
+- `.hover:tablet:justify-content-around` - Tablette fareyle üzerine gelindiğinde içerik yaslama: around
+- `.hover:tablet:justify-content-between` - Tablette fareyle üzerine gelindiğinde içerik yaslama: between
+- `.hover:tablet:justify-content-center` - Tablette fareyle üzerine gelindiğinde içerik yaslama: orta
+- `.hover:tablet:justify-content-end` - Tablette fareyle üzerine gelindiğinde içerik yaslama: bitiş
+- `.hover:tablet:justify-content-start` - Tablette fareyle üzerine gelindiğinde içerik yaslama: başlangıç
+- `.tablet:justify-content-around` - Tablette içerik yaslama: around
+- `.tablet:justify-content-between` - Tablette içerik yaslama: between
+- `.tablet:justify-content-center` - Tablette içerik yaslama: orta
+- `.tablet:justify-content-end` - Tablette içerik yaslama: bitiş
+- `.tablet:justify-content-start` - Tablette içerik yaslama: başlangıç
 
 ##### Justify content - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:justify-content-around` - Tablet bilgisayarda fareyle üzerine gelindiğinde içeriği iki yana yaslayın
-- `.hover:tablet-pc:justify-content-between` - Tablet bilgisayarda fareyle üzerine gelindiğinde içeriği iki yana yaslama
-- `.hover:tablet-pc:justify-content-center` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik merkezini haklılaştırın
-- `.hover:tablet-pc:justify-content-end` - Tablet PC'de fareyle üzerine gelindiğinde içeriğin sonunu iki yana yaslayın
-- `.hover:tablet-pc:justify-content-start` - Tablet PC'de fareyle üzerine gelindiğinde içeriğin başlamasını iki yana yaslayın
-- `.tablet-pc:justify-content-around` - İçeriği tablet bilgisayarda gerekçelendirin
-- `.tablet-pc:justify-content-between` - İçeriği tablet PC'de iki yana yasla
-- `.tablet-pc:justify-content-center` - Tablet PC'deki içerik merkezini gerekçelendirin
-- `.tablet-pc:justify-content-end` - Tablet PC'de içeriğin sonunu haklı çıkarma
-- `.tablet-pc:justify-content-start` - İçeriğin tablet bilgisayarda başlatılmasını haklı çıkarma
+- `.hover:tablet-pc:justify-content-around` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik yaslama: around
+- `.hover:tablet-pc:justify-content-between` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik yaslama: between
+- `.hover:tablet-pc:justify-content-center` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik yaslama: orta
+- `.hover:tablet-pc:justify-content-end` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik yaslama: bitiş
+- `.hover:tablet-pc:justify-content-start` - Tablet bilgisayarda fareyle üzerine gelindiğinde içerik yaslama: başlangıç
+- `.tablet-pc:justify-content-around` - Tablet bilgisayarda içerik yaslama: around
+- `.tablet-pc:justify-content-between` - Tablet bilgisayarda içerik yaslama: between
+- `.tablet-pc:justify-content-center` - Tablet bilgisayarda içerik yaslama: orta
+- `.tablet-pc:justify-content-end` - Tablet bilgisayarda içerik yaslama: bitiş
+- `.tablet-pc:justify-content-start` - Tablet bilgisayarda içerik yaslama: başlangıç
 
 ##### Justify content - Pc (992px - 1200px)
 
-- `.hover:pc:justify-content-around` - PC'de fareyle üzerine gelindiğinde içeriği iki yana yaslayın
-- `.hover:pc:justify-content-between` - PC'de fareyle üzerine gelindiğinde içeriği iki yana yaslayın
-- `.hover:pc:justify-content-center` - PC'de fareyle üzerine gelindiğinde içerik merkezini gerekçelendirin
-- `.hover:pc:justify-content-end` - PC'de fareyle üzerine gelindiğinde içeriğin sonunu iki yana yaslayın
-- `.hover:pc:justify-content-start` - İçeriğin PC'de fareyle üzerine gelindiğinde başlamasını gerekçelendirin
-- `.pc:justify-content-around` - İçeriği PC'de gerekçelendirin
-- `.pc:justify-content-between` - İçeriği PC'de iki yana yasla
-- `.pc:justify-content-center` - PC'de içerik merkezini haklı göster
-- `.pc:justify-content-end` - PC'de içeriğin sonunu haklı çıkarma
-- `.pc:justify-content-start` - İçeriğin bilgisayarda başlatılmasını gerekçelendirin
+- `.hover:pc:justify-content-around` - PC'de fareyle üzerine gelindiğinde içerik yaslama: around
+- `.hover:pc:justify-content-between` - PC'de fareyle üzerine gelindiğinde içerik yaslama: between
+- `.hover:pc:justify-content-center` - PC'de fareyle üzerine gelindiğinde içerik yaslama: orta
+- `.hover:pc:justify-content-end` - PC'de fareyle üzerine gelindiğinde içerik yaslama: bitiş
+- `.hover:pc:justify-content-start` - PC'de fareyle üzerine gelindiğinde içerik yaslama: başlangıç
+- `.pc:justify-content-around` - PC'de içerik yaslama: around
+- `.pc:justify-content-between` - PC'de içerik yaslama: between
+- `.pc:justify-content-center` - PC'de içerik yaslama: orta
+- `.pc:justify-content-end` - PC'de içerik yaslama: bitiş
+- `.pc:justify-content-start` - PC'de içerik yaslama: başlangıç
 
 ##### Justify content - Tv (≥ 1200px)
 
-- `.hover:tv:justify-content-around` - Televizyonun üzerine gelindiğinde içeriği gerekçelendirin
-- `.hover:tv:justify-content-between` - Televizyonun üzerine gelindiğinde içeriği iki yana yaslayın
-- `.hover:tv:justify-content-center` - Televizyonun üzerine gelindiğinde içerik merkezini haklılaştırın
-- `.hover:tv:justify-content-end` - Televizyonun üzerine gelindiğinde içeriğin sonunu haklı çıkarın
-- `.hover:tv:justify-content-start` - İçeriğin TV'de fareyle üzerine gelindiğinde başlamasını gerekçelendirin
-- `.tv:justify-content-around` - Televizyondaki içeriği gerekçelendirin
-- `.tv:justify-content-between` - Televizyondaki içeriği iki yana yasla
-- `.tv:justify-content-center` - Televizyondaki içerik merkezini gerekçelendir
-- `.tv:justify-content-end` - TV'de içeriğin bitmesini haklı göster
-- `.tv:justify-content-start` - İçeriğin TV'de başlatılmasını gerekçelendirin
+- `.hover:tv:justify-content-around` - TV'de fareyle üzerine gelindiğinde içerik yaslama: around
+- `.hover:tv:justify-content-between` - TV'de fareyle üzerine gelindiğinde içerik yaslama: between
+- `.hover:tv:justify-content-center` - TV'de fareyle üzerine gelindiğinde içerik yaslama: orta
+- `.hover:tv:justify-content-end` - TV'de fareyle üzerine gelindiğinde içerik yaslama: bitiş
+- `.hover:tv:justify-content-start` - TV'de fareyle üzerine gelindiğinde içerik yaslama: başlangıç
+- `.tv:justify-content-around` - TV'de içerik yaslama: around
+- `.tv:justify-content-between` - TV'de içerik yaslama: between
+- `.tv:justify-content-center` - TV'de içerik yaslama: orta
+- `.tv:justify-content-end` - TV'de içerik yaslama: bitiş
+- `.tv:justify-content-start` - TV'de içerik yaslama: başlangıç
 
 ##### Justify content - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:justify-content-around` - İçeriği tablet max üzerinde fareyle üzerine gelindiğinde iki yana yaslayın
-- `.hover:tablet-max:justify-content-between` - İçeriği tablet max üzerinde fareyle üzerine gelindiğinde iki yana yaslayın
-- `.hover:tablet-max:justify-content-center` - Tablet max üzerinde fareyle üzerine gelindiğinde içerik merkezini gerekçelendirin
-- `.hover:tablet-max:justify-content-end` - Tablet max üzerinde fareyle üzerine gelindiğinde içeriğin bitişini haklı göster
-- `.hover:tablet-max:justify-content-start` - İçerik başlangıcını tablet max üzerinde fareyle üzerine gelindiğinde gerekçelendirin
-- `.tablet-max:justify-content-around` - İçeriği tablet max'ta gerekçelendirin
-- `.tablet-max:justify-content-between` - İçeriği tablet max arasında iki yana yasla
-- `.tablet-max:justify-content-center` - İçerik merkezini tablet max'ta gerekçelendirin
-- `.tablet-max:justify-content-end` - İçeriğin tablet max'ta sona ermesini gerekçelendir
-- `.tablet-max:justify-content-start` - İçeriğin tablet max'ta başlatılmasını gerekçelendirin
+- `.hover:tablet-max:justify-content-around` - Tablette (maks.) fareyle üzerine gelindiğinde içerik yaslama: around
+- `.hover:tablet-max:justify-content-between` - Tablette (maks.) fareyle üzerine gelindiğinde içerik yaslama: between
+- `.hover:tablet-max:justify-content-center` - Tablette (maks.) fareyle üzerine gelindiğinde içerik yaslama: orta
+- `.hover:tablet-max:justify-content-end` - Tablette (maks.) fareyle üzerine gelindiğinde içerik yaslama: bitiş
+- `.hover:tablet-max:justify-content-start` - Tablette (maks.) fareyle üzerine gelindiğinde içerik yaslama: başlangıç
+- `.tablet-max:justify-content-around` - Tablette (maks.) içerik yaslama: around
+- `.tablet-max:justify-content-between` - Tablette (maks.) içerik yaslama: between
+- `.tablet-max:justify-content-center` - Tablette (maks.) içerik yaslama: orta
+- `.tablet-max:justify-content-end` - Tablette (maks.) içerik yaslama: bitiş
+- `.tablet-max:justify-content-start` - Tablette (maks.) içerik yaslama: başlangıç
 
 ##### Justify content - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:justify-content-around` - Tablet PC Max'te fareyle üzerine gelindiğinde içeriği iki yana yaslayın
-- `.hover:tablet-pc-max:justify-content-between` - İçeriği tablet PC max üzerinde fareyle üzerine gelindiğinde iki yana yaslayın
-- `.hover:tablet-pc-max:justify-content-center` - Tablet PC max üzerinde fareyle üzerine gelindiğinde içerik merkezini gerekçelendirin
-- `.hover:tablet-pc-max:justify-content-end` - Tablet PC max üzerinde fareyle üzerine gelindiğinde içeriğin sonunu haklı çıkarın
-- `.hover:tablet-pc-max:justify-content-start` - Tablet PC max'ta fareyle üzerine gelindiğinde içeriğin başlatılmasını gerekçelendirin
-- `.tablet-pc-max:justify-content-around` - İçeriği tablet pc max'ta gerekçelendirin
-- `.tablet-pc-max:justify-content-between` - İçeriği tablet pc max arasında iki yana yasla
-- `.tablet-pc-max:justify-content-center` - Tablet PC Max'te içerik merkezini gerekçelendirin
-- `.tablet-pc-max:justify-content-end` - Tablet PC Max'te içeriğin sonunu haklı çıkarma
-- `.tablet-pc-max:justify-content-start` - İçeriğin tablet pc max'ta başlatılmasını gerekçelendirin
+- `.hover:tablet-pc-max:justify-content-around` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik yaslama: around
+- `.hover:tablet-pc-max:justify-content-between` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik yaslama: between
+- `.hover:tablet-pc-max:justify-content-center` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik yaslama: orta
+- `.hover:tablet-pc-max:justify-content-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik yaslama: bitiş
+- `.hover:tablet-pc-max:justify-content-start` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik yaslama: başlangıç
+- `.tablet-pc-max:justify-content-around` - Tablet bilgisayarda (maks.) içerik yaslama: around
+- `.tablet-pc-max:justify-content-between` - Tablet bilgisayarda (maks.) içerik yaslama: between
+- `.tablet-pc-max:justify-content-center` - Tablet bilgisayarda (maks.) içerik yaslama: orta
+- `.tablet-pc-max:justify-content-end` - Tablet bilgisayarda (maks.) içerik yaslama: bitiş
+- `.tablet-pc-max:justify-content-start` - Tablet bilgisayarda (maks.) içerik yaslama: başlangıç
 
 ##### Justify content - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:justify-content-around` - PC max'ta fareyle üzerine gelindiğinde içeriği gerekçelendirin
-- `.hover:pc-max:justify-content-between` - İçeriği PC max üzerinde fareyle üzerine gelindiğinde iki yana yaslayın
-- `.hover:pc-max:justify-content-center` - PC max üzerinde fareyle üzerine gelindiğinde içerik merkezini gerekçelendirin
-- `.hover:pc-max:justify-content-end` - PC max'ta fareyle üzerine gelindiğinde içeriğin sonunu haklı çıkarın
-- `.hover:pc-max:justify-content-start` - PC max'ta fareyle üzerine gelindiğinde içeriğin başlamasını gerekçelendirin
-- `.pc-max:justify-content-around` - İçeriği pc max'ta gerekçelendirin
-- `.pc-max:justify-content-between` - İçeriği PC max arasında iki yana yasla
-- `.pc-max:justify-content-center` - PC max'ta içerik merkezini haklı göster
-- `.pc-max:justify-content-end` - PC max'ta içeriğin sonunu haklı göster
-- `.pc-max:justify-content-start` - İçeriğin PC max'ta başlatılmasını gerekçelendirin
+- `.hover:pc-max:justify-content-around` - PC'de (maks.) fareyle üzerine gelindiğinde içerik yaslama: around
+- `.hover:pc-max:justify-content-between` - PC'de (maks.) fareyle üzerine gelindiğinde içerik yaslama: between
+- `.hover:pc-max:justify-content-center` - PC'de (maks.) fareyle üzerine gelindiğinde içerik yaslama: orta
+- `.hover:pc-max:justify-content-end` - PC'de (maks.) fareyle üzerine gelindiğinde içerik yaslama: bitiş
+- `.hover:pc-max:justify-content-start` - PC'de (maks.) fareyle üzerine gelindiğinde içerik yaslama: başlangıç
+- `.pc-max:justify-content-around` - PC'de (maks.) içerik yaslama: around
+- `.pc-max:justify-content-between` - PC'de (maks.) içerik yaslama: between
+- `.pc-max:justify-content-center` - PC'de (maks.) içerik yaslama: orta
+- `.pc-max:justify-content-end` - PC'de (maks.) içerik yaslama: bitiş
+- `.pc-max:justify-content-start` - PC'de (maks.) içerik yaslama: başlangıç
 
 ### Justify items
 
-- `.hover:justify-items-center` - Fareyle üzerine gelindiğinde öğeleri ortalayın
-- `.hover:justify-items-end` - Öğelerin fareyle üzerine gelindiğinde bitmesini iki yana yasla
-- `.hover:justify-items-start` - Öğelerin fareyle üzerine gelindiğinde başlamasını iki yana yasla
-- `.hover:justify-items-stretch` - Fareyle üzerine gelindiğinde öğelerin uzamasını iki yana yasla
-- `.justify-items-center` - Öğe merkezini iki yana yasla
-- `.justify-items-end` - Öğelerin bitişini iki yana yasla
-- `.justify-items-start` - Öğelerin başlangıcını iki yana yasla
-- `.justify-items-stretch` - Öğeleri uzatmayı haklı göster
+- `.hover:justify-items-center` - Fareyle üzerine gelindiğinde öğe yaslama: orta
+- `.hover:justify-items-end` - Fareyle üzerine gelindiğinde öğe yaslama: bitiş
+- `.hover:justify-items-start` - Fareyle üzerine gelindiğinde öğe yaslama: başlangıç
+- `.hover:justify-items-stretch` - Fareyle üzerine gelindiğinde öğe yaslama: stretch
+- `.justify-items-center` - Öğe yaslama: orta
+- `.justify-items-end` - Öğe yaslama: bitiş
+- `.justify-items-start` - Öğe yaslama: başlangıç
+- `.justify-items-stretch` - Öğe yaslama: stretch
 
 ### Order
 
-- `.hover:order-5` - Fareyle üzerine gelindiğinde 5'i sipariş edin
-- `.hover:order-4` - Fareyle üzerine gelindiğinde 4. sipariş verin
-- `.hover:order-3` - Fareyle üzerine gelindiğinde 3. sipariş verin
-- `.hover:order-2` - Fareyle üzerine gelindiğinde 2. sipariş verin
-- `.hover:order-1` - Fareyle üzerine gelindiğinde 1. sipariş verin
+- `.hover:order-5` - Fareyle üzerine gelindiğinde sıra 5
+- `.hover:order-4` - Fareyle üzerine gelindiğinde sıra 4
+- `.hover:order-3` - Fareyle üzerine gelindiğinde sıra 3
+- `.hover:order-2` - Fareyle üzerine gelindiğinde sıra 2
+- `.hover:order-1` - Fareyle üzerine gelindiğinde sıra 1
 - `.hover:order-0` - Fareyle üzerine gelindiğinde 0 sırala
-- `.hover:order-first` - Fareyle üzerine gelindiğinde ilk önce sipariş verin
-- `.hover:order-last` - Fareyle üzerine gelindiğinde en son sipariş verin
-- `.order-5` - Sipariş 5
-- `.order-4` - Sipariş 4
-- `.order-3` - Sipariş 3
-- `.order-2` - Sipariş 2
-- `.order-1` - Sipariş 1
-- `.order-0` - Sipariş 0
-- `.order-first` - Önce sipariş verin
-- `.order-last` - Son sipariş
+- `.hover:order-first` - Fareyle üzerine gelindiğinde sıra: ilk
+- `.hover:order-last` - Fareyle üzerine gelindiğinde sıra: son
+- `.order-5` - Sıra 5
+- `.order-4` - Sıra 4
+- `.order-3` - Sıra 3
+- `.order-2` - Sıra 2
+- `.order-1` - Sıra 1
+- `.order-0` - Sıra 0
+- `.order-first` - Sıra: ilk
+- `.order-last` - Sıra: son
 
 ##### Negative Order
 
@@ -1586,22 +1586,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ##### Order - Mobile (≤ 480px)
 
-- `.hover:mobile:order-5` - Mobil cihazda fareyle üzerine gelindiğinde 5 sipariş verin
-- `.hover:mobile:order-4` - Mobil cihazda fareyle üzerine gelindiğinde 4'ü sipariş edin
-- `.hover:mobile:order-3` - Mobil cihazda fareyle üzerine gelindiğinde 3. sipariş verin
-- `.hover:mobile:order-2` - Mobil cihazda fareyle üzerine gelindiğinde 2. sipariş verin
-- `.hover:mobile:order-1` - Mobil cihazda fareyle üzerine gelindiğinde 1. Sipariş verin
-- `.hover:mobile:order-0` - Mobil cihazda fareyle üzerine gelindiğinde 0 sipariş edin
-- `.hover:mobile:order-first` - Mobil cihazda fareyle üzerine gelindiğinde ilk önce sipariş verin
-- `.hover:mobile:order-last` - Mobil cihazda fareyle üzerine gelindiğinde son siparişi verin
-- `.mobile:order-5` - Mobil cihazdan 5 sipariş verin
-- `.mobile:order-4` - Mobil cihazdan 4 sipariş verin
-- `.mobile:order-3` - Mobil cihazdan 3 sipariş verin
-- `.mobile:order-2` - Mobil cihazdan 2 sipariş verin
-- `.mobile:order-1` - Mobil cihazdan 1 sipariş verin
-- `.mobile:order-0` - Mobil cihazda 0 sipariş edin
-- `.mobile:order-first` - Mobilde ilk önce sipariş verin
-- `.mobile:order-last` - Mobil cihazda son sipariş
+- `.hover:mobile:order-5` - Mobil cihazda fareyle üzerine gelindiğinde sıra 5
+- `.hover:mobile:order-4` - Mobil cihazda fareyle üzerine gelindiğinde sıra 4
+- `.hover:mobile:order-3` - Mobil cihazda fareyle üzerine gelindiğinde sıra 3
+- `.hover:mobile:order-2` - Mobil cihazda fareyle üzerine gelindiğinde sıra 2
+- `.hover:mobile:order-1` - Mobil cihazda fareyle üzerine gelindiğinde sıra 1
+- `.hover:mobile:order-0` - Mobil cihazda fareyle üzerine gelindiğinde sıra 0
+- `.hover:mobile:order-first` - Mobil cihazda fareyle üzerine gelindiğinde sıra: ilk
+- `.hover:mobile:order-last` - Mobil cihazda fareyle üzerine gelindiğinde sıra: son
+- `.mobile:order-5` - Mobil cihazda sıra 5
+- `.mobile:order-4` - Mobil cihazda sıra 4
+- `.mobile:order-3` - Mobil cihazda sıra 3
+- `.mobile:order-2` - Mobil cihazda sıra 2
+- `.mobile:order-1` - Mobil cihazda sıra 1
+- `.mobile:order-0` - Mobil cihazda sıra 0
+- `.mobile:order-first` - Mobil cihazda sıra: ilk
+- `.mobile:order-last` - Mobil cihazda sıra: son
 
 ##### Negative Order - Mobile (≤ 480px)
 
@@ -1613,27 +1613,27 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mobile:-order-5` - Mobil cihazda Negatif Sıra 5
 - `.mobile:-order-4` - Mobil cihazda Negatif Sıra 4
 - `.mobile:-order-3` - Mobil cihazda Negatif Sıra 3
-- `.mobile:-order-2` - Mobil cihazda Negatif Sipariş 2
+- `.mobile:-order-2` - Mobil cihazda negatif Sıra 2
 - `.mobile:-order-1` - Mobil cihazda Negatif Sıra 1
 
 ##### Order - Tablet (480px - 768px)
 
-- `.hover:tablet:order-5` - Tabletin üzerine gelindiğinde 5'i sipariş edin
-- `.hover:tablet:order-4` - Tabletin üzerine gelindiğinde 4'ü sipariş edin
-- `.hover:tablet:order-3` - Tabletin üzerine gelindiğinde 3. sipariş verin
-- `.hover:tablet:order-2` - Tabletin üzerine gelindiğinde 2. sipariş verin
-- `.hover:tablet:order-1` - Tabletin üzerine gelindiğinde 1. sipariş verin
-- `.hover:tablet:order-0` - Tabletin üzerine gelindiğinde 0 sipariş edin
-- `.hover:tablet:order-first` - Tabletin üzerine gelindiğinde ilk önce sipariş verin
-- `.hover:tablet:order-last` - Tablette fareyle üzerine gelindiğinde son siparişi verin
-- `.tablet:order-5` - Tablette 5 sipariş edin
-- `.tablet:order-4` - Tablette 4 sipariş edin
-- `.tablet:order-3` - Tablette 3 sipariş edin
-- `.tablet:order-2` - Tablette 2 sipariş edin
-- `.tablet:order-1` - Tablette 1 sipariş verin
-- `.tablet:order-0` - Tablette 0 sipariş edin
-- `.tablet:order-first` - İlk önce tablette sipariş verin
-- `.tablet:order-last` - Tablette son sipariş
+- `.hover:tablet:order-5` - Tablette fareyle üzerine gelindiğinde sıra 5
+- `.hover:tablet:order-4` - Tablette fareyle üzerine gelindiğinde sıra 4
+- `.hover:tablet:order-3` - Tablette fareyle üzerine gelindiğinde sıra 3
+- `.hover:tablet:order-2` - Tablette fareyle üzerine gelindiğinde sıra 2
+- `.hover:tablet:order-1` - Tablette fareyle üzerine gelindiğinde sıra 1
+- `.hover:tablet:order-0` - Tablette fareyle üzerine gelindiğinde sıra 0
+- `.hover:tablet:order-first` - Tablette fareyle üzerine gelindiğinde sıra: ilk
+- `.hover:tablet:order-last` - Tablette fareyle üzerine gelindiğinde sıra: son
+- `.tablet:order-5` - Tablette sıra 5
+- `.tablet:order-4` - Tablette sıra 4
+- `.tablet:order-3` - Tablette sıra 3
+- `.tablet:order-2` - Tablette sıra 2
+- `.tablet:order-1` - Tablette sıra 1
+- `.tablet:order-0` - Tablette sıra 0
+- `.tablet:order-first` - Tablette sıra: ilk
+- `.tablet:order-last` - Tablette sıra: son
 
 ##### Negative Order - Tablet (480px - 768px)
 
@@ -1650,22 +1650,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ##### Order - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:order-5` - Tablet bilgisayarda fareyle üzerine gelindiğinde 5'i sipariş edin
-- `.hover:tablet-pc:order-4` - Tablet bilgisayarda fareyle üzerine gelindiğinde 4'ü sipariş edin
-- `.hover:tablet-pc:order-3` - Tablet bilgisayarda fareyle üzerine gelindiğinde 3. Siparişi verin
-- `.hover:tablet-pc:order-2` - Tablet bilgisayarda fareyle üzerine gelindiğinde 2. Siparişi verin
-- `.hover:tablet-pc:order-1` - Tablet bilgisayarda fareyle üzerine gelindiğinde 1. Siparişi verin
-- `.hover:tablet-pc:order-0` - Tablet bilgisayarda fareyle üzerine gelindiğinde 0 sipariş edin
-- `.hover:tablet-pc:order-first` - Tablet bilgisayarda fareyle üzerine gelindiğinde ilk önce sipariş verin
-- `.hover:tablet-pc:order-last` - Tablet bilgisayarda fareyle üzerine gelindiğinde son sipariş verin
-- `.tablet-pc:order-5` - Tablet PC'de 5 sipariş edin
-- `.tablet-pc:order-4` - Tablet PC'de 4 sipariş edin
-- `.tablet-pc:order-3` - Tablet PC'de 3 sipariş edin
-- `.tablet-pc:order-2` - Tablet PC'de 2 sipariş edin
-- `.tablet-pc:order-1` - Tablet PC'de 1 Sipariş Ver
-- `.tablet-pc:order-0` - Tablet PC'de 0 sipariş edin
-- `.tablet-pc:order-first` - Tablet PC'de ilk önce sipariş verin
-- `.tablet-pc:order-last` - Tablet PC'de son sipariş
+- `.hover:tablet-pc:order-5` - Tablet bilgisayarda fareyle üzerine gelindiğinde sıra 5
+- `.hover:tablet-pc:order-4` - Tablet bilgisayarda fareyle üzerine gelindiğinde sıra 4
+- `.hover:tablet-pc:order-3` - Tablet bilgisayarda fareyle üzerine gelindiğinde sıra 3
+- `.hover:tablet-pc:order-2` - Tablet bilgisayarda fareyle üzerine gelindiğinde sıra 2
+- `.hover:tablet-pc:order-1` - Tablet bilgisayarda fareyle üzerine gelindiğinde sıra 1
+- `.hover:tablet-pc:order-0` - Tablet bilgisayarda fareyle üzerine gelindiğinde sıra 0
+- `.hover:tablet-pc:order-first` - Tablet bilgisayarda fareyle üzerine gelindiğinde sıra: ilk
+- `.hover:tablet-pc:order-last` - Tablet bilgisayarda fareyle üzerine gelindiğinde sıra: son
+- `.tablet-pc:order-5` - Tablet bilgisayarda sıra 5
+- `.tablet-pc:order-4` - Tablet bilgisayarda sıra 4
+- `.tablet-pc:order-3` - Tablet bilgisayarda sıra 3
+- `.tablet-pc:order-2` - Tablet bilgisayarda sıra 2
+- `.tablet-pc:order-1` - Tablet bilgisayarda sıra 1
+- `.tablet-pc:order-0` - Tablet bilgisayarda sıra 0
+- `.tablet-pc:order-first` - Tablet bilgisayarda sıra: ilk
+- `.tablet-pc:order-last` - Tablet bilgisayarda sıra: son
 
 ##### Negative Order - Tablet Pc (768px - 992px)
 
@@ -1682,22 +1682,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ##### Order - Pc (992px - 1200px)
 
-- `.hover:pc:order-5` - PC'de fareyle üzerine gelindiğinde 5 sipariş edin
-- `.hover:pc:order-4` - PC'de fareyle üzerine gelindiğinde 4'ü sipariş edin
-- `.hover:pc:order-3` - PC'de fareyle üzerine gelindiğinde 3. sipariş verin
-- `.hover:pc:order-2` - PC'de fareyle üzerine gelindiğinde 2. Siparişi verin
-- `.hover:pc:order-1` - PC'de fareyle üzerine gelindiğinde 1. Siparişi verin
-- `.hover:pc:order-0` - PC'de fareyle üzerine gelindiğinde 0 sipariş edin
-- `.hover:pc:order-first` - PC'de fareyle üzerine gelindiğinde ilk önce sipariş verin
-- `.hover:pc:order-last` - PC'de fareyle üzerine gelindiğinde son sipariş verin
-- `.pc:order-5` - PC'de 5 sipariş edin
-- `.pc:order-4` - PC'de 4 sipariş edin
-- `.pc:order-3` - PC'de 3 sipariş edin
-- `.pc:order-2` - PC'de 2 sipariş ver
-- `.pc:order-1` - PC'de 1 sipariş verin
-- `.pc:order-0` - PC'de 0 sipariş edin
-- `.pc:order-first` - İlk önce PC'de sipariş verin
-- `.pc:order-last` - PC'de son sipariş
+- `.hover:pc:order-5` - PC'de fareyle üzerine gelindiğinde sıra 5
+- `.hover:pc:order-4` - PC'de fareyle üzerine gelindiğinde sıra 4
+- `.hover:pc:order-3` - PC'de fareyle üzerine gelindiğinde sıra 3
+- `.hover:pc:order-2` - PC'de fareyle üzerine gelindiğinde sıra 2
+- `.hover:pc:order-1` - PC'de fareyle üzerine gelindiğinde sıra 1
+- `.hover:pc:order-0` - PC'de fareyle üzerine gelindiğinde sıra 0
+- `.hover:pc:order-first` - PC'de fareyle üzerine gelindiğinde sıra: ilk
+- `.hover:pc:order-last` - PC'de fareyle üzerine gelindiğinde sıra: son
+- `.pc:order-5` - PC'de sıra 5
+- `.pc:order-4` - PC'de sıra 4
+- `.pc:order-3` - PC'de sıra 3
+- `.pc:order-2` - PC'de sıra 2
+- `.pc:order-1` - PC'de sıra 1
+- `.pc:order-0` - PC'de sıra 0
+- `.pc:order-first` - PC'de sıra: ilk
+- `.pc:order-last` - PC'de sıra: son
 
 ##### Negative Order - Pc (992px - 1200px)
 
@@ -1706,30 +1706,30 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pc:-order-3` - PC'de fareyle üzerine gelindiğinde Negatif Sıra 3
 - `.hover:pc:-order-2` - PC'de fareyle üzerine gelindiğinde Negatif Sıra 2
 - `.hover:pc:-order-1` - PC'de fareyle üzerine gelindiğinde Negatif Sıra 1
-- `.pc:-order-5` - PC'de Negatif Sipariş 5
-- `.pc:-order-4` - PC'de Negatif Sipariş 4
-- `.pc:-order-3` - PC'de Negatif Sipariş 3
-- `.pc:-order-2` - PC'de Negatif Sipariş 2
-- `.pc:-order-1` - PC'de Negatif Sipariş 1
+- `.pc:-order-5` - PC'de negatif Sıra 5
+- `.pc:-order-4` - PC'de negatif Sıra 4
+- `.pc:-order-3` - PC'de negatif Sıra 3
+- `.pc:-order-2` - PC'de negatif Sıra 2
+- `.pc:-order-1` - PC'de negatif Sıra 1
 
 ##### Order - Tv (≥ 1200px)
 
-- `.hover:tv:order-5` - Televizyonda fareyle üzerine gelindiğinde 5'i sipariş edin
-- `.hover:tv:order-4` - TV'de fareyle üzerine gelindiğinde 4'ü sipariş edin
-- `.hover:tv:order-3` - Televizyonda fareyle üzerine gelindiğinde 3. Siparişi verin
-- `.hover:tv:order-2` - Televizyonda fareyle üzerine gelindiğinde 2. Siparişi verin
-- `.hover:tv:order-1` - Televizyonda fareyle üzerine gelindiğinde 1. Siparişi verin
-- `.hover:tv:order-0` - Televizyonun üzerine gelindiğinde 0 sipariş edin
-- `.hover:tv:order-first` - TV'de fareyle üzerine gelindiğinde ilk önce sipariş verin
-- `.hover:tv:order-last` - Televizyonda fareyle üzerine gelindiğinde son sipariş verin
-- `.tv:order-5` - TV'de 5 sipariş ver
-- `.tv:order-4` - TV'de 4 sipariş ver
-- `.tv:order-3` - TV'de 3 sipariş ver
-- `.tv:order-2` - TV'de 2 sipariş ver
-- `.tv:order-1` - TV'de 1 sipariş ver
-- `.tv:order-0` - TV'de 0 sipariş et
-- `.tv:order-first` - TV'de ilk önce sipariş verin
-- `.tv:order-last` - TV'de son sipariş
+- `.hover:tv:order-5` - TV'de fareyle üzerine gelindiğinde sıra 5
+- `.hover:tv:order-4` - TV'de fareyle üzerine gelindiğinde sıra 4
+- `.hover:tv:order-3` - TV'de fareyle üzerine gelindiğinde sıra 3
+- `.hover:tv:order-2` - TV'de fareyle üzerine gelindiğinde sıra 2
+- `.hover:tv:order-1` - TV'de fareyle üzerine gelindiğinde sıra 1
+- `.hover:tv:order-0` - TV'de fareyle üzerine gelindiğinde sıra 0
+- `.hover:tv:order-first` - TV'de fareyle üzerine gelindiğinde sıra: ilk
+- `.hover:tv:order-last` - TV'de fareyle üzerine gelindiğinde sıra: son
+- `.tv:order-5` - TV'de sıra 5
+- `.tv:order-4` - TV'de sıra 4
+- `.tv:order-3` - TV'de sıra 3
+- `.tv:order-2` - TV'de sıra 2
+- `.tv:order-1` - TV'de sıra 1
+- `.tv:order-0` - TV'de sıra 0
+- `.tv:order-first` - TV'de sıra: ilk
+- `.tv:order-last` - TV'de sıra: son
 
 ##### Negative Order - Tv (≥ 1200px)
 
@@ -1741,27 +1741,27 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:-order-5` - TV'de Negatif Sıralama 5
 - `.tv:-order-4` - Negatif Sıralama 4 televizyonda
 - `.tv:-order-3` - TV'de Negatif Sıralama 3
-- `.tv:-order-2` - Negatif Sipariş 2 televizyonda
+- `.tv:-order-2` - TV'de negatif Sıra 2
 - `.tv:-order-1` - TV'de Negatif Sıra 1
 
 ##### Order - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:order-5` - Maksimum tablette fareyle üzerine gelindiğinde 5 sipariş verin
-- `.hover:tablet-max:order-4` - Maksimum tablette fareyle üzerine gelindiğinde 4 sipariş verin
-- `.hover:tablet-max:order-3` - Tablet max üzerinde fareyle üzerine gelindiğinde 3 sipariş verin
-- `.hover:tablet-max:order-2` - Tablet max üzerinde fareyle üzerine gelindiğinde 2 sipariş verin
-- `.hover:tablet-max:order-1` - Maksimum tabletin üzerine gelindiğinde 1 sipariş verin
-- `.hover:tablet-max:order-0` - Maksimum tablette fareyle üzerine gelindiğinde 0 sipariş edin
-- `.hover:tablet-max:order-first` - Tablet max üzerinde fareyle üzerine gelindiğinde ilk önce sipariş verin
-- `.hover:tablet-max:order-last` - Tablet max üzerinde fareyle üzerine gelindiğinde en son sipariş verin
-- `.tablet-max:order-5` - Maksimum tablette 5 sipariş verin
-- `.tablet-max:order-4` - Maksimum tablette 4 sipariş verin
-- `.tablet-max:order-3` - Tablet max'ta 3 sipariş verin
-- `.tablet-max:order-2` - Tablet max'ta 2 sipariş verin
-- `.tablet-max:order-1` - Maksimum tablette 1 sipariş verin
-- `.tablet-max:order-0` - Tablet max'ta 0 sipariş edin
-- `.tablet-max:order-first` - Tablet max'ta ilk önce sipariş verin
-- `.tablet-max:order-last` - Tablet max'ta son sipariş
+- `.hover:tablet-max:order-5` - Tablette (maks.) fareyle üzerine gelindiğinde sıra 5
+- `.hover:tablet-max:order-4` - Tablette (maks.) fareyle üzerine gelindiğinde sıra 4
+- `.hover:tablet-max:order-3` - Tablette (maks.) fareyle üzerine gelindiğinde sıra 3
+- `.hover:tablet-max:order-2` - Tablette (maks.) fareyle üzerine gelindiğinde sıra 2
+- `.hover:tablet-max:order-1` - Tablette (maks.) fareyle üzerine gelindiğinde sıra 1
+- `.hover:tablet-max:order-0` - Tablette (maks.) fareyle üzerine gelindiğinde sıra 0
+- `.hover:tablet-max:order-first` - Tablette (maks.) fareyle üzerine gelindiğinde sıra: ilk
+- `.hover:tablet-max:order-last` - Tablette (maks.) fareyle üzerine gelindiğinde sıra: son
+- `.tablet-max:order-5` - Tablette (maks.) sıra 5
+- `.tablet-max:order-4` - Tablette (maks.) sıra 4
+- `.tablet-max:order-3` - Tablette (maks.) sıra 3
+- `.tablet-max:order-2` - Tablette (maks.) sıra 2
+- `.tablet-max:order-1` - Tablette (maks.) sıra 1
+- `.tablet-max:order-0` - Tablette (maks.) sıra 0
+- `.tablet-max:order-first` - Tablette (maks.) sıra: ilk
+- `.tablet-max:order-last` - Tablette (maks.) sıra: son
 
 ##### Negative Order - Tablet Max (≤ 768px)
 
@@ -1773,27 +1773,27 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:-order-5` - Tablet max'ta Negatif Sıra 5
 - `.tablet-max:-order-4` - Tablet max'ta Negatif Sıra 4
 - `.tablet-max:-order-3` - Tablet max'ta Negatif Sıra 3
-- `.tablet-max:-order-2` - Tablet max'ta Negatif Sipariş 2
+- `.tablet-max:-order-2` - Tablette (maks.) negatif Sıra 2
 - `.tablet-max:-order-1` - Maksimum tablette Negatif Sıra 1
 
 ##### Order - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:order-5` - Tablet PC max üzerinde fareyle üzerine gelindiğinde 5 sipariş verin
-- `.hover:tablet-pc-max:order-4` - Tablet PC max üzerinde fareyle üzerine gelindiğinde 4 sipariş verin
-- `.hover:tablet-pc-max:order-3` - Tablet PC max üzerinde fareyle üzerine gelindiğinde 3 sipariş verin
-- `.hover:tablet-pc-max:order-2` - Tablet PC max üzerinde fareyle üzerine gelindiğinde 2 sipariş verin
-- `.hover:tablet-pc-max:order-1` - Tablet PC max üzerinde fareyle üzerine gelindiğinde 1 sipariş verin
-- `.hover:tablet-pc-max:order-0` - Maksimum tablet PC'de fareyle üzerine gelindiğinde 0 sipariş edin
-- `.hover:tablet-pc-max:order-first` - Tablet PC max'ta fareyle üzerine gelindiğinde ilk önce sipariş verin
-- `.hover:tablet-pc-max:order-last` - Tablet PC max'ta fareyle üzerine gelindiğinde son sipariş verin
-- `.tablet-pc-max:order-5` - Tablet PC'de maksimum 5 sipariş verin
-- `.tablet-pc-max:order-4` - Tablet PC'de max 4 adet sipariş verin
-- `.tablet-pc-max:order-3` - Tablet pc max'ta 3 sipariş verin
-- `.tablet-pc-max:order-2` - Tablet PC max için 2 adet sipariş verin
-- `.tablet-pc-max:order-1` - Tablet PC'de maksimum 1 sipariş verin
-- `.tablet-pc-max:order-0` - Tablet PC'de max sipariş 0
-- `.tablet-pc-max:order-first` - Tablet PC Max'te ilk önce sipariş verin
-- `.tablet-pc-max:order-last` - Tablet PC max'ta son sipariş
+- `.hover:tablet-pc-max:order-5` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra 5
+- `.hover:tablet-pc-max:order-4` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra 4
+- `.hover:tablet-pc-max:order-3` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra 3
+- `.hover:tablet-pc-max:order-2` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra 2
+- `.hover:tablet-pc-max:order-1` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra 1
+- `.hover:tablet-pc-max:order-0` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra 0
+- `.hover:tablet-pc-max:order-first` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra: ilk
+- `.hover:tablet-pc-max:order-last` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra: son
+- `.tablet-pc-max:order-5` - Tablet bilgisayarda (maks.) sıra 5
+- `.tablet-pc-max:order-4` - Tablet bilgisayarda (maks.) sıra 4
+- `.tablet-pc-max:order-3` - Tablet bilgisayarda (maks.) sıra 3
+- `.tablet-pc-max:order-2` - Tablet bilgisayarda (maks.) sıra 2
+- `.tablet-pc-max:order-1` - Tablet bilgisayarda (maks.) sıra 1
+- `.tablet-pc-max:order-0` - Tablet bilgisayarda (maks.) sıra 0
+- `.tablet-pc-max:order-first` - Tablet bilgisayarda (maks.) sıra: ilk
+- `.tablet-pc-max:order-last` - Tablet bilgisayarda (maks.) sıra: son
 
 ##### Negative Order - Tablet Pc Max (≤ 992px)
 
@@ -1810,22 +1810,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ##### Order - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:order-5` - PC max üzerinde fareyle üzerine gelindiğinde 5 sipariş verin
-- `.hover:pc-max:order-4` - PC max üzerinde fareyle üzerine gelindiğinde 4 sipariş verin
-- `.hover:pc-max:order-3` - PC max üzerinde fareyle üzerine gelindiğinde 3 sipariş verin
-- `.hover:pc-max:order-2` - PC max üzerinde fareyle üzerine gelindiğinde 2 sipariş verin
-- `.hover:pc-max:order-1` - PC max üzerinde fareyle üzerine gelindiğinde 1 sipariş verin
-- `.hover:pc-max:order-0` - PC max üzerinde fareyle üzerine gelindiğinde 0 sipariş edin
-- `.hover:pc-max:order-first` - PC max'ta fareyle üzerine gelindiğinde ilk önce sipariş verin
-- `.hover:pc-max:order-last` - PC max'ta fareyle üzerine gelindiğinde son sipariş verin
-- `.pc-max:order-5` - PC'de maksimum 5 sipariş verin
-- `.pc-max:order-4` - Maksimum PC'de 4 sipariş verin
-- `.pc-max:order-3` - Maksimum PC'de 3 sipariş verin
-- `.pc-max:order-2` - PC'de maksimum 2 adet sipariş verin
-- `.pc-max:order-1` - PC'de maksimum 1 sipariş verin
-- `.pc-max:order-0` - PC'de maksimum sipariş 0
-- `.pc-max:order-first` - PC max'ta ilk önce sipariş verin
-- `.pc-max:order-last` - PC max'ta son sipariş
+- `.hover:pc-max:order-5` - PC'de (maks.) fareyle üzerine gelindiğinde sıra 5
+- `.hover:pc-max:order-4` - PC'de (maks.) fareyle üzerine gelindiğinde sıra 4
+- `.hover:pc-max:order-3` - PC'de (maks.) fareyle üzerine gelindiğinde sıra 3
+- `.hover:pc-max:order-2` - PC'de (maks.) fareyle üzerine gelindiğinde sıra 2
+- `.hover:pc-max:order-1` - PC'de (maks.) fareyle üzerine gelindiğinde sıra 1
+- `.hover:pc-max:order-0` - PC'de (maks.) fareyle üzerine gelindiğinde sıra 0
+- `.hover:pc-max:order-first` - PC'de (maks.) fareyle üzerine gelindiğinde sıra: ilk
+- `.hover:pc-max:order-last` - PC'de (maks.) fareyle üzerine gelindiğinde sıra: son
+- `.pc-max:order-5` - PC'de (maks.) sıra 5
+- `.pc-max:order-4` - PC'de (maks.) sıra 4
+- `.pc-max:order-3` - PC'de (maks.) sıra 3
+- `.pc-max:order-2` - PC'de (maks.) sıra 2
+- `.pc-max:order-1` - PC'de (maks.) sıra 1
+- `.pc-max:order-0` - PC'de (maks.) sıra 0
+- `.pc-max:order-first` - PC'de (maks.) sıra: ilk
+- `.pc-max:order-last` - PC'de (maks.) sıra: son
 
 ##### Negative Order - Pc Max (≤ 1200px)
 
@@ -1834,11 +1834,11 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pc-max:-order-3` - PC max üzerinde fareyle üzerine gelindiğinde Negatif Sıra 3
 - `.hover:pc-max:-order-2` - PC max üzerinde fareyle üzerine gelindiğinde Negatif Sıra 2
 - `.hover:pc-max:-order-1` - PC max üzerinde fareyle üzerine gelindiğinde Negatif Sıra 1
-- `.pc-max:-order-5` - PC'de maksimum Negatif Sipariş 5
-- `.pc-max:-order-4` - PC'de maksimum Negatif Sipariş 4
-- `.pc-max:-order-3` - PC max'ta Negatif Sipariş 3
-- `.pc-max:-order-2` - PC'de maksimum Negatif Sipariş 2
-- `.pc-max:-order-1` - PC'de maksimum Negatif Sipariş 1
+- `.pc-max:-order-5` - PC'de (maks.) negatif Sıra 5
+- `.pc-max:-order-4` - PC'de (maks.) negatif Sıra 4
+- `.pc-max:-order-3` - PC'de (maks.) negatif Sıra 3
+- `.pc-max:-order-2` - PC'de (maks.) negatif Sıra 2
+- `.pc-max:-order-1` - PC'de (maks.) negatif Sıra 1
 
 ## Spacing
 
@@ -1872,13 +1872,13 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:m-0.4` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:m-0.3` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:m-0.2` - Fareyle üzerine gelindiğinde Tüm Marj 0,2rem
-- `.hover:m-0.1` - Tüm Marj Fareyle üzerine gelindiğinde 0,1 rem
+- `.hover:m-0.1` - Tüm Marj Fareyle üzerine gelindiğinde 0,1rem
 - `.hover:m-0` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:m-auto` - Kenar Boşluğu Fareyle üzerine gelindiğinde tümü otomatik
 - `.last:m-0` - Marj Tümü 0rem sonda
 - `.m-5` - Tümü Marj 5rem
 - `.m-4.5` - Tüm Marj 0rem
-- `.m-4` - Marjın Tamamı 4rem
+- `.m-4` - Tüm Marj 4rem
 - `.m-3.5` - Tüm Marj 0rem
 - `.m-3` - Tümü Marj 3rem
 - `.m-2.5` - Tüm Marj 0rem
@@ -1937,7 +1937,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mb-0.4` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
 - `.hover:mb-0.3` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
 - `.hover:mb-0.2` - Fareyle üzerine gelindiğinde Alt Marj 0,2rem
-- `.hover:mb-0.1` - Fareyle üzerine gelindiğinde Alt Marj 0,1 rem
+- `.hover:mb-0.1` - Fareyle üzerine gelindiğinde Alt Marj 0,1rem
 - `.hover:mb-0` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
 - `.hover:mb-auto` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt otomatik
 - `.last:mb-0` - Marj Alt 0rem sonda
@@ -1977,19 +1977,19 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Margin End
 
 - `.hover:me-2` - Fareyle üzerine gelindiğinde Marj Sonu 2rem
-- `.hover:me-1.5` - Fareyle üzerine gelindiğinde Marj Sonu 1,5 rem
+- `.hover:me-1.5` - Fareyle üzerine gelindiğinde Marj Sonu 1,5rem
 - `.hover:me-1` - Fareyle üzerine gelindiğinde Marj Sonu 1rem
 - `.hover:me-0.5` - Fareyle üzerine gelindiğinde Marj Sonu 0,5rem
 - `.hover:me-0` - Fareyle üzerine gelindiğinde Marj Sonu 0rem
 - `.me-2` - Marj Sonu 2rem
 - `.me-1.5` - Marj Sonu 1,5rem
 - `.me-1` - Marj Sonu 1rem
-- `.me-0.5` - Marj Sonu 0,5 rem
+- `.me-0.5` - Marj Sonu 0,5rem
 - `.me-0` - Marj Sonu 0rem
 
 #### Margin Left
 
-- `.first:ml-0` - Marj İlk başta 0rem kaldı
+- `.first:ml-0` - İlk öğede sol Marj 0rem
 - `.hover:ml-100` - Fareyle üzerine gelindiğinde Sol Marj %100
 - `.hover:ml-75` - Fareyle üzerine gelindiğinde Sol Marj %75
 - `.hover:ml-50` - Fareyle üzerine gelindiğinde Sol Marj %50
@@ -2019,10 +2019,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:ml-0.4` - Fareyle üzerine gelindiğinde Sol Marj 0rem
 - `.hover:ml-0.3` - Fareyle üzerine gelindiğinde Sol Marj 0rem
 - `.hover:ml-0.2` - Vurguluyken Sol Marj 0,2rem
-- `.hover:ml-0.1` - Fareyle üzerine gelindiğinde Sol Marj 0,1 rem
+- `.hover:ml-0.1` - Fareyle üzerine gelindiğinde Sol Marj 0,1rem
 - `.hover:ml-0` - Fareyle üzerine gelindiğinde Sol Marj 0rem
 - `.hover:ml-auto` - Fareyle üzerine gelindiğinde Kenar Boşluğu Sol otomatik
-- `.last:ml-0` - Sonda Kalan Marj 0rem
+- `.last:ml-0` - Son öğede sol Marj 0rem
 - `.ml-100` - Sol Marj %100
 - `.ml-75` - Sol Marj %75
 - `.ml-50` - Sol Marj %50
@@ -2087,8 +2087,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mr-0.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
 - `.hover:mr-0.4` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
 - `.hover:mr-0.3` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-0.2` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0,2 rem
-- `.hover:mr-0.1` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0,1 rem
+- `.hover:mr-0.2` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0,2rem
+- `.hover:mr-0.1` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0,1rem
 - `.hover:mr-0` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
 - `.hover:mr-auto` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu otomatik
 - `.last:mr-0` - Marj Sağ 0rem sonda
@@ -2128,7 +2128,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Margin Start
 
 - `.hover:ms-2` - Fareyle üzerine gelindiğinde Marj Başlangıcı 2rem
-- `.hover:ms-1.5` - Marj Başlangıcı 1,5 rem fareyle üzerine gelindiğinde
+- `.hover:ms-1.5` - Marj Başlangıcı 1,5rem fareyle üzerine gelindiğinde
 - `.hover:ms-1` - Marj Başlangıcı 1rem fareyle üzerine gelindiğinde
 - `.hover:ms-0.5` - Marj Başlangıcı 0,5rem fareyle üzerine gelindiğinde
 - `.hover:ms-0` - Marj Başlangıcı 0rem fareyle üzerine gelindiğinde
@@ -2141,15 +2141,15 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Margin Top
 
 - `.first:mt-0` - Marj Üst 0rem ilk başta
-- `.hover:mt-100` - Fareyle üzerine gelindiğinde Marj İlk %100
-- `.hover:mt-75` - Fareyle üzerine gelindiğinde Marj Top %75
-- `.hover:mt-50` - Fareyle üzerine gelindiğinde Marj İlk %50
-- `.hover:mt-25` - Fareyle üzerine gelindiğinde Marj İlk %25
-- `.hover:mt-5` - Fareyle üzerine gelindiğinde Marj İlk 5rem
+- `.hover:mt-100` - Fareyle üzerine gelindiğinde marj Üst %100
+- `.hover:mt-75` - Fareyle üzerine gelindiğinde marj Üst %75
+- `.hover:mt-50` - Fareyle üzerine gelindiğinde marj Üst %50
+- `.hover:mt-25` - Fareyle üzerine gelindiğinde marj Üst %25
+- `.hover:mt-5` - Fareyle üzerine gelindiğinde marj Üst 5rem
 - `.hover:mt-4.5` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-4` - Fareyle üzerine gelindiğinde Marj Top 4rem
+- `.hover:mt-4` - Fareyle üzerine gelindiğinde marj Üst 4rem
 - `.hover:mt-3.5` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-3` - Fareyle üzerine gelindiğinde Marj Top 3rem
+- `.hover:mt-3` - Fareyle üzerine gelindiğinde marj Üst 3rem
 - `.hover:mt-2.5` - Fareyle üzerine gelindiğinde Marj Üst 0rem
 - `.hover:mt-2` - Fareyle üzerine gelindiğinde Marj Üst 2rem
 - `.hover:mt-1.9` - Fareyle üzerine gelindiğinde Marj Üst 0rem
@@ -2170,13 +2170,13 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mt-0.4` - Fareyle üzerine gelindiğinde Marj Üst 0rem
 - `.hover:mt-0.3` - Fareyle üzerine gelindiğinde Marj Üst 0rem
 - `.hover:mt-0.2` - Fareyle üzerine gelindiğinde Marj Üst 0,2rem
-- `.hover:mt-0.1` - Fareyle üzerine gelindiğinde Marj Üst 0,1 rem
+- `.hover:mt-0.1` - Fareyle üzerine gelindiğinde Marj Üst 0,1rem
 - `.hover:mt-0` - Fareyle üzerine gelindiğinde Marj Üst 0rem
 - `.hover:mt-auto` - Fareyle üzerine gelindiğinde Kenar Boşluğu Üstü otomatik
 - `.last:mt-0` - Marj Üst 0rem sonda
-- `.mt-100` - Marj İlk %100
+- `.mt-100` - Marj Üst %100
 - `.mt-75` - Marj Üst %75
-- `.mt-50` - Marj İlk %50
+- `.mt-50` - Marj Üst %50
 - `.mt-25` - Marj Üst %25
 - `.mt-5` - Marj Üst 5rem
 - `.mt-4.5` - Marj Üst 0rem
@@ -2203,7 +2203,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mt-0.4` - Marj Üst 0rem
 - `.mt-0.3` - Marj Üst 0rem
 - `.mt-0.2` - Marj Üst 0,2rem
-- `.mt-0.1` - Marj Üst 0,1 rem
+- `.mt-0.1` - Marj Üst 0,1rem
 - `.mt-0` - Marj Üst 0rem
 - `.mt-auto` - Marj Üst otomatik
 
@@ -2229,7 +2229,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mx-1.3` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
 - `.hover:mx-1.2` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
 - `.hover:mx-1.1` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-1` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1 rem
+- `.hover:mx-1` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1rem
 - `.hover:mx-0.9` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
 - `.hover:mx-0.8` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
 - `.hover:mx-0.7` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
@@ -2237,15 +2237,15 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mx-0.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
 - `.hover:mx-0.4` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
 - `.hover:mx-0.3` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-0.2` - Fareyle üzerine gelindiğinde X Ekseni Marjı 0,2 rem
-- `.hover:mx-0.1` - Fareyle üzerine gelindiğinde X Ekseni Marjı 0,1 rem
+- `.hover:mx-0.2` - Fareyle üzerine gelindiğinde X Ekseni Marjı 0,2rem
+- `.hover:mx-0.1` - Fareyle üzerine gelindiğinde X Ekseni Marjı 0,1rem
 - `.hover:mx-0` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
 - `.hover:mx-auto` - Fareyle üzerine gelindiğinde X Ekseni Marjı otomatik
 - `.mx-100` - Marj X Ekseni %100
 - `.mx-75` - Marj X Ekseni %75
 - `.mx-50` - Marj X Ekseni %50
 - `.mx-25` - Marj X Ekseni %25
-- `.mx-5` - Marj X Ekseni 5 rem
+- `.mx-5` - Marj X Ekseni 5rem
 - `.mx-4.5` - Marj X Ekseni 0rem
 - `.mx-4` - Marj X Ekseni 4rem
 - `.mx-3.5` - Marj X Ekseni 0rem
@@ -2261,7 +2261,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mx-1.3` - Marj X Ekseni 0rem
 - `.mx-1.2` - Marj X Ekseni 0rem
 - `.mx-1.1` - Marj X Ekseni 0rem
-- `.mx-1` - Marj X Ekseni 1 rem
+- `.mx-1` - Marj X Ekseni 1rem
 - `.mx-0.9` - Marj X Ekseni 0rem
 - `.mx-0.8` - Marj X Ekseni 0rem
 - `.mx-0.7` - Marj X Ekseni 0rem
@@ -2269,8 +2269,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mx-0.5` - Marj X Ekseni 0rem
 - `.mx-0.4` - Marj X Ekseni 0rem
 - `.mx-0.3` - Marj X Ekseni 0rem
-- `.mx-0.2` - Marj X Ekseni 0,2 rem
-- `.mx-0.1` - Marj X Ekseni 0,1 rem
+- `.mx-0.2` - Marj X Ekseni 0,2rem
+- `.mx-0.1` - Marj X Ekseni 0,1rem
 - `.mx-0` - Marj X Ekseni 0rem
 - `.mx-auto` - Marj X Ekseni otomatik
 
@@ -2305,14 +2305,14 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:my-0.4` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
 - `.hover:my-0.3` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
 - `.hover:my-0.2` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0,2rem
-- `.hover:my-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0,1 rem
+- `.hover:my-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0,1rem
 - `.hover:my-0` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
 - `.hover:my-auto` - Fareyle üzerine gelindiğinde Y Ekseni Kenar Boşluğu otomatik
 - `.my-100` - Marj Y Ekseni %100
 - `.my-75` - Marj Y Ekseni %75
 - `.my-50` - Marj Y Ekseni %50
 - `.my-25` - Marj Y Ekseni %25
-- `.my-5` - Marj Y Ekseni 5 rem
+- `.my-5` - Marj Y Ekseni 5rem
 - `.my-4.5` - Marj Y Ekseni 0rem
 - `.my-4` - Marj Y Ekseni 4rem
 - `.my-3.5` - Marj Y Ekseni 0rem
@@ -2328,7 +2328,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.my-1.3` - Marj Y Ekseni 0rem
 - `.my-1.2` - Marj Y Ekseni 0rem
 - `.my-1.1` - Marj Y Ekseni 0rem
-- `.my-1` - Marj Y Ekseni 1 rem
+- `.my-1` - Marj Y Ekseni 1rem
 - `.my-0.9` - Marj Y Ekseni 0rem
 - `.my-0.8` - Marj Y Ekseni 0rem
 - `.my-0.7` - Marj Y Ekseni 0rem
@@ -2370,11 +2370,11 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:p-0.5` - Vurguluyken tüm 0rem'i doldurma
 - `.hover:p-0.4` - Vurguluyken tüm 0rem'i doldurma
 - `.hover:p-0.3` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-0.2` - Vurguluyken tümü 0,2 rem dolgulu
-- `.hover:p-0.1` - Vurguluyken tümü 0,1 rem dolgulu
+- `.hover:p-0.2` - Vurguluyken tümü 0,2rem dolgulu
+- `.hover:p-0.1` - Vurguluyken tümü 0,1rem dolgulu
 - `.hover:p-0` - Vurguluyken tüm 0rem'i doldurma
 - `.last:p-0` - Tüm 0rem'i en sonda doldurma
-- `.p-5` - Dolgunun tamamı 5rem
+- `.p-5` - Dolgu Tümü 5rem
 - `.p-4.5` - Dolgu Tümü 0rem
 - `.p-4` - Tümü 4rem'i doldurma
 - `.p-3.5` - Dolgu Tümü 0rem
@@ -2390,7 +2390,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.p-1.3` - Dolgu Tümü 0rem
 - `.p-1.2` - Dolgu Tümü 0rem
 - `.p-1.1` - Dolgu Tümü 0rem
-- `.p-1` - Dolgunun tamamı 1rem
+- `.p-1` - Dolgu Tümü 1rem
 - `.p-0.9` - Dolgu Tümü 0rem
 - `.p-0.8` - Dolgu Tümü 0rem
 - `.p-0.7` - Dolgu Tümü 0rem
@@ -2398,13 +2398,13 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.p-0.5` - Dolgu Tümü 0rem
 - `.p-0.4` - Dolgu Tümü 0rem
 - `.p-0.3` - Dolgu Tümü 0rem
-- `.p-0.2` - Dolgunun tamamı 0,2 rem
-- `.p-0.1` - Dolgunun tamamı 0,1 rem
+- `.p-0.2` - Dolgu Tümü 0.2rem
+- `.p-0.1` - Dolgu Tümü 0.1rem
 - `.p-0` - Dolgu Tümü 0rem
 
 #### Padding Bottom
 
-- `.first:pb-0` - Önce Alttan 0rem Dolgu
+- `.first:pb-0` - İlk öğede alt Dolgu 0rem
 - `.hover:pb-100` - Vurguluyken Altta %100 Dolgu
 - `.hover:pb-75` - Vurguluyken Alt Dolgu %75
 - `.hover:pb-50` - Vurguluyken Alttan %50 Dolgu
@@ -2434,7 +2434,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pb-0.4` - Vurguluyken Alttan 0rem Dolgu
 - `.hover:pb-0.3` - Vurguluyken Alttan 0rem Dolgu
 - `.hover:pb-0.2` - Vurguluyken Alt Dolgu 0,2rem
-- `.hover:pb-0.1` - Vurguluyken Alt Dolgu 0,1 rem
+- `.hover:pb-0.1` - Vurguluyken Alt Dolgu 0,1rem
 - `.hover:pb-0` - Vurguluyken Alttan 0rem Dolgu
 - `.last:pb-0` - Dolgu Alt 0rem sonda
 - `.pb-100` - Dolgu Alt %100
@@ -2466,7 +2466,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pb-0.4` - Alt Dolgu 0rem
 - `.pb-0.3` - Alt Dolgu 0rem
 - `.pb-0.2` - Alt Dolgu 0,2rem
-- `.pb-0.1` - Alt Dolgu 0,1 rem
+- `.pb-0.1` - Alt Dolgu 0,1rem
 - `.pb-0` - Alt Dolgu 0rem
 
 #### Padding Left
@@ -2496,8 +2496,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pl-0.5` - Vurguluyken 0rem Sol Dolgu
 - `.hover:pl-0.4` - Vurguluyken 0rem Sol Dolgu
 - `.hover:pl-0.3` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-0.2` - Vurguluyken Sol 0,2 rem Dolgu
-- `.hover:pl-0.1` - Vurguluyken 0,1 rem Sol Dolgu
+- `.hover:pl-0.2` - Vurguluyken Sol 0,2rem Dolgu
+- `.hover:pl-0.1` - Vurguluyken 0,1rem Sol Dolgu
 - `.hover:pl-0` - Vurguluyken 0rem Sol Dolgu
 - `.last:pl-0` - Dolgu Sola 0rem sonda
 - `.pl-5` - Sol 5rem Dolgu
@@ -2559,8 +2559,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pr-0.5` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
 - `.hover:pr-0.4` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
 - `.hover:pr-0.3` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-0.2` - Fareyle üzerine gelindiğinde Sağa 0,2 rem Dolgu
-- `.hover:pr-0.1` - Fareyle üzerine gelindiğinde Sağa 0,1 rem Dolgu
+- `.hover:pr-0.2` - Fareyle üzerine gelindiğinde Sağa 0,2rem Dolgu
+- `.hover:pr-0.1` - Fareyle üzerine gelindiğinde Sağa 0,1rem Dolgu
 - `.hover:pr-0` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
 - `.last:pr-0` - Sonda Sağa 0rem Dolgu
 - `.pr-100` - Sağa Dolgu %100
@@ -2592,23 +2592,23 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pr-0.4` - Sağa Dolgu 0rem
 - `.pr-0.3` - Sağa Dolgu 0rem
 - `.pr-0.2` - Sağa Dolgu 0,2rem
-- `.pr-0.1` - Sağa Dolgu 0,1 rem
+- `.pr-0.1` - Sağa Dolgu 0,1rem
 - `.pr-0` - Sağa Dolgu 0rem
 
 #### Padding Top
 
 - `.first:pt-0` - İlk önce Üst 0rem dolgusu
-- `.hover:pt-100` - Fareyle üzerine gelindiğinde Top %100 doldurma
-- `.hover:pt-75` - Fareyle üzerine gelindiğinde Top %75 dolgusu
-- `.hover:pt-50` - Fareyle üzerine gelindiğinde Top %50 dolgusu
-- `.hover:pt-25` - Fareyle üzerine gelindiğinde Top %25 dolgusu
-- `.hover:pt-5` - Fareyle üzerine gelindiğinde Top 5rem dolgusu
+- `.hover:pt-100` - Fareyle üzerine gelindiğinde dolgu Üstü %100
+- `.hover:pt-75` - Fareyle üzerine gelindiğinde dolgu Üstü %75
+- `.hover:pt-50` - Fareyle üzerine gelindiğinde dolgu Üstü %50
+- `.hover:pt-25` - Fareyle üzerine gelindiğinde dolgu Üstü %25
+- `.hover:pt-5` - Fareyle üzerine gelindiğinde dolgu Üstü 5rem
 - `.hover:pt-4.5` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-4` - Fareyle üzerine gelindiğinde Top 4rem dolgusu
+- `.hover:pt-4` - Fareyle üzerine gelindiğinde dolgu Üstü 4rem
 - `.hover:pt-3.5` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-3` - Fareyle üzerine gelindiğinde Top 3rem dolgusu
+- `.hover:pt-3` - Fareyle üzerine gelindiğinde dolgu Üstü 3rem
 - `.hover:pt-2.5` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-2` - Fareyle üzerine gelindiğinde Top 2rem dolgusu
+- `.hover:pt-2` - Fareyle üzerine gelindiğinde dolgu Üstü 2rem
 - `.hover:pt-1.9` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
 - `.hover:pt-1.8` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
 - `.hover:pt-1.7` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
@@ -2700,32 +2700,32 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.px-50` - Dolgu X Ekseni %50
 - `.px-25` - Dolgu X Ekseni %25
 - `.px-5` - Dolgu X Ekseni 5rem
-- `.px-4.5` - Dolgu X Ekseni 0 rem
+- `.px-4.5` - Dolgu X Ekseni 0rem
 - `.px-4` - Dolgu X Ekseni 4rem
-- `.px-3.5` - Dolgu X Ekseni 0 rem
+- `.px-3.5` - Dolgu X Ekseni 0rem
 - `.px-3` - Dolgu X Ekseni 3rem
-- `.px-2.5` - Dolgu X Ekseni 0 rem
+- `.px-2.5` - Dolgu X Ekseni 0rem
 - `.px-2` - Dolgu X Ekseni 2rem
-- `.px-1.9` - Dolgu X Ekseni 0 rem
-- `.px-1.8` - Dolgu X Ekseni 0 rem
-- `.px-1.7` - Dolgu X Ekseni 0 rem
-- `.px-1.6` - Dolgu X Ekseni 0 rem
-- `.px-1.5` - Dolgu X Ekseni 0 rem
-- `.px-1.4` - Dolgu X Ekseni 0 rem
-- `.px-1.3` - Dolgu X Ekseni 0 rem
-- `.px-1.2` - Dolgu X Ekseni 0 rem
-- `.px-1.1` - Dolgu X Ekseni 0 rem
+- `.px-1.9` - Dolgu X Ekseni 0rem
+- `.px-1.8` - Dolgu X Ekseni 0rem
+- `.px-1.7` - Dolgu X Ekseni 0rem
+- `.px-1.6` - Dolgu X Ekseni 0rem
+- `.px-1.5` - Dolgu X Ekseni 0rem
+- `.px-1.4` - Dolgu X Ekseni 0rem
+- `.px-1.3` - Dolgu X Ekseni 0rem
+- `.px-1.2` - Dolgu X Ekseni 0rem
+- `.px-1.1` - Dolgu X Ekseni 0rem
 - `.px-1` - Dolgu X Ekseni 1rem
-- `.px-0.9` - Dolgu X Ekseni 0 rem
-- `.px-0.8` - Dolgu X Ekseni 0 rem
-- `.px-0.7` - Dolgu X Ekseni 0 rem
-- `.px-0.6` - Dolgu X Ekseni 0 rem
-- `.px-0.5` - Dolgu X Ekseni 0 rem
-- `.px-0.4` - Dolgu X Ekseni 0 rem
-- `.px-0.3` - Dolgu X Ekseni 0 rem
-- `.px-0.2` - Dolgu X Ekseni 0,2 rem
-- `.px-0.1` - Dolgu X Ekseni 0,1 rem
-- `.px-0` - Dolgu X Ekseni 0 rem
+- `.px-0.9` - Dolgu X Ekseni 0rem
+- `.px-0.8` - Dolgu X Ekseni 0rem
+- `.px-0.7` - Dolgu X Ekseni 0rem
+- `.px-0.6` - Dolgu X Ekseni 0rem
+- `.px-0.5` - Dolgu X Ekseni 0rem
+- `.px-0.4` - Dolgu X Ekseni 0rem
+- `.px-0.3` - Dolgu X Ekseni 0rem
+- `.px-0.2` - Dolgu X Ekseni 0,2rem
+- `.px-0.1` - Dolgu X Ekseni 0,1rem
+- `.px-0` - Dolgu X Ekseni 0rem
 
 #### Padding Y-Axis
 
@@ -2757,8 +2757,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:py-0.5` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
 - `.hover:py-0.4` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
 - `.hover:py-0.3` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-0.2` - Fareyle üzerine gelindiğinde Y Ekseni 0,2 rem dolgusu
-- `.hover:py-0.1` - Fareyle üzerine gelindiğinde Y Ekseni 0,1 rem dolgusu
+- `.hover:py-0.2` - Fareyle üzerine gelindiğinde Y Ekseni 0,2rem dolgusu
+- `.hover:py-0.1` - Fareyle üzerine gelindiğinde Y Ekseni 0,1rem dolgusu
 - `.hover:py-0` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
 - `.py-100` - Dolgu Y Ekseni %100
 - `.py-75` - Dolgu Y Ekseni %75
@@ -2789,7 +2789,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.py-0.4` - Dolgu Y Ekseni 0rem
 - `.py-0.3` - Dolgu Y Ekseni 0rem
 - `.py-0.2` - Dolgu Y Ekseni 0,2rem
-- `.py-0.1` - Dolgu Y Ekseni 0,1 rem
+- `.py-0.1` - Dolgu Y Ekseni 0,1rem
 - `.py-0` - Dolgu Y Ekseni 0rem
 
 ## Sizing
@@ -3159,7 +3159,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pc-max:w-100` - PC'de fareyle üzerine gelindiğinde genişlik %100 maksimum
 - `.hover:pc-max:w-95` - PC'de fareyle üzerine gelindiğinde genişlik %95 maksimum
 - `.hover:pc-max:w-90` - PC'de fareyle üzerine gelindiğinde genişlik %90 maksimum
-- `.hover:pc-max:w-85` - PC'de fareyle üzerine gelindiğinde genişlik %85 ​​maksimum
+- `.hover:pc-max:w-85` - PC'de fareyle üzerine gelindiğinde genişlik %85 maksimum
 - `.hover:pc-max:w-80` - PC'de fareyle üzerine gelindiğinde genişlik %80 maksimum
 - `.hover:pc-max:w-75` - PC'de fareyle üzerine gelindiğinde genişlik %75 maksimum
 - `.hover:pc-max:w-70` - PC'de fareyle üzerine gelindiğinde genişlik %70 maksimum
@@ -3676,483 +3676,483 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Top
 
-- `.hover:top-100` - Fareyle üzerine gelindiğinde ilk %100
-- `.hover:top-75` - Fareyle üzerine gelindiğinde ilk %75
-- `.hover:top-50` - Fareyle üzerine gelindiğinde ilk %50
-- `.hover:top-25` - Fareyle üzerine gelindiğinde ilk %25
-- `.hover:top-5` - Fareyle üzerine gelindiğinde ilk 5rem
-- `.hover:top-4.5` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-4` - Fareyle üzerine gelindiğinde ilk 4rem
-- `.hover:top-3.5` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-3` - Fareyle üzerine gelindiğinde ilk 3rem
-- `.hover:top-2.5` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-2` - Fareyle üzerine gelindiğinde ilk 2rem
-- `.hover:top-1.9` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-1.8` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-1.7` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-1.6` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-1.5` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-1.4` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-1.3` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-1.2` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-1.1` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-1` - Fareyle üzerine gelindiğinde ilk 1rem
-- `.hover:top-0.9` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-0.8` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-0.7` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-0.6` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-0.5` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-0.4` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-0.3` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.hover:top-0.2` - Fareyle üzerine gelindiğinde en iyi 0,2rem
-- `.hover:top-0.1` - Fareyle üzerine gelindiğinde ilk 0,1rem
-- `.hover:top-0` - Fareyle üzerine gelindiğinde ilk 0rem
-- `.top-100` - En iyi %100
-- `.top-75` - En iyi %75
-- `.top-50` - En iyi %50
-- `.top-25` - En iyi %25
-- `.top-5` - İlk 5rem
-- `.top-4.5` - En iyi 0rem
-- `.top-4` - En iyi 4rem
-- `.top-3.5` - En iyi 0rem
-- `.top-3` - İlk 3rem
-- `.top-2.5` - En iyi 0rem
-- `.top-2` - En iyi 2rem
-- `.top-1.9` - En iyi 0rem
-- `.top-1.8` - En iyi 0rem
-- `.top-1.7` - En iyi 0rem
-- `.top-1.6` - En iyi 0rem
-- `.top-1.5` - En iyi 0rem
-- `.top-1.4` - En iyi 0rem
-- `.top-1.3` - En iyi 0rem
-- `.top-1.2` - En iyi 0rem
-- `.top-1.1` - En iyi 0rem
-- `.top-1` - İlk 1rem
-- `.top-0.9` - En iyi 0rem
-- `.top-0.8` - En iyi 0rem
-- `.top-0.7` - En iyi 0rem
-- `.top-0.6` - En iyi 0rem
-- `.top-0.5` - En iyi 0rem
-- `.top-0.4` - En iyi 0rem
-- `.top-0.3` - En iyi 0rem
-- `.top-0.2` - En iyi 0,2rem
-- `.top-0.1` - En iyi 0,1rem
-- `.top-0` - En iyi 0rem
+- `.hover:top-100` - Fareyle üzerine gelindiğinde üst konumu %100
+- `.hover:top-75` - Fareyle üzerine gelindiğinde üst konumu %75
+- `.hover:top-50` - Fareyle üzerine gelindiğinde üst konumu %50
+- `.hover:top-25` - Fareyle üzerine gelindiğinde üst konumu %25
+- `.hover:top-5` - Fareyle üzerine gelindiğinde üst konumu 5rem
+- `.hover:top-4.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-4` - Fareyle üzerine gelindiğinde üst konumu 4rem
+- `.hover:top-3.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-3` - Fareyle üzerine gelindiğinde üst konumu 3rem
+- `.hover:top-2.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-2` - Fareyle üzerine gelindiğinde üst konumu 2rem
+- `.hover:top-1.9` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1.8` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1.7` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1.6` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1.4` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1.3` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1.2` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1.1` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1` - Fareyle üzerine gelindiğinde üst konumu 1rem
+- `.hover:top-0.9` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-0.8` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-0.7` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-0.6` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-0.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-0.4` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-0.3` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-0.2` - Fareyle üzerine gelindiğinde üst konumu 0.2rem
+- `.hover:top-0.1` - Fareyle üzerine gelindiğinde üst konumu 0.1rem
+- `.hover:top-0` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.top-100` - Üst konumu %100
+- `.top-75` - Üst konumu %75
+- `.top-50` - Üst konumu %50
+- `.top-25` - Üst konumu %25
+- `.top-5` - Üst konumu 5rem
+- `.top-4.5` - Üst konumu 0rem
+- `.top-4` - Üst konumu 4rem
+- `.top-3.5` - Üst konumu 0rem
+- `.top-3` - Üst konumu 3rem
+- `.top-2.5` - Üst konumu 0rem
+- `.top-2` - Üst konumu 2rem
+- `.top-1.9` - Üst konumu 0rem
+- `.top-1.8` - Üst konumu 0rem
+- `.top-1.7` - Üst konumu 0rem
+- `.top-1.6` - Üst konumu 0rem
+- `.top-1.5` - Üst konumu 0rem
+- `.top-1.4` - Üst konumu 0rem
+- `.top-1.3` - Üst konumu 0rem
+- `.top-1.2` - Üst konumu 0rem
+- `.top-1.1` - Üst konumu 0rem
+- `.top-1` - Üst konumu 1rem
+- `.top-0.9` - Üst konumu 0rem
+- `.top-0.8` - Üst konumu 0rem
+- `.top-0.7` - Üst konumu 0rem
+- `.top-0.6` - Üst konumu 0rem
+- `.top-0.5` - Üst konumu 0rem
+- `.top-0.4` - Üst konumu 0rem
+- `.top-0.3` - Üst konumu 0rem
+- `.top-0.2` - Üst konumu 0.2rem
+- `.top-0.1` - Üst konumu 0.1rem
+- `.top-0` - Üst konumu 0rem
 
 ##### Negative Top
 
-- `.-top-5` - Negatif İlk 5rem
-- `.-top-4.5` - Negatif Üst ​​0rem
-- `.-top-4` - Negatif Üst ​​4rem
-- `.-top-3.5` - Negatif Üst ​​0rem
-- `.-top-3` - Negatif Üst ​​3rem
-- `.-top-2.5` - Negatif Üst ​​0rem
-- `.-top-2` - Negatif Üst ​​2rem
-- `.-top-1.9` - Negatif Üst ​​0rem
-- `.-top-1.8` - Negatif Üst ​​0rem
-- `.-top-1.7` - Negatif Üst ​​0rem
-- `.-top-1.6` - Negatif Üst ​​0rem
-- `.-top-1.5` - Negatif Üst ​​0rem
-- `.-top-1.4` - Negatif Üst ​​0rem
-- `.-top-1.3` - Negatif Üst ​​0rem
-- `.-top-1.2` - Negatif Üst ​​0rem
-- `.-top-1.1` - Negatif Üst ​​0rem
-- `.-top-1` - Negatif Üst ​​1rem
-- `.-top-0.9` - Negatif Üst ​​0rem
-- `.-top-0.8` - Negatif Üst ​​0rem
-- `.-top-0.7` - Negatif Üst ​​0rem
-- `.-top-0.6` - Negatif Üst ​​0rem
-- `.-top-0.5` - Negatif Üst ​​0rem
-- `.-top-0.4` - Negatif Üst ​​0rem
-- `.-top-0.3` - Negatif Üst ​​0,3rem
-- `.-top-0.2` - Negatif Üst ​​0,2rem
-- `.-top-0.1` - Negatif Üst ​​0,1 rem
-- `.hover:-top-5` - Fareyle üzerine gelindiğinde Negatif İlk 5rem
-- `.hover:-top-4.5` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-4` - Negatif Üst ​​4rem fareyle üzerine gelindiğinde
-- `.hover:-top-3.5` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-3` - Fareyle üzerine gelindiğinde Negatif İlk 3rem
-- `.hover:-top-2.5` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-2` - Negatif Üst ​​2rem fareyle üzerine gelindiğinde
-- `.hover:-top-1.9` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-1.8` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-1.7` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-1.6` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-1.5` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-1.4` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-1.3` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-1.2` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-1.1` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-1` - Negatif Üst ​​1rem fareyle üzerine gelindiğinde
-- `.hover:-top-0.9` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-0.8` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-0.7` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-0.6` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-0.5` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-0.4` - Fareyle üzerine gelindiğinde Negatif Üst ​​0rem
-- `.hover:-top-0.3` - Negatif Üst ​​0,3rem fareyle üzerine gelindiğinde
-- `.hover:-top-0.2` - Negatif Üst ​​0,2rem fareyle üzerine gelindiğinde
-- `.hover:-top-0.1` - Negatif Üst ​​0,1rem fareyle üzerine gelindiğinde
+- `.-top-5` - Negatif üst konumu 5rem
+- `.-top-4.5` - Negatif üst konumu 0rem
+- `.-top-4` - Negatif üst konumu 4rem
+- `.-top-3.5` - Negatif üst konumu 0rem
+- `.-top-3` - Negatif üst konumu 3rem
+- `.-top-2.5` - Negatif üst konumu 0rem
+- `.-top-2` - Negatif üst konumu 2rem
+- `.-top-1.9` - Negatif üst konumu 0rem
+- `.-top-1.8` - Negatif üst konumu 0rem
+- `.-top-1.7` - Negatif üst konumu 0rem
+- `.-top-1.6` - Negatif üst konumu 0rem
+- `.-top-1.5` - Negatif üst konumu 0rem
+- `.-top-1.4` - Negatif üst konumu 0rem
+- `.-top-1.3` - Negatif üst konumu 0rem
+- `.-top-1.2` - Negatif üst konumu 0rem
+- `.-top-1.1` - Negatif üst konumu 0rem
+- `.-top-1` - Negatif üst konumu 1rem
+- `.-top-0.9` - Negatif üst konumu 0rem
+- `.-top-0.8` - Negatif üst konumu 0rem
+- `.-top-0.7` - Negatif üst konumu 0rem
+- `.-top-0.6` - Negatif üst konumu 0rem
+- `.-top-0.5` - Negatif üst konumu 0rem
+- `.-top-0.4` - Negatif üst konumu 0rem
+- `.-top-0.3` - Negatif üst konumu 0.3rem
+- `.-top-0.2` - Negatif üst konumu 0.2rem
+- `.-top-0.1` - Negatif üst konumu 0.1rem
+- `.hover:-top-5` - Fareyle üzerine gelindiğinde negatif üst konumu 5rem
+- `.hover:-top-4.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-4` - Fareyle üzerine gelindiğinde negatif üst konumu 4rem
+- `.hover:-top-3.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-3` - Fareyle üzerine gelindiğinde negatif üst konumu 3rem
+- `.hover:-top-2.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-2` - Fareyle üzerine gelindiğinde negatif üst konumu 2rem
+- `.hover:-top-1.9` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1.8` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1.7` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1.6` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1.4` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1.3` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1.2` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1.1` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1` - Fareyle üzerine gelindiğinde negatif üst konumu 1rem
+- `.hover:-top-0.9` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-0.8` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-0.7` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-0.6` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-0.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-0.4` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-0.3` - Fareyle üzerine gelindiğinde negatif üst konumu 0.3rem
+- `.hover:-top-0.2` - Fareyle üzerine gelindiğinde negatif üst konumu 0.2rem
+- `.hover:-top-0.1` - Fareyle üzerine gelindiğinde negatif üst konumu 0.1rem
 
 ### Right
 
-- `.hover:right-100` - Fareyle üzerine gelindiğinde sağa %100
-- `.hover:right-75` - Fareyle üzerine gelindiğinde sağa %75
-- `.hover:right-50` - Vurguluyken sağa %50
-- `.hover:right-25` - Fareyle üzerine gelindiğinde sağa %25
-- `.hover:right-5` - Vurguluyken sağa 5rem
-- `.hover:right-4.5` - Vurguluyken sağa 0rem
-- `.hover:right-4` - Fareyle üzerine gelindiğinde sağa 4rem
-- `.hover:right-3.5` - Vurguluyken sağa 0rem
-- `.hover:right-3` - Fareyle üzerine gelindiğinde sağa 3rem
-- `.hover:right-2.5` - Vurguluyken sağa 0rem
-- `.hover:right-2` - Fareyle üzerine gelindiğinde sağa 2rem
-- `.hover:right-1.9` - Vurguluyken sağa 0rem
-- `.hover:right-1.8` - Vurguluyken sağa 0rem
-- `.hover:right-1.7` - Vurguluyken sağa 0rem
-- `.hover:right-1.6` - Vurguluyken sağa 0rem
-- `.hover:right-1.5` - Vurguluyken sağa 0rem
-- `.hover:right-1.4` - Vurguluyken sağa 0rem
-- `.hover:right-1.3` - Vurguluyken sağa 0rem
-- `.hover:right-1.2` - Vurguluyken sağa 0rem
-- `.hover:right-1.1` - Vurguluyken sağa 0rem
-- `.hover:right-1` - Vurguluyken sağa 1rem
-- `.hover:right-0.9` - Vurguluyken sağa 0rem
-- `.hover:right-0.8` - Vurguluyken sağa 0rem
-- `.hover:right-0.7` - Vurguluyken sağa 0rem
-- `.hover:right-0.6` - Vurguluyken sağa 0rem
-- `.hover:right-0.5` - Vurguluyken sağa 0rem
-- `.hover:right-0.4` - Vurguluyken sağa 0rem
-- `.hover:right-0.3` - Vurguluyken sağa 0rem
-- `.hover:right-0.2` - Fareyle üzerine gelindiğinde sağa 0,2rem
-- `.hover:right-0.1` - Fareyle üzerine gelindiğinde sağa 0,1 rem
-- `.hover:right-0` - Vurguluyken sağa 0rem
-- `.right-100` - Sağ %100
-- `.right-75` - Sağ %75
-- `.right-50` - Sağ %50
-- `.right-25` - Sağ %25
-- `.right-5` - Sağ 5rem
-- `.right-4.5` - Sağ 0rem
-- `.right-4` - Sağ 4rem
-- `.right-3.5` - Sağ 0rem
-- `.right-3` - Sağ 3rem
-- `.right-2.5` - Sağ 0rem
-- `.right-2` - Sağ 2rem
-- `.right-1.9` - Sağ 0rem
-- `.right-1.8` - Sağ 0rem
-- `.right-1.7` - Sağ 0rem
-- `.right-1.6` - Sağ 0rem
-- `.right-1.5` - Sağ 0rem
-- `.right-1.4` - Sağ 0rem
-- `.right-1.3` - Sağ 0rem
-- `.right-1.2` - Sağ 0rem
-- `.right-1.1` - Sağ 0rem
-- `.right-1` - Sağ 1rem
-- `.right-0.9` - Sağ 0rem
-- `.right-0.8` - Sağ 0rem
-- `.right-0.7` - Sağ 0rem
-- `.right-0.6` - Sağ 0rem
-- `.right-0.5` - Sağ 0rem
-- `.right-0.4` - Sağ 0rem
-- `.right-0.3` - Sağ 0rem
-- `.right-0.2` - Sağ 0,2rem
-- `.right-0.1` - Sağ 0,1rem
-- `.right-0` - Sağ 0rem
+- `.hover:right-100` - Fareyle üzerine gelindiğinde sağ konumu %100
+- `.hover:right-75` - Fareyle üzerine gelindiğinde sağ konumu %75
+- `.hover:right-50` - Fareyle üzerine gelindiğinde sağ konumu %50
+- `.hover:right-25` - Fareyle üzerine gelindiğinde sağ konumu %25
+- `.hover:right-5` - Fareyle üzerine gelindiğinde sağ konumu 5rem
+- `.hover:right-4.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-4` - Fareyle üzerine gelindiğinde sağ konumu 4rem
+- `.hover:right-3.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-3` - Fareyle üzerine gelindiğinde sağ konumu 3rem
+- `.hover:right-2.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-2` - Fareyle üzerine gelindiğinde sağ konumu 2rem
+- `.hover:right-1.9` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1.8` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1.7` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1.6` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1.4` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1.3` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1.2` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1.1` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1` - Fareyle üzerine gelindiğinde sağ konumu 1rem
+- `.hover:right-0.9` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-0.8` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-0.7` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-0.6` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-0.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-0.4` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-0.3` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-0.2` - Fareyle üzerine gelindiğinde sağ konumu 0.2rem
+- `.hover:right-0.1` - Fareyle üzerine gelindiğinde sağ konumu 0.1rem
+- `.hover:right-0` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.right-100` - Sağ konumu %100
+- `.right-75` - Sağ konumu %75
+- `.right-50` - Sağ konumu %50
+- `.right-25` - Sağ konumu %25
+- `.right-5` - Sağ konumu 5rem
+- `.right-4.5` - Sağ konumu 0rem
+- `.right-4` - Sağ konumu 4rem
+- `.right-3.5` - Sağ konumu 0rem
+- `.right-3` - Sağ konumu 3rem
+- `.right-2.5` - Sağ konumu 0rem
+- `.right-2` - Sağ konumu 2rem
+- `.right-1.9` - Sağ konumu 0rem
+- `.right-1.8` - Sağ konumu 0rem
+- `.right-1.7` - Sağ konumu 0rem
+- `.right-1.6` - Sağ konumu 0rem
+- `.right-1.5` - Sağ konumu 0rem
+- `.right-1.4` - Sağ konumu 0rem
+- `.right-1.3` - Sağ konumu 0rem
+- `.right-1.2` - Sağ konumu 0rem
+- `.right-1.1` - Sağ konumu 0rem
+- `.right-1` - Sağ konumu 1rem
+- `.right-0.9` - Sağ konumu 0rem
+- `.right-0.8` - Sağ konumu 0rem
+- `.right-0.7` - Sağ konumu 0rem
+- `.right-0.6` - Sağ konumu 0rem
+- `.right-0.5` - Sağ konumu 0rem
+- `.right-0.4` - Sağ konumu 0rem
+- `.right-0.3` - Sağ konumu 0rem
+- `.right-0.2` - Sağ konumu 0.2rem
+- `.right-0.1` - Sağ konumu 0.1rem
+- `.right-0` - Sağ konumu 0rem
 
 ##### Negative Right
 
-- `.-right-5` - Negatif Sağ 5rem
-- `.-right-4.5` - Negatif Sağ 0rem
-- `.-right-4` - Negatif Sağ 4rem
-- `.-right-3.5` - Negatif Sağ 0rem
-- `.-right-3` - Negatif Sağ 3rem
-- `.-right-2.5` - Negatif Sağ 0rem
-- `.-right-2` - Negatif Sağ 2rem
-- `.-right-1.9` - Negatif Sağ 0rem
-- `.-right-1.8` - Negatif Sağ 0rem
-- `.-right-1.7` - Negatif Sağ 0rem
-- `.-right-1.6` - Negatif Sağ 0rem
-- `.-right-1.5` - Negatif Sağ 0rem
-- `.-right-1.4` - Negatif Sağ 0rem
-- `.-right-1.3` - Negatif Sağ 0rem
-- `.-right-1.2` - Negatif Sağ 0rem
-- `.-right-1.1` - Negatif Sağ 0rem
-- `.-right-1` - Negatif Sağ 1 rem
-- `.-right-0.9` - Negatif Sağ 0rem
-- `.-right-0.8` - Negatif Sağ 0rem
-- `.-right-0.7` - Negatif Sağ 0rem
-- `.-right-0.6` - Negatif Sağ 0rem
-- `.-right-0.5` - Negatif Sağ 0rem
-- `.-right-0.4` - Negatif Sağ 0rem
-- `.-right-0.3` - Negatif Sağ 0,3rem
-- `.-right-0.2` - Negatif Sağ 0,2 rem
-- `.-right-0.1` - Negatif Sağ 0,1 rem
-- `.hover:-right-5` - Negatif Sağ Fareyle üzerine gelindiğinde 5rem
-- `.hover:-right-4.5` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-4` - Negatif Sağ Fareyle üzerine gelindiğinde 4rem
-- `.hover:-right-3.5` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-3` - Negatif Sağ Fareyle üzerine gelindiğinde 3rem
-- `.hover:-right-2.5` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-2` - Negatif Sağ Fareyle üzerine gelindiğinde 2rem
-- `.hover:-right-1.9` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-1.8` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-1.7` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-1.6` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-1.5` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-1.4` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-1.3` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-1.2` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-1.1` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-1` - Negatif Sağ Fareyle üzerine gelindiğinde 1rem
-- `.hover:-right-0.9` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-0.8` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-0.7` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-0.6` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-0.5` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-0.4` - Negatif Sağ Fareyle üzerine gelindiğinde 0rem
-- `.hover:-right-0.3` - Negatif Sağ Fareyle üzerine gelindiğinde 0,3rem
-- `.hover:-right-0.2` - Negatif Sağ Fareyle üzerine gelindiğinde 0,2rem
-- `.hover:-right-0.1` - Negatif Sağ Fareyle üzerine gelindiğinde 0,1 rem
+- `.-right-5` - Negatif sağ konumu 5rem
+- `.-right-4.5` - Negatif sağ konumu 0rem
+- `.-right-4` - Negatif sağ konumu 4rem
+- `.-right-3.5` - Negatif sağ konumu 0rem
+- `.-right-3` - Negatif sağ konumu 3rem
+- `.-right-2.5` - Negatif sağ konumu 0rem
+- `.-right-2` - Negatif sağ konumu 2rem
+- `.-right-1.9` - Negatif sağ konumu 0rem
+- `.-right-1.8` - Negatif sağ konumu 0rem
+- `.-right-1.7` - Negatif sağ konumu 0rem
+- `.-right-1.6` - Negatif sağ konumu 0rem
+- `.-right-1.5` - Negatif sağ konumu 0rem
+- `.-right-1.4` - Negatif sağ konumu 0rem
+- `.-right-1.3` - Negatif sağ konumu 0rem
+- `.-right-1.2` - Negatif sağ konumu 0rem
+- `.-right-1.1` - Negatif sağ konumu 0rem
+- `.-right-1` - Negatif sağ konumu 1rem
+- `.-right-0.9` - Negatif sağ konumu 0rem
+- `.-right-0.8` - Negatif sağ konumu 0rem
+- `.-right-0.7` - Negatif sağ konumu 0rem
+- `.-right-0.6` - Negatif sağ konumu 0rem
+- `.-right-0.5` - Negatif sağ konumu 0rem
+- `.-right-0.4` - Negatif sağ konumu 0rem
+- `.-right-0.3` - Negatif sağ konumu 0.3rem
+- `.-right-0.2` - Negatif sağ konumu 0.2rem
+- `.-right-0.1` - Negatif sağ konumu 0.1rem
+- `.hover:-right-5` - Fareyle üzerine gelindiğinde negatif sağ konumu 5rem
+- `.hover:-right-4.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-4` - Fareyle üzerine gelindiğinde negatif sağ konumu 4rem
+- `.hover:-right-3.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-3` - Fareyle üzerine gelindiğinde negatif sağ konumu 3rem
+- `.hover:-right-2.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-2` - Fareyle üzerine gelindiğinde negatif sağ konumu 2rem
+- `.hover:-right-1.9` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1.8` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1.7` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1.6` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1.4` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1.3` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1.2` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1.1` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1` - Fareyle üzerine gelindiğinde negatif sağ konumu 1rem
+- `.hover:-right-0.9` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-0.8` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-0.7` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-0.6` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-0.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-0.4` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-0.3` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.3rem
+- `.hover:-right-0.2` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.2rem
+- `.hover:-right-0.1` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.1rem
 
 ### Bottom
 
-- `.bottom-100` - Alt %100
-- `.bottom-75` - Alt %75
-- `.bottom-50` - Alt %50
-- `.bottom-25` - Alt %25
-- `.bottom-5` - Alt 5rem
-- `.bottom-4.5` - Alt 0rem
-- `.bottom-4` - Alt 4rem
-- `.bottom-3.5` - Alt 0rem
-- `.bottom-3` - Alt 3rem
-- `.bottom-2.5` - Alt 0rem
-- `.bottom-2` - Alt 2rem
-- `.bottom-1.9` - Alt 0rem
-- `.bottom-1.8` - Alt 0rem
-- `.bottom-1.7` - Alt 0rem
-- `.bottom-1.6` - Alt 0rem
-- `.bottom-1.5` - Alt 0rem
-- `.bottom-1.4` - Alt 0rem
-- `.bottom-1.3` - Alt 0rem
-- `.bottom-1.2` - Alt 0rem
-- `.bottom-1.1` - Alt 0rem
-- `.bottom-1` - Alt 1rem
-- `.bottom-0.9` - Alt 0rem
-- `.bottom-0.8` - Alt 0rem
-- `.bottom-0.7` - Alt 0rem
-- `.bottom-0.6` - Alt 0rem
-- `.bottom-0.5` - Alt 0rem
-- `.bottom-0.4` - Alt 0rem
-- `.bottom-0.3` - Alt 0rem
-- `.bottom-0.2` - Alt 0,2rem
-- `.bottom-0.1` - Alt 0,1 rem
-- `.bottom-0` - Alt 0rem
-- `.hover:bottom-100` - Fareyle üzerine gelindiğinde alt %100
-- `.hover:bottom-75` - Fareyle üzerine gelindiğinde alt %75
-- `.hover:bottom-50` - Fareyle üzerine gelindiğinde alt %50
-- `.hover:bottom-25` - Fareyle üzerine gelindiğinde alt %25
-- `.hover:bottom-5` - Fareyle üzerine gelindiğinde alt 5rem
-- `.hover:bottom-4.5` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-4` - Fareyle üzerine gelindiğinde alt 4rem
-- `.hover:bottom-3.5` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-3` - Fareyle üzerine gelindiğinde alt 3rem
-- `.hover:bottom-2.5` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-2` - Fareyle üzerine gelindiğinde alt 2rem
-- `.hover:bottom-1.9` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-1.8` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-1.7` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-1.6` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-1.5` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-1.4` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-1.3` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-1.2` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-1.1` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-1` - Fareyle üzerine gelindiğinde alt 1rem
-- `.hover:bottom-0.9` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-0.8` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-0.7` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-0.6` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-0.5` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-0.4` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-0.3` - Fareyle üzerine gelindiğinde alt 0rem
-- `.hover:bottom-0.2` - Fareyle üzerine gelindiğinde alt kısım 0,2rem
-- `.hover:bottom-0.1` - Fareyle üzerine gelindiğinde alt kısım 0,1 rem
-- `.hover:bottom-0` - Fareyle üzerine gelindiğinde alt 0rem
+- `.bottom-100` - Alt konumu %100
+- `.bottom-75` - Alt konumu %75
+- `.bottom-50` - Alt konumu %50
+- `.bottom-25` - Alt konumu %25
+- `.bottom-5` - Alt konumu 5rem
+- `.bottom-4.5` - Alt konumu 0rem
+- `.bottom-4` - Alt konumu 4rem
+- `.bottom-3.5` - Alt konumu 0rem
+- `.bottom-3` - Alt konumu 3rem
+- `.bottom-2.5` - Alt konumu 0rem
+- `.bottom-2` - Alt konumu 2rem
+- `.bottom-1.9` - Alt konumu 0rem
+- `.bottom-1.8` - Alt konumu 0rem
+- `.bottom-1.7` - Alt konumu 0rem
+- `.bottom-1.6` - Alt konumu 0rem
+- `.bottom-1.5` - Alt konumu 0rem
+- `.bottom-1.4` - Alt konumu 0rem
+- `.bottom-1.3` - Alt konumu 0rem
+- `.bottom-1.2` - Alt konumu 0rem
+- `.bottom-1.1` - Alt konumu 0rem
+- `.bottom-1` - Alt konumu 1rem
+- `.bottom-0.9` - Alt konumu 0rem
+- `.bottom-0.8` - Alt konumu 0rem
+- `.bottom-0.7` - Alt konumu 0rem
+- `.bottom-0.6` - Alt konumu 0rem
+- `.bottom-0.5` - Alt konumu 0rem
+- `.bottom-0.4` - Alt konumu 0rem
+- `.bottom-0.3` - Alt konumu 0rem
+- `.bottom-0.2` - Alt konumu 0.2rem
+- `.bottom-0.1` - Alt konumu 0.1rem
+- `.bottom-0` - Alt konumu 0rem
+- `.hover:bottom-100` - Fareyle üzerine gelindiğinde alt konumu %100
+- `.hover:bottom-75` - Fareyle üzerine gelindiğinde alt konumu %75
+- `.hover:bottom-50` - Fareyle üzerine gelindiğinde alt konumu %50
+- `.hover:bottom-25` - Fareyle üzerine gelindiğinde alt konumu %25
+- `.hover:bottom-5` - Fareyle üzerine gelindiğinde alt konumu 5rem
+- `.hover:bottom-4.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-4` - Fareyle üzerine gelindiğinde alt konumu 4rem
+- `.hover:bottom-3.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-3` - Fareyle üzerine gelindiğinde alt konumu 3rem
+- `.hover:bottom-2.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-2` - Fareyle üzerine gelindiğinde alt konumu 2rem
+- `.hover:bottom-1.9` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1.8` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1.7` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1.6` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1.4` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1.3` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1.2` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1.1` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1` - Fareyle üzerine gelindiğinde alt konumu 1rem
+- `.hover:bottom-0.9` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-0.8` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-0.7` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-0.6` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-0.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-0.4` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-0.3` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-0.2` - Fareyle üzerine gelindiğinde alt konumu 0.2rem
+- `.hover:bottom-0.1` - Fareyle üzerine gelindiğinde alt konumu 0.1rem
+- `.hover:bottom-0` - Fareyle üzerine gelindiğinde alt konumu 0rem
 
 ##### Negative Bottom
 
-- `.-bottom-5` - Negatif Alt 5rem
-- `.-bottom-4.5` - Negatif Alt 0rem
-- `.-bottom-4` - Negatif Alt 4rem
-- `.-bottom-3.5` - Negatif Alt 0rem
-- `.-bottom-3` - Negatif Alt 3rem
-- `.-bottom-2.5` - Negatif Alt 0rem
-- `.-bottom-2` - Negatif Alt 2rem
-- `.-bottom-1.9` - Negatif Alt 0rem
-- `.-bottom-1.8` - Negatif Alt 0rem
-- `.-bottom-1.7` - Negatif Alt 0rem
-- `.-bottom-1.6` - Negatif Alt 0rem
-- `.-bottom-1.5` - Negatif Alt 0rem
-- `.-bottom-1.4` - Negatif Alt 0rem
-- `.-bottom-1.3` - Negatif Alt 0rem
-- `.-bottom-1.2` - Negatif Alt 0rem
-- `.-bottom-1.1` - Negatif Alt 0rem
-- `.-bottom-1` - Negatif Alt 1rem
-- `.-bottom-0.9` - Negatif Alt 0rem
-- `.-bottom-0.8` - Negatif Alt 0rem
-- `.-bottom-0.7` - Negatif Alt 0rem
-- `.-bottom-0.6` - Negatif Alt 0rem
-- `.-bottom-0.5` - Negatif Alt 0rem
-- `.-bottom-0.4` - Negatif Alt 0rem
-- `.-bottom-0.3` - Negatif Alt 0,3rem
-- `.-bottom-0.2` - Negatif Alt 0,2rem
-- `.-bottom-0.1` - Negatif Alt 0,1rem
-- `.hover:-bottom-5` - Negatif Alt 5rem fareyle üzerine gelindiğinde
-- `.hover:-bottom-4.5` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-4` - Negatif Alt 4rem fareyle üzerine gelindiğinde
-- `.hover:-bottom-3.5` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-3` - Negatif Alt 3rem fareyle üzerine gelindiğinde
-- `.hover:-bottom-2.5` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-2` - Negatif Alt 2rem fareyle üzerine gelindiğinde
-- `.hover:-bottom-1.9` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-1.8` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-1.7` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-1.6` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-1.5` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-1.4` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-1.3` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-1.2` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-1.1` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-1` - Negatif Alt 1rem fareyle üzerine gelindiğinde
-- `.hover:-bottom-0.9` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-0.8` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-0.7` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-0.6` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-0.5` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-0.4` - Vurguluyken Negatif Alt 0rem
-- `.hover:-bottom-0.3` - Negatif Alt 0,3rem fareyle üzerine gelindiğinde
-- `.hover:-bottom-0.2` - Negatif Alt 0,2rem fareyle üzerine gelindiğinde
-- `.hover:-bottom-0.1` - Negatif Alt 0,1rem fareyle üzerine gelindiğinde
+- `.-bottom-5` - Negatif alt konumu 5rem
+- `.-bottom-4.5` - Negatif alt konumu 0rem
+- `.-bottom-4` - Negatif alt konumu 4rem
+- `.-bottom-3.5` - Negatif alt konumu 0rem
+- `.-bottom-3` - Negatif alt konumu 3rem
+- `.-bottom-2.5` - Negatif alt konumu 0rem
+- `.-bottom-2` - Negatif alt konumu 2rem
+- `.-bottom-1.9` - Negatif alt konumu 0rem
+- `.-bottom-1.8` - Negatif alt konumu 0rem
+- `.-bottom-1.7` - Negatif alt konumu 0rem
+- `.-bottom-1.6` - Negatif alt konumu 0rem
+- `.-bottom-1.5` - Negatif alt konumu 0rem
+- `.-bottom-1.4` - Negatif alt konumu 0rem
+- `.-bottom-1.3` - Negatif alt konumu 0rem
+- `.-bottom-1.2` - Negatif alt konumu 0rem
+- `.-bottom-1.1` - Negatif alt konumu 0rem
+- `.-bottom-1` - Negatif alt konumu 1rem
+- `.-bottom-0.9` - Negatif alt konumu 0rem
+- `.-bottom-0.8` - Negatif alt konumu 0rem
+- `.-bottom-0.7` - Negatif alt konumu 0rem
+- `.-bottom-0.6` - Negatif alt konumu 0rem
+- `.-bottom-0.5` - Negatif alt konumu 0rem
+- `.-bottom-0.4` - Negatif alt konumu 0rem
+- `.-bottom-0.3` - Negatif alt konumu 0.3rem
+- `.-bottom-0.2` - Negatif alt konumu 0.2rem
+- `.-bottom-0.1` - Negatif alt konumu 0.1rem
+- `.hover:-bottom-5` - Fareyle üzerine gelindiğinde negatif alt konumu 5rem
+- `.hover:-bottom-4.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-4` - Fareyle üzerine gelindiğinde negatif alt konumu 4rem
+- `.hover:-bottom-3.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-3` - Fareyle üzerine gelindiğinde negatif alt konumu 3rem
+- `.hover:-bottom-2.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-2` - Fareyle üzerine gelindiğinde negatif alt konumu 2rem
+- `.hover:-bottom-1.9` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1.8` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1.7` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1.6` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1.4` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1.3` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1.2` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1.1` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1` - Fareyle üzerine gelindiğinde negatif alt konumu 1rem
+- `.hover:-bottom-0.9` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-0.8` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-0.7` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-0.6` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-0.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-0.4` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-0.3` - Fareyle üzerine gelindiğinde negatif alt konumu 0.3rem
+- `.hover:-bottom-0.2` - Fareyle üzerine gelindiğinde negatif alt konumu 0.2rem
+- `.hover:-bottom-0.1` - Fareyle üzerine gelindiğinde negatif alt konumu 0.1rem
 
 ### Left
 
-- `.hover:left-100` - Fareyle üzerine gelindiğinde %100 kaldı
-- `.hover:left-75` - Fareyle üzerine gelindiğinde %75 kaldı
-- `.hover:left-50` - Fareyle üzerine gelindiğinde %50 kaldı
-- `.hover:left-25` - Fareyle üzerine gelindiğinde %25 kaldı
-- `.hover:left-5` - Fareyle üzerine gelindiğinde 5rem kaldı
-- `.hover:left-4.5` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-4` - Fareyle üzerine gelindiğinde 4rem sola
-- `.hover:left-3.5` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-3` - Fareyle üzerine gelindiğinde 3rem sola
-- `.hover:left-2.5` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-2` - Fareyle üzerine gelindiğinde 2rem kaldı
-- `.hover:left-1.9` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-1.8` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-1.7` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-1.6` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-1.5` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-1.4` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-1.3` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-1.2` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-1.1` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-1` - Fareyle üzerine gelindiğinde 1rem kaldı
-- `.hover:left-0.9` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-0.8` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-0.7` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-0.6` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-0.5` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-0.4` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-0.3` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.hover:left-0.2` - Fareyle üzerine gelindiğinde 0,2rem kaldı
-- `.hover:left-0.1` - Fareyle üzerine gelindiğinde 0,1rem kaldı
-- `.hover:left-0` - Fareyle üzerine gelindiğinde 0rem kaldı
-- `.left-100` - %100 kaldı
-- `.left-75` - Sol %75
-- `.left-50` - %50 kaldı
-- `.left-25` - %25 kaldı
-- `.left-5` - 5rem kaldı
-- `.left-4.5` - 0rem kaldı
-- `.left-4` - Sol 4rem
-- `.left-3.5` - 0rem kaldı
-- `.left-3` - Sol 3rem
-- `.left-2.5` - 0rem kaldı
-- `.left-2` - 2rem kaldı
-- `.left-1.9` - 0rem kaldı
-- `.left-1.8` - 0rem kaldı
-- `.left-1.7` - 0rem kaldı
-- `.left-1.6` - 0rem kaldı
-- `.left-1.5` - 0rem kaldı
-- `.left-1.4` - 0rem kaldı
-- `.left-1.3` - 0rem kaldı
-- `.left-1.2` - 0rem kaldı
-- `.left-1.1` - 0rem kaldı
-- `.left-1` - 1rem kaldı
-- `.left-0.9` - 0rem kaldı
-- `.left-0.8` - 0rem kaldı
-- `.left-0.7` - 0rem kaldı
-- `.left-0.6` - 0rem kaldı
-- `.left-0.5` - 0rem kaldı
-- `.left-0.4` - 0rem kaldı
-- `.left-0.3` - 0rem kaldı
-- `.left-0.2` - Sol 0,2rem
-- `.left-0.1` - Sol 0,1rem
-- `.left-0` - 0rem kaldı
+- `.hover:left-100` - Fareyle üzerine gelindiğinde sol konumu %100
+- `.hover:left-75` - Fareyle üzerine gelindiğinde sol konumu %75
+- `.hover:left-50` - Fareyle üzerine gelindiğinde sol konumu %50
+- `.hover:left-25` - Fareyle üzerine gelindiğinde sol konumu %25
+- `.hover:left-5` - Fareyle üzerine gelindiğinde sol konumu 5rem
+- `.hover:left-4.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-4` - Fareyle üzerine gelindiğinde sol konumu 4rem
+- `.hover:left-3.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-3` - Fareyle üzerine gelindiğinde sol konumu 3rem
+- `.hover:left-2.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-2` - Fareyle üzerine gelindiğinde sol konumu 2rem
+- `.hover:left-1.9` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1.8` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1.7` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1.6` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1.4` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1.3` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1.2` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1.1` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1` - Fareyle üzerine gelindiğinde sol konumu 1rem
+- `.hover:left-0.9` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-0.8` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-0.7` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-0.6` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-0.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-0.4` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-0.3` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-0.2` - Fareyle üzerine gelindiğinde sol konumu 0.2rem
+- `.hover:left-0.1` - Fareyle üzerine gelindiğinde sol konumu 0.1rem
+- `.hover:left-0` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.left-100` - Sol konumu %100
+- `.left-75` - Sol konumu %75
+- `.left-50` - Sol konumu %50
+- `.left-25` - Sol konumu %25
+- `.left-5` - Sol konumu 5rem
+- `.left-4.5` - Sol konumu 0rem
+- `.left-4` - Sol konumu 4rem
+- `.left-3.5` - Sol konumu 0rem
+- `.left-3` - Sol konumu 3rem
+- `.left-2.5` - Sol konumu 0rem
+- `.left-2` - Sol konumu 2rem
+- `.left-1.9` - Sol konumu 0rem
+- `.left-1.8` - Sol konumu 0rem
+- `.left-1.7` - Sol konumu 0rem
+- `.left-1.6` - Sol konumu 0rem
+- `.left-1.5` - Sol konumu 0rem
+- `.left-1.4` - Sol konumu 0rem
+- `.left-1.3` - Sol konumu 0rem
+- `.left-1.2` - Sol konumu 0rem
+- `.left-1.1` - Sol konumu 0rem
+- `.left-1` - Sol konumu 1rem
+- `.left-0.9` - Sol konumu 0rem
+- `.left-0.8` - Sol konumu 0rem
+- `.left-0.7` - Sol konumu 0rem
+- `.left-0.6` - Sol konumu 0rem
+- `.left-0.5` - Sol konumu 0rem
+- `.left-0.4` - Sol konumu 0rem
+- `.left-0.3` - Sol konumu 0rem
+- `.left-0.2` - Sol konumu 0.2rem
+- `.left-0.1` - Sol konumu 0.1rem
+- `.left-0` - Sol konumu 0rem
 
 ##### Negative Left
 
-- `.-left-5` - Negatif Sol 5rem
-- `.-left-4.5` - Negatif Sol 0rem
-- `.-left-4` - Negatif Sol 4rem
-- `.-left-3.5` - Negatif Sol 0rem
-- `.-left-3` - Negatif Sol 3rem
-- `.-left-2.5` - Negatif Sol 0rem
-- `.-left-2` - Negatif Sol 2rem
-- `.-left-1.9` - Negatif Sol 0rem
-- `.-left-1.8` - Negatif Sol 0rem
-- `.-left-1.7` - Negatif Sol 0rem
-- `.-left-1.6` - Negatif Sol 0rem
-- `.-left-1.5` - Negatif Sol 0rem
-- `.-left-1.4` - Negatif Sol 0rem
-- `.-left-1.3` - Negatif Sol 0rem
-- `.-left-1.2` - Negatif Sol 0rem
-- `.-left-1.1` - Negatif Sol 0rem
-- `.-left-1` - Negatif Sol 1rem
-- `.-left-0.9` - Negatif Sol 0rem
-- `.-left-0.8` - Negatif Sol 0rem
-- `.-left-0.7` - Negatif Sol 0rem
-- `.-left-0.6` - Negatif Sol 0rem
-- `.-left-0.5` - Negatif Sol 0rem
-- `.-left-0.4` - Negatif Sol 0rem
-- `.-left-0.3` - Negatif Sol 0,3rem
-- `.-left-0.2` - Negatif Sol 0,2rem
-- `.-left-0.1` - Negatif Sol 0,1rem
-- `.hover:-left-5` - Negatif Sol 5rem fareyle üzerine gelindiğinde
-- `.hover:-left-4.5` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-4` - Negatif Sol 4rem fareyle üzerine gelindiğinde
-- `.hover:-left-3.5` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-3` - Negatif Sol 3rem fareyle üzerine gelindiğinde
-- `.hover:-left-2.5` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-2` - Negatif Sol 2rem fareyle üzerine gelindiğinde
-- `.hover:-left-1.9` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-1.8` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-1.7` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-1.6` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-1.5` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-1.4` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-1.3` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-1.2` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-1.1` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-1` - Negatif Sol 1rem fareyle üzerine gelindiğinde
-- `.hover:-left-0.9` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-0.8` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-0.7` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-0.6` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-0.5` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-0.4` - Negatif Sol 0rem fareyle üzerine gelindiğinde
-- `.hover:-left-0.3` - Negatif Sol 0,3rem fareyle üzerine gelindiğinde
-- `.hover:-left-0.2` - Negatif Sol 0,2rem fareyle üzerine gelindiğinde
-- `.hover:-left-0.1` - Negatif Sol 0,1rem fareyle üzerine gelindiğinde
+- `.-left-5` - Negatif sol konumu 5rem
+- `.-left-4.5` - Negatif sol konumu 0rem
+- `.-left-4` - Negatif sol konumu 4rem
+- `.-left-3.5` - Negatif sol konumu 0rem
+- `.-left-3` - Negatif sol konumu 3rem
+- `.-left-2.5` - Negatif sol konumu 0rem
+- `.-left-2` - Negatif sol konumu 2rem
+- `.-left-1.9` - Negatif sol konumu 0rem
+- `.-left-1.8` - Negatif sol konumu 0rem
+- `.-left-1.7` - Negatif sol konumu 0rem
+- `.-left-1.6` - Negatif sol konumu 0rem
+- `.-left-1.5` - Negatif sol konumu 0rem
+- `.-left-1.4` - Negatif sol konumu 0rem
+- `.-left-1.3` - Negatif sol konumu 0rem
+- `.-left-1.2` - Negatif sol konumu 0rem
+- `.-left-1.1` - Negatif sol konumu 0rem
+- `.-left-1` - Negatif sol konumu 1rem
+- `.-left-0.9` - Negatif sol konumu 0rem
+- `.-left-0.8` - Negatif sol konumu 0rem
+- `.-left-0.7` - Negatif sol konumu 0rem
+- `.-left-0.6` - Negatif sol konumu 0rem
+- `.-left-0.5` - Negatif sol konumu 0rem
+- `.-left-0.4` - Negatif sol konumu 0rem
+- `.-left-0.3` - Negatif sol konumu 0.3rem
+- `.-left-0.2` - Negatif sol konumu 0.2rem
+- `.-left-0.1` - Negatif sol konumu 0.1rem
+- `.hover:-left-5` - Fareyle üzerine gelindiğinde negatif sol konumu 5rem
+- `.hover:-left-4.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-4` - Fareyle üzerine gelindiğinde negatif sol konumu 4rem
+- `.hover:-left-3.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-3` - Fareyle üzerine gelindiğinde negatif sol konumu 3rem
+- `.hover:-left-2.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-2` - Fareyle üzerine gelindiğinde negatif sol konumu 2rem
+- `.hover:-left-1.9` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1.8` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1.7` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1.6` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1.4` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1.3` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1.2` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1.1` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1` - Fareyle üzerine gelindiğinde negatif sol konumu 1rem
+- `.hover:-left-0.9` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-0.8` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-0.7` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-0.6` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-0.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-0.4` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-0.3` - Fareyle üzerine gelindiğinde negatif sol konumu 0.3rem
+- `.hover:-left-0.2` - Fareyle üzerine gelindiğinde negatif sol konumu 0.2rem
+- `.hover:-left-0.1` - Fareyle üzerine gelindiğinde negatif sol konumu 0.1rem
 
 ### Z-Index
 
@@ -4196,40 +4196,40 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 ### Font Size
 
 - `.font-size-10` - Yazı Tipi Boyutu 10rem
-- `.font-size-9.5` - Yazı Tipi Boyutu 0 rem
+- `.font-size-9.5` - Yazı Tipi Boyutu 0rem
 - `.font-size-9` - Yazı Tipi Boyutu 9rem
-- `.font-size-8.5` - Yazı Tipi Boyutu 0 rem
+- `.font-size-8.5` - Yazı Tipi Boyutu 0rem
 - `.font-size-8` - Yazı Tipi Boyutu 8rem
-- `.font-size-7.5` - Yazı Tipi Boyutu 0 rem
+- `.font-size-7.5` - Yazı Tipi Boyutu 0rem
 - `.font-size-7` - Yazı Tipi Boyutu 7rem
-- `.font-size-6.5` - Yazı Tipi Boyutu 0 rem
+- `.font-size-6.5` - Yazı Tipi Boyutu 0rem
 - `.font-size-6` - Yazı Tipi Boyutu 6rem
-- `.font-size-5.5` - Yazı Tipi Boyutu 0 rem
+- `.font-size-5.5` - Yazı Tipi Boyutu 0rem
 - `.font-size-5` - Yazı Tipi Boyutu 5rem
-- `.font-size-4.5` - Yazı Tipi Boyutu 0 rem
-- `.font-size-4` - Yazı Tipi Boyutu 4 rem
-- `.font-size-3.5` - Yazı Tipi Boyutu 0 rem
+- `.font-size-4.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-4` - Yazı Tipi Boyutu 4rem
+- `.font-size-3.5` - Yazı Tipi Boyutu 0rem
 - `.font-size-3` - Yazı Tipi Boyutu 3rem
-- `.font-size-2.5` - Yazı Tipi Boyutu 0 rem
+- `.font-size-2.5` - Yazı Tipi Boyutu 0rem
 - `.font-size-2` - Yazı Tipi Boyutu 2rem
-- `.font-size-1.9` - Yazı Tipi Boyutu 0 rem
-- `.font-size-1.8` - Yazı Tipi Boyutu 0 rem
-- `.font-size-1.7` - Yazı Tipi Boyutu 0 rem
-- `.font-size-1.6` - Yazı Tipi Boyutu 0 rem
-- `.font-size-1.5` - Yazı Tipi Boyutu 0 rem
-- `.font-size-1.4` - Yazı Tipi Boyutu 0 rem
-- `.font-size-1.3` - Yazı Tipi Boyutu 0 rem
-- `.font-size-1.2` - Yazı Tipi Boyutu 0 rem
-- `.font-size-1.1` - Yazı Tipi Boyutu 0 rem
-- `.font-size-1` - Yazı Tipi Boyutu 1 rem
-- `.font-size-0.9` - Yazı Tipi Boyutu 0 rem
-- `.font-size-0.8` - Yazı Tipi Boyutu 0 rem
-- `.font-size-0.7` - Yazı Tipi Boyutu 0,7 rem
-- `.font-size-0.6` - Yazı Tipi Boyutu 0,6 rem
-- `.font-size-0.5` - Yazı Tipi Boyutu 0,5 rem
-- `.hover:font-size-10` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 10 rem
+- `.font-size-1.9` - Yazı Tipi Boyutu 0rem
+- `.font-size-1.8` - Yazı Tipi Boyutu 0rem
+- `.font-size-1.7` - Yazı Tipi Boyutu 0rem
+- `.font-size-1.6` - Yazı Tipi Boyutu 0rem
+- `.font-size-1.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-1.4` - Yazı Tipi Boyutu 0rem
+- `.font-size-1.3` - Yazı Tipi Boyutu 0rem
+- `.font-size-1.2` - Yazı Tipi Boyutu 0rem
+- `.font-size-1.1` - Yazı Tipi Boyutu 0rem
+- `.font-size-1` - Yazı Tipi Boyutu 1rem
+- `.font-size-0.9` - Yazı Tipi Boyutu 0rem
+- `.font-size-0.8` - Yazı Tipi Boyutu 0rem
+- `.font-size-0.7` - Yazı Tipi Boyutu 0,7rem
+- `.font-size-0.6` - Yazı Tipi Boyutu 0,6rem
+- `.font-size-0.5` - Yazı Tipi Boyutu 0,5rem
+- `.hover:font-size-10` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 10rem
 - `.hover:font-size-9.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-9` - Vurguluyken Yazı Tipi Boyutu 9 rem
+- `.hover:font-size-9` - Vurguluyken Yazı Tipi Boyutu 9rem
 - `.hover:font-size-8.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
 - `.hover:font-size-8` - Vurguluyken Yazı Tipi Boyutu 8rem
 - `.hover:font-size-7.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
@@ -4256,9 +4256,9 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:font-size-1` - Vurguluyken Yazı Tipi Boyutu 1rem
 - `.hover:font-size-0.9` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
 - `.hover:font-size-0.8` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-0.7` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 0,7 rem
-- `.hover:font-size-0.6` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 0,6 rem
-- `.hover:font-size-0.5` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 0,5 rem
+- `.hover:font-size-0.7` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 0,7rem
+- `.hover:font-size-0.6` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 0,6rem
+- `.hover:font-size-0.5` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 0,5rem
 
 ### Font Weight
 
@@ -4292,9 +4292,9 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:letter-spacing-0.6` - Fareyle üzerine gelindiğinde harf aralığı 0rem
 - `.hover:letter-spacing-0.5` - Fareyle üzerine gelindiğinde harf aralığı 0rem
 - `.hover:letter-spacing-0.4` - Fareyle üzerine gelindiğinde harf aralığı 0rem
-- `.hover:letter-spacing-0.3` - Fareyle üzerine gelindiğinde harf aralığı 0,3 rem
-- `.hover:letter-spacing-0.2` - Fareyle üzerine gelindiğinde harf aralığı 0,2 rem
-- `.hover:letter-spacing-0.1` - Fareyle üzerine gelindiğinde harf aralığı 0,1 rem
+- `.hover:letter-spacing-0.3` - Fareyle üzerine gelindiğinde harf aralığı 0,3rem
+- `.hover:letter-spacing-0.2` - Fareyle üzerine gelindiğinde harf aralığı 0,2rem
+- `.hover:letter-spacing-0.1` - Fareyle üzerine gelindiğinde harf aralığı 0,1rem
 - `.letter-spacing-1` - Harf aralığı 1rem
 - `.letter-spacing-0.9` - Harf aralığı 0rem
 - `.letter-spacing-0.8` - Harf aralığı 0rem
@@ -4303,8 +4303,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.letter-spacing-0.5` - Harf aralığı 0rem
 - `.letter-spacing-0.4` - Harf aralığı 0rem
 - `.letter-spacing-0.3` - Harf aralığı 0,3rem
-- `.letter-spacing-0.2` - Harf aralığı 0,2 rem
-- `.letter-spacing-0.1` - Harf aralığı 0,1 rem
+- `.letter-spacing-0.2` - Harf aralığı 0,2rem
+- `.letter-spacing-0.1` - Harf aralığı 0,1rem
 
 ### Line height
 
@@ -4322,17 +4322,17 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 ### Text
 
 - `.hover:text-capitalize` - Fareyle üzerine gelindiğinde metni büyük harfle yazmak
-- `.hover:text-center` - Fareyle üzerine gelindiğinde metin merkezi
-- `.hover:text-end` - Fareyle üzerine gelindiğinde metin sonu
-- `.hover:text-justify` - Fareyle üzerine gelindiğinde metni iki yana yasla
-- `.hover:text-left` - Fareyle üzerine gelindiğinde kalan metin
+- `.hover:text-center` - Fareyle üzerine gelindiğinde metin ortalı
+- `.hover:text-end` - Fareyle üzerine gelindiğinde metin sona hizalı
+- `.hover:text-justify` - Fareyle üzerine gelindiğinde metin iki yana yaslı
+- `.hover:text-left` - Fareyle üzerine gelindiğinde metin sola hizalı
 - `.hover:text-line-none` - Metin satırı-vurguluyken yok
 - `.hover:text-line-overline` - Fareyle üzerine gelindiğinde metin satırının üst üste çizilmesi
 - `.hover:text-line-through` - Fareyle üzerine gelindiğinde metin satırı geçişi
 - `.hover:text-line-underline` - Fareyle üzerine gelindiğinde metin satırının altı çizili
 - `.hover:text-lowercase` - Fareyle üzerine gelindiğinde metin küçük harf
-- `.hover:text-right` - Fareyle üzerine gelindiğinde metin
-- `.hover:text-start` - Fareyle üzerine gelindiğinde metin başlangıcı
+- `.hover:text-right` - Fareyle üzerine gelindiğinde metin sağa hizalı
+- `.hover:text-start` - Fareyle üzerine gelindiğinde metin başlangıca hizalı
 - `.hover:text-transparent` - Fareyle üzerine gelindiğinde metin şeffaf
 - `.hover:text-uppercase` - Fareyle üzerine gelindiğinde metin büyük harf
 - `.text-break-all` - Metin sonu
@@ -4340,10 +4340,10 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.text-break-normal` - Metin sonu-normal
 - `.text-break-word` - Metin sonu-kelime
 - `.text-capitalize` - Metin büyük harfle yaz
-- `.text-center` - Metin merkezi
-- `.text-end` - Metin sonu
-- `.text-justify` - Metin iki yana yasla
-- `.text-left` - Metin sola
+- `.text-center` - Metin ortalı
+- `.text-end` - Metin sona hizalı
+- `.text-justify` - Metin iki yana yaslı
+- `.text-left` - Metin sola hizalı
 - `.text-line-none` - Metin satırı-yok
 - `.text-line-overline` - Metin satırı-üst çizgi
 - `.text-line-through` - Metin satırı geçişi
@@ -4351,130 +4351,130 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.text-lowercase` - Metin küçük harf
 - `.text-overflow-clip` - Metin taşması klibi
 - `.text-overflow-ellipsis` - Metin taşması-üç nokta
-- `.text-right` - Sağa metin
-- `.text-start` - Metin başlangıcı
+- `.text-right` - Metin sağa hizalı
+- `.text-start` - Metin başlangıca hizalı
 - `.text-transparent` - Metin şeffaf
 - `.text-uppercase` - Metin büyük harf
 
 ##### Text - Mobile (≤ 480px)
 
-- `.hover:mobile:text-center` - Mobil cihazda fareyle üzerine gelindiğinde metnin merkezi
-- `.hover:mobile:text-end` - Mobil cihazda fareyle üzerine gelindiğinde metin sonu
-- `.hover:mobile:text-justify` - Mobil cihazda fareyle üzerine gelindiğinde metni iki yana yaslama
-- `.hover:mobile:text-left` - Mobil cihazda fareyle üzerine gelindiğinde bırakılan metin
-- `.hover:mobile:text-right` - Mobil cihazda fareyle üzerine gelindiğinde sağdaki metin
-- `.hover:mobile:text-start` - Mobil cihazda fareyle üzerine gelindiğinde metin başlangıcı
-- `.mobile:text-center` - Mobil cihazda metin merkezi
-- `.mobile:text-end` - Mobil cihazda metin sonu
-- `.mobile:text-justify` - Mobil cihazda metni iki yana yaslama
-- `.mobile:text-left` - Mobil cihazda bırakılan metin
-- `.mobile:text-right` - Doğrudan cep telefonunda mesaj gönderin
-- `.mobile:text-start` - Mobil cihazda metin başlangıcı
+- `.hover:mobile:text-center` - Mobil cihazda fareyle üzerine gelindiğinde metin ortalı
+- `.hover:mobile:text-end` - Mobil cihazda fareyle üzerine gelindiğinde metin sona hizalı
+- `.hover:mobile:text-justify` - Mobil cihazda fareyle üzerine gelindiğinde metin iki yana yaslı
+- `.hover:mobile:text-left` - Mobil cihazda fareyle üzerine gelindiğinde metin sola hizalı
+- `.hover:mobile:text-right` - Mobil cihazda fareyle üzerine gelindiğinde metin sağa hizalı
+- `.hover:mobile:text-start` - Mobil cihazda fareyle üzerine gelindiğinde metin başlangıca hizalı
+- `.mobile:text-center` - Mobil cihazda metin ortalı
+- `.mobile:text-end` - Mobil cihazda metin sona hizalı
+- `.mobile:text-justify` - Mobil cihazda metin iki yana yaslı
+- `.mobile:text-left` - Mobil cihazda metin sola hizalı
+- `.mobile:text-right` - Mobil cihazda metin sağa hizalı
+- `.mobile:text-start` - Mobil cihazda metin başlangıca hizalı
 
 ##### Text - Tablet (480px - 768px)
 
-- `.hover:tablet:text-center` - Tabletin üzerine gelindiğinde metnin merkezi
-- `.hover:tablet:text-end` - Tabletin üzerine gelindiğinde metin sonu
-- `.hover:tablet:text-justify` - Tablette fareyle üzerine gelindiğinde metni iki yana yaslama
-- `.hover:tablet:text-left` - Tablette fareyle üzerine gelindiğinde kalan metin
-- `.hover:tablet:text-right` - Tabletin üzerine gelindiğinde sağdaki metin
-- `.hover:tablet:text-start` - Tabletin üzerine gelindiğinde metin başlangıcı
-- `.tablet:text-center` - Tabletteki metin merkezi
-- `.tablet:text-end` - Tablette metin sonu
-- `.tablet:text-justify` - Metin tablette iki yana yasla
-- `.tablet:text-left` - Tablette kalan metin
-- `.tablet:text-right` - Doğrudan tablette metin
-- `.tablet:text-start` - Tablette metin başlangıcı
+- `.hover:tablet:text-center` - Tablette fareyle üzerine gelindiğinde metin ortalı
+- `.hover:tablet:text-end` - Tablette fareyle üzerine gelindiğinde metin sona hizalı
+- `.hover:tablet:text-justify` - Tablette fareyle üzerine gelindiğinde metin iki yana yaslı
+- `.hover:tablet:text-left` - Tablette fareyle üzerine gelindiğinde metin sola hizalı
+- `.hover:tablet:text-right` - Tablette fareyle üzerine gelindiğinde metin sağa hizalı
+- `.hover:tablet:text-start` - Tablette fareyle üzerine gelindiğinde metin başlangıca hizalı
+- `.tablet:text-center` - Tablette metin ortalı
+- `.tablet:text-end` - Tablette metin sona hizalı
+- `.tablet:text-justify` - Tablette metin iki yana yaslı
+- `.tablet:text-left` - Tablette metin sola hizalı
+- `.tablet:text-right` - Tablette metin sağa hizalı
+- `.tablet:text-start` - Tablette metin başlangıca hizalı
 
 ##### Text - Tablet Pc (768px - 992px)
 
-- `.hover:tablet-pc:text-center` - Tablet bilgisayarda fareyle üzerine gelindiğinde metin merkezi
-- `.hover:tablet-pc:text-end` - Tablet bilgisayarda fareyle üzerine gelindiğinde metin sonu
-- `.hover:tablet-pc:text-justify` - Tablet bilgisayarda fareyle üzerine gelindiğinde metni iki yana yaslama
-- `.hover:tablet-pc:text-left` - Tablet bilgisayarda fareyle üzerine gelindiğinde kalan metin
-- `.hover:tablet-pc:text-right` - Tablet bilgisayarda fareyle üzerine gelindiğinde sağdaki metin
-- `.hover:tablet-pc:text-start` - Tablet bilgisayarda fareyle üzerine gelindiğinde metin başlangıcı
-- `.tablet-pc:text-center` - Tablet bilgisayarda metin merkezi
-- `.tablet-pc:text-end` - Tablet PC'de metin sonu
-- `.tablet-pc:text-justify` - Tablet PC'de metni iki yana yaslama
-- `.tablet-pc:text-left` - Tablet bilgisayarda bırakılan metin
-- `.tablet-pc:text-right` - Doğrudan tablet bilgisayarda metin
-- `.tablet-pc:text-start` - Tablet PC'de metin başlangıcı
+- `.hover:tablet-pc:text-center` - Tablet bilgisayarda fareyle üzerine gelindiğinde metin ortalı
+- `.hover:tablet-pc:text-end` - Tablet bilgisayarda fareyle üzerine gelindiğinde metin sona hizalı
+- `.hover:tablet-pc:text-justify` - Tablet bilgisayarda fareyle üzerine gelindiğinde metin iki yana yaslı
+- `.hover:tablet-pc:text-left` - Tablet bilgisayarda fareyle üzerine gelindiğinde metin sola hizalı
+- `.hover:tablet-pc:text-right` - Tablet bilgisayarda fareyle üzerine gelindiğinde metin sağa hizalı
+- `.hover:tablet-pc:text-start` - Tablet bilgisayarda fareyle üzerine gelindiğinde metin başlangıca hizalı
+- `.tablet-pc:text-center` - Tablet bilgisayarda metin ortalı
+- `.tablet-pc:text-end` - Tablet bilgisayarda metin sona hizalı
+- `.tablet-pc:text-justify` - Tablet bilgisayarda metin iki yana yaslı
+- `.tablet-pc:text-left` - Tablet bilgisayarda metin sola hizalı
+- `.tablet-pc:text-right` - Tablet bilgisayarda metin sağa hizalı
+- `.tablet-pc:text-start` - Tablet bilgisayarda metin başlangıca hizalı
 
 ##### Text - Pc (992px - 1200px)
 
-- `.hover:pc:text-center` - PC'de fareyle üzerine gelindiğinde metin merkezi
-- `.hover:pc:text-end` - PC'de fareyle üzerine gelindiğinde metin sonu
-- `.hover:pc:text-justify` - PC'de fareyle üzerine gelindiğinde metni iki yana yaslama
-- `.hover:pc:text-left` - PC'de fareyle üzerine gelindiğinde kalan metin
-- `.hover:pc:text-right` - PC'de sağ fareyle üzerine gelindiğinde metin
-- `.hover:pc:text-start` - PC'de fareyle üzerine gelindiğinde metin başlangıcı
-- `.pc:text-center` - Bilgisayardaki metin merkezi
-- `.pc:text-end` - PC'de metin sonu
-- `.pc:text-justify` - PC'de metni iki yana yasla
-- `.pc:text-left` - Metin bilgisayarda kaldı
-- `.pc:text-right` - Doğrudan PC'de metin gönderin
-- `.pc:text-start` - PC'de metin başlangıcı
+- `.hover:pc:text-center` - PC'de fareyle üzerine gelindiğinde metin ortalı
+- `.hover:pc:text-end` - PC'de fareyle üzerine gelindiğinde metin sona hizalı
+- `.hover:pc:text-justify` - PC'de fareyle üzerine gelindiğinde metin iki yana yaslı
+- `.hover:pc:text-left` - PC'de fareyle üzerine gelindiğinde metin sola hizalı
+- `.hover:pc:text-right` - PC'de fareyle üzerine gelindiğinde metin sağa hizalı
+- `.hover:pc:text-start` - PC'de fareyle üzerine gelindiğinde metin başlangıca hizalı
+- `.pc:text-center` - PC'de metin ortalı
+- `.pc:text-end` - PC'de metin sona hizalı
+- `.pc:text-justify` - PC'de metin iki yana yaslı
+- `.pc:text-left` - PC'de metin sola hizalı
+- `.pc:text-right` - PC'de metin sağa hizalı
+- `.pc:text-start` - PC'de metin başlangıca hizalı
 
 ##### Text - Tv (≥ 1200px)
 
-- `.hover:tv:text-center` - Televizyonun üzerine gelindiğinde metin merkezi
-- `.hover:tv:text-end` - Televizyonun üzerine gelindiğinde metin sonu
-- `.hover:tv:text-justify` - Televizyonda fareyle üzerine gelindiğinde metni iki yana yaslama
-- `.hover:tv:text-left` - Televizyonda fareyle üzerine gelindiğinde bırakılan metin
-- `.hover:tv:text-right` - Televizyonun sağ faresiyle üzerine gelindiğinde metin
-- `.hover:tv:text-start` - Televizyonun üzerine gelindiğinde metin başlangıcı
-- `.tv:text-center` - Televizyondaki metin merkezi
-- `.tv:text-end` - Televizyonda metin sonu
-- `.tv:text-justify` - Televizyonda metni iki yana yasla
-- `.tv:text-left` - Televizyona bırakılan metin
-- `.tv:text-right` - Doğrudan televizyonda mesaj gönderin
-- `.tv:text-start` - Televizyonda metin başlangıcı
+- `.hover:tv:text-center` - TV'de fareyle üzerine gelindiğinde metin ortalı
+- `.hover:tv:text-end` - TV'de fareyle üzerine gelindiğinde metin sona hizalı
+- `.hover:tv:text-justify` - TV'de fareyle üzerine gelindiğinde metin iki yana yaslı
+- `.hover:tv:text-left` - TV'de fareyle üzerine gelindiğinde metin sola hizalı
+- `.hover:tv:text-right` - TV'de fareyle üzerine gelindiğinde metin sağa hizalı
+- `.hover:tv:text-start` - TV'de fareyle üzerine gelindiğinde metin başlangıca hizalı
+- `.tv:text-center` - TV'de metin ortalı
+- `.tv:text-end` - TV'de metin sona hizalı
+- `.tv:text-justify` - TV'de metin iki yana yaslı
+- `.tv:text-left` - TV'de metin sola hizalı
+- `.tv:text-right` - TV'de metin sağa hizalı
+- `.tv:text-start` - TV'de metin başlangıca hizalı
 
 ##### Text - Tablet Max (≤ 768px)
 
-- `.hover:tablet-max:text-center` - Tablet max üzerinde fareyle üzerine gelindiğinde metin merkezi
-- `.hover:tablet-max:text-end` - Tablet max'ın üzerine gelindiğinde metin sonu
-- `.hover:tablet-max:text-justify` - Tablet max üzerinde fareyle üzerine gelindiğinde metni iki yana yaslama
-- `.hover:tablet-max:text-left` - Tablet max üzerinde fareyle üzerine gelindiğinde kalan metin
-- `.hover:tablet-max:text-right` - Tablet max'ın üzerine gelindiğinde sağdaki metin
-- `.hover:tablet-max:text-start` - Tablet max'ın üzerine gelindiğinde metin başlangıcı
-- `.tablet-max:text-center` - Tablet max'ta metin merkezi
-- `.tablet-max:text-end` - Tablet max'ta metin sonu
-- `.tablet-max:text-justify` - Metin tablet max'ta iki yana yasla
-- `.tablet-max:text-left` - Tablet max'ta kalan metin
-- `.tablet-max:text-right` - Tablet max'in sağ tarafında metin
-- `.tablet-max:text-start` - Tablet max'ta metin başlangıcı
+- `.hover:tablet-max:text-center` - Tablette (maks.) fareyle üzerine gelindiğinde metin ortalı
+- `.hover:tablet-max:text-end` - Tablette (maks.) fareyle üzerine gelindiğinde metin sona hizalı
+- `.hover:tablet-max:text-justify` - Tablette (maks.) fareyle üzerine gelindiğinde metin iki yana yaslı
+- `.hover:tablet-max:text-left` - Tablette (maks.) fareyle üzerine gelindiğinde metin sola hizalı
+- `.hover:tablet-max:text-right` - Tablette (maks.) fareyle üzerine gelindiğinde metin sağa hizalı
+- `.hover:tablet-max:text-start` - Tablette (maks.) fareyle üzerine gelindiğinde metin başlangıca hizalı
+- `.tablet-max:text-center` - Tablette (maks.) metin ortalı
+- `.tablet-max:text-end` - Tablette (maks.) metin sona hizalı
+- `.tablet-max:text-justify` - Tablette (maks.) metin iki yana yaslı
+- `.tablet-max:text-left` - Tablette (maks.) metin sola hizalı
+- `.tablet-max:text-right` - Tablette (maks.) metin sağa hizalı
+- `.tablet-max:text-start` - Tablette (maks.) metin başlangıca hizalı
 
 ##### Text - Tablet Pc Max (≤ 992px)
 
-- `.hover:tablet-pc-max:text-center` - Tablet PC max'ta fareyle üzerine gelindiğinde metin merkezi
-- `.hover:tablet-pc-max:text-end` - Tablet PC max üzerinde fareyle üzerine gelindiğinde metin sonu
-- `.hover:tablet-pc-max:text-justify` - Tablet PC Max'te fareyle üzerine gelindiğinde metni iki yana yaslama
-- `.hover:tablet-pc-max:text-left` - Tablet PC Max'te fareyle üzerine gelindiğinde kalan metin
-- `.hover:tablet-pc-max:text-right` - Tablet pc max'ın sağındaki metin
-- `.hover:tablet-pc-max:text-start` - Tablet PC max üzerinde fareyle üzerine gelindiğinde metin başlangıcı
-- `.tablet-pc-max:text-center` - Tablet pc max'ta metin merkezi
-- `.tablet-pc-max:text-end` - Tablet pc max'ta metin sonu
-- `.tablet-pc-max:text-justify` - Tablet pc max'ta metni iki yana yaslama
-- `.tablet-pc-max:text-left` - Tablet PC Max'te kalan metin
-- `.tablet-pc-max:text-right` - Tablet pc max'ta metin sağ
-- `.tablet-pc-max:text-start` - Tablet PC max'ta metin başlangıcı
+- `.hover:tablet-pc-max:text-center` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde metin ortalı
+- `.hover:tablet-pc-max:text-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde metin sona hizalı
+- `.hover:tablet-pc-max:text-justify` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde metin iki yana yaslı
+- `.hover:tablet-pc-max:text-left` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde metin sola hizalı
+- `.hover:tablet-pc-max:text-right` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde metin sağa hizalı
+- `.hover:tablet-pc-max:text-start` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde metin başlangıca hizalı
+- `.tablet-pc-max:text-center` - Tablet bilgisayarda (maks.) metin ortalı
+- `.tablet-pc-max:text-end` - Tablet bilgisayarda (maks.) metin sona hizalı
+- `.tablet-pc-max:text-justify` - Tablet bilgisayarda (maks.) metin iki yana yaslı
+- `.tablet-pc-max:text-left` - Tablet bilgisayarda (maks.) metin sola hizalı
+- `.tablet-pc-max:text-right` - Tablet bilgisayarda (maks.) metin sağa hizalı
+- `.tablet-pc-max:text-start` - Tablet bilgisayarda (maks.) metin başlangıca hizalı
 
 ##### Text - Pc Max (≤ 1200px)
 
-- `.hover:pc-max:text-center` - PC max'ta fareyle üzerine gelindiğinde metin merkezi
-- `.hover:pc-max:text-end` - PC max'ta fareyle üzerine gelindiğinde metin sonu
-- `.hover:pc-max:text-justify` - PC max'ta fareyle üzerine gelindiğinde metni iki yana yaslama
-- `.hover:pc-max:text-left` - PC max'ta fareyle üzerine gelindiğinde kalan metin
-- `.hover:pc-max:text-right` - PC max'ta fareyle üzerine gelindiğinde sağdaki metin
-- `.hover:pc-max:text-start` - PC max'ta fareyle üzerine gelindiğinde metin başlangıcı
-- `.pc-max:text-center` - PC max'ta metin merkezi
-- `.pc-max:text-end` - PC max'ta metin sonu
-- `.pc-max:text-justify` - PC max'ta metni iki yana yasla
-- `.pc-max:text-left` - PC max'ta kalan metin
-- `.pc-max:text-right` - PC max'ta doğru metin
-- `.pc-max:text-start` - PC max'ta metin başlangıcı
+- `.hover:pc-max:text-center` - PC'de (maks.) fareyle üzerine gelindiğinde metin ortalı
+- `.hover:pc-max:text-end` - PC'de (maks.) fareyle üzerine gelindiğinde metin sona hizalı
+- `.hover:pc-max:text-justify` - PC'de (maks.) fareyle üzerine gelindiğinde metin iki yana yaslı
+- `.hover:pc-max:text-left` - PC'de (maks.) fareyle üzerine gelindiğinde metin sola hizalı
+- `.hover:pc-max:text-right` - PC'de (maks.) fareyle üzerine gelindiğinde metin sağa hizalı
+- `.hover:pc-max:text-start` - PC'de (maks.) fareyle üzerine gelindiğinde metin başlangıca hizalı
+- `.pc-max:text-center` - PC'de (maks.) metin ortalı
+- `.pc-max:text-end` - PC'de (maks.) metin sona hizalı
+- `.pc-max:text-justify` - PC'de (maks.) metin iki yana yaslı
+- `.pc-max:text-left` - PC'de (maks.) metin sola hizalı
+- `.pc-max:text-right` - PC'de (maks.) metin sağa hizalı
+- `.pc-max:text-start` - PC'de (maks.) metin başlangıca hizalı
 
 ### Whitespace
 
@@ -4485,7 +4485,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 ### Whitespace break
 
-- `.hover:whitespace-break-spaces` - Fareyle üzerine gelindiğinde boşluk bırakma boşlukları
+- `.hover:whitespace-break-spaces` - Fareyle üzerine gelindiğinde boşluk ara boşlukları
 - `.whitespace-break-spaces` - Boşluk ara boşlukları
 
 ### Whitespace pre
@@ -4532,18 +4532,18 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Border All
 
-- `.border-2` - Sınırın Tamamı 2rem
+- `.border-2` - Kenarlık Tümü 2rem
 - `.border-1.5` - Kenarlık Tümü 0rem
-- `.border-1` - Sınırın Tamamı 1rem
+- `.border-1` - Kenarlık Tümü 1rem
 - `.border-0.9` - Kenarlık Tümü 0rem
 - `.border-0.8` - Kenarlık Tümü 0rem
 - `.border-0.7` - Kenarlık Tümü 0rem
 - `.border-0.6` - Kenarlık Tümü 0rem
 - `.border-0.5` - Kenarlık Tümü 0rem
-- `.border-0.4` - Kenarlığın Tamamı 0,4 rem
+- `.border-0.4` - Kenarlık Tümü 0.4rem
 - `.border-0.3` - Kenarlık Tümü 0rem
-- `.border-0.2` - Sınırın Tamamı 0,2 rem
-- `.border-0.1` - Sınırın Tamamı 0,1 rem
+- `.border-0.2` - Kenarlık Tümü 0.2rem
+- `.border-0.1` - Kenarlık Tümü 0.1rem
 - `.border-0` - Kenarlık Tümü 0rem
 - `.hover:border-2` - Kenarlık Tümü 2rem fareyle üzerine gelindiğinde
 - `.hover:border-1.5` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
@@ -4555,8 +4555,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:border-0.5` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:border-0.4` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:border-0.3` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:border-0.2` - Kenarlık Tümü 0,2 rem fareyle üzerine gelindiğinde
-- `.hover:border-0.1` - Kenarlık Tümü 0,1 rem fareyle üzerine gelindiğinde
+- `.hover:border-0.2` - Kenarlık Tümü 0,2rem fareyle üzerine gelindiğinde
+- `.hover:border-0.1` - Kenarlık Tümü 0,1rem fareyle üzerine gelindiğinde
 - `.hover:border-0` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
 
 #### Border Bottom
@@ -4571,8 +4571,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.border-b-0.5` - Kenarlık Alt 0,5rem
 - `.border-b-0.4` - Kenarlık Alt 0rem
 - `.border-b-0.3` - Kenarlık Alt 0rem
-- `.border-b-0.2` - Kenarlık Alt 0,2 rem
-- `.border-b-0.1` - Kenarlık Alt 0,1 rem
+- `.border-b-0.2` - Kenarlık Alt 0,2rem
+- `.border-b-0.1` - Kenarlık Alt 0,1rem
 - `.border-b-0` - Kenarlık Alt 0rem
 - `.hover:border-b-2` - Fareyle üzerine gelindiğinde Kenarlık Alt 2rem
 - `.hover:border-b-1.5` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
@@ -4584,8 +4584,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:border-b-0.5` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
 - `.hover:border-b-0.4` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
 - `.hover:border-b-0.3` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
-- `.hover:border-b-0.2` - Fareyle üzerine gelindiğinde Kenarlık Alt kısmı 0,2 rem
-- `.hover:border-b-0.1` - Fareyle üzerine gelindiğinde Kenarlık Alt kısmı 0,1 rem
+- `.hover:border-b-0.2` - Fareyle üzerine gelindiğinde Kenarlık Alt kısmı 0,2rem
+- `.hover:border-b-0.1` - Fareyle üzerine gelindiğinde Kenarlık Alt kısmı 0,1rem
 - `.hover:border-b-0` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
 
 #### Border Left
@@ -4601,7 +4601,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.border-l-0.4` - Kenarlık Sol 0rem
 - `.border-l-0.3` - Kenarlık Sol 0rem
 - `.border-l-0.2` - Kenarlık Sol 0,2rem
-- `.border-l-0.1` - Kenarlık Sol 0,1 rem
+- `.border-l-0.1` - Kenarlık Sol 0,1rem
 - `.border-l-0` - Kenarlık Sol 0rem
 - `.hover:border-l-2` - Fareyle üzerine gelindiğinde Kenarlık Sol 2rem
 - `.hover:border-l-1.5` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
@@ -4614,7 +4614,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:border-l-0.4` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
 - `.hover:border-l-0.3` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
 - `.hover:border-l-0.2` - Fareyle üzerine gelindiğinde Kenarlık Sol 0,2rem
-- `.hover:border-l-0.1` - Fareyle üzerine gelindiğinde Kenarlık Sol 0,1 rem
+- `.hover:border-l-0.1` - Fareyle üzerine gelindiğinde Kenarlık Sol 0,1rem
 - `.hover:border-l-0` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
 
 #### Border Right
@@ -4643,7 +4643,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:border-r-0.4` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
 - `.hover:border-r-0.3` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
 - `.hover:border-r-0.2` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0,2rem
-- `.hover:border-r-0.1` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0,1 rem
+- `.hover:border-r-0.1` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0,1rem
 - `.hover:border-r-0` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
 
 #### Border Top
@@ -4658,8 +4658,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.border-t-0.5` - Kenarlık Üst 0rem
 - `.border-t-0.4` - Kenarlık Üst 0rem
 - `.border-t-0.3` - Kenarlık Üst 0rem
-- `.border-t-0.2` - Kenarlık Üstü 0,2 rem
-- `.border-t-0.1` - Kenarlık Üst 0,1 rem
+- `.border-t-0.2` - Kenarlık Üstü 0,2rem
+- `.border-t-0.1` - Kenarlık Üst 0,1rem
 - `.border-t-0` - Kenarlık Üst 0rem
 - `.hover:border-t-2` - Fareyle üzerine gelindiğinde Kenarlık Üst 2rem
 - `.hover:border-t-1.5` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
@@ -4687,8 +4687,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.border-x-0.5` - Kenarlık X Ekseni 0rem
 - `.border-x-0.4` - Kenarlık X Ekseni 0rem
 - `.border-x-0.3` - Kenarlık X Ekseni 0rem
-- `.border-x-0.2` - Kenarlık X Ekseni 0,2 rem
-- `.border-x-0.1` - Kenarlık X Ekseni 0,1 rem
+- `.border-x-0.2` - Kenarlık X Ekseni 0,2rem
+- `.border-x-0.1` - Kenarlık X Ekseni 0,1rem
 - `.border-x-0` - Kenarlık X Ekseni 0rem
 - `.hover:border-x-2` - Fareyle üzerine gelindiğinde X Ekseni Kenarlığı 2rem
 - `.hover:border-x-1.5` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
@@ -4700,8 +4700,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:border-x-0.5` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
 - `.hover:border-x-0.4` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
 - `.hover:border-x-0.3` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
-- `.hover:border-x-0.2` - Vurguluyken Kenarlık X Ekseni 0,2 rem
-- `.hover:border-x-0.1` - Fareyle üzerine gelindiğinde X Ekseni Kenarlığı 0,1 rem
+- `.hover:border-x-0.2` - Vurguluyken Kenarlık X Ekseni 0,2rem
+- `.hover:border-x-0.1` - Fareyle üzerine gelindiğinde X Ekseni Kenarlığı 0,1rem
 - `.hover:border-x-0` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
 
 #### Border Y-Axis
@@ -4729,8 +4729,8 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:border-y-0.5` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
 - `.hover:border-y-0.4` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
 - `.hover:border-y-0.3` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
-- `.hover:border-y-0.2` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0,2 rem
-- `.hover:border-y-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0,1 rem
+- `.hover:border-y-0.2` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0,2rem
+- `.hover:border-y-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0,1rem
 - `.hover:border-y-0` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
 
 ### Border Radius
@@ -4741,11 +4741,11 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:rounded-4.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:rounded-4` - Kenarlık Yarıçapı Tümü 4rem fareyle üzerine gelindiğinde
 - `.hover:rounded-3.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-3` - Kenar Yarıçapının Tamamı 3rem fareyle üzerine gelindiğinde
+- `.hover:rounded-3` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 3rem
 - `.hover:rounded-2.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-2` - Kenar Yarıçapının Tamamı 2rem fareyle üzerine gelindiğinde
+- `.hover:rounded-2` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 2rem
 - `.hover:rounded-1.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-1` - Kenar Yarıçapının Tamamı 1rem fareyle üzerine gelindiğinde
+- `.hover:rounded-1` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 1rem
 - `.hover:rounded-0.9` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:rounded-0.8` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:rounded-0.7` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
@@ -4753,18 +4753,18 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:rounded-0.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:rounded-0.4` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:rounded-0.3` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-0.2` - Kenar Yarıçapının Tamamı 0,2rem fareyle üzerine gelindiğinde
-- `.hover:rounded-0.1` - Kenar Yarıçapı Fareyle üzerine gelindiğinde tamamı 0,1 rem
+- `.hover:rounded-0.2` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 0.2rem
+- `.hover:rounded-0.1` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 0.1rem
 - `.hover:rounded-0` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.rounded-5` - Kenar Yarıçapının Tamamı 5rem
+- `.rounded-5` - Kenarlık Yarıçapı Tümü 5rem
 - `.rounded-4.5` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-4` - Kenar Yarıçapının Tamamı 4rem
+- `.rounded-4` - Kenarlık Yarıçapı Tümü 4rem
 - `.rounded-3.5` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-3` - Kenarlık Yarıçapının Tamamı 3rem
+- `.rounded-3` - Kenarlık Yarıçapı Tümü 3rem
 - `.rounded-2.5` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-2` - Kenarlık Yarıçapının Tamamı 2rem
+- `.rounded-2` - Kenarlık Yarıçapı Tümü 2rem
 - `.rounded-1.5` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-1` - Kenarlık Yarıçapının Tamamı 1rem
+- `.rounded-1` - Kenarlık Yarıçapı Tümü 1rem
 - `.rounded-0.9` - Kenarlık Yarıçapı Tümü 0rem
 - `.rounded-0.8` - Kenarlık Yarıçapı Tümü 0rem
 - `.rounded-0.7` - Kenarlık Yarıçapı Tümü 0rem
@@ -4773,7 +4773,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.rounded-0.4` - Kenarlık Yarıçapı Tümü 0rem
 - `.rounded-0.3` - Kenarlık Yarıçapı Tümü 0rem
 - `.rounded-0.2` - Kenar Yarıçapı Tümü 0,2rem
-- `.rounded-0.1` - Kenar Yarıçapının Tamamı 0,1 rem
+- `.rounded-0.1` - Kenarlık Yarıçapı Tümü 0.1rem
 - `.rounded-0` - Kenarlık Yarıçapı Tümü 0rem
 
 #### Border Radius Bottom Left
@@ -4787,7 +4787,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:rounded-bl-2` - Kenarlık Yarıçapı Sol Altta 2rem fareyle üzerine gelindiğinde
 - `.hover:rounded-bl-1.5` - Kenarlık Yarıçapı Sol Alt 0rem fareyle üzerine gelindiğinde
 - `.hover:rounded-bl-1` - Kenarlık Yarıçapı Sol Altta 1rem fareyle üzerine gelindiğinde
-- `.hover:rounded-bl-0.5` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sol Alt 0,5 rem
+- `.hover:rounded-bl-0.5` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sol Alt 0,5rem
 - `.hover:rounded-bl-0` - Kenarlık Yarıçapı Sol Alt 0rem fareyle üzerine gelindiğinde
 - `.rounded-bl-5` - Kenarlık Yarıçapı Sol Alt 5rem
 - `.rounded-bl-4.5` - Kenarlık Yarıçapı Sol Alt 0rem
@@ -4798,7 +4798,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.rounded-bl-2` - Kenarlık Yarıçapı Sol Alt 2rem
 - `.rounded-bl-1.5` - Kenarlık Yarıçapı Sol Alt 0rem
 - `.rounded-bl-1` - Kenarlık Yarıçapı Sol Alt 1rem
-- `.rounded-bl-0.5` - Kenarlık Yarıçapı Sol Alt 0,5 rem
+- `.rounded-bl-0.5` - Kenarlık Yarıçapı Sol Alt 0,5rem
 - `.rounded-bl-0` - Kenarlık Yarıçapı Sol Alt 0rem
 
 #### Border Radius Bottom Right
@@ -4812,7 +4812,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:rounded-br-2` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sağ Altta 2rem
 - `.hover:rounded-br-1.5` - Kenarlık Yarıçapı Sağ Alt 0rem fareyle üzerine gelindiğinde
 - `.hover:rounded-br-1` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sağ Altta 1rem
-- `.hover:rounded-br-0.5` - Fareyle üzerine gelindiğinde Sağ Alt Kenar Yarıçapı 0,5 rem
+- `.hover:rounded-br-0.5` - Fareyle üzerine gelindiğinde Sağ Alt Kenar Yarıçapı 0,5rem
 - `.hover:rounded-br-0` - Kenarlık Yarıçapı Sağ Alt 0rem fareyle üzerine gelindiğinde
 - `.rounded-br-5` - Kenarlık Yarıçapı Sağ Alt 5rem
 - `.rounded-br-4.5` - Kenarlık Yarıçapı Sağ Alt 0rem
@@ -4823,7 +4823,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.rounded-br-2` - Kenarlık Yarıçapı Sağ Alt 2rem
 - `.rounded-br-1.5` - Kenarlık Yarıçapı Sağ Alt 0rem
 - `.rounded-br-1` - Kenarlık Yarıçapı Sağ Alt 1rem
-- `.rounded-br-0.5` - Kenarlık Yarıçapı Sağ Alt 0,5 rem
+- `.rounded-br-0.5` - Kenarlık Yarıçapı Sağ Alt 0,5rem
 - `.rounded-br-0` - Kenarlık Yarıçapı Sağ Alt 0rem
 
 #### Border Radius Top Left
@@ -4848,7 +4848,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.rounded-tl-2` - Kenarlık Yarıçapı Sol Üst 2rem
 - `.rounded-tl-1.5` - Kenarlık Yarıçapı Sol Üst 0rem
 - `.rounded-tl-1` - Kenarlık Yarıçapı Sol Üst 1rem
-- `.rounded-tl-0.5` - Kenar Yarıçapı Sol Üst 0,5 rem
+- `.rounded-tl-0.5` - Kenar Yarıçapı Sol Üst 0,5rem
 - `.rounded-tl-0` - Kenarlık Yarıçapı Sol Üst 0rem
 
 #### Border Radius Top Right
@@ -4873,7 +4873,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.rounded-tr-2` - Kenar Yarıçapı Sağ Üst 2rem
 - `.rounded-tr-1.5` - Kenarlık Yarıçapı Sağ Üst 0rem
 - `.rounded-tr-1` - Kenarlık Yarıçapı Sağ Üst 1rem
-- `.rounded-tr-0.5` - Kenar Yarıçapı Sağ Üst 0,5 rem
+- `.rounded-tr-0.5` - Kenar Yarıçapı Sağ Üst 0,5rem
 - `.rounded-tr-0` - Kenarlık Yarıçapı Sağ Üst 0rem
 
 ## Effects
@@ -4892,7 +4892,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:shadow-2-1` - Kutu Gölgesi Tümü 0 0 2rem 2rem fareyle üzerine gelindiğinde
 - `.hover:shadow-1` - Kutu Gölgesi Tümü 1rem fareyle üzerine gelindiğinde
 - `.hover:shadow-1-1` - Kutu Gölgesi Tümü 0 0 1rem 2rem fareyle üzerine gelindiğinde
-- `.hover:shadow-none` - Kutu Gölgesi Fareyle üzerine gelindiğinde hiçbiri yok
+- `.hover:shadow-none` - Fareyle üzerine gelindiğinde kutu Gölgesi Hepsi hiçbiri
 - `.shadow-5` - Kutu Gölgesi Tümü 5rem
 - `.shadow-5-1` - Kutu Gölgesi Tümü 0 0 5rem 2rem
 - `.shadow-4` - Kutu Gölgesi Tümü 4rem
@@ -4930,16 +4930,16 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Box Shadow Left
 
-- `.hover:shadow-l-10` - Kutu Gölgesi Fareyle üzerine gelindiğinde 10 saniye kaldı
-- `.hover:shadow-l-9` - Kutu Gölgesi Fareyle üzerine gelindiğinde 9 saniye kaldı
-- `.hover:shadow-l-8` - Kutu Gölgesi Fareyle üzerine gelindiğinde 8 saniye kaldı
-- `.hover:shadow-l-7` - Kutu Gölgesi Fareyle üzerine gelindiğinde 7 saniye kaldı
+- `.hover:shadow-l-10` - Fareyle üzerine gelindiğinde kutu Gölgesi Sol 10rem
+- `.hover:shadow-l-9` - Fareyle üzerine gelindiğinde kutu Gölgesi Sol 9rem
+- `.hover:shadow-l-8` - Fareyle üzerine gelindiğinde kutu Gölgesi Sol 8rem
+- `.hover:shadow-l-7` - Fareyle üzerine gelindiğinde kutu Gölgesi Sol 7rem
 - `.hover:shadow-l-6` - Kutu Gölgesi Vurguluyken 6rem Sol
-- `.hover:shadow-l-5` - Kutu Gölgesi Fareyle üzerine gelindiğinde 5 saniye kaldı
+- `.hover:shadow-l-5` - Fareyle üzerine gelindiğinde kutu Gölgesi Sol 5rem
 - `.hover:shadow-l-4` - Kutu Gölgesi Vurguluyken 4rem Sol
-- `.hover:shadow-l-3` - Kutu Gölgesi Fareyle üzerine gelindiğinde 3 saniye kaldı
-- `.hover:shadow-l-2` - Kutu Gölgesi Fareyle üzerine gelindiğinde 2 saniye kaldı
-- `.hover:shadow-l-1` - Kutu Gölgesi Fareyle üzerine gelindiğinde 1 saniye kaldı
+- `.hover:shadow-l-3` - Fareyle üzerine gelindiğinde kutu Gölgesi Sol 3rem
+- `.hover:shadow-l-2` - Fareyle üzerine gelindiğinde kutu Gölgesi Sol 2rem
+- `.hover:shadow-l-1` - Fareyle üzerine gelindiğinde kutu Gölgesi Sol 1rem
 - `.shadow-l-10` - Kutu Gölgesi Sol 10rem
 - `.shadow-l-9` - Kutu Gölgesi Sol 9rem
 - `.shadow-l-8` - Kutu Gölgesi Sol 8rem
@@ -4976,13 +4976,13 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 #### Box Shadow Top
 
-- `.hover:shadow-t-10` - Fareyle üzerine gelindiğinde Box Shadow Top 10rem
-- `.hover:shadow-t-9` - Fareyle üzerine gelindiğinde Box Shadow Top 9rem
+- `.hover:shadow-t-10` - Fareyle üzerine gelindiğinde kutu Gölge Üstü 10rem
+- `.hover:shadow-t-9` - Fareyle üzerine gelindiğinde kutu Gölge Üstü 9rem
 - `.hover:shadow-t-8` - Fareyle üzerine gelindiğinde Kutu Gölgesi Üst 8rem
 - `.hover:shadow-t-7` - Fareyle üzerine gelindiğinde Kutu Gölgesi Üst 7rem
 - `.hover:shadow-t-6` - Fareyle üzerine gelindiğinde Kutu Gölgesi Üst 6rem
 - `.hover:shadow-t-5` - Fareyle üzerine gelindiğinde Kutu Gölgesi Üst 5rem
-- `.hover:shadow-t-4` - Fareyle üzerine gelindiğinde Box Shadow Top 4rem
+- `.hover:shadow-t-4` - Fareyle üzerine gelindiğinde kutu Gölge Üstü 4rem
 - `.hover:shadow-t-3` - Fareyle üzerine gelindiğinde Kutu Gölgesi Üst 3rem
 - `.hover:shadow-t-2` - Fareyle üzerine gelindiğinde Kutu Gölgesi Üst 2rem
 - `.hover:shadow-t-1` - Fareyle üzerine gelindiğinde Kutu Gölgesi Üst 1rem
