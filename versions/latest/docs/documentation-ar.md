@@ -156,7 +156,7 @@
 - `.hover:d-inline-flex` - عرض المرن المضمن عند التمرير
 - `.hover:d-none` - عرض لا شيء عند التمرير
 
-##### Display - Mobile (≤ 480px)
+##### Display - Mobile (<= 480px)
 
 - `.hover:mobile:d-block` - عرض الكتلة عند التمرير على الهاتف المحمول
 - `.hover:mobile:d-flex` - عرض مرن عند التمرير على الهاتف المحمول
@@ -224,7 +224,7 @@
 - `.pc:d-inline-grid` - عرض الشبكة المضمنة على جهاز الكمبيوتر
 - `.pc:d-none` - عرض لا شيء على جهاز الكمبيوتر
 
-##### Display - Tv (≥ 1200px)
+##### Display - Tv (>= 1200px)
 
 - `.hover:tv:d-block` - عرض الكتلة عند التمرير على شاشة التلفزيون
 - `.hover:tv:d-flex` - عرض المرن على التمرير على شاشة التلفزيون
@@ -241,7 +241,7 @@
 - `.tv:d-inline-grid` - عرض الشبكة المضمنة على شاشة التلفزيون
 - `.tv:d-none` - عرض لا شيء على شاشة التلفزيون
 
-##### Display - Tablet Max (≤ 768px)
+##### Display - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:d-block` - عرض الكتلة عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:d-flex` - عرض مرن عند التمرير على الجهاز اللوحي بحد أقصى
@@ -258,7 +258,7 @@
 - `.tablet-max:d-inline-grid` - عرض الشبكة المضمنة على الجهاز اللوحي بحد أقصى
 - `.tablet-max:d-none` - عرض لا شيء على الجهاز اللوحي كحد أقصى
 
-##### Display - Tablet Pc Max (≤ 992px)
+##### Display - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:d-block` - عرض الكتلة عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:d-flex` - عرض مرن عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -275,7 +275,7 @@
 - `.tablet-pc-max:d-inline-grid` - عرض الشبكة المضمنة على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:d-none` - عرض لا شيء على الكمبيوتر اللوحي كحد أقصى
 
-##### Display - Pc Max (≤ 1200px)
+##### Display - Pc Max (<= 1200px)
 
 - `.hover:pc-max:d-block` - عرض الكتلة عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:d-flex` - عرض مرن عند التمرير على جهاز الكمبيوتر بحد أقصى
@@ -305,7 +305,7 @@
 - `.hover:float-right` - تعويم إلى اليمين عند التمرير
 - `.hover:float-start` - تعويم إلى البداية عند التمرير
 
-##### Float - Mobile (≤ 480px)
+##### Float - Mobile (<= 480px)
 
 - `.hover:mobile:float-end` - تعويم إلى النهاية عند التمرير على الجوال
 - `.hover:mobile:float-left` - تعويم إلى اليسار عند التمرير على الجوال
@@ -357,7 +357,7 @@
 - `.pc:float-right` - تعويم إلى اليمين على الكمبيوتر
 - `.pc:float-start` - تعويم إلى البداية على الكمبيوتر
 
-##### Float - Tv (≥ 1200px)
+##### Float - Tv (>= 1200px)
 
 - `.hover:tv:float-end` - تعويم إلى النهاية عند التمرير على التلفزيون
 - `.hover:tv:float-left` - تعويم إلى اليسار عند التمرير على التلفزيون
@@ -370,7 +370,7 @@
 - `.tv:float-right` - تعويم إلى اليمين على التلفزيون
 - `.tv:float-start` - تعويم إلى البداية على التلفزيون
 
-##### Float - Tablet Max (≤ 768px)
+##### Float - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:float-end` - تعويم إلى النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
 - `.hover:tablet-max:float-left` - تعويم إلى اليسار عند التمرير على الجهاز اللوحي (الحد الأقصى)
@@ -383,7 +383,7 @@
 - `.tablet-max:float-right` - تعويم إلى اليمين على الجهاز اللوحي (الحد الأقصى)
 - `.tablet-max:float-start` - تعويم إلى البداية على الجهاز اللوحي (الحد الأقصى)
 
-##### Float - Tablet Pc Max (≤ 992px)
+##### Float - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:float-end` - تعويم إلى النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
 - `.hover:tablet-pc-max:float-left` - تعويم إلى اليسار عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
@@ -396,7 +396,7 @@
 - `.tablet-pc-max:float-right` - تعويم إلى اليمين على الكمبيوتر اللوحي (الحد الأقصى)
 - `.tablet-pc-max:float-start` - تعويم إلى البداية على الكمبيوتر اللوحي (الحد الأقصى)
 
-##### Float - Pc Max (≤ 1200px)
+##### Float - Pc Max (<= 1200px)
 
 - `.hover:pc-max:float-end` - تعويم إلى النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
 - `.hover:pc-max:float-left` - تعويم إلى اليسار عند التمرير على الكمبيوتر (الحد الأقصى)
@@ -422,7 +422,7 @@
 - `.object-none` - لا شيء
 - `.object-scale` - مقياس الكائن
 
-##### Object - Mobile (≤ 480px)
+##### Object - Mobile (<= 480px)
 
 - `.hover:mobile:object-contain` - يحتوي الكائن على التمرير على الهاتف المحمول
 - `.hover:mobile:object-cover` - غطاء الكائن عند التمرير على الهاتف المحمول
@@ -474,7 +474,7 @@
 - `.pc:object-none` - لا يوجد كائن على جهاز الكمبيوتر
 - `.pc:object-scale` - مقياس الكائن على جهاز الكمبيوتر
 
-##### Object - Tv (≥ 1200px)
+##### Object - Tv (>= 1200px)
 
 - `.hover:tv:object-contain` - يحتوي الكائن على التمرير على شاشة التلفزيون
 - `.hover:tv:object-cover` - غطاء الكائن على التحويم على شاشة التلفزيون
@@ -487,7 +487,7 @@
 - `.tv:object-none` - لا يعترض على أي شيء على شاشة التلفزيون
 - `.tv:object-scale` - مقياس الكائن على شاشة التلفزيون
 
-##### Object - Tablet Max (≤ 768px)
+##### Object - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:object-contain` - يحتوي الكائن على التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:object-cover` - غطاء الكائن عند التمرير على الجهاز اللوحي بحد أقصى
@@ -500,7 +500,7 @@
 - `.tablet-max:object-none` - لا يوجد كائن على الجهاز اللوحي بحد أقصى
 - `.tablet-max:object-scale` - مقياس الكائن على الجهاز اللوحي بحد أقصى
 
-##### Object - Tablet Pc Max (≤ 992px)
+##### Object - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:object-contain` - يحتوي الكائن على التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:object-cover` - غطاء الكائن عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -513,7 +513,7 @@
 - `.tablet-pc-max:object-none` - لا يوجد كائن على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:object-scale` - مقياس الكائن على الكمبيوتر اللوحي بحد أقصى
 
-##### Object - Pc Max (≤ 1200px)
+##### Object - Pc Max (<= 1200px)
 
 - `.hover:pc-max:object-contain` - يحتوي الكائن على التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:object-cover` - غطاء الكائن عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -574,7 +574,7 @@
 - `.hover:flex-row` - الصف المرن عند التمرير
 - `.hover:flex-wrap` - التفاف مرن عند التحويم
 
-##### Flex - Mobile (≤ 480px)
+##### Flex - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col` - فليكس كول عند التمرير على الهاتف المحمول
 - `.hover:mobile:flex-nowrap` - فليكس الآن عند التمرير على الهاتف المحمول
@@ -618,7 +618,7 @@
 - `.pc:flex-row` - الصف المرن على جهاز الكمبيوتر
 - `.pc:flex-wrap` - التفاف المرن على جهاز الكمبيوتر
 
-##### Flex - Tv (≥ 1200px)
+##### Flex - Tv (>= 1200px)
 
 - `.hover:tv:flex-col` - فليكس كول عند التمرير على شاشة التلفزيون
 - `.hover:tv:flex-nowrap` - فليكس الآن راب على التحويم على شاشة التلفزيون
@@ -629,7 +629,7 @@
 - `.tv:flex-row` - الصف المرن على شاشة التلفزيون
 - `.tv:flex-wrap` - التفاف المرن على شاشة التلفزيون
 
-##### Flex - Tablet Max (≤ 768px)
+##### Flex - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col` - عمود مرن عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:flex-nowrap` - Flex nowrap عند التمرير على الجهاز اللوحي بحد أقصى
@@ -640,7 +640,7 @@
 - `.tablet-max:flex-row` - الصف المرن على الجهاز اللوحي كحد أقصى
 - `.tablet-max:flex-wrap` - غلاف مرن على الجهاز اللوحي بحد أقصى
 
-##### Flex - Tablet Pc Max (≤ 992px)
+##### Flex - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col` - فليكس كول عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:flex-nowrap` - Flex nowrap on hover على الكمبيوتر اللوحي بحد أقصى
@@ -651,7 +651,7 @@
 - `.tablet-pc-max:flex-row` - الصف المرن على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:flex-wrap` - غلاف مرن على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex - Pc Max (≤ 1200px)
+##### Flex - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col` - فليكس كول عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:flex-nowrap` - فليكس الآن عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -667,7 +667,7 @@
 - `.flex-col-reverse` - فليكس العمود العكسي
 - `.hover:flex-col-reverse` - فليكس كول عكسي عند التمرير
 
-##### Flex col - Mobile (≤ 480px)
+##### Flex col - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col-reverse` - فليكس كول عكسي عند التمرير على الهاتف المحمول
 - `.mobile:flex-col-reverse` - فليكس كول عكس على الهاتف المحمول
@@ -687,22 +687,22 @@
 - `.hover:pc:flex-col-reverse` - فليكس كول عكس عند التمرير على جهاز الكمبيوتر
 - `.pc:flex-col-reverse` - فليكس كول عكس على جهاز الكمبيوتر
 
-##### Flex col - Tv (≥ 1200px)
+##### Flex col - Tv (>= 1200px)
 
 - `.hover:tv:flex-col-reverse` - فليكس كول عكسي عند التمرير على شاشة التلفزيون
 - `.tv:flex-col-reverse` - فليكس كول عكس على شاشة التلفزيون
 
-##### Flex col - Tablet Max (≤ 768px)
+##### Flex col - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - فليكس كول عكسي عند التمرير على الجهاز اللوحي بحد أقصى
 - `.tablet-max:flex-col-reverse` - فليكس كول عكس على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex col - Tablet Pc Max (≤ 992px)
+##### Flex col - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - فليكس كول عكسي عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:flex-col-reverse` - فليكس كول عكس على الكمبيوتر اللوحي كحد أقصى
 
-##### Flex col - Pc Max (≤ 1200px)
+##### Flex col - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - فليكس كول عكسي عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.pc-max:flex-col-reverse` - فليكس كول عكس على جهاز الكمبيوتر كحد أقصى
@@ -712,7 +712,7 @@
 - `.flex-row-reverse` - عكس الصف المرن
 - `.hover:flex-row-reverse` - عكس الصف المرن عند التمرير
 
-##### Flex row - Mobile (≤ 480px)
+##### Flex row - Mobile (<= 480px)
 
 - `.hover:mobile:flex-row-reverse` - عكس الصف المرن عند التمرير على الهاتف المحمول
 - `.mobile:flex-row-reverse` - عكس الصف المرن على الهاتف المحمول
@@ -732,22 +732,22 @@
 - `.hover:pc:flex-row-reverse` - عكس الصف المرن عند التمرير على جهاز الكمبيوتر
 - `.pc:flex-row-reverse` - عكس الصف المرن على جهاز الكمبيوتر
 
-##### Flex row - Tv (≥ 1200px)
+##### Flex row - Tv (>= 1200px)
 
 - `.hover:tv:flex-row-reverse` - عكس الصف المرن عند التمرير على شاشة التلفزيون
 - `.tv:flex-row-reverse` - عكس الصف المرن على شاشة التلفزيون
 
-##### Flex row - Tablet Max (≤ 768px)
+##### Flex row - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - الصف المرن للخلف عند التمرير على الجهاز اللوحي بحد أقصى
 - `.tablet-max:flex-row-reverse` - الصف المرن للخلف على الجهاز اللوحي بحد أقصى
 
-##### Flex row - Tablet Pc Max (≤ 992px)
+##### Flex row - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - الصف المرن للخلف عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:flex-row-reverse` - عكس الصف المرن على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex row - Pc Max (≤ 1200px)
+##### Flex row - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - الصف المرن للخلف عند التمرير على جهاز الكمبيوتر بحد أقصى
 - `.pc-max:flex-row-reverse` - عكس الصف المرن على جهاز الكمبيوتر كحد أقصى
@@ -763,7 +763,7 @@
 - `.hover:flex-grow-1` - فليكس ينمو 1 عند التحويم
 - `.hover:flex-grow-0` - فليكس ينمو 0 عند التحويم
 
-##### Flex grow - Mobile (≤ 480px)
+##### Flex grow - Mobile (<= 480px)
 
 - `.hover:mobile:flex-grow-3` - Flex Grow 3 عند التمرير على الهاتف المحمول
 - `.hover:mobile:flex-grow-2` - Flex Grow 2 عند التمرير على الهاتف المحمول
@@ -807,7 +807,7 @@
 - `.pc:flex-grow-1` - فليكس جرو 1 على جهاز الكمبيوتر
 - `.pc:flex-grow-0` - فليكس جرو 0 على جهاز الكمبيوتر
 
-##### Flex grow - Tv (≥ 1200px)
+##### Flex grow - Tv (>= 1200px)
 
 - `.hover:tv:flex-grow-3` - Flex Grow 3 عند التحويم على شاشة التلفزيون
 - `.hover:tv:flex-grow-2` - Flex Grow 2 عند التحويم على شاشة التلفزيون
@@ -818,7 +818,7 @@
 - `.tv:flex-grow-1` - فليكس ينمو 1 على شاشة التلفزيون
 - `.tv:flex-grow-0` - فليكس تنمو 0 على شاشة التلفزيون
 
-##### Flex grow - Tablet Max (≤ 768px)
+##### Flex grow - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-grow-3` - Flex Grow 3 عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:flex-grow-2` - Flex Grow 2 عند التمرير على الجهاز اللوحي بحد أقصى
@@ -829,7 +829,7 @@
 - `.tablet-max:flex-grow-1` - فليكس جرو 1 على الجهاز اللوحي كحد أقصى
 - `.tablet-max:flex-grow-0` - Flex Grow 0 على الجهاز اللوحي بحد أقصى
 
-##### Flex grow - Tablet Pc Max (≤ 992px)
+##### Flex grow - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-grow-3` - Flex Grow 3 عند التحويم على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:flex-grow-2` - Flex Grow 2 عند التحويم على الكمبيوتر اللوحي بحد أقصى
@@ -840,7 +840,7 @@
 - `.tablet-pc-max:flex-grow-1` - Flex Grow 1 على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:flex-grow-0` - Flex Grow 0 على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex grow - Pc Max (≤ 1200px)
+##### Flex grow - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-grow-3` - Flex Grow 3 عند التحويم على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:flex-grow-2` - Flex Grow 2 عند التحويم على جهاز الكمبيوتر كحد أقصى
@@ -856,7 +856,7 @@
 - `.flex-wrap-reverse` - التفاف المرن العكسي
 - `.hover:flex-wrap-reverse` - التفاف مرن عكسي عند التمرير
 
-##### Flex wrap - Mobile (≤ 480px)
+##### Flex wrap - Mobile (<= 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - التفاف مرن للخلف عند التمرير على الهاتف المحمول
 - `.mobile:flex-wrap-reverse` - التفاف مرن عكسي على الهاتف المحمول
@@ -876,22 +876,22 @@
 - `.hover:pc:flex-wrap-reverse` - التفاف مرن عكسي عند التمرير على جهاز الكمبيوتر
 - `.pc:flex-wrap-reverse` - فليكس التفاف عكسي على جهاز الكمبيوتر
 
-##### Flex wrap - Tv (≥ 1200px)
+##### Flex wrap - Tv (>= 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - التفاف مرن للخلف عند التمرير على شاشة التلفزيون
 - `.tv:flex-wrap-reverse` - التفاف المرن على شاشة التلفزيون
 
-##### Flex wrap - Tablet Max (≤ 768px)
+##### Flex wrap - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - التفاف مرن للخلف عند التمرير على الجهاز اللوحي بحد أقصى
 - `.tablet-max:flex-wrap-reverse` - التفاف مرن عكسي على الجهاز اللوحي بحد أقصى
 
-##### Flex wrap - Tablet Pc Max (≤ 992px)
+##### Flex wrap - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - التفاف مرن عكسي عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:flex-wrap-reverse` - التفاف مرن عكسي على الكمبيوتر اللوحي بحد أقصى
 
-##### Flex wrap - Pc Max (≤ 1200px)
+##### Flex wrap - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - التفاف مرن عكسي عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.pc-max:flex-wrap-reverse` - التفاف مرن عكسي على جهاز الكمبيوتر بحد أقصى
@@ -1086,7 +1086,7 @@
 - `.hover:align-content-start` - محاذاة المحتوى: البداية عند التمرير
 - `.hover:align-content-stretch` - محاذاة المحتوى: stretch عند التمرير
 
-##### Align content - Mobile (≤ 480px)
+##### Align content - Mobile (<= 480px)
 
 - `.hover:mobile:align-content-around` - محاذاة المحتوى: around عند التمرير على الجوال
 - `.hover:mobile:align-content-between` - محاذاة المحتوى: between عند التمرير على الجوال
@@ -1154,7 +1154,7 @@
 - `.pc:align-content-start` - محاذاة المحتوى: البداية على الكمبيوتر
 - `.pc:align-content-stretch` - محاذاة المحتوى: stretch على الكمبيوتر
 
-##### Align content - Tv (≥ 1200px)
+##### Align content - Tv (>= 1200px)
 
 - `.hover:tv:align-content-around` - محاذاة المحتوى: around عند التمرير على التلفزيون
 - `.hover:tv:align-content-between` - محاذاة المحتوى: between عند التمرير على التلفزيون
@@ -1171,7 +1171,7 @@
 - `.tv:align-content-start` - محاذاة المحتوى: البداية على التلفزيون
 - `.tv:align-content-stretch` - محاذاة المحتوى: stretch على التلفزيون
 
-##### Align content - Tablet Max (≤ 768px)
+##### Align content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-content-around` - محاذاة المحتوى: around عند التمرير على الجهاز اللوحي (الحد الأقصى)
 - `.hover:tablet-max:align-content-between` - محاذاة المحتوى: between عند التمرير على الجهاز اللوحي (الحد الأقصى)
@@ -1188,7 +1188,7 @@
 - `.tablet-max:align-content-start` - محاذاة المحتوى: البداية على الجهاز اللوحي (الحد الأقصى)
 - `.tablet-max:align-content-stretch` - محاذاة المحتوى: stretch على الجهاز اللوحي (الحد الأقصى)
 
-##### Align content - Tablet Pc Max (≤ 992px)
+##### Align content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - محاذاة المحتوى: around عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
 - `.hover:tablet-pc-max:align-content-between` - محاذاة المحتوى: between عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
@@ -1205,7 +1205,7 @@
 - `.tablet-pc-max:align-content-start` - محاذاة المحتوى: البداية على الكمبيوتر اللوحي (الحد الأقصى)
 - `.tablet-pc-max:align-content-stretch` - محاذاة المحتوى: stretch على الكمبيوتر اللوحي (الحد الأقصى)
 
-##### Align content - Pc Max (≤ 1200px)
+##### Align content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-content-around` - محاذاة المحتوى: around عند التمرير على الكمبيوتر (الحد الأقصى)
 - `.hover:pc-max:align-content-between` - محاذاة المحتوى: between عند التمرير على الكمبيوتر (الحد الأقصى)
@@ -1233,7 +1233,7 @@
 - `.hover:align-items-start` - محاذاة العناصر: البداية عند التمرير
 - `.hover:align-items-stretch` - محاذاة العناصر: stretch عند التمرير
 
-##### Align items - Mobile (≤ 480px)
+##### Align items - Mobile (<= 480px)
 
 - `.hover:mobile:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الجوال
 - `.hover:mobile:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الجوال
@@ -1277,7 +1277,7 @@
 - `.pc:align-items-start` - محاذاة العناصر: البداية على الكمبيوتر
 - `.pc:align-items-stretch` - محاذاة العناصر: stretch على الكمبيوتر
 
-##### Align items - Tv (≥ 1200px)
+##### Align items - Tv (>= 1200px)
 
 - `.hover:tv:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على التلفزيون
 - `.hover:tv:align-items-end` - محاذاة العناصر: النهاية عند التمرير على التلفزيون
@@ -1288,7 +1288,7 @@
 - `.tv:align-items-start` - محاذاة العناصر: البداية على التلفزيون
 - `.tv:align-items-stretch` - محاذاة العناصر: stretch على التلفزيون
 
-##### Align items - Tablet Max (≤ 768px)
+##### Align items - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الجهاز اللوحي (الحد الأقصى)
 - `.hover:tablet-max:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
@@ -1299,7 +1299,7 @@
 - `.tablet-max:align-items-start` - محاذاة العناصر: البداية على الجهاز اللوحي (الحد الأقصى)
 - `.tablet-max:align-items-stretch` - محاذاة العناصر: stretch على الجهاز اللوحي (الحد الأقصى)
 
-##### Align items - Tablet Pc Max (≤ 992px)
+##### Align items - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
 - `.hover:tablet-pc-max:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
@@ -1310,7 +1310,7 @@
 - `.tablet-pc-max:align-items-start` - محاذاة العناصر: البداية على الكمبيوتر اللوحي (الحد الأقصى)
 - `.tablet-pc-max:align-items-stretch` - محاذاة العناصر: stretch على الكمبيوتر اللوحي (الحد الأقصى)
 
-##### Align items - Pc Max (≤ 1200px)
+##### Align items - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-items-center` - محاذاة العناصر: المنتصف عند التمرير على الكمبيوتر (الحد الأقصى)
 - `.hover:pc-max:align-items-end` - محاذاة العناصر: النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
@@ -1332,7 +1332,7 @@
 - `.hover:align-self-start` - محاذاة العنصر ذاته: البداية عند التمرير
 - `.hover:align-self-stretch` - محاذاة العنصر ذاته: stretch عند التمرير
 
-##### Align self - Mobile (≤ 480px)
+##### Align self - Mobile (<= 480px)
 
 - `.hover:mobile:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الجوال
 - `.hover:mobile:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الجوال
@@ -1376,7 +1376,7 @@
 - `.pc:align-self-start` - محاذاة العنصر ذاته: البداية على الكمبيوتر
 - `.pc:align-self-stretch` - محاذاة العنصر ذاته: stretch على الكمبيوتر
 
-##### Align self - Tv (≥ 1200px)
+##### Align self - Tv (>= 1200px)
 
 - `.hover:tv:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على التلفزيون
 - `.hover:tv:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على التلفزيون
@@ -1387,7 +1387,7 @@
 - `.tv:align-self-start` - محاذاة العنصر ذاته: البداية على التلفزيون
 - `.tv:align-self-stretch` - محاذاة العنصر ذاته: stretch على التلفزيون
 
-##### Align self - Tablet Max (≤ 768px)
+##### Align self - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الجهاز اللوحي (الحد الأقصى)
 - `.hover:tablet-max:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
@@ -1398,7 +1398,7 @@
 - `.tablet-max:align-self-start` - محاذاة العنصر ذاته: البداية على الجهاز اللوحي (الحد الأقصى)
 - `.tablet-max:align-self-stretch` - محاذاة العنصر ذاته: stretch على الجهاز اللوحي (الحد الأقصى)
 
-##### Align self - Tablet Pc Max (≤ 992px)
+##### Align self - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
 - `.hover:tablet-pc-max:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
@@ -1409,7 +1409,7 @@
 - `.tablet-pc-max:align-self-start` - محاذاة العنصر ذاته: البداية على الكمبيوتر اللوحي (الحد الأقصى)
 - `.tablet-pc-max:align-self-stretch` - محاذاة العنصر ذاته: stretch على الكمبيوتر اللوحي (الحد الأقصى)
 
-##### Align self - Pc Max (≤ 1200px)
+##### Align self - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-self-center` - محاذاة العنصر ذاته: المنتصف عند التمرير على الكمبيوتر (الحد الأقصى)
 - `.hover:pc-max:align-self-end` - محاذاة العنصر ذاته: النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
@@ -1437,7 +1437,7 @@
 - `.justify-content-start` - توزيع المحتوى: البداية
 - `.justify-content-stretch` - توزيع المحتوى: stretch
 
-##### Justify content - Mobile (≤ 480px)
+##### Justify content - Mobile (<= 480px)
 
 - `.hover:mobile:justify-content-around` - توزيع المحتوى: around عند التمرير على الجوال
 - `.hover:mobile:justify-content-between` - توزيع المحتوى: between عند التمرير على الجوال
@@ -1489,7 +1489,7 @@
 - `.pc:justify-content-end` - توزيع المحتوى: النهاية على الكمبيوتر
 - `.pc:justify-content-start` - توزيع المحتوى: البداية على الكمبيوتر
 
-##### Justify content - Tv (≥ 1200px)
+##### Justify content - Tv (>= 1200px)
 
 - `.hover:tv:justify-content-around` - توزيع المحتوى: around عند التمرير على التلفزيون
 - `.hover:tv:justify-content-between` - توزيع المحتوى: between عند التمرير على التلفزيون
@@ -1502,7 +1502,7 @@
 - `.tv:justify-content-end` - توزيع المحتوى: النهاية على التلفزيون
 - `.tv:justify-content-start` - توزيع المحتوى: البداية على التلفزيون
 
-##### Justify content - Tablet Max (≤ 768px)
+##### Justify content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:justify-content-around` - توزيع المحتوى: around عند التمرير على الجهاز اللوحي (الحد الأقصى)
 - `.hover:tablet-max:justify-content-between` - توزيع المحتوى: between عند التمرير على الجهاز اللوحي (الحد الأقصى)
@@ -1515,7 +1515,7 @@
 - `.tablet-max:justify-content-end` - توزيع المحتوى: النهاية على الجهاز اللوحي (الحد الأقصى)
 - `.tablet-max:justify-content-start` - توزيع المحتوى: البداية على الجهاز اللوحي (الحد الأقصى)
 
-##### Justify content - Tablet Pc Max (≤ 992px)
+##### Justify content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - توزيع المحتوى: around عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
 - `.hover:tablet-pc-max:justify-content-between` - توزيع المحتوى: between عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
@@ -1528,7 +1528,7 @@
 - `.tablet-pc-max:justify-content-end` - توزيع المحتوى: النهاية على الكمبيوتر اللوحي (الحد الأقصى)
 - `.tablet-pc-max:justify-content-start` - توزيع المحتوى: البداية على الكمبيوتر اللوحي (الحد الأقصى)
 
-##### Justify content - Pc Max (≤ 1200px)
+##### Justify content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:justify-content-around` - توزيع المحتوى: around عند التمرير على الكمبيوتر (الحد الأقصى)
 - `.hover:pc-max:justify-content-between` - توزيع المحتوى: between عند التمرير على الكمبيوتر (الحد الأقصى)
@@ -1584,7 +1584,7 @@
 - `.hover:-order-2` - الترتيب السلبي 2 عند التمرير
 - `.hover:-order-1` - الترتيب السلبي 1 عند التمرير
 
-##### Order - Mobile (≤ 480px)
+##### Order - Mobile (<= 480px)
 
 - `.hover:mobile:order-5` - الترتيب 5 عند التمرير على الجوال
 - `.hover:mobile:order-4` - الترتيب 4 عند التمرير على الجوال
@@ -1603,7 +1603,7 @@
 - `.mobile:order-first` - الترتيب: الأول على الجوال
 - `.mobile:order-last` - الترتيب: الأخير على الجوال
 
-##### Negative Order - Mobile (≤ 480px)
+##### Negative Order - Mobile (<= 480px)
 
 - `.hover:mobile:-order-5` - الترتيب السلبي 5 عند التمرير على الجوال
 - `.hover:mobile:-order-4` - الترتيب السلبي 4 عند التمرير على الجوال
@@ -1712,7 +1712,7 @@
 - `.pc:-order-2` - الترتيب السلبي 2 على الكمبيوتر
 - `.pc:-order-1` - الترتيب السلبي 1 على الكمبيوتر
 
-##### Order - Tv (≥ 1200px)
+##### Order - Tv (>= 1200px)
 
 - `.hover:tv:order-5` - الترتيب 5 عند التمرير على التلفزيون
 - `.hover:tv:order-4` - الترتيب 4 عند التمرير على التلفزيون
@@ -1731,7 +1731,7 @@
 - `.tv:order-first` - الترتيب: الأول على التلفزيون
 - `.tv:order-last` - الترتيب: الأخير على التلفزيون
 
-##### Negative Order - Tv (≥ 1200px)
+##### Negative Order - Tv (>= 1200px)
 
 - `.hover:tv:-order-5` - الترتيب السلبي 5 عند التمرير على التلفزيون
 - `.hover:tv:-order-4` - الترتيب السلبي 4 عند التمرير على التلفزيون
@@ -1744,7 +1744,7 @@
 - `.tv:-order-2` - الترتيب السلبي 2 على التلفزيون
 - `.tv:-order-1` - الترتيب السلبي 1 على التلفزيون
 
-##### Order - Tablet Max (≤ 768px)
+##### Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:order-5` - الترتيب 5 عند التمرير على الجهاز اللوحي (الحد الأقصى)
 - `.hover:tablet-max:order-4` - الترتيب 4 عند التمرير على الجهاز اللوحي (الحد الأقصى)
@@ -1763,7 +1763,7 @@
 - `.tablet-max:order-first` - الترتيب: الأول على الجهاز اللوحي (الحد الأقصى)
 - `.tablet-max:order-last` - الترتيب: الأخير على الجهاز اللوحي (الحد الأقصى)
 
-##### Negative Order - Tablet Max (≤ 768px)
+##### Negative Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:-order-5` - الترتيب السلبي 5 عند التمرير على الجهاز اللوحي (الحد الأقصى)
 - `.hover:tablet-max:-order-4` - الترتيب السلبي 4 عند التمرير على الجهاز اللوحي (الحد الأقصى)
@@ -1776,7 +1776,7 @@
 - `.tablet-max:-order-2` - الترتيب السلبي 2 على الجهاز اللوحي (الحد الأقصى)
 - `.tablet-max:-order-1` - الترتيب السلبي 1 على الجهاز اللوحي (الحد الأقصى)
 
-##### Order - Tablet Pc Max (≤ 992px)
+##### Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:order-5` - الترتيب 5 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
 - `.hover:tablet-pc-max:order-4` - الترتيب 4 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
@@ -1795,7 +1795,7 @@
 - `.tablet-pc-max:order-first` - الترتيب: الأول على الكمبيوتر اللوحي (الحد الأقصى)
 - `.tablet-pc-max:order-last` - الترتيب: الأخير على الكمبيوتر اللوحي (الحد الأقصى)
 
-##### Negative Order - Tablet Pc Max (≤ 992px)
+##### Negative Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:-order-5` - الترتيب السلبي 5 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
 - `.hover:tablet-pc-max:-order-4` - الترتيب السلبي 4 عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
@@ -1808,7 +1808,7 @@
 - `.tablet-pc-max:-order-2` - الترتيب السلبي 2 على الكمبيوتر اللوحي (الحد الأقصى)
 - `.tablet-pc-max:-order-1` - الترتيب السلبي 1 على الكمبيوتر اللوحي (الحد الأقصى)
 
-##### Order - Pc Max (≤ 1200px)
+##### Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:order-5` - الترتيب 5 عند التمرير على الكمبيوتر (الحد الأقصى)
 - `.hover:pc-max:order-4` - الترتيب 4 عند التمرير على الكمبيوتر (الحد الأقصى)
@@ -1827,7 +1827,7 @@
 - `.pc-max:order-first` - الترتيب: الأول على الكمبيوتر (الحد الأقصى)
 - `.pc-max:order-last` - الترتيب: الأخير على الكمبيوتر (الحد الأقصى)
 
-##### Negative Order - Pc Max (≤ 1200px)
+##### Negative Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:-order-5` - الترتيب السلبي 5 عند التمرير على الكمبيوتر (الحد الأقصى)
 - `.hover:pc-max:-order-4` - الترتيب السلبي 4 عند التمرير على الكمبيوتر (الحد الأقصى)
@@ -2839,7 +2839,7 @@
 - `.w-5` - العرض 5%
 - `.w-auto` - العرض التلقائي٪
 
-##### Width - Mobile (≤ 480px)
+##### Width - Mobile (<= 480px)
 
 - `.hover:mobile:w-100` - العرض 100% عند التمرير على الهاتف المحمول
 - `.hover:mobile:w-95` - العرض 95% عند التمرير على الهاتف المحمول
@@ -3019,7 +3019,7 @@
 - `.pc:w-5` - العرض 5% على جهاز الكمبيوتر
 - `.pc:w-auto` - العرض التلقائي٪ على جهاز الكمبيوتر
 
-##### Width - Tv (≥ 1200px)
+##### Width - Tv (>= 1200px)
 
 - `.hover:tv:w-100` - العرض 100% عند التمرير على التلفاز
 - `.hover:tv:w-95` - العرض 95% عند التحويم على التلفاز
@@ -3064,7 +3064,7 @@
 - `.tv:w-5` - العرض 5% على التلفاز
 - `.tv:w-auto` - العرض التلقائي٪ على شاشة التلفزيون
 
-##### Width - Tablet Max (≤ 768px)
+##### Width - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:w-100` - العرض 100% عند التمرير على الجهاز اللوحي كحد أقصى
 - `.hover:tablet-max:w-95` - العرض 95% عند التمرير على الجهاز اللوحي بحد أقصى
@@ -3109,7 +3109,7 @@
 - `.tablet-max:w-5` - العرض 5% على الجهاز اللوحي كحد أقصى
 - `.tablet-max:w-auto` - العرض التلقائي% على الجهاز اللوحي بحد أقصى
 
-##### Width - Tablet Pc Max (≤ 992px)
+##### Width - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:w-100` - العرض 100% عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:w-95` - العرض 95% عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -3154,7 +3154,7 @@
 - `.tablet-pc-max:w-5` - العرض 5% على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:w-auto` - العرض التلقائي٪ على الكمبيوتر اللوحي كحد أقصى
 
-##### Width - Pc Max (≤ 1200px)
+##### Width - Pc Max (<= 1200px)
 
 - `.hover:pc-max:w-100` - العرض 100% عند التمرير على جهاز الكمبيوتر بحد أقصى
 - `.hover:pc-max:w-95` - العرض 95% عند التمرير على جهاز الكمبيوتر بحد أقصى
@@ -3266,7 +3266,7 @@
 - `.hover:h-5` - الارتفاع 5% عند التحويم
 - `.hover:h-auto` - الارتفاع التلقائي٪ عند التمرير
 
-##### Height - Mobile (≤ 480px)
+##### Height - Mobile (<= 480px)
 
 - `.hover:mobile:h-100` - الارتفاع 100% عند التمرير على الهاتف المحمول
 - `.hover:mobile:h-95` - الارتفاع 95% عند المرور على الجوال
@@ -3445,7 +3445,7 @@
 - `.pc:h-5` - الارتفاع 5% على جهاز الكمبيوتر
 - `.pc:h-auto` - الارتفاع التلقائي٪ على جهاز الكمبيوتر
 
-##### Height - Tv (≥ 1200px)
+##### Height - Tv (>= 1200px)
 
 - `.hover:tv:h-100` - الارتفاع 100% عند التحويم على التلفاز
 - `.hover:tv:h-95` - الارتفاع 95% عند التحويم على التلفاز
@@ -3490,7 +3490,7 @@
 - `.tv:h-5` - الارتفاع 5% على التلفاز
 - `.tv:h-auto` - الارتفاع التلقائي٪ على شاشة التلفزيون
 
-##### Height - Tablet Max (≤ 768px)
+##### Height - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:h-100` - الارتفاع 100% عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:h-95` - الارتفاع 95% عند التمرير على الجهاز اللوحي بحد أقصى
@@ -3535,7 +3535,7 @@
 - `.tablet-max:h-5` - الارتفاع 5% على التابلت كحد أقصى
 - `.tablet-max:h-auto` - الارتفاع التلقائي٪ على الجهاز اللوحي كحد أقصى
 
-##### Height - Tablet Pc Max (≤ 992px)
+##### Height - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:h-100` - الارتفاع 100% عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:h-95` - الارتفاع 95% عند التمرير على الكمبيوتر اللوحي بحد أقصى
@@ -3580,7 +3580,7 @@
 - `.tablet-pc-max:h-5` - الارتفاع 5% على الكمبيوتر اللوحي كحد أقصى
 - `.tablet-pc-max:h-auto` - الارتفاع التلقائي٪ على الكمبيوتر اللوحي كحد أقصى
 
-##### Height - Pc Max (≤ 1200px)
+##### Height - Pc Max (<= 1200px)
 
 - `.hover:pc-max:h-100` - الارتفاع 100% عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:h-95` - الارتفاع 95% عند التمرير على جهاز الكمبيوتر كحد أقصى
@@ -4356,7 +4356,7 @@
 - `.text-transparent` - النص شفاف
 - `.text-uppercase` - النص بأحرف كبيرة
 
-##### Text - Mobile (≤ 480px)
+##### Text - Mobile (<= 480px)
 
 - `.hover:mobile:text-center` - مركز النص عند التمرير على الهاتف المحمول
 - `.hover:mobile:text-end` - محاذاة النص إلى النهاية عند التمرير على الجوال
@@ -4416,7 +4416,7 @@
 - `.pc:text-right` - محاذاة النص إلى اليمين على الكمبيوتر
 - `.pc:text-start` - محاذاة النص إلى البداية على الكمبيوتر
 
-##### Text - Tv (≥ 1200px)
+##### Text - Tv (>= 1200px)
 
 - `.hover:tv:text-center` - مركز النص عند التمرير على شاشة التلفزيون
 - `.hover:tv:text-end` - محاذاة النص إلى النهاية عند التمرير على التلفزيون
@@ -4431,7 +4431,7 @@
 - `.tv:text-right` - محاذاة النص إلى اليمين على التلفزيون
 - `.tv:text-start` - محاذاة النص إلى البداية على التلفزيون
 
-##### Text - Tablet Max (≤ 768px)
+##### Text - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:text-center` - مركز النص عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:text-end` - محاذاة النص إلى النهاية عند التمرير على الجهاز اللوحي (الحد الأقصى)
@@ -4446,7 +4446,7 @@
 - `.tablet-max:text-right` - محاذاة النص إلى اليمين على الجهاز اللوحي (الحد الأقصى)
 - `.tablet-max:text-start` - محاذاة النص إلى البداية على الجهاز اللوحي (الحد الأقصى)
 
-##### Text - Tablet Pc Max (≤ 992px)
+##### Text - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:text-center` - مركز النص عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:text-end` - محاذاة النص إلى النهاية عند التمرير على الكمبيوتر اللوحي (الحد الأقصى)
@@ -4461,7 +4461,7 @@
 - `.tablet-pc-max:text-right` - محاذاة النص إلى اليمين على الكمبيوتر اللوحي (الحد الأقصى)
 - `.tablet-pc-max:text-start` - محاذاة النص إلى البداية على الكمبيوتر اللوحي (الحد الأقصى)
 
-##### Text - Pc Max (≤ 1200px)
+##### Text - Pc Max (<= 1200px)
 
 - `.hover:pc-max:text-center` - مركز النص عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:text-end` - محاذاة النص إلى النهاية عند التمرير على الكمبيوتر (الحد الأقصى)
@@ -5392,7 +5392,7 @@
 - `.v-hide` - الرؤية مخفية
 - `.v-show` - الرؤية مرئية
 
-##### Visibility - Mobile (≤ 480px)
+##### Visibility - Mobile (<= 480px)
 
 - `.hover:mobile:v-hide` - الرؤية مخفية عند التمرير على الهاتف المحمول
 - `.hover:mobile:v-show` - إمكانية الرؤية عند التمرير على الهاتف المحمول
@@ -5420,28 +5420,28 @@
 - `.pc:v-hide` - الرؤية مخفية على جهاز الكمبيوتر
 - `.pc:v-show` - إمكانية الرؤية على جهاز الكمبيوتر
 
-##### Visibility - Tv (≥ 1200px)
+##### Visibility - Tv (>= 1200px)
 
 - `.hover:tv:v-hide` - الرؤية مخفية عند التمرير على شاشة التلفزيون
 - `.hover:tv:v-show` - الرؤية مرئية عند التمرير على شاشة التلفزيون
 - `.tv:v-hide` - الرؤية مخفية على شاشة التلفزيون
 - `.tv:v-show` - الرؤية مرئية على شاشة التلفزيون
 
-##### Visibility - Tablet Max (≤ 768px)
+##### Visibility - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:v-hide` - الرؤية مخفية عند التمرير على الجهاز اللوحي بحد أقصى
 - `.hover:tablet-max:v-show` - الرؤية مرئية عند التمرير على الجهاز اللوحي بحد أقصى
 - `.tablet-max:v-hide` - الرؤية مخفية على الجهاز اللوحي بحد أقصى
 - `.tablet-max:v-show` - الرؤية مرئية على الكمبيوتر اللوحي بحد أقصى
 
-##### Visibility - Tablet Pc Max (≤ 992px)
+##### Visibility - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:v-hide` - الرؤية مخفية عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.hover:tablet-pc-max:v-show` - الرؤية مرئية عند التمرير على الكمبيوتر اللوحي بحد أقصى
 - `.tablet-pc-max:v-hide` - الرؤية مخفية على الكمبيوتر اللوحي كحد أقصى
 - `.tablet-pc-max:v-show` - الرؤية مرئية على الكمبيوتر اللوحي كحد أقصى
 
-##### Visibility - Pc Max (≤ 1200px)
+##### Visibility - Pc Max (<= 1200px)
 
 - `.hover:pc-max:v-hide` - الرؤية مخفية عند التمرير على جهاز الكمبيوتر كحد أقصى
 - `.hover:pc-max:v-show` - الرؤية مرئية عند التمرير على جهاز الكمبيوتر كحد أقصى

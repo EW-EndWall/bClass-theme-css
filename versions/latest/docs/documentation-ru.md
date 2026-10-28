@@ -156,7 +156,7 @@
 - `.hover:d-inline-flex` - Отображать inline-flex при наведении
 - `.hover:d-none` - Не отображать ничего при наведении
 
-##### Display - Mobile (≤ 480px)
+##### Display - Mobile (<= 480px)
 
 - `.hover:mobile:d-block` - Блок отображения при наведении на мобильном телефоне
 - `.hover:mobile:d-flex` - Гибкий дисплей при наведении на мобильном устройстве
@@ -224,7 +224,7 @@
 - `.pc:d-inline-grid` - Отображение встроенной сетки на ПК
 - `.pc:d-none` - Не отображать ничего на ПК
 
-##### Display - Tv (≥ 1200px)
+##### Display - Tv (>= 1200px)
 
 - `.hover:tv:d-block` - Блок отображения при наведении на телевизор
 - `.hover:tv:d-flex` - Гибкий дисплей при наведении на телевизор
@@ -241,7 +241,7 @@
 - `.tv:d-inline-grid` - Отображение встроенной сетки на телевизоре
 - `.tv:d-none` - Ничего не показывать на телевизоре
 
-##### Display - Tablet Max (≤ 768px)
+##### Display - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:d-block` - Блок отображения при наведении на планшет макс.
 - `.hover:tablet-max:d-flex` - Гибкий дисплей при наведении на планшет макс.
@@ -258,7 +258,7 @@
 - `.tablet-max:d-inline-grid` - Отображение встроенной сетки на планшете Max
 - `.tablet-max:d-none` - Ничего не отображать на планшете Max
 
-##### Display - Tablet Pc Max (≤ 992px)
+##### Display - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:d-block` - Блок отображения при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:d-flex` - Гибкий дисплей при наведении на планшетный ПК макс.
@@ -275,7 +275,7 @@
 - `.tablet-pc-max:d-inline-grid` - Отображение встроенной сетки на планшетном ПК макс.
 - `.tablet-pc-max:d-none` - Отображать нет на планшетном ПК макс.
 
-##### Display - Pc Max (≤ 1200px)
+##### Display - Pc Max (<= 1200px)
 
 - `.hover:pc-max:d-block` - Блок отображения при наведении на ПК макс.
 - `.hover:pc-max:d-flex` - Гибкий дисплей при наведении на ПК макс.
@@ -305,7 +305,7 @@
 - `.hover:float-right` - Float справа при наведении
 - `.hover:float-start` - Float в начале при наведении
 
-##### Float - Mobile (≤ 480px)
+##### Float - Mobile (<= 480px)
 
 - `.hover:mobile:float-end` - Float в конце при наведении на мобильных
 - `.hover:mobile:float-left` - Float слева при наведении на мобильных
@@ -357,7 +357,7 @@
 - `.pc:float-right` - Float справа на ПК
 - `.pc:float-start` - Float в начале на ПК
 
-##### Float - Tv (≥ 1200px)
+##### Float - Tv (>= 1200px)
 
 - `.hover:tv:float-end` - Float в конце при наведении на ТВ
 - `.hover:tv:float-left` - Float слева при наведении на ТВ
@@ -370,7 +370,7 @@
 - `.tv:float-right` - Float справа на ТВ
 - `.tv:float-start` - Float в начале на ТВ
 
-##### Float - Tablet Max (≤ 768px)
+##### Float - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:float-end` - Float в конце при наведении на планшетах (макс.)
 - `.hover:tablet-max:float-left` - Float слева при наведении на планшетах (макс.)
@@ -383,7 +383,7 @@
 - `.tablet-max:float-right` - Float справа на планшетах (макс.)
 - `.tablet-max:float-start` - Float в начале на планшетах (макс.)
 
-##### Float - Tablet Pc Max (≤ 992px)
+##### Float - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:float-end` - Float в конце при наведении на планшетных ПК (макс.)
 - `.hover:tablet-pc-max:float-left` - Float слева при наведении на планшетных ПК (макс.)
@@ -396,7 +396,7 @@
 - `.tablet-pc-max:float-right` - Float справа на планшетных ПК (макс.)
 - `.tablet-pc-max:float-start` - Float в начале на планшетных ПК (макс.)
 
-##### Float - Pc Max (≤ 1200px)
+##### Float - Pc Max (<= 1200px)
 
 - `.hover:pc-max:float-end` - Float в конце при наведении на ПК (макс.)
 - `.hover:pc-max:float-left` - Float слева при наведении на ПК (макс.)
@@ -422,7 +422,7 @@
 - `.object-none` - Объект нет
 - `.object-scale` - Масштаб объекта
 
-##### Object - Mobile (≤ 480px)
+##### Object - Mobile (<= 480px)
 
 - `.hover:mobile:object-contain` - Объект содержится при наведении на мобильный телефон
 - `.hover:mobile:object-cover` - Закрытие объекта при наведении на мобильном телефоне
@@ -474,7 +474,7 @@
 - `.pc:object-none` - Объект отсутствует на ПК
 - `.pc:object-scale` - Масштаб объекта на ПК
 
-##### Object - Tv (≥ 1200px)
+##### Object - Tv (>= 1200px)
 
 - `.hover:tv:object-contain` - Объект содержится при наведении на телевизор
 - `.hover:tv:object-cover` - Закрытие объекта при наведении на телевизоре
@@ -487,7 +487,7 @@
 - `.tv:object-none` - Объект нет по телевизору
 - `.tv:object-scale` - Масштаб объекта на телевизоре
 
-##### Object - Tablet Max (≤ 768px)
+##### Object - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:object-contain` - Объект содержится при наведении на планшет макс.
 - `.hover:tablet-max:object-cover` - Закрытие объекта при наведении на планшет макс.
@@ -500,7 +500,7 @@
 - `.tablet-max:object-none` - Объект отсутствует на планшете Max
 - `.tablet-max:object-scale` - Масштаб объекта на планшете макс.
 
-##### Object - Tablet Pc Max (≤ 992px)
+##### Object - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:object-contain` - Объект содержится при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:object-cover` - Покрытие объекта при наведении на планшетный ПК макс.
@@ -513,7 +513,7 @@
 - `.tablet-pc-max:object-none` - Объект отсутствует на планшетном ПК Макс.
 - `.tablet-pc-max:object-scale` - Масштаб объекта на планшетном ПК макс.
 
-##### Object - Pc Max (≤ 1200px)
+##### Object - Pc Max (<= 1200px)
 
 - `.hover:pc-max:object-contain` - Объект содержится при наведении на ПК макс.
 - `.hover:pc-max:object-cover` - Закрытие объекта при наведении на ПК макс
@@ -574,7 +574,7 @@
 - `.hover:flex-row` - Гибкая строка при наведении
 - `.hover:flex-wrap` - Гибкая упаковка при наведении
 
-##### Flex - Mobile (≤ 480px)
+##### Flex - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col` - Flex Col при наведении на мобильном телефоне
 - `.hover:mobile:flex-nowrap` - Flex nowrap при наведении на мобильном телефоне
@@ -618,7 +618,7 @@
 - `.pc:flex-row` - Гибкая строка на ПК
 - `.pc:flex-wrap` - Гибкая пленка на ПК
 
-##### Flex - Tv (≥ 1200px)
+##### Flex - Tv (>= 1200px)
 
 - `.hover:tv:flex-col` - Flex Col при наведении на телевизор
 - `.hover:tv:flex-nowrap` - Flex nowrap при наведении на телевизор
@@ -629,7 +629,7 @@
 - `.tv:flex-row` - Flex Row по телевизору
 - `.tv:flex-wrap` - Гибкая пленка на телевизоре
 
-##### Flex - Tablet Max (≤ 768px)
+##### Flex - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col` - Flex Col при наведении на планшете Max
 - `.hover:tablet-max:flex-nowrap` - Flex Nowrap при наведении на планшете Max
@@ -640,7 +640,7 @@
 - `.tablet-max:flex-row` - Flex row на планшете Max
 - `.tablet-max:flex-wrap` - Гибкая пленка на планшете Max
 
-##### Flex - Tablet Pc Max (≤ 992px)
+##### Flex - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col` - Flex Col при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:flex-nowrap` - Flex Nowrap при наведении на планшетный ПК макс.
@@ -651,7 +651,7 @@
 - `.tablet-pc-max:flex-row` - Flex row на планшетном ПК макс.
 - `.tablet-pc-max:flex-wrap` - Гибкая пленка на планшетном ПК макс.
 
-##### Flex - Pc Max (≤ 1200px)
+##### Flex - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col` - Flex Col при наведении на ПК макс.
 - `.hover:pc-max:flex-nowrap` - Flex Nowrap при наведении на ПК макс.
@@ -667,7 +667,7 @@
 - `.flex-col-reverse` - Гибкая колонка реверс
 - `.hover:flex-col-reverse` - Flex Col переворачивается при наведении
 
-##### Flex col - Mobile (≤ 480px)
+##### Flex col - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col-reverse` - Flex Col переворачивается при наведении на мобильном телефоне
 - `.mobile:flex-col-reverse` - Flex Col Reverse на мобильном телефоне
@@ -687,22 +687,22 @@
 - `.hover:pc:flex-col-reverse` - Flex Col переворачивается при наведении на ПК
 - `.pc:flex-col-reverse` - Flex Col Reverse на ПК
 
-##### Flex col - Tv (≥ 1200px)
+##### Flex col - Tv (>= 1200px)
 
 - `.hover:tv:flex-col-reverse` - Flex Col переворачивается при наведении на телевизор
 - `.tv:flex-col-reverse` - Flex Col Reverse на телевизоре
 
-##### Flex col - Tablet Max (≤ 768px)
+##### Flex col - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - Flex Col Reverse при наведении на планшете Max
 - `.tablet-max:flex-col-reverse` - Flex Col Reverse на планшете Max
 
-##### Flex col - Tablet Pc Max (≤ 992px)
+##### Flex col - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - Flex Col Reverse при наведении на планшетный ПК макс.
 - `.tablet-pc-max:flex-col-reverse` - Flex Col Reverse на планшетном ПК макс.
 
-##### Flex col - Pc Max (≤ 1200px)
+##### Flex col - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - Flex Col Reverse при наведении на ПК макс.
 - `.pc-max:flex-col-reverse` - Flex Col Reverse на ПК Макс.
@@ -712,7 +712,7 @@
 - `.flex-row-reverse` - Гибкая строка в обратном направлении
 - `.hover:flex-row-reverse` - Изменение направления строки при наведении
 
-##### Flex row - Mobile (≤ 480px)
+##### Flex row - Mobile (<= 480px)
 
 - `.hover:mobile:flex-row-reverse` - Изменение направления строки при наведении на мобильном устройстве
 - `.mobile:flex-row-reverse` - Изменение направления гибкой строки на мобильном устройстве
@@ -732,22 +732,22 @@
 - `.hover:pc:flex-row-reverse` - Изменение направления строки при наведении на ПК
 - `.pc:flex-row-reverse` - Реверс гибкой строки на ПК
 
-##### Flex row - Tv (≥ 1200px)
+##### Flex row - Tv (>= 1200px)
 
 - `.hover:tv:flex-row-reverse` - Изменение положения строки при наведении на телевизор
 - `.tv:flex-row-reverse` - Flex Row обратный по телевизору
 
-##### Flex row - Tablet Max (≤ 768px)
+##### Flex row - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - Гибкая обратная строка при наведении на планшет макс.
 - `.tablet-max:flex-row-reverse` - Реверс гибкой строки на планшете Max
 
-##### Flex row - Tablet Pc Max (≤ 992px)
+##### Flex row - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - Реверс гибкой строки при наведении на планшетный ПК макс.
 - `.tablet-pc-max:flex-row-reverse` - Flex Row Reverse на планшетном ПК макс.
 
-##### Flex row - Pc Max (≤ 1200px)
+##### Flex row - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - Гибкая обратная строка при наведении на ПК макс.
 - `.pc-max:flex-row-reverse` - Обратная строка Flex на ПК Макс.
@@ -763,7 +763,7 @@
 - `.hover:flex-grow-1` - Flex растет на 1 при наведении
 - `.hover:flex-grow-0` - Flex растет на 0 при наведении
 
-##### Flex grow - Mobile (≤ 480px)
+##### Flex grow - Mobile (<= 480px)
 
 - `.hover:mobile:flex-grow-3` - Flex Grow 3 при наведении на мобильном телефоне
 - `.hover:mobile:flex-grow-2` - Flex Grow 2 при наведении на мобильном телефоне
@@ -807,7 +807,7 @@
 - `.pc:flex-grow-1` - Flex Grow 1 на ПК
 - `.pc:flex-grow-0` - Flex Grow 0 на ПК
 
-##### Flex grow - Tv (≥ 1200px)
+##### Flex grow - Tv (>= 1200px)
 
 - `.hover:tv:flex-grow-3` - Flex Grow 3 при наведении на телевизор
 - `.hover:tv:flex-grow-2` - Flex Grow 2 при наведении на телевизор
@@ -818,7 +818,7 @@
 - `.tv:flex-grow-1` - Flex Grow 1 по телевизору
 - `.tv:flex-grow-0` - Flex Grow 0 по телевизору
 
-##### Flex grow - Tablet Max (≤ 768px)
+##### Flex grow - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-grow-3` - Flex Grow 3 при наведении на планшет макс.
 - `.hover:tablet-max:flex-grow-2` - Flex Grow 2 при наведении на планшет макс.
@@ -829,7 +829,7 @@
 - `.tablet-max:flex-grow-1` - Flex Grow 1 на планшете макс.
 - `.tablet-max:flex-grow-0` - Flex Grow 0 на планшете Max
 
-##### Flex grow - Tablet Pc Max (≤ 992px)
+##### Flex grow - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-grow-3` - Flex Grow 3 при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:flex-grow-2` - Flex Grow 2 при наведении на планшетный ПК макс.
@@ -840,7 +840,7 @@
 - `.tablet-pc-max:flex-grow-1` - Flex Grow 1 на планшетном ПК макс.
 - `.tablet-pc-max:flex-grow-0` - Flex Grow 0 на планшетном ПК макс.
 
-##### Flex grow - Pc Max (≤ 1200px)
+##### Flex grow - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-grow-3` - Flex Grow 3 при наведении на ПК макс.
 - `.hover:pc-max:flex-grow-2` - Flex Grow 2 при наведении на ПК макс.
@@ -856,7 +856,7 @@
 - `.flex-wrap-reverse` - Гибкая обертка обратная
 - `.hover:flex-wrap-reverse` - Обратное переворачивание Flex при наведении
 
-##### Flex wrap - Mobile (≤ 480px)
+##### Flex wrap - Mobile (<= 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - Обратное переворачивание Flex при наведении на мобильном телефоне
 - `.mobile:flex-wrap-reverse` - Обратная обертка Flex на мобильном телефоне
@@ -876,22 +876,22 @@
 - `.hover:pc:flex-wrap-reverse` - Обратное переворачивание Flex при наведении на ПК
 - `.pc:flex-wrap-reverse` - Обратная пленка Flex на ПК
 
-##### Flex wrap - Tv (≥ 1200px)
+##### Flex wrap - Tv (>= 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - Реверс гибкой обмотки при наведении курсора на телевизоре
 - `.tv:flex-wrap-reverse` - Гибкая пленка обратная на телевизоре
 
-##### Flex wrap - Tablet Max (≤ 768px)
+##### Flex wrap - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - Реверс гибкой обертки при наведении на планшет макс.
 - `.tablet-max:flex-wrap-reverse` - Обратная пленка Flex на планшете Max
 
-##### Flex wrap - Tablet Pc Max (≤ 992px)
+##### Flex wrap - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - Гибкая пленка обратная при наведении на планшетный ПК макс.
 - `.tablet-pc-max:flex-wrap-reverse` - Обратная пленка Flex на планшетном ПК Max
 
-##### Flex wrap - Pc Max (≤ 1200px)
+##### Flex wrap - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - Обратное переворачивание Flex при наведении на ПК макс.
 - `.pc-max:flex-wrap-reverse` - Обратная пленка Flex на ПК Макс.
@@ -1086,7 +1086,7 @@
 - `.hover:align-content-start` - Выравнивание содержимого: начало при наведении
 - `.hover:align-content-stretch` - Выравнивание содержимого: stretch при наведении
 
-##### Align content - Mobile (≤ 480px)
+##### Align content - Mobile (<= 480px)
 
 - `.hover:mobile:align-content-around` - Выравнивание содержимого: around при наведении на мобильных
 - `.hover:mobile:align-content-between` - Выравнивание содержимого: between при наведении на мобильных
@@ -1154,7 +1154,7 @@
 - `.pc:align-content-start` - Выравнивание содержимого: начало на ПК
 - `.pc:align-content-stretch` - Выравнивание содержимого: stretch на ПК
 
-##### Align content - Tv (≥ 1200px)
+##### Align content - Tv (>= 1200px)
 
 - `.hover:tv:align-content-around` - Выравнивание содержимого: around при наведении на ТВ
 - `.hover:tv:align-content-between` - Выравнивание содержимого: between при наведении на ТВ
@@ -1171,7 +1171,7 @@
 - `.tv:align-content-start` - Выравнивание содержимого: начало на ТВ
 - `.tv:align-content-stretch` - Выравнивание содержимого: stretch на ТВ
 
-##### Align content - Tablet Max (≤ 768px)
+##### Align content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-content-around` - Выравнивание содержимого: around при наведении на планшетах (макс.)
 - `.hover:tablet-max:align-content-between` - Выравнивание содержимого: between при наведении на планшетах (макс.)
@@ -1188,7 +1188,7 @@
 - `.tablet-max:align-content-start` - Выравнивание содержимого: начало на планшетах (макс.)
 - `.tablet-max:align-content-stretch` - Выравнивание содержимого: stretch на планшетах (макс.)
 
-##### Align content - Tablet Pc Max (≤ 992px)
+##### Align content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - Выравнивание содержимого: around при наведении на планшетных ПК (макс.)
 - `.hover:tablet-pc-max:align-content-between` - Выравнивание содержимого: between при наведении на планшетных ПК (макс.)
@@ -1205,7 +1205,7 @@
 - `.tablet-pc-max:align-content-start` - Выравнивание содержимого: начало на планшетных ПК (макс.)
 - `.tablet-pc-max:align-content-stretch` - Выравнивание содержимого: stretch на планшетных ПК (макс.)
 
-##### Align content - Pc Max (≤ 1200px)
+##### Align content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-content-around` - Выравнивание содержимого: around при наведении на ПК (макс.)
 - `.hover:pc-max:align-content-between` - Выравнивание содержимого: between при наведении на ПК (макс.)
@@ -1233,7 +1233,7 @@
 - `.hover:align-items-start` - Выравнивание элементов: начало при наведении
 - `.hover:align-items-stretch` - Выравнивание элементов: stretch при наведении
 
-##### Align items - Mobile (≤ 480px)
+##### Align items - Mobile (<= 480px)
 
 - `.hover:mobile:align-items-center` - Выравнивание элементов: центр при наведении на мобильных
 - `.hover:mobile:align-items-end` - Выравнивание элементов: конец при наведении на мобильных
@@ -1277,7 +1277,7 @@
 - `.pc:align-items-start` - Выравнивание элементов: начало на ПК
 - `.pc:align-items-stretch` - Выравнивание элементов: stretch на ПК
 
-##### Align items - Tv (≥ 1200px)
+##### Align items - Tv (>= 1200px)
 
 - `.hover:tv:align-items-center` - Выравнивание элементов: центр при наведении на ТВ
 - `.hover:tv:align-items-end` - Выравнивание элементов: конец при наведении на ТВ
@@ -1288,7 +1288,7 @@
 - `.tv:align-items-start` - Выравнивание элементов: начало на ТВ
 - `.tv:align-items-stretch` - Выравнивание элементов: stretch на ТВ
 
-##### Align items - Tablet Max (≤ 768px)
+##### Align items - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-items-center` - Выравнивание элементов: центр при наведении на планшетах (макс.)
 - `.hover:tablet-max:align-items-end` - Выравнивание элементов: конец при наведении на планшетах (макс.)
@@ -1299,7 +1299,7 @@
 - `.tablet-max:align-items-start` - Выравнивание элементов: начало на планшетах (макс.)
 - `.tablet-max:align-items-stretch` - Выравнивание элементов: stretch на планшетах (макс.)
 
-##### Align items - Tablet Pc Max (≤ 992px)
+##### Align items - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - Выравнивание элементов: центр при наведении на планшетных ПК (макс.)
 - `.hover:tablet-pc-max:align-items-end` - Выравнивание элементов: конец при наведении на планшетных ПК (макс.)
@@ -1310,7 +1310,7 @@
 - `.tablet-pc-max:align-items-start` - Выравнивание элементов: начало на планшетных ПК (макс.)
 - `.tablet-pc-max:align-items-stretch` - Выравнивание элементов: stretch на планшетных ПК (макс.)
 
-##### Align items - Pc Max (≤ 1200px)
+##### Align items - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-items-center` - Выравнивание элементов: центр при наведении на ПК (макс.)
 - `.hover:pc-max:align-items-end` - Выравнивание элементов: конец при наведении на ПК (макс.)
@@ -1332,7 +1332,7 @@
 - `.hover:align-self-start` - Выравнивание самого элемента: начало при наведении
 - `.hover:align-self-stretch` - Выравнивание самого элемента: stretch при наведении
 
-##### Align self - Mobile (≤ 480px)
+##### Align self - Mobile (<= 480px)
 
 - `.hover:mobile:align-self-center` - Выравнивание самого элемента: центр при наведении на мобильных
 - `.hover:mobile:align-self-end` - Выравнивание самого элемента: конец при наведении на мобильных
@@ -1376,7 +1376,7 @@
 - `.pc:align-self-start` - Выравнивание самого элемента: начало на ПК
 - `.pc:align-self-stretch` - Выравнивание самого элемента: stretch на ПК
 
-##### Align self - Tv (≥ 1200px)
+##### Align self - Tv (>= 1200px)
 
 - `.hover:tv:align-self-center` - Выравнивание самого элемента: центр при наведении на ТВ
 - `.hover:tv:align-self-end` - Выравнивание самого элемента: конец при наведении на ТВ
@@ -1387,7 +1387,7 @@
 - `.tv:align-self-start` - Выравнивание самого элемента: начало на ТВ
 - `.tv:align-self-stretch` - Выравнивание самого элемента: stretch на ТВ
 
-##### Align self - Tablet Max (≤ 768px)
+##### Align self - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-self-center` - Выравнивание самого элемента: центр при наведении на планшетах (макс.)
 - `.hover:tablet-max:align-self-end` - Выравнивание самого элемента: конец при наведении на планшетах (макс.)
@@ -1398,7 +1398,7 @@
 - `.tablet-max:align-self-start` - Выравнивание самого элемента: начало на планшетах (макс.)
 - `.tablet-max:align-self-stretch` - Выравнивание самого элемента: stretch на планшетах (макс.)
 
-##### Align self - Tablet Pc Max (≤ 992px)
+##### Align self - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - Выравнивание самого элемента: центр при наведении на планшетных ПК (макс.)
 - `.hover:tablet-pc-max:align-self-end` - Выравнивание самого элемента: конец при наведении на планшетных ПК (макс.)
@@ -1409,7 +1409,7 @@
 - `.tablet-pc-max:align-self-start` - Выравнивание самого элемента: начало на планшетных ПК (макс.)
 - `.tablet-pc-max:align-self-stretch` - Выравнивание самого элемента: stretch на планшетных ПК (макс.)
 
-##### Align self - Pc Max (≤ 1200px)
+##### Align self - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-self-center` - Выравнивание самого элемента: центр при наведении на ПК (макс.)
 - `.hover:pc-max:align-self-end` - Выравнивание самого элемента: конец при наведении на ПК (макс.)
@@ -1437,7 +1437,7 @@
 - `.justify-content-start` - Распределение содержимого: начало
 - `.justify-content-stretch` - Распределение содержимого: stretch
 
-##### Justify content - Mobile (≤ 480px)
+##### Justify content - Mobile (<= 480px)
 
 - `.hover:mobile:justify-content-around` - Распределение содержимого: around при наведении на мобильных
 - `.hover:mobile:justify-content-between` - Распределение содержимого: between при наведении на мобильных
@@ -1489,7 +1489,7 @@
 - `.pc:justify-content-end` - Распределение содержимого: конец на ПК
 - `.pc:justify-content-start` - Распределение содержимого: начало на ПК
 
-##### Justify content - Tv (≥ 1200px)
+##### Justify content - Tv (>= 1200px)
 
 - `.hover:tv:justify-content-around` - Распределение содержимого: around при наведении на ТВ
 - `.hover:tv:justify-content-between` - Распределение содержимого: between при наведении на ТВ
@@ -1502,7 +1502,7 @@
 - `.tv:justify-content-end` - Распределение содержимого: конец на ТВ
 - `.tv:justify-content-start` - Распределение содержимого: начало на ТВ
 
-##### Justify content - Tablet Max (≤ 768px)
+##### Justify content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:justify-content-around` - Распределение содержимого: around при наведении на планшетах (макс.)
 - `.hover:tablet-max:justify-content-between` - Распределение содержимого: between при наведении на планшетах (макс.)
@@ -1515,7 +1515,7 @@
 - `.tablet-max:justify-content-end` - Распределение содержимого: конец на планшетах (макс.)
 - `.tablet-max:justify-content-start` - Распределение содержимого: начало на планшетах (макс.)
 
-##### Justify content - Tablet Pc Max (≤ 992px)
+##### Justify content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - Распределение содержимого: around при наведении на планшетных ПК (макс.)
 - `.hover:tablet-pc-max:justify-content-between` - Распределение содержимого: between при наведении на планшетных ПК (макс.)
@@ -1528,7 +1528,7 @@
 - `.tablet-pc-max:justify-content-end` - Распределение содержимого: конец на планшетных ПК (макс.)
 - `.tablet-pc-max:justify-content-start` - Распределение содержимого: начало на планшетных ПК (макс.)
 
-##### Justify content - Pc Max (≤ 1200px)
+##### Justify content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:justify-content-around` - Распределение содержимого: around при наведении на ПК (макс.)
 - `.hover:pc-max:justify-content-between` - Распределение содержимого: between при наведении на ПК (макс.)
@@ -1584,7 +1584,7 @@
 - `.hover:-order-2` - Отрицательный порядок 2 при наведении
 - `.hover:-order-1` - Отрицательный порядок 1 при наведении
 
-##### Order - Mobile (≤ 480px)
+##### Order - Mobile (<= 480px)
 
 - `.hover:mobile:order-5` - Порядок 5 при наведении на мобильных
 - `.hover:mobile:order-4` - Порядок 4 при наведении на мобильных
@@ -1603,7 +1603,7 @@
 - `.mobile:order-first` - Порядок: первый на мобильных
 - `.mobile:order-last` - Порядок: последний на мобильных
 
-##### Negative Order - Mobile (≤ 480px)
+##### Negative Order - Mobile (<= 480px)
 
 - `.hover:mobile:-order-5` - Отрицательный порядок 5 при наведении на мобильном телефоне
 - `.hover:mobile:-order-4` - Отрицательный порядок 4 при наведении на мобильном телефоне
@@ -1712,7 +1712,7 @@
 - `.pc:-order-2` - Отрицательный порядок 2 на ПК
 - `.pc:-order-1` - Отрицательный порядок 1 на ПК
 
-##### Order - Tv (≥ 1200px)
+##### Order - Tv (>= 1200px)
 
 - `.hover:tv:order-5` - Порядок 5 при наведении на ТВ
 - `.hover:tv:order-4` - Порядок 4 при наведении на ТВ
@@ -1731,7 +1731,7 @@
 - `.tv:order-first` - Порядок: первый на ТВ
 - `.tv:order-last` - Порядок: последний на ТВ
 
-##### Negative Order - Tv (≥ 1200px)
+##### Negative Order - Tv (>= 1200px)
 
 - `.hover:tv:-order-5` - Отрицательный порядок 5 при наведении на телевизор
 - `.hover:tv:-order-4` - Отрицательный порядок 4 при наведении на телевизор
@@ -1744,7 +1744,7 @@
 - `.tv:-order-2` - Отрицательный порядок 2 на ТВ
 - `.tv:-order-1` - Отрицательный порядок 1 на ТВ
 
-##### Order - Tablet Max (≤ 768px)
+##### Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:order-5` - Порядок 5 при наведении на планшетах (макс.)
 - `.hover:tablet-max:order-4` - Порядок 4 при наведении на планшетах (макс.)
@@ -1763,7 +1763,7 @@
 - `.tablet-max:order-first` - Порядок: первый на планшетах (макс.)
 - `.tablet-max:order-last` - Порядок: последний на планшетах (макс.)
 
-##### Negative Order - Tablet Max (≤ 768px)
+##### Negative Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:-order-5` - Отрицательный порядок 5 при наведении на планшетах (макс.)
 - `.hover:tablet-max:-order-4` - Отрицательный порядок 4 при наведении на планшетах (макс.)
@@ -1776,7 +1776,7 @@
 - `.tablet-max:-order-2` - Отрицательный порядок 2 на планшетах (макс.)
 - `.tablet-max:-order-1` - Отрицательный порядок 1 на планшетах (макс.)
 
-##### Order - Tablet Pc Max (≤ 992px)
+##### Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:order-5` - Порядок 5 при наведении на планшетных ПК (макс.)
 - `.hover:tablet-pc-max:order-4` - Порядок 4 при наведении на планшетных ПК (макс.)
@@ -1795,7 +1795,7 @@
 - `.tablet-pc-max:order-first` - Порядок: первый на планшетных ПК (макс.)
 - `.tablet-pc-max:order-last` - Порядок: последний на планшетных ПК (макс.)
 
-##### Negative Order - Tablet Pc Max (≤ 992px)
+##### Negative Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:-order-5` - Отрицательный порядок 5 при наведении на планшетных ПК (макс.)
 - `.hover:tablet-pc-max:-order-4` - Отрицательный порядок 4 при наведении на планшетных ПК (макс.)
@@ -1808,7 +1808,7 @@
 - `.tablet-pc-max:-order-2` - Отрицательный порядок 2 на планшетных ПК (макс.)
 - `.tablet-pc-max:-order-1` - Отрицательный порядок 1 на планшетных ПК (макс.)
 
-##### Order - Pc Max (≤ 1200px)
+##### Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:order-5` - Порядок 5 при наведении на ПК (макс.)
 - `.hover:pc-max:order-4` - Порядок 4 при наведении на ПК (макс.)
@@ -1827,7 +1827,7 @@
 - `.pc-max:order-first` - Порядок: первый на ПК (макс.)
 - `.pc-max:order-last` - Порядок: последний на ПК (макс.)
 
-##### Negative Order - Pc Max (≤ 1200px)
+##### Negative Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:-order-5` - Отрицательный порядок 5 при наведении на ПК макс.
 - `.hover:pc-max:-order-4` - Отрицательный порядок 4 при наведении на ПК макс.
@@ -2839,7 +2839,7 @@
 - `.w-5` - Ширина 5%
 - `.w-auto` - Ширина авто%
 
-##### Width - Mobile (≤ 480px)
+##### Width - Mobile (<= 480px)
 
 - `.hover:mobile:w-100` - Ширина 100% при наведении на мобильном устройстве
 - `.hover:mobile:w-95` - Ширина 95% при наведении на мобильном устройстве
@@ -3019,7 +3019,7 @@
 - `.pc:w-5` - Ширина 5% на ПК
 - `.pc:w-auto` - Ширина авто% на ПК
 
-##### Width - Tv (≥ 1200px)
+##### Width - Tv (>= 1200px)
 
 - `.hover:tv:w-100` - Ширина 100% при наведении на телевизор
 - `.hover:tv:w-95` - Ширина 95% при наведении на телевизор
@@ -3064,7 +3064,7 @@
 - `.tv:w-5` - Ширина 5% на ТВ
 - `.tv:w-auto` - Ширина авто% на ТВ
 
-##### Width - Tablet Max (≤ 768px)
+##### Width - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:w-100` - Ширина 100% при наведении на планшете макс.
 - `.hover:tablet-max:w-95` - Ширина 95% при наведении на планшете макс.
@@ -3109,7 +3109,7 @@
 - `.tablet-max:w-5` - Ширина 5% на планшете макс.
 - `.tablet-max:w-auto` - Ширина авто% на планшете макс.
 
-##### Width - Tablet Pc Max (≤ 992px)
+##### Width - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:w-100` - Ширина 100% при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:w-95` - Ширина 95 % при наведении на планшетном ПК (макс.)
@@ -3154,7 +3154,7 @@
 - `.tablet-pc-max:w-5` - Ширина 5% на планшетном ПК макс.
 - `.tablet-pc-max:w-auto` - Ширина авто% на планшетном ПК макс.
 
-##### Width - Pc Max (≤ 1200px)
+##### Width - Pc Max (<= 1200px)
 
 - `.hover:pc-max:w-100` - Ширина 100% при наведении на ПК макс.
 - `.hover:pc-max:w-95` - Ширина 95% при наведении на ПК макс.
@@ -3266,7 +3266,7 @@
 - `.hover:h-5` - Высота 5% при наведении
 - `.hover:h-auto` - Высота автоматически % при наведении
 
-##### Height - Mobile (≤ 480px)
+##### Height - Mobile (<= 480px)
 
 - `.hover:mobile:h-100` - Высота 100% при наведении на мобильном телефоне
 - `.hover:mobile:h-95` - Высота 95% при наведении на мобильном телефоне
@@ -3445,7 +3445,7 @@
 - `.pc:h-5` - Высота 5% на ПК
 - `.pc:h-auto` - Высота авто% на ПК
 
-##### Height - Tv (≥ 1200px)
+##### Height - Tv (>= 1200px)
 
 - `.hover:tv:h-100` - Высота 100% при наведении на телевизор
 - `.hover:tv:h-95` - Высота 95% при наведении на телевизор
@@ -3490,7 +3490,7 @@
 - `.tv:h-5` - Рост 5% по телевизору
 - `.tv:h-auto` - Высота авто% на ТВ
 
-##### Height - Tablet Max (≤ 768px)
+##### Height - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:h-100` - Высота 100 % при наведении на планшет (максимум)
 - `.hover:tablet-max:h-95` - Высота 95% при наведении на планшет макс.
@@ -3535,7 +3535,7 @@
 - `.tablet-max:h-5` - Высота 5% на планшете макс.
 - `.tablet-max:h-auto` - Высота авто% на планшете макс.
 
-##### Height - Tablet Pc Max (≤ 992px)
+##### Height - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:h-100` - Высота 100% при наведении на планшетный ПК макс.
 - `.hover:tablet-pc-max:h-95` - Высота 95% при наведении на планшетный ПК макс.
@@ -3580,7 +3580,7 @@
 - `.tablet-pc-max:h-5` - Высота 5% на планшетном ПК макс.
 - `.tablet-pc-max:h-auto` - Высота авто% на планшетном ПК макс.
 
-##### Height - Pc Max (≤ 1200px)
+##### Height - Pc Max (<= 1200px)
 
 - `.hover:pc-max:h-100` - Высота 100% при наведении на ПК макс.
 - `.hover:pc-max:h-95` - Высота 95% при наведении на ПК макс.
@@ -4356,7 +4356,7 @@
 - `.text-transparent` - Текст прозрачный
 - `.text-uppercase` - Текст в верхнем регистре
 
-##### Text - Mobile (≤ 480px)
+##### Text - Mobile (<= 480px)
 
 - `.hover:mobile:text-center` - Текст по центру при наведении на мобильных
 - `.hover:mobile:text-end` - Текст по концу строки при наведении на мобильных
@@ -4416,7 +4416,7 @@
 - `.pc:text-right` - Текст по правому краю на ПК
 - `.pc:text-start` - Текст по началу строки на ПК
 
-##### Text - Tv (≥ 1200px)
+##### Text - Tv (>= 1200px)
 
 - `.hover:tv:text-center` - Текст по центру при наведении на ТВ
 - `.hover:tv:text-end` - Текст по концу строки при наведении на ТВ
@@ -4431,7 +4431,7 @@
 - `.tv:text-right` - Текст по правому краю на ТВ
 - `.tv:text-start` - Текст по началу строки на ТВ
 
-##### Text - Tablet Max (≤ 768px)
+##### Text - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:text-center` - Текст по центру при наведении на планшетах (макс.)
 - `.hover:tablet-max:text-end` - Текст по концу строки при наведении на планшетах (макс.)
@@ -4446,7 +4446,7 @@
 - `.tablet-max:text-right` - Текст по правому краю на планшетах (макс.)
 - `.tablet-max:text-start` - Текст по началу строки на планшетах (макс.)
 
-##### Text - Tablet Pc Max (≤ 992px)
+##### Text - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:text-center` - Текст по центру при наведении на планшетных ПК (макс.)
 - `.hover:tablet-pc-max:text-end` - Текст по концу строки при наведении на планшетных ПК (макс.)
@@ -4461,7 +4461,7 @@
 - `.tablet-pc-max:text-right` - Текст по правому краю на планшетных ПК (макс.)
 - `.tablet-pc-max:text-start` - Текст по началу строки на планшетных ПК (макс.)
 
-##### Text - Pc Max (≤ 1200px)
+##### Text - Pc Max (<= 1200px)
 
 - `.hover:pc-max:text-center` - Текст по центру при наведении на ПК (макс.)
 - `.hover:pc-max:text-end` - Текст по концу строки при наведении на ПК (макс.)
@@ -5392,7 +5392,7 @@
 - `.v-hide` - Видимость скрыта
 - `.v-show` - Видимость видимая
 
-##### Visibility - Mobile (≤ 480px)
+##### Visibility - Mobile (<= 480px)
 
 - `.hover:mobile:v-hide` - Видимость скрыта при наведении на мобильном телефоне
 - `.hover:mobile:v-show` - Видимость видна при наведении на мобильном телефоне
@@ -5420,28 +5420,28 @@
 - `.pc:v-hide` - Видимость скрыта на ПК
 - `.pc:v-show` - Видимость видна на ПК
 
-##### Visibility - Tv (≥ 1200px)
+##### Visibility - Tv (>= 1200px)
 
 - `.hover:tv:v-hide` - Видимость скрыта при наведении на телевизоре
 - `.hover:tv:v-show` - Видимость видна при наведении на телевизор
 - `.tv:v-hide` - Видимость скрыта по телевизору
 - `.tv:v-show` - Видимость видна по телевизору
 
-##### Visibility - Tablet Max (≤ 768px)
+##### Visibility - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:v-hide` - Видимость скрыта при наведении на планшете Max
 - `.hover:tablet-max:v-show` - Видимость видна при наведении на планшете макс.
 - `.tablet-max:v-hide` - Видимость скрыта на планшете Max
 - `.tablet-max:v-show` - Видимость видима на планшете макс.
 
-##### Visibility - Tablet Pc Max (≤ 992px)
+##### Visibility - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:v-hide` - Видимость скрыта при наведении на планшетном ПК макс.
 - `.hover:tablet-pc-max:v-show` - Видимость видима при наведении на планшетном ПК макс.
 - `.tablet-pc-max:v-hide` - Видимость скрыта на планшетном ПК макс.
 - `.tablet-pc-max:v-show` - Видимость видима на планшетном ПК макс.
 
-##### Visibility - Pc Max (≤ 1200px)
+##### Visibility - Pc Max (<= 1200px)
 
 - `.hover:pc-max:v-hide` - Видимость скрыта при наведении на ПК макс.
 - `.hover:pc-max:v-show` - Видимость видна при наведении на ПК макс.

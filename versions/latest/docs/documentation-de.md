@@ -156,7 +156,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:d-inline-flex` - Inline-Flex beim Hover anzeigen
 - `.hover:d-none` - Beim Schweben wird keine angezeigt
 
-##### Display - Mobile (≤ 480px)
+##### Display - Mobile (<= 480px)
 
 - `.hover:mobile:d-block` - Anzeigeblock beim Hover auf Mobilgeräten
 - `.hover:mobile:d-flex` - Anzeigeflexibilität beim Schweben auf Mobilgeräten
@@ -224,7 +224,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:d-inline-grid` - Inline-Grid auf dem PC anzeigen
 - `.pc:d-none` - Keine Anzeige auf dem PC
 
-##### Display - Tv (≥ 1200px)
+##### Display - Tv (>= 1200px)
 
 - `.hover:tv:d-block` - Anzeigeblock beim Schweben im Fernsehen
 - `.hover:tv:d-flex` - Display-Flex beim Schweben im Fernsehen
@@ -241,7 +241,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:d-inline-grid` - Inline-Grid auf dem Fernseher anzeigen
 - `.tv:d-none` - Keine Anzeige im Fernsehen
 
-##### Display - Tablet Max (≤ 768px)
+##### Display - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:d-block` - Anzeigeblockierung beim Hover auf dem Tablet max
 - `.hover:tablet-max:d-flex` - Maximale Displayflexibilität beim Schweben auf dem Tablet
@@ -258,7 +258,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:d-inline-grid` - Inline-Grid auf dem Tablet anzeigen max
 - `.tablet-max:d-none` - Keine Anzeige auf dem Tablet max
 
-##### Display - Tablet Pc Max (≤ 992px)
+##### Display - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:d-block` - Anzeigeblock beim Hover auf Tablet-PC max
 - `.hover:tablet-pc-max:d-flex` - Displayflex beim Hover auf Tablet-PC max
@@ -275,7 +275,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:d-inline-grid` - Anzeige Inline-Grid auf Tablet-PC max
 - `.tablet-pc-max:d-none` - Anzeige keine auf Tablet-PC max
 
-##### Display - Pc Max (≤ 1200px)
+##### Display - Pc Max (<= 1200px)
 
 - `.hover:pc-max:d-block` - Anzeigeblock beim Hover auf dem PC max
 - `.hover:pc-max:d-flex` - Anzeigeflexibilität beim Schweben auf dem PC max
@@ -305,7 +305,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:float-right` - Float rechts beim Hover
 - `.hover:float-start` - Float Anfang beim Hover
 
-##### Float - Mobile (≤ 480px)
+##### Float - Mobile (<= 480px)
 
 - `.hover:mobile:float-end` - Float Ende beim Hover auf Mobilgeräten
 - `.hover:mobile:float-left` - Float links beim Hover auf Mobilgeräten
@@ -357,7 +357,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:float-right` - Float rechts auf dem PC
 - `.pc:float-start` - Float Anfang auf dem PC
 
-##### Float - Tv (≥ 1200px)
+##### Float - Tv (>= 1200px)
 
 - `.hover:tv:float-end` - Float Ende beim Hover auf dem TV
 - `.hover:tv:float-left` - Float links beim Hover auf dem TV
@@ -370,7 +370,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:float-right` - Float rechts auf dem TV
 - `.tv:float-start` - Float Anfang auf dem TV
 
-##### Float - Tablet Max (≤ 768px)
+##### Float - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:float-end` - Float Ende beim Hover auf Tablets (max.)
 - `.hover:tablet-max:float-left` - Float links beim Hover auf Tablets (max.)
@@ -383,7 +383,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:float-right` - Float rechts auf Tablets (max.)
 - `.tablet-max:float-start` - Float Anfang auf Tablets (max.)
 
-##### Float - Tablet Pc Max (≤ 992px)
+##### Float - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:float-end` - Float Ende beim Hover auf Tablet-PCs (max.)
 - `.hover:tablet-pc-max:float-left` - Float links beim Hover auf Tablet-PCs (max.)
@@ -396,7 +396,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:float-right` - Float rechts auf Tablet-PCs (max.)
 - `.tablet-pc-max:float-start` - Float Anfang auf Tablet-PCs (max.)
 
-##### Float - Pc Max (≤ 1200px)
+##### Float - Pc Max (<= 1200px)
 
 - `.hover:pc-max:float-end` - Float Ende beim Hover auf dem PC (max.)
 - `.hover:pc-max:float-left` - Float links beim Hover auf dem PC (max.)
@@ -422,7 +422,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.object-none` - Objekt keins
 - `.object-scale` - Objektmaßstab
 
-##### Object - Mobile (≤ 480px)
+##### Object - Mobile (<= 480px)
 
 - `.hover:mobile:object-contain` - Objekt beim Hover auf dem Mobilgerät enthalten
 - `.hover:mobile:object-cover` - Objektabdeckung beim Schweben auf dem Mobilgerät
@@ -474,7 +474,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:object-none` - Kein Objekt auf dem PC
 - `.pc:object-scale` - Objektskala auf dem PC
 
-##### Object - Tv (≥ 1200px)
+##### Object - Tv (>= 1200px)
 
 - `.hover:tv:object-contain` - Das Objekt wird beim Schweben im Fernsehen angezeigt
 - `.hover:tv:object-cover` - Objektabdeckung beim Schweben im Fernsehen
@@ -487,7 +487,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:object-none` - Kein Objekt im Fernsehen
 - `.tv:object-scale` - Objektmaßstab im Fernsehen
 
-##### Object - Tablet Max (≤ 768px)
+##### Object - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:object-contain` - Objekt enthält beim Hover auf dem Tablet max
 - `.hover:tablet-max:object-cover` - Objektabdeckung beim Schweben auf dem Tablet max
@@ -500,7 +500,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:object-none` - Objekt keines auf Tablet max
 - `.tablet-max:object-scale` - Objektskalierung auf Tablet max
 
-##### Object - Tablet Pc Max (≤ 992px)
+##### Object - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:object-contain` - Objekt enthalten beim Hover auf dem Tablet-PC max
 - `.hover:tablet-pc-max:object-cover` - Objektabdeckung beim Hover auf Tablet-PC max
@@ -513,7 +513,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:object-none` - Objekt keines auf Tablet-PC max
 - `.tablet-pc-max:object-scale` - Objektskalierung auf Tablet-PC max
 
-##### Object - Pc Max (≤ 1200px)
+##### Object - Pc Max (<= 1200px)
 
 - `.hover:pc-max:object-contain` - Objekt enthalten beim Hover auf dem PC max
 - `.hover:pc-max:object-cover` - Objektabdeckung beim Schweben auf dem PC max
@@ -574,7 +574,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:flex-row` - Flex-Reihe beim Schweben
 - `.hover:flex-wrap` - Flex-Wickel beim Schweben
 
-##### Flex - Mobile (≤ 480px)
+##### Flex - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col` - Flex Col beim Hover auf dem Handy
 - `.hover:mobile:flex-nowrap` - Flex Nowrap beim Schweben auf Mobilgeräten
@@ -618,7 +618,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:flex-row` - Flexreihe am PC
 - `.pc:flex-wrap` - Flexfolie auf dem PC
 
-##### Flex - Tv (≥ 1200px)
+##### Flex - Tv (>= 1200px)
 
 - `.hover:tv:flex-col` - Flex Col beim Schweben im Fernsehen
 - `.hover:tv:flex-nowrap` - Flex Nowrap im Hover im Fernsehen
@@ -629,7 +629,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:flex-row` - Flex Row im Fernsehen
 - `.tv:flex-wrap` - Flexfolie im Fernsehen
 
-##### Flex - Tablet Max (≤ 768px)
+##### Flex - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col` - Flex Col beim Schweben auf dem Tablet max
 - `.hover:tablet-max:flex-nowrap` - Flex Nowrap beim Schweben auf dem Tablet max
@@ -640,7 +640,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:flex-row` - Flexreihe auf Tablet max
 - `.tablet-max:flex-wrap` - Flexfolie am Tablet max
 
-##### Flex - Tablet Pc Max (≤ 992px)
+##### Flex - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col` - Flex Col beim Hover auf Tablet PC max
 - `.hover:tablet-pc-max:flex-nowrap` - Flex Nowrap beim Hover auf Tablet-PC max
@@ -651,7 +651,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:flex-row` - Flexreihe am Tablet-PC max
 - `.tablet-pc-max:flex-wrap` - Flexfolie am Tablet-PC max
 
-##### Flex - Pc Max (≤ 1200px)
+##### Flex - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col` - Flex Col beim Hover auf dem PC max
 - `.hover:pc-max:flex-nowrap` - Flex Nowrap beim Schweben auf dem PC max
@@ -667,7 +667,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.flex-col-reverse` - Flex-Col-Rückseite
 - `.hover:flex-col-reverse` - Flex Col Reverse beim Schweben
 
-##### Flex col - Mobile (≤ 480px)
+##### Flex col - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem Handy
 - `.mobile:flex-col-reverse` - Flex Col Reverse auf dem Handy
@@ -687,22 +687,22 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pc:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem PC
 - `.pc:flex-col-reverse` - Flex Col Reverse auf dem PC
 
-##### Flex col - Tv (≥ 1200px)
+##### Flex col - Tv (>= 1200px)
 
 - `.hover:tv:flex-col-reverse` - Flex-Col-Reverse beim Schweben im Fernsehen
 - `.tv:flex-col-reverse` - Flex Col Reverse im Fernsehen
 
-##### Flex col - Tablet Max (≤ 768px)
+##### Flex col - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem Tablet max
 - `.tablet-max:flex-col-reverse` - Flex Col Reverse auf Tablet max
 
-##### Flex col - Tablet Pc Max (≤ 992px)
+##### Flex col - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem Tablet-PC max
 - `.tablet-pc-max:flex-col-reverse` - Flex Col Reverse auf Tablet-PC max
 
-##### Flex col - Pc Max (≤ 1200px)
+##### Flex col - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - Flex Col Reverse beim Schweben auf dem PC max
 - `.pc-max:flex-col-reverse` - Flex Col Reverse auf PC max
@@ -712,7 +712,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.flex-row-reverse` - Flexreihe umgekehrt
 - `.hover:flex-row-reverse` - Beuge die Reihe beim Schweben rückwärts
 
-##### Flex row - Mobile (≤ 480px)
+##### Flex row - Mobile (<= 480px)
 
 - `.hover:mobile:flex-row-reverse` - Flex-Reihenumkehr beim Schweben auf dem Handy
 - `.mobile:flex-row-reverse` - Flex-Row-Reverse auf dem Handy
@@ -732,22 +732,22 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pc:flex-row-reverse` - Flexreihe umkehren beim Schweben auf dem PC
 - `.pc:flex-row-reverse` - Flexreihe umkehren am PC
 
-##### Flex row - Tv (≥ 1200px)
+##### Flex row - Tv (>= 1200px)
 
 - `.hover:tv:flex-row-reverse` - Flexreihe umkehren beim Schweben im Fernsehen
 - `.tv:flex-row-reverse` - Flex Row Reverse im Fernsehen
 
-##### Flex row - Tablet Max (≤ 768px)
+##### Flex row - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - Flexreihe rückwärts beim Schweben auf dem Tablet max
 - `.tablet-max:flex-row-reverse` - Flexreihenumkehr auf dem Tablet max
 
-##### Flex row - Tablet Pc Max (≤ 992px)
+##### Flex row - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - Flexreihe umkehren beim Schweben auf Tablet-PC max
 - `.tablet-pc-max:flex-row-reverse` - Flexreihe rückwärts auf Tablet-PC max
 
-##### Flex row - Pc Max (≤ 1200px)
+##### Flex row - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - Flexreihe umkehren beim Schweben auf dem PC max
 - `.pc-max:flex-row-reverse` - Flex-Reihenumkehr am PC max
@@ -763,7 +763,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:flex-grow-1` - Flex wächst beim Schweben um 1
 - `.hover:flex-grow-0` - Flex wächst beim Schweben um 0
 
-##### Flex grow - Mobile (≤ 480px)
+##### Flex grow - Mobile (<= 480px)
 
 - `.hover:mobile:flex-grow-3` - Flex wächst 3 beim Hover auf dem Handy
 - `.hover:mobile:flex-grow-2` - Flex wächst 2 beim Hover auf dem Handy
@@ -807,7 +807,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:flex-grow-1` - Flex wachsen 1 auf dem PC
 - `.pc:flex-grow-0` - Flex wachsen 0 auf dem PC
 
-##### Flex grow - Tv (≥ 1200px)
+##### Flex grow - Tv (>= 1200px)
 
 - `.hover:tv:flex-grow-3` - Flex wachsen 3 beim Schweben im Fernsehen
 - `.hover:tv:flex-grow-2` - Flex wächst 2 beim Schweben im Fernsehen
@@ -818,7 +818,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:flex-grow-1` - Flex wachsen 1 im Fernsehen
 - `.tv:flex-grow-0` - Flex wachsen 0 im Fernsehen
 
-##### Flex grow - Tablet Max (≤ 768px)
+##### Flex grow - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-grow-3` - Flex wachsen 3 beim Schweben auf dem Tablet max
 - `.hover:tablet-max:flex-grow-2` - Flex wächst 2 beim Hover auf dem Tablet max
@@ -829,7 +829,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:flex-grow-1` - Flex wachsen 1 auf Tablet max
 - `.tablet-max:flex-grow-0` - Flex wachsen 0 auf Tablet max
 
-##### Flex grow - Tablet Pc Max (≤ 992px)
+##### Flex grow - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-grow-3` - Flex wachsen 3 beim Schweben auf dem Tablet-PC max
 - `.hover:tablet-pc-max:flex-grow-2` - Flex wachsen 2 beim Schweben auf dem Tablet-PC max
@@ -840,7 +840,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:flex-grow-1` - Flex wachsen 1 auf Tablet-PC max
 - `.tablet-pc-max:flex-grow-0` - Flex wachsen 0 auf Tablet-PC max
 
-##### Flex grow - Pc Max (≤ 1200px)
+##### Flex grow - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-grow-3` - Flex wachsen 3 beim Schweben auf dem PC max
 - `.hover:pc-max:flex-grow-2` - Flex wächst 2 beim Hover auf dem PC max
@@ -856,7 +856,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.flex-wrap-reverse` - Flex-Wrap-Rückseite
 - `.hover:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben
 
-##### Flex wrap - Mobile (≤ 480px)
+##### Flex wrap - Mobile (<= 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben auf dem Mobilgerät
 - `.mobile:flex-wrap-reverse` - Flex-Wrap-Rückseite auf dem Handy
@@ -876,22 +876,22 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pc:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben auf dem PC
 - `.pc:flex-wrap-reverse` - Flex Wrap umgekehrt auf dem PC
 
-##### Flex wrap - Tv (≥ 1200px)
+##### Flex wrap - Tv (>= 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben im Fernsehen
 - `.tv:flex-wrap-reverse` - Flex Wrap umgekehrt im Fernsehen
 
-##### Flex wrap - Tablet Max (≤ 768px)
+##### Flex wrap - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - Flex-Wickel umgekehrt beim Schweben auf dem Tablet max
 - `.tablet-max:flex-wrap-reverse` - Flexfolie rückwärts am Tablet max
 
-##### Flex wrap - Tablet Pc Max (≤ 992px)
+##### Flex wrap - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - Flex-Wickel umgekehrt beim Schweben auf dem Tablet-PC max
 - `.tablet-pc-max:flex-wrap-reverse` - Flex Wrap umgekehrt auf Tablet-PC max
 
-##### Flex wrap - Pc Max (≤ 1200px)
+##### Flex wrap - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - Flex-Wickel rückwärts beim Schweben auf dem PC max
 - `.pc-max:flex-wrap-reverse` - Flex-Wrap rückwärts am PC max
@@ -1086,7 +1086,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:align-content-start` - Inhalt ausrichten: Start beim Hover
 - `.hover:align-content-stretch` - Inhalt ausrichten: stretch beim Hover
 
-##### Align content - Mobile (≤ 480px)
+##### Align content - Mobile (<= 480px)
 
 - `.hover:mobile:align-content-around` - Inhalt ausrichten: around beim Hover auf Mobilgeräten
 - `.hover:mobile:align-content-between` - Inhalt ausrichten: between beim Hover auf Mobilgeräten
@@ -1154,7 +1154,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:align-content-start` - Inhalt ausrichten: Start auf dem PC
 - `.pc:align-content-stretch` - Inhalt ausrichten: stretch auf dem PC
 
-##### Align content - Tv (≥ 1200px)
+##### Align content - Tv (>= 1200px)
 
 - `.hover:tv:align-content-around` - Inhalt ausrichten: around beim Hover auf dem TV
 - `.hover:tv:align-content-between` - Inhalt ausrichten: between beim Hover auf dem TV
@@ -1171,7 +1171,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:align-content-start` - Inhalt ausrichten: Start auf dem TV
 - `.tv:align-content-stretch` - Inhalt ausrichten: stretch auf dem TV
 
-##### Align content - Tablet Max (≤ 768px)
+##### Align content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-content-around` - Inhalt ausrichten: around beim Hover auf Tablets (max.)
 - `.hover:tablet-max:align-content-between` - Inhalt ausrichten: between beim Hover auf Tablets (max.)
@@ -1188,7 +1188,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:align-content-start` - Inhalt ausrichten: Start auf Tablets (max.)
 - `.tablet-max:align-content-stretch` - Inhalt ausrichten: stretch auf Tablets (max.)
 
-##### Align content - Tablet Pc Max (≤ 992px)
+##### Align content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - Inhalt ausrichten: around beim Hover auf Tablet-PCs (max.)
 - `.hover:tablet-pc-max:align-content-between` - Inhalt ausrichten: between beim Hover auf Tablet-PCs (max.)
@@ -1205,7 +1205,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:align-content-start` - Inhalt ausrichten: Start auf Tablet-PCs (max.)
 - `.tablet-pc-max:align-content-stretch` - Inhalt ausrichten: stretch auf Tablet-PCs (max.)
 
-##### Align content - Pc Max (≤ 1200px)
+##### Align content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-content-around` - Inhalt ausrichten: around beim Hover auf dem PC (max.)
 - `.hover:pc-max:align-content-between` - Inhalt ausrichten: between beim Hover auf dem PC (max.)
@@ -1233,7 +1233,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:align-items-start` - Elemente ausrichten: Start beim Hover
 - `.hover:align-items-stretch` - Elemente ausrichten: stretch beim Hover
 
-##### Align items - Mobile (≤ 480px)
+##### Align items - Mobile (<= 480px)
 
 - `.hover:mobile:align-items-center` - Elemente ausrichten: Mitte beim Hover auf Mobilgeräten
 - `.hover:mobile:align-items-end` - Elemente ausrichten: Ende beim Hover auf Mobilgeräten
@@ -1277,7 +1277,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:align-items-start` - Elemente ausrichten: Start auf dem PC
 - `.pc:align-items-stretch` - Elemente ausrichten: stretch auf dem PC
 
-##### Align items - Tv (≥ 1200px)
+##### Align items - Tv (>= 1200px)
 
 - `.hover:tv:align-items-center` - Elemente ausrichten: Mitte beim Hover auf dem TV
 - `.hover:tv:align-items-end` - Elemente ausrichten: Ende beim Hover auf dem TV
@@ -1288,7 +1288,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:align-items-start` - Elemente ausrichten: Start auf dem TV
 - `.tv:align-items-stretch` - Elemente ausrichten: stretch auf dem TV
 
-##### Align items - Tablet Max (≤ 768px)
+##### Align items - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-items-center` - Elemente ausrichten: Mitte beim Hover auf Tablets (max.)
 - `.hover:tablet-max:align-items-end` - Elemente ausrichten: Ende beim Hover auf Tablets (max.)
@@ -1299,7 +1299,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:align-items-start` - Elemente ausrichten: Start auf Tablets (max.)
 - `.tablet-max:align-items-stretch` - Elemente ausrichten: stretch auf Tablets (max.)
 
-##### Align items - Tablet Pc Max (≤ 992px)
+##### Align items - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - Elemente ausrichten: Mitte beim Hover auf Tablet-PCs (max.)
 - `.hover:tablet-pc-max:align-items-end` - Elemente ausrichten: Ende beim Hover auf Tablet-PCs (max.)
@@ -1310,7 +1310,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:align-items-start` - Elemente ausrichten: Start auf Tablet-PCs (max.)
 - `.tablet-pc-max:align-items-stretch` - Elemente ausrichten: stretch auf Tablet-PCs (max.)
 
-##### Align items - Pc Max (≤ 1200px)
+##### Align items - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-items-center` - Elemente ausrichten: Mitte beim Hover auf dem PC (max.)
 - `.hover:pc-max:align-items-end` - Elemente ausrichten: Ende beim Hover auf dem PC (max.)
@@ -1332,7 +1332,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:align-self-start` - Element selbst ausrichten: Start beim Hover
 - `.hover:align-self-stretch` - Element selbst ausrichten: stretch beim Hover
 
-##### Align self - Mobile (≤ 480px)
+##### Align self - Mobile (<= 480px)
 
 - `.hover:mobile:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf Mobilgeräten
 - `.hover:mobile:align-self-end` - Element selbst ausrichten: Ende beim Hover auf Mobilgeräten
@@ -1376,7 +1376,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:align-self-start` - Element selbst ausrichten: Start auf dem PC
 - `.pc:align-self-stretch` - Element selbst ausrichten: stretch auf dem PC
 
-##### Align self - Tv (≥ 1200px)
+##### Align self - Tv (>= 1200px)
 
 - `.hover:tv:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf dem TV
 - `.hover:tv:align-self-end` - Element selbst ausrichten: Ende beim Hover auf dem TV
@@ -1387,7 +1387,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:align-self-start` - Element selbst ausrichten: Start auf dem TV
 - `.tv:align-self-stretch` - Element selbst ausrichten: stretch auf dem TV
 
-##### Align self - Tablet Max (≤ 768px)
+##### Align self - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf Tablets (max.)
 - `.hover:tablet-max:align-self-end` - Element selbst ausrichten: Ende beim Hover auf Tablets (max.)
@@ -1398,7 +1398,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:align-self-start` - Element selbst ausrichten: Start auf Tablets (max.)
 - `.tablet-max:align-self-stretch` - Element selbst ausrichten: stretch auf Tablets (max.)
 
-##### Align self - Tablet Pc Max (≤ 992px)
+##### Align self - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf Tablet-PCs (max.)
 - `.hover:tablet-pc-max:align-self-end` - Element selbst ausrichten: Ende beim Hover auf Tablet-PCs (max.)
@@ -1409,7 +1409,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:align-self-start` - Element selbst ausrichten: Start auf Tablet-PCs (max.)
 - `.tablet-pc-max:align-self-stretch` - Element selbst ausrichten: stretch auf Tablet-PCs (max.)
 
-##### Align self - Pc Max (≤ 1200px)
+##### Align self - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-self-center` - Element selbst ausrichten: Mitte beim Hover auf dem PC (max.)
 - `.hover:pc-max:align-self-end` - Element selbst ausrichten: Ende beim Hover auf dem PC (max.)
@@ -1437,7 +1437,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.justify-content-start` - Inhalt verteilen: Start
 - `.justify-content-stretch` - Inhalt verteilen: stretch
 
-##### Justify content - Mobile (≤ 480px)
+##### Justify content - Mobile (<= 480px)
 
 - `.hover:mobile:justify-content-around` - Inhalt verteilen: around beim Hover auf Mobilgeräten
 - `.hover:mobile:justify-content-between` - Inhalt verteilen: between beim Hover auf Mobilgeräten
@@ -1489,7 +1489,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:justify-content-end` - Inhalt verteilen: Ende auf dem PC
 - `.pc:justify-content-start` - Inhalt verteilen: Start auf dem PC
 
-##### Justify content - Tv (≥ 1200px)
+##### Justify content - Tv (>= 1200px)
 
 - `.hover:tv:justify-content-around` - Inhalt verteilen: around beim Hover auf dem TV
 - `.hover:tv:justify-content-between` - Inhalt verteilen: between beim Hover auf dem TV
@@ -1502,7 +1502,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:justify-content-end` - Inhalt verteilen: Ende auf dem TV
 - `.tv:justify-content-start` - Inhalt verteilen: Start auf dem TV
 
-##### Justify content - Tablet Max (≤ 768px)
+##### Justify content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:justify-content-around` - Inhalt verteilen: around beim Hover auf Tablets (max.)
 - `.hover:tablet-max:justify-content-between` - Inhalt verteilen: between beim Hover auf Tablets (max.)
@@ -1515,7 +1515,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:justify-content-end` - Inhalt verteilen: Ende auf Tablets (max.)
 - `.tablet-max:justify-content-start` - Inhalt verteilen: Start auf Tablets (max.)
 
-##### Justify content - Tablet Pc Max (≤ 992px)
+##### Justify content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - Inhalt verteilen: around beim Hover auf Tablet-PCs (max.)
 - `.hover:tablet-pc-max:justify-content-between` - Inhalt verteilen: between beim Hover auf Tablet-PCs (max.)
@@ -1528,7 +1528,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:justify-content-end` - Inhalt verteilen: Ende auf Tablet-PCs (max.)
 - `.tablet-pc-max:justify-content-start` - Inhalt verteilen: Start auf Tablet-PCs (max.)
 
-##### Justify content - Pc Max (≤ 1200px)
+##### Justify content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:justify-content-around` - Inhalt verteilen: around beim Hover auf dem PC (max.)
 - `.hover:pc-max:justify-content-between` - Inhalt verteilen: between beim Hover auf dem PC (max.)
@@ -1584,7 +1584,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:-order-2` - Negative Reihenfolge 2 beim Hover
 - `.hover:-order-1` - Negative Reihenfolge 1 beim Hover
 
-##### Order - Mobile (≤ 480px)
+##### Order - Mobile (<= 480px)
 
 - `.hover:mobile:order-5` - Reihenfolge 5 beim Hover auf Mobilgeräten
 - `.hover:mobile:order-4` - Reihenfolge 4 beim Hover auf Mobilgeräten
@@ -1603,7 +1603,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.mobile:order-first` - Reihenfolge: erste auf Mobilgeräten
 - `.mobile:order-last` - Reihenfolge: letzte auf Mobilgeräten
 
-##### Negative Order - Mobile (≤ 480px)
+##### Negative Order - Mobile (<= 480px)
 
 - `.hover:mobile:-order-5` - Negative Reihenfolge 5 beim Hover auf Mobilgeräten
 - `.hover:mobile:-order-4` - Negative Reihenfolge 4 beim Hover auf Mobilgeräten
@@ -1712,7 +1712,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:-order-2` - Negative Reihenfolge 2 auf dem PC
 - `.pc:-order-1` - Negative Reihenfolge 1 auf dem PC
 
-##### Order - Tv (≥ 1200px)
+##### Order - Tv (>= 1200px)
 
 - `.hover:tv:order-5` - Reihenfolge 5 beim Hover auf dem TV
 - `.hover:tv:order-4` - Reihenfolge 4 beim Hover auf dem TV
@@ -1731,7 +1731,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:order-first` - Reihenfolge: erste auf dem TV
 - `.tv:order-last` - Reihenfolge: letzte auf dem TV
 
-##### Negative Order - Tv (≥ 1200px)
+##### Negative Order - Tv (>= 1200px)
 
 - `.hover:tv:-order-5` - Negative Reihenfolge 5 beim Hover auf dem TV
 - `.hover:tv:-order-4` - Negative Reihenfolge 4 beim Hover auf dem TV
@@ -1744,7 +1744,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:-order-2` - Negative Reihenfolge 2 auf dem TV
 - `.tv:-order-1` - Negative Reihenfolge 1 auf dem TV
 
-##### Order - Tablet Max (≤ 768px)
+##### Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:order-5` - Reihenfolge 5 beim Hover auf Tablets (max.)
 - `.hover:tablet-max:order-4` - Reihenfolge 4 beim Hover auf Tablets (max.)
@@ -1763,7 +1763,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:order-first` - Reihenfolge: erste auf Tablets (max.)
 - `.tablet-max:order-last` - Reihenfolge: letzte auf Tablets (max.)
 
-##### Negative Order - Tablet Max (≤ 768px)
+##### Negative Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:-order-5` - Negative Reihenfolge 5 beim Hover auf Tablets (max.)
 - `.hover:tablet-max:-order-4` - Negative Reihenfolge 4 beim Hover auf Tablets (max.)
@@ -1776,7 +1776,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:-order-2` - Negative Reihenfolge 2 auf Tablets (max.)
 - `.tablet-max:-order-1` - Negative Reihenfolge 1 auf Tablets (max.)
 
-##### Order - Tablet Pc Max (≤ 992px)
+##### Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:order-5` - Reihenfolge 5 beim Hover auf Tablet-PCs (max.)
 - `.hover:tablet-pc-max:order-4` - Reihenfolge 4 beim Hover auf Tablet-PCs (max.)
@@ -1795,7 +1795,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:order-first` - Reihenfolge: erste auf Tablet-PCs (max.)
 - `.tablet-pc-max:order-last` - Reihenfolge: letzte auf Tablet-PCs (max.)
 
-##### Negative Order - Tablet Pc Max (≤ 992px)
+##### Negative Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:-order-5` - Negative Reihenfolge 5 beim Hover auf Tablet-PCs (max.)
 - `.hover:tablet-pc-max:-order-4` - Negative Reihenfolge 4 beim Hover auf Tablet-PCs (max.)
@@ -1808,7 +1808,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:-order-2` - Negative Reihenfolge 2 auf Tablet-PCs (max.)
 - `.tablet-pc-max:-order-1` - Negative Reihenfolge 1 auf Tablet-PCs (max.)
 
-##### Order - Pc Max (≤ 1200px)
+##### Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:order-5` - Reihenfolge 5 beim Hover auf dem PC (max.)
 - `.hover:pc-max:order-4` - Reihenfolge 4 beim Hover auf dem PC (max.)
@@ -1827,7 +1827,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc-max:order-first` - Reihenfolge: erste auf dem PC (max.)
 - `.pc-max:order-last` - Reihenfolge: letzte auf dem PC (max.)
 
-##### Negative Order - Pc Max (≤ 1200px)
+##### Negative Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:-order-5` - Negative Reihenfolge 5 beim Hover auf dem PC (max.)
 - `.hover:pc-max:-order-4` - Negative Reihenfolge 4 beim Hover auf dem PC (max.)
@@ -2839,7 +2839,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.w-5` - Breite 5 %
 - `.w-auto` - Breite automatisch %
 
-##### Width - Mobile (≤ 480px)
+##### Width - Mobile (<= 480px)
 
 - `.hover:mobile:w-100` - Breite 100 % beim Hover auf Mobilgeräten
 - `.hover:mobile:w-95` - Breite 95 % beim Hover auf Mobilgeräten
@@ -3019,7 +3019,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:w-5` - Breite 5 % auf PC
 - `.pc:w-auto` - Breite automatisch % auf dem PC
 
-##### Width - Tv (≥ 1200px)
+##### Width - Tv (>= 1200px)
 
 - `.hover:tv:w-100` - Breite 100 % beim Schweben im Fernsehen
 - `.hover:tv:w-95` - Breite 95 % beim Schweben im Fernsehen
@@ -3064,7 +3064,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:w-5` - Breite 5 % im Fernsehen
 - `.tv:w-auto` - Breite automatisch % im Fernsehen
 
-##### Width - Tablet Max (≤ 768px)
+##### Width - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:w-100` - Breite 100 % beim Hover auf dem Tablet max
 - `.hover:tablet-max:w-95` - Breite 95 % beim Hover auf dem Tablet max
@@ -3109,7 +3109,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:w-5` - Breite 5 % auf Tablet max
 - `.tablet-max:w-auto` - Breite automatisch % auf dem Tablet max
 
-##### Width - Tablet Pc Max (≤ 992px)
+##### Width - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:w-100` - Breite 100 % beim Hover auf dem Tablet-PC max
 - `.hover:tablet-pc-max:w-95` - Breite 95 % beim Hover auf dem Tablet-PC max
@@ -3154,7 +3154,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:w-5` - Breite 5 % auf Tablet-PC max
 - `.tablet-pc-max:w-auto` - Breite auto% auf Tablet-PC max
 
-##### Width - Pc Max (≤ 1200px)
+##### Width - Pc Max (<= 1200px)
 
 - `.hover:pc-max:w-100` - Breite 100 % beim Hover auf dem PC max
 - `.hover:pc-max:w-95` - Breite 95 % beim Hover auf dem PC max
@@ -3266,7 +3266,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:h-5` - Höhe 5 % beim Schweben
 - `.hover:h-auto` - Höhe automatisch % beim Schweben
 
-##### Height - Mobile (≤ 480px)
+##### Height - Mobile (<= 480px)
 
 - `.hover:mobile:h-100` - Höhe 100 % beim Schweben auf dem Mobilgerät
 - `.hover:mobile:h-95` - Höhe 95 % beim Schweben auf dem Mobilgerät
@@ -3445,7 +3445,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:h-5` - Höhe 5 % auf PC
 - `.pc:h-auto` - Höhe automatisch % auf dem PC
 
-##### Height - Tv (≥ 1200px)
+##### Height - Tv (>= 1200px)
 
 - `.hover:tv:h-100` - Höhe 100 % beim Schweben im Fernsehen
 - `.hover:tv:h-95` - Höhe 95 % beim Schweben im Fernsehen
@@ -3490,7 +3490,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:h-5` - Höhe 5 % im Fernsehen
 - `.tv:h-auto` - Höhe automatisch% im Fernsehen
 
-##### Height - Tablet Max (≤ 768px)
+##### Height - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:h-100` - Höhe 100 % beim Schweben auf dem Tablet max
 - `.hover:tablet-max:h-95` - Höhe 95 % beim Schweben auf dem Tablet max
@@ -3535,7 +3535,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:h-5` - Höhe 5 % auf Tablet max
 - `.tablet-max:h-auto` - Höhe automatisch % auf dem Tablet max
 
-##### Height - Tablet Pc Max (≤ 992px)
+##### Height - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:h-100` - Höhe 100 % beim Schweben auf dem Tablet-PC max
 - `.hover:tablet-pc-max:h-95` - Höhe 95 % beim Schweben auf dem Tablet-PC max
@@ -3580,7 +3580,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:h-5` - Höhe 5 % auf Tablet-PC max
 - `.tablet-pc-max:h-auto` - Höhe automatisch % auf Tablet-PC max
 
-##### Height - Pc Max (≤ 1200px)
+##### Height - Pc Max (<= 1200px)
 
 - `.hover:pc-max:h-100` - Höhe 100 % beim Schweben auf dem PC max
 - `.hover:pc-max:h-95` - Höhe 95 % beim Schweben auf dem PC max
@@ -4356,7 +4356,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.text-transparent` - Text transparent
 - `.text-uppercase` - Text in Großbuchstaben
 
-##### Text - Mobile (≤ 480px)
+##### Text - Mobile (<= 480px)
 
 - `.hover:mobile:text-center` - Text zentriert beim Hover auf Mobilgeräten
 - `.hover:mobile:text-end` - Text am Ende ausgerichtet beim Hover auf Mobilgeräten
@@ -4416,7 +4416,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:text-right` - Text rechtsbündig auf dem PC
 - `.pc:text-start` - Text am Anfang ausgerichtet auf dem PC
 
-##### Text - Tv (≥ 1200px)
+##### Text - Tv (>= 1200px)
 
 - `.hover:tv:text-center` - Text zentriert beim Hover auf dem TV
 - `.hover:tv:text-end` - Text am Ende ausgerichtet beim Hover auf dem TV
@@ -4431,7 +4431,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tv:text-right` - Text rechtsbündig auf dem TV
 - `.tv:text-start` - Text am Anfang ausgerichtet auf dem TV
 
-##### Text - Tablet Max (≤ 768px)
+##### Text - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:text-center` - Text zentriert beim Hover auf Tablets (max.)
 - `.hover:tablet-max:text-end` - Text am Ende ausgerichtet beim Hover auf Tablets (max.)
@@ -4446,7 +4446,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-max:text-right` - Text rechtsbündig auf Tablets (max.)
 - `.tablet-max:text-start` - Text am Anfang ausgerichtet auf Tablets (max.)
 
-##### Text - Tablet Pc Max (≤ 992px)
+##### Text - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:text-center` - Text zentriert beim Hover auf Tablet-PCs (max.)
 - `.hover:tablet-pc-max:text-end` - Text am Ende ausgerichtet beim Hover auf Tablet-PCs (max.)
@@ -4461,7 +4461,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.tablet-pc-max:text-right` - Text rechtsbündig auf Tablet-PCs (max.)
 - `.tablet-pc-max:text-start` - Text am Anfang ausgerichtet auf Tablet-PCs (max.)
 
-##### Text - Pc Max (≤ 1200px)
+##### Text - Pc Max (<= 1200px)
 
 - `.hover:pc-max:text-center` - Text zentriert beim Hover auf dem PC (max.)
 - `.hover:pc-max:text-end` - Text am Ende ausgerichtet beim Hover auf dem PC (max.)
@@ -5392,7 +5392,7 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.v-hide` - Sichtbarkeit verborgen
 - `.v-show` - Sichtbarkeit sichtbar
 
-##### Visibility - Mobile (≤ 480px)
+##### Visibility - Mobile (<= 480px)
 
 - `.hover:mobile:v-hide` - Sichtbarkeit beim Schweben auf Mobilgeräten ausgeblendet
 - `.hover:mobile:v-show` - Sichtbarkeit beim Hover auf dem Mobilgerät sichtbar
@@ -5420,28 +5420,28 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pc:v-hide` - Sichtbarkeit auf dem PC ausgeblendet
 - `.pc:v-show` - Sichtbarkeit auf dem PC sichtbar
 
-##### Visibility - Tv (≥ 1200px)
+##### Visibility - Tv (>= 1200px)
 
 - `.hover:tv:v-hide` - Sichtbarkeit beim Schweben im Fernsehen ausgeblendet
 - `.hover:tv:v-show` - Sichtbarkeit beim Schweben im Fernsehen sichtbar
 - `.tv:v-hide` - Im Fernsehen verborgene Sichtbarkeit
 - `.tv:v-show` - Sichtbarkeit im Fernsehen sichtbar
 
-##### Visibility - Tablet Max (≤ 768px)
+##### Visibility - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:v-hide` - Sichtbarkeit beim Hover auf dem Tablet max. ausgeblendet
 - `.hover:tablet-max:v-show` - Sichtbarkeit beim Hover auf dem Tablet max
 - `.tablet-max:v-hide` - Sichtbarkeit ausgeblendet auf dem Tablet max
 - `.tablet-max:v-show` - Sichtbarkeit sichtbar auf dem Tablet max
 
-##### Visibility - Tablet Pc Max (≤ 992px)
+##### Visibility - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:v-hide` - Sichtbarkeit ausgeblendet beim Schweben auf dem Tablet-PC max
 - `.hover:tablet-pc-max:v-show` - Sichtbarkeit beim Hover auf dem Tablet-PC max
 - `.tablet-pc-max:v-hide` - Sichtbarkeit ausgeblendet auf Tablet-PC max
 - `.tablet-pc-max:v-show` - Sichtbarkeit sichtbar auf Tablet-PC max
 
-##### Visibility - Pc Max (≤ 1200px)
+##### Visibility - Pc Max (<= 1200px)
 
 - `.hover:pc-max:v-hide` - Sichtbarkeit ausgeblendet beim Hover auf dem PC max
 - `.hover:pc-max:v-show` - Sichtbarkeit beim Hover auf dem PC max

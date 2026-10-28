@@ -156,7 +156,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:d-inline-flex` - Display inline-flex on hover
 - `.hover:d-none` - Display none on hover
 
-##### Display - Mobile (≤ 480px)
+##### Display - Mobile (<= 480px)
 
 - `.hover:mobile:d-block` - Display block on hover on mobile
 - `.hover:mobile:d-flex` - Display flex on hover on mobile
@@ -224,7 +224,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:d-inline-grid` - Display inline-grid on pc
 - `.pc:d-none` - Display none on pc
 
-##### Display - Tv (≥ 1200px)
+##### Display - Tv (>= 1200px)
 
 - `.hover:tv:d-block` - Display block on hover on tv
 - `.hover:tv:d-flex` - Display flex on hover on tv
@@ -241,7 +241,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:d-inline-grid` - Display inline-grid on tv
 - `.tv:d-none` - Display none on tv
 
-##### Display - Tablet Max (≤ 768px)
+##### Display - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:d-block` - Display block on hover on tablet max
 - `.hover:tablet-max:d-flex` - Display flex on hover on tablet max
@@ -258,7 +258,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:d-inline-grid` - Display inline-grid on tablet max
 - `.tablet-max:d-none` - Display none on tablet max
 
-##### Display - Tablet Pc Max (≤ 992px)
+##### Display - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:d-block` - Display block on hover on tablet pc max
 - `.hover:tablet-pc-max:d-flex` - Display flex on hover on tablet pc max
@@ -275,7 +275,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:d-inline-grid` - Display inline-grid on tablet pc max
 - `.tablet-pc-max:d-none` - Display none on tablet pc max
 
-##### Display - Pc Max (≤ 1200px)
+##### Display - Pc Max (<= 1200px)
 
 - `.hover:pc-max:d-block` - Display block on hover on pc max
 - `.hover:pc-max:d-flex` - Display flex on hover on pc max
@@ -305,7 +305,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:float-right` - Float right on hover
 - `.hover:float-start` - Float start on hover
 
-##### Float - Mobile (≤ 480px)
+##### Float - Mobile (<= 480px)
 
 - `.hover:mobile:float-end` - Float end on hover on mobile
 - `.hover:mobile:float-left` - Float left on hover on mobile
@@ -357,7 +357,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:float-right` - Float right on pc
 - `.pc:float-start` - Float start on pc
 
-##### Float - Tv (≥ 1200px)
+##### Float - Tv (>= 1200px)
 
 - `.hover:tv:float-end` - Float end on hover on tv
 - `.hover:tv:float-left` - Float left on hover on tv
@@ -370,7 +370,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:float-right` - Float right on tv
 - `.tv:float-start` - Float start on tv
 
-##### Float - Tablet Max (≤ 768px)
+##### Float - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:float-end` - Float end on hover on tablet max
 - `.hover:tablet-max:float-left` - Float left on hover on tablet max
@@ -383,7 +383,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:float-right` - Float right on tablet max
 - `.tablet-max:float-start` - Float start on tablet max
 
-##### Float - Tablet Pc Max (≤ 992px)
+##### Float - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:float-end` - Float end on hover on tablet pc max
 - `.hover:tablet-pc-max:float-left` - Float left on hover on tablet pc max
@@ -396,7 +396,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:float-right` - Float right on tablet pc max
 - `.tablet-pc-max:float-start` - Float start on tablet pc max
 
-##### Float - Pc Max (≤ 1200px)
+##### Float - Pc Max (<= 1200px)
 
 - `.hover:pc-max:float-end` - Float end on hover on pc max
 - `.hover:pc-max:float-left` - Float left on hover on pc max
@@ -422,7 +422,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.object-none` - Object none
 - `.object-scale` - Object scale
 
-##### Object - Mobile (≤ 480px)
+##### Object - Mobile (<= 480px)
 
 - `.hover:mobile:object-contain` - Object contain on hover on mobile
 - `.hover:mobile:object-cover` - Object cover on hover on mobile
@@ -474,7 +474,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:object-none` - Object none on pc
 - `.pc:object-scale` - Object scale on pc
 
-##### Object - Tv (≥ 1200px)
+##### Object - Tv (>= 1200px)
 
 - `.hover:tv:object-contain` - Object contain on hover on tv
 - `.hover:tv:object-cover` - Object cover on hover on tv
@@ -487,7 +487,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:object-none` - Object none on tv
 - `.tv:object-scale` - Object scale on tv
 
-##### Object - Tablet Max (≤ 768px)
+##### Object - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:object-contain` - Object contain on hover on tablet max
 - `.hover:tablet-max:object-cover` - Object cover on hover on tablet max
@@ -500,7 +500,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:object-none` - Object none on tablet max
 - `.tablet-max:object-scale` - Object scale on tablet max
 
-##### Object - Tablet Pc Max (≤ 992px)
+##### Object - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:object-contain` - Object contain on hover on tablet pc max
 - `.hover:tablet-pc-max:object-cover` - Object cover on hover on tablet pc max
@@ -513,7 +513,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:object-none` - Object none on tablet pc max
 - `.tablet-pc-max:object-scale` - Object scale on tablet pc max
 
-##### Object - Pc Max (≤ 1200px)
+##### Object - Pc Max (<= 1200px)
 
 - `.hover:pc-max:object-contain` - Object contain on hover on pc max
 - `.hover:pc-max:object-cover` - Object cover on hover on pc max
@@ -574,7 +574,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:flex-row` - Flex row on hover
 - `.hover:flex-wrap` - Flex wrap on hover
 
-##### Flex - Mobile (≤ 480px)
+##### Flex - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col` - Flex col on hover on mobile
 - `.hover:mobile:flex-nowrap` - Flex nowrap on hover on mobile
@@ -618,7 +618,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:flex-row` - Flex row on pc
 - `.pc:flex-wrap` - Flex wrap on pc
 
-##### Flex - Tv (≥ 1200px)
+##### Flex - Tv (>= 1200px)
 
 - `.hover:tv:flex-col` - Flex col on hover on tv
 - `.hover:tv:flex-nowrap` - Flex nowrap on hover on tv
@@ -629,7 +629,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:flex-row` - Flex row on tv
 - `.tv:flex-wrap` - Flex wrap on tv
 
-##### Flex - Tablet Max (≤ 768px)
+##### Flex - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col` - Flex col on hover on tablet max
 - `.hover:tablet-max:flex-nowrap` - Flex nowrap on hover on tablet max
@@ -640,7 +640,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:flex-row` - Flex row on tablet max
 - `.tablet-max:flex-wrap` - Flex wrap on tablet max
 
-##### Flex - Tablet Pc Max (≤ 992px)
+##### Flex - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col` - Flex col on hover on tablet pc max
 - `.hover:tablet-pc-max:flex-nowrap` - Flex nowrap on hover on tablet pc max
@@ -651,7 +651,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:flex-row` - Flex row on tablet pc max
 - `.tablet-pc-max:flex-wrap` - Flex wrap on tablet pc max
 
-##### Flex - Pc Max (≤ 1200px)
+##### Flex - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col` - Flex col on hover on pc max
 - `.hover:pc-max:flex-nowrap` - Flex nowrap on hover on pc max
@@ -667,7 +667,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.flex-col-reverse` - Flex col reverse
 - `.hover:flex-col-reverse` - Flex col reverse on hover
 
-##### Flex col - Mobile (≤ 480px)
+##### Flex col - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col-reverse` - Flex col reverse on hover on mobile
 - `.mobile:flex-col-reverse` - Flex col reverse on mobile
@@ -687,22 +687,22 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pc:flex-col-reverse` - Flex col reverse on hover on pc
 - `.pc:flex-col-reverse` - Flex col reverse on pc
 
-##### Flex col - Tv (≥ 1200px)
+##### Flex col - Tv (>= 1200px)
 
 - `.hover:tv:flex-col-reverse` - Flex col reverse on hover on tv
 - `.tv:flex-col-reverse` - Flex col reverse on tv
 
-##### Flex col - Tablet Max (≤ 768px)
+##### Flex col - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - Flex col reverse on hover on tablet max
 - `.tablet-max:flex-col-reverse` - Flex col reverse on tablet max
 
-##### Flex col - Tablet Pc Max (≤ 992px)
+##### Flex col - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - Flex col reverse on hover on tablet pc max
 - `.tablet-pc-max:flex-col-reverse` - Flex col reverse on tablet pc max
 
-##### Flex col - Pc Max (≤ 1200px)
+##### Flex col - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - Flex col reverse on hover on pc max
 - `.pc-max:flex-col-reverse` - Flex col reverse on pc max
@@ -712,7 +712,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.flex-row-reverse` - Flex row reverse
 - `.hover:flex-row-reverse` - Flex row reverse on hover
 
-##### Flex row - Mobile (≤ 480px)
+##### Flex row - Mobile (<= 480px)
 
 - `.hover:mobile:flex-row-reverse` - Flex row reverse on hover on mobile
 - `.mobile:flex-row-reverse` - Flex row reverse on mobile
@@ -732,22 +732,22 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pc:flex-row-reverse` - Flex row reverse on hover on pc
 - `.pc:flex-row-reverse` - Flex row reverse on pc
 
-##### Flex row - Tv (≥ 1200px)
+##### Flex row - Tv (>= 1200px)
 
 - `.hover:tv:flex-row-reverse` - Flex row reverse on hover on tv
 - `.tv:flex-row-reverse` - Flex row reverse on tv
 
-##### Flex row - Tablet Max (≤ 768px)
+##### Flex row - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - Flex row reverse on hover on tablet max
 - `.tablet-max:flex-row-reverse` - Flex row reverse on tablet max
 
-##### Flex row - Tablet Pc Max (≤ 992px)
+##### Flex row - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - Flex row reverse on hover on tablet pc max
 - `.tablet-pc-max:flex-row-reverse` - Flex row reverse on tablet pc max
 
-##### Flex row - Pc Max (≤ 1200px)
+##### Flex row - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - Flex row reverse on hover on pc max
 - `.pc-max:flex-row-reverse` - Flex row reverse on pc max
@@ -763,7 +763,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:flex-grow-1` - Flex grow 1 on hover
 - `.hover:flex-grow-0` - Flex grow 0 on hover
 
-##### Flex grow - Mobile (≤ 480px)
+##### Flex grow - Mobile (<= 480px)
 
 - `.hover:mobile:flex-grow-3` - Flex grow 3 on hover on mobile
 - `.hover:mobile:flex-grow-2` - Flex grow 2 on hover on mobile
@@ -807,7 +807,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:flex-grow-1` - Flex grow 1 on pc
 - `.pc:flex-grow-0` - Flex grow 0 on pc
 
-##### Flex grow - Tv (≥ 1200px)
+##### Flex grow - Tv (>= 1200px)
 
 - `.hover:tv:flex-grow-3` - Flex grow 3 on hover on tv
 - `.hover:tv:flex-grow-2` - Flex grow 2 on hover on tv
@@ -818,7 +818,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:flex-grow-1` - Flex grow 1 on tv
 - `.tv:flex-grow-0` - Flex grow 0 on tv
 
-##### Flex grow - Tablet Max (≤ 768px)
+##### Flex grow - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-grow-3` - Flex grow 3 on hover on tablet max
 - `.hover:tablet-max:flex-grow-2` - Flex grow 2 on hover on tablet max
@@ -829,7 +829,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:flex-grow-1` - Flex grow 1 on tablet max
 - `.tablet-max:flex-grow-0` - Flex grow 0 on tablet max
 
-##### Flex grow - Tablet Pc Max (≤ 992px)
+##### Flex grow - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-grow-3` - Flex grow 3 on hover on tablet pc max
 - `.hover:tablet-pc-max:flex-grow-2` - Flex grow 2 on hover on tablet pc max
@@ -840,7 +840,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:flex-grow-1` - Flex grow 1 on tablet pc max
 - `.tablet-pc-max:flex-grow-0` - Flex grow 0 on tablet pc max
 
-##### Flex grow - Pc Max (≤ 1200px)
+##### Flex grow - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-grow-3` - Flex grow 3 on hover on pc max
 - `.hover:pc-max:flex-grow-2` - Flex grow 2 on hover on pc max
@@ -856,7 +856,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.flex-wrap-reverse` - Flex wrap reverse
 - `.hover:flex-wrap-reverse` - Flex wrap reverse on hover
 
-##### Flex wrap - Mobile (≤ 480px)
+##### Flex wrap - Mobile (<= 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - Flex wrap reverse on hover on mobile
 - `.mobile:flex-wrap-reverse` - Flex wrap reverse on mobile
@@ -876,22 +876,22 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pc:flex-wrap-reverse` - Flex wrap reverse on hover on pc
 - `.pc:flex-wrap-reverse` - Flex wrap reverse on pc
 
-##### Flex wrap - Tv (≥ 1200px)
+##### Flex wrap - Tv (>= 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - Flex wrap reverse on hover on tv
 - `.tv:flex-wrap-reverse` - Flex wrap reverse on tv
 
-##### Flex wrap - Tablet Max (≤ 768px)
+##### Flex wrap - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - Flex wrap reverse on hover on tablet max
 - `.tablet-max:flex-wrap-reverse` - Flex wrap reverse on tablet max
 
-##### Flex wrap - Tablet Pc Max (≤ 992px)
+##### Flex wrap - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - Flex wrap reverse on hover on tablet pc max
 - `.tablet-pc-max:flex-wrap-reverse` - Flex wrap reverse on tablet pc max
 
-##### Flex wrap - Pc Max (≤ 1200px)
+##### Flex wrap - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - Flex wrap reverse on hover on pc max
 - `.pc-max:flex-wrap-reverse` - Flex wrap reverse on pc max
@@ -1086,7 +1086,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:align-content-start` - Align content start on hover
 - `.hover:align-content-stretch` - Align content stretch on hover
 
-##### Align content - Mobile (≤ 480px)
+##### Align content - Mobile (<= 480px)
 
 - `.hover:mobile:align-content-around` - Align content around on hover on mobile
 - `.hover:mobile:align-content-between` - Align content between on hover on mobile
@@ -1154,7 +1154,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:align-content-start` - Align content start on pc
 - `.pc:align-content-stretch` - Align content stretch on pc
 
-##### Align content - Tv (≥ 1200px)
+##### Align content - Tv (>= 1200px)
 
 - `.hover:tv:align-content-around` - Align content around on hover on tv
 - `.hover:tv:align-content-between` - Align content between on hover on tv
@@ -1171,7 +1171,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:align-content-start` - Align content start on tv
 - `.tv:align-content-stretch` - Align content stretch on tv
 
-##### Align content - Tablet Max (≤ 768px)
+##### Align content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-content-around` - Align content around on hover on tablet max
 - `.hover:tablet-max:align-content-between` - Align content between on hover on tablet max
@@ -1188,7 +1188,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:align-content-start` - Align content start on tablet max
 - `.tablet-max:align-content-stretch` - Align content stretch on tablet max
 
-##### Align content - Tablet Pc Max (≤ 992px)
+##### Align content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - Align content around on hover on tablet pc max
 - `.hover:tablet-pc-max:align-content-between` - Align content between on hover on tablet pc max
@@ -1205,7 +1205,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:align-content-start` - Align content start on tablet pc max
 - `.tablet-pc-max:align-content-stretch` - Align content stretch on tablet pc max
 
-##### Align content - Pc Max (≤ 1200px)
+##### Align content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-content-around` - Align content around on hover on pc max
 - `.hover:pc-max:align-content-between` - Align content between on hover on pc max
@@ -1233,7 +1233,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:align-items-start` - Align items start on hover
 - `.hover:align-items-stretch` - Align items stretch on hover
 
-##### Align items - Mobile (≤ 480px)
+##### Align items - Mobile (<= 480px)
 
 - `.hover:mobile:align-items-center` - Align items center on hover on mobile
 - `.hover:mobile:align-items-end` - Align items end on hover on mobile
@@ -1277,7 +1277,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:align-items-start` - Align items start on pc
 - `.pc:align-items-stretch` - Align items stretch on pc
 
-##### Align items - Tv (≥ 1200px)
+##### Align items - Tv (>= 1200px)
 
 - `.hover:tv:align-items-center` - Align items center on hover on tv
 - `.hover:tv:align-items-end` - Align items end on hover on tv
@@ -1288,7 +1288,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:align-items-start` - Align items start on tv
 - `.tv:align-items-stretch` - Align items stretch on tv
 
-##### Align items - Tablet Max (≤ 768px)
+##### Align items - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-items-center` - Align items center on hover on tablet max
 - `.hover:tablet-max:align-items-end` - Align items end on hover on tablet max
@@ -1299,7 +1299,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:align-items-start` - Align items start on tablet max
 - `.tablet-max:align-items-stretch` - Align items stretch on tablet max
 
-##### Align items - Tablet Pc Max (≤ 992px)
+##### Align items - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - Align items center on hover on tablet pc max
 - `.hover:tablet-pc-max:align-items-end` - Align items end on hover on tablet pc max
@@ -1310,7 +1310,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:align-items-start` - Align items start on tablet pc max
 - `.tablet-pc-max:align-items-stretch` - Align items stretch on tablet pc max
 
-##### Align items - Pc Max (≤ 1200px)
+##### Align items - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-items-center` - Align items center on hover on pc max
 - `.hover:pc-max:align-items-end` - Align items end on hover on pc max
@@ -1332,7 +1332,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:align-self-start` - Align self start on hover
 - `.hover:align-self-stretch` - Align self stretch on hover
 
-##### Align self - Mobile (≤ 480px)
+##### Align self - Mobile (<= 480px)
 
 - `.hover:mobile:align-self-center` - Align self center on hover on mobile
 - `.hover:mobile:align-self-end` - Align self end on hover on mobile
@@ -1376,7 +1376,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:align-self-start` - Align self start on pc
 - `.pc:align-self-stretch` - Align self stretch on pc
 
-##### Align self - Tv (≥ 1200px)
+##### Align self - Tv (>= 1200px)
 
 - `.hover:tv:align-self-center` - Align self center on hover on tv
 - `.hover:tv:align-self-end` - Align self end on hover on tv
@@ -1387,7 +1387,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:align-self-start` - Align self start on tv
 - `.tv:align-self-stretch` - Align self stretch on tv
 
-##### Align self - Tablet Max (≤ 768px)
+##### Align self - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-self-center` - Align self center on hover on tablet max
 - `.hover:tablet-max:align-self-end` - Align self end on hover on tablet max
@@ -1398,7 +1398,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:align-self-start` - Align self start on tablet max
 - `.tablet-max:align-self-stretch` - Align self stretch on tablet max
 
-##### Align self - Tablet Pc Max (≤ 992px)
+##### Align self - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - Align self center on hover on tablet pc max
 - `.hover:tablet-pc-max:align-self-end` - Align self end on hover on tablet pc max
@@ -1409,7 +1409,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:align-self-start` - Align self start on tablet pc max
 - `.tablet-pc-max:align-self-stretch` - Align self stretch on tablet pc max
 
-##### Align self - Pc Max (≤ 1200px)
+##### Align self - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-self-center` - Align self center on hover on pc max
 - `.hover:pc-max:align-self-end` - Align self end on hover on pc max
@@ -1437,7 +1437,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.justify-content-start` - Justify content start
 - `.justify-content-stretch` - Justify content stretch
 
-##### Justify content - Mobile (≤ 480px)
+##### Justify content - Mobile (<= 480px)
 
 - `.hover:mobile:justify-content-around` - Justify content around on hover on mobile
 - `.hover:mobile:justify-content-between` - Justify content between on hover on mobile
@@ -1489,7 +1489,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:justify-content-end` - Justify content end on pc
 - `.pc:justify-content-start` - Justify content start on pc
 
-##### Justify content - Tv (≥ 1200px)
+##### Justify content - Tv (>= 1200px)
 
 - `.hover:tv:justify-content-around` - Justify content around on hover on tv
 - `.hover:tv:justify-content-between` - Justify content between on hover on tv
@@ -1502,7 +1502,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:justify-content-end` - Justify content end on tv
 - `.tv:justify-content-start` - Justify content start on tv
 
-##### Justify content - Tablet Max (≤ 768px)
+##### Justify content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:justify-content-around` - Justify content around on hover on tablet max
 - `.hover:tablet-max:justify-content-between` - Justify content between on hover on tablet max
@@ -1515,7 +1515,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:justify-content-end` - Justify content end on tablet max
 - `.tablet-max:justify-content-start` - Justify content start on tablet max
 
-##### Justify content - Tablet Pc Max (≤ 992px)
+##### Justify content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - Justify content around on hover on tablet pc max
 - `.hover:tablet-pc-max:justify-content-between` - Justify content between on hover on tablet pc max
@@ -1528,7 +1528,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:justify-content-end` - Justify content end on tablet pc max
 - `.tablet-pc-max:justify-content-start` - Justify content start on tablet pc max
 
-##### Justify content - Pc Max (≤ 1200px)
+##### Justify content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:justify-content-around` - Justify content around on hover on pc max
 - `.hover:pc-max:justify-content-between` - Justify content between on hover on pc max
@@ -1584,7 +1584,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:-order-2` - Negative Order 2 on hover
 - `.hover:-order-1` - Negative Order 1 on hover
 
-##### Order - Mobile (≤ 480px)
+##### Order - Mobile (<= 480px)
 
 - `.hover:mobile:order-5` - Order 5 on hover on mobile
 - `.hover:mobile:order-4` - Order 4 on hover on mobile
@@ -1603,7 +1603,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.mobile:order-first` - Order first on mobile
 - `.mobile:order-last` - Order last on mobile
 
-##### Negative Order - Mobile (≤ 480px)
+##### Negative Order - Mobile (<= 480px)
 
 - `.hover:mobile:-order-5` - Negative Order 5 on hover on mobile
 - `.hover:mobile:-order-4` - Negative Order 4 on hover on mobile
@@ -1712,7 +1712,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:-order-2` - Negative Order 2 on pc
 - `.pc:-order-1` - Negative Order 1 on pc
 
-##### Order - Tv (≥ 1200px)
+##### Order - Tv (>= 1200px)
 
 - `.hover:tv:order-5` - Order 5 on hover on tv
 - `.hover:tv:order-4` - Order 4 on hover on tv
@@ -1731,7 +1731,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:order-first` - Order first on tv
 - `.tv:order-last` - Order last on tv
 
-##### Negative Order - Tv (≥ 1200px)
+##### Negative Order - Tv (>= 1200px)
 
 - `.hover:tv:-order-5` - Negative Order 5 on hover on tv
 - `.hover:tv:-order-4` - Negative Order 4 on hover on tv
@@ -1744,7 +1744,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:-order-2` - Negative Order 2 on tv
 - `.tv:-order-1` - Negative Order 1 on tv
 
-##### Order - Tablet Max (≤ 768px)
+##### Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:order-5` - Order 5 on hover on tablet max
 - `.hover:tablet-max:order-4` - Order 4 on hover on tablet max
@@ -1763,7 +1763,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:order-first` - Order first on tablet max
 - `.tablet-max:order-last` - Order last on tablet max
 
-##### Negative Order - Tablet Max (≤ 768px)
+##### Negative Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:-order-5` - Negative Order 5 on hover on tablet max
 - `.hover:tablet-max:-order-4` - Negative Order 4 on hover on tablet max
@@ -1776,7 +1776,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:-order-2` - Negative Order 2 on tablet max
 - `.tablet-max:-order-1` - Negative Order 1 on tablet max
 
-##### Order - Tablet Pc Max (≤ 992px)
+##### Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:order-5` - Order 5 on hover on tablet pc max
 - `.hover:tablet-pc-max:order-4` - Order 4 on hover on tablet pc max
@@ -1795,7 +1795,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:order-first` - Order first on tablet pc max
 - `.tablet-pc-max:order-last` - Order last on tablet pc max
 
-##### Negative Order - Tablet Pc Max (≤ 992px)
+##### Negative Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:-order-5` - Negative Order 5 on hover on tablet pc max
 - `.hover:tablet-pc-max:-order-4` - Negative Order 4 on hover on tablet pc max
@@ -1808,7 +1808,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:-order-2` - Negative Order 2 on tablet pc max
 - `.tablet-pc-max:-order-1` - Negative Order 1 on tablet pc max
 
-##### Order - Pc Max (≤ 1200px)
+##### Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:order-5` - Order 5 on hover on pc max
 - `.hover:pc-max:order-4` - Order 4 on hover on pc max
@@ -1827,7 +1827,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc-max:order-first` - Order first on pc max
 - `.pc-max:order-last` - Order last on pc max
 
-##### Negative Order - Pc Max (≤ 1200px)
+##### Negative Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:-order-5` - Negative Order 5 on hover on pc max
 - `.hover:pc-max:-order-4` - Negative Order 4 on hover on pc max
@@ -2839,7 +2839,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.w-5` - Width 5%
 - `.w-auto` - Width auto%
 
-##### Width - Mobile (≤ 480px)
+##### Width - Mobile (<= 480px)
 
 - `.hover:mobile:w-100` - Width 100% on hover on mobile
 - `.hover:mobile:w-95` - Width 95% on hover on mobile
@@ -3019,7 +3019,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:w-5` - Width 5% on pc
 - `.pc:w-auto` - Width auto% on pc
 
-##### Width - Tv (≥ 1200px)
+##### Width - Tv (>= 1200px)
 
 - `.hover:tv:w-100` - Width 100% on hover on tv
 - `.hover:tv:w-95` - Width 95% on hover on tv
@@ -3064,7 +3064,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:w-5` - Width 5% on tv
 - `.tv:w-auto` - Width auto% on tv
 
-##### Width - Tablet Max (≤ 768px)
+##### Width - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:w-100` - Width 100% on hover on tablet max
 - `.hover:tablet-max:w-95` - Width 95% on hover on tablet max
@@ -3109,7 +3109,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:w-5` - Width 5% on tablet max
 - `.tablet-max:w-auto` - Width auto% on tablet max
 
-##### Width - Tablet Pc Max (≤ 992px)
+##### Width - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:w-100` - Width 100% on hover on tablet pc max
 - `.hover:tablet-pc-max:w-95` - Width 95% on hover on tablet pc max
@@ -3154,7 +3154,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:w-5` - Width 5% on tablet pc max
 - `.tablet-pc-max:w-auto` - Width auto% on tablet pc max
 
-##### Width - Pc Max (≤ 1200px)
+##### Width - Pc Max (<= 1200px)
 
 - `.hover:pc-max:w-100` - Width 100% on hover on pc max
 - `.hover:pc-max:w-95` - Width 95% on hover on pc max
@@ -3266,7 +3266,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:h-5` - Height 5% on hover
 - `.hover:h-auto` - Height auto% on hover
 
-##### Height - Mobile (≤ 480px)
+##### Height - Mobile (<= 480px)
 
 - `.hover:mobile:h-100` - Height 100% on hover on mobile
 - `.hover:mobile:h-95` - Height 95% on hover on mobile
@@ -3445,7 +3445,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:h-5` - Height 5% on pc
 - `.pc:h-auto` - Height auto% on pc
 
-##### Height - Tv (≥ 1200px)
+##### Height - Tv (>= 1200px)
 
 - `.hover:tv:h-100` - Height 100% on hover on tv
 - `.hover:tv:h-95` - Height 95% on hover on tv
@@ -3490,7 +3490,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:h-5` - Height 5% on tv
 - `.tv:h-auto` - Height auto% on tv
 
-##### Height - Tablet Max (≤ 768px)
+##### Height - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:h-100` - Height 100% on hover on tablet max
 - `.hover:tablet-max:h-95` - Height 95% on hover on tablet max
@@ -3535,7 +3535,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:h-5` - Height 5% on tablet max
 - `.tablet-max:h-auto` - Height auto% on tablet max
 
-##### Height - Tablet Pc Max (≤ 992px)
+##### Height - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:h-100` - Height 100% on hover on tablet pc max
 - `.hover:tablet-pc-max:h-95` - Height 95% on hover on tablet pc max
@@ -3580,7 +3580,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:h-5` - Height 5% on tablet pc max
 - `.tablet-pc-max:h-auto` - Height auto% on tablet pc max
 
-##### Height - Pc Max (≤ 1200px)
+##### Height - Pc Max (<= 1200px)
 
 - `.hover:pc-max:h-100` - Height 100% on hover on pc max
 - `.hover:pc-max:h-95` - Height 95% on hover on pc max
@@ -4356,7 +4356,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.text-transparent` - Text transparent
 - `.text-uppercase` - Text uppercase
 
-##### Text - Mobile (≤ 480px)
+##### Text - Mobile (<= 480px)
 
 - `.hover:mobile:text-center` - Text center on hover on mobile
 - `.hover:mobile:text-end` - Text end on hover on mobile
@@ -4416,7 +4416,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:text-right` - Text right on pc
 - `.pc:text-start` - Text start on pc
 
-##### Text - Tv (≥ 1200px)
+##### Text - Tv (>= 1200px)
 
 - `.hover:tv:text-center` - Text center on hover on tv
 - `.hover:tv:text-end` - Text end on hover on tv
@@ -4431,7 +4431,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tv:text-right` - Text right on tv
 - `.tv:text-start` - Text start on tv
 
-##### Text - Tablet Max (≤ 768px)
+##### Text - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:text-center` - Text center on hover on tablet max
 - `.hover:tablet-max:text-end` - Text end on hover on tablet max
@@ -4446,7 +4446,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-max:text-right` - Text right on tablet max
 - `.tablet-max:text-start` - Text start on tablet max
 
-##### Text - Tablet Pc Max (≤ 992px)
+##### Text - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:text-center` - Text center on hover on tablet pc max
 - `.hover:tablet-pc-max:text-end` - Text end on hover on tablet pc max
@@ -4461,7 +4461,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.tablet-pc-max:text-right` - Text right on tablet pc max
 - `.tablet-pc-max:text-start` - Text start on tablet pc max
 
-##### Text - Pc Max (≤ 1200px)
+##### Text - Pc Max (<= 1200px)
 
 - `.hover:pc-max:text-center` - Text center on hover on pc max
 - `.hover:pc-max:text-end` - Text end on hover on pc max
@@ -5392,7 +5392,7 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.v-hide` - Visibility hidden
 - `.v-show` - Visibility visible
 
-##### Visibility - Mobile (≤ 480px)
+##### Visibility - Mobile (<= 480px)
 
 - `.hover:mobile:v-hide` - Visibility hidden on hover on mobile
 - `.hover:mobile:v-show` - Visibility visible on hover on mobile
@@ -5420,28 +5420,28 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pc:v-hide` - Visibility hidden on pc
 - `.pc:v-show` - Visibility visible on pc
 
-##### Visibility - Tv (≥ 1200px)
+##### Visibility - Tv (>= 1200px)
 
 - `.hover:tv:v-hide` - Visibility hidden on hover on tv
 - `.hover:tv:v-show` - Visibility visible on hover on tv
 - `.tv:v-hide` - Visibility hidden on tv
 - `.tv:v-show` - Visibility visible on tv
 
-##### Visibility - Tablet Max (≤ 768px)
+##### Visibility - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:v-hide` - Visibility hidden on hover on tablet max
 - `.hover:tablet-max:v-show` - Visibility visible on hover on tablet max
 - `.tablet-max:v-hide` - Visibility hidden on tablet max
 - `.tablet-max:v-show` - Visibility visible on tablet max
 
-##### Visibility - Tablet Pc Max (≤ 992px)
+##### Visibility - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:v-hide` - Visibility hidden on hover on tablet pc max
 - `.hover:tablet-pc-max:v-show` - Visibility visible on hover on tablet pc max
 - `.tablet-pc-max:v-hide` - Visibility hidden on tablet pc max
 - `.tablet-pc-max:v-show` - Visibility visible on tablet pc max
 
-##### Visibility - Pc Max (≤ 1200px)
+##### Visibility - Pc Max (<= 1200px)
 
 - `.hover:pc-max:v-hide` - Visibility hidden on hover on pc max
 - `.hover:pc-max:v-show` - Visibility visible on hover on pc max

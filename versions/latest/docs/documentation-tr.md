@@ -156,7 +156,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:d-inline-flex` - Fareyle üzerine gelindiğinde satır içi esnekliği görüntüle
 - `.hover:d-none` - Fareyle üzerine gelindiğinde hiçbirini gösterme
 
-##### Display - Mobile (≤ 480px)
+##### Display - Mobile (<= 480px)
 
 - `.hover:mobile:d-block` - Mobil cihazda fareyle üzerine gelindiğinde bloğu görüntüleme
 - `.hover:mobile:d-flex` - Mobil cihazda fareyle üzerine gelindiğinde esnekliği görüntüleyin
@@ -224,7 +224,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:d-inline-grid` - PC'de satır içi ızgarayı görüntüle
 - `.pc:d-none` - PC'de hiçbirini gösterme
 
-##### Display - Tv (≥ 1200px)
+##### Display - Tv (>= 1200px)
 
 - `.hover:tv:d-block` - TV'de fareyle üzerine gelindiğinde görüntüleme bloğu
 - `.hover:tv:d-flex` - TV'de fareyle üzerine gelindiğinde esnekliği görüntüleyin
@@ -241,7 +241,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:d-inline-grid` - Satır içi ızgarayı TV'de görüntüle
 - `.tv:d-none` - Hiçbirini televizyonda gösterme
 
-##### Display - Tablet Max (≤ 768px)
+##### Display - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:d-block` - Tablet max üzerinde fareyle üzerine gelindiğinde görüntüleme bloğu
 - `.hover:tablet-max:d-flex` - Maksimum tablette fareyle üzerine gelindiğinde esnekliği görüntüleyin
@@ -258,7 +258,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:d-inline-grid` - Tablet max'te satır içi ızgarayı görüntüle
 - `.tablet-max:d-none` - Tablet max'ta hiçbirini gösterme
 
-##### Display - Tablet Pc Max (≤ 992px)
+##### Display - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:d-block` - Tablet pc max'ta fareyle üzerine gelindiğinde görüntüleme bloğu
 - `.hover:tablet-pc-max:d-flex` - Tablet PC max'ta fareyle üzerine gelindiğinde ekran esnekliği
@@ -275,7 +275,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:d-inline-grid` - Tablet PC'de satır içi ızgarayı görüntüleme max
 - `.tablet-pc-max:d-none` - Tablet PC max'ta hiçbiri görüntülenmiyor
 
-##### Display - Pc Max (≤ 1200px)
+##### Display - Pc Max (<= 1200px)
 
 - `.hover:pc-max:d-block` - PC max'ta fareyle üzerine gelindiğinde görüntüleme bloğu
 - `.hover:pc-max:d-flex` - PC max'ta fareyle üzerine gelindiğinde ekran esnekliği
@@ -305,7 +305,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:float-right` - Fareyle üzerine gelindiğinde float sağ
 - `.hover:float-start` - Fareyle üzerine gelindiğinde float başlangıç
 
-##### Float - Mobile (≤ 480px)
+##### Float - Mobile (<= 480px)
 
 - `.hover:mobile:float-end` - Mobil cihazda fareyle üzerine gelindiğinde float bitiş
 - `.hover:mobile:float-left` - Mobil cihazda fareyle üzerine gelindiğinde float sol
@@ -357,7 +357,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:float-right` - PC'de float sağ
 - `.pc:float-start` - PC'de float başlangıç
 
-##### Float - Tv (≥ 1200px)
+##### Float - Tv (>= 1200px)
 
 - `.hover:tv:float-end` - TV'de fareyle üzerine gelindiğinde float bitiş
 - `.hover:tv:float-left` - TV'de fareyle üzerine gelindiğinde float sol
@@ -370,7 +370,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:float-right` - TV'de float sağ
 - `.tv:float-start` - TV'de float başlangıç
 
-##### Float - Tablet Max (≤ 768px)
+##### Float - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:float-end` - Tablette (maks.) fareyle üzerine gelindiğinde float bitiş
 - `.hover:tablet-max:float-left` - Tablette (maks.) fareyle üzerine gelindiğinde float sol
@@ -383,7 +383,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:float-right` - Tablette (maks.) float sağ
 - `.tablet-max:float-start` - Tablette (maks.) float başlangıç
 
-##### Float - Tablet Pc Max (≤ 992px)
+##### Float - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:float-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde float bitiş
 - `.hover:tablet-pc-max:float-left` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde float sol
@@ -396,7 +396,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:float-right` - Tablet bilgisayarda (maks.) float sağ
 - `.tablet-pc-max:float-start` - Tablet bilgisayarda (maks.) float başlangıç
 
-##### Float - Pc Max (≤ 1200px)
+##### Float - Pc Max (<= 1200px)
 
 - `.hover:pc-max:float-end` - PC'de (maks.) fareyle üzerine gelindiğinde float bitiş
 - `.hover:pc-max:float-left` - PC'de (maks.) fareyle üzerine gelindiğinde float sol
@@ -422,7 +422,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.object-none` - nesne yok
 - `.object-scale` - Nesne ölçeği
 
-##### Object - Mobile (≤ 480px)
+##### Object - Mobile (<= 480px)
 
 - `.hover:mobile:object-contain` - Mobil cihazda fareyle üzerine gelindiğinde nesne içeriyor
 - `.hover:mobile:object-cover` - Mobil cihazda fareyle üzerine gelindiğinde nesne kapağı
@@ -474,7 +474,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:object-none` - PC'de nesne yok
 - `.pc:object-scale` - PC'de nesne ölçeği
 
-##### Object - Tv (≥ 1200px)
+##### Object - Tv (>= 1200px)
 
 - `.hover:tv:object-contain` - Televizyonun üzerine gelindiğinde nesne içeriyor
 - `.hover:tv:object-cover` - Televizyonda fareyle üzerine gelindiğinde nesne kapağı
@@ -487,7 +487,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:object-none` - Televizyonda nesne yok
 - `.tv:object-scale` - Televizyonda nesne ölçeği
 
-##### Object - Tablet Max (≤ 768px)
+##### Object - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:object-contain` - Tablet max üzerinde fareyle üzerine gelindiğinde nesne içeriyor
 - `.hover:tablet-max:object-cover` - Tablet max üzerinde fareyle üzerine gelindiğinde nesne kapağı
@@ -500,7 +500,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:object-none` - Tablet max'ta hiçbirine itiraz etme
 - `.tablet-max:object-scale` - Tablet max'ta nesne ölçeği
 
-##### Object - Tablet Pc Max (≤ 992px)
+##### Object - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:object-contain` - Tablet PC max üzerinde fareyle üzerine gelindiğinde nesne içeriyor
 - `.hover:tablet-pc-max:object-cover` - Tablet PC max üzerinde fareyle üzerine gelindiğinde nesne kapağı
@@ -513,7 +513,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:object-none` - Tablet pc max'ta nesne yok
 - `.tablet-pc-max:object-scale` - Tablet PC Max'te nesne ölçeği
 
-##### Object - Pc Max (≤ 1200px)
+##### Object - Pc Max (<= 1200px)
 
 - `.hover:pc-max:object-contain` - Nesne, pc max'ta fareyle üzerine gelindiğinde içeriyor
 - `.hover:pc-max:object-cover` - PC max'ta fareyle üzerine gelindiğinde nesne kapağı
@@ -574,7 +574,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:flex-row` - Fareyle üzerine gelindiğinde satırı esnekleştirin
 - `.hover:flex-wrap` - Fareyle üzerine gelindiğinde esnek sarma
 
-##### Flex - Mobile (≤ 480px)
+##### Flex - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col` - Mobil cihazda fareyle üzerine gelindiğinde Flex Col
 - `.hover:mobile:flex-nowrap` - Mobil cihazda fareyle üzerine gelindiğinde Nowrap'i esnekleştirin
@@ -618,7 +618,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:flex-row` - PC'de esnek satır
 - `.pc:flex-wrap` - PC'de Flex Wrap
 
-##### Flex - Tv (≥ 1200px)
+##### Flex - Tv (>= 1200px)
 
 - `.hover:tv:flex-col` - Televizyonun üzerine gelindiğinde Flex Col
 - `.hover:tv:flex-nowrap` - Televizyonun üzerine gelindiğinde Nowrap'i esnekleştirin
@@ -629,7 +629,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:flex-row` - Televizyonda esnek satır
 - `.tv:flex-wrap` - Televizyonda Flex Wrap
 
-##### Flex - Tablet Max (≤ 768px)
+##### Flex - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col` - Maksimum tabletin üzerinde fareyle üzerine gelindiğinde Flex Col
 - `.hover:tablet-max:flex-nowrap` - Maksimum tabletin üzerine gelindiğinde Nowrap'i esnekleştirin
@@ -640,7 +640,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:flex-row` - Maksimum tablette esnek satır
 - `.tablet-max:flex-wrap` - Maksimum tablette esnek sarma
 
-##### Flex - Tablet Pc Max (≤ 992px)
+##### Flex - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col` - Tablet PC max üzerinde fareyle üzerine gelindiğinde Flex Col
 - `.hover:tablet-pc-max:flex-nowrap` - Tablet PC max üzerinde fareyle üzerine gelindiğinde Flex nowrap
@@ -651,7 +651,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:flex-row` - Tablet PC'de Flex satır max
 - `.tablet-pc-max:flex-wrap` - Tablet PC'de Flex Wrap Max
 
-##### Flex - Pc Max (≤ 1200px)
+##### Flex - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col` - PC max üzerinde fareyle üzerine gelindiğinde Flex Col
 - `.hover:pc-max:flex-nowrap` - PC max'ta fareyle üzerine gelindiğinde esnek nowrap
@@ -667,7 +667,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.flex-col-reverse` - Esnek sütun ters
 - `.hover:flex-col-reverse` - Fareyle üzerine gelindiğinde sütunu ters çevirin
 
-##### Flex col - Mobile (≤ 480px)
+##### Flex col - Mobile (<= 480px)
 
 - `.hover:mobile:flex-col-reverse` - Mobil cihazda fareyle üzerine gelindiğinde Flex Col ters çevirin
 - `.mobile:flex-col-reverse` - Mobil cihazda Flex Col ters
@@ -687,22 +687,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pc:flex-col-reverse` - PC'de fareyle üzerine gelindiğinde Flex Col ters
 - `.pc:flex-col-reverse` - PC'de Flex Col ters
 
-##### Flex col - Tv (≥ 1200px)
+##### Flex col - Tv (>= 1200px)
 
 - `.hover:tv:flex-col-reverse` - Televizyonda fareyle üzerine gelindiğinde Flex Col ters
 - `.tv:flex-col-reverse` - Televizyonda Flex col ters
 
-##### Flex col - Tablet Max (≤ 768px)
+##### Flex col - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-col-reverse` - Tablet max üzerinde fareyle üzerine gelindiğinde Flex Col ters
 - `.tablet-max:flex-col-reverse` - Tablet max'ta Flex col ters
 
-##### Flex col - Tablet Pc Max (≤ 992px)
+##### Flex col - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-col-reverse` - Tablet PC max'ta fareyle üzerine gelindiğinde Flex col ters çevirin
 - `.tablet-pc-max:flex-col-reverse` - Tablet pc max'ta Flex col ters
 
-##### Flex col - Pc Max (≤ 1200px)
+##### Flex col - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-col-reverse` - PC max üzerinde fareyle üzerine gelindiğinde Flex Col ters
 - `.pc-max:flex-col-reverse` - PC max'ta Flex col ters
@@ -712,7 +712,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.flex-row-reverse` - Esnek sıra ters
 - `.hover:flex-row-reverse` - Fareyle üzerine gelindiğinde satırı ters yönde esnetin
 
-##### Flex row - Mobile (≤ 480px)
+##### Flex row - Mobile (<= 480px)
 
 - `.hover:mobile:flex-row-reverse` - Mobil cihazda fareyle üzerine gelindiğinde satırı ters yönde esnetin
 - `.mobile:flex-row-reverse` - Mobil cihazda sırayı tersine çevirme
@@ -732,22 +732,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pc:flex-row-reverse` - PC'de fareyle üzerine gelindiğinde sırayı tersine çevir
 - `.pc:flex-row-reverse` - PC'de esnek sıra ters
 
-##### Flex row - Tv (≥ 1200px)
+##### Flex row - Tv (>= 1200px)
 
 - `.hover:tv:flex-row-reverse` - TV'de fareyle üzerine gelindiğinde satırı ters çevir
 - `.tv:flex-row-reverse` - Televizyonda esnek satır ters
 
-##### Flex row - Tablet Max (≤ 768px)
+##### Flex row - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-row-reverse` - Maksimum tablette fareyle üzerine gelindiğinde satırı ters yönde esnetin
 - `.tablet-max:flex-row-reverse` - Tablet max'ta esnek sıra ters
 
-##### Flex row - Tablet Pc Max (≤ 992px)
+##### Flex row - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-row-reverse` - Tablet PC max'ta fareyle üzerine gelindiğinde esnek sıra ters
 - `.tablet-pc-max:flex-row-reverse` - Tablet pc max'ta esnek sıra ters
 
-##### Flex row - Pc Max (≤ 1200px)
+##### Flex row - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-row-reverse` - PC max'ta fareyle üzerine gelindiğinde esnek sıra ters
 - `.pc-max:flex-row-reverse` - PC max'ta esnek sıra ters
@@ -763,7 +763,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:flex-grow-1` - Flex fareyle üzerine gelindiğinde 1 büyür
 - `.hover:flex-grow-0` - Flex fareyle üzerine gelindiğinde 0 büyür
 
-##### Flex grow - Mobile (≤ 480px)
+##### Flex grow - Mobile (<= 480px)
 
 - `.hover:mobile:flex-grow-3` - Flex, mobil cihazda fareyle üzerine gelindiğinde 3 büyütür
 - `.hover:mobile:flex-grow-2` - Flex, mobil cihazda fareyle üzerine gelindiğinde 2 büyütür
@@ -807,7 +807,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:flex-grow-1` - Flex PC'de 1 büyütüyor
 - `.pc:flex-grow-0` - Flex PC'de 0 büyütün
 
-##### Flex grow - Tv (≥ 1200px)
+##### Flex grow - Tv (>= 1200px)
 
 - `.hover:tv:flex-grow-3` - Flex, televizyonda fareyle üzerine gelindiğinde 3 büyütüyor
 - `.hover:tv:flex-grow-2` - Flex, televizyonda fareyle üzerine gelindiğinde 2 büyütüyor
@@ -818,7 +818,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:flex-grow-1` - Flex televizyonda 1 büyütüyor
 - `.tv:flex-grow-0` - Flex televizyonda 0 büyütüyor
 
-##### Flex grow - Tablet Max (≤ 768px)
+##### Flex grow - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-grow-3` - Flex, tablet max üzerinde fareyle üzerine gelindiğinde 3 büyür
 - `.hover:tablet-max:flex-grow-2` - Flex, tablet max üzerinde fareyle üzerine gelindiğinde 2 büyür
@@ -829,7 +829,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:flex-grow-1` - Flex tablette maksimum 1 büyütün
 - `.tablet-max:flex-grow-0` - Flex tablet max'ta 0 büyütün
 
-##### Flex grow - Tablet Pc Max (≤ 992px)
+##### Flex grow - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-grow-3` - Flex, tablet PC max üzerinde fareyle üzerine gelindiğinde 3 büyütür
 - `.hover:tablet-pc-max:flex-grow-2` - Flex, tablet PC max üzerinde fareyle üzerine gelindiğinde 2 büyütür
@@ -840,7 +840,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:flex-grow-1` - Flex tablet pc max'ta 1 büyütün
 - `.tablet-pc-max:flex-grow-0` - Flex tablet pc max'ta 0 büyütün
 
-##### Flex grow - Pc Max (≤ 1200px)
+##### Flex grow - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-grow-3` - Flex, PC max'ta fareyle üzerine gelindiğinde 3 büyütür
 - `.hover:pc-max:flex-grow-2` - Flex, PC max'ta fareyle üzerine gelindiğinde 2 büyütür
@@ -856,7 +856,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.flex-wrap-reverse` - Flex sarma ters
 - `.hover:flex-wrap-reverse` - Fareyle üzerine gelindiğinde ters yönde esnek sarma
 
-##### Flex wrap - Mobile (≤ 480px)
+##### Flex wrap - Mobile (<= 480px)
 
 - `.hover:mobile:flex-wrap-reverse` - Mobil cihazda fareyle üzerine gelindiğinde esnek sarma ters
 - `.mobile:flex-wrap-reverse` - Mobil cihazda esnek sarma ters
@@ -876,22 +876,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pc:flex-wrap-reverse` - PC'de fareyle üzerine gelindiğinde esnek sarma ters
 - `.pc:flex-wrap-reverse` - PC'de esnek sarma ters
 
-##### Flex wrap - Tv (≥ 1200px)
+##### Flex wrap - Tv (>= 1200px)
 
 - `.hover:tv:flex-wrap-reverse` - Televizyonda fareyle üzerine gelindiğinde ters sarma
 - `.tv:flex-wrap-reverse` - Televizyonda ters sarma
 
-##### Flex wrap - Tablet Max (≤ 768px)
+##### Flex wrap - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:flex-wrap-reverse` - Tablet max'te fareyle üzerine gelindiğinde ters yönde esnek sarma
 - `.tablet-max:flex-wrap-reverse` - Tablet max'ta ters yönde esnek sarma
 
-##### Flex wrap - Tablet Pc Max (≤ 992px)
+##### Flex wrap - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:flex-wrap-reverse` - Tablet PC max'ta fareyle üzerine gelindiğinde ters sarma
 - `.tablet-pc-max:flex-wrap-reverse` - Tablet PC Max'te Flex Wrap ters
 
-##### Flex wrap - Pc Max (≤ 1200px)
+##### Flex wrap - Pc Max (<= 1200px)
 
 - `.hover:pc-max:flex-wrap-reverse` - PC max'ta fareyle üzerine gelindiğinde ters yönde esnek sarma
 - `.pc-max:flex-wrap-reverse` - PC max'ta esnek sarma ters
@@ -1086,7 +1086,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:align-content-start` - Fareyle üzerine gelindiğinde içerik hizalama: başlangıç
 - `.hover:align-content-stretch` - Fareyle üzerine gelindiğinde içerik hizalama: stretch
 
-##### Align content - Mobile (≤ 480px)
+##### Align content - Mobile (<= 480px)
 
 - `.hover:mobile:align-content-around` - Mobil cihazda fareyle üzerine gelindiğinde içerik hizalama: around
 - `.hover:mobile:align-content-between` - Mobil cihazda fareyle üzerine gelindiğinde içerik hizalama: between
@@ -1154,7 +1154,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:align-content-start` - PC'de içerik hizalama: başlangıç
 - `.pc:align-content-stretch` - PC'de içerik hizalama: stretch
 
-##### Align content - Tv (≥ 1200px)
+##### Align content - Tv (>= 1200px)
 
 - `.hover:tv:align-content-around` - TV'de fareyle üzerine gelindiğinde içerik hizalama: around
 - `.hover:tv:align-content-between` - TV'de fareyle üzerine gelindiğinde içerik hizalama: between
@@ -1171,7 +1171,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:align-content-start` - TV'de içerik hizalama: başlangıç
 - `.tv:align-content-stretch` - TV'de içerik hizalama: stretch
 
-##### Align content - Tablet Max (≤ 768px)
+##### Align content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-content-around` - Tablette (maks.) fareyle üzerine gelindiğinde içerik hizalama: around
 - `.hover:tablet-max:align-content-between` - Tablette (maks.) fareyle üzerine gelindiğinde içerik hizalama: between
@@ -1188,7 +1188,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:align-content-start` - Tablette (maks.) içerik hizalama: başlangıç
 - `.tablet-max:align-content-stretch` - Tablette (maks.) içerik hizalama: stretch
 
-##### Align content - Tablet Pc Max (≤ 992px)
+##### Align content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-content-around` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik hizalama: around
 - `.hover:tablet-pc-max:align-content-between` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik hizalama: between
@@ -1205,7 +1205,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:align-content-start` - Tablet bilgisayarda (maks.) içerik hizalama: başlangıç
 - `.tablet-pc-max:align-content-stretch` - Tablet bilgisayarda (maks.) içerik hizalama: stretch
 
-##### Align content - Pc Max (≤ 1200px)
+##### Align content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-content-around` - PC'de (maks.) fareyle üzerine gelindiğinde içerik hizalama: around
 - `.hover:pc-max:align-content-between` - PC'de (maks.) fareyle üzerine gelindiğinde içerik hizalama: between
@@ -1233,7 +1233,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:align-items-start` - Fareyle üzerine gelindiğinde öğe hizalama: başlangıç
 - `.hover:align-items-stretch` - Fareyle üzerine gelindiğinde öğe hizalama: stretch
 
-##### Align items - Mobile (≤ 480px)
+##### Align items - Mobile (<= 480px)
 
 - `.hover:mobile:align-items-center` - Mobil cihazda fareyle üzerine gelindiğinde öğe hizalama: orta
 - `.hover:mobile:align-items-end` - Mobil cihazda fareyle üzerine gelindiğinde öğe hizalama: bitiş
@@ -1277,7 +1277,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:align-items-start` - PC'de öğe hizalama: başlangıç
 - `.pc:align-items-stretch` - PC'de öğe hizalama: stretch
 
-##### Align items - Tv (≥ 1200px)
+##### Align items - Tv (>= 1200px)
 
 - `.hover:tv:align-items-center` - TV'de fareyle üzerine gelindiğinde öğe hizalama: orta
 - `.hover:tv:align-items-end` - TV'de fareyle üzerine gelindiğinde öğe hizalama: bitiş
@@ -1288,7 +1288,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:align-items-start` - TV'de öğe hizalama: başlangıç
 - `.tv:align-items-stretch` - TV'de öğe hizalama: stretch
 
-##### Align items - Tablet Max (≤ 768px)
+##### Align items - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-items-center` - Tablette (maks.) fareyle üzerine gelindiğinde öğe hizalama: orta
 - `.hover:tablet-max:align-items-end` - Tablette (maks.) fareyle üzerine gelindiğinde öğe hizalama: bitiş
@@ -1299,7 +1299,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:align-items-start` - Tablette (maks.) öğe hizalama: başlangıç
 - `.tablet-max:align-items-stretch` - Tablette (maks.) öğe hizalama: stretch
 
-##### Align items - Tablet Pc Max (≤ 992px)
+##### Align items - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-items-center` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğe hizalama: orta
 - `.hover:tablet-pc-max:align-items-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğe hizalama: bitiş
@@ -1310,7 +1310,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:align-items-start` - Tablet bilgisayarda (maks.) öğe hizalama: başlangıç
 - `.tablet-pc-max:align-items-stretch` - Tablet bilgisayarda (maks.) öğe hizalama: stretch
 
-##### Align items - Pc Max (≤ 1200px)
+##### Align items - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-items-center` - PC'de (maks.) fareyle üzerine gelindiğinde öğe hizalama: orta
 - `.hover:pc-max:align-items-end` - PC'de (maks.) fareyle üzerine gelindiğinde öğe hizalama: bitiş
@@ -1332,7 +1332,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:align-self-start` - Fareyle üzerine gelindiğinde öğenin kendi hizalaması: başlangıç
 - `.hover:align-self-stretch` - Fareyle üzerine gelindiğinde öğenin kendi hizalaması: stretch
 
-##### Align self - Mobile (≤ 480px)
+##### Align self - Mobile (<= 480px)
 
 - `.hover:mobile:align-self-center` - Mobil cihazda fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
 - `.hover:mobile:align-self-end` - Mobil cihazda fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
@@ -1376,7 +1376,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:align-self-start` - PC'de öğenin kendi hizalaması: başlangıç
 - `.pc:align-self-stretch` - PC'de öğenin kendi hizalaması: stretch
 
-##### Align self - Tv (≥ 1200px)
+##### Align self - Tv (>= 1200px)
 
 - `.hover:tv:align-self-center` - TV'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
 - `.hover:tv:align-self-end` - TV'de fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
@@ -1387,7 +1387,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:align-self-start` - TV'de öğenin kendi hizalaması: başlangıç
 - `.tv:align-self-stretch` - TV'de öğenin kendi hizalaması: stretch
 
-##### Align self - Tablet Max (≤ 768px)
+##### Align self - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:align-self-center` - Tablette (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
 - `.hover:tablet-max:align-self-end` - Tablette (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
@@ -1398,7 +1398,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:align-self-start` - Tablette (maks.) öğenin kendi hizalaması: başlangıç
 - `.tablet-max:align-self-stretch` - Tablette (maks.) öğenin kendi hizalaması: stretch
 
-##### Align self - Tablet Pc Max (≤ 992px)
+##### Align self - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:align-self-center` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
 - `.hover:tablet-pc-max:align-self-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
@@ -1409,7 +1409,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:align-self-start` - Tablet bilgisayarda (maks.) öğenin kendi hizalaması: başlangıç
 - `.tablet-pc-max:align-self-stretch` - Tablet bilgisayarda (maks.) öğenin kendi hizalaması: stretch
 
-##### Align self - Pc Max (≤ 1200px)
+##### Align self - Pc Max (<= 1200px)
 
 - `.hover:pc-max:align-self-center` - PC'de (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: orta
 - `.hover:pc-max:align-self-end` - PC'de (maks.) fareyle üzerine gelindiğinde öğenin kendi hizalaması: bitiş
@@ -1437,7 +1437,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.justify-content-start` - İçerik yaslama: başlangıç
 - `.justify-content-stretch` - İçerik yaslama: stretch
 
-##### Justify content - Mobile (≤ 480px)
+##### Justify content - Mobile (<= 480px)
 
 - `.hover:mobile:justify-content-around` - Mobil cihazda fareyle üzerine gelindiğinde içerik yaslama: around
 - `.hover:mobile:justify-content-between` - Mobil cihazda fareyle üzerine gelindiğinde içerik yaslama: between
@@ -1489,7 +1489,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:justify-content-end` - PC'de içerik yaslama: bitiş
 - `.pc:justify-content-start` - PC'de içerik yaslama: başlangıç
 
-##### Justify content - Tv (≥ 1200px)
+##### Justify content - Tv (>= 1200px)
 
 - `.hover:tv:justify-content-around` - TV'de fareyle üzerine gelindiğinde içerik yaslama: around
 - `.hover:tv:justify-content-between` - TV'de fareyle üzerine gelindiğinde içerik yaslama: between
@@ -1502,7 +1502,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:justify-content-end` - TV'de içerik yaslama: bitiş
 - `.tv:justify-content-start` - TV'de içerik yaslama: başlangıç
 
-##### Justify content - Tablet Max (≤ 768px)
+##### Justify content - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:justify-content-around` - Tablette (maks.) fareyle üzerine gelindiğinde içerik yaslama: around
 - `.hover:tablet-max:justify-content-between` - Tablette (maks.) fareyle üzerine gelindiğinde içerik yaslama: between
@@ -1515,7 +1515,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:justify-content-end` - Tablette (maks.) içerik yaslama: bitiş
 - `.tablet-max:justify-content-start` - Tablette (maks.) içerik yaslama: başlangıç
 
-##### Justify content - Tablet Pc Max (≤ 992px)
+##### Justify content - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:justify-content-around` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik yaslama: around
 - `.hover:tablet-pc-max:justify-content-between` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde içerik yaslama: between
@@ -1528,7 +1528,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:justify-content-end` - Tablet bilgisayarda (maks.) içerik yaslama: bitiş
 - `.tablet-pc-max:justify-content-start` - Tablet bilgisayarda (maks.) içerik yaslama: başlangıç
 
-##### Justify content - Pc Max (≤ 1200px)
+##### Justify content - Pc Max (<= 1200px)
 
 - `.hover:pc-max:justify-content-around` - PC'de (maks.) fareyle üzerine gelindiğinde içerik yaslama: around
 - `.hover:pc-max:justify-content-between` - PC'de (maks.) fareyle üzerine gelindiğinde içerik yaslama: between
@@ -1584,7 +1584,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:-order-2` - Fareyle üzerine gelindiğinde Negatif Sıra 2
 - `.hover:-order-1` - Fareyle üzerine gelindiğinde Negatif Sıra 1
 
-##### Order - Mobile (≤ 480px)
+##### Order - Mobile (<= 480px)
 
 - `.hover:mobile:order-5` - Mobil cihazda fareyle üzerine gelindiğinde sıra 5
 - `.hover:mobile:order-4` - Mobil cihazda fareyle üzerine gelindiğinde sıra 4
@@ -1603,7 +1603,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mobile:order-first` - Mobil cihazda sıra: ilk
 - `.mobile:order-last` - Mobil cihazda sıra: son
 
-##### Negative Order - Mobile (≤ 480px)
+##### Negative Order - Mobile (<= 480px)
 
 - `.hover:mobile:-order-5` - Mobil cihazda fareyle üzerine gelindiğinde Negatif Sıra 5
 - `.hover:mobile:-order-4` - Mobil cihazda fareyle üzerine gelindiğinde Negatif Sıra 4
@@ -1712,7 +1712,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:-order-2` - PC'de negatif Sıra 2
 - `.pc:-order-1` - PC'de negatif Sıra 1
 
-##### Order - Tv (≥ 1200px)
+##### Order - Tv (>= 1200px)
 
 - `.hover:tv:order-5` - TV'de fareyle üzerine gelindiğinde sıra 5
 - `.hover:tv:order-4` - TV'de fareyle üzerine gelindiğinde sıra 4
@@ -1731,7 +1731,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:order-first` - TV'de sıra: ilk
 - `.tv:order-last` - TV'de sıra: son
 
-##### Negative Order - Tv (≥ 1200px)
+##### Negative Order - Tv (>= 1200px)
 
 - `.hover:tv:-order-5` - Televizyonun üzerine gelindiğinde Negatif Sıra 5
 - `.hover:tv:-order-4` - Negatif Sıralama 4 televizyonun üzerine gelindiğinde
@@ -1744,7 +1744,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:-order-2` - TV'de negatif Sıra 2
 - `.tv:-order-1` - TV'de Negatif Sıra 1
 
-##### Order - Tablet Max (≤ 768px)
+##### Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:order-5` - Tablette (maks.) fareyle üzerine gelindiğinde sıra 5
 - `.hover:tablet-max:order-4` - Tablette (maks.) fareyle üzerine gelindiğinde sıra 4
@@ -1763,7 +1763,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:order-first` - Tablette (maks.) sıra: ilk
 - `.tablet-max:order-last` - Tablette (maks.) sıra: son
 
-##### Negative Order - Tablet Max (≤ 768px)
+##### Negative Order - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:-order-5` - Maksimum tabletin üzerine gelindiğinde Negatif Sıra 5
 - `.hover:tablet-max:-order-4` - Maksimum tabletin üzerine gelindiğinde Negatif Sıra 4
@@ -1776,7 +1776,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:-order-2` - Tablette (maks.) negatif Sıra 2
 - `.tablet-max:-order-1` - Maksimum tablette Negatif Sıra 1
 
-##### Order - Tablet Pc Max (≤ 992px)
+##### Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:order-5` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra 5
 - `.hover:tablet-pc-max:order-4` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde sıra 4
@@ -1795,7 +1795,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:order-first` - Tablet bilgisayarda (maks.) sıra: ilk
 - `.tablet-pc-max:order-last` - Tablet bilgisayarda (maks.) sıra: son
 
-##### Negative Order - Tablet Pc Max (≤ 992px)
+##### Negative Order - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:-order-5` - Tablet PC max'ın üzerine gelindiğinde Negatif Sıra 5
 - `.hover:tablet-pc-max:-order-4` - Tablet PC max'ın üzerine gelindiğinde Negatif Sıra 4
@@ -1808,7 +1808,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:-order-2` - Tablet PC max'ta Negatif Sıra 2
 - `.tablet-pc-max:-order-1` - Tablet PC max'ta Negatif Sıra 1
 
-##### Order - Pc Max (≤ 1200px)
+##### Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:order-5` - PC'de (maks.) fareyle üzerine gelindiğinde sıra 5
 - `.hover:pc-max:order-4` - PC'de (maks.) fareyle üzerine gelindiğinde sıra 4
@@ -1827,7 +1827,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc-max:order-first` - PC'de (maks.) sıra: ilk
 - `.pc-max:order-last` - PC'de (maks.) sıra: son
 
-##### Negative Order - Pc Max (≤ 1200px)
+##### Negative Order - Pc Max (<= 1200px)
 
 - `.hover:pc-max:-order-5` - PC max üzerinde fareyle üzerine gelindiğinde Negatif Sıra 5
 - `.hover:pc-max:-order-4` - PC max üzerinde fareyle üzerine gelindiğinde Negatif Sıra 4
@@ -2839,7 +2839,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.w-5` - Genişlik %5
 - `.w-auto` - Otomatik genişlik %
 
-##### Width - Mobile (≤ 480px)
+##### Width - Mobile (<= 480px)
 
 - `.hover:mobile:w-100` - Mobil cihazda fareyle üzerine gelindiğinde genişlik %100
 - `.hover:mobile:w-95` - Mobil cihazda fareyle üzerine gelindiğinde genişlik %95
@@ -3019,7 +3019,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:w-5` - PC'de genişlik %5
 - `.pc:w-auto` - PC'de otomatik genişlik %'si
 
-##### Width - Tv (≥ 1200px)
+##### Width - Tv (>= 1200px)
 
 - `.hover:tv:w-100` - TV'de fareyle üzerine gelindiğinde genişlik %100
 - `.hover:tv:w-95` - TV'de fareyle üzerine gelindiğinde genişlik %95
@@ -3064,7 +3064,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:w-5` - Televizyonda genişlik %5
 - `.tv:w-auto` - TV'de otomatik genişlik %'si
 
-##### Width - Tablet Max (≤ 768px)
+##### Width - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:w-100` - Maksimum tabletin üzerine gelindiğinde genişlik %100
 - `.hover:tablet-max:w-95` - Maksimum tabletin üzerine gelindiğinde genişlik %95
@@ -3109,7 +3109,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:w-5` - Maksimum tablette %5 genişlik
 - `.tablet-max:w-auto` - Maksimum tablette otomatik genişlik yüzdesi
 
-##### Width - Tablet Pc Max (≤ 992px)
+##### Width - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:w-100` - Maksimum tablet bilgisayarda fareyle üzerine gelindiğinde genişlik %100
 - `.hover:tablet-pc-max:w-95` - Maksimum tablet bilgisayarda fareyle üzerine gelindiğinde %95 genişlik
@@ -3154,7 +3154,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:w-5` - Tablet PC'de maksimum %5 genişlik
 - `.tablet-pc-max:w-auto` - Tablet PC'de maksimum genişlik otomatik %
 
-##### Width - Pc Max (≤ 1200px)
+##### Width - Pc Max (<= 1200px)
 
 - `.hover:pc-max:w-100` - PC'de fareyle üzerine gelindiğinde genişlik %100 maksimum
 - `.hover:pc-max:w-95` - PC'de fareyle üzerine gelindiğinde genişlik %95 maksimum
@@ -3266,7 +3266,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:h-5` - Fareyle üzerine gelindiğinde yükseklik %5
 - `.hover:h-auto` - Fareyle üzerine gelindiğinde otomatik yükseklik %'si
 
-##### Height - Mobile (≤ 480px)
+##### Height - Mobile (<= 480px)
 
 - `.hover:mobile:h-100` - Mobil cihazda fareyle üzerine gelindiğinde yükseklik %100
 - `.hover:mobile:h-95` - Mobil cihazda fareyle üzerine gelindiğinde yükseklik %95
@@ -3445,7 +3445,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:h-5` - PC'de yükseklik %5
 - `.pc:h-auto` - PC'de otomatik yükseklik yüzdesi
 
-##### Height - Tv (≥ 1200px)
+##### Height - Tv (>= 1200px)
 
 - `.hover:tv:h-100` - TV'de fareyle üzerine gelindiğinde yükseklik %100
 - `.hover:tv:h-95` - TV'de fareyle üzerine gelindiğinde yükseklik %95
@@ -3490,7 +3490,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:h-5` - Televizyonda yükseklik %5
 - `.tv:h-auto` - TV'de otomatik yükseklik %'si
 
-##### Height - Tablet Max (≤ 768px)
+##### Height - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:h-100` - Maksimum tabletin üzerine gelindiğinde yükseklik %100
 - `.hover:tablet-max:h-95` - Maksimum tabletin üzerine gelindiğinde yükseklik %95
@@ -3535,7 +3535,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:h-5` - Tablette yükseklik maksimum %5
 - `.tablet-max:h-auto` - Maksimum tablette otomatik yükseklik yüzdesi
 
-##### Height - Tablet Pc Max (≤ 992px)
+##### Height - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:h-100` - Maksimum tablet bilgisayarda fareyle üzerine gelindiğinde yükseklik %100
 - `.hover:tablet-pc-max:h-95` - Maksimum tablet bilgisayarda fareyle üzerine gelindiğinde yükseklik %95
@@ -3580,7 +3580,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:h-5` - Tablet PC'de maksimum yükseklik %5
 - `.tablet-pc-max:h-auto` - Tablet PC'de maksimum yükseklik otomatik %
 
-##### Height - Pc Max (≤ 1200px)
+##### Height - Pc Max (<= 1200px)
 
 - `.hover:pc-max:h-100` - PC'de fareyle üzerine gelindiğinde yükseklik %100 maksimum
 - `.hover:pc-max:h-95` - Maksimum PC üzerinde fareyle üzerine gelindiğinde yükseklik %95
@@ -4356,7 +4356,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.text-transparent` - Metin şeffaf
 - `.text-uppercase` - Metin büyük harf
 
-##### Text - Mobile (≤ 480px)
+##### Text - Mobile (<= 480px)
 
 - `.hover:mobile:text-center` - Mobil cihazda fareyle üzerine gelindiğinde metin ortalı
 - `.hover:mobile:text-end` - Mobil cihazda fareyle üzerine gelindiğinde metin sona hizalı
@@ -4416,7 +4416,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:text-right` - PC'de metin sağa hizalı
 - `.pc:text-start` - PC'de metin başlangıca hizalı
 
-##### Text - Tv (≥ 1200px)
+##### Text - Tv (>= 1200px)
 
 - `.hover:tv:text-center` - TV'de fareyle üzerine gelindiğinde metin ortalı
 - `.hover:tv:text-end` - TV'de fareyle üzerine gelindiğinde metin sona hizalı
@@ -4431,7 +4431,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tv:text-right` - TV'de metin sağa hizalı
 - `.tv:text-start` - TV'de metin başlangıca hizalı
 
-##### Text - Tablet Max (≤ 768px)
+##### Text - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:text-center` - Tablette (maks.) fareyle üzerine gelindiğinde metin ortalı
 - `.hover:tablet-max:text-end` - Tablette (maks.) fareyle üzerine gelindiğinde metin sona hizalı
@@ -4446,7 +4446,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-max:text-right` - Tablette (maks.) metin sağa hizalı
 - `.tablet-max:text-start` - Tablette (maks.) metin başlangıca hizalı
 
-##### Text - Tablet Pc Max (≤ 992px)
+##### Text - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:text-center` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde metin ortalı
 - `.hover:tablet-pc-max:text-end` - Tablet bilgisayarda (maks.) fareyle üzerine gelindiğinde metin sona hizalı
@@ -4461,7 +4461,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.tablet-pc-max:text-right` - Tablet bilgisayarda (maks.) metin sağa hizalı
 - `.tablet-pc-max:text-start` - Tablet bilgisayarda (maks.) metin başlangıca hizalı
 
-##### Text - Pc Max (≤ 1200px)
+##### Text - Pc Max (<= 1200px)
 
 - `.hover:pc-max:text-center` - PC'de (maks.) fareyle üzerine gelindiğinde metin ortalı
 - `.hover:pc-max:text-end` - PC'de (maks.) fareyle üzerine gelindiğinde metin sona hizalı
@@ -5392,7 +5392,7 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.v-hide` - Görünürlük gizlendi
 - `.v-show` - Görünürlük görünür
 
-##### Visibility - Mobile (≤ 480px)
+##### Visibility - Mobile (<= 480px)
 
 - `.hover:mobile:v-hide` - Mobil cihazda fareyle üzerine gelindiğinde görünürlük gizlendi
 - `.hover:mobile:v-show` - Mobil cihazda fareyle üzerine gelindiğinde görünürlük
@@ -5420,28 +5420,28 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pc:v-hide` - Görünürlük bilgisayarda gizlendi
 - `.pc:v-show` - PC'de görünürlük
 
-##### Visibility - Tv (≥ 1200px)
+##### Visibility - Tv (>= 1200px)
 
 - `.hover:tv:v-hide` - Televizyonun üzerine gelindiğinde görünürlük gizlendi
 - `.hover:tv:v-show` - Televizyonun üzerine gelindiğinde görünürlük
 - `.tv:v-hide` - Görünürlük televizyonda gizlendi
 - `.tv:v-show` - TV'de görünürlük
 
-##### Visibility - Tablet Max (≤ 768px)
+##### Visibility - Tablet Max (<= 768px)
 
 - `.hover:tablet-max:v-hide` - Maksimum tablette fareyle üzerine gelindiğinde görünürlük gizlendi
 - `.hover:tablet-max:v-show` - Maksimum tabletin üzerine gelindiğinde görünürlük
 - `.tablet-max:v-hide` - Tablet max'te görünürlük gizlendi
 - `.tablet-max:v-show` - Görünürlük tablet max'ta görünür
 
-##### Visibility - Tablet Pc Max (≤ 992px)
+##### Visibility - Tablet Pc Max (<= 992px)
 
 - `.hover:tablet-pc-max:v-hide` - Tablet PC Max'te fareyle üzerine gelindiğinde görünürlük gizlendi
 - `.hover:tablet-pc-max:v-show` - Tablet PC max'ta fareyle üzerine gelindiğinde görünürlük
 - `.tablet-pc-max:v-hide` - Tablet PC Max'te görünürlük gizlendi
 - `.tablet-pc-max:v-show` - Tablet PC max'ta görünürlük
 
-##### Visibility - Pc Max (≤ 1200px)
+##### Visibility - Pc Max (<= 1200px)
 
 - `.hover:pc-max:v-hide` - PC max'ta fareyle üzerine gelindiğinde görünürlük gizlendi
 - `.hover:pc-max:v-show` - PC max'ta fareyle üzerine gelindiğinde görünürlük
