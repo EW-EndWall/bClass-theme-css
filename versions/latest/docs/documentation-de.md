@@ -901,56 +901,56 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Gap All
 
 - `.gap-5` - Lücke Alle 5rem
-- `.gap-4.5` - Lücke Alle 0rem
+- `.gap-4.5` - Lücke Alle 4.5rem
 - `.gap-4` - Lücke Alle 4rem
-- `.gap-3.5` - Lücke Alle 0rem
+- `.gap-3.5` - Lücke Alle 3.5rem
 - `.gap-3` - Lücke Alle 3rem
-- `.gap-2.5` - Lücke Alle 0rem
+- `.gap-2.5` - Lücke Alle 2.5rem
 - `.gap-2` - Lücke Alle 2rem
-- `.gap-1.9` - Lücke Alle 0rem
-- `.gap-1.8` - Lücke Alle 0rem
-- `.gap-1.7` - Lücke Alle 0rem
-- `.gap-1.6` - Lücke Alle 0rem
-- `.gap-1.5` - Lücke Alle 0rem
-- `.gap-1.4` - Lücke Alle 0rem
-- `.gap-1.3` - Lücke Alle 0rem
-- `.gap-1.2` - Lücke Alle 0rem
-- `.gap-1.1` - Lücke Alle 0rem
+- `.gap-1.9` - Lücke Alle 1.9rem
+- `.gap-1.8` - Lücke Alle 1.8rem
+- `.gap-1.7` - Lücke Alle 1.7rem
+- `.gap-1.6` - Lücke Alle 1.6rem
+- `.gap-1.5` - Lücke Alle 1.5rem
+- `.gap-1.4` - Lücke Alle 1.4rem
+- `.gap-1.3` - Lücke Alle 1.3rem
+- `.gap-1.2` - Lücke Alle 1.2rem
+- `.gap-1.1` - Lücke Alle 1.1rem
 - `.gap-1` - Lücke Alle 1rem
-- `.gap-0.9` - Lücke Alle 0rem
-- `.gap-0.8` - Lücke Alle 0rem
-- `.gap-0.7` - Lücke Alle 0rem
-- `.gap-0.6` - Lücke Alle 0rem
-- `.gap-0.5` - Lücke Alle 0rem
-- `.gap-0.4` - Lücke Alle 0rem
-- `.gap-0.3` - Lücke Alle 0rem
+- `.gap-0.9` - Lücke Alle 0.9rem
+- `.gap-0.8` - Lücke Alle 0.8rem
+- `.gap-0.7` - Lücke Alle 0.7rem
+- `.gap-0.6` - Lücke Alle 0.6rem
+- `.gap-0.5` - Lücke Alle 0.5rem
+- `.gap-0.4` - Lücke Alle 0.4rem
+- `.gap-0.3` - Lücke Alle 0.3rem
 - `.gap-0.2` - Lücke Alle 0,2rem
 - `.gap-0.1` - Lücke Alle 0,1rem
 - `.gap-0` - Lücke Alle 0rem
 - `.hover:gap-5` - Lücke Alle 5rem beim Hover
-- `.hover:gap-4.5` - Lücke Alle 0rem beim Hover
+- `.hover:gap-4.5` - Lücke Alle 4.5rem beim Hover
 - `.hover:gap-4` - Lücke Alle 4rem beim Hover
-- `.hover:gap-3.5` - Lücke Alle 0rem beim Hover
+- `.hover:gap-3.5` - Lücke Alle 3.5rem beim Hover
 - `.hover:gap-3` - Lücke Alle 3rem beim Hover
-- `.hover:gap-2.5` - Lücke Alle 0rem beim Hover
+- `.hover:gap-2.5` - Lücke Alle 2.5rem beim Hover
 - `.hover:gap-2` - Lücke Alle 2rem beim Hover
-- `.hover:gap-1.9` - Lücke Alle 0rem beim Hover
-- `.hover:gap-1.8` - Lücke Alle 0rem beim Hover
-- `.hover:gap-1.7` - Lücke Alle 0rem beim Hover
-- `.hover:gap-1.6` - Lücke Alle 0rem beim Hover
-- `.hover:gap-1.5` - Lücke Alle 0rem beim Hover
-- `.hover:gap-1.4` - Lücke Alle 0rem beim Hover
-- `.hover:gap-1.3` - Lücke Alle 0rem beim Hover
-- `.hover:gap-1.2` - Lücke Alle 0rem beim Hover
-- `.hover:gap-1.1` - Lücke Alle 0rem beim Hover
+- `.hover:gap-1.9` - Lücke Alle 1.9rem beim Hover
+- `.hover:gap-1.8` - Lücke Alle 1.8rem beim Hover
+- `.hover:gap-1.7` - Lücke Alle 1.7rem beim Hover
+- `.hover:gap-1.6` - Lücke Alle 1.6rem beim Hover
+- `.hover:gap-1.5` - Lücke Alle 1.5rem beim Hover
+- `.hover:gap-1.4` - Lücke Alle 1.4rem beim Hover
+- `.hover:gap-1.3` - Lücke Alle 1.3rem beim Hover
+- `.hover:gap-1.2` - Lücke Alle 1.2rem beim Hover
+- `.hover:gap-1.1` - Lücke Alle 1.1rem beim Hover
 - `.hover:gap-1` - Lücke Alle 1rem beim Hover
-- `.hover:gap-0.9` - Lücke Alle 0rem beim Hover
-- `.hover:gap-0.8` - Lücke Alle 0rem beim Hover
-- `.hover:gap-0.7` - Lücke Alle 0rem beim Hover
-- `.hover:gap-0.6` - Lücke Alle 0rem beim Hover
-- `.hover:gap-0.5` - Lücke Alle 0rem beim Hover
-- `.hover:gap-0.4` - Lücke Alle 0rem beim Hover
-- `.hover:gap-0.3` - Lücke Alle 0rem beim Hover
+- `.hover:gap-0.9` - Lücke Alle 0.9rem beim Hover
+- `.hover:gap-0.8` - Lücke Alle 0.8rem beim Hover
+- `.hover:gap-0.7` - Lücke Alle 0.7rem beim Hover
+- `.hover:gap-0.6` - Lücke Alle 0.6rem beim Hover
+- `.hover:gap-0.5` - Lücke Alle 0.5rem beim Hover
+- `.hover:gap-0.4` - Lücke Alle 0.4rem beim Hover
+- `.hover:gap-0.3` - Lücke Alle 0.3rem beim Hover
 - `.hover:gap-0.2` - Lücke Alle 0,2rem beim Schweben
 - `.hover:gap-0.1` - Lücke Alle 0,1rem beim Schweben
 - `.hover:gap-0` - Lücke Alle 0rem beim Hover
@@ -958,56 +958,56 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Gap X-Axis
 
 - `.gap-x-5` - Abstand X-Achse 5rem
-- `.gap-x-4.5` - Lücke X-Achse 0rem
+- `.gap-x-4.5` - Lücke X-Achse 4.5rem
 - `.gap-x-4` - Abstand X-Achse 4rem
-- `.gap-x-3.5` - Lücke X-Achse 0rem
+- `.gap-x-3.5` - Lücke X-Achse 3.5rem
 - `.gap-x-3` - Abstand X-Achse 3rem
-- `.gap-x-2.5` - Lücke X-Achse 0rem
+- `.gap-x-2.5` - Lücke X-Achse 2.5rem
 - `.gap-x-2` - Abstand X-Achse 2rem
-- `.gap-x-1.9` - Lücke X-Achse 0rem
-- `.gap-x-1.8` - Lücke X-Achse 0rem
-- `.gap-x-1.7` - Lücke X-Achse 0rem
-- `.gap-x-1.6` - Lücke X-Achse 0rem
-- `.gap-x-1.5` - Lücke X-Achse 0rem
-- `.gap-x-1.4` - Lücke X-Achse 0rem
-- `.gap-x-1.3` - Lücke X-Achse 0rem
-- `.gap-x-1.2` - Lücke X-Achse 0rem
-- `.gap-x-1.1` - Lücke X-Achse 0rem
+- `.gap-x-1.9` - Lücke X-Achse 1.9rem
+- `.gap-x-1.8` - Lücke X-Achse 1.8rem
+- `.gap-x-1.7` - Lücke X-Achse 1.7rem
+- `.gap-x-1.6` - Lücke X-Achse 1.6rem
+- `.gap-x-1.5` - Lücke X-Achse 1.5rem
+- `.gap-x-1.4` - Lücke X-Achse 1.4rem
+- `.gap-x-1.3` - Lücke X-Achse 1.3rem
+- `.gap-x-1.2` - Lücke X-Achse 1.2rem
+- `.gap-x-1.1` - Lücke X-Achse 1.1rem
 - `.gap-x-1` - Abstand X-Achse 1rem
-- `.gap-x-0.9` - Lücke X-Achse 0rem
-- `.gap-x-0.8` - Lücke X-Achse 0rem
-- `.gap-x-0.7` - Lücke X-Achse 0rem
-- `.gap-x-0.6` - Lücke X-Achse 0rem
-- `.gap-x-0.5` - Lücke X-Achse 0rem
-- `.gap-x-0.4` - Lücke X-Achse 0rem
-- `.gap-x-0.3` - Lücke X-Achse 0rem
+- `.gap-x-0.9` - Lücke X-Achse 0.9rem
+- `.gap-x-0.8` - Lücke X-Achse 0.8rem
+- `.gap-x-0.7` - Lücke X-Achse 0.7rem
+- `.gap-x-0.6` - Lücke X-Achse 0.6rem
+- `.gap-x-0.5` - Lücke X-Achse 0.5rem
+- `.gap-x-0.4` - Lücke X-Achse 0.4rem
+- `.gap-x-0.3` - Lücke X-Achse 0.3rem
 - `.gap-x-0.2` - Abstand X-Achse 0,2rem
 - `.gap-x-0.1` - Abstand X-Achse 0,1rem
 - `.gap-x-0` - Lücke X-Achse 0rem
 - `.hover:gap-x-5` - Lücke X-Achse 5rem beim Schweben
-- `.hover:gap-x-4.5` - Lücke X-Achse 0rem beim Schweben
+- `.hover:gap-x-4.5` - Lücke X-Achse 4.5rem beim Schweben
 - `.hover:gap-x-4` - Lücke X-Achse 4rem beim Schweben
-- `.hover:gap-x-3.5` - Lücke X-Achse 0rem beim Schweben
+- `.hover:gap-x-3.5` - Lücke X-Achse 3.5rem beim Schweben
 - `.hover:gap-x-3` - Lücke X-Achse 3rem beim Schweben
-- `.hover:gap-x-2.5` - Lücke X-Achse 0rem beim Schweben
+- `.hover:gap-x-2.5` - Lücke X-Achse 2.5rem beim Schweben
 - `.hover:gap-x-2` - Lücke X-Achse 2rem beim Schweben
-- `.hover:gap-x-1.9` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-1.8` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-1.7` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-1.6` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-1.5` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-1.4` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-1.3` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-1.2` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-1.1` - Lücke X-Achse 0rem beim Schweben
+- `.hover:gap-x-1.9` - Lücke X-Achse 1.9rem beim Schweben
+- `.hover:gap-x-1.8` - Lücke X-Achse 1.8rem beim Schweben
+- `.hover:gap-x-1.7` - Lücke X-Achse 1.7rem beim Schweben
+- `.hover:gap-x-1.6` - Lücke X-Achse 1.6rem beim Schweben
+- `.hover:gap-x-1.5` - Lücke X-Achse 1.5rem beim Schweben
+- `.hover:gap-x-1.4` - Lücke X-Achse 1.4rem beim Schweben
+- `.hover:gap-x-1.3` - Lücke X-Achse 1.3rem beim Schweben
+- `.hover:gap-x-1.2` - Lücke X-Achse 1.2rem beim Schweben
+- `.hover:gap-x-1.1` - Lücke X-Achse 1.1rem beim Schweben
 - `.hover:gap-x-1` - Lücke X-Achse 1rem beim Schweben
-- `.hover:gap-x-0.9` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-0.8` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-0.7` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-0.6` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-0.5` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-0.4` - Lücke X-Achse 0rem beim Schweben
-- `.hover:gap-x-0.3` - Lücke X-Achse 0rem beim Schweben
+- `.hover:gap-x-0.9` - Lücke X-Achse 0.9rem beim Schweben
+- `.hover:gap-x-0.8` - Lücke X-Achse 0.8rem beim Schweben
+- `.hover:gap-x-0.7` - Lücke X-Achse 0.7rem beim Schweben
+- `.hover:gap-x-0.6` - Lücke X-Achse 0.6rem beim Schweben
+- `.hover:gap-x-0.5` - Lücke X-Achse 0.5rem beim Schweben
+- `.hover:gap-x-0.4` - Lücke X-Achse 0.4rem beim Schweben
+- `.hover:gap-x-0.3` - Lücke X-Achse 0.3rem beim Schweben
 - `.hover:gap-x-0.2` - Abstand X-Achse 0,2rem beim Schweben
 - `.hover:gap-x-0.1` - Abstand X-Achse 0,1rem beim Schweben
 - `.hover:gap-x-0` - Lücke X-Achse 0rem beim Schweben
@@ -1015,56 +1015,56 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Gap Y-Axis
 
 - `.gap-y-5` - Abstand Y-Achse 5rem
-- `.gap-y-4.5` - Abstand Y-Achse 0rem
+- `.gap-y-4.5` - Abstand Y-Achse 4.5rem
 - `.gap-y-4` - Abstand Y-Achse 4rem
-- `.gap-y-3.5` - Abstand Y-Achse 0rem
+- `.gap-y-3.5` - Abstand Y-Achse 3.5rem
 - `.gap-y-3` - Abstand Y-Achse 3rem
-- `.gap-y-2.5` - Abstand Y-Achse 0rem
+- `.gap-y-2.5` - Abstand Y-Achse 2.5rem
 - `.gap-y-2` - Abstand Y-Achse 2rem
-- `.gap-y-1.9` - Abstand Y-Achse 0rem
-- `.gap-y-1.8` - Abstand Y-Achse 0rem
-- `.gap-y-1.7` - Abstand Y-Achse 0rem
-- `.gap-y-1.6` - Abstand Y-Achse 0rem
-- `.gap-y-1.5` - Abstand Y-Achse 0rem
-- `.gap-y-1.4` - Abstand Y-Achse 0rem
-- `.gap-y-1.3` - Abstand Y-Achse 0rem
-- `.gap-y-1.2` - Abstand Y-Achse 0rem
-- `.gap-y-1.1` - Abstand Y-Achse 0rem
+- `.gap-y-1.9` - Abstand Y-Achse 1.9rem
+- `.gap-y-1.8` - Abstand Y-Achse 1.8rem
+- `.gap-y-1.7` - Abstand Y-Achse 1.7rem
+- `.gap-y-1.6` - Abstand Y-Achse 1.6rem
+- `.gap-y-1.5` - Abstand Y-Achse 1.5rem
+- `.gap-y-1.4` - Abstand Y-Achse 1.4rem
+- `.gap-y-1.3` - Abstand Y-Achse 1.3rem
+- `.gap-y-1.2` - Abstand Y-Achse 1.2rem
+- `.gap-y-1.1` - Abstand Y-Achse 1.1rem
 - `.gap-y-1` - Abstand Y-Achse 1rem
-- `.gap-y-0.9` - Abstand Y-Achse 0rem
-- `.gap-y-0.8` - Abstand Y-Achse 0rem
-- `.gap-y-0.7` - Abstand Y-Achse 0rem
-- `.gap-y-0.6` - Abstand Y-Achse 0rem
-- `.gap-y-0.5` - Abstand Y-Achse 0rem
-- `.gap-y-0.4` - Abstand Y-Achse 0rem
-- `.gap-y-0.3` - Abstand Y-Achse 0rem
+- `.gap-y-0.9` - Abstand Y-Achse 0.9rem
+- `.gap-y-0.8` - Abstand Y-Achse 0.8rem
+- `.gap-y-0.7` - Abstand Y-Achse 0.7rem
+- `.gap-y-0.6` - Abstand Y-Achse 0.6rem
+- `.gap-y-0.5` - Abstand Y-Achse 0.5rem
+- `.gap-y-0.4` - Abstand Y-Achse 0.4rem
+- `.gap-y-0.3` - Abstand Y-Achse 0.3rem
 - `.gap-y-0.2` - Abstand Y-Achse 0,2rem
 - `.gap-y-0.1` - Abstand Y-Achse 0,1rem
 - `.gap-y-0` - Abstand Y-Achse 0rem
 - `.hover:gap-y-5` - Lücke Y-Achse 5rem beim Schweben
-- `.hover:gap-y-4.5` - Lücke Y-Achse 0rem beim Schweben
+- `.hover:gap-y-4.5` - Lücke Y-Achse 4.5rem beim Schweben
 - `.hover:gap-y-4` - Lücke Y-Achse 4rem beim Schweben
-- `.hover:gap-y-3.5` - Lücke Y-Achse 0rem beim Schweben
+- `.hover:gap-y-3.5` - Lücke Y-Achse 3.5rem beim Schweben
 - `.hover:gap-y-3` - Lücke Y-Achse 3rem beim Schweben
-- `.hover:gap-y-2.5` - Lücke Y-Achse 0rem beim Schweben
+- `.hover:gap-y-2.5` - Lücke Y-Achse 2.5rem beim Schweben
 - `.hover:gap-y-2` - Lücke Y-Achse 2rem beim Schweben
-- `.hover:gap-y-1.9` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-1.8` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-1.7` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-1.6` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-1.5` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-1.4` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-1.3` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-1.2` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-1.1` - Lücke Y-Achse 0rem beim Schweben
+- `.hover:gap-y-1.9` - Lücke Y-Achse 1.9rem beim Schweben
+- `.hover:gap-y-1.8` - Lücke Y-Achse 1.8rem beim Schweben
+- `.hover:gap-y-1.7` - Lücke Y-Achse 1.7rem beim Schweben
+- `.hover:gap-y-1.6` - Lücke Y-Achse 1.6rem beim Schweben
+- `.hover:gap-y-1.5` - Lücke Y-Achse 1.5rem beim Schweben
+- `.hover:gap-y-1.4` - Lücke Y-Achse 1.4rem beim Schweben
+- `.hover:gap-y-1.3` - Lücke Y-Achse 1.3rem beim Schweben
+- `.hover:gap-y-1.2` - Lücke Y-Achse 1.2rem beim Schweben
+- `.hover:gap-y-1.1` - Lücke Y-Achse 1.1rem beim Schweben
 - `.hover:gap-y-1` - Lücke Y-Achse 1rem beim Schweben
-- `.hover:gap-y-0.9` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-0.8` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-0.7` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-0.6` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-0.5` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-0.4` - Lücke Y-Achse 0rem beim Schweben
-- `.hover:gap-y-0.3` - Lücke Y-Achse 0rem beim Schweben
+- `.hover:gap-y-0.9` - Lücke Y-Achse 0.9rem beim Schweben
+- `.hover:gap-y-0.8` - Lücke Y-Achse 0.8rem beim Schweben
+- `.hover:gap-y-0.7` - Lücke Y-Achse 0.7rem beim Schweben
+- `.hover:gap-y-0.6` - Lücke Y-Achse 0.6rem beim Schweben
+- `.hover:gap-y-0.5` - Lücke Y-Achse 0.5rem beim Schweben
+- `.hover:gap-y-0.4` - Lücke Y-Achse 0.4rem beim Schweben
+- `.hover:gap-y-0.3` - Lücke Y-Achse 0.3rem beim Schweben
 - `.hover:gap-y-0.2` - Abstand Y-Achse 0,2rem beim Schweben
 - `.hover:gap-y-0.1` - Abstand Y-Achse 0,1rem beim Schweben
 - `.hover:gap-y-0` - Lücke Y-Achse 0rem beim Schweben
@@ -1848,58 +1848,58 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 - `.first:m-0` - Außenabstand alle Seiten 0rem beim ersten Element
 - `.hover:m-5` - Außenabstand alle Seiten 5rem beim Hover
-- `.hover:m-4.5` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-4.5` - Außenabstand alle Seiten 4.5rem beim Hover
 - `.hover:m-4` - Außenabstand alle Seiten 4rem beim Hover
-- `.hover:m-3.5` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-3.5` - Außenabstand alle Seiten 3.5rem beim Hover
 - `.hover:m-3` - Außenabstand alle Seiten 3rem beim Hover
-- `.hover:m-2.5` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-2.5` - Außenabstand alle Seiten 2.5rem beim Hover
 - `.hover:m-2` - Außenabstand alle Seiten 2rem beim Hover
-- `.hover:m-1.9` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-1.8` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-1.7` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-1.6` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-1.5` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-1.4` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-1.3` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-1.2` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-1.1` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-1.9` - Außenabstand alle Seiten 1.9rem beim Hover
+- `.hover:m-1.8` - Außenabstand alle Seiten 1.8rem beim Hover
+- `.hover:m-1.7` - Außenabstand alle Seiten 1.7rem beim Hover
+- `.hover:m-1.6` - Außenabstand alle Seiten 1.6rem beim Hover
+- `.hover:m-1.5` - Außenabstand alle Seiten 1.5rem beim Hover
+- `.hover:m-1.4` - Außenabstand alle Seiten 1.4rem beim Hover
+- `.hover:m-1.3` - Außenabstand alle Seiten 1.3rem beim Hover
+- `.hover:m-1.2` - Außenabstand alle Seiten 1.2rem beim Hover
+- `.hover:m-1.1` - Außenabstand alle Seiten 1.1rem beim Hover
 - `.hover:m-1` - Außenabstand alle Seiten 1rem beim Hover
-- `.hover:m-0.9` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-0.8` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-0.7` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-0.6` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-0.5` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-0.4` - Außenabstand alle Seiten 0rem beim Hover
-- `.hover:m-0.3` - Außenabstand alle Seiten 0rem beim Hover
+- `.hover:m-0.9` - Außenabstand alle Seiten 0.9rem beim Hover
+- `.hover:m-0.8` - Außenabstand alle Seiten 0.8rem beim Hover
+- `.hover:m-0.7` - Außenabstand alle Seiten 0.7rem beim Hover
+- `.hover:m-0.6` - Außenabstand alle Seiten 0.6rem beim Hover
+- `.hover:m-0.5` - Außenabstand alle Seiten 0.5rem beim Hover
+- `.hover:m-0.4` - Außenabstand alle Seiten 0.4rem beim Hover
+- `.hover:m-0.3` - Außenabstand alle Seiten 0.3rem beim Hover
 - `.hover:m-0.2` - Außenabstand alle Seiten 0.2rem beim Hover
 - `.hover:m-0.1` - Außenabstand alle Seiten 0.1rem beim Hover
 - `.hover:m-0` - Außenabstand alle Seiten 0rem beim Hover
 - `.hover:m-auto` - Außenabstand alle Seiten auto beim Hover
 - `.last:m-0` - Außenabstand alle Seiten 0rem beim letzten Element
 - `.m-5` - Außenabstand alle Seiten 5rem
-- `.m-4.5` - Außenabstand alle Seiten 0rem
+- `.m-4.5` - Außenabstand alle Seiten 4.5rem
 - `.m-4` - Außenabstand alle Seiten 4rem
-- `.m-3.5` - Außenabstand alle Seiten 0rem
+- `.m-3.5` - Außenabstand alle Seiten 3.5rem
 - `.m-3` - Außenabstand alle Seiten 3rem
-- `.m-2.5` - Außenabstand alle Seiten 0rem
+- `.m-2.5` - Außenabstand alle Seiten 2.5rem
 - `.m-2` - Außenabstand alle Seiten 2rem
-- `.m-1.9` - Außenabstand alle Seiten 0rem
-- `.m-1.8` - Außenabstand alle Seiten 0rem
-- `.m-1.7` - Außenabstand alle Seiten 0rem
-- `.m-1.6` - Außenabstand alle Seiten 0rem
-- `.m-1.5` - Außenabstand alle Seiten 0rem
-- `.m-1.4` - Außenabstand alle Seiten 0rem
-- `.m-1.3` - Außenabstand alle Seiten 0rem
-- `.m-1.2` - Außenabstand alle Seiten 0rem
-- `.m-1.1` - Außenabstand alle Seiten 0rem
+- `.m-1.9` - Außenabstand alle Seiten 1.9rem
+- `.m-1.8` - Außenabstand alle Seiten 1.8rem
+- `.m-1.7` - Außenabstand alle Seiten 1.7rem
+- `.m-1.6` - Außenabstand alle Seiten 1.6rem
+- `.m-1.5` - Außenabstand alle Seiten 1.5rem
+- `.m-1.4` - Außenabstand alle Seiten 1.4rem
+- `.m-1.3` - Außenabstand alle Seiten 1.3rem
+- `.m-1.2` - Außenabstand alle Seiten 1.2rem
+- `.m-1.1` - Außenabstand alle Seiten 1.1rem
 - `.m-1` - Außenabstand alle Seiten 1rem
-- `.m-0.9` - Außenabstand alle Seiten 0rem
-- `.m-0.8` - Außenabstand alle Seiten 0rem
-- `.m-0.7` - Außenabstand alle Seiten 0rem
-- `.m-0.6` - Außenabstand alle Seiten 0rem
-- `.m-0.5` - Außenabstand alle Seiten 0rem
-- `.m-0.4` - Außenabstand alle Seiten 0rem
-- `.m-0.3` - Außenabstand alle Seiten 0rem
+- `.m-0.9` - Außenabstand alle Seiten 0.9rem
+- `.m-0.8` - Außenabstand alle Seiten 0.8rem
+- `.m-0.7` - Außenabstand alle Seiten 0.7rem
+- `.m-0.6` - Außenabstand alle Seiten 0.6rem
+- `.m-0.5` - Außenabstand alle Seiten 0.5rem
+- `.m-0.4` - Außenabstand alle Seiten 0.4rem
+- `.m-0.3` - Außenabstand alle Seiten 0.3rem
 - `.m-0.2` - Außenabstand alle Seiten 0.2rem
 - `.m-0.1` - Außenabstand alle Seiten 0.1rem
 - `.m-0` - Außenabstand alle Seiten 0rem
@@ -1913,29 +1913,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:mb-50` - Außenabstand unten 50 % beim Hover
 - `.hover:mb-25` - Außenabstand unten 25 % beim Hover
 - `.hover:mb-5` - Außenabstand unten 5rem beim Hover
-- `.hover:mb-4.5` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-4.5` - Außenabstand unten 4.5rem beim Hover
 - `.hover:mb-4` - Außenabstand unten 4rem beim Hover
-- `.hover:mb-3.5` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-3.5` - Außenabstand unten 3.5rem beim Hover
 - `.hover:mb-3` - Außenabstand unten 3rem beim Hover
-- `.hover:mb-2.5` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-2.5` - Außenabstand unten 2.5rem beim Hover
 - `.hover:mb-2` - Außenabstand unten 2rem beim Hover
-- `.hover:mb-1.9` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-1.8` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-1.7` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-1.6` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-1.5` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-1.4` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-1.3` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-1.2` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-1.1` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-1.9` - Außenabstand unten 1.9rem beim Hover
+- `.hover:mb-1.8` - Außenabstand unten 1.8rem beim Hover
+- `.hover:mb-1.7` - Außenabstand unten 1.7rem beim Hover
+- `.hover:mb-1.6` - Außenabstand unten 1.6rem beim Hover
+- `.hover:mb-1.5` - Außenabstand unten 1.5rem beim Hover
+- `.hover:mb-1.4` - Außenabstand unten 1.4rem beim Hover
+- `.hover:mb-1.3` - Außenabstand unten 1.3rem beim Hover
+- `.hover:mb-1.2` - Außenabstand unten 1.2rem beim Hover
+- `.hover:mb-1.1` - Außenabstand unten 1.1rem beim Hover
 - `.hover:mb-1` - Außenabstand unten 1rem beim Hover
-- `.hover:mb-0.9` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-0.8` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-0.7` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-0.6` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-0.5` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-0.4` - Außenabstand unten 0rem beim Hover
-- `.hover:mb-0.3` - Außenabstand unten 0rem beim Hover
+- `.hover:mb-0.9` - Außenabstand unten 0.9rem beim Hover
+- `.hover:mb-0.8` - Außenabstand unten 0.8rem beim Hover
+- `.hover:mb-0.7` - Außenabstand unten 0.7rem beim Hover
+- `.hover:mb-0.6` - Außenabstand unten 0.6rem beim Hover
+- `.hover:mb-0.5` - Außenabstand unten 0.5rem beim Hover
+- `.hover:mb-0.4` - Außenabstand unten 0.4rem beim Hover
+- `.hover:mb-0.3` - Außenabstand unten 0.3rem beim Hover
 - `.hover:mb-0.2` - Außenabstand unten 0.2rem beim Hover
 - `.hover:mb-0.1` - Außenabstand unten 0.1rem beim Hover
 - `.hover:mb-0` - Außenabstand unten 0rem beim Hover
@@ -1946,29 +1946,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.mb-50` - Außenabstand unten 50 %
 - `.mb-25` - Außenabstand unten 25 %
 - `.mb-5` - Außenabstand unten 5rem
-- `.mb-4.5` - Außenabstand unten 0rem
+- `.mb-4.5` - Außenabstand unten 4.5rem
 - `.mb-4` - Außenabstand unten 4rem
-- `.mb-3.5` - Außenabstand unten 0rem
+- `.mb-3.5` - Außenabstand unten 3.5rem
 - `.mb-3` - Außenabstand unten 3rem
-- `.mb-2.5` - Außenabstand unten 0rem
+- `.mb-2.5` - Außenabstand unten 2.5rem
 - `.mb-2` - Außenabstand unten 2rem
-- `.mb-1.9` - Außenabstand unten 0rem
-- `.mb-1.8` - Außenabstand unten 0rem
-- `.mb-1.7` - Außenabstand unten 0rem
-- `.mb-1.6` - Außenabstand unten 0rem
-- `.mb-1.5` - Außenabstand unten 0rem
-- `.mb-1.4` - Außenabstand unten 0rem
-- `.mb-1.3` - Außenabstand unten 0rem
-- `.mb-1.2` - Außenabstand unten 0rem
-- `.mb-1.1` - Außenabstand unten 0rem
+- `.mb-1.9` - Außenabstand unten 1.9rem
+- `.mb-1.8` - Außenabstand unten 1.8rem
+- `.mb-1.7` - Außenabstand unten 1.7rem
+- `.mb-1.6` - Außenabstand unten 1.6rem
+- `.mb-1.5` - Außenabstand unten 1.5rem
+- `.mb-1.4` - Außenabstand unten 1.4rem
+- `.mb-1.3` - Außenabstand unten 1.3rem
+- `.mb-1.2` - Außenabstand unten 1.2rem
+- `.mb-1.1` - Außenabstand unten 1.1rem
 - `.mb-1` - Außenabstand unten 1rem
-- `.mb-0.9` - Außenabstand unten 0rem
-- `.mb-0.8` - Außenabstand unten 0rem
-- `.mb-0.7` - Außenabstand unten 0rem
-- `.mb-0.6` - Außenabstand unten 0rem
-- `.mb-0.5` - Außenabstand unten 0rem
-- `.mb-0.4` - Außenabstand unten 0rem
-- `.mb-0.3` - Außenabstand unten 0rem
+- `.mb-0.9` - Außenabstand unten 0.9rem
+- `.mb-0.8` - Außenabstand unten 0.8rem
+- `.mb-0.7` - Außenabstand unten 0.7rem
+- `.mb-0.6` - Außenabstand unten 0.6rem
+- `.mb-0.5` - Außenabstand unten 0.5rem
+- `.mb-0.4` - Außenabstand unten 0.4rem
+- `.mb-0.3` - Außenabstand unten 0.3rem
 - `.mb-0.2` - Außenabstand unten 0.2rem
 - `.mb-0.1` - Außenabstand unten 0.1rem
 - `.mb-0` - Außenabstand unten 0rem
@@ -1995,29 +1995,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:ml-50` - Außenabstand links 50 % beim Hover
 - `.hover:ml-25` - Außenabstand links 25 % beim Hover
 - `.hover:ml-5` - Außenabstand links 5rem beim Hover
-- `.hover:ml-4.5` - Außenabstand links 0rem beim Hover
+- `.hover:ml-4.5` - Außenabstand links 4.5rem beim Hover
 - `.hover:ml-4` - Außenabstand links 4rem beim Hover
-- `.hover:ml-3.5` - Außenabstand links 0rem beim Hover
+- `.hover:ml-3.5` - Außenabstand links 3.5rem beim Hover
 - `.hover:ml-3` - Außenabstand links 3rem beim Hover
-- `.hover:ml-2.5` - Außenabstand links 0rem beim Hover
+- `.hover:ml-2.5` - Außenabstand links 2.5rem beim Hover
 - `.hover:ml-2` - Außenabstand links 2rem beim Hover
-- `.hover:ml-1.9` - Außenabstand links 0rem beim Hover
-- `.hover:ml-1.8` - Außenabstand links 0rem beim Hover
-- `.hover:ml-1.7` - Außenabstand links 0rem beim Hover
-- `.hover:ml-1.6` - Außenabstand links 0rem beim Hover
-- `.hover:ml-1.5` - Außenabstand links 0rem beim Hover
-- `.hover:ml-1.4` - Außenabstand links 0rem beim Hover
-- `.hover:ml-1.3` - Außenabstand links 0rem beim Hover
-- `.hover:ml-1.2` - Außenabstand links 0rem beim Hover
-- `.hover:ml-1.1` - Außenabstand links 0rem beim Hover
+- `.hover:ml-1.9` - Außenabstand links 1.9rem beim Hover
+- `.hover:ml-1.8` - Außenabstand links 1.8rem beim Hover
+- `.hover:ml-1.7` - Außenabstand links 1.7rem beim Hover
+- `.hover:ml-1.6` - Außenabstand links 1.6rem beim Hover
+- `.hover:ml-1.5` - Außenabstand links 1.5rem beim Hover
+- `.hover:ml-1.4` - Außenabstand links 1.4rem beim Hover
+- `.hover:ml-1.3` - Außenabstand links 1.3rem beim Hover
+- `.hover:ml-1.2` - Außenabstand links 1.2rem beim Hover
+- `.hover:ml-1.1` - Außenabstand links 1.1rem beim Hover
 - `.hover:ml-1` - Außenabstand links 1rem beim Hover
-- `.hover:ml-0.9` - Außenabstand links 0rem beim Hover
-- `.hover:ml-0.8` - Außenabstand links 0rem beim Hover
-- `.hover:ml-0.7` - Außenabstand links 0rem beim Hover
-- `.hover:ml-0.6` - Außenabstand links 0rem beim Hover
-- `.hover:ml-0.5` - Außenabstand links 0rem beim Hover
-- `.hover:ml-0.4` - Außenabstand links 0rem beim Hover
-- `.hover:ml-0.3` - Außenabstand links 0rem beim Hover
+- `.hover:ml-0.9` - Außenabstand links 0.9rem beim Hover
+- `.hover:ml-0.8` - Außenabstand links 0.8rem beim Hover
+- `.hover:ml-0.7` - Außenabstand links 0.7rem beim Hover
+- `.hover:ml-0.6` - Außenabstand links 0.6rem beim Hover
+- `.hover:ml-0.5` - Außenabstand links 0.5rem beim Hover
+- `.hover:ml-0.4` - Außenabstand links 0.4rem beim Hover
+- `.hover:ml-0.3` - Außenabstand links 0.3rem beim Hover
 - `.hover:ml-0.2` - Außenabstand links 0.2rem beim Hover
 - `.hover:ml-0.1` - Außenabstand links 0.1rem beim Hover
 - `.hover:ml-0` - Außenabstand links 0rem beim Hover
@@ -2028,29 +2028,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.ml-50` - Außenabstand links 50 %
 - `.ml-25` - Außenabstand links 25 %
 - `.ml-5` - Außenabstand links 5rem
-- `.ml-4.5` - Außenabstand links 0rem
+- `.ml-4.5` - Außenabstand links 4.5rem
 - `.ml-4` - Außenabstand links 4rem
-- `.ml-3.5` - Außenabstand links 0rem
+- `.ml-3.5` - Außenabstand links 3.5rem
 - `.ml-3` - Außenabstand links 3rem
-- `.ml-2.5` - Außenabstand links 0rem
+- `.ml-2.5` - Außenabstand links 2.5rem
 - `.ml-2` - Außenabstand links 2rem
-- `.ml-1.9` - Außenabstand links 0rem
-- `.ml-1.8` - Außenabstand links 0rem
-- `.ml-1.7` - Außenabstand links 0rem
-- `.ml-1.6` - Außenabstand links 0rem
-- `.ml-1.5` - Außenabstand links 0rem
-- `.ml-1.4` - Außenabstand links 0rem
-- `.ml-1.3` - Außenabstand links 0rem
-- `.ml-1.2` - Außenabstand links 0rem
-- `.ml-1.1` - Außenabstand links 0rem
+- `.ml-1.9` - Außenabstand links 1.9rem
+- `.ml-1.8` - Außenabstand links 1.8rem
+- `.ml-1.7` - Außenabstand links 1.7rem
+- `.ml-1.6` - Außenabstand links 1.6rem
+- `.ml-1.5` - Außenabstand links 1.5rem
+- `.ml-1.4` - Außenabstand links 1.4rem
+- `.ml-1.3` - Außenabstand links 1.3rem
+- `.ml-1.2` - Außenabstand links 1.2rem
+- `.ml-1.1` - Außenabstand links 1.1rem
 - `.ml-1` - Außenabstand links 1rem
-- `.ml-0.9` - Außenabstand links 0rem
-- `.ml-0.8` - Außenabstand links 0rem
-- `.ml-0.7` - Außenabstand links 0rem
-- `.ml-0.6` - Außenabstand links 0rem
-- `.ml-0.5` - Außenabstand links 0rem
-- `.ml-0.4` - Außenabstand links 0rem
-- `.ml-0.3` - Außenabstand links 0rem
+- `.ml-0.9` - Außenabstand links 0.9rem
+- `.ml-0.8` - Außenabstand links 0.8rem
+- `.ml-0.7` - Außenabstand links 0.7rem
+- `.ml-0.6` - Außenabstand links 0.6rem
+- `.ml-0.5` - Außenabstand links 0.5rem
+- `.ml-0.4` - Außenabstand links 0.4rem
+- `.ml-0.3` - Außenabstand links 0.3rem
 - `.ml-0.2` - Außenabstand links 0.2rem
 - `.ml-0.1` - Außenabstand links 0.1rem
 - `.ml-0` - Außenabstand links 0rem
@@ -2064,29 +2064,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:mr-50` - Außenabstand rechts 50 % beim Hover
 - `.hover:mr-25` - Außenabstand rechts 25 % beim Hover
 - `.hover:mr-5` - Außenabstand rechts 5rem beim Hover
-- `.hover:mr-4.5` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-4.5` - Außenabstand rechts 4.5rem beim Hover
 - `.hover:mr-4` - Außenabstand rechts 4rem beim Hover
-- `.hover:mr-3.5` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-3.5` - Außenabstand rechts 3.5rem beim Hover
 - `.hover:mr-3` - Außenabstand rechts 3rem beim Hover
-- `.hover:mr-2.5` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-2.5` - Außenabstand rechts 2.5rem beim Hover
 - `.hover:mr-2` - Außenabstand rechts 2rem beim Hover
-- `.hover:mr-1.9` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-1.8` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-1.7` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-1.6` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-1.5` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-1.4` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-1.3` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-1.2` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-1.1` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-1.9` - Außenabstand rechts 1.9rem beim Hover
+- `.hover:mr-1.8` - Außenabstand rechts 1.8rem beim Hover
+- `.hover:mr-1.7` - Außenabstand rechts 1.7rem beim Hover
+- `.hover:mr-1.6` - Außenabstand rechts 1.6rem beim Hover
+- `.hover:mr-1.5` - Außenabstand rechts 1.5rem beim Hover
+- `.hover:mr-1.4` - Außenabstand rechts 1.4rem beim Hover
+- `.hover:mr-1.3` - Außenabstand rechts 1.3rem beim Hover
+- `.hover:mr-1.2` - Außenabstand rechts 1.2rem beim Hover
+- `.hover:mr-1.1` - Außenabstand rechts 1.1rem beim Hover
 - `.hover:mr-1` - Außenabstand rechts 1rem beim Hover
-- `.hover:mr-0.9` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-0.8` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-0.7` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-0.6` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-0.5` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-0.4` - Außenabstand rechts 0rem beim Hover
-- `.hover:mr-0.3` - Außenabstand rechts 0rem beim Hover
+- `.hover:mr-0.9` - Außenabstand rechts 0.9rem beim Hover
+- `.hover:mr-0.8` - Außenabstand rechts 0.8rem beim Hover
+- `.hover:mr-0.7` - Außenabstand rechts 0.7rem beim Hover
+- `.hover:mr-0.6` - Außenabstand rechts 0.6rem beim Hover
+- `.hover:mr-0.5` - Außenabstand rechts 0.5rem beim Hover
+- `.hover:mr-0.4` - Außenabstand rechts 0.4rem beim Hover
+- `.hover:mr-0.3` - Außenabstand rechts 0.3rem beim Hover
 - `.hover:mr-0.2` - Außenabstand rechts 0.2rem beim Hover
 - `.hover:mr-0.1` - Außenabstand rechts 0.1rem beim Hover
 - `.hover:mr-0` - Außenabstand rechts 0rem beim Hover
@@ -2097,29 +2097,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.mr-50` - Außenabstand rechts 50 %
 - `.mr-25` - Außenabstand rechts 25 %
 - `.mr-5` - Außenabstand rechts 5rem
-- `.mr-4.5` - Außenabstand rechts 0rem
+- `.mr-4.5` - Außenabstand rechts 4.5rem
 - `.mr-4` - Außenabstand rechts 4rem
-- `.mr-3.5` - Außenabstand rechts 0rem
+- `.mr-3.5` - Außenabstand rechts 3.5rem
 - `.mr-3` - Außenabstand rechts 3rem
-- `.mr-2.5` - Außenabstand rechts 0rem
+- `.mr-2.5` - Außenabstand rechts 2.5rem
 - `.mr-2` - Außenabstand rechts 2rem
-- `.mr-1.9` - Außenabstand rechts 0rem
-- `.mr-1.8` - Außenabstand rechts 0rem
-- `.mr-1.7` - Außenabstand rechts 0rem
-- `.mr-1.6` - Außenabstand rechts 0rem
-- `.mr-1.5` - Außenabstand rechts 0rem
-- `.mr-1.4` - Außenabstand rechts 0rem
-- `.mr-1.3` - Außenabstand rechts 0rem
-- `.mr-1.2` - Außenabstand rechts 0rem
-- `.mr-1.1` - Außenabstand rechts 0rem
+- `.mr-1.9` - Außenabstand rechts 1.9rem
+- `.mr-1.8` - Außenabstand rechts 1.8rem
+- `.mr-1.7` - Außenabstand rechts 1.7rem
+- `.mr-1.6` - Außenabstand rechts 1.6rem
+- `.mr-1.5` - Außenabstand rechts 1.5rem
+- `.mr-1.4` - Außenabstand rechts 1.4rem
+- `.mr-1.3` - Außenabstand rechts 1.3rem
+- `.mr-1.2` - Außenabstand rechts 1.2rem
+- `.mr-1.1` - Außenabstand rechts 1.1rem
 - `.mr-1` - Außenabstand rechts 1rem
-- `.mr-0.9` - Außenabstand rechts 0rem
-- `.mr-0.8` - Außenabstand rechts 0rem
-- `.mr-0.7` - Außenabstand rechts 0rem
-- `.mr-0.6` - Außenabstand rechts 0rem
-- `.mr-0.5` - Außenabstand rechts 0rem
-- `.mr-0.4` - Außenabstand rechts 0rem
-- `.mr-0.3` - Außenabstand rechts 0rem
+- `.mr-0.9` - Außenabstand rechts 0.9rem
+- `.mr-0.8` - Außenabstand rechts 0.8rem
+- `.mr-0.7` - Außenabstand rechts 0.7rem
+- `.mr-0.6` - Außenabstand rechts 0.6rem
+- `.mr-0.5` - Außenabstand rechts 0.5rem
+- `.mr-0.4` - Außenabstand rechts 0.4rem
+- `.mr-0.3` - Außenabstand rechts 0.3rem
 - `.mr-0.2` - Außenabstand rechts 0.2rem
 - `.mr-0.1` - Außenabstand rechts 0.1rem
 - `.mr-0` - Außenabstand rechts 0rem
@@ -2146,29 +2146,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:mt-50` - Außenabstand oben 50 % beim Hover
 - `.hover:mt-25` - Außenabstand oben 25 % beim Hover
 - `.hover:mt-5` - Außenabstand oben 5rem beim Hover
-- `.hover:mt-4.5` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-4.5` - Außenabstand oben 4.5rem beim Hover
 - `.hover:mt-4` - Außenabstand oben 4rem beim Hover
-- `.hover:mt-3.5` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-3.5` - Außenabstand oben 3.5rem beim Hover
 - `.hover:mt-3` - Außenabstand oben 3rem beim Hover
-- `.hover:mt-2.5` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-2.5` - Außenabstand oben 2.5rem beim Hover
 - `.hover:mt-2` - Außenabstand oben 2rem beim Hover
-- `.hover:mt-1.9` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-1.8` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-1.7` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-1.6` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-1.5` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-1.4` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-1.3` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-1.2` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-1.1` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-1.9` - Außenabstand oben 1.9rem beim Hover
+- `.hover:mt-1.8` - Außenabstand oben 1.8rem beim Hover
+- `.hover:mt-1.7` - Außenabstand oben 1.7rem beim Hover
+- `.hover:mt-1.6` - Außenabstand oben 1.6rem beim Hover
+- `.hover:mt-1.5` - Außenabstand oben 1.5rem beim Hover
+- `.hover:mt-1.4` - Außenabstand oben 1.4rem beim Hover
+- `.hover:mt-1.3` - Außenabstand oben 1.3rem beim Hover
+- `.hover:mt-1.2` - Außenabstand oben 1.2rem beim Hover
+- `.hover:mt-1.1` - Außenabstand oben 1.1rem beim Hover
 - `.hover:mt-1` - Außenabstand oben 1rem beim Hover
-- `.hover:mt-0.9` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-0.8` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-0.7` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-0.6` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-0.5` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-0.4` - Außenabstand oben 0rem beim Hover
-- `.hover:mt-0.3` - Außenabstand oben 0rem beim Hover
+- `.hover:mt-0.9` - Außenabstand oben 0.9rem beim Hover
+- `.hover:mt-0.8` - Außenabstand oben 0.8rem beim Hover
+- `.hover:mt-0.7` - Außenabstand oben 0.7rem beim Hover
+- `.hover:mt-0.6` - Außenabstand oben 0.6rem beim Hover
+- `.hover:mt-0.5` - Außenabstand oben 0.5rem beim Hover
+- `.hover:mt-0.4` - Außenabstand oben 0.4rem beim Hover
+- `.hover:mt-0.3` - Außenabstand oben 0.3rem beim Hover
 - `.hover:mt-0.2` - Außenabstand oben 0.2rem beim Hover
 - `.hover:mt-0.1` - Außenabstand oben 0.1rem beim Hover
 - `.hover:mt-0` - Außenabstand oben 0rem beim Hover
@@ -2179,29 +2179,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.mt-50` - Außenabstand oben 50 %
 - `.mt-25` - Außenabstand oben 25 %
 - `.mt-5` - Außenabstand oben 5rem
-- `.mt-4.5` - Außenabstand oben 0rem
+- `.mt-4.5` - Außenabstand oben 4.5rem
 - `.mt-4` - Außenabstand oben 4rem
-- `.mt-3.5` - Außenabstand oben 0rem
+- `.mt-3.5` - Außenabstand oben 3.5rem
 - `.mt-3` - Außenabstand oben 3rem
-- `.mt-2.5` - Außenabstand oben 0rem
+- `.mt-2.5` - Außenabstand oben 2.5rem
 - `.mt-2` - Außenabstand oben 2rem
-- `.mt-1.9` - Außenabstand oben 0rem
-- `.mt-1.8` - Außenabstand oben 0rem
-- `.mt-1.7` - Außenabstand oben 0rem
-- `.mt-1.6` - Außenabstand oben 0rem
-- `.mt-1.5` - Außenabstand oben 0rem
-- `.mt-1.4` - Außenabstand oben 0rem
-- `.mt-1.3` - Außenabstand oben 0rem
-- `.mt-1.2` - Außenabstand oben 0rem
-- `.mt-1.1` - Außenabstand oben 0rem
+- `.mt-1.9` - Außenabstand oben 1.9rem
+- `.mt-1.8` - Außenabstand oben 1.8rem
+- `.mt-1.7` - Außenabstand oben 1.7rem
+- `.mt-1.6` - Außenabstand oben 1.6rem
+- `.mt-1.5` - Außenabstand oben 1.5rem
+- `.mt-1.4` - Außenabstand oben 1.4rem
+- `.mt-1.3` - Außenabstand oben 1.3rem
+- `.mt-1.2` - Außenabstand oben 1.2rem
+- `.mt-1.1` - Außenabstand oben 1.1rem
 - `.mt-1` - Außenabstand oben 1rem
-- `.mt-0.9` - Außenabstand oben 0rem
-- `.mt-0.8` - Außenabstand oben 0rem
-- `.mt-0.7` - Außenabstand oben 0rem
-- `.mt-0.6` - Außenabstand oben 0rem
-- `.mt-0.5` - Außenabstand oben 0rem
-- `.mt-0.4` - Außenabstand oben 0rem
-- `.mt-0.3` - Außenabstand oben 0rem
+- `.mt-0.9` - Außenabstand oben 0.9rem
+- `.mt-0.8` - Außenabstand oben 0.8rem
+- `.mt-0.7` - Außenabstand oben 0.7rem
+- `.mt-0.6` - Außenabstand oben 0.6rem
+- `.mt-0.5` - Außenabstand oben 0.5rem
+- `.mt-0.4` - Außenabstand oben 0.4rem
+- `.mt-0.3` - Außenabstand oben 0.3rem
 - `.mt-0.2` - Außenabstand oben 0.2rem
 - `.mt-0.1` - Außenabstand oben 0.1rem
 - `.mt-0` - Außenabstand oben 0rem
@@ -2214,29 +2214,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:mx-50` - Außenabstand X-Achse 50 % beim Hover
 - `.hover:mx-25` - Außenabstand X-Achse 25 % beim Hover
 - `.hover:mx-5` - Außenabstand X-Achse 5rem beim Hover
-- `.hover:mx-4.5` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-4.5` - Außenabstand X-Achse 4.5rem beim Hover
 - `.hover:mx-4` - Außenabstand X-Achse 4rem beim Hover
-- `.hover:mx-3.5` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-3.5` - Außenabstand X-Achse 3.5rem beim Hover
 - `.hover:mx-3` - Außenabstand X-Achse 3rem beim Hover
-- `.hover:mx-2.5` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-2.5` - Außenabstand X-Achse 2.5rem beim Hover
 - `.hover:mx-2` - Außenabstand X-Achse 2rem beim Hover
-- `.hover:mx-1.9` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-1.8` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-1.7` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-1.6` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-1.5` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-1.4` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-1.3` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-1.2` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-1.1` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-1.9` - Außenabstand X-Achse 1.9rem beim Hover
+- `.hover:mx-1.8` - Außenabstand X-Achse 1.8rem beim Hover
+- `.hover:mx-1.7` - Außenabstand X-Achse 1.7rem beim Hover
+- `.hover:mx-1.6` - Außenabstand X-Achse 1.6rem beim Hover
+- `.hover:mx-1.5` - Außenabstand X-Achse 1.5rem beim Hover
+- `.hover:mx-1.4` - Außenabstand X-Achse 1.4rem beim Hover
+- `.hover:mx-1.3` - Außenabstand X-Achse 1.3rem beim Hover
+- `.hover:mx-1.2` - Außenabstand X-Achse 1.2rem beim Hover
+- `.hover:mx-1.1` - Außenabstand X-Achse 1.1rem beim Hover
 - `.hover:mx-1` - Außenabstand X-Achse 1rem beim Hover
-- `.hover:mx-0.9` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-0.8` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-0.7` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-0.6` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-0.5` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-0.4` - Außenabstand X-Achse 0rem beim Hover
-- `.hover:mx-0.3` - Außenabstand X-Achse 0rem beim Hover
+- `.hover:mx-0.9` - Außenabstand X-Achse 0.9rem beim Hover
+- `.hover:mx-0.8` - Außenabstand X-Achse 0.8rem beim Hover
+- `.hover:mx-0.7` - Außenabstand X-Achse 0.7rem beim Hover
+- `.hover:mx-0.6` - Außenabstand X-Achse 0.6rem beim Hover
+- `.hover:mx-0.5` - Außenabstand X-Achse 0.5rem beim Hover
+- `.hover:mx-0.4` - Außenabstand X-Achse 0.4rem beim Hover
+- `.hover:mx-0.3` - Außenabstand X-Achse 0.3rem beim Hover
 - `.hover:mx-0.2` - Außenabstand X-Achse 0.2rem beim Hover
 - `.hover:mx-0.1` - Außenabstand X-Achse 0.1rem beim Hover
 - `.hover:mx-0` - Außenabstand X-Achse 0rem beim Hover
@@ -2246,29 +2246,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.mx-50` - Außenabstand X-Achse 50 %
 - `.mx-25` - Außenabstand X-Achse 25 %
 - `.mx-5` - Außenabstand X-Achse 5rem
-- `.mx-4.5` - Außenabstand X-Achse 0rem
+- `.mx-4.5` - Außenabstand X-Achse 4.5rem
 - `.mx-4` - Außenabstand X-Achse 4rem
-- `.mx-3.5` - Außenabstand X-Achse 0rem
+- `.mx-3.5` - Außenabstand X-Achse 3.5rem
 - `.mx-3` - Außenabstand X-Achse 3rem
-- `.mx-2.5` - Außenabstand X-Achse 0rem
+- `.mx-2.5` - Außenabstand X-Achse 2.5rem
 - `.mx-2` - Außenabstand X-Achse 2rem
-- `.mx-1.9` - Außenabstand X-Achse 0rem
-- `.mx-1.8` - Außenabstand X-Achse 0rem
-- `.mx-1.7` - Außenabstand X-Achse 0rem
-- `.mx-1.6` - Außenabstand X-Achse 0rem
-- `.mx-1.5` - Außenabstand X-Achse 0rem
-- `.mx-1.4` - Außenabstand X-Achse 0rem
-- `.mx-1.3` - Außenabstand X-Achse 0rem
-- `.mx-1.2` - Außenabstand X-Achse 0rem
-- `.mx-1.1` - Außenabstand X-Achse 0rem
+- `.mx-1.9` - Außenabstand X-Achse 1.9rem
+- `.mx-1.8` - Außenabstand X-Achse 1.8rem
+- `.mx-1.7` - Außenabstand X-Achse 1.7rem
+- `.mx-1.6` - Außenabstand X-Achse 1.6rem
+- `.mx-1.5` - Außenabstand X-Achse 1.5rem
+- `.mx-1.4` - Außenabstand X-Achse 1.4rem
+- `.mx-1.3` - Außenabstand X-Achse 1.3rem
+- `.mx-1.2` - Außenabstand X-Achse 1.2rem
+- `.mx-1.1` - Außenabstand X-Achse 1.1rem
 - `.mx-1` - Außenabstand X-Achse 1rem
-- `.mx-0.9` - Außenabstand X-Achse 0rem
-- `.mx-0.8` - Außenabstand X-Achse 0rem
-- `.mx-0.7` - Außenabstand X-Achse 0rem
-- `.mx-0.6` - Außenabstand X-Achse 0rem
-- `.mx-0.5` - Außenabstand X-Achse 0rem
-- `.mx-0.4` - Außenabstand X-Achse 0rem
-- `.mx-0.3` - Außenabstand X-Achse 0rem
+- `.mx-0.9` - Außenabstand X-Achse 0.9rem
+- `.mx-0.8` - Außenabstand X-Achse 0.8rem
+- `.mx-0.7` - Außenabstand X-Achse 0.7rem
+- `.mx-0.6` - Außenabstand X-Achse 0.6rem
+- `.mx-0.5` - Außenabstand X-Achse 0.5rem
+- `.mx-0.4` - Außenabstand X-Achse 0.4rem
+- `.mx-0.3` - Außenabstand X-Achse 0.3rem
 - `.mx-0.2` - Außenabstand X-Achse 0.2rem
 - `.mx-0.1` - Außenabstand X-Achse 0.1rem
 - `.mx-0` - Außenabstand X-Achse 0rem
@@ -2281,29 +2281,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:my-50` - Außenabstand Y-Achse 50 % beim Hover
 - `.hover:my-25` - Außenabstand Y-Achse 25 % beim Hover
 - `.hover:my-5` - Außenabstand Y-Achse 5rem beim Hover
-- `.hover:my-4.5` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-4.5` - Außenabstand Y-Achse 4.5rem beim Hover
 - `.hover:my-4` - Außenabstand Y-Achse 4rem beim Hover
-- `.hover:my-3.5` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-3.5` - Außenabstand Y-Achse 3.5rem beim Hover
 - `.hover:my-3` - Außenabstand Y-Achse 3rem beim Hover
-- `.hover:my-2.5` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-2.5` - Außenabstand Y-Achse 2.5rem beim Hover
 - `.hover:my-2` - Außenabstand Y-Achse 2rem beim Hover
-- `.hover:my-1.9` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-1.8` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-1.7` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-1.6` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-1.5` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-1.4` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-1.3` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-1.2` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-1.1` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-1.9` - Außenabstand Y-Achse 1.9rem beim Hover
+- `.hover:my-1.8` - Außenabstand Y-Achse 1.8rem beim Hover
+- `.hover:my-1.7` - Außenabstand Y-Achse 1.7rem beim Hover
+- `.hover:my-1.6` - Außenabstand Y-Achse 1.6rem beim Hover
+- `.hover:my-1.5` - Außenabstand Y-Achse 1.5rem beim Hover
+- `.hover:my-1.4` - Außenabstand Y-Achse 1.4rem beim Hover
+- `.hover:my-1.3` - Außenabstand Y-Achse 1.3rem beim Hover
+- `.hover:my-1.2` - Außenabstand Y-Achse 1.2rem beim Hover
+- `.hover:my-1.1` - Außenabstand Y-Achse 1.1rem beim Hover
 - `.hover:my-1` - Außenabstand Y-Achse 1rem beim Hover
-- `.hover:my-0.9` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-0.8` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-0.7` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-0.6` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-0.5` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-0.4` - Außenabstand Y-Achse 0rem beim Hover
-- `.hover:my-0.3` - Außenabstand Y-Achse 0rem beim Hover
+- `.hover:my-0.9` - Außenabstand Y-Achse 0.9rem beim Hover
+- `.hover:my-0.8` - Außenabstand Y-Achse 0.8rem beim Hover
+- `.hover:my-0.7` - Außenabstand Y-Achse 0.7rem beim Hover
+- `.hover:my-0.6` - Außenabstand Y-Achse 0.6rem beim Hover
+- `.hover:my-0.5` - Außenabstand Y-Achse 0.5rem beim Hover
+- `.hover:my-0.4` - Außenabstand Y-Achse 0.4rem beim Hover
+- `.hover:my-0.3` - Außenabstand Y-Achse 0.3rem beim Hover
 - `.hover:my-0.2` - Margin Y-Achse 0,2rem beim Schweben
 - `.hover:my-0.1` - Margin Y-Achse 0,1rem beim Schweben
 - `.hover:my-0` - Außenabstand Y-Achse 0rem beim Hover
@@ -2313,29 +2313,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.my-50` - Außenabstand Y-Achse 50 %
 - `.my-25` - Außenabstand Y-Achse 25 %
 - `.my-5` - Außenabstand Y-Achse 5rem
-- `.my-4.5` - Außenabstand Y-Achse 0rem
+- `.my-4.5` - Außenabstand Y-Achse 4.5rem
 - `.my-4` - Außenabstand Y-Achse 4rem
-- `.my-3.5` - Außenabstand Y-Achse 0rem
+- `.my-3.5` - Außenabstand Y-Achse 3.5rem
 - `.my-3` - Außenabstand Y-Achse 3rem
-- `.my-2.5` - Außenabstand Y-Achse 0rem
+- `.my-2.5` - Außenabstand Y-Achse 2.5rem
 - `.my-2` - Außenabstand Y-Achse 2rem
-- `.my-1.9` - Außenabstand Y-Achse 0rem
-- `.my-1.8` - Außenabstand Y-Achse 0rem
-- `.my-1.7` - Außenabstand Y-Achse 0rem
-- `.my-1.6` - Außenabstand Y-Achse 0rem
-- `.my-1.5` - Außenabstand Y-Achse 0rem
-- `.my-1.4` - Außenabstand Y-Achse 0rem
-- `.my-1.3` - Außenabstand Y-Achse 0rem
-- `.my-1.2` - Außenabstand Y-Achse 0rem
-- `.my-1.1` - Außenabstand Y-Achse 0rem
+- `.my-1.9` - Außenabstand Y-Achse 1.9rem
+- `.my-1.8` - Außenabstand Y-Achse 1.8rem
+- `.my-1.7` - Außenabstand Y-Achse 1.7rem
+- `.my-1.6` - Außenabstand Y-Achse 1.6rem
+- `.my-1.5` - Außenabstand Y-Achse 1.5rem
+- `.my-1.4` - Außenabstand Y-Achse 1.4rem
+- `.my-1.3` - Außenabstand Y-Achse 1.3rem
+- `.my-1.2` - Außenabstand Y-Achse 1.2rem
+- `.my-1.1` - Außenabstand Y-Achse 1.1rem
 - `.my-1` - Außenabstand Y-Achse 1rem
-- `.my-0.9` - Außenabstand Y-Achse 0rem
-- `.my-0.8` - Außenabstand Y-Achse 0rem
-- `.my-0.7` - Außenabstand Y-Achse 0rem
-- `.my-0.6` - Außenabstand Y-Achse 0rem
-- `.my-0.5` - Außenabstand Y-Achse 0rem
-- `.my-0.4` - Außenabstand Y-Achse 0rem
-- `.my-0.3` - Außenabstand Y-Achse 0rem
+- `.my-0.9` - Außenabstand Y-Achse 0.9rem
+- `.my-0.8` - Außenabstand Y-Achse 0.8rem
+- `.my-0.7` - Außenabstand Y-Achse 0.7rem
+- `.my-0.6` - Außenabstand Y-Achse 0.6rem
+- `.my-0.5` - Außenabstand Y-Achse 0.5rem
+- `.my-0.4` - Außenabstand Y-Achse 0.4rem
+- `.my-0.3` - Außenabstand Y-Achse 0.3rem
 - `.my-0.2` - Außenabstand Y-Achse 0.2rem
 - `.my-0.1` - Außenabstand Y-Achse 0.1rem
 - `.my-0` - Außenabstand Y-Achse 0rem
@@ -2347,57 +2347,57 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 - `.first:p-0` - Zuerst alle 0rem auffüllen
 - `.hover:p-5` - Alle 5rem beim Schweben auffüllen
-- `.hover:p-4.5` - Alle 0rem beim Schweben auffüllen
+- `.hover:p-4.5` - Alle 4.5rem beim Schweben auffüllen
 - `.hover:p-4` - Alle 4rem beim Schweben auffüllen
-- `.hover:p-3.5` - Alle 0rem beim Schweben auffüllen
+- `.hover:p-3.5` - Alle 3.5rem beim Schweben auffüllen
 - `.hover:p-3` - Alle 3rem beim Schweben auffüllen
-- `.hover:p-2.5` - Alle 0rem beim Schweben auffüllen
+- `.hover:p-2.5` - Alle 2.5rem beim Schweben auffüllen
 - `.hover:p-2` - Alle 2rem beim Schweben auffüllen
-- `.hover:p-1.9` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-1.8` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-1.7` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-1.6` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-1.5` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-1.4` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-1.3` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-1.2` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-1.1` - Alle 0rem beim Schweben auffüllen
+- `.hover:p-1.9` - Alle 1.9rem beim Schweben auffüllen
+- `.hover:p-1.8` - Alle 1.8rem beim Schweben auffüllen
+- `.hover:p-1.7` - Alle 1.7rem beim Schweben auffüllen
+- `.hover:p-1.6` - Alle 1.6rem beim Schweben auffüllen
+- `.hover:p-1.5` - Alle 1.5rem beim Schweben auffüllen
+- `.hover:p-1.4` - Alle 1.4rem beim Schweben auffüllen
+- `.hover:p-1.3` - Alle 1.3rem beim Schweben auffüllen
+- `.hover:p-1.2` - Alle 1.2rem beim Schweben auffüllen
+- `.hover:p-1.1` - Alle 1.1rem beim Schweben auffüllen
 - `.hover:p-1` - Alle 1rem beim Schweben auffüllen
-- `.hover:p-0.9` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-0.8` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-0.7` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-0.6` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-0.5` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-0.4` - Alle 0rem beim Schweben auffüllen
-- `.hover:p-0.3` - Alle 0rem beim Schweben auffüllen
+- `.hover:p-0.9` - Alle 0.9rem beim Schweben auffüllen
+- `.hover:p-0.8` - Alle 0.8rem beim Schweben auffüllen
+- `.hover:p-0.7` - Alle 0.7rem beim Schweben auffüllen
+- `.hover:p-0.6` - Alle 0.6rem beim Schweben auffüllen
+- `.hover:p-0.5` - Alle 0.5rem beim Schweben auffüllen
+- `.hover:p-0.4` - Alle 0.4rem beim Schweben auffüllen
+- `.hover:p-0.3` - Alle 0.3rem beim Schweben auffüllen
 - `.hover:p-0.2` - Alle 0,2rem beim Schweben auffüllen
 - `.hover:p-0.1` - Alle 0,1rem auffüllen beim Schweben
 - `.hover:p-0` - Alle 0rem beim Schweben auffüllen
 - `.last:p-0` - Füllen Sie alle 0rem zuletzt auf
 - `.p-5` - Polsterung Alle 5rem
-- `.p-4.5` - Polsterung Alle 0rem
+- `.p-4.5` - Polsterung Alle 4.5rem
 - `.p-4` - Polsterung Alle 4rem
-- `.p-3.5` - Polsterung Alle 0rem
+- `.p-3.5` - Polsterung Alle 3.5rem
 - `.p-3` - Polsterung Alle 3rem
-- `.p-2.5` - Polsterung Alle 0rem
+- `.p-2.5` - Polsterung Alle 2.5rem
 - `.p-2` - Polsterung Alle 2rem
-- `.p-1.9` - Polsterung Alle 0rem
-- `.p-1.8` - Polsterung Alle 0rem
-- `.p-1.7` - Polsterung Alle 0rem
-- `.p-1.6` - Polsterung Alle 0rem
-- `.p-1.5` - Polsterung Alle 0rem
-- `.p-1.4` - Polsterung Alle 0rem
-- `.p-1.3` - Polsterung Alle 0rem
-- `.p-1.2` - Polsterung Alle 0rem
-- `.p-1.1` - Polsterung Alle 0rem
+- `.p-1.9` - Polsterung Alle 1.9rem
+- `.p-1.8` - Polsterung Alle 1.8rem
+- `.p-1.7` - Polsterung Alle 1.7rem
+- `.p-1.6` - Polsterung Alle 1.6rem
+- `.p-1.5` - Polsterung Alle 1.5rem
+- `.p-1.4` - Polsterung Alle 1.4rem
+- `.p-1.3` - Polsterung Alle 1.3rem
+- `.p-1.2` - Polsterung Alle 1.2rem
+- `.p-1.1` - Polsterung Alle 1.1rem
 - `.p-1` - Polsterung Alle 1rem
-- `.p-0.9` - Polsterung Alle 0rem
-- `.p-0.8` - Polsterung Alle 0rem
-- `.p-0.7` - Polsterung Alle 0rem
-- `.p-0.6` - Polsterung Alle 0rem
-- `.p-0.5` - Polsterung Alle 0rem
-- `.p-0.4` - Polsterung Alle 0rem
-- `.p-0.3` - Polsterung Alle 0rem
+- `.p-0.9` - Polsterung Alle 0.9rem
+- `.p-0.8` - Polsterung Alle 0.8rem
+- `.p-0.7` - Polsterung Alle 0.7rem
+- `.p-0.6` - Polsterung Alle 0.6rem
+- `.p-0.5` - Polsterung Alle 0.5rem
+- `.p-0.4` - Polsterung Alle 0.4rem
+- `.p-0.3` - Polsterung Alle 0.3rem
 - `.p-0.2` - Polsterung Alle 0,2rem
 - `.p-0.1` - Polsterung Alle 0,1rem
 - `.p-0` - Polsterung Alle 0rem
@@ -2410,29 +2410,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pb-50` - Polsterung unten 50 % beim Hover
 - `.hover:pb-25` - Polsterung unten 25 % beim Hover
 - `.hover:pb-5` - Polsterung unten 5rem beim Schweben
-- `.hover:pb-4.5` - Polsterung unten 0rem beim Schweben
+- `.hover:pb-4.5` - Polsterung unten 4.5rem beim Schweben
 - `.hover:pb-4` - Polsterung unten 4rem beim Schweben
-- `.hover:pb-3.5` - Polsterung unten 0rem beim Schweben
+- `.hover:pb-3.5` - Polsterung unten 3.5rem beim Schweben
 - `.hover:pb-3` - Polsterung unten 3rem beim Schweben
-- `.hover:pb-2.5` - Polsterung unten 0rem beim Schweben
+- `.hover:pb-2.5` - Polsterung unten 2.5rem beim Schweben
 - `.hover:pb-2` - Polsterung unten 2rem beim Schweben
-- `.hover:pb-1.9` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-1.8` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-1.7` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-1.6` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-1.5` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-1.4` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-1.3` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-1.2` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-1.1` - Polsterung unten 0rem beim Schweben
+- `.hover:pb-1.9` - Polsterung unten 1.9rem beim Schweben
+- `.hover:pb-1.8` - Polsterung unten 1.8rem beim Schweben
+- `.hover:pb-1.7` - Polsterung unten 1.7rem beim Schweben
+- `.hover:pb-1.6` - Polsterung unten 1.6rem beim Schweben
+- `.hover:pb-1.5` - Polsterung unten 1.5rem beim Schweben
+- `.hover:pb-1.4` - Polsterung unten 1.4rem beim Schweben
+- `.hover:pb-1.3` - Polsterung unten 1.3rem beim Schweben
+- `.hover:pb-1.2` - Polsterung unten 1.2rem beim Schweben
+- `.hover:pb-1.1` - Polsterung unten 1.1rem beim Schweben
 - `.hover:pb-1` - Polsterung unten 1rem beim Schweben
-- `.hover:pb-0.9` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-0.8` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-0.7` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-0.6` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-0.5` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-0.4` - Polsterung unten 0rem beim Schweben
-- `.hover:pb-0.3` - Polsterung unten 0rem beim Schweben
+- `.hover:pb-0.9` - Polsterung unten 0.9rem beim Schweben
+- `.hover:pb-0.8` - Polsterung unten 0.8rem beim Schweben
+- `.hover:pb-0.7` - Polsterung unten 0.7rem beim Schweben
+- `.hover:pb-0.6` - Polsterung unten 0.6rem beim Schweben
+- `.hover:pb-0.5` - Polsterung unten 0.5rem beim Schweben
+- `.hover:pb-0.4` - Polsterung unten 0.4rem beim Schweben
+- `.hover:pb-0.3` - Polsterung unten 0.3rem beim Schweben
 - `.hover:pb-0.2` - Polsterung unten 0,2rem beim Schweben
 - `.hover:pb-0.1` - Polsterung unten 0,1rem beim Schweben
 - `.hover:pb-0` - Polsterung unten 0rem beim Schweben
@@ -2442,29 +2442,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pb-50` - Polsterung unten 50 %
 - `.pb-25` - Polsterung unten 25 %
 - `.pb-5` - Polsterung unten 5rem
-- `.pb-4.5` - Polsterung unten 0rem
+- `.pb-4.5` - Polsterung unten 4.5rem
 - `.pb-4` - Polsterung unten 4rem
-- `.pb-3.5` - Polsterung unten 0rem
+- `.pb-3.5` - Polsterung unten 3.5rem
 - `.pb-3` - Polsterung unten 3rem
-- `.pb-2.5` - Polsterung unten 0rem
+- `.pb-2.5` - Polsterung unten 2.5rem
 - `.pb-2` - Polsterung unten 2rem
-- `.pb-1.9` - Polsterung unten 0rem
-- `.pb-1.8` - Polsterung unten 0rem
-- `.pb-1.7` - Polsterung unten 0rem
-- `.pb-1.6` - Polsterung unten 0rem
-- `.pb-1.5` - Polsterung unten 0rem
-- `.pb-1.4` - Polsterung unten 0rem
-- `.pb-1.3` - Polsterung unten 0rem
-- `.pb-1.2` - Polsterung unten 0rem
-- `.pb-1.1` - Polsterung unten 0rem
+- `.pb-1.9` - Polsterung unten 1.9rem
+- `.pb-1.8` - Polsterung unten 1.8rem
+- `.pb-1.7` - Polsterung unten 1.7rem
+- `.pb-1.6` - Polsterung unten 1.6rem
+- `.pb-1.5` - Polsterung unten 1.5rem
+- `.pb-1.4` - Polsterung unten 1.4rem
+- `.pb-1.3` - Polsterung unten 1.3rem
+- `.pb-1.2` - Polsterung unten 1.2rem
+- `.pb-1.1` - Polsterung unten 1.1rem
 - `.pb-1` - Polsterung unten 1rem
-- `.pb-0.9` - Polsterung unten 0rem
-- `.pb-0.8` - Polsterung unten 0rem
-- `.pb-0.7` - Polsterung unten 0rem
-- `.pb-0.6` - Polsterung unten 0rem
-- `.pb-0.5` - Polsterung unten 0rem
-- `.pb-0.4` - Polsterung unten 0rem
-- `.pb-0.3` - Polsterung unten 0rem
+- `.pb-0.9` - Polsterung unten 0.9rem
+- `.pb-0.8` - Polsterung unten 0.8rem
+- `.pb-0.7` - Polsterung unten 0.7rem
+- `.pb-0.6` - Polsterung unten 0.6rem
+- `.pb-0.5` - Polsterung unten 0.5rem
+- `.pb-0.4` - Polsterung unten 0.4rem
+- `.pb-0.3` - Polsterung unten 0.3rem
 - `.pb-0.2` - Polsterung unten 0,2rem
 - `.pb-0.1` - Polsterung unten 0,1rem
 - `.pb-0` - Polsterung unten 0rem
@@ -2473,57 +2473,57 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 
 - `.first:pl-0` - Polsterung links 0rem beim ersten Element
 - `.hover:pl-5` - Polsterung links 5rem beim Schweben
-- `.hover:pl-4.5` - Polsterung links 0rem beim Schweben
+- `.hover:pl-4.5` - Polsterung links 4.5rem beim Schweben
 - `.hover:pl-4` - Polsterung links 4rem beim Schweben
-- `.hover:pl-3.5` - Polsterung links 0rem beim Schweben
+- `.hover:pl-3.5` - Polsterung links 3.5rem beim Schweben
 - `.hover:pl-3` - Polsterung links 3rem beim Schweben
-- `.hover:pl-2.5` - Polsterung links 0rem beim Schweben
+- `.hover:pl-2.5` - Polsterung links 2.5rem beim Schweben
 - `.hover:pl-2` - Polsterung links 2rem beim Schweben
-- `.hover:pl-1.9` - Polsterung links 0rem beim Schweben
-- `.hover:pl-1.8` - Polsterung links 0rem beim Schweben
-- `.hover:pl-1.7` - Polsterung links 0rem beim Schweben
-- `.hover:pl-1.6` - Polsterung links 0rem beim Schweben
-- `.hover:pl-1.5` - Polsterung links 0rem beim Schweben
-- `.hover:pl-1.4` - Polsterung links 0rem beim Schweben
-- `.hover:pl-1.3` - Polsterung links 0rem beim Schweben
-- `.hover:pl-1.2` - Polsterung links 0rem beim Schweben
-- `.hover:pl-1.1` - Polsterung links 0rem beim Schweben
+- `.hover:pl-1.9` - Polsterung links 1.9rem beim Schweben
+- `.hover:pl-1.8` - Polsterung links 1.8rem beim Schweben
+- `.hover:pl-1.7` - Polsterung links 1.7rem beim Schweben
+- `.hover:pl-1.6` - Polsterung links 1.6rem beim Schweben
+- `.hover:pl-1.5` - Polsterung links 1.5rem beim Schweben
+- `.hover:pl-1.4` - Polsterung links 1.4rem beim Schweben
+- `.hover:pl-1.3` - Polsterung links 1.3rem beim Schweben
+- `.hover:pl-1.2` - Polsterung links 1.2rem beim Schweben
+- `.hover:pl-1.1` - Polsterung links 1.1rem beim Schweben
 - `.hover:pl-1` - Polsterung links 1rem beim Schweben
-- `.hover:pl-0.9` - Polsterung links 0rem beim Schweben
-- `.hover:pl-0.8` - Polsterung links 0rem beim Schweben
-- `.hover:pl-0.7` - Polsterung links 0rem beim Schweben
-- `.hover:pl-0.6` - Polsterung links 0rem beim Schweben
-- `.hover:pl-0.5` - Polsterung links 0rem beim Schweben
-- `.hover:pl-0.4` - Polsterung links 0rem beim Schweben
-- `.hover:pl-0.3` - Polsterung links 0rem beim Schweben
+- `.hover:pl-0.9` - Polsterung links 0.9rem beim Schweben
+- `.hover:pl-0.8` - Polsterung links 0.8rem beim Schweben
+- `.hover:pl-0.7` - Polsterung links 0.7rem beim Schweben
+- `.hover:pl-0.6` - Polsterung links 0.6rem beim Schweben
+- `.hover:pl-0.5` - Polsterung links 0.5rem beim Schweben
+- `.hover:pl-0.4` - Polsterung links 0.4rem beim Schweben
+- `.hover:pl-0.3` - Polsterung links 0.3rem beim Schweben
 - `.hover:pl-0.2` - Polsterung links 0,2rem beim Schweben
 - `.hover:pl-0.1` - Polsterung links 0,1rem beim Schweben
 - `.hover:pl-0` - Polsterung links 0rem beim Schweben
 - `.last:pl-0` - Polsterung links 0rem zuletzt
 - `.pl-5` - Polsterung links 5rem
-- `.pl-4.5` - Polsterung links 0rem
+- `.pl-4.5` - Polsterung links 4.5rem
 - `.pl-4` - Polsterung links 4rem
-- `.pl-3.5` - Polsterung links 0rem
+- `.pl-3.5` - Polsterung links 3.5rem
 - `.pl-3` - Polsterung links 3rem
-- `.pl-2.5` - Polsterung links 0rem
+- `.pl-2.5` - Polsterung links 2.5rem
 - `.pl-2` - Polsterung links 2rem
-- `.pl-1.9` - Polsterung links 0rem
-- `.pl-1.8` - Polsterung links 0rem
-- `.pl-1.7` - Polsterung links 0rem
-- `.pl-1.6` - Polsterung links 0rem
-- `.pl-1.5` - Polsterung links 0rem
-- `.pl-1.4` - Polsterung links 0rem
-- `.pl-1.3` - Polsterung links 0rem
-- `.pl-1.2` - Polsterung links 0rem
-- `.pl-1.1` - Polsterung links 0rem
+- `.pl-1.9` - Polsterung links 1.9rem
+- `.pl-1.8` - Polsterung links 1.8rem
+- `.pl-1.7` - Polsterung links 1.7rem
+- `.pl-1.6` - Polsterung links 1.6rem
+- `.pl-1.5` - Polsterung links 1.5rem
+- `.pl-1.4` - Polsterung links 1.4rem
+- `.pl-1.3` - Polsterung links 1.3rem
+- `.pl-1.2` - Polsterung links 1.2rem
+- `.pl-1.1` - Polsterung links 1.1rem
 - `.pl-1` - Polsterung links 1rem
-- `.pl-0.9` - Polsterung links 0rem
-- `.pl-0.8` - Polsterung links 0rem
-- `.pl-0.7` - Polsterung links 0rem
-- `.pl-0.6` - Polsterung links 0rem
-- `.pl-0.5` - Polsterung links 0rem
-- `.pl-0.4` - Polsterung links 0rem
-- `.pl-0.3` - Polsterung links 0rem
+- `.pl-0.9` - Polsterung links 0.9rem
+- `.pl-0.8` - Polsterung links 0.8rem
+- `.pl-0.7` - Polsterung links 0.7rem
+- `.pl-0.6` - Polsterung links 0.6rem
+- `.pl-0.5` - Polsterung links 0.5rem
+- `.pl-0.4` - Polsterung links 0.4rem
+- `.pl-0.3` - Polsterung links 0.3rem
 - `.pl-0.2` - Polsterung links 0,2rem
 - `.pl-0.1` - Polsterung links 0,1rem
 - `.pl-0` - Polsterung links 0rem
@@ -2536,29 +2536,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pr-50` - Polsterung rechts 50 % beim Hover
 - `.hover:pr-25` - Polsterung rechts 25 % beim Hover
 - `.hover:pr-5` - Polsterung rechts 5rem beim Hover
-- `.hover:pr-4.5` - Polsterung nach rechts 0rem beim Schweben
+- `.hover:pr-4.5` - Polsterung nach rechts 4.5rem beim Schweben
 - `.hover:pr-4` - Polsterung rechts 4rem beim Hover
-- `.hover:pr-3.5` - Polsterung nach rechts 0rem beim Schweben
+- `.hover:pr-3.5` - Polsterung nach rechts 3.5rem beim Schweben
 - `.hover:pr-3` - Polsterung rechts 3rem beim Schweben
-- `.hover:pr-2.5` - Polsterung nach rechts 0rem beim Schweben
+- `.hover:pr-2.5` - Polsterung nach rechts 2.5rem beim Schweben
 - `.hover:pr-2` - Polsterung rechts 2rem beim Schweben
-- `.hover:pr-1.9` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-1.8` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-1.7` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-1.6` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-1.5` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-1.4` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-1.3` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-1.2` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-1.1` - Polsterung nach rechts 0rem beim Schweben
+- `.hover:pr-1.9` - Polsterung nach rechts 1.9rem beim Schweben
+- `.hover:pr-1.8` - Polsterung nach rechts 1.8rem beim Schweben
+- `.hover:pr-1.7` - Polsterung nach rechts 1.7rem beim Schweben
+- `.hover:pr-1.6` - Polsterung nach rechts 1.6rem beim Schweben
+- `.hover:pr-1.5` - Polsterung nach rechts 1.5rem beim Schweben
+- `.hover:pr-1.4` - Polsterung nach rechts 1.4rem beim Schweben
+- `.hover:pr-1.3` - Polsterung nach rechts 1.3rem beim Schweben
+- `.hover:pr-1.2` - Polsterung nach rechts 1.2rem beim Schweben
+- `.hover:pr-1.1` - Polsterung nach rechts 1.1rem beim Schweben
 - `.hover:pr-1` - Polsterung rechts 1rem beim Schweben
-- `.hover:pr-0.9` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-0.8` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-0.7` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-0.6` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-0.5` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-0.4` - Polsterung nach rechts 0rem beim Schweben
-- `.hover:pr-0.3` - Polsterung nach rechts 0rem beim Schweben
+- `.hover:pr-0.9` - Polsterung nach rechts 0.9rem beim Schweben
+- `.hover:pr-0.8` - Polsterung nach rechts 0.8rem beim Schweben
+- `.hover:pr-0.7` - Polsterung nach rechts 0.7rem beim Schweben
+- `.hover:pr-0.6` - Polsterung nach rechts 0.6rem beim Schweben
+- `.hover:pr-0.5` - Polsterung nach rechts 0.5rem beim Schweben
+- `.hover:pr-0.4` - Polsterung nach rechts 0.4rem beim Schweben
+- `.hover:pr-0.3` - Polsterung nach rechts 0.3rem beim Schweben
 - `.hover:pr-0.2` - Polsterung nach rechts 0,2rem beim Schweben
 - `.hover:pr-0.1` - Polsterung nach rechts 0,1rem beim Schweben
 - `.hover:pr-0` - Polsterung nach rechts 0rem beim Schweben
@@ -2568,29 +2568,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pr-50` - Polsterung rechts 50 %
 - `.pr-25` - Polsterung rechts 25 %
 - `.pr-5` - Polsterung rechts 5rem
-- `.pr-4.5` - Polsterung rechts 0rem
+- `.pr-4.5` - Polsterung rechts 4.5rem
 - `.pr-4` - Polsterung rechts 4rem
-- `.pr-3.5` - Polsterung rechts 0rem
+- `.pr-3.5` - Polsterung rechts 3.5rem
 - `.pr-3` - Polsterung rechts 3rem
-- `.pr-2.5` - Polsterung rechts 0rem
+- `.pr-2.5` - Polsterung rechts 2.5rem
 - `.pr-2` - Polsterung rechts 2rem
-- `.pr-1.9` - Polsterung rechts 0rem
-- `.pr-1.8` - Polsterung rechts 0rem
-- `.pr-1.7` - Polsterung rechts 0rem
-- `.pr-1.6` - Polsterung rechts 0rem
-- `.pr-1.5` - Polsterung rechts 0rem
-- `.pr-1.4` - Polsterung rechts 0rem
-- `.pr-1.3` - Polsterung rechts 0rem
-- `.pr-1.2` - Polsterung rechts 0rem
-- `.pr-1.1` - Polsterung rechts 0rem
+- `.pr-1.9` - Polsterung rechts 1.9rem
+- `.pr-1.8` - Polsterung rechts 1.8rem
+- `.pr-1.7` - Polsterung rechts 1.7rem
+- `.pr-1.6` - Polsterung rechts 1.6rem
+- `.pr-1.5` - Polsterung rechts 1.5rem
+- `.pr-1.4` - Polsterung rechts 1.4rem
+- `.pr-1.3` - Polsterung rechts 1.3rem
+- `.pr-1.2` - Polsterung rechts 1.2rem
+- `.pr-1.1` - Polsterung rechts 1.1rem
 - `.pr-1` - Polsterung rechts 1rem
-- `.pr-0.9` - Polsterung rechts 0rem
-- `.pr-0.8` - Polsterung rechts 0rem
-- `.pr-0.7` - Polsterung rechts 0rem
-- `.pr-0.6` - Polsterung rechts 0rem
-- `.pr-0.5` - Polsterung rechts 0rem
-- `.pr-0.4` - Polsterung rechts 0rem
-- `.pr-0.3` - Polsterung rechts 0rem
+- `.pr-0.9` - Polsterung rechts 0.9rem
+- `.pr-0.8` - Polsterung rechts 0.8rem
+- `.pr-0.7` - Polsterung rechts 0.7rem
+- `.pr-0.6` - Polsterung rechts 0.6rem
+- `.pr-0.5` - Polsterung rechts 0.5rem
+- `.pr-0.4` - Polsterung rechts 0.4rem
+- `.pr-0.3` - Polsterung rechts 0.3rem
 - `.pr-0.2` - Polsterung rechts 0,2rem
 - `.pr-0.1` - Polsterung rechts 0,1rem
 - `.pr-0` - Polsterung rechts 0rem
@@ -2603,29 +2603,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:pt-50` - Polsterung oben 50 % beim Hover
 - `.hover:pt-25` - Polsterung oben 25 % beim Hover
 - `.hover:pt-5` - Polsterung oben 5rem beim Hover
-- `.hover:pt-4.5` - Polsterung oben 0rem beim Schweben
+- `.hover:pt-4.5` - Polsterung oben 4.5rem beim Schweben
 - `.hover:pt-4` - Polsterung oben 4rem beim Hover
-- `.hover:pt-3.5` - Polsterung oben 0rem beim Schweben
+- `.hover:pt-3.5` - Polsterung oben 3.5rem beim Schweben
 - `.hover:pt-3` - Polsterung oben 3rem beim Hover
-- `.hover:pt-2.5` - Polsterung oben 0rem beim Schweben
+- `.hover:pt-2.5` - Polsterung oben 2.5rem beim Schweben
 - `.hover:pt-2` - Polsterung oben 2rem beim Hover
-- `.hover:pt-1.9` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-1.8` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-1.7` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-1.6` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-1.5` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-1.4` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-1.3` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-1.2` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-1.1` - Polsterung oben 0rem beim Schweben
+- `.hover:pt-1.9` - Polsterung oben 1.9rem beim Schweben
+- `.hover:pt-1.8` - Polsterung oben 1.8rem beim Schweben
+- `.hover:pt-1.7` - Polsterung oben 1.7rem beim Schweben
+- `.hover:pt-1.6` - Polsterung oben 1.6rem beim Schweben
+- `.hover:pt-1.5` - Polsterung oben 1.5rem beim Schweben
+- `.hover:pt-1.4` - Polsterung oben 1.4rem beim Schweben
+- `.hover:pt-1.3` - Polsterung oben 1.3rem beim Schweben
+- `.hover:pt-1.2` - Polsterung oben 1.2rem beim Schweben
+- `.hover:pt-1.1` - Polsterung oben 1.1rem beim Schweben
 - `.hover:pt-1` - Polsterung oben 1rem beim Hover
-- `.hover:pt-0.9` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-0.8` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-0.7` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-0.6` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-0.5` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-0.4` - Polsterung oben 0rem beim Schweben
-- `.hover:pt-0.3` - Polsterung oben 0rem beim Schweben
+- `.hover:pt-0.9` - Polsterung oben 0.9rem beim Schweben
+- `.hover:pt-0.8` - Polsterung oben 0.8rem beim Schweben
+- `.hover:pt-0.7` - Polsterung oben 0.7rem beim Schweben
+- `.hover:pt-0.6` - Polsterung oben 0.6rem beim Schweben
+- `.hover:pt-0.5` - Polsterung oben 0.5rem beim Schweben
+- `.hover:pt-0.4` - Polsterung oben 0.4rem beim Schweben
+- `.hover:pt-0.3` - Polsterung oben 0.3rem beim Schweben
 - `.hover:pt-0.2` - Polsterung oben 0.2rem beim Hover
 - `.hover:pt-0.1` - Polsterung oben 0,1rem beim Schweben
 - `.hover:pt-0` - Polsterung oben 0rem beim Schweben
@@ -2635,29 +2635,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.pt-50` - Polsterung oben 50 %
 - `.pt-25` - Polsterung oben 25 %
 - `.pt-5` - Polsterung oben 5rem
-- `.pt-4.5` - Polsterung oben 0rem
+- `.pt-4.5` - Polsterung oben 4.5rem
 - `.pt-4` - Polsterung oben 4rem
-- `.pt-3.5` - Polsterung oben 0rem
+- `.pt-3.5` - Polsterung oben 3.5rem
 - `.pt-3` - Polsterung oben 3rem
-- `.pt-2.5` - Polsterung oben 0rem
+- `.pt-2.5` - Polsterung oben 2.5rem
 - `.pt-2` - Polsterung oben 2rem
-- `.pt-1.9` - Polsterung oben 0rem
-- `.pt-1.8` - Polsterung oben 0rem
-- `.pt-1.7` - Polsterung oben 0rem
-- `.pt-1.6` - Polsterung oben 0rem
-- `.pt-1.5` - Polsterung oben 0rem
-- `.pt-1.4` - Polsterung oben 0rem
-- `.pt-1.3` - Polsterung oben 0rem
-- `.pt-1.2` - Polsterung oben 0rem
-- `.pt-1.1` - Polsterung oben 0rem
+- `.pt-1.9` - Polsterung oben 1.9rem
+- `.pt-1.8` - Polsterung oben 1.8rem
+- `.pt-1.7` - Polsterung oben 1.7rem
+- `.pt-1.6` - Polsterung oben 1.6rem
+- `.pt-1.5` - Polsterung oben 1.5rem
+- `.pt-1.4` - Polsterung oben 1.4rem
+- `.pt-1.3` - Polsterung oben 1.3rem
+- `.pt-1.2` - Polsterung oben 1.2rem
+- `.pt-1.1` - Polsterung oben 1.1rem
 - `.pt-1` - Polsterung oben 1rem
-- `.pt-0.9` - Polsterung oben 0rem
-- `.pt-0.8` - Polsterung oben 0rem
-- `.pt-0.7` - Polsterung oben 0rem
-- `.pt-0.6` - Polsterung oben 0rem
-- `.pt-0.5` - Polsterung oben 0rem
-- `.pt-0.4` - Polsterung oben 0rem
-- `.pt-0.3` - Polsterung oben 0rem
+- `.pt-0.9` - Polsterung oben 0.9rem
+- `.pt-0.8` - Polsterung oben 0.8rem
+- `.pt-0.7` - Polsterung oben 0.7rem
+- `.pt-0.6` - Polsterung oben 0.6rem
+- `.pt-0.5` - Polsterung oben 0.5rem
+- `.pt-0.4` - Polsterung oben 0.4rem
+- `.pt-0.3` - Polsterung oben 0.3rem
 - `.pt-0.2` - Polsterung oben 0,2rem
 - `.pt-0.1` - Polsterung oben 0,1rem
 - `.pt-0` - Polsterung oben 0rem
@@ -2669,29 +2669,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:px-50` - Polsterung der X-Achse 50 % beim Schweben
 - `.hover:px-25` - Polsterung der X-Achse 25 % beim Schweben
 - `.hover:px-5` - Polsterung der X-Achse 5rem beim Schweben
-- `.hover:px-4.5` - Polsterung der X-Achse 0rem beim Schweben
+- `.hover:px-4.5` - Polsterung der X-Achse 4.5rem beim Schweben
 - `.hover:px-4` - Polsterung der X-Achse 4rem beim Schweben
-- `.hover:px-3.5` - Polsterung der X-Achse 0rem beim Schweben
+- `.hover:px-3.5` - Polsterung der X-Achse 3.5rem beim Schweben
 - `.hover:px-3` - Polsterung der X-Achse 3rem beim Schweben
-- `.hover:px-2.5` - Polsterung der X-Achse 0rem beim Schweben
+- `.hover:px-2.5` - Polsterung der X-Achse 2.5rem beim Schweben
 - `.hover:px-2` - Polsterung der X-Achse 2rem beim Schweben
-- `.hover:px-1.9` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-1.8` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-1.7` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-1.6` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-1.5` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-1.4` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-1.3` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-1.2` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-1.1` - Polsterung der X-Achse 0rem beim Schweben
+- `.hover:px-1.9` - Polsterung der X-Achse 1.9rem beim Schweben
+- `.hover:px-1.8` - Polsterung der X-Achse 1.8rem beim Schweben
+- `.hover:px-1.7` - Polsterung der X-Achse 1.7rem beim Schweben
+- `.hover:px-1.6` - Polsterung der X-Achse 1.6rem beim Schweben
+- `.hover:px-1.5` - Polsterung der X-Achse 1.5rem beim Schweben
+- `.hover:px-1.4` - Polsterung der X-Achse 1.4rem beim Schweben
+- `.hover:px-1.3` - Polsterung der X-Achse 1.3rem beim Schweben
+- `.hover:px-1.2` - Polsterung der X-Achse 1.2rem beim Schweben
+- `.hover:px-1.1` - Polsterung der X-Achse 1.1rem beim Schweben
 - `.hover:px-1` - Polsterung der X-Achse 1rem beim Schweben
-- `.hover:px-0.9` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-0.8` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-0.7` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-0.6` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-0.5` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-0.4` - Polsterung der X-Achse 0rem beim Schweben
-- `.hover:px-0.3` - Polsterung der X-Achse 0rem beim Schweben
+- `.hover:px-0.9` - Polsterung der X-Achse 0.9rem beim Schweben
+- `.hover:px-0.8` - Polsterung der X-Achse 0.8rem beim Schweben
+- `.hover:px-0.7` - Polsterung der X-Achse 0.7rem beim Schweben
+- `.hover:px-0.6` - Polsterung der X-Achse 0.6rem beim Schweben
+- `.hover:px-0.5` - Polsterung der X-Achse 0.5rem beim Schweben
+- `.hover:px-0.4` - Polsterung der X-Achse 0.4rem beim Schweben
+- `.hover:px-0.3` - Polsterung der X-Achse 0.3rem beim Schweben
 - `.hover:px-0.2` - Polsterung der X-Achse 0,2rem beim Schweben
 - `.hover:px-0.1` - Polsterung der X-Achse 0,1rem beim Schweben
 - `.hover:px-0` - Polsterung der X-Achse 0rem beim Schweben
@@ -2700,29 +2700,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.px-50` - Polsterung X-Achse 50 %
 - `.px-25` - Polsterung X-Achse 25 %
 - `.px-5` - Polsterung X-Achse 5rem
-- `.px-4.5` - Polsterung X-Achse 0rem
+- `.px-4.5` - Polsterung X-Achse 4.5rem
 - `.px-4` - Polsterung X-Achse 4rem
-- `.px-3.5` - Polsterung X-Achse 0rem
+- `.px-3.5` - Polsterung X-Achse 3.5rem
 - `.px-3` - Polsterung X-Achse 3rem
-- `.px-2.5` - Polsterung X-Achse 0rem
+- `.px-2.5` - Polsterung X-Achse 2.5rem
 - `.px-2` - Polsterung X-Achse 2rem
-- `.px-1.9` - Polsterung X-Achse 0rem
-- `.px-1.8` - Polsterung X-Achse 0rem
-- `.px-1.7` - Polsterung X-Achse 0rem
-- `.px-1.6` - Polsterung X-Achse 0rem
-- `.px-1.5` - Polsterung X-Achse 0rem
-- `.px-1.4` - Polsterung X-Achse 0rem
-- `.px-1.3` - Polsterung X-Achse 0rem
-- `.px-1.2` - Polsterung X-Achse 0rem
-- `.px-1.1` - Polsterung X-Achse 0rem
+- `.px-1.9` - Polsterung X-Achse 1.9rem
+- `.px-1.8` - Polsterung X-Achse 1.8rem
+- `.px-1.7` - Polsterung X-Achse 1.7rem
+- `.px-1.6` - Polsterung X-Achse 1.6rem
+- `.px-1.5` - Polsterung X-Achse 1.5rem
+- `.px-1.4` - Polsterung X-Achse 1.4rem
+- `.px-1.3` - Polsterung X-Achse 1.3rem
+- `.px-1.2` - Polsterung X-Achse 1.2rem
+- `.px-1.1` - Polsterung X-Achse 1.1rem
 - `.px-1` - Polsterung X-Achse 1rem
-- `.px-0.9` - Polsterung X-Achse 0rem
-- `.px-0.8` - Polsterung X-Achse 0rem
-- `.px-0.7` - Polsterung X-Achse 0rem
-- `.px-0.6` - Polsterung X-Achse 0rem
-- `.px-0.5` - Polsterung X-Achse 0rem
-- `.px-0.4` - Polsterung X-Achse 0rem
-- `.px-0.3` - Polsterung X-Achse 0rem
+- `.px-0.9` - Polsterung X-Achse 0.9rem
+- `.px-0.8` - Polsterung X-Achse 0.8rem
+- `.px-0.7` - Polsterung X-Achse 0.7rem
+- `.px-0.6` - Polsterung X-Achse 0.6rem
+- `.px-0.5` - Polsterung X-Achse 0.5rem
+- `.px-0.4` - Polsterung X-Achse 0.4rem
+- `.px-0.3` - Polsterung X-Achse 0.3rem
 - `.px-0.2` - Polsterung X-Achse 0,2rem
 - `.px-0.1` - Polsterung X-Achse 0,1rem
 - `.px-0` - Polsterung X-Achse 0rem
@@ -2734,29 +2734,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:py-50` - Polsterung der Y-Achse 50 % beim Schweben
 - `.hover:py-25` - Polsterung der Y-Achse 25 % beim Schweben
 - `.hover:py-5` - Polsterung der Y-Achse 5rem beim Schweben
-- `.hover:py-4.5` - Polsterung der Y-Achse 0rem beim Schweben
+- `.hover:py-4.5` - Polsterung der Y-Achse 4.5rem beim Schweben
 - `.hover:py-4` - Polsterung der Y-Achse 4rem beim Schweben
-- `.hover:py-3.5` - Polsterung der Y-Achse 0rem beim Schweben
+- `.hover:py-3.5` - Polsterung der Y-Achse 3.5rem beim Schweben
 - `.hover:py-3` - Polsterung der Y-Achse 3rem beim Schweben
-- `.hover:py-2.5` - Polsterung der Y-Achse 0rem beim Schweben
+- `.hover:py-2.5` - Polsterung der Y-Achse 2.5rem beim Schweben
 - `.hover:py-2` - Polsterung der Y-Achse 2rem beim Schweben
-- `.hover:py-1.9` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-1.8` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-1.7` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-1.6` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-1.5` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-1.4` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-1.3` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-1.2` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-1.1` - Polsterung der Y-Achse 0rem beim Schweben
+- `.hover:py-1.9` - Polsterung der Y-Achse 1.9rem beim Schweben
+- `.hover:py-1.8` - Polsterung der Y-Achse 1.8rem beim Schweben
+- `.hover:py-1.7` - Polsterung der Y-Achse 1.7rem beim Schweben
+- `.hover:py-1.6` - Polsterung der Y-Achse 1.6rem beim Schweben
+- `.hover:py-1.5` - Polsterung der Y-Achse 1.5rem beim Schweben
+- `.hover:py-1.4` - Polsterung der Y-Achse 1.4rem beim Schweben
+- `.hover:py-1.3` - Polsterung der Y-Achse 1.3rem beim Schweben
+- `.hover:py-1.2` - Polsterung der Y-Achse 1.2rem beim Schweben
+- `.hover:py-1.1` - Polsterung der Y-Achse 1.1rem beim Schweben
 - `.hover:py-1` - Polsterung der Y-Achse 1rem beim Schweben
-- `.hover:py-0.9` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-0.8` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-0.7` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-0.6` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-0.5` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-0.4` - Polsterung der Y-Achse 0rem beim Schweben
-- `.hover:py-0.3` - Polsterung der Y-Achse 0rem beim Schweben
+- `.hover:py-0.9` - Polsterung der Y-Achse 0.9rem beim Schweben
+- `.hover:py-0.8` - Polsterung der Y-Achse 0.8rem beim Schweben
+- `.hover:py-0.7` - Polsterung der Y-Achse 0.7rem beim Schweben
+- `.hover:py-0.6` - Polsterung der Y-Achse 0.6rem beim Schweben
+- `.hover:py-0.5` - Polsterung der Y-Achse 0.5rem beim Schweben
+- `.hover:py-0.4` - Polsterung der Y-Achse 0.4rem beim Schweben
+- `.hover:py-0.3` - Polsterung der Y-Achse 0.3rem beim Schweben
 - `.hover:py-0.2` - Polsterung der Y-Achse 0,2rem beim Schweben
 - `.hover:py-0.1` - Polsterung der Y-Achse 0,1rem beim Schweben
 - `.hover:py-0` - Polsterung der Y-Achse 0rem beim Schweben
@@ -2765,29 +2765,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.py-50` - Polsterung Y-Achse 50 %
 - `.py-25` - Polsterung Y-Achse 25 %
 - `.py-5` - Polsterung Y-Achse 5rem
-- `.py-4.5` - Polsterung Y-Achse 0rem
+- `.py-4.5` - Polsterung Y-Achse 4.5rem
 - `.py-4` - Polsterung Y-Achse 4rem
-- `.py-3.5` - Polsterung Y-Achse 0rem
+- `.py-3.5` - Polsterung Y-Achse 3.5rem
 - `.py-3` - Polsterung Y-Achse 3rem
-- `.py-2.5` - Polsterung Y-Achse 0rem
+- `.py-2.5` - Polsterung Y-Achse 2.5rem
 - `.py-2` - Polsterung Y-Achse 2rem
-- `.py-1.9` - Polsterung Y-Achse 0rem
-- `.py-1.8` - Polsterung Y-Achse 0rem
-- `.py-1.7` - Polsterung Y-Achse 0rem
-- `.py-1.6` - Polsterung Y-Achse 0rem
-- `.py-1.5` - Polsterung Y-Achse 0rem
-- `.py-1.4` - Polsterung Y-Achse 0rem
-- `.py-1.3` - Polsterung Y-Achse 0rem
-- `.py-1.2` - Polsterung Y-Achse 0rem
-- `.py-1.1` - Polsterung Y-Achse 0rem
+- `.py-1.9` - Polsterung Y-Achse 1.9rem
+- `.py-1.8` - Polsterung Y-Achse 1.8rem
+- `.py-1.7` - Polsterung Y-Achse 1.7rem
+- `.py-1.6` - Polsterung Y-Achse 1.6rem
+- `.py-1.5` - Polsterung Y-Achse 1.5rem
+- `.py-1.4` - Polsterung Y-Achse 1.4rem
+- `.py-1.3` - Polsterung Y-Achse 1.3rem
+- `.py-1.2` - Polsterung Y-Achse 1.2rem
+- `.py-1.1` - Polsterung Y-Achse 1.1rem
 - `.py-1` - Polsterung Y-Achse 1rem
-- `.py-0.9` - Polsterung Y-Achse 0rem
-- `.py-0.8` - Polsterung Y-Achse 0rem
-- `.py-0.7` - Polsterung Y-Achse 0rem
-- `.py-0.6` - Polsterung Y-Achse 0rem
-- `.py-0.5` - Polsterung Y-Achse 0rem
-- `.py-0.4` - Polsterung Y-Achse 0rem
-- `.py-0.3` - Polsterung Y-Achse 0rem
+- `.py-0.9` - Polsterung Y-Achse 0.9rem
+- `.py-0.8` - Polsterung Y-Achse 0.8rem
+- `.py-0.7` - Polsterung Y-Achse 0.7rem
+- `.py-0.6` - Polsterung Y-Achse 0.6rem
+- `.py-0.5` - Polsterung Y-Achse 0.5rem
+- `.py-0.4` - Polsterung Y-Achse 0.4rem
+- `.py-0.3` - Polsterung Y-Achse 0.3rem
 - `.py-0.2` - Polsterung Y-Achse 0,2rem
 - `.py-0.1` - Polsterung Y-Achse 0,1rem
 - `.py-0` - Polsterung Y-Achse 0rem
@@ -3681,29 +3681,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:top-50` - Abstand oben 50 % beim Hover
 - `.hover:top-25` - Abstand oben 25 % beim Hover
 - `.hover:top-5` - Abstand oben 5rem beim Hover
-- `.hover:top-4.5` - Abstand oben 0rem beim Hover
+- `.hover:top-4.5` - Abstand oben 4.5rem beim Hover
 - `.hover:top-4` - Abstand oben 4rem beim Hover
-- `.hover:top-3.5` - Abstand oben 0rem beim Hover
+- `.hover:top-3.5` - Abstand oben 3.5rem beim Hover
 - `.hover:top-3` - Abstand oben 3rem beim Hover
-- `.hover:top-2.5` - Abstand oben 0rem beim Hover
+- `.hover:top-2.5` - Abstand oben 2.5rem beim Hover
 - `.hover:top-2` - Abstand oben 2rem beim Hover
-- `.hover:top-1.9` - Abstand oben 0rem beim Hover
-- `.hover:top-1.8` - Abstand oben 0rem beim Hover
-- `.hover:top-1.7` - Abstand oben 0rem beim Hover
-- `.hover:top-1.6` - Abstand oben 0rem beim Hover
-- `.hover:top-1.5` - Abstand oben 0rem beim Hover
-- `.hover:top-1.4` - Abstand oben 0rem beim Hover
-- `.hover:top-1.3` - Abstand oben 0rem beim Hover
-- `.hover:top-1.2` - Abstand oben 0rem beim Hover
-- `.hover:top-1.1` - Abstand oben 0rem beim Hover
+- `.hover:top-1.9` - Abstand oben 1.9rem beim Hover
+- `.hover:top-1.8` - Abstand oben 1.8rem beim Hover
+- `.hover:top-1.7` - Abstand oben 1.7rem beim Hover
+- `.hover:top-1.6` - Abstand oben 1.6rem beim Hover
+- `.hover:top-1.5` - Abstand oben 1.5rem beim Hover
+- `.hover:top-1.4` - Abstand oben 1.4rem beim Hover
+- `.hover:top-1.3` - Abstand oben 1.3rem beim Hover
+- `.hover:top-1.2` - Abstand oben 1.2rem beim Hover
+- `.hover:top-1.1` - Abstand oben 1.1rem beim Hover
 - `.hover:top-1` - Abstand oben 1rem beim Hover
-- `.hover:top-0.9` - Abstand oben 0rem beim Hover
-- `.hover:top-0.8` - Abstand oben 0rem beim Hover
-- `.hover:top-0.7` - Abstand oben 0rem beim Hover
-- `.hover:top-0.6` - Abstand oben 0rem beim Hover
-- `.hover:top-0.5` - Abstand oben 0rem beim Hover
-- `.hover:top-0.4` - Abstand oben 0rem beim Hover
-- `.hover:top-0.3` - Abstand oben 0rem beim Hover
+- `.hover:top-0.9` - Abstand oben 0.9rem beim Hover
+- `.hover:top-0.8` - Abstand oben 0.8rem beim Hover
+- `.hover:top-0.7` - Abstand oben 0.7rem beim Hover
+- `.hover:top-0.6` - Abstand oben 0.6rem beim Hover
+- `.hover:top-0.5` - Abstand oben 0.5rem beim Hover
+- `.hover:top-0.4` - Abstand oben 0.4rem beim Hover
+- `.hover:top-0.3` - Abstand oben 0.3rem beim Hover
 - `.hover:top-0.2` - Abstand oben 0.2rem beim Hover
 - `.hover:top-0.1` - Abstand oben 0.1rem beim Hover
 - `.hover:top-0` - Abstand oben 0rem beim Hover
@@ -3712,29 +3712,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.top-50` - Abstand oben 50 %
 - `.top-25` - Abstand oben 25 %
 - `.top-5` - Abstand oben 5rem
-- `.top-4.5` - Abstand oben 0rem
+- `.top-4.5` - Abstand oben 4.5rem
 - `.top-4` - Abstand oben 4rem
-- `.top-3.5` - Abstand oben 0rem
+- `.top-3.5` - Abstand oben 3.5rem
 - `.top-3` - Abstand oben 3rem
-- `.top-2.5` - Abstand oben 0rem
+- `.top-2.5` - Abstand oben 2.5rem
 - `.top-2` - Abstand oben 2rem
-- `.top-1.9` - Abstand oben 0rem
-- `.top-1.8` - Abstand oben 0rem
-- `.top-1.7` - Abstand oben 0rem
-- `.top-1.6` - Abstand oben 0rem
-- `.top-1.5` - Abstand oben 0rem
-- `.top-1.4` - Abstand oben 0rem
-- `.top-1.3` - Abstand oben 0rem
-- `.top-1.2` - Abstand oben 0rem
-- `.top-1.1` - Abstand oben 0rem
+- `.top-1.9` - Abstand oben 1.9rem
+- `.top-1.8` - Abstand oben 1.8rem
+- `.top-1.7` - Abstand oben 1.7rem
+- `.top-1.6` - Abstand oben 1.6rem
+- `.top-1.5` - Abstand oben 1.5rem
+- `.top-1.4` - Abstand oben 1.4rem
+- `.top-1.3` - Abstand oben 1.3rem
+- `.top-1.2` - Abstand oben 1.2rem
+- `.top-1.1` - Abstand oben 1.1rem
 - `.top-1` - Abstand oben 1rem
-- `.top-0.9` - Abstand oben 0rem
-- `.top-0.8` - Abstand oben 0rem
-- `.top-0.7` - Abstand oben 0rem
-- `.top-0.6` - Abstand oben 0rem
-- `.top-0.5` - Abstand oben 0rem
-- `.top-0.4` - Abstand oben 0rem
-- `.top-0.3` - Abstand oben 0rem
+- `.top-0.9` - Abstand oben 0.9rem
+- `.top-0.8` - Abstand oben 0.8rem
+- `.top-0.7` - Abstand oben 0.7rem
+- `.top-0.6` - Abstand oben 0.6rem
+- `.top-0.5` - Abstand oben 0.5rem
+- `.top-0.4` - Abstand oben 0.4rem
+- `.top-0.3` - Abstand oben 0.3rem
 - `.top-0.2` - Abstand oben 0.2rem
 - `.top-0.1` - Abstand oben 0.1rem
 - `.top-0` - Abstand oben 0rem
@@ -3742,54 +3742,54 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 ##### Negative Top
 
 - `.-top-5` - Negativer Abstand oben 5rem
-- `.-top-4.5` - Negativer Abstand oben 0rem
+- `.-top-4.5` - Negativer Abstand oben 4.5rem
 - `.-top-4` - Negativer Abstand oben 4rem
-- `.-top-3.5` - Negativer Abstand oben 0rem
+- `.-top-3.5` - Negativer Abstand oben 3.5rem
 - `.-top-3` - Negativer Abstand oben 3rem
-- `.-top-2.5` - Negativer Abstand oben 0rem
+- `.-top-2.5` - Negativer Abstand oben 2.5rem
 - `.-top-2` - Negativer Abstand oben 2rem
-- `.-top-1.9` - Negativer Abstand oben 0rem
-- `.-top-1.8` - Negativer Abstand oben 0rem
-- `.-top-1.7` - Negativer Abstand oben 0rem
-- `.-top-1.6` - Negativer Abstand oben 0rem
-- `.-top-1.5` - Negativer Abstand oben 0rem
-- `.-top-1.4` - Negativer Abstand oben 0rem
-- `.-top-1.3` - Negativer Abstand oben 0rem
-- `.-top-1.2` - Negativer Abstand oben 0rem
-- `.-top-1.1` - Negativer Abstand oben 0rem
+- `.-top-1.9` - Negativer Abstand oben 1.9rem
+- `.-top-1.8` - Negativer Abstand oben 1.8rem
+- `.-top-1.7` - Negativer Abstand oben 1.7rem
+- `.-top-1.6` - Negativer Abstand oben 1.6rem
+- `.-top-1.5` - Negativer Abstand oben 1.5rem
+- `.-top-1.4` - Negativer Abstand oben 1.4rem
+- `.-top-1.3` - Negativer Abstand oben 1.3rem
+- `.-top-1.2` - Negativer Abstand oben 1.2rem
+- `.-top-1.1` - Negativer Abstand oben 1.1rem
 - `.-top-1` - Negativer Abstand oben 1rem
-- `.-top-0.9` - Negativer Abstand oben 0rem
-- `.-top-0.8` - Negativer Abstand oben 0rem
-- `.-top-0.7` - Negativer Abstand oben 0rem
-- `.-top-0.6` - Negativer Abstand oben 0rem
-- `.-top-0.5` - Negativer Abstand oben 0rem
-- `.-top-0.4` - Negativer Abstand oben 0rem
+- `.-top-0.9` - Negativer Abstand oben 0.9rem
+- `.-top-0.8` - Negativer Abstand oben 0.8rem
+- `.-top-0.7` - Negativer Abstand oben 0.7rem
+- `.-top-0.6` - Negativer Abstand oben 0.6rem
+- `.-top-0.5` - Negativer Abstand oben 0.5rem
+- `.-top-0.4` - Negativer Abstand oben 0.4rem
 - `.-top-0.3` - Negativer Abstand oben 0.3rem
 - `.-top-0.2` - Negativer Abstand oben 0.2rem
 - `.-top-0.1` - Negativer Abstand oben 0.1rem
 - `.hover:-top-5` - Negativer Abstand oben 5rem beim Hover
-- `.hover:-top-4.5` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-4.5` - Negativer Abstand oben 4.5rem beim Hover
 - `.hover:-top-4` - Negativer Abstand oben 4rem beim Hover
-- `.hover:-top-3.5` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-3.5` - Negativer Abstand oben 3.5rem beim Hover
 - `.hover:-top-3` - Negativer Abstand oben 3rem beim Hover
-- `.hover:-top-2.5` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-2.5` - Negativer Abstand oben 2.5rem beim Hover
 - `.hover:-top-2` - Negativer Abstand oben 2rem beim Hover
-- `.hover:-top-1.9` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-1.8` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-1.7` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-1.6` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-1.5` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-1.4` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-1.3` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-1.2` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-1.1` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-1.9` - Negativer Abstand oben 1.9rem beim Hover
+- `.hover:-top-1.8` - Negativer Abstand oben 1.8rem beim Hover
+- `.hover:-top-1.7` - Negativer Abstand oben 1.7rem beim Hover
+- `.hover:-top-1.6` - Negativer Abstand oben 1.6rem beim Hover
+- `.hover:-top-1.5` - Negativer Abstand oben 1.5rem beim Hover
+- `.hover:-top-1.4` - Negativer Abstand oben 1.4rem beim Hover
+- `.hover:-top-1.3` - Negativer Abstand oben 1.3rem beim Hover
+- `.hover:-top-1.2` - Negativer Abstand oben 1.2rem beim Hover
+- `.hover:-top-1.1` - Negativer Abstand oben 1.1rem beim Hover
 - `.hover:-top-1` - Negativer Abstand oben 1rem beim Hover
-- `.hover:-top-0.9` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-0.8` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-0.7` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-0.6` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-0.5` - Negativer Abstand oben 0rem beim Hover
-- `.hover:-top-0.4` - Negativer Abstand oben 0rem beim Hover
+- `.hover:-top-0.9` - Negativer Abstand oben 0.9rem beim Hover
+- `.hover:-top-0.8` - Negativer Abstand oben 0.8rem beim Hover
+- `.hover:-top-0.7` - Negativer Abstand oben 0.7rem beim Hover
+- `.hover:-top-0.6` - Negativer Abstand oben 0.6rem beim Hover
+- `.hover:-top-0.5` - Negativer Abstand oben 0.5rem beim Hover
+- `.hover:-top-0.4` - Negativer Abstand oben 0.4rem beim Hover
 - `.hover:-top-0.3` - Negativer Abstand oben 0.3rem beim Hover
 - `.hover:-top-0.2` - Negativer Abstand oben 0.2rem beim Hover
 - `.hover:-top-0.1` - Negativer Abstand oben 0.1rem beim Hover
@@ -3801,29 +3801,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:right-50` - Abstand rechts 50 % beim Hover
 - `.hover:right-25` - Abstand rechts 25 % beim Hover
 - `.hover:right-5` - Abstand rechts 5rem beim Hover
-- `.hover:right-4.5` - Abstand rechts 0rem beim Hover
+- `.hover:right-4.5` - Abstand rechts 4.5rem beim Hover
 - `.hover:right-4` - Abstand rechts 4rem beim Hover
-- `.hover:right-3.5` - Abstand rechts 0rem beim Hover
+- `.hover:right-3.5` - Abstand rechts 3.5rem beim Hover
 - `.hover:right-3` - Abstand rechts 3rem beim Hover
-- `.hover:right-2.5` - Abstand rechts 0rem beim Hover
+- `.hover:right-2.5` - Abstand rechts 2.5rem beim Hover
 - `.hover:right-2` - Abstand rechts 2rem beim Hover
-- `.hover:right-1.9` - Abstand rechts 0rem beim Hover
-- `.hover:right-1.8` - Abstand rechts 0rem beim Hover
-- `.hover:right-1.7` - Abstand rechts 0rem beim Hover
-- `.hover:right-1.6` - Abstand rechts 0rem beim Hover
-- `.hover:right-1.5` - Abstand rechts 0rem beim Hover
-- `.hover:right-1.4` - Abstand rechts 0rem beim Hover
-- `.hover:right-1.3` - Abstand rechts 0rem beim Hover
-- `.hover:right-1.2` - Abstand rechts 0rem beim Hover
-- `.hover:right-1.1` - Abstand rechts 0rem beim Hover
+- `.hover:right-1.9` - Abstand rechts 1.9rem beim Hover
+- `.hover:right-1.8` - Abstand rechts 1.8rem beim Hover
+- `.hover:right-1.7` - Abstand rechts 1.7rem beim Hover
+- `.hover:right-1.6` - Abstand rechts 1.6rem beim Hover
+- `.hover:right-1.5` - Abstand rechts 1.5rem beim Hover
+- `.hover:right-1.4` - Abstand rechts 1.4rem beim Hover
+- `.hover:right-1.3` - Abstand rechts 1.3rem beim Hover
+- `.hover:right-1.2` - Abstand rechts 1.2rem beim Hover
+- `.hover:right-1.1` - Abstand rechts 1.1rem beim Hover
 - `.hover:right-1` - Abstand rechts 1rem beim Hover
-- `.hover:right-0.9` - Abstand rechts 0rem beim Hover
-- `.hover:right-0.8` - Abstand rechts 0rem beim Hover
-- `.hover:right-0.7` - Abstand rechts 0rem beim Hover
-- `.hover:right-0.6` - Abstand rechts 0rem beim Hover
-- `.hover:right-0.5` - Abstand rechts 0rem beim Hover
-- `.hover:right-0.4` - Abstand rechts 0rem beim Hover
-- `.hover:right-0.3` - Abstand rechts 0rem beim Hover
+- `.hover:right-0.9` - Abstand rechts 0.9rem beim Hover
+- `.hover:right-0.8` - Abstand rechts 0.8rem beim Hover
+- `.hover:right-0.7` - Abstand rechts 0.7rem beim Hover
+- `.hover:right-0.6` - Abstand rechts 0.6rem beim Hover
+- `.hover:right-0.5` - Abstand rechts 0.5rem beim Hover
+- `.hover:right-0.4` - Abstand rechts 0.4rem beim Hover
+- `.hover:right-0.3` - Abstand rechts 0.3rem beim Hover
 - `.hover:right-0.2` - Abstand rechts 0.2rem beim Hover
 - `.hover:right-0.1` - Abstand rechts 0.1rem beim Hover
 - `.hover:right-0` - Abstand rechts 0rem beim Hover
@@ -3832,29 +3832,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.right-50` - Abstand rechts 50 %
 - `.right-25` - Abstand rechts 25 %
 - `.right-5` - Abstand rechts 5rem
-- `.right-4.5` - Abstand rechts 0rem
+- `.right-4.5` - Abstand rechts 4.5rem
 - `.right-4` - Abstand rechts 4rem
-- `.right-3.5` - Abstand rechts 0rem
+- `.right-3.5` - Abstand rechts 3.5rem
 - `.right-3` - Abstand rechts 3rem
-- `.right-2.5` - Abstand rechts 0rem
+- `.right-2.5` - Abstand rechts 2.5rem
 - `.right-2` - Abstand rechts 2rem
-- `.right-1.9` - Abstand rechts 0rem
-- `.right-1.8` - Abstand rechts 0rem
-- `.right-1.7` - Abstand rechts 0rem
-- `.right-1.6` - Abstand rechts 0rem
-- `.right-1.5` - Abstand rechts 0rem
-- `.right-1.4` - Abstand rechts 0rem
-- `.right-1.3` - Abstand rechts 0rem
-- `.right-1.2` - Abstand rechts 0rem
-- `.right-1.1` - Abstand rechts 0rem
+- `.right-1.9` - Abstand rechts 1.9rem
+- `.right-1.8` - Abstand rechts 1.8rem
+- `.right-1.7` - Abstand rechts 1.7rem
+- `.right-1.6` - Abstand rechts 1.6rem
+- `.right-1.5` - Abstand rechts 1.5rem
+- `.right-1.4` - Abstand rechts 1.4rem
+- `.right-1.3` - Abstand rechts 1.3rem
+- `.right-1.2` - Abstand rechts 1.2rem
+- `.right-1.1` - Abstand rechts 1.1rem
 - `.right-1` - Abstand rechts 1rem
-- `.right-0.9` - Abstand rechts 0rem
-- `.right-0.8` - Abstand rechts 0rem
-- `.right-0.7` - Abstand rechts 0rem
-- `.right-0.6` - Abstand rechts 0rem
-- `.right-0.5` - Abstand rechts 0rem
-- `.right-0.4` - Abstand rechts 0rem
-- `.right-0.3` - Abstand rechts 0rem
+- `.right-0.9` - Abstand rechts 0.9rem
+- `.right-0.8` - Abstand rechts 0.8rem
+- `.right-0.7` - Abstand rechts 0.7rem
+- `.right-0.6` - Abstand rechts 0.6rem
+- `.right-0.5` - Abstand rechts 0.5rem
+- `.right-0.4` - Abstand rechts 0.4rem
+- `.right-0.3` - Abstand rechts 0.3rem
 - `.right-0.2` - Abstand rechts 0.2rem
 - `.right-0.1` - Abstand rechts 0.1rem
 - `.right-0` - Abstand rechts 0rem
@@ -3862,54 +3862,54 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 ##### Negative Right
 
 - `.-right-5` - Negativer Abstand rechts 5rem
-- `.-right-4.5` - Negativer Abstand rechts 0rem
+- `.-right-4.5` - Negativer Abstand rechts 4.5rem
 - `.-right-4` - Negativer Abstand rechts 4rem
-- `.-right-3.5` - Negativer Abstand rechts 0rem
+- `.-right-3.5` - Negativer Abstand rechts 3.5rem
 - `.-right-3` - Negativer Abstand rechts 3rem
-- `.-right-2.5` - Negativer Abstand rechts 0rem
+- `.-right-2.5` - Negativer Abstand rechts 2.5rem
 - `.-right-2` - Negativer Abstand rechts 2rem
-- `.-right-1.9` - Negativer Abstand rechts 0rem
-- `.-right-1.8` - Negativer Abstand rechts 0rem
-- `.-right-1.7` - Negativer Abstand rechts 0rem
-- `.-right-1.6` - Negativer Abstand rechts 0rem
-- `.-right-1.5` - Negativer Abstand rechts 0rem
-- `.-right-1.4` - Negativer Abstand rechts 0rem
-- `.-right-1.3` - Negativer Abstand rechts 0rem
-- `.-right-1.2` - Negativer Abstand rechts 0rem
-- `.-right-1.1` - Negativer Abstand rechts 0rem
+- `.-right-1.9` - Negativer Abstand rechts 1.9rem
+- `.-right-1.8` - Negativer Abstand rechts 1.8rem
+- `.-right-1.7` - Negativer Abstand rechts 1.7rem
+- `.-right-1.6` - Negativer Abstand rechts 1.6rem
+- `.-right-1.5` - Negativer Abstand rechts 1.5rem
+- `.-right-1.4` - Negativer Abstand rechts 1.4rem
+- `.-right-1.3` - Negativer Abstand rechts 1.3rem
+- `.-right-1.2` - Negativer Abstand rechts 1.2rem
+- `.-right-1.1` - Negativer Abstand rechts 1.1rem
 - `.-right-1` - Negativer Abstand rechts 1rem
-- `.-right-0.9` - Negativer Abstand rechts 0rem
-- `.-right-0.8` - Negativer Abstand rechts 0rem
-- `.-right-0.7` - Negativer Abstand rechts 0rem
-- `.-right-0.6` - Negativer Abstand rechts 0rem
-- `.-right-0.5` - Negativer Abstand rechts 0rem
-- `.-right-0.4` - Negativer Abstand rechts 0rem
+- `.-right-0.9` - Negativer Abstand rechts 0.9rem
+- `.-right-0.8` - Negativer Abstand rechts 0.8rem
+- `.-right-0.7` - Negativer Abstand rechts 0.7rem
+- `.-right-0.6` - Negativer Abstand rechts 0.6rem
+- `.-right-0.5` - Negativer Abstand rechts 0.5rem
+- `.-right-0.4` - Negativer Abstand rechts 0.4rem
 - `.-right-0.3` - Negativer Abstand rechts 0.3rem
 - `.-right-0.2` - Negativer Abstand rechts 0.2rem
 - `.-right-0.1` - Negativer Abstand rechts 0.1rem
 - `.hover:-right-5` - Negativer Abstand rechts 5rem beim Hover
-- `.hover:-right-4.5` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-4.5` - Negativer Abstand rechts 4.5rem beim Hover
 - `.hover:-right-4` - Negativer Abstand rechts 4rem beim Hover
-- `.hover:-right-3.5` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-3.5` - Negativer Abstand rechts 3.5rem beim Hover
 - `.hover:-right-3` - Negativer Abstand rechts 3rem beim Hover
-- `.hover:-right-2.5` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-2.5` - Negativer Abstand rechts 2.5rem beim Hover
 - `.hover:-right-2` - Negativer Abstand rechts 2rem beim Hover
-- `.hover:-right-1.9` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-1.8` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-1.7` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-1.6` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-1.5` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-1.4` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-1.3` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-1.2` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-1.1` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-1.9` - Negativer Abstand rechts 1.9rem beim Hover
+- `.hover:-right-1.8` - Negativer Abstand rechts 1.8rem beim Hover
+- `.hover:-right-1.7` - Negativer Abstand rechts 1.7rem beim Hover
+- `.hover:-right-1.6` - Negativer Abstand rechts 1.6rem beim Hover
+- `.hover:-right-1.5` - Negativer Abstand rechts 1.5rem beim Hover
+- `.hover:-right-1.4` - Negativer Abstand rechts 1.4rem beim Hover
+- `.hover:-right-1.3` - Negativer Abstand rechts 1.3rem beim Hover
+- `.hover:-right-1.2` - Negativer Abstand rechts 1.2rem beim Hover
+- `.hover:-right-1.1` - Negativer Abstand rechts 1.1rem beim Hover
 - `.hover:-right-1` - Negativer Abstand rechts 1rem beim Hover
-- `.hover:-right-0.9` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-0.8` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-0.7` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-0.6` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-0.5` - Negativer Abstand rechts 0rem beim Hover
-- `.hover:-right-0.4` - Negativer Abstand rechts 0rem beim Hover
+- `.hover:-right-0.9` - Negativer Abstand rechts 0.9rem beim Hover
+- `.hover:-right-0.8` - Negativer Abstand rechts 0.8rem beim Hover
+- `.hover:-right-0.7` - Negativer Abstand rechts 0.7rem beim Hover
+- `.hover:-right-0.6` - Negativer Abstand rechts 0.6rem beim Hover
+- `.hover:-right-0.5` - Negativer Abstand rechts 0.5rem beim Hover
+- `.hover:-right-0.4` - Negativer Abstand rechts 0.4rem beim Hover
 - `.hover:-right-0.3` - Negativer Abstand rechts 0.3rem beim Hover
 - `.hover:-right-0.2` - Negativer Abstand rechts 0.2rem beim Hover
 - `.hover:-right-0.1` - Negativer Abstand rechts 0.1rem beim Hover
@@ -3921,29 +3921,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.bottom-50` - Abstand unten 50 %
 - `.bottom-25` - Abstand unten 25 %
 - `.bottom-5` - Abstand unten 5rem
-- `.bottom-4.5` - Abstand unten 0rem
+- `.bottom-4.5` - Abstand unten 4.5rem
 - `.bottom-4` - Abstand unten 4rem
-- `.bottom-3.5` - Abstand unten 0rem
+- `.bottom-3.5` - Abstand unten 3.5rem
 - `.bottom-3` - Abstand unten 3rem
-- `.bottom-2.5` - Abstand unten 0rem
+- `.bottom-2.5` - Abstand unten 2.5rem
 - `.bottom-2` - Abstand unten 2rem
-- `.bottom-1.9` - Abstand unten 0rem
-- `.bottom-1.8` - Abstand unten 0rem
-- `.bottom-1.7` - Abstand unten 0rem
-- `.bottom-1.6` - Abstand unten 0rem
-- `.bottom-1.5` - Abstand unten 0rem
-- `.bottom-1.4` - Abstand unten 0rem
-- `.bottom-1.3` - Abstand unten 0rem
-- `.bottom-1.2` - Abstand unten 0rem
-- `.bottom-1.1` - Abstand unten 0rem
+- `.bottom-1.9` - Abstand unten 1.9rem
+- `.bottom-1.8` - Abstand unten 1.8rem
+- `.bottom-1.7` - Abstand unten 1.7rem
+- `.bottom-1.6` - Abstand unten 1.6rem
+- `.bottom-1.5` - Abstand unten 1.5rem
+- `.bottom-1.4` - Abstand unten 1.4rem
+- `.bottom-1.3` - Abstand unten 1.3rem
+- `.bottom-1.2` - Abstand unten 1.2rem
+- `.bottom-1.1` - Abstand unten 1.1rem
 - `.bottom-1` - Abstand unten 1rem
-- `.bottom-0.9` - Abstand unten 0rem
-- `.bottom-0.8` - Abstand unten 0rem
-- `.bottom-0.7` - Abstand unten 0rem
-- `.bottom-0.6` - Abstand unten 0rem
-- `.bottom-0.5` - Abstand unten 0rem
-- `.bottom-0.4` - Abstand unten 0rem
-- `.bottom-0.3` - Abstand unten 0rem
+- `.bottom-0.9` - Abstand unten 0.9rem
+- `.bottom-0.8` - Abstand unten 0.8rem
+- `.bottom-0.7` - Abstand unten 0.7rem
+- `.bottom-0.6` - Abstand unten 0.6rem
+- `.bottom-0.5` - Abstand unten 0.5rem
+- `.bottom-0.4` - Abstand unten 0.4rem
+- `.bottom-0.3` - Abstand unten 0.3rem
 - `.bottom-0.2` - Abstand unten 0.2rem
 - `.bottom-0.1` - Abstand unten 0.1rem
 - `.bottom-0` - Abstand unten 0rem
@@ -3952,29 +3952,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:bottom-50` - Abstand unten 50 % beim Hover
 - `.hover:bottom-25` - Abstand unten 25 % beim Hover
 - `.hover:bottom-5` - Abstand unten 5rem beim Hover
-- `.hover:bottom-4.5` - Abstand unten 0rem beim Hover
+- `.hover:bottom-4.5` - Abstand unten 4.5rem beim Hover
 - `.hover:bottom-4` - Abstand unten 4rem beim Hover
-- `.hover:bottom-3.5` - Abstand unten 0rem beim Hover
+- `.hover:bottom-3.5` - Abstand unten 3.5rem beim Hover
 - `.hover:bottom-3` - Abstand unten 3rem beim Hover
-- `.hover:bottom-2.5` - Abstand unten 0rem beim Hover
+- `.hover:bottom-2.5` - Abstand unten 2.5rem beim Hover
 - `.hover:bottom-2` - Abstand unten 2rem beim Hover
-- `.hover:bottom-1.9` - Abstand unten 0rem beim Hover
-- `.hover:bottom-1.8` - Abstand unten 0rem beim Hover
-- `.hover:bottom-1.7` - Abstand unten 0rem beim Hover
-- `.hover:bottom-1.6` - Abstand unten 0rem beim Hover
-- `.hover:bottom-1.5` - Abstand unten 0rem beim Hover
-- `.hover:bottom-1.4` - Abstand unten 0rem beim Hover
-- `.hover:bottom-1.3` - Abstand unten 0rem beim Hover
-- `.hover:bottom-1.2` - Abstand unten 0rem beim Hover
-- `.hover:bottom-1.1` - Abstand unten 0rem beim Hover
+- `.hover:bottom-1.9` - Abstand unten 1.9rem beim Hover
+- `.hover:bottom-1.8` - Abstand unten 1.8rem beim Hover
+- `.hover:bottom-1.7` - Abstand unten 1.7rem beim Hover
+- `.hover:bottom-1.6` - Abstand unten 1.6rem beim Hover
+- `.hover:bottom-1.5` - Abstand unten 1.5rem beim Hover
+- `.hover:bottom-1.4` - Abstand unten 1.4rem beim Hover
+- `.hover:bottom-1.3` - Abstand unten 1.3rem beim Hover
+- `.hover:bottom-1.2` - Abstand unten 1.2rem beim Hover
+- `.hover:bottom-1.1` - Abstand unten 1.1rem beim Hover
 - `.hover:bottom-1` - Abstand unten 1rem beim Hover
-- `.hover:bottom-0.9` - Abstand unten 0rem beim Hover
-- `.hover:bottom-0.8` - Abstand unten 0rem beim Hover
-- `.hover:bottom-0.7` - Abstand unten 0rem beim Hover
-- `.hover:bottom-0.6` - Abstand unten 0rem beim Hover
-- `.hover:bottom-0.5` - Abstand unten 0rem beim Hover
-- `.hover:bottom-0.4` - Abstand unten 0rem beim Hover
-- `.hover:bottom-0.3` - Abstand unten 0rem beim Hover
+- `.hover:bottom-0.9` - Abstand unten 0.9rem beim Hover
+- `.hover:bottom-0.8` - Abstand unten 0.8rem beim Hover
+- `.hover:bottom-0.7` - Abstand unten 0.7rem beim Hover
+- `.hover:bottom-0.6` - Abstand unten 0.6rem beim Hover
+- `.hover:bottom-0.5` - Abstand unten 0.5rem beim Hover
+- `.hover:bottom-0.4` - Abstand unten 0.4rem beim Hover
+- `.hover:bottom-0.3` - Abstand unten 0.3rem beim Hover
 - `.hover:bottom-0.2` - Abstand unten 0.2rem beim Hover
 - `.hover:bottom-0.1` - Abstand unten 0.1rem beim Hover
 - `.hover:bottom-0` - Abstand unten 0rem beim Hover
@@ -3982,54 +3982,54 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 ##### Negative Bottom
 
 - `.-bottom-5` - Negativer Abstand unten 5rem
-- `.-bottom-4.5` - Negativer Abstand unten 0rem
+- `.-bottom-4.5` - Negativer Abstand unten 4.5rem
 - `.-bottom-4` - Negativer Abstand unten 4rem
-- `.-bottom-3.5` - Negativer Abstand unten 0rem
+- `.-bottom-3.5` - Negativer Abstand unten 3.5rem
 - `.-bottom-3` - Negativer Abstand unten 3rem
-- `.-bottom-2.5` - Negativer Abstand unten 0rem
+- `.-bottom-2.5` - Negativer Abstand unten 2.5rem
 - `.-bottom-2` - Negativer Abstand unten 2rem
-- `.-bottom-1.9` - Negativer Abstand unten 0rem
-- `.-bottom-1.8` - Negativer Abstand unten 0rem
-- `.-bottom-1.7` - Negativer Abstand unten 0rem
-- `.-bottom-1.6` - Negativer Abstand unten 0rem
-- `.-bottom-1.5` - Negativer Abstand unten 0rem
-- `.-bottom-1.4` - Negativer Abstand unten 0rem
-- `.-bottom-1.3` - Negativer Abstand unten 0rem
-- `.-bottom-1.2` - Negativer Abstand unten 0rem
-- `.-bottom-1.1` - Negativer Abstand unten 0rem
+- `.-bottom-1.9` - Negativer Abstand unten 1.9rem
+- `.-bottom-1.8` - Negativer Abstand unten 1.8rem
+- `.-bottom-1.7` - Negativer Abstand unten 1.7rem
+- `.-bottom-1.6` - Negativer Abstand unten 1.6rem
+- `.-bottom-1.5` - Negativer Abstand unten 1.5rem
+- `.-bottom-1.4` - Negativer Abstand unten 1.4rem
+- `.-bottom-1.3` - Negativer Abstand unten 1.3rem
+- `.-bottom-1.2` - Negativer Abstand unten 1.2rem
+- `.-bottom-1.1` - Negativer Abstand unten 1.1rem
 - `.-bottom-1` - Negativer Abstand unten 1rem
-- `.-bottom-0.9` - Negativer Abstand unten 0rem
-- `.-bottom-0.8` - Negativer Abstand unten 0rem
-- `.-bottom-0.7` - Negativer Abstand unten 0rem
-- `.-bottom-0.6` - Negativer Abstand unten 0rem
-- `.-bottom-0.5` - Negativer Abstand unten 0rem
-- `.-bottom-0.4` - Negativer Abstand unten 0rem
+- `.-bottom-0.9` - Negativer Abstand unten 0.9rem
+- `.-bottom-0.8` - Negativer Abstand unten 0.8rem
+- `.-bottom-0.7` - Negativer Abstand unten 0.7rem
+- `.-bottom-0.6` - Negativer Abstand unten 0.6rem
+- `.-bottom-0.5` - Negativer Abstand unten 0.5rem
+- `.-bottom-0.4` - Negativer Abstand unten 0.4rem
 - `.-bottom-0.3` - Negativer Abstand unten 0.3rem
 - `.-bottom-0.2` - Negativer Abstand unten 0.2rem
 - `.-bottom-0.1` - Negativer Abstand unten 0.1rem
 - `.hover:-bottom-5` - Negativer Abstand unten 5rem beim Hover
-- `.hover:-bottom-4.5` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-4.5` - Negativer Abstand unten 4.5rem beim Hover
 - `.hover:-bottom-4` - Negativer Abstand unten 4rem beim Hover
-- `.hover:-bottom-3.5` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-3.5` - Negativer Abstand unten 3.5rem beim Hover
 - `.hover:-bottom-3` - Negativer Abstand unten 3rem beim Hover
-- `.hover:-bottom-2.5` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-2.5` - Negativer Abstand unten 2.5rem beim Hover
 - `.hover:-bottom-2` - Negativer Abstand unten 2rem beim Hover
-- `.hover:-bottom-1.9` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-1.8` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-1.7` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-1.6` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-1.5` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-1.4` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-1.3` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-1.2` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-1.1` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-1.9` - Negativer Abstand unten 1.9rem beim Hover
+- `.hover:-bottom-1.8` - Negativer Abstand unten 1.8rem beim Hover
+- `.hover:-bottom-1.7` - Negativer Abstand unten 1.7rem beim Hover
+- `.hover:-bottom-1.6` - Negativer Abstand unten 1.6rem beim Hover
+- `.hover:-bottom-1.5` - Negativer Abstand unten 1.5rem beim Hover
+- `.hover:-bottom-1.4` - Negativer Abstand unten 1.4rem beim Hover
+- `.hover:-bottom-1.3` - Negativer Abstand unten 1.3rem beim Hover
+- `.hover:-bottom-1.2` - Negativer Abstand unten 1.2rem beim Hover
+- `.hover:-bottom-1.1` - Negativer Abstand unten 1.1rem beim Hover
 - `.hover:-bottom-1` - Negativer Abstand unten 1rem beim Hover
-- `.hover:-bottom-0.9` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-0.8` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-0.7` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-0.6` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-0.5` - Negativer Abstand unten 0rem beim Hover
-- `.hover:-bottom-0.4` - Negativer Abstand unten 0rem beim Hover
+- `.hover:-bottom-0.9` - Negativer Abstand unten 0.9rem beim Hover
+- `.hover:-bottom-0.8` - Negativer Abstand unten 0.8rem beim Hover
+- `.hover:-bottom-0.7` - Negativer Abstand unten 0.7rem beim Hover
+- `.hover:-bottom-0.6` - Negativer Abstand unten 0.6rem beim Hover
+- `.hover:-bottom-0.5` - Negativer Abstand unten 0.5rem beim Hover
+- `.hover:-bottom-0.4` - Negativer Abstand unten 0.4rem beim Hover
 - `.hover:-bottom-0.3` - Negativer Abstand unten 0.3rem beim Hover
 - `.hover:-bottom-0.2` - Negativer Abstand unten 0.2rem beim Hover
 - `.hover:-bottom-0.1` - Negativer Abstand unten 0.1rem beim Hover
@@ -4041,29 +4041,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:left-50` - Abstand links 50 % beim Hover
 - `.hover:left-25` - Abstand links 25 % beim Hover
 - `.hover:left-5` - Abstand links 5rem beim Hover
-- `.hover:left-4.5` - Abstand links 0rem beim Hover
+- `.hover:left-4.5` - Abstand links 4.5rem beim Hover
 - `.hover:left-4` - Abstand links 4rem beim Hover
-- `.hover:left-3.5` - Abstand links 0rem beim Hover
+- `.hover:left-3.5` - Abstand links 3.5rem beim Hover
 - `.hover:left-3` - Abstand links 3rem beim Hover
-- `.hover:left-2.5` - Abstand links 0rem beim Hover
+- `.hover:left-2.5` - Abstand links 2.5rem beim Hover
 - `.hover:left-2` - Abstand links 2rem beim Hover
-- `.hover:left-1.9` - Abstand links 0rem beim Hover
-- `.hover:left-1.8` - Abstand links 0rem beim Hover
-- `.hover:left-1.7` - Abstand links 0rem beim Hover
-- `.hover:left-1.6` - Abstand links 0rem beim Hover
-- `.hover:left-1.5` - Abstand links 0rem beim Hover
-- `.hover:left-1.4` - Abstand links 0rem beim Hover
-- `.hover:left-1.3` - Abstand links 0rem beim Hover
-- `.hover:left-1.2` - Abstand links 0rem beim Hover
-- `.hover:left-1.1` - Abstand links 0rem beim Hover
+- `.hover:left-1.9` - Abstand links 1.9rem beim Hover
+- `.hover:left-1.8` - Abstand links 1.8rem beim Hover
+- `.hover:left-1.7` - Abstand links 1.7rem beim Hover
+- `.hover:left-1.6` - Abstand links 1.6rem beim Hover
+- `.hover:left-1.5` - Abstand links 1.5rem beim Hover
+- `.hover:left-1.4` - Abstand links 1.4rem beim Hover
+- `.hover:left-1.3` - Abstand links 1.3rem beim Hover
+- `.hover:left-1.2` - Abstand links 1.2rem beim Hover
+- `.hover:left-1.1` - Abstand links 1.1rem beim Hover
 - `.hover:left-1` - Abstand links 1rem beim Hover
-- `.hover:left-0.9` - Abstand links 0rem beim Hover
-- `.hover:left-0.8` - Abstand links 0rem beim Hover
-- `.hover:left-0.7` - Abstand links 0rem beim Hover
-- `.hover:left-0.6` - Abstand links 0rem beim Hover
-- `.hover:left-0.5` - Abstand links 0rem beim Hover
-- `.hover:left-0.4` - Abstand links 0rem beim Hover
-- `.hover:left-0.3` - Abstand links 0rem beim Hover
+- `.hover:left-0.9` - Abstand links 0.9rem beim Hover
+- `.hover:left-0.8` - Abstand links 0.8rem beim Hover
+- `.hover:left-0.7` - Abstand links 0.7rem beim Hover
+- `.hover:left-0.6` - Abstand links 0.6rem beim Hover
+- `.hover:left-0.5` - Abstand links 0.5rem beim Hover
+- `.hover:left-0.4` - Abstand links 0.4rem beim Hover
+- `.hover:left-0.3` - Abstand links 0.3rem beim Hover
 - `.hover:left-0.2` - Abstand links 0.2rem beim Hover
 - `.hover:left-0.1` - Abstand links 0.1rem beim Hover
 - `.hover:left-0` - Abstand links 0rem beim Hover
@@ -4072,29 +4072,29 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.left-50` - Abstand links 50 %
 - `.left-25` - Abstand links 25 %
 - `.left-5` - Abstand links 5rem
-- `.left-4.5` - Abstand links 0rem
+- `.left-4.5` - Abstand links 4.5rem
 - `.left-4` - Abstand links 4rem
-- `.left-3.5` - Abstand links 0rem
+- `.left-3.5` - Abstand links 3.5rem
 - `.left-3` - Abstand links 3rem
-- `.left-2.5` - Abstand links 0rem
+- `.left-2.5` - Abstand links 2.5rem
 - `.left-2` - Abstand links 2rem
-- `.left-1.9` - Abstand links 0rem
-- `.left-1.8` - Abstand links 0rem
-- `.left-1.7` - Abstand links 0rem
-- `.left-1.6` - Abstand links 0rem
-- `.left-1.5` - Abstand links 0rem
-- `.left-1.4` - Abstand links 0rem
-- `.left-1.3` - Abstand links 0rem
-- `.left-1.2` - Abstand links 0rem
-- `.left-1.1` - Abstand links 0rem
+- `.left-1.9` - Abstand links 1.9rem
+- `.left-1.8` - Abstand links 1.8rem
+- `.left-1.7` - Abstand links 1.7rem
+- `.left-1.6` - Abstand links 1.6rem
+- `.left-1.5` - Abstand links 1.5rem
+- `.left-1.4` - Abstand links 1.4rem
+- `.left-1.3` - Abstand links 1.3rem
+- `.left-1.2` - Abstand links 1.2rem
+- `.left-1.1` - Abstand links 1.1rem
 - `.left-1` - Abstand links 1rem
-- `.left-0.9` - Abstand links 0rem
-- `.left-0.8` - Abstand links 0rem
-- `.left-0.7` - Abstand links 0rem
-- `.left-0.6` - Abstand links 0rem
-- `.left-0.5` - Abstand links 0rem
-- `.left-0.4` - Abstand links 0rem
-- `.left-0.3` - Abstand links 0rem
+- `.left-0.9` - Abstand links 0.9rem
+- `.left-0.8` - Abstand links 0.8rem
+- `.left-0.7` - Abstand links 0.7rem
+- `.left-0.6` - Abstand links 0.6rem
+- `.left-0.5` - Abstand links 0.5rem
+- `.left-0.4` - Abstand links 0.4rem
+- `.left-0.3` - Abstand links 0.3rem
 - `.left-0.2` - Abstand links 0.2rem
 - `.left-0.1` - Abstand links 0.1rem
 - `.left-0` - Abstand links 0rem
@@ -4102,54 +4102,54 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 ##### Negative Left
 
 - `.-left-5` - Negativer Abstand links 5rem
-- `.-left-4.5` - Negativer Abstand links 0rem
+- `.-left-4.5` - Negativer Abstand links 4.5rem
 - `.-left-4` - Negativer Abstand links 4rem
-- `.-left-3.5` - Negativer Abstand links 0rem
+- `.-left-3.5` - Negativer Abstand links 3.5rem
 - `.-left-3` - Negativer Abstand links 3rem
-- `.-left-2.5` - Negativer Abstand links 0rem
+- `.-left-2.5` - Negativer Abstand links 2.5rem
 - `.-left-2` - Negativer Abstand links 2rem
-- `.-left-1.9` - Negativer Abstand links 0rem
-- `.-left-1.8` - Negativer Abstand links 0rem
-- `.-left-1.7` - Negativer Abstand links 0rem
-- `.-left-1.6` - Negativer Abstand links 0rem
-- `.-left-1.5` - Negativer Abstand links 0rem
-- `.-left-1.4` - Negativer Abstand links 0rem
-- `.-left-1.3` - Negativer Abstand links 0rem
-- `.-left-1.2` - Negativer Abstand links 0rem
-- `.-left-1.1` - Negativer Abstand links 0rem
+- `.-left-1.9` - Negativer Abstand links 1.9rem
+- `.-left-1.8` - Negativer Abstand links 1.8rem
+- `.-left-1.7` - Negativer Abstand links 1.7rem
+- `.-left-1.6` - Negativer Abstand links 1.6rem
+- `.-left-1.5` - Negativer Abstand links 1.5rem
+- `.-left-1.4` - Negativer Abstand links 1.4rem
+- `.-left-1.3` - Negativer Abstand links 1.3rem
+- `.-left-1.2` - Negativer Abstand links 1.2rem
+- `.-left-1.1` - Negativer Abstand links 1.1rem
 - `.-left-1` - Negativer Abstand links 1rem
-- `.-left-0.9` - Negativer Abstand links 0rem
-- `.-left-0.8` - Negativer Abstand links 0rem
-- `.-left-0.7` - Negativer Abstand links 0rem
-- `.-left-0.6` - Negativer Abstand links 0rem
-- `.-left-0.5` - Negativer Abstand links 0rem
-- `.-left-0.4` - Negativer Abstand links 0rem
+- `.-left-0.9` - Negativer Abstand links 0.9rem
+- `.-left-0.8` - Negativer Abstand links 0.8rem
+- `.-left-0.7` - Negativer Abstand links 0.7rem
+- `.-left-0.6` - Negativer Abstand links 0.6rem
+- `.-left-0.5` - Negativer Abstand links 0.5rem
+- `.-left-0.4` - Negativer Abstand links 0.4rem
 - `.-left-0.3` - Negativer Abstand links 0.3rem
 - `.-left-0.2` - Negativer Abstand links 0.2rem
 - `.-left-0.1` - Negativer Abstand links 0.1rem
 - `.hover:-left-5` - Negativer Abstand links 5rem beim Hover
-- `.hover:-left-4.5` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-4.5` - Negativer Abstand links 4.5rem beim Hover
 - `.hover:-left-4` - Negativer Abstand links 4rem beim Hover
-- `.hover:-left-3.5` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-3.5` - Negativer Abstand links 3.5rem beim Hover
 - `.hover:-left-3` - Negativer Abstand links 3rem beim Hover
-- `.hover:-left-2.5` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-2.5` - Negativer Abstand links 2.5rem beim Hover
 - `.hover:-left-2` - Negativer Abstand links 2rem beim Hover
-- `.hover:-left-1.9` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-1.8` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-1.7` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-1.6` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-1.5` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-1.4` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-1.3` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-1.2` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-1.1` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-1.9` - Negativer Abstand links 1.9rem beim Hover
+- `.hover:-left-1.8` - Negativer Abstand links 1.8rem beim Hover
+- `.hover:-left-1.7` - Negativer Abstand links 1.7rem beim Hover
+- `.hover:-left-1.6` - Negativer Abstand links 1.6rem beim Hover
+- `.hover:-left-1.5` - Negativer Abstand links 1.5rem beim Hover
+- `.hover:-left-1.4` - Negativer Abstand links 1.4rem beim Hover
+- `.hover:-left-1.3` - Negativer Abstand links 1.3rem beim Hover
+- `.hover:-left-1.2` - Negativer Abstand links 1.2rem beim Hover
+- `.hover:-left-1.1` - Negativer Abstand links 1.1rem beim Hover
 - `.hover:-left-1` - Negativer Abstand links 1rem beim Hover
-- `.hover:-left-0.9` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-0.8` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-0.7` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-0.6` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-0.5` - Negativer Abstand links 0rem beim Hover
-- `.hover:-left-0.4` - Negativer Abstand links 0rem beim Hover
+- `.hover:-left-0.9` - Negativer Abstand links 0.9rem beim Hover
+- `.hover:-left-0.8` - Negativer Abstand links 0.8rem beim Hover
+- `.hover:-left-0.7` - Negativer Abstand links 0.7rem beim Hover
+- `.hover:-left-0.6` - Negativer Abstand links 0.6rem beim Hover
+- `.hover:-left-0.5` - Negativer Abstand links 0.5rem beim Hover
+- `.hover:-left-0.4` - Negativer Abstand links 0.4rem beim Hover
 - `.hover:-left-0.3` - Negativer Abstand links 0.3rem beim Hover
 - `.hover:-left-0.2` - Negativer Abstand links 0.2rem beim Hover
 - `.hover:-left-0.1` - Negativer Abstand links 0.1rem beim Hover
@@ -4196,66 +4196,66 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 ### Font Size
 
 - `.font-size-10` - Schriftgröße 10rem
-- `.font-size-9.5` - Schriftgröße 0rem
+- `.font-size-9.5` - Schriftgröße 9.5rem
 - `.font-size-9` - Schriftgröße 9rem
-- `.font-size-8.5` - Schriftgröße 0rem
+- `.font-size-8.5` - Schriftgröße 8.5rem
 - `.font-size-8` - Schriftgröße 8rem
-- `.font-size-7.5` - Schriftgröße 0rem
+- `.font-size-7.5` - Schriftgröße 7.5rem
 - `.font-size-7` - Schriftgröße 7rem
-- `.font-size-6.5` - Schriftgröße 0rem
+- `.font-size-6.5` - Schriftgröße 6.5rem
 - `.font-size-6` - Schriftgröße 6rem
-- `.font-size-5.5` - Schriftgröße 0rem
+- `.font-size-5.5` - Schriftgröße 5.5rem
 - `.font-size-5` - Schriftgröße 5rem
-- `.font-size-4.5` - Schriftgröße 0rem
+- `.font-size-4.5` - Schriftgröße 4.5rem
 - `.font-size-4` - Schriftgröße 4rem
-- `.font-size-3.5` - Schriftgröße 0rem
+- `.font-size-3.5` - Schriftgröße 3.5rem
 - `.font-size-3` - Schriftgröße 3rem
-- `.font-size-2.5` - Schriftgröße 0rem
+- `.font-size-2.5` - Schriftgröße 2.5rem
 - `.font-size-2` - Schriftgröße 2rem
-- `.font-size-1.9` - Schriftgröße 0rem
-- `.font-size-1.8` - Schriftgröße 0rem
-- `.font-size-1.7` - Schriftgröße 0rem
-- `.font-size-1.6` - Schriftgröße 0rem
-- `.font-size-1.5` - Schriftgröße 0rem
-- `.font-size-1.4` - Schriftgröße 0rem
-- `.font-size-1.3` - Schriftgröße 0rem
-- `.font-size-1.2` - Schriftgröße 0rem
-- `.font-size-1.1` - Schriftgröße 0rem
+- `.font-size-1.9` - Schriftgröße 1.9rem
+- `.font-size-1.8` - Schriftgröße 1.8rem
+- `.font-size-1.7` - Schriftgröße 1.7rem
+- `.font-size-1.6` - Schriftgröße 1.6rem
+- `.font-size-1.5` - Schriftgröße 1.5rem
+- `.font-size-1.4` - Schriftgröße 1.4rem
+- `.font-size-1.3` - Schriftgröße 1.3rem
+- `.font-size-1.2` - Schriftgröße 1.2rem
+- `.font-size-1.1` - Schriftgröße 1.1rem
 - `.font-size-1` - Schriftgröße 1rem
-- `.font-size-0.9` - Schriftgröße 0rem
-- `.font-size-0.8` - Schriftgröße 0rem
+- `.font-size-0.9` - Schriftgröße 0.9rem
+- `.font-size-0.8` - Schriftgröße 0.8rem
 - `.font-size-0.7` - Schriftgröße 0,7rem
 - `.font-size-0.6` - Schriftgröße 0,6rem
 - `.font-size-0.5` - Schriftgröße 0,5rem
 - `.hover:font-size-10` - Schriftgröße 10rem beim Schweben
-- `.hover:font-size-9.5` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-9.5` - Schriftgröße 9.5rem beim Hover
 - `.hover:font-size-9` - Schriftgröße 9rem beim Hover
-- `.hover:font-size-8.5` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-8.5` - Schriftgröße 8.5rem beim Hover
 - `.hover:font-size-8` - Schriftgröße 8rem beim Schweben
-- `.hover:font-size-7.5` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-7.5` - Schriftgröße 7.5rem beim Hover
 - `.hover:font-size-7` - Schriftgröße 7rem beim Hover
-- `.hover:font-size-6.5` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-6.5` - Schriftgröße 6.5rem beim Hover
 - `.hover:font-size-6` - Schriftgröße 6rem beim Hover
-- `.hover:font-size-5.5` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-5.5` - Schriftgröße 5.5rem beim Hover
 - `.hover:font-size-5` - Schriftgröße 5rem beim Schweben
-- `.hover:font-size-4.5` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-4.5` - Schriftgröße 4.5rem beim Hover
 - `.hover:font-size-4` - Schriftgröße 4rem beim Schweben
-- `.hover:font-size-3.5` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-3.5` - Schriftgröße 3.5rem beim Hover
 - `.hover:font-size-3` - Schriftgröße 3rem beim Hover
-- `.hover:font-size-2.5` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-2.5` - Schriftgröße 2.5rem beim Hover
 - `.hover:font-size-2` - Schriftgröße 2rem beim Hover
-- `.hover:font-size-1.9` - Schriftgröße 0rem beim Hover
-- `.hover:font-size-1.8` - Schriftgröße 0rem beim Hover
-- `.hover:font-size-1.7` - Schriftgröße 0rem beim Hover
-- `.hover:font-size-1.6` - Schriftgröße 0rem beim Hover
-- `.hover:font-size-1.5` - Schriftgröße 0rem beim Hover
-- `.hover:font-size-1.4` - Schriftgröße 0rem beim Hover
-- `.hover:font-size-1.3` - Schriftgröße 0rem beim Hover
-- `.hover:font-size-1.2` - Schriftgröße 0rem beim Hover
-- `.hover:font-size-1.1` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-1.9` - Schriftgröße 1.9rem beim Hover
+- `.hover:font-size-1.8` - Schriftgröße 1.8rem beim Hover
+- `.hover:font-size-1.7` - Schriftgröße 1.7rem beim Hover
+- `.hover:font-size-1.6` - Schriftgröße 1.6rem beim Hover
+- `.hover:font-size-1.5` - Schriftgröße 1.5rem beim Hover
+- `.hover:font-size-1.4` - Schriftgröße 1.4rem beim Hover
+- `.hover:font-size-1.3` - Schriftgröße 1.3rem beim Hover
+- `.hover:font-size-1.2` - Schriftgröße 1.2rem beim Hover
+- `.hover:font-size-1.1` - Schriftgröße 1.1rem beim Hover
 - `.hover:font-size-1` - Schriftgröße 1rem beim Hover
-- `.hover:font-size-0.9` - Schriftgröße 0rem beim Hover
-- `.hover:font-size-0.8` - Schriftgröße 0rem beim Hover
+- `.hover:font-size-0.9` - Schriftgröße 0.9rem beim Hover
+- `.hover:font-size-0.8` - Schriftgröße 0.8rem beim Hover
 - `.hover:font-size-0.7` - Schriftgröße 0,7rem beim Schweben
 - `.hover:font-size-0.6` - Schriftgröße 0,6rem beim Schweben
 - `.hover:font-size-0.5` - Schriftgröße 0,5rem beim Schweben
@@ -4286,22 +4286,22 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 ### Letter spacing
 
 - `.hover:letter-spacing-1` - Buchstabenabstand 1rem beim Schweben
-- `.hover:letter-spacing-0.9` - Buchstabenabstand 0rem beim Schweben
-- `.hover:letter-spacing-0.8` - Buchstabenabstand 0rem beim Schweben
-- `.hover:letter-spacing-0.7` - Buchstabenabstand 0rem beim Schweben
-- `.hover:letter-spacing-0.6` - Buchstabenabstand 0rem beim Schweben
-- `.hover:letter-spacing-0.5` - Buchstabenabstand 0rem beim Schweben
-- `.hover:letter-spacing-0.4` - Buchstabenabstand 0rem beim Schweben
+- `.hover:letter-spacing-0.9` - Buchstabenabstand 0.9rem beim Schweben
+- `.hover:letter-spacing-0.8` - Buchstabenabstand 0.8rem beim Schweben
+- `.hover:letter-spacing-0.7` - Buchstabenabstand 0.7rem beim Schweben
+- `.hover:letter-spacing-0.6` - Buchstabenabstand 0.6rem beim Schweben
+- `.hover:letter-spacing-0.5` - Buchstabenabstand 0.5rem beim Schweben
+- `.hover:letter-spacing-0.4` - Buchstabenabstand 0.4rem beim Schweben
 - `.hover:letter-spacing-0.3` - Buchstabenabstand 0,3rem beim Schweben
 - `.hover:letter-spacing-0.2` - Buchstabenabstand 0,2rem beim Schweben
 - `.hover:letter-spacing-0.1` - Buchstabenabstand 0,1rem beim Schweben
 - `.letter-spacing-1` - Buchstabenabstand 1rem
-- `.letter-spacing-0.9` - Buchstabenabstand 0rem
-- `.letter-spacing-0.8` - Buchstabenabstand 0rem
-- `.letter-spacing-0.7` - Buchstabenabstand 0rem
-- `.letter-spacing-0.6` - Buchstabenabstand 0rem
-- `.letter-spacing-0.5` - Buchstabenabstand 0rem
-- `.letter-spacing-0.4` - Buchstabenabstand 0rem
+- `.letter-spacing-0.9` - Buchstabenabstand 0.9rem
+- `.letter-spacing-0.8` - Buchstabenabstand 0.8rem
+- `.letter-spacing-0.7` - Buchstabenabstand 0.7rem
+- `.letter-spacing-0.6` - Buchstabenabstand 0.6rem
+- `.letter-spacing-0.5` - Buchstabenabstand 0.5rem
+- `.letter-spacing-0.4` - Buchstabenabstand 0.4rem
 - `.letter-spacing-0.3` - Buchstabenabstand 0,3rem
 - `.letter-spacing-0.2` - Buchstabenabstand 0,2rem
 - `.letter-spacing-0.1` - Buchstabenabstand 0,1rem
@@ -4533,28 +4533,28 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border All
 
 - `.border-2` - Rahmen alle Seiten 2rem
-- `.border-1.5` - Rahmen alle Seiten 0rem
+- `.border-1.5` - Rahmen alle Seiten 1.5rem
 - `.border-1` - Rahmen alle Seiten 1rem
-- `.border-0.9` - Rahmen alle Seiten 0rem
-- `.border-0.8` - Rahmen alle Seiten 0rem
-- `.border-0.7` - Rahmen alle Seiten 0rem
-- `.border-0.6` - Rahmen alle Seiten 0rem
-- `.border-0.5` - Rahmen alle Seiten 0rem
+- `.border-0.9` - Rahmen alle Seiten 0.9rem
+- `.border-0.8` - Rahmen alle Seiten 0.8rem
+- `.border-0.7` - Rahmen alle Seiten 0.7rem
+- `.border-0.6` - Rahmen alle Seiten 0.6rem
+- `.border-0.5` - Rahmen alle Seiten 0.5rem
 - `.border-0.4` - Rahmen alle Seiten 0.4rem
-- `.border-0.3` - Rahmen alle Seiten 0rem
+- `.border-0.3` - Rahmen alle Seiten 0.3rem
 - `.border-0.2` - Rahmen alle Seiten 0.2rem
 - `.border-0.1` - Rahmen alle Seiten 0.1rem
 - `.border-0` - Rahmen alle Seiten 0rem
 - `.hover:border-2` - Rahmen alle Seiten 2rem beim Hover
-- `.hover:border-1.5` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-1.5` - Rahmen alle Seiten 1.5rem beim Hover
 - `.hover:border-1` - Rahmen alle Seiten 1rem beim Hover
-- `.hover:border-0.9` - Rahmen alle Seiten 0rem beim Hover
-- `.hover:border-0.8` - Rahmen alle Seiten 0rem beim Hover
-- `.hover:border-0.7` - Rahmen alle Seiten 0rem beim Hover
-- `.hover:border-0.6` - Rahmen alle Seiten 0rem beim Hover
-- `.hover:border-0.5` - Rahmen alle Seiten 0rem beim Hover
-- `.hover:border-0.4` - Rahmen alle Seiten 0rem beim Hover
-- `.hover:border-0.3` - Rahmen alle Seiten 0rem beim Hover
+- `.hover:border-0.9` - Rahmen alle Seiten 0.9rem beim Hover
+- `.hover:border-0.8` - Rahmen alle Seiten 0.8rem beim Hover
+- `.hover:border-0.7` - Rahmen alle Seiten 0.7rem beim Hover
+- `.hover:border-0.6` - Rahmen alle Seiten 0.6rem beim Hover
+- `.hover:border-0.5` - Rahmen alle Seiten 0.5rem beim Hover
+- `.hover:border-0.4` - Rahmen alle Seiten 0.4rem beim Hover
+- `.hover:border-0.3` - Rahmen alle Seiten 0.3rem beim Hover
 - `.hover:border-0.2` - Rahmen alle Seiten 0.2rem beim Hover
 - `.hover:border-0.1` - Rahmen alle Seiten 0.1rem beim Hover
 - `.hover:border-0` - Rahmen alle Seiten 0rem beim Hover
@@ -4562,28 +4562,28 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Bottom
 
 - `.border-b-2` - Rahmen unten 2rem
-- `.border-b-1.5` - Rahmen unten 0rem
+- `.border-b-1.5` - Rahmen unten 1.5rem
 - `.border-b-1` - Rahmen unten 1rem
-- `.border-b-0.9` - Rahmen unten 0rem
-- `.border-b-0.8` - Rahmen unten 0rem
-- `.border-b-0.7` - Rahmen unten 0rem
-- `.border-b-0.6` - Rahmen unten 0rem
+- `.border-b-0.9` - Rahmen unten 0.9rem
+- `.border-b-0.8` - Rahmen unten 0.8rem
+- `.border-b-0.7` - Rahmen unten 0.7rem
+- `.border-b-0.6` - Rahmen unten 0.6rem
 - `.border-b-0.5` - Rahmen unten 0.5rem
-- `.border-b-0.4` - Rahmen unten 0rem
-- `.border-b-0.3` - Rahmen unten 0rem
+- `.border-b-0.4` - Rahmen unten 0.4rem
+- `.border-b-0.3` - Rahmen unten 0.3rem
 - `.border-b-0.2` - Rahmen unten 0.2rem
 - `.border-b-0.1` - Rahmen unten 0.1rem
 - `.border-b-0` - Rahmen unten 0rem
 - `.hover:border-b-2` - Rahmen unten 2rem beim Hover
-- `.hover:border-b-1.5` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-1.5` - Rahmen unten 1.5rem beim Hover
 - `.hover:border-b-1` - Rahmen unten 1rem beim Hover
-- `.hover:border-b-0.9` - Rahmen unten 0rem beim Hover
-- `.hover:border-b-0.8` - Rahmen unten 0rem beim Hover
-- `.hover:border-b-0.7` - Rahmen unten 0rem beim Hover
-- `.hover:border-b-0.6` - Rahmen unten 0rem beim Hover
-- `.hover:border-b-0.5` - Rahmen unten 0rem beim Hover
-- `.hover:border-b-0.4` - Rahmen unten 0rem beim Hover
-- `.hover:border-b-0.3` - Rahmen unten 0rem beim Hover
+- `.hover:border-b-0.9` - Rahmen unten 0.9rem beim Hover
+- `.hover:border-b-0.8` - Rahmen unten 0.8rem beim Hover
+- `.hover:border-b-0.7` - Rahmen unten 0.7rem beim Hover
+- `.hover:border-b-0.6` - Rahmen unten 0.6rem beim Hover
+- `.hover:border-b-0.5` - Rahmen unten 0.5rem beim Hover
+- `.hover:border-b-0.4` - Rahmen unten 0.4rem beim Hover
+- `.hover:border-b-0.3` - Rahmen unten 0.3rem beim Hover
 - `.hover:border-b-0.2` - Rahmen unten 0.2rem beim Hover
 - `.hover:border-b-0.1` - Rahmen unten 0.1rem beim Hover
 - `.hover:border-b-0` - Rahmen unten 0rem beim Hover
@@ -4591,28 +4591,28 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Left
 
 - `.border-l-2` - Rahmen links 2rem
-- `.border-l-1.5` - Rahmen links 0rem
+- `.border-l-1.5` - Rahmen links 1.5rem
 - `.border-l-1` - Rahmen links 1rem
-- `.border-l-0.9` - Rahmen links 0rem
-- `.border-l-0.8` - Rahmen links 0rem
-- `.border-l-0.7` - Rahmen links 0rem
-- `.border-l-0.6` - Rahmen links 0rem
-- `.border-l-0.5` - Rahmen links 0rem
-- `.border-l-0.4` - Rahmen links 0rem
-- `.border-l-0.3` - Rahmen links 0rem
+- `.border-l-0.9` - Rahmen links 0.9rem
+- `.border-l-0.8` - Rahmen links 0.8rem
+- `.border-l-0.7` - Rahmen links 0.7rem
+- `.border-l-0.6` - Rahmen links 0.6rem
+- `.border-l-0.5` - Rahmen links 0.5rem
+- `.border-l-0.4` - Rahmen links 0.4rem
+- `.border-l-0.3` - Rahmen links 0.3rem
 - `.border-l-0.2` - Rahmen links 0.2rem
 - `.border-l-0.1` - Rahmen links 0.1rem
 - `.border-l-0` - Rahmen links 0rem
 - `.hover:border-l-2` - Rahmen links 2rem beim Hover
-- `.hover:border-l-1.5` - Rahmen links 0rem beim Hover
+- `.hover:border-l-1.5` - Rahmen links 1.5rem beim Hover
 - `.hover:border-l-1` - Rahmen links 1rem beim Hover
-- `.hover:border-l-0.9` - Rahmen links 0rem beim Hover
-- `.hover:border-l-0.8` - Rahmen links 0rem beim Hover
-- `.hover:border-l-0.7` - Rahmen links 0rem beim Hover
-- `.hover:border-l-0.6` - Rahmen links 0rem beim Hover
-- `.hover:border-l-0.5` - Rahmen links 0rem beim Hover
-- `.hover:border-l-0.4` - Rahmen links 0rem beim Hover
-- `.hover:border-l-0.3` - Rahmen links 0rem beim Hover
+- `.hover:border-l-0.9` - Rahmen links 0.9rem beim Hover
+- `.hover:border-l-0.8` - Rahmen links 0.8rem beim Hover
+- `.hover:border-l-0.7` - Rahmen links 0.7rem beim Hover
+- `.hover:border-l-0.6` - Rahmen links 0.6rem beim Hover
+- `.hover:border-l-0.5` - Rahmen links 0.5rem beim Hover
+- `.hover:border-l-0.4` - Rahmen links 0.4rem beim Hover
+- `.hover:border-l-0.3` - Rahmen links 0.3rem beim Hover
 - `.hover:border-l-0.2` - Rahmen links 0.2rem beim Hover
 - `.hover:border-l-0.1` - Rahmen links 0.1rem beim Hover
 - `.hover:border-l-0` - Rahmen links 0rem beim Hover
@@ -4620,28 +4620,28 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Right
 
 - `.border-r-2` - Rahmen rechts 2rem
-- `.border-r-1.5` - Rahmen rechts 0rem
+- `.border-r-1.5` - Rahmen rechts 1.5rem
 - `.border-r-1` - Rahmen rechts 1rem
-- `.border-r-0.9` - Rahmen rechts 0rem
-- `.border-r-0.8` - Rahmen rechts 0rem
-- `.border-r-0.7` - Rahmen rechts 0rem
-- `.border-r-0.6` - Rahmen rechts 0rem
-- `.border-r-0.5` - Rahmen rechts 0rem
-- `.border-r-0.4` - Rahmen rechts 0rem
-- `.border-r-0.3` - Rahmen rechts 0rem
+- `.border-r-0.9` - Rahmen rechts 0.9rem
+- `.border-r-0.8` - Rahmen rechts 0.8rem
+- `.border-r-0.7` - Rahmen rechts 0.7rem
+- `.border-r-0.6` - Rahmen rechts 0.6rem
+- `.border-r-0.5` - Rahmen rechts 0.5rem
+- `.border-r-0.4` - Rahmen rechts 0.4rem
+- `.border-r-0.3` - Rahmen rechts 0.3rem
 - `.border-r-0.2` - Rahmen rechts 0.2rem
 - `.border-r-0.1` - Rahmen rechts 0.1rem
 - `.border-r-0` - Rahmen rechts 0rem
 - `.hover:border-r-2` - Rahmen rechts 2rem beim Hover
-- `.hover:border-r-1.5` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-1.5` - Rahmen rechts 1.5rem beim Hover
 - `.hover:border-r-1` - Rahmen rechts 1rem beim Hover
-- `.hover:border-r-0.9` - Rahmen rechts 0rem beim Hover
-- `.hover:border-r-0.8` - Rahmen rechts 0rem beim Hover
-- `.hover:border-r-0.7` - Rahmen rechts 0rem beim Hover
-- `.hover:border-r-0.6` - Rahmen rechts 0rem beim Hover
-- `.hover:border-r-0.5` - Rahmen rechts 0rem beim Hover
-- `.hover:border-r-0.4` - Rahmen rechts 0rem beim Hover
-- `.hover:border-r-0.3` - Rahmen rechts 0rem beim Hover
+- `.hover:border-r-0.9` - Rahmen rechts 0.9rem beim Hover
+- `.hover:border-r-0.8` - Rahmen rechts 0.8rem beim Hover
+- `.hover:border-r-0.7` - Rahmen rechts 0.7rem beim Hover
+- `.hover:border-r-0.6` - Rahmen rechts 0.6rem beim Hover
+- `.hover:border-r-0.5` - Rahmen rechts 0.5rem beim Hover
+- `.hover:border-r-0.4` - Rahmen rechts 0.4rem beim Hover
+- `.hover:border-r-0.3` - Rahmen rechts 0.3rem beim Hover
 - `.hover:border-r-0.2` - Rahmen rechts 0.2rem beim Hover
 - `.hover:border-r-0.1` - Rahmen rechts 0.1rem beim Hover
 - `.hover:border-r-0` - Rahmen rechts 0rem beim Hover
@@ -4649,28 +4649,28 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Top
 
 - `.border-t-2` - Rahmen oben 2rem
-- `.border-t-1.5` - Rahmen oben 0rem
+- `.border-t-1.5` - Rahmen oben 1.5rem
 - `.border-t-1` - Rahmen oben 1rem
-- `.border-t-0.9` - Rahmen oben 0rem
-- `.border-t-0.8` - Rahmen oben 0rem
-- `.border-t-0.7` - Rahmen oben 0rem
-- `.border-t-0.6` - Rahmen oben 0rem
-- `.border-t-0.5` - Rahmen oben 0rem
-- `.border-t-0.4` - Rahmen oben 0rem
-- `.border-t-0.3` - Rahmen oben 0rem
+- `.border-t-0.9` - Rahmen oben 0.9rem
+- `.border-t-0.8` - Rahmen oben 0.8rem
+- `.border-t-0.7` - Rahmen oben 0.7rem
+- `.border-t-0.6` - Rahmen oben 0.6rem
+- `.border-t-0.5` - Rahmen oben 0.5rem
+- `.border-t-0.4` - Rahmen oben 0.4rem
+- `.border-t-0.3` - Rahmen oben 0.3rem
 - `.border-t-0.2` - Rahmen oben 0.2rem
 - `.border-t-0.1` - Rahmen oben 0.1rem
 - `.border-t-0` - Rahmen oben 0rem
 - `.hover:border-t-2` - Rahmen oben 2rem beim Hover
-- `.hover:border-t-1.5` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-1.5` - Rahmen oben 1.5rem beim Hover
 - `.hover:border-t-1` - Rahmen oben 1rem beim Hover
-- `.hover:border-t-0.9` - Rahmen oben 0rem beim Hover
-- `.hover:border-t-0.8` - Rahmen oben 0rem beim Hover
-- `.hover:border-t-0.7` - Rahmen oben 0rem beim Hover
-- `.hover:border-t-0.6` - Rahmen oben 0rem beim Hover
-- `.hover:border-t-0.5` - Rahmen oben 0rem beim Hover
-- `.hover:border-t-0.4` - Rahmen oben 0rem beim Hover
-- `.hover:border-t-0.3` - Rahmen oben 0rem beim Hover
+- `.hover:border-t-0.9` - Rahmen oben 0.9rem beim Hover
+- `.hover:border-t-0.8` - Rahmen oben 0.8rem beim Hover
+- `.hover:border-t-0.7` - Rahmen oben 0.7rem beim Hover
+- `.hover:border-t-0.6` - Rahmen oben 0.6rem beim Hover
+- `.hover:border-t-0.5` - Rahmen oben 0.5rem beim Hover
+- `.hover:border-t-0.4` - Rahmen oben 0.4rem beim Hover
+- `.hover:border-t-0.3` - Rahmen oben 0.3rem beim Hover
 - `.hover:border-t-0.2` - Rahmen oben 0.2rem beim Hover
 - `.hover:border-t-0.1` - Rahmen oben 0.1rem beim Hover
 - `.hover:border-t-0` - Rahmen oben 0rem beim Hover
@@ -4678,28 +4678,28 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border X-Axis
 
 - `.border-x-2` - Rahmen X-Achse 2rem
-- `.border-x-1.5` - Rahmen X-Achse 0rem
+- `.border-x-1.5` - Rahmen X-Achse 1.5rem
 - `.border-x-1` - Rahmen X-Achse 1rem
-- `.border-x-0.9` - Rahmen X-Achse 0rem
-- `.border-x-0.8` - Rahmen X-Achse 0rem
-- `.border-x-0.7` - Rahmen X-Achse 0rem
-- `.border-x-0.6` - Rahmen X-Achse 0rem
-- `.border-x-0.5` - Rahmen X-Achse 0rem
-- `.border-x-0.4` - Rahmen X-Achse 0rem
-- `.border-x-0.3` - Rahmen X-Achse 0rem
+- `.border-x-0.9` - Rahmen X-Achse 0.9rem
+- `.border-x-0.8` - Rahmen X-Achse 0.8rem
+- `.border-x-0.7` - Rahmen X-Achse 0.7rem
+- `.border-x-0.6` - Rahmen X-Achse 0.6rem
+- `.border-x-0.5` - Rahmen X-Achse 0.5rem
+- `.border-x-0.4` - Rahmen X-Achse 0.4rem
+- `.border-x-0.3` - Rahmen X-Achse 0.3rem
 - `.border-x-0.2` - Rahmen X-Achse 0.2rem
 - `.border-x-0.1` - Rahmen X-Achse 0.1rem
 - `.border-x-0` - Rahmen X-Achse 0rem
 - `.hover:border-x-2` - Rahmen X-Achse 2rem beim Hover
-- `.hover:border-x-1.5` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-1.5` - Rahmen X-Achse 1.5rem beim Hover
 - `.hover:border-x-1` - Rahmen X-Achse 1rem beim Hover
-- `.hover:border-x-0.9` - Rahmen X-Achse 0rem beim Hover
-- `.hover:border-x-0.8` - Rahmen X-Achse 0rem beim Hover
-- `.hover:border-x-0.7` - Rahmen X-Achse 0rem beim Hover
-- `.hover:border-x-0.6` - Rahmen X-Achse 0rem beim Hover
-- `.hover:border-x-0.5` - Rahmen X-Achse 0rem beim Hover
-- `.hover:border-x-0.4` - Rahmen X-Achse 0rem beim Hover
-- `.hover:border-x-0.3` - Rahmen X-Achse 0rem beim Hover
+- `.hover:border-x-0.9` - Rahmen X-Achse 0.9rem beim Hover
+- `.hover:border-x-0.8` - Rahmen X-Achse 0.8rem beim Hover
+- `.hover:border-x-0.7` - Rahmen X-Achse 0.7rem beim Hover
+- `.hover:border-x-0.6` - Rahmen X-Achse 0.6rem beim Hover
+- `.hover:border-x-0.5` - Rahmen X-Achse 0.5rem beim Hover
+- `.hover:border-x-0.4` - Rahmen X-Achse 0.4rem beim Hover
+- `.hover:border-x-0.3` - Rahmen X-Achse 0.3rem beim Hover
 - `.hover:border-x-0.2` - Rahmen X-Achse 0.2rem beim Hover
 - `.hover:border-x-0.1` - Rahmen X-Achse 0.1rem beim Hover
 - `.hover:border-x-0` - Rahmen X-Achse 0rem beim Hover
@@ -4707,28 +4707,28 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Y-Axis
 
 - `.border-y-2` - Rahmen Y-Achse 2rem
-- `.border-y-1.5` - Rahmen Y-Achse 0rem
+- `.border-y-1.5` - Rahmen Y-Achse 1.5rem
 - `.border-y-1` - Rahmen Y-Achse 1rem
-- `.border-y-0.9` - Rahmen Y-Achse 0rem
-- `.border-y-0.8` - Rahmen Y-Achse 0rem
-- `.border-y-0.7` - Rahmen Y-Achse 0rem
-- `.border-y-0.6` - Rahmen Y-Achse 0rem
+- `.border-y-0.9` - Rahmen Y-Achse 0.9rem
+- `.border-y-0.8` - Rahmen Y-Achse 0.8rem
+- `.border-y-0.7` - Rahmen Y-Achse 0.7rem
+- `.border-y-0.6` - Rahmen Y-Achse 0.6rem
 - `.border-y-0.5` - Rahmen Y-Achse 0.5rem
-- `.border-y-0.4` - Rahmen Y-Achse 0rem
-- `.border-y-0.3` - Rahmen Y-Achse 0rem
+- `.border-y-0.4` - Rahmen Y-Achse 0.4rem
+- `.border-y-0.3` - Rahmen Y-Achse 0.3rem
 - `.border-y-0.2` - Rahmen Y-Achse 0.2rem
 - `.border-y-0.1` - Rahmen Y-Achse 0.1rem
 - `.border-y-0` - Rahmen Y-Achse 0rem
 - `.hover:border-y-2` - Rahmen Y-Achse 2rem beim Hover
-- `.hover:border-y-1.5` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-1.5` - Rahmen Y-Achse 1.5rem beim Hover
 - `.hover:border-y-1` - Rahmen Y-Achse 1rem beim Hover
-- `.hover:border-y-0.9` - Rahmen Y-Achse 0rem beim Hover
-- `.hover:border-y-0.8` - Rahmen Y-Achse 0rem beim Hover
-- `.hover:border-y-0.7` - Rahmen Y-Achse 0rem beim Hover
-- `.hover:border-y-0.6` - Rahmen Y-Achse 0rem beim Hover
-- `.hover:border-y-0.5` - Rahmen Y-Achse 0rem beim Hover
-- `.hover:border-y-0.4` - Rahmen Y-Achse 0rem beim Hover
-- `.hover:border-y-0.3` - Rahmen Y-Achse 0rem beim Hover
+- `.hover:border-y-0.9` - Rahmen Y-Achse 0.9rem beim Hover
+- `.hover:border-y-0.8` - Rahmen Y-Achse 0.8rem beim Hover
+- `.hover:border-y-0.7` - Rahmen Y-Achse 0.7rem beim Hover
+- `.hover:border-y-0.6` - Rahmen Y-Achse 0.6rem beim Hover
+- `.hover:border-y-0.5` - Rahmen Y-Achse 0.5rem beim Hover
+- `.hover:border-y-0.4` - Rahmen Y-Achse 0.4rem beim Hover
+- `.hover:border-y-0.3` - Rahmen Y-Achse 0.3rem beim Hover
 - `.hover:border-y-0.2` - Rahmen Y-Achse 0.2rem beim Hover
 - `.hover:border-y-0.1` - Rahmen Y-Achse 0.1rem beim Hover
 - `.hover:border-y-0` - Rahmen Y-Achse 0rem beim Hover
@@ -4738,40 +4738,40 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Radius All
 
 - `.hover:rounded-5` - Grenzradius Alle 5rem beim Schweben
-- `.hover:rounded-4.5` - Randradius Alle 0rem beim Schweben
+- `.hover:rounded-4.5` - Randradius Alle 4.5rem beim Schweben
 - `.hover:rounded-4` - Grenzradius Alle 4rem beim Schweben
-- `.hover:rounded-3.5` - Randradius Alle 0rem beim Schweben
+- `.hover:rounded-3.5` - Randradius Alle 3.5rem beim Schweben
 - `.hover:rounded-3` - Grenzradius Alle 3rem beim Schweben
-- `.hover:rounded-2.5` - Randradius Alle 0rem beim Schweben
+- `.hover:rounded-2.5` - Randradius Alle 2.5rem beim Schweben
 - `.hover:rounded-2` - Grenzradius Alle 2rem beim Schweben
-- `.hover:rounded-1.5` - Randradius Alle 0rem beim Schweben
+- `.hover:rounded-1.5` - Randradius Alle 1.5rem beim Schweben
 - `.hover:rounded-1` - Grenzradius Alle 1rem beim Schweben
-- `.hover:rounded-0.9` - Randradius Alle 0rem beim Schweben
-- `.hover:rounded-0.8` - Randradius Alle 0rem beim Schweben
-- `.hover:rounded-0.7` - Randradius Alle 0rem beim Schweben
-- `.hover:rounded-0.6` - Randradius Alle 0rem beim Schweben
-- `.hover:rounded-0.5` - Randradius Alle 0rem beim Schweben
-- `.hover:rounded-0.4` - Randradius Alle 0rem beim Schweben
-- `.hover:rounded-0.3` - Randradius Alle 0rem beim Schweben
+- `.hover:rounded-0.9` - Randradius Alle 0.9rem beim Schweben
+- `.hover:rounded-0.8` - Randradius Alle 0.8rem beim Schweben
+- `.hover:rounded-0.7` - Randradius Alle 0.7rem beim Schweben
+- `.hover:rounded-0.6` - Randradius Alle 0.6rem beim Schweben
+- `.hover:rounded-0.5` - Randradius Alle 0.5rem beim Schweben
+- `.hover:rounded-0.4` - Randradius Alle 0.4rem beim Schweben
+- `.hover:rounded-0.3` - Randradius Alle 0.3rem beim Schweben
 - `.hover:rounded-0.2` - Randradius Alle 0,2rem beim Schweben
 - `.hover:rounded-0.1` - Randradius Alle 0,1rem beim Schweben
 - `.hover:rounded-0` - Randradius Alle 0rem beim Schweben
 - `.rounded-5` - Randradius Alle 5rem
-- `.rounded-4.5` - Randradius Alle 0rem
+- `.rounded-4.5` - Randradius Alle 4.5rem
 - `.rounded-4` - Randradius Alle 4rem
-- `.rounded-3.5` - Randradius Alle 0rem
+- `.rounded-3.5` - Randradius Alle 3.5rem
 - `.rounded-3` - Randradius Alle 3rem
-- `.rounded-2.5` - Randradius Alle 0rem
+- `.rounded-2.5` - Randradius Alle 2.5rem
 - `.rounded-2` - Randradius Alle 2rem
-- `.rounded-1.5` - Randradius Alle 0rem
+- `.rounded-1.5` - Randradius Alle 1.5rem
 - `.rounded-1` - Randradius Alle 1rem
-- `.rounded-0.9` - Randradius Alle 0rem
-- `.rounded-0.8` - Randradius Alle 0rem
-- `.rounded-0.7` - Randradius Alle 0rem
-- `.rounded-0.6` - Randradius Alle 0rem
-- `.rounded-0.5` - Randradius Alle 0rem
-- `.rounded-0.4` - Randradius Alle 0rem
-- `.rounded-0.3` - Randradius Alle 0rem
+- `.rounded-0.9` - Randradius Alle 0.9rem
+- `.rounded-0.8` - Randradius Alle 0.8rem
+- `.rounded-0.7` - Randradius Alle 0.7rem
+- `.rounded-0.6` - Randradius Alle 0.6rem
+- `.rounded-0.5` - Randradius Alle 0.5rem
+- `.rounded-0.4` - Randradius Alle 0.4rem
+- `.rounded-0.3` - Randradius Alle 0.3rem
 - `.rounded-0.2` - Randradius Alle 0,2rem
 - `.rounded-0.1` - Randradius Alle 0,1rem
 - `.rounded-0` - Randradius Alle 0rem
@@ -4779,24 +4779,24 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Radius Bottom Left
 
 - `.hover:rounded-bl-5` - Randradius unten links 5rem beim Schweben
-- `.hover:rounded-bl-4.5` - Randradius unten links 0rem beim Schweben
+- `.hover:rounded-bl-4.5` - Randradius unten links 4.5rem beim Schweben
 - `.hover:rounded-bl-4` - Randradius unten links 4rem beim Schweben
-- `.hover:rounded-bl-3.5` - Randradius unten links 0rem beim Schweben
+- `.hover:rounded-bl-3.5` - Randradius unten links 3.5rem beim Schweben
 - `.hover:rounded-bl-3` - Randradius unten links 3rem beim Schweben
-- `.hover:rounded-bl-2.5` - Randradius unten links 0rem beim Schweben
+- `.hover:rounded-bl-2.5` - Randradius unten links 2.5rem beim Schweben
 - `.hover:rounded-bl-2` - Randradius unten links 2rem beim Schweben
-- `.hover:rounded-bl-1.5` - Randradius unten links 0rem beim Schweben
+- `.hover:rounded-bl-1.5` - Randradius unten links 1.5rem beim Schweben
 - `.hover:rounded-bl-1` - Randradius unten links 1rem beim Schweben
 - `.hover:rounded-bl-0.5` - Randradius unten links 0,5rem beim Schweben
 - `.hover:rounded-bl-0` - Randradius unten links 0rem beim Schweben
 - `.rounded-bl-5` - Randradius unten links 5rem
-- `.rounded-bl-4.5` - Randradius unten links 0rem
+- `.rounded-bl-4.5` - Randradius unten links 4.5rem
 - `.rounded-bl-4` - Randradius unten links 4rem
-- `.rounded-bl-3.5` - Randradius unten links 0rem
+- `.rounded-bl-3.5` - Randradius unten links 3.5rem
 - `.rounded-bl-3` - Randradius unten links 3rem
-- `.rounded-bl-2.5` - Randradius unten links 0rem
+- `.rounded-bl-2.5` - Randradius unten links 2.5rem
 - `.rounded-bl-2` - Randradius unten links 2rem
-- `.rounded-bl-1.5` - Randradius unten links 0rem
+- `.rounded-bl-1.5` - Randradius unten links 1.5rem
 - `.rounded-bl-1` - Randradius unten links 1rem
 - `.rounded-bl-0.5` - Randradius unten links 0,5rem
 - `.rounded-bl-0` - Randradius unten links 0rem
@@ -4804,24 +4804,24 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Radius Bottom Right
 
 - `.hover:rounded-br-5` - Randradius unten rechts 5rem beim Schweben
-- `.hover:rounded-br-4.5` - Randradius unten rechts 0rem beim Schweben
+- `.hover:rounded-br-4.5` - Randradius unten rechts 4.5rem beim Schweben
 - `.hover:rounded-br-4` - Randradius unten rechts 4rem beim Schweben
-- `.hover:rounded-br-3.5` - Randradius unten rechts 0rem beim Schweben
+- `.hover:rounded-br-3.5` - Randradius unten rechts 3.5rem beim Schweben
 - `.hover:rounded-br-3` - Randradius unten rechts 3rem beim Schweben
-- `.hover:rounded-br-2.5` - Randradius unten rechts 0rem beim Schweben
+- `.hover:rounded-br-2.5` - Randradius unten rechts 2.5rem beim Schweben
 - `.hover:rounded-br-2` - Randradius unten rechts 2rem beim Schweben
-- `.hover:rounded-br-1.5` - Randradius unten rechts 0rem beim Schweben
+- `.hover:rounded-br-1.5` - Randradius unten rechts 1.5rem beim Schweben
 - `.hover:rounded-br-1` - Randradius unten rechts 1rem beim Schweben
 - `.hover:rounded-br-0.5` - Randradius unten rechts 0,5rem beim Schweben
 - `.hover:rounded-br-0` - Randradius unten rechts 0rem beim Schweben
 - `.rounded-br-5` - Randradius unten rechts 5rem
-- `.rounded-br-4.5` - Randradius unten rechts 0rem
+- `.rounded-br-4.5` - Randradius unten rechts 4.5rem
 - `.rounded-br-4` - Randradius unten rechts 4rem
-- `.rounded-br-3.5` - Randradius unten rechts 0rem
+- `.rounded-br-3.5` - Randradius unten rechts 3.5rem
 - `.rounded-br-3` - Randradius unten rechts 3rem
-- `.rounded-br-2.5` - Randradius unten rechts 0rem
+- `.rounded-br-2.5` - Randradius unten rechts 2.5rem
 - `.rounded-br-2` - Randradius unten rechts 2rem
-- `.rounded-br-1.5` - Randradius unten rechts 0rem
+- `.rounded-br-1.5` - Randradius unten rechts 1.5rem
 - `.rounded-br-1` - Randradius unten rechts 1rem
 - `.rounded-br-0.5` - Randradius unten rechts 0,5rem
 - `.rounded-br-0` - Randradius unten rechts 0rem
@@ -4829,24 +4829,24 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Radius Top Left
 
 - `.hover:rounded-tl-5` - Randradius oben links 5rem beim Schweben
-- `.hover:rounded-tl-4.5` - Randradius oben links 0rem beim Schweben
+- `.hover:rounded-tl-4.5` - Randradius oben links 4.5rem beim Schweben
 - `.hover:rounded-tl-4` - Randradius oben links 4rem beim Schweben
-- `.hover:rounded-tl-3.5` - Randradius oben links 0rem beim Schweben
+- `.hover:rounded-tl-3.5` - Randradius oben links 3.5rem beim Schweben
 - `.hover:rounded-tl-3` - Randradius oben links 3rem beim Schweben
-- `.hover:rounded-tl-2.5` - Randradius oben links 0rem beim Schweben
+- `.hover:rounded-tl-2.5` - Randradius oben links 2.5rem beim Schweben
 - `.hover:rounded-tl-2` - Randradius oben links 2rem beim Schweben
-- `.hover:rounded-tl-1.5` - Randradius oben links 0rem beim Schweben
+- `.hover:rounded-tl-1.5` - Randradius oben links 1.5rem beim Schweben
 - `.hover:rounded-tl-1` - Randradius oben links 1rem beim Schweben
 - `.hover:rounded-tl-0.5` - Randradius oben links 0,5rem beim Schweben
 - `.hover:rounded-tl-0` - Randradius oben links 0rem beim Schweben
 - `.rounded-tl-5` - Randradius oben links 5rem
-- `.rounded-tl-4.5` - Randradius oben links 0rem
+- `.rounded-tl-4.5` - Randradius oben links 4.5rem
 - `.rounded-tl-4` - Randradius oben links 4rem
-- `.rounded-tl-3.5` - Randradius oben links 0rem
+- `.rounded-tl-3.5` - Randradius oben links 3.5rem
 - `.rounded-tl-3` - Randradius oben links 3rem
-- `.rounded-tl-2.5` - Randradius oben links 0rem
+- `.rounded-tl-2.5` - Randradius oben links 2.5rem
 - `.rounded-tl-2` - Randradius oben links 2rem
-- `.rounded-tl-1.5` - Randradius oben links 0rem
+- `.rounded-tl-1.5` - Randradius oben links 1.5rem
 - `.rounded-tl-1` - Randradius oben links 1rem
 - `.rounded-tl-0.5` - Randradius oben links 0,5rem
 - `.rounded-tl-0` - Randradius oben links 0rem
@@ -4854,24 +4854,24 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 #### Border Radius Top Right
 
 - `.hover:rounded-tr-5` - Randradius oben rechts 5rem beim Schweben
-- `.hover:rounded-tr-4.5` - Randradius oben rechts 0rem beim Schweben
+- `.hover:rounded-tr-4.5` - Randradius oben rechts 4.5rem beim Schweben
 - `.hover:rounded-tr-4` - Randradius oben rechts 4rem beim Schweben
-- `.hover:rounded-tr-3.5` - Randradius oben rechts 0rem beim Schweben
+- `.hover:rounded-tr-3.5` - Randradius oben rechts 3.5rem beim Schweben
 - `.hover:rounded-tr-3` - Randradius oben rechts 3rem beim Schweben
-- `.hover:rounded-tr-2.5` - Randradius oben rechts 0rem beim Schweben
+- `.hover:rounded-tr-2.5` - Randradius oben rechts 2.5rem beim Schweben
 - `.hover:rounded-tr-2` - Randradius oben rechts 2rem beim Schweben
-- `.hover:rounded-tr-1.5` - Randradius oben rechts 0rem beim Schweben
+- `.hover:rounded-tr-1.5` - Randradius oben rechts 1.5rem beim Schweben
 - `.hover:rounded-tr-1` - Randradius oben rechts 1rem beim Schweben
 - `.hover:rounded-tr-0.5` - Randradius oben rechts 0,5rem beim Schweben
 - `.hover:rounded-tr-0` - Randradius oben rechts 0rem beim Schweben
 - `.rounded-tr-5` - Randradius oben rechts 5rem
-- `.rounded-tr-4.5` - Randradius oben rechts 0rem
+- `.rounded-tr-4.5` - Randradius oben rechts 4.5rem
 - `.rounded-tr-4` - Randradius oben rechts 4rem
-- `.rounded-tr-3.5` - Randradius oben rechts 0rem
+- `.rounded-tr-3.5` - Randradius oben rechts 3.5rem
 - `.rounded-tr-3` - Randradius oben rechts 3rem
-- `.rounded-tr-2.5` - Randradius oben rechts 0rem
+- `.rounded-tr-2.5` - Randradius oben rechts 2.5rem
 - `.rounded-tr-2` - Randradius oben rechts 2rem
-- `.rounded-tr-1.5` - Randradius oben rechts 0rem
+- `.rounded-tr-1.5` - Randradius oben rechts 1.5rem
 - `.rounded-tr-1` - Randradius oben rechts 1rem
 - `.rounded-tr-0.5` - Randradius oben rechts 0,5rem
 - `.rounded-tr-0` - Randradius oben rechts 0rem
@@ -5206,14 +5206,14 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:translate-x-50` - Verschieben Sie die X-Achse um 50 % beim Schweben
 - `.hover:translate-x-25` - Verschieben Sie die X-Achse um 25 % beim Schweben
 - `.hover:translate-x-2` - Verschieben Sie die X-Achse 2rem beim Schweben
-- `.hover:translate-x-1.5` - Verschieben Sie die X-Achse 0rem beim Hover
+- `.hover:translate-x-1.5` - Verschieben Sie die X-Achse 1.5rem beim Hover
 - `.hover:translate-x-1` - Verschieben Sie die X-Achse 1rem beim Schweben
 - `.hover:translate-x-0.5` - Verschieben Sie die X-Achse beim Schweben um 0,5rem
 - `.hover:translate-x-0` - Verschieben Sie die X-Achse 0rem beim Hover
 - `.translate-x-50` - X-Achse 50 % verschieben
 - `.translate-x-25` - X-Achse um 25 % verschieben
 - `.translate-x-2` - X-Achse 2rem verschieben
-- `.translate-x-1.5` - X-Achse 0rem verschieben
+- `.translate-x-1.5` - X-Achse 1.5rem verschieben
 - `.translate-x-1` - X-Achse 1rem verschieben
 - `.translate-x-0.5` - Verschieben Sie die X-Achse um 0,5rem
 - `.translate-x-0` - X-Achse 0rem verschieben
@@ -5238,14 +5238,14 @@ Es wird empfohlen, `bClass theme js`, `bClass theme colors`, `bClass components`
 - `.hover:translate-y-50` - Verschieben Sie die Y-Achse um 50 % beim Schweben
 - `.hover:translate-y-25` - Verschieben Sie die Y-Achse um 25 % beim Schweben
 - `.hover:translate-y-2` - Übersetzen Sie die Y-Achse 2rem beim Schweben
-- `.hover:translate-y-1.5` - Übersetzen Sie die Y-Achse 0rem beim Schweben
+- `.hover:translate-y-1.5` - Übersetzen Sie die Y-Achse 1.5rem beim Schweben
 - `.hover:translate-y-1` - Verschieben Sie die Y-Achse 1rem beim Hover
 - `.hover:translate-y-0.5` - Verschieben Sie die Y-Achse beim Schweben um 0,5rem
 - `.hover:translate-y-0` - Übersetzen Sie die Y-Achse 0rem beim Schweben
 - `.translate-y-50` - Y-Achse 50 % verschieben
 - `.translate-y-25` - Y-Achse um 25 % verschieben
 - `.translate-y-2` - Y-Achse 2rem verschieben
-- `.translate-y-1.5` - Y-Achse 0rem verschieben
+- `.translate-y-1.5` - Y-Achse 1.5rem verschieben
 - `.translate-y-1` - Y-Achse 1rem verschieben
 - `.translate-y-0.5` - Verschieben Sie die Y-Achse um 0,5rem
 - `.translate-y-0` - Y-Achse 0rem verschieben

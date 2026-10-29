@@ -901,56 +901,56 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Gap All
 
 - `.gap-5` - Gap All 5rem
-- `.gap-4.5` - Gap All 0rem
+- `.gap-4.5` - Gap All 4.5rem
 - `.gap-4` - Gap All 4rem
-- `.gap-3.5` - Gap All 0rem
+- `.gap-3.5` - Gap All 3.5rem
 - `.gap-3` - Gap All 3rem
-- `.gap-2.5` - Gap All 0rem
+- `.gap-2.5` - Gap All 2.5rem
 - `.gap-2` - Gap All 2rem
-- `.gap-1.9` - Gap All 0rem
-- `.gap-1.8` - Gap All 0rem
-- `.gap-1.7` - Gap All 0rem
-- `.gap-1.6` - Gap All 0rem
-- `.gap-1.5` - Gap All 0rem
-- `.gap-1.4` - Gap All 0rem
-- `.gap-1.3` - Gap All 0rem
-- `.gap-1.2` - Gap All 0rem
-- `.gap-1.1` - Gap All 0rem
+- `.gap-1.9` - Gap All 1.9rem
+- `.gap-1.8` - Gap All 1.8rem
+- `.gap-1.7` - Gap All 1.7rem
+- `.gap-1.6` - Gap All 1.6rem
+- `.gap-1.5` - Gap All 1.5rem
+- `.gap-1.4` - Gap All 1.4rem
+- `.gap-1.3` - Gap All 1.3rem
+- `.gap-1.2` - Gap All 1.2rem
+- `.gap-1.1` - Gap All 1.1rem
 - `.gap-1` - Gap All 1rem
-- `.gap-0.9` - Gap All 0rem
-- `.gap-0.8` - Gap All 0rem
-- `.gap-0.7` - Gap All 0rem
-- `.gap-0.6` - Gap All 0rem
-- `.gap-0.5` - Gap All 0rem
-- `.gap-0.4` - Gap All 0rem
-- `.gap-0.3` - Gap All 0rem
+- `.gap-0.9` - Gap All 0.9rem
+- `.gap-0.8` - Gap All 0.8rem
+- `.gap-0.7` - Gap All 0.7rem
+- `.gap-0.6` - Gap All 0.6rem
+- `.gap-0.5` - Gap All 0.5rem
+- `.gap-0.4` - Gap All 0.4rem
+- `.gap-0.3` - Gap All 0.3rem
 - `.gap-0.2` - Gap All 0.2rem
 - `.gap-0.1` - Gap All 0.1rem
 - `.gap-0` - Gap All 0rem
 - `.hover:gap-5` - Gap All 5rem on hover
-- `.hover:gap-4.5` - Gap All 0rem on hover
+- `.hover:gap-4.5` - Gap All 4.5rem on hover
 - `.hover:gap-4` - Gap All 4rem on hover
-- `.hover:gap-3.5` - Gap All 0rem on hover
+- `.hover:gap-3.5` - Gap All 3.5rem on hover
 - `.hover:gap-3` - Gap All 3rem on hover
-- `.hover:gap-2.5` - Gap All 0rem on hover
+- `.hover:gap-2.5` - Gap All 2.5rem on hover
 - `.hover:gap-2` - Gap All 2rem on hover
-- `.hover:gap-1.9` - Gap All 0rem on hover
-- `.hover:gap-1.8` - Gap All 0rem on hover
-- `.hover:gap-1.7` - Gap All 0rem on hover
-- `.hover:gap-1.6` - Gap All 0rem on hover
-- `.hover:gap-1.5` - Gap All 0rem on hover
-- `.hover:gap-1.4` - Gap All 0rem on hover
-- `.hover:gap-1.3` - Gap All 0rem on hover
-- `.hover:gap-1.2` - Gap All 0rem on hover
-- `.hover:gap-1.1` - Gap All 0rem on hover
+- `.hover:gap-1.9` - Gap All 1.9rem on hover
+- `.hover:gap-1.8` - Gap All 1.8rem on hover
+- `.hover:gap-1.7` - Gap All 1.7rem on hover
+- `.hover:gap-1.6` - Gap All 1.6rem on hover
+- `.hover:gap-1.5` - Gap All 1.5rem on hover
+- `.hover:gap-1.4` - Gap All 1.4rem on hover
+- `.hover:gap-1.3` - Gap All 1.3rem on hover
+- `.hover:gap-1.2` - Gap All 1.2rem on hover
+- `.hover:gap-1.1` - Gap All 1.1rem on hover
 - `.hover:gap-1` - Gap All 1rem on hover
-- `.hover:gap-0.9` - Gap All 0rem on hover
-- `.hover:gap-0.8` - Gap All 0rem on hover
-- `.hover:gap-0.7` - Gap All 0rem on hover
-- `.hover:gap-0.6` - Gap All 0rem on hover
-- `.hover:gap-0.5` - Gap All 0rem on hover
-- `.hover:gap-0.4` - Gap All 0rem on hover
-- `.hover:gap-0.3` - Gap All 0rem on hover
+- `.hover:gap-0.9` - Gap All 0.9rem on hover
+- `.hover:gap-0.8` - Gap All 0.8rem on hover
+- `.hover:gap-0.7` - Gap All 0.7rem on hover
+- `.hover:gap-0.6` - Gap All 0.6rem on hover
+- `.hover:gap-0.5` - Gap All 0.5rem on hover
+- `.hover:gap-0.4` - Gap All 0.4rem on hover
+- `.hover:gap-0.3` - Gap All 0.3rem on hover
 - `.hover:gap-0.2` - Gap All 0.2rem on hover
 - `.hover:gap-0.1` - Gap All 0.1rem on hover
 - `.hover:gap-0` - Gap All 0rem on hover
@@ -958,56 +958,56 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Gap X-Axis
 
 - `.gap-x-5` - Gap X-Axis 5rem
-- `.gap-x-4.5` - Gap X-Axis 0rem
+- `.gap-x-4.5` - Gap X-Axis 4.5rem
 - `.gap-x-4` - Gap X-Axis 4rem
-- `.gap-x-3.5` - Gap X-Axis 0rem
+- `.gap-x-3.5` - Gap X-Axis 3.5rem
 - `.gap-x-3` - Gap X-Axis 3rem
-- `.gap-x-2.5` - Gap X-Axis 0rem
+- `.gap-x-2.5` - Gap X-Axis 2.5rem
 - `.gap-x-2` - Gap X-Axis 2rem
-- `.gap-x-1.9` - Gap X-Axis 0rem
-- `.gap-x-1.8` - Gap X-Axis 0rem
-- `.gap-x-1.7` - Gap X-Axis 0rem
-- `.gap-x-1.6` - Gap X-Axis 0rem
-- `.gap-x-1.5` - Gap X-Axis 0rem
-- `.gap-x-1.4` - Gap X-Axis 0rem
-- `.gap-x-1.3` - Gap X-Axis 0rem
-- `.gap-x-1.2` - Gap X-Axis 0rem
-- `.gap-x-1.1` - Gap X-Axis 0rem
+- `.gap-x-1.9` - Gap X-Axis 1.9rem
+- `.gap-x-1.8` - Gap X-Axis 1.8rem
+- `.gap-x-1.7` - Gap X-Axis 1.7rem
+- `.gap-x-1.6` - Gap X-Axis 1.6rem
+- `.gap-x-1.5` - Gap X-Axis 1.5rem
+- `.gap-x-1.4` - Gap X-Axis 1.4rem
+- `.gap-x-1.3` - Gap X-Axis 1.3rem
+- `.gap-x-1.2` - Gap X-Axis 1.2rem
+- `.gap-x-1.1` - Gap X-Axis 1.1rem
 - `.gap-x-1` - Gap X-Axis 1rem
-- `.gap-x-0.9` - Gap X-Axis 0rem
-- `.gap-x-0.8` - Gap X-Axis 0rem
-- `.gap-x-0.7` - Gap X-Axis 0rem
-- `.gap-x-0.6` - Gap X-Axis 0rem
-- `.gap-x-0.5` - Gap X-Axis 0rem
-- `.gap-x-0.4` - Gap X-Axis 0rem
-- `.gap-x-0.3` - Gap X-Axis 0rem
+- `.gap-x-0.9` - Gap X-Axis 0.9rem
+- `.gap-x-0.8` - Gap X-Axis 0.8rem
+- `.gap-x-0.7` - Gap X-Axis 0.7rem
+- `.gap-x-0.6` - Gap X-Axis 0.6rem
+- `.gap-x-0.5` - Gap X-Axis 0.5rem
+- `.gap-x-0.4` - Gap X-Axis 0.4rem
+- `.gap-x-0.3` - Gap X-Axis 0.3rem
 - `.gap-x-0.2` - Gap X-Axis 0.2rem
 - `.gap-x-0.1` - Gap X-Axis 0.1rem
 - `.gap-x-0` - Gap X-Axis 0rem
 - `.hover:gap-x-5` - Gap X-Axis 5rem on hover
-- `.hover:gap-x-4.5` - Gap X-Axis 0rem on hover
+- `.hover:gap-x-4.5` - Gap X-Axis 4.5rem on hover
 - `.hover:gap-x-4` - Gap X-Axis 4rem on hover
-- `.hover:gap-x-3.5` - Gap X-Axis 0rem on hover
+- `.hover:gap-x-3.5` - Gap X-Axis 3.5rem on hover
 - `.hover:gap-x-3` - Gap X-Axis 3rem on hover
-- `.hover:gap-x-2.5` - Gap X-Axis 0rem on hover
+- `.hover:gap-x-2.5` - Gap X-Axis 2.5rem on hover
 - `.hover:gap-x-2` - Gap X-Axis 2rem on hover
-- `.hover:gap-x-1.9` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-1.8` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-1.7` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-1.6` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-1.5` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-1.4` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-1.3` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-1.2` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-1.1` - Gap X-Axis 0rem on hover
+- `.hover:gap-x-1.9` - Gap X-Axis 1.9rem on hover
+- `.hover:gap-x-1.8` - Gap X-Axis 1.8rem on hover
+- `.hover:gap-x-1.7` - Gap X-Axis 1.7rem on hover
+- `.hover:gap-x-1.6` - Gap X-Axis 1.6rem on hover
+- `.hover:gap-x-1.5` - Gap X-Axis 1.5rem on hover
+- `.hover:gap-x-1.4` - Gap X-Axis 1.4rem on hover
+- `.hover:gap-x-1.3` - Gap X-Axis 1.3rem on hover
+- `.hover:gap-x-1.2` - Gap X-Axis 1.2rem on hover
+- `.hover:gap-x-1.1` - Gap X-Axis 1.1rem on hover
 - `.hover:gap-x-1` - Gap X-Axis 1rem on hover
-- `.hover:gap-x-0.9` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-0.8` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-0.7` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-0.6` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-0.5` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-0.4` - Gap X-Axis 0rem on hover
-- `.hover:gap-x-0.3` - Gap X-Axis 0rem on hover
+- `.hover:gap-x-0.9` - Gap X-Axis 0.9rem on hover
+- `.hover:gap-x-0.8` - Gap X-Axis 0.8rem on hover
+- `.hover:gap-x-0.7` - Gap X-Axis 0.7rem on hover
+- `.hover:gap-x-0.6` - Gap X-Axis 0.6rem on hover
+- `.hover:gap-x-0.5` - Gap X-Axis 0.5rem on hover
+- `.hover:gap-x-0.4` - Gap X-Axis 0.4rem on hover
+- `.hover:gap-x-0.3` - Gap X-Axis 0.3rem on hover
 - `.hover:gap-x-0.2` - Gap X-Axis 0.2rem on hover
 - `.hover:gap-x-0.1` - Gap X-Axis 0.1rem on hover
 - `.hover:gap-x-0` - Gap X-Axis 0rem on hover
@@ -1015,56 +1015,56 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Gap Y-Axis
 
 - `.gap-y-5` - Gap Y-Axis 5rem
-- `.gap-y-4.5` - Gap Y-Axis 0rem
+- `.gap-y-4.5` - Gap Y-Axis 4.5rem
 - `.gap-y-4` - Gap Y-Axis 4rem
-- `.gap-y-3.5` - Gap Y-Axis 0rem
+- `.gap-y-3.5` - Gap Y-Axis 3.5rem
 - `.gap-y-3` - Gap Y-Axis 3rem
-- `.gap-y-2.5` - Gap Y-Axis 0rem
+- `.gap-y-2.5` - Gap Y-Axis 2.5rem
 - `.gap-y-2` - Gap Y-Axis 2rem
-- `.gap-y-1.9` - Gap Y-Axis 0rem
-- `.gap-y-1.8` - Gap Y-Axis 0rem
-- `.gap-y-1.7` - Gap Y-Axis 0rem
-- `.gap-y-1.6` - Gap Y-Axis 0rem
-- `.gap-y-1.5` - Gap Y-Axis 0rem
-- `.gap-y-1.4` - Gap Y-Axis 0rem
-- `.gap-y-1.3` - Gap Y-Axis 0rem
-- `.gap-y-1.2` - Gap Y-Axis 0rem
-- `.gap-y-1.1` - Gap Y-Axis 0rem
+- `.gap-y-1.9` - Gap Y-Axis 1.9rem
+- `.gap-y-1.8` - Gap Y-Axis 1.8rem
+- `.gap-y-1.7` - Gap Y-Axis 1.7rem
+- `.gap-y-1.6` - Gap Y-Axis 1.6rem
+- `.gap-y-1.5` - Gap Y-Axis 1.5rem
+- `.gap-y-1.4` - Gap Y-Axis 1.4rem
+- `.gap-y-1.3` - Gap Y-Axis 1.3rem
+- `.gap-y-1.2` - Gap Y-Axis 1.2rem
+- `.gap-y-1.1` - Gap Y-Axis 1.1rem
 - `.gap-y-1` - Gap Y-Axis 1rem
-- `.gap-y-0.9` - Gap Y-Axis 0rem
-- `.gap-y-0.8` - Gap Y-Axis 0rem
-- `.gap-y-0.7` - Gap Y-Axis 0rem
-- `.gap-y-0.6` - Gap Y-Axis 0rem
-- `.gap-y-0.5` - Gap Y-Axis 0rem
-- `.gap-y-0.4` - Gap Y-Axis 0rem
-- `.gap-y-0.3` - Gap Y-Axis 0rem
+- `.gap-y-0.9` - Gap Y-Axis 0.9rem
+- `.gap-y-0.8` - Gap Y-Axis 0.8rem
+- `.gap-y-0.7` - Gap Y-Axis 0.7rem
+- `.gap-y-0.6` - Gap Y-Axis 0.6rem
+- `.gap-y-0.5` - Gap Y-Axis 0.5rem
+- `.gap-y-0.4` - Gap Y-Axis 0.4rem
+- `.gap-y-0.3` - Gap Y-Axis 0.3rem
 - `.gap-y-0.2` - Gap Y-Axis 0.2rem
 - `.gap-y-0.1` - Gap Y-Axis 0.1rem
 - `.gap-y-0` - Gap Y-Axis 0rem
 - `.hover:gap-y-5` - Gap Y-Axis 5rem on hover
-- `.hover:gap-y-4.5` - Gap Y-Axis 0rem on hover
+- `.hover:gap-y-4.5` - Gap Y-Axis 4.5rem on hover
 - `.hover:gap-y-4` - Gap Y-Axis 4rem on hover
-- `.hover:gap-y-3.5` - Gap Y-Axis 0rem on hover
+- `.hover:gap-y-3.5` - Gap Y-Axis 3.5rem on hover
 - `.hover:gap-y-3` - Gap Y-Axis 3rem on hover
-- `.hover:gap-y-2.5` - Gap Y-Axis 0rem on hover
+- `.hover:gap-y-2.5` - Gap Y-Axis 2.5rem on hover
 - `.hover:gap-y-2` - Gap Y-Axis 2rem on hover
-- `.hover:gap-y-1.9` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-1.8` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-1.7` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-1.6` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-1.5` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-1.4` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-1.3` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-1.2` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-1.1` - Gap Y-Axis 0rem on hover
+- `.hover:gap-y-1.9` - Gap Y-Axis 1.9rem on hover
+- `.hover:gap-y-1.8` - Gap Y-Axis 1.8rem on hover
+- `.hover:gap-y-1.7` - Gap Y-Axis 1.7rem on hover
+- `.hover:gap-y-1.6` - Gap Y-Axis 1.6rem on hover
+- `.hover:gap-y-1.5` - Gap Y-Axis 1.5rem on hover
+- `.hover:gap-y-1.4` - Gap Y-Axis 1.4rem on hover
+- `.hover:gap-y-1.3` - Gap Y-Axis 1.3rem on hover
+- `.hover:gap-y-1.2` - Gap Y-Axis 1.2rem on hover
+- `.hover:gap-y-1.1` - Gap Y-Axis 1.1rem on hover
 - `.hover:gap-y-1` - Gap Y-Axis 1rem on hover
-- `.hover:gap-y-0.9` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-0.8` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-0.7` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-0.6` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-0.5` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-0.4` - Gap Y-Axis 0rem on hover
-- `.hover:gap-y-0.3` - Gap Y-Axis 0rem on hover
+- `.hover:gap-y-0.9` - Gap Y-Axis 0.9rem on hover
+- `.hover:gap-y-0.8` - Gap Y-Axis 0.8rem on hover
+- `.hover:gap-y-0.7` - Gap Y-Axis 0.7rem on hover
+- `.hover:gap-y-0.6` - Gap Y-Axis 0.6rem on hover
+- `.hover:gap-y-0.5` - Gap Y-Axis 0.5rem on hover
+- `.hover:gap-y-0.4` - Gap Y-Axis 0.4rem on hover
+- `.hover:gap-y-0.3` - Gap Y-Axis 0.3rem on hover
 - `.hover:gap-y-0.2` - Gap Y-Axis 0.2rem on hover
 - `.hover:gap-y-0.1` - Gap Y-Axis 0.1rem on hover
 - `.hover:gap-y-0` - Gap Y-Axis 0rem on hover
@@ -1848,58 +1848,58 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 - `.first:m-0` - Margin All 0rem on first
 - `.hover:m-5` - Margin All 5rem on hover
-- `.hover:m-4.5` - Margin All 0rem on hover
+- `.hover:m-4.5` - Margin All 4.5rem on hover
 - `.hover:m-4` - Margin All 4rem on hover
-- `.hover:m-3.5` - Margin All 0rem on hover
+- `.hover:m-3.5` - Margin All 3.5rem on hover
 - `.hover:m-3` - Margin All 3rem on hover
-- `.hover:m-2.5` - Margin All 0rem on hover
+- `.hover:m-2.5` - Margin All 2.5rem on hover
 - `.hover:m-2` - Margin All 2rem on hover
-- `.hover:m-1.9` - Margin All 0rem on hover
-- `.hover:m-1.8` - Margin All 0rem on hover
-- `.hover:m-1.7` - Margin All 0rem on hover
-- `.hover:m-1.6` - Margin All 0rem on hover
-- `.hover:m-1.5` - Margin All 0rem on hover
-- `.hover:m-1.4` - Margin All 0rem on hover
-- `.hover:m-1.3` - Margin All 0rem on hover
-- `.hover:m-1.2` - Margin All 0rem on hover
-- `.hover:m-1.1` - Margin All 0rem on hover
+- `.hover:m-1.9` - Margin All 1.9rem on hover
+- `.hover:m-1.8` - Margin All 1.8rem on hover
+- `.hover:m-1.7` - Margin All 1.7rem on hover
+- `.hover:m-1.6` - Margin All 1.6rem on hover
+- `.hover:m-1.5` - Margin All 1.5rem on hover
+- `.hover:m-1.4` - Margin All 1.4rem on hover
+- `.hover:m-1.3` - Margin All 1.3rem on hover
+- `.hover:m-1.2` - Margin All 1.2rem on hover
+- `.hover:m-1.1` - Margin All 1.1rem on hover
 - `.hover:m-1` - Margin All 1rem on hover
-- `.hover:m-0.9` - Margin All 0rem on hover
-- `.hover:m-0.8` - Margin All 0rem on hover
-- `.hover:m-0.7` - Margin All 0rem on hover
-- `.hover:m-0.6` - Margin All 0rem on hover
-- `.hover:m-0.5` - Margin All 0rem on hover
-- `.hover:m-0.4` - Margin All 0rem on hover
-- `.hover:m-0.3` - Margin All 0rem on hover
+- `.hover:m-0.9` - Margin All 0.9rem on hover
+- `.hover:m-0.8` - Margin All 0.8rem on hover
+- `.hover:m-0.7` - Margin All 0.7rem on hover
+- `.hover:m-0.6` - Margin All 0.6rem on hover
+- `.hover:m-0.5` - Margin All 0.5rem on hover
+- `.hover:m-0.4` - Margin All 0.4rem on hover
+- `.hover:m-0.3` - Margin All 0.3rem on hover
 - `.hover:m-0.2` - Margin All 0.2rem on hover
 - `.hover:m-0.1` - Margin All 0.1rem on hover
 - `.hover:m-0` - Margin All 0rem on hover
 - `.hover:m-auto` - Margin All auto on hover
 - `.last:m-0` - Margin All 0rem on last
 - `.m-5` - Margin All 5rem
-- `.m-4.5` - Margin All 0rem
+- `.m-4.5` - Margin All 4.5rem
 - `.m-4` - Margin All 4rem
-- `.m-3.5` - Margin All 0rem
+- `.m-3.5` - Margin All 3.5rem
 - `.m-3` - Margin All 3rem
-- `.m-2.5` - Margin All 0rem
+- `.m-2.5` - Margin All 2.5rem
 - `.m-2` - Margin All 2rem
-- `.m-1.9` - Margin All 0rem
-- `.m-1.8` - Margin All 0rem
-- `.m-1.7` - Margin All 0rem
-- `.m-1.6` - Margin All 0rem
-- `.m-1.5` - Margin All 0rem
-- `.m-1.4` - Margin All 0rem
-- `.m-1.3` - Margin All 0rem
-- `.m-1.2` - Margin All 0rem
-- `.m-1.1` - Margin All 0rem
+- `.m-1.9` - Margin All 1.9rem
+- `.m-1.8` - Margin All 1.8rem
+- `.m-1.7` - Margin All 1.7rem
+- `.m-1.6` - Margin All 1.6rem
+- `.m-1.5` - Margin All 1.5rem
+- `.m-1.4` - Margin All 1.4rem
+- `.m-1.3` - Margin All 1.3rem
+- `.m-1.2` - Margin All 1.2rem
+- `.m-1.1` - Margin All 1.1rem
 - `.m-1` - Margin All 1rem
-- `.m-0.9` - Margin All 0rem
-- `.m-0.8` - Margin All 0rem
-- `.m-0.7` - Margin All 0rem
-- `.m-0.6` - Margin All 0rem
-- `.m-0.5` - Margin All 0rem
-- `.m-0.4` - Margin All 0rem
-- `.m-0.3` - Margin All 0rem
+- `.m-0.9` - Margin All 0.9rem
+- `.m-0.8` - Margin All 0.8rem
+- `.m-0.7` - Margin All 0.7rem
+- `.m-0.6` - Margin All 0.6rem
+- `.m-0.5` - Margin All 0.5rem
+- `.m-0.4` - Margin All 0.4rem
+- `.m-0.3` - Margin All 0.3rem
 - `.m-0.2` - Margin All 0.2rem
 - `.m-0.1` - Margin All 0.1rem
 - `.m-0` - Margin All 0rem
@@ -1913,29 +1913,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:mb-50` - Margin Bottom 50% on hover
 - `.hover:mb-25` - Margin Bottom 25% on hover
 - `.hover:mb-5` - Margin Bottom 5rem on hover
-- `.hover:mb-4.5` - Margin Bottom 0rem on hover
+- `.hover:mb-4.5` - Margin Bottom 4.5rem on hover
 - `.hover:mb-4` - Margin Bottom 4rem on hover
-- `.hover:mb-3.5` - Margin Bottom 0rem on hover
+- `.hover:mb-3.5` - Margin Bottom 3.5rem on hover
 - `.hover:mb-3` - Margin Bottom 3rem on hover
-- `.hover:mb-2.5` - Margin Bottom 0rem on hover
+- `.hover:mb-2.5` - Margin Bottom 2.5rem on hover
 - `.hover:mb-2` - Margin Bottom 2rem on hover
-- `.hover:mb-1.9` - Margin Bottom 0rem on hover
-- `.hover:mb-1.8` - Margin Bottom 0rem on hover
-- `.hover:mb-1.7` - Margin Bottom 0rem on hover
-- `.hover:mb-1.6` - Margin Bottom 0rem on hover
-- `.hover:mb-1.5` - Margin Bottom 0rem on hover
-- `.hover:mb-1.4` - Margin Bottom 0rem on hover
-- `.hover:mb-1.3` - Margin Bottom 0rem on hover
-- `.hover:mb-1.2` - Margin Bottom 0rem on hover
-- `.hover:mb-1.1` - Margin Bottom 0rem on hover
+- `.hover:mb-1.9` - Margin Bottom 1.9rem on hover
+- `.hover:mb-1.8` - Margin Bottom 1.8rem on hover
+- `.hover:mb-1.7` - Margin Bottom 1.7rem on hover
+- `.hover:mb-1.6` - Margin Bottom 1.6rem on hover
+- `.hover:mb-1.5` - Margin Bottom 1.5rem on hover
+- `.hover:mb-1.4` - Margin Bottom 1.4rem on hover
+- `.hover:mb-1.3` - Margin Bottom 1.3rem on hover
+- `.hover:mb-1.2` - Margin Bottom 1.2rem on hover
+- `.hover:mb-1.1` - Margin Bottom 1.1rem on hover
 - `.hover:mb-1` - Margin Bottom 1rem on hover
-- `.hover:mb-0.9` - Margin Bottom 0rem on hover
-- `.hover:mb-0.8` - Margin Bottom 0rem on hover
-- `.hover:mb-0.7` - Margin Bottom 0rem on hover
-- `.hover:mb-0.6` - Margin Bottom 0rem on hover
-- `.hover:mb-0.5` - Margin Bottom 0rem on hover
-- `.hover:mb-0.4` - Margin Bottom 0rem on hover
-- `.hover:mb-0.3` - Margin Bottom 0rem on hover
+- `.hover:mb-0.9` - Margin Bottom 0.9rem on hover
+- `.hover:mb-0.8` - Margin Bottom 0.8rem on hover
+- `.hover:mb-0.7` - Margin Bottom 0.7rem on hover
+- `.hover:mb-0.6` - Margin Bottom 0.6rem on hover
+- `.hover:mb-0.5` - Margin Bottom 0.5rem on hover
+- `.hover:mb-0.4` - Margin Bottom 0.4rem on hover
+- `.hover:mb-0.3` - Margin Bottom 0.3rem on hover
 - `.hover:mb-0.2` - Margin Bottom 0.2rem on hover
 - `.hover:mb-0.1` - Margin Bottom 0.1rem on hover
 - `.hover:mb-0` - Margin Bottom 0rem on hover
@@ -1946,29 +1946,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.mb-50` - Margin Bottom 50%
 - `.mb-25` - Margin Bottom 25%
 - `.mb-5` - Margin Bottom 5rem
-- `.mb-4.5` - Margin Bottom 0rem
+- `.mb-4.5` - Margin Bottom 4.5rem
 - `.mb-4` - Margin Bottom 4rem
-- `.mb-3.5` - Margin Bottom 0rem
+- `.mb-3.5` - Margin Bottom 3.5rem
 - `.mb-3` - Margin Bottom 3rem
-- `.mb-2.5` - Margin Bottom 0rem
+- `.mb-2.5` - Margin Bottom 2.5rem
 - `.mb-2` - Margin Bottom 2rem
-- `.mb-1.9` - Margin Bottom 0rem
-- `.mb-1.8` - Margin Bottom 0rem
-- `.mb-1.7` - Margin Bottom 0rem
-- `.mb-1.6` - Margin Bottom 0rem
-- `.mb-1.5` - Margin Bottom 0rem
-- `.mb-1.4` - Margin Bottom 0rem
-- `.mb-1.3` - Margin Bottom 0rem
-- `.mb-1.2` - Margin Bottom 0rem
-- `.mb-1.1` - Margin Bottom 0rem
+- `.mb-1.9` - Margin Bottom 1.9rem
+- `.mb-1.8` - Margin Bottom 1.8rem
+- `.mb-1.7` - Margin Bottom 1.7rem
+- `.mb-1.6` - Margin Bottom 1.6rem
+- `.mb-1.5` - Margin Bottom 1.5rem
+- `.mb-1.4` - Margin Bottom 1.4rem
+- `.mb-1.3` - Margin Bottom 1.3rem
+- `.mb-1.2` - Margin Bottom 1.2rem
+- `.mb-1.1` - Margin Bottom 1.1rem
 - `.mb-1` - Margin Bottom 1rem
-- `.mb-0.9` - Margin Bottom 0rem
-- `.mb-0.8` - Margin Bottom 0rem
-- `.mb-0.7` - Margin Bottom 0rem
-- `.mb-0.6` - Margin Bottom 0rem
-- `.mb-0.5` - Margin Bottom 0rem
-- `.mb-0.4` - Margin Bottom 0rem
-- `.mb-0.3` - Margin Bottom 0rem
+- `.mb-0.9` - Margin Bottom 0.9rem
+- `.mb-0.8` - Margin Bottom 0.8rem
+- `.mb-0.7` - Margin Bottom 0.7rem
+- `.mb-0.6` - Margin Bottom 0.6rem
+- `.mb-0.5` - Margin Bottom 0.5rem
+- `.mb-0.4` - Margin Bottom 0.4rem
+- `.mb-0.3` - Margin Bottom 0.3rem
 - `.mb-0.2` - Margin Bottom 0.2rem
 - `.mb-0.1` - Margin Bottom 0.1rem
 - `.mb-0` - Margin Bottom 0rem
@@ -1995,29 +1995,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:ml-50` - Margin Left 50% on hover
 - `.hover:ml-25` - Margin Left 25% on hover
 - `.hover:ml-5` - Margin Left 5rem on hover
-- `.hover:ml-4.5` - Margin Left 0rem on hover
+- `.hover:ml-4.5` - Margin Left 4.5rem on hover
 - `.hover:ml-4` - Margin Left 4rem on hover
-- `.hover:ml-3.5` - Margin Left 0rem on hover
+- `.hover:ml-3.5` - Margin Left 3.5rem on hover
 - `.hover:ml-3` - Margin Left 3rem on hover
-- `.hover:ml-2.5` - Margin Left 0rem on hover
+- `.hover:ml-2.5` - Margin Left 2.5rem on hover
 - `.hover:ml-2` - Margin Left 2rem on hover
-- `.hover:ml-1.9` - Margin Left 0rem on hover
-- `.hover:ml-1.8` - Margin Left 0rem on hover
-- `.hover:ml-1.7` - Margin Left 0rem on hover
-- `.hover:ml-1.6` - Margin Left 0rem on hover
-- `.hover:ml-1.5` - Margin Left 0rem on hover
-- `.hover:ml-1.4` - Margin Left 0rem on hover
-- `.hover:ml-1.3` - Margin Left 0rem on hover
-- `.hover:ml-1.2` - Margin Left 0rem on hover
-- `.hover:ml-1.1` - Margin Left 0rem on hover
+- `.hover:ml-1.9` - Margin Left 1.9rem on hover
+- `.hover:ml-1.8` - Margin Left 1.8rem on hover
+- `.hover:ml-1.7` - Margin Left 1.7rem on hover
+- `.hover:ml-1.6` - Margin Left 1.6rem on hover
+- `.hover:ml-1.5` - Margin Left 1.5rem on hover
+- `.hover:ml-1.4` - Margin Left 1.4rem on hover
+- `.hover:ml-1.3` - Margin Left 1.3rem on hover
+- `.hover:ml-1.2` - Margin Left 1.2rem on hover
+- `.hover:ml-1.1` - Margin Left 1.1rem on hover
 - `.hover:ml-1` - Margin Left 1rem on hover
-- `.hover:ml-0.9` - Margin Left 0rem on hover
-- `.hover:ml-0.8` - Margin Left 0rem on hover
-- `.hover:ml-0.7` - Margin Left 0rem on hover
-- `.hover:ml-0.6` - Margin Left 0rem on hover
-- `.hover:ml-0.5` - Margin Left 0rem on hover
-- `.hover:ml-0.4` - Margin Left 0rem on hover
-- `.hover:ml-0.3` - Margin Left 0rem on hover
+- `.hover:ml-0.9` - Margin Left 0.9rem on hover
+- `.hover:ml-0.8` - Margin Left 0.8rem on hover
+- `.hover:ml-0.7` - Margin Left 0.7rem on hover
+- `.hover:ml-0.6` - Margin Left 0.6rem on hover
+- `.hover:ml-0.5` - Margin Left 0.5rem on hover
+- `.hover:ml-0.4` - Margin Left 0.4rem on hover
+- `.hover:ml-0.3` - Margin Left 0.3rem on hover
 - `.hover:ml-0.2` - Margin Left 0.2rem on hover
 - `.hover:ml-0.1` - Margin Left 0.1rem on hover
 - `.hover:ml-0` - Margin Left 0rem on hover
@@ -2028,29 +2028,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.ml-50` - Margin Left 50%
 - `.ml-25` - Margin Left 25%
 - `.ml-5` - Margin Left 5rem
-- `.ml-4.5` - Margin Left 0rem
+- `.ml-4.5` - Margin Left 4.5rem
 - `.ml-4` - Margin Left 4rem
-- `.ml-3.5` - Margin Left 0rem
+- `.ml-3.5` - Margin Left 3.5rem
 - `.ml-3` - Margin Left 3rem
-- `.ml-2.5` - Margin Left 0rem
+- `.ml-2.5` - Margin Left 2.5rem
 - `.ml-2` - Margin Left 2rem
-- `.ml-1.9` - Margin Left 0rem
-- `.ml-1.8` - Margin Left 0rem
-- `.ml-1.7` - Margin Left 0rem
-- `.ml-1.6` - Margin Left 0rem
-- `.ml-1.5` - Margin Left 0rem
-- `.ml-1.4` - Margin Left 0rem
-- `.ml-1.3` - Margin Left 0rem
-- `.ml-1.2` - Margin Left 0rem
-- `.ml-1.1` - Margin Left 0rem
+- `.ml-1.9` - Margin Left 1.9rem
+- `.ml-1.8` - Margin Left 1.8rem
+- `.ml-1.7` - Margin Left 1.7rem
+- `.ml-1.6` - Margin Left 1.6rem
+- `.ml-1.5` - Margin Left 1.5rem
+- `.ml-1.4` - Margin Left 1.4rem
+- `.ml-1.3` - Margin Left 1.3rem
+- `.ml-1.2` - Margin Left 1.2rem
+- `.ml-1.1` - Margin Left 1.1rem
 - `.ml-1` - Margin Left 1rem
-- `.ml-0.9` - Margin Left 0rem
-- `.ml-0.8` - Margin Left 0rem
-- `.ml-0.7` - Margin Left 0rem
-- `.ml-0.6` - Margin Left 0rem
-- `.ml-0.5` - Margin Left 0rem
-- `.ml-0.4` - Margin Left 0rem
-- `.ml-0.3` - Margin Left 0rem
+- `.ml-0.9` - Margin Left 0.9rem
+- `.ml-0.8` - Margin Left 0.8rem
+- `.ml-0.7` - Margin Left 0.7rem
+- `.ml-0.6` - Margin Left 0.6rem
+- `.ml-0.5` - Margin Left 0.5rem
+- `.ml-0.4` - Margin Left 0.4rem
+- `.ml-0.3` - Margin Left 0.3rem
 - `.ml-0.2` - Margin Left 0.2rem
 - `.ml-0.1` - Margin Left 0.1rem
 - `.ml-0` - Margin Left 0rem
@@ -2064,29 +2064,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:mr-50` - Margin Right 50% on hover
 - `.hover:mr-25` - Margin Right 25% on hover
 - `.hover:mr-5` - Margin Right 5rem on hover
-- `.hover:mr-4.5` - Margin Right 0rem on hover
+- `.hover:mr-4.5` - Margin Right 4.5rem on hover
 - `.hover:mr-4` - Margin Right 4rem on hover
-- `.hover:mr-3.5` - Margin Right 0rem on hover
+- `.hover:mr-3.5` - Margin Right 3.5rem on hover
 - `.hover:mr-3` - Margin Right 3rem on hover
-- `.hover:mr-2.5` - Margin Right 0rem on hover
+- `.hover:mr-2.5` - Margin Right 2.5rem on hover
 - `.hover:mr-2` - Margin Right 2rem on hover
-- `.hover:mr-1.9` - Margin Right 0rem on hover
-- `.hover:mr-1.8` - Margin Right 0rem on hover
-- `.hover:mr-1.7` - Margin Right 0rem on hover
-- `.hover:mr-1.6` - Margin Right 0rem on hover
-- `.hover:mr-1.5` - Margin Right 0rem on hover
-- `.hover:mr-1.4` - Margin Right 0rem on hover
-- `.hover:mr-1.3` - Margin Right 0rem on hover
-- `.hover:mr-1.2` - Margin Right 0rem on hover
-- `.hover:mr-1.1` - Margin Right 0rem on hover
+- `.hover:mr-1.9` - Margin Right 1.9rem on hover
+- `.hover:mr-1.8` - Margin Right 1.8rem on hover
+- `.hover:mr-1.7` - Margin Right 1.7rem on hover
+- `.hover:mr-1.6` - Margin Right 1.6rem on hover
+- `.hover:mr-1.5` - Margin Right 1.5rem on hover
+- `.hover:mr-1.4` - Margin Right 1.4rem on hover
+- `.hover:mr-1.3` - Margin Right 1.3rem on hover
+- `.hover:mr-1.2` - Margin Right 1.2rem on hover
+- `.hover:mr-1.1` - Margin Right 1.1rem on hover
 - `.hover:mr-1` - Margin Right 1rem on hover
-- `.hover:mr-0.9` - Margin Right 0rem on hover
-- `.hover:mr-0.8` - Margin Right 0rem on hover
-- `.hover:mr-0.7` - Margin Right 0rem on hover
-- `.hover:mr-0.6` - Margin Right 0rem on hover
-- `.hover:mr-0.5` - Margin Right 0rem on hover
-- `.hover:mr-0.4` - Margin Right 0rem on hover
-- `.hover:mr-0.3` - Margin Right 0rem on hover
+- `.hover:mr-0.9` - Margin Right 0.9rem on hover
+- `.hover:mr-0.8` - Margin Right 0.8rem on hover
+- `.hover:mr-0.7` - Margin Right 0.7rem on hover
+- `.hover:mr-0.6` - Margin Right 0.6rem on hover
+- `.hover:mr-0.5` - Margin Right 0.5rem on hover
+- `.hover:mr-0.4` - Margin Right 0.4rem on hover
+- `.hover:mr-0.3` - Margin Right 0.3rem on hover
 - `.hover:mr-0.2` - Margin Right 0.2rem on hover
 - `.hover:mr-0.1` - Margin Right 0.1rem on hover
 - `.hover:mr-0` - Margin Right 0rem on hover
@@ -2097,29 +2097,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.mr-50` - Margin Right 50%
 - `.mr-25` - Margin Right 25%
 - `.mr-5` - Margin Right 5rem
-- `.mr-4.5` - Margin Right 0rem
+- `.mr-4.5` - Margin Right 4.5rem
 - `.mr-4` - Margin Right 4rem
-- `.mr-3.5` - Margin Right 0rem
+- `.mr-3.5` - Margin Right 3.5rem
 - `.mr-3` - Margin Right 3rem
-- `.mr-2.5` - Margin Right 0rem
+- `.mr-2.5` - Margin Right 2.5rem
 - `.mr-2` - Margin Right 2rem
-- `.mr-1.9` - Margin Right 0rem
-- `.mr-1.8` - Margin Right 0rem
-- `.mr-1.7` - Margin Right 0rem
-- `.mr-1.6` - Margin Right 0rem
-- `.mr-1.5` - Margin Right 0rem
-- `.mr-1.4` - Margin Right 0rem
-- `.mr-1.3` - Margin Right 0rem
-- `.mr-1.2` - Margin Right 0rem
-- `.mr-1.1` - Margin Right 0rem
+- `.mr-1.9` - Margin Right 1.9rem
+- `.mr-1.8` - Margin Right 1.8rem
+- `.mr-1.7` - Margin Right 1.7rem
+- `.mr-1.6` - Margin Right 1.6rem
+- `.mr-1.5` - Margin Right 1.5rem
+- `.mr-1.4` - Margin Right 1.4rem
+- `.mr-1.3` - Margin Right 1.3rem
+- `.mr-1.2` - Margin Right 1.2rem
+- `.mr-1.1` - Margin Right 1.1rem
 - `.mr-1` - Margin Right 1rem
-- `.mr-0.9` - Margin Right 0rem
-- `.mr-0.8` - Margin Right 0rem
-- `.mr-0.7` - Margin Right 0rem
-- `.mr-0.6` - Margin Right 0rem
-- `.mr-0.5` - Margin Right 0rem
-- `.mr-0.4` - Margin Right 0rem
-- `.mr-0.3` - Margin Right 0rem
+- `.mr-0.9` - Margin Right 0.9rem
+- `.mr-0.8` - Margin Right 0.8rem
+- `.mr-0.7` - Margin Right 0.7rem
+- `.mr-0.6` - Margin Right 0.6rem
+- `.mr-0.5` - Margin Right 0.5rem
+- `.mr-0.4` - Margin Right 0.4rem
+- `.mr-0.3` - Margin Right 0.3rem
 - `.mr-0.2` - Margin Right 0.2rem
 - `.mr-0.1` - Margin Right 0.1rem
 - `.mr-0` - Margin Right 0rem
@@ -2146,29 +2146,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:mt-50` - Margin Top 50% on hover
 - `.hover:mt-25` - Margin Top 25% on hover
 - `.hover:mt-5` - Margin Top 5rem on hover
-- `.hover:mt-4.5` - Margin Top 0rem on hover
+- `.hover:mt-4.5` - Margin Top 4.5rem on hover
 - `.hover:mt-4` - Margin Top 4rem on hover
-- `.hover:mt-3.5` - Margin Top 0rem on hover
+- `.hover:mt-3.5` - Margin Top 3.5rem on hover
 - `.hover:mt-3` - Margin Top 3rem on hover
-- `.hover:mt-2.5` - Margin Top 0rem on hover
+- `.hover:mt-2.5` - Margin Top 2.5rem on hover
 - `.hover:mt-2` - Margin Top 2rem on hover
-- `.hover:mt-1.9` - Margin Top 0rem on hover
-- `.hover:mt-1.8` - Margin Top 0rem on hover
-- `.hover:mt-1.7` - Margin Top 0rem on hover
-- `.hover:mt-1.6` - Margin Top 0rem on hover
-- `.hover:mt-1.5` - Margin Top 0rem on hover
-- `.hover:mt-1.4` - Margin Top 0rem on hover
-- `.hover:mt-1.3` - Margin Top 0rem on hover
-- `.hover:mt-1.2` - Margin Top 0rem on hover
-- `.hover:mt-1.1` - Margin Top 0rem on hover
+- `.hover:mt-1.9` - Margin Top 1.9rem on hover
+- `.hover:mt-1.8` - Margin Top 1.8rem on hover
+- `.hover:mt-1.7` - Margin Top 1.7rem on hover
+- `.hover:mt-1.6` - Margin Top 1.6rem on hover
+- `.hover:mt-1.5` - Margin Top 1.5rem on hover
+- `.hover:mt-1.4` - Margin Top 1.4rem on hover
+- `.hover:mt-1.3` - Margin Top 1.3rem on hover
+- `.hover:mt-1.2` - Margin Top 1.2rem on hover
+- `.hover:mt-1.1` - Margin Top 1.1rem on hover
 - `.hover:mt-1` - Margin Top 1rem on hover
-- `.hover:mt-0.9` - Margin Top 0rem on hover
-- `.hover:mt-0.8` - Margin Top 0rem on hover
-- `.hover:mt-0.7` - Margin Top 0rem on hover
-- `.hover:mt-0.6` - Margin Top 0rem on hover
-- `.hover:mt-0.5` - Margin Top 0rem on hover
-- `.hover:mt-0.4` - Margin Top 0rem on hover
-- `.hover:mt-0.3` - Margin Top 0rem on hover
+- `.hover:mt-0.9` - Margin Top 0.9rem on hover
+- `.hover:mt-0.8` - Margin Top 0.8rem on hover
+- `.hover:mt-0.7` - Margin Top 0.7rem on hover
+- `.hover:mt-0.6` - Margin Top 0.6rem on hover
+- `.hover:mt-0.5` - Margin Top 0.5rem on hover
+- `.hover:mt-0.4` - Margin Top 0.4rem on hover
+- `.hover:mt-0.3` - Margin Top 0.3rem on hover
 - `.hover:mt-0.2` - Margin Top 0.2rem on hover
 - `.hover:mt-0.1` - Margin Top 0.1rem on hover
 - `.hover:mt-0` - Margin Top 0rem on hover
@@ -2179,29 +2179,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.mt-50` - Margin Top 50%
 - `.mt-25` - Margin Top 25%
 - `.mt-5` - Margin Top 5rem
-- `.mt-4.5` - Margin Top 0rem
+- `.mt-4.5` - Margin Top 4.5rem
 - `.mt-4` - Margin Top 4rem
-- `.mt-3.5` - Margin Top 0rem
+- `.mt-3.5` - Margin Top 3.5rem
 - `.mt-3` - Margin Top 3rem
-- `.mt-2.5` - Margin Top 0rem
+- `.mt-2.5` - Margin Top 2.5rem
 - `.mt-2` - Margin Top 2rem
-- `.mt-1.9` - Margin Top 0rem
-- `.mt-1.8` - Margin Top 0rem
-- `.mt-1.7` - Margin Top 0rem
-- `.mt-1.6` - Margin Top 0rem
-- `.mt-1.5` - Margin Top 0rem
-- `.mt-1.4` - Margin Top 0rem
-- `.mt-1.3` - Margin Top 0rem
-- `.mt-1.2` - Margin Top 0rem
-- `.mt-1.1` - Margin Top 0rem
+- `.mt-1.9` - Margin Top 1.9rem
+- `.mt-1.8` - Margin Top 1.8rem
+- `.mt-1.7` - Margin Top 1.7rem
+- `.mt-1.6` - Margin Top 1.6rem
+- `.mt-1.5` - Margin Top 1.5rem
+- `.mt-1.4` - Margin Top 1.4rem
+- `.mt-1.3` - Margin Top 1.3rem
+- `.mt-1.2` - Margin Top 1.2rem
+- `.mt-1.1` - Margin Top 1.1rem
 - `.mt-1` - Margin Top 1rem
-- `.mt-0.9` - Margin Top 0rem
-- `.mt-0.8` - Margin Top 0rem
-- `.mt-0.7` - Margin Top 0rem
-- `.mt-0.6` - Margin Top 0rem
-- `.mt-0.5` - Margin Top 0rem
-- `.mt-0.4` - Margin Top 0rem
-- `.mt-0.3` - Margin Top 0rem
+- `.mt-0.9` - Margin Top 0.9rem
+- `.mt-0.8` - Margin Top 0.8rem
+- `.mt-0.7` - Margin Top 0.7rem
+- `.mt-0.6` - Margin Top 0.6rem
+- `.mt-0.5` - Margin Top 0.5rem
+- `.mt-0.4` - Margin Top 0.4rem
+- `.mt-0.3` - Margin Top 0.3rem
 - `.mt-0.2` - Margin Top 0.2rem
 - `.mt-0.1` - Margin Top 0.1rem
 - `.mt-0` - Margin Top 0rem
@@ -2214,29 +2214,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:mx-50` - Margin X-Axis 50% on hover
 - `.hover:mx-25` - Margin X-Axis 25% on hover
 - `.hover:mx-5` - Margin X-Axis 5rem on hover
-- `.hover:mx-4.5` - Margin X-Axis 0rem on hover
+- `.hover:mx-4.5` - Margin X-Axis 4.5rem on hover
 - `.hover:mx-4` - Margin X-Axis 4rem on hover
-- `.hover:mx-3.5` - Margin X-Axis 0rem on hover
+- `.hover:mx-3.5` - Margin X-Axis 3.5rem on hover
 - `.hover:mx-3` - Margin X-Axis 3rem on hover
-- `.hover:mx-2.5` - Margin X-Axis 0rem on hover
+- `.hover:mx-2.5` - Margin X-Axis 2.5rem on hover
 - `.hover:mx-2` - Margin X-Axis 2rem on hover
-- `.hover:mx-1.9` - Margin X-Axis 0rem on hover
-- `.hover:mx-1.8` - Margin X-Axis 0rem on hover
-- `.hover:mx-1.7` - Margin X-Axis 0rem on hover
-- `.hover:mx-1.6` - Margin X-Axis 0rem on hover
-- `.hover:mx-1.5` - Margin X-Axis 0rem on hover
-- `.hover:mx-1.4` - Margin X-Axis 0rem on hover
-- `.hover:mx-1.3` - Margin X-Axis 0rem on hover
-- `.hover:mx-1.2` - Margin X-Axis 0rem on hover
-- `.hover:mx-1.1` - Margin X-Axis 0rem on hover
+- `.hover:mx-1.9` - Margin X-Axis 1.9rem on hover
+- `.hover:mx-1.8` - Margin X-Axis 1.8rem on hover
+- `.hover:mx-1.7` - Margin X-Axis 1.7rem on hover
+- `.hover:mx-1.6` - Margin X-Axis 1.6rem on hover
+- `.hover:mx-1.5` - Margin X-Axis 1.5rem on hover
+- `.hover:mx-1.4` - Margin X-Axis 1.4rem on hover
+- `.hover:mx-1.3` - Margin X-Axis 1.3rem on hover
+- `.hover:mx-1.2` - Margin X-Axis 1.2rem on hover
+- `.hover:mx-1.1` - Margin X-Axis 1.1rem on hover
 - `.hover:mx-1` - Margin X-Axis 1rem on hover
-- `.hover:mx-0.9` - Margin X-Axis 0rem on hover
-- `.hover:mx-0.8` - Margin X-Axis 0rem on hover
-- `.hover:mx-0.7` - Margin X-Axis 0rem on hover
-- `.hover:mx-0.6` - Margin X-Axis 0rem on hover
-- `.hover:mx-0.5` - Margin X-Axis 0rem on hover
-- `.hover:mx-0.4` - Margin X-Axis 0rem on hover
-- `.hover:mx-0.3` - Margin X-Axis 0rem on hover
+- `.hover:mx-0.9` - Margin X-Axis 0.9rem on hover
+- `.hover:mx-0.8` - Margin X-Axis 0.8rem on hover
+- `.hover:mx-0.7` - Margin X-Axis 0.7rem on hover
+- `.hover:mx-0.6` - Margin X-Axis 0.6rem on hover
+- `.hover:mx-0.5` - Margin X-Axis 0.5rem on hover
+- `.hover:mx-0.4` - Margin X-Axis 0.4rem on hover
+- `.hover:mx-0.3` - Margin X-Axis 0.3rem on hover
 - `.hover:mx-0.2` - Margin X-Axis 0.2rem on hover
 - `.hover:mx-0.1` - Margin X-Axis 0.1rem on hover
 - `.hover:mx-0` - Margin X-Axis 0rem on hover
@@ -2246,29 +2246,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.mx-50` - Margin X-Axis 50%
 - `.mx-25` - Margin X-Axis 25%
 - `.mx-5` - Margin X-Axis 5rem
-- `.mx-4.5` - Margin X-Axis 0rem
+- `.mx-4.5` - Margin X-Axis 4.5rem
 - `.mx-4` - Margin X-Axis 4rem
-- `.mx-3.5` - Margin X-Axis 0rem
+- `.mx-3.5` - Margin X-Axis 3.5rem
 - `.mx-3` - Margin X-Axis 3rem
-- `.mx-2.5` - Margin X-Axis 0rem
+- `.mx-2.5` - Margin X-Axis 2.5rem
 - `.mx-2` - Margin X-Axis 2rem
-- `.mx-1.9` - Margin X-Axis 0rem
-- `.mx-1.8` - Margin X-Axis 0rem
-- `.mx-1.7` - Margin X-Axis 0rem
-- `.mx-1.6` - Margin X-Axis 0rem
-- `.mx-1.5` - Margin X-Axis 0rem
-- `.mx-1.4` - Margin X-Axis 0rem
-- `.mx-1.3` - Margin X-Axis 0rem
-- `.mx-1.2` - Margin X-Axis 0rem
-- `.mx-1.1` - Margin X-Axis 0rem
+- `.mx-1.9` - Margin X-Axis 1.9rem
+- `.mx-1.8` - Margin X-Axis 1.8rem
+- `.mx-1.7` - Margin X-Axis 1.7rem
+- `.mx-1.6` - Margin X-Axis 1.6rem
+- `.mx-1.5` - Margin X-Axis 1.5rem
+- `.mx-1.4` - Margin X-Axis 1.4rem
+- `.mx-1.3` - Margin X-Axis 1.3rem
+- `.mx-1.2` - Margin X-Axis 1.2rem
+- `.mx-1.1` - Margin X-Axis 1.1rem
 - `.mx-1` - Margin X-Axis 1rem
-- `.mx-0.9` - Margin X-Axis 0rem
-- `.mx-0.8` - Margin X-Axis 0rem
-- `.mx-0.7` - Margin X-Axis 0rem
-- `.mx-0.6` - Margin X-Axis 0rem
-- `.mx-0.5` - Margin X-Axis 0rem
-- `.mx-0.4` - Margin X-Axis 0rem
-- `.mx-0.3` - Margin X-Axis 0rem
+- `.mx-0.9` - Margin X-Axis 0.9rem
+- `.mx-0.8` - Margin X-Axis 0.8rem
+- `.mx-0.7` - Margin X-Axis 0.7rem
+- `.mx-0.6` - Margin X-Axis 0.6rem
+- `.mx-0.5` - Margin X-Axis 0.5rem
+- `.mx-0.4` - Margin X-Axis 0.4rem
+- `.mx-0.3` - Margin X-Axis 0.3rem
 - `.mx-0.2` - Margin X-Axis 0.2rem
 - `.mx-0.1` - Margin X-Axis 0.1rem
 - `.mx-0` - Margin X-Axis 0rem
@@ -2281,29 +2281,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:my-50` - Margin Y-Axis 50% on hover
 - `.hover:my-25` - Margin Y-Axis 25% on hover
 - `.hover:my-5` - Margin Y-Axis 5rem on hover
-- `.hover:my-4.5` - Margin Y-Axis 0rem on hover
+- `.hover:my-4.5` - Margin Y-Axis 4.5rem on hover
 - `.hover:my-4` - Margin Y-Axis 4rem on hover
-- `.hover:my-3.5` - Margin Y-Axis 0rem on hover
+- `.hover:my-3.5` - Margin Y-Axis 3.5rem on hover
 - `.hover:my-3` - Margin Y-Axis 3rem on hover
-- `.hover:my-2.5` - Margin Y-Axis 0rem on hover
+- `.hover:my-2.5` - Margin Y-Axis 2.5rem on hover
 - `.hover:my-2` - Margin Y-Axis 2rem on hover
-- `.hover:my-1.9` - Margin Y-Axis 0rem on hover
-- `.hover:my-1.8` - Margin Y-Axis 0rem on hover
-- `.hover:my-1.7` - Margin Y-Axis 0rem on hover
-- `.hover:my-1.6` - Margin Y-Axis 0rem on hover
-- `.hover:my-1.5` - Margin Y-Axis 0rem on hover
-- `.hover:my-1.4` - Margin Y-Axis 0rem on hover
-- `.hover:my-1.3` - Margin Y-Axis 0rem on hover
-- `.hover:my-1.2` - Margin Y-Axis 0rem on hover
-- `.hover:my-1.1` - Margin Y-Axis 0rem on hover
+- `.hover:my-1.9` - Margin Y-Axis 1.9rem on hover
+- `.hover:my-1.8` - Margin Y-Axis 1.8rem on hover
+- `.hover:my-1.7` - Margin Y-Axis 1.7rem on hover
+- `.hover:my-1.6` - Margin Y-Axis 1.6rem on hover
+- `.hover:my-1.5` - Margin Y-Axis 1.5rem on hover
+- `.hover:my-1.4` - Margin Y-Axis 1.4rem on hover
+- `.hover:my-1.3` - Margin Y-Axis 1.3rem on hover
+- `.hover:my-1.2` - Margin Y-Axis 1.2rem on hover
+- `.hover:my-1.1` - Margin Y-Axis 1.1rem on hover
 - `.hover:my-1` - Margin Y-Axis 1rem on hover
-- `.hover:my-0.9` - Margin Y-Axis 0rem on hover
-- `.hover:my-0.8` - Margin Y-Axis 0rem on hover
-- `.hover:my-0.7` - Margin Y-Axis 0rem on hover
-- `.hover:my-0.6` - Margin Y-Axis 0rem on hover
-- `.hover:my-0.5` - Margin Y-Axis 0rem on hover
-- `.hover:my-0.4` - Margin Y-Axis 0rem on hover
-- `.hover:my-0.3` - Margin Y-Axis 0rem on hover
+- `.hover:my-0.9` - Margin Y-Axis 0.9rem on hover
+- `.hover:my-0.8` - Margin Y-Axis 0.8rem on hover
+- `.hover:my-0.7` - Margin Y-Axis 0.7rem on hover
+- `.hover:my-0.6` - Margin Y-Axis 0.6rem on hover
+- `.hover:my-0.5` - Margin Y-Axis 0.5rem on hover
+- `.hover:my-0.4` - Margin Y-Axis 0.4rem on hover
+- `.hover:my-0.3` - Margin Y-Axis 0.3rem on hover
 - `.hover:my-0.2` - Margin Y-Axis 0.2rem on hover
 - `.hover:my-0.1` - Margin Y-Axis 0.1rem on hover
 - `.hover:my-0` - Margin Y-Axis 0rem on hover
@@ -2313,29 +2313,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.my-50` - Margin Y-Axis 50%
 - `.my-25` - Margin Y-Axis 25%
 - `.my-5` - Margin Y-Axis 5rem
-- `.my-4.5` - Margin Y-Axis 0rem
+- `.my-4.5` - Margin Y-Axis 4.5rem
 - `.my-4` - Margin Y-Axis 4rem
-- `.my-3.5` - Margin Y-Axis 0rem
+- `.my-3.5` - Margin Y-Axis 3.5rem
 - `.my-3` - Margin Y-Axis 3rem
-- `.my-2.5` - Margin Y-Axis 0rem
+- `.my-2.5` - Margin Y-Axis 2.5rem
 - `.my-2` - Margin Y-Axis 2rem
-- `.my-1.9` - Margin Y-Axis 0rem
-- `.my-1.8` - Margin Y-Axis 0rem
-- `.my-1.7` - Margin Y-Axis 0rem
-- `.my-1.6` - Margin Y-Axis 0rem
-- `.my-1.5` - Margin Y-Axis 0rem
-- `.my-1.4` - Margin Y-Axis 0rem
-- `.my-1.3` - Margin Y-Axis 0rem
-- `.my-1.2` - Margin Y-Axis 0rem
-- `.my-1.1` - Margin Y-Axis 0rem
+- `.my-1.9` - Margin Y-Axis 1.9rem
+- `.my-1.8` - Margin Y-Axis 1.8rem
+- `.my-1.7` - Margin Y-Axis 1.7rem
+- `.my-1.6` - Margin Y-Axis 1.6rem
+- `.my-1.5` - Margin Y-Axis 1.5rem
+- `.my-1.4` - Margin Y-Axis 1.4rem
+- `.my-1.3` - Margin Y-Axis 1.3rem
+- `.my-1.2` - Margin Y-Axis 1.2rem
+- `.my-1.1` - Margin Y-Axis 1.1rem
 - `.my-1` - Margin Y-Axis 1rem
-- `.my-0.9` - Margin Y-Axis 0rem
-- `.my-0.8` - Margin Y-Axis 0rem
-- `.my-0.7` - Margin Y-Axis 0rem
-- `.my-0.6` - Margin Y-Axis 0rem
-- `.my-0.5` - Margin Y-Axis 0rem
-- `.my-0.4` - Margin Y-Axis 0rem
-- `.my-0.3` - Margin Y-Axis 0rem
+- `.my-0.9` - Margin Y-Axis 0.9rem
+- `.my-0.8` - Margin Y-Axis 0.8rem
+- `.my-0.7` - Margin Y-Axis 0.7rem
+- `.my-0.6` - Margin Y-Axis 0.6rem
+- `.my-0.5` - Margin Y-Axis 0.5rem
+- `.my-0.4` - Margin Y-Axis 0.4rem
+- `.my-0.3` - Margin Y-Axis 0.3rem
 - `.my-0.2` - Margin Y-Axis 0.2rem
 - `.my-0.1` - Margin Y-Axis 0.1rem
 - `.my-0` - Margin Y-Axis 0rem
@@ -2347,57 +2347,57 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 - `.first:p-0` - Padding All 0rem on first
 - `.hover:p-5` - Padding All 5rem on hover
-- `.hover:p-4.5` - Padding All 0rem on hover
+- `.hover:p-4.5` - Padding All 4.5rem on hover
 - `.hover:p-4` - Padding All 4rem on hover
-- `.hover:p-3.5` - Padding All 0rem on hover
+- `.hover:p-3.5` - Padding All 3.5rem on hover
 - `.hover:p-3` - Padding All 3rem on hover
-- `.hover:p-2.5` - Padding All 0rem on hover
+- `.hover:p-2.5` - Padding All 2.5rem on hover
 - `.hover:p-2` - Padding All 2rem on hover
-- `.hover:p-1.9` - Padding All 0rem on hover
-- `.hover:p-1.8` - Padding All 0rem on hover
-- `.hover:p-1.7` - Padding All 0rem on hover
-- `.hover:p-1.6` - Padding All 0rem on hover
-- `.hover:p-1.5` - Padding All 0rem on hover
-- `.hover:p-1.4` - Padding All 0rem on hover
-- `.hover:p-1.3` - Padding All 0rem on hover
-- `.hover:p-1.2` - Padding All 0rem on hover
-- `.hover:p-1.1` - Padding All 0rem on hover
+- `.hover:p-1.9` - Padding All 1.9rem on hover
+- `.hover:p-1.8` - Padding All 1.8rem on hover
+- `.hover:p-1.7` - Padding All 1.7rem on hover
+- `.hover:p-1.6` - Padding All 1.6rem on hover
+- `.hover:p-1.5` - Padding All 1.5rem on hover
+- `.hover:p-1.4` - Padding All 1.4rem on hover
+- `.hover:p-1.3` - Padding All 1.3rem on hover
+- `.hover:p-1.2` - Padding All 1.2rem on hover
+- `.hover:p-1.1` - Padding All 1.1rem on hover
 - `.hover:p-1` - Padding All 1rem on hover
-- `.hover:p-0.9` - Padding All 0rem on hover
-- `.hover:p-0.8` - Padding All 0rem on hover
-- `.hover:p-0.7` - Padding All 0rem on hover
-- `.hover:p-0.6` - Padding All 0rem on hover
-- `.hover:p-0.5` - Padding All 0rem on hover
-- `.hover:p-0.4` - Padding All 0rem on hover
-- `.hover:p-0.3` - Padding All 0rem on hover
+- `.hover:p-0.9` - Padding All 0.9rem on hover
+- `.hover:p-0.8` - Padding All 0.8rem on hover
+- `.hover:p-0.7` - Padding All 0.7rem on hover
+- `.hover:p-0.6` - Padding All 0.6rem on hover
+- `.hover:p-0.5` - Padding All 0.5rem on hover
+- `.hover:p-0.4` - Padding All 0.4rem on hover
+- `.hover:p-0.3` - Padding All 0.3rem on hover
 - `.hover:p-0.2` - Padding All 0.2rem on hover
 - `.hover:p-0.1` - Padding All 0.1rem on hover
 - `.hover:p-0` - Padding All 0rem on hover
 - `.last:p-0` - Padding All 0rem on last
 - `.p-5` - Padding All 5rem
-- `.p-4.5` - Padding All 0rem
+- `.p-4.5` - Padding All 4.5rem
 - `.p-4` - Padding All 4rem
-- `.p-3.5` - Padding All 0rem
+- `.p-3.5` - Padding All 3.5rem
 - `.p-3` - Padding All 3rem
-- `.p-2.5` - Padding All 0rem
+- `.p-2.5` - Padding All 2.5rem
 - `.p-2` - Padding All 2rem
-- `.p-1.9` - Padding All 0rem
-- `.p-1.8` - Padding All 0rem
-- `.p-1.7` - Padding All 0rem
-- `.p-1.6` - Padding All 0rem
-- `.p-1.5` - Padding All 0rem
-- `.p-1.4` - Padding All 0rem
-- `.p-1.3` - Padding All 0rem
-- `.p-1.2` - Padding All 0rem
-- `.p-1.1` - Padding All 0rem
+- `.p-1.9` - Padding All 1.9rem
+- `.p-1.8` - Padding All 1.8rem
+- `.p-1.7` - Padding All 1.7rem
+- `.p-1.6` - Padding All 1.6rem
+- `.p-1.5` - Padding All 1.5rem
+- `.p-1.4` - Padding All 1.4rem
+- `.p-1.3` - Padding All 1.3rem
+- `.p-1.2` - Padding All 1.2rem
+- `.p-1.1` - Padding All 1.1rem
 - `.p-1` - Padding All 1rem
-- `.p-0.9` - Padding All 0rem
-- `.p-0.8` - Padding All 0rem
-- `.p-0.7` - Padding All 0rem
-- `.p-0.6` - Padding All 0rem
-- `.p-0.5` - Padding All 0rem
-- `.p-0.4` - Padding All 0rem
-- `.p-0.3` - Padding All 0rem
+- `.p-0.9` - Padding All 0.9rem
+- `.p-0.8` - Padding All 0.8rem
+- `.p-0.7` - Padding All 0.7rem
+- `.p-0.6` - Padding All 0.6rem
+- `.p-0.5` - Padding All 0.5rem
+- `.p-0.4` - Padding All 0.4rem
+- `.p-0.3` - Padding All 0.3rem
 - `.p-0.2` - Padding All 0.2rem
 - `.p-0.1` - Padding All 0.1rem
 - `.p-0` - Padding All 0rem
@@ -2410,29 +2410,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pb-50` - Padding Bottom 50% on hover
 - `.hover:pb-25` - Padding Bottom 25% on hover
 - `.hover:pb-5` - Padding Bottom 5rem on hover
-- `.hover:pb-4.5` - Padding Bottom 0rem on hover
+- `.hover:pb-4.5` - Padding Bottom 4.5rem on hover
 - `.hover:pb-4` - Padding Bottom 4rem on hover
-- `.hover:pb-3.5` - Padding Bottom 0rem on hover
+- `.hover:pb-3.5` - Padding Bottom 3.5rem on hover
 - `.hover:pb-3` - Padding Bottom 3rem on hover
-- `.hover:pb-2.5` - Padding Bottom 0rem on hover
+- `.hover:pb-2.5` - Padding Bottom 2.5rem on hover
 - `.hover:pb-2` - Padding Bottom 2rem on hover
-- `.hover:pb-1.9` - Padding Bottom 0rem on hover
-- `.hover:pb-1.8` - Padding Bottom 0rem on hover
-- `.hover:pb-1.7` - Padding Bottom 0rem on hover
-- `.hover:pb-1.6` - Padding Bottom 0rem on hover
-- `.hover:pb-1.5` - Padding Bottom 0rem on hover
-- `.hover:pb-1.4` - Padding Bottom 0rem on hover
-- `.hover:pb-1.3` - Padding Bottom 0rem on hover
-- `.hover:pb-1.2` - Padding Bottom 0rem on hover
-- `.hover:pb-1.1` - Padding Bottom 0rem on hover
+- `.hover:pb-1.9` - Padding Bottom 1.9rem on hover
+- `.hover:pb-1.8` - Padding Bottom 1.8rem on hover
+- `.hover:pb-1.7` - Padding Bottom 1.7rem on hover
+- `.hover:pb-1.6` - Padding Bottom 1.6rem on hover
+- `.hover:pb-1.5` - Padding Bottom 1.5rem on hover
+- `.hover:pb-1.4` - Padding Bottom 1.4rem on hover
+- `.hover:pb-1.3` - Padding Bottom 1.3rem on hover
+- `.hover:pb-1.2` - Padding Bottom 1.2rem on hover
+- `.hover:pb-1.1` - Padding Bottom 1.1rem on hover
 - `.hover:pb-1` - Padding Bottom 1rem on hover
-- `.hover:pb-0.9` - Padding Bottom 0rem on hover
-- `.hover:pb-0.8` - Padding Bottom 0rem on hover
-- `.hover:pb-0.7` - Padding Bottom 0rem on hover
-- `.hover:pb-0.6` - Padding Bottom 0rem on hover
-- `.hover:pb-0.5` - Padding Bottom 0rem on hover
-- `.hover:pb-0.4` - Padding Bottom 0rem on hover
-- `.hover:pb-0.3` - Padding Bottom 0rem on hover
+- `.hover:pb-0.9` - Padding Bottom 0.9rem on hover
+- `.hover:pb-0.8` - Padding Bottom 0.8rem on hover
+- `.hover:pb-0.7` - Padding Bottom 0.7rem on hover
+- `.hover:pb-0.6` - Padding Bottom 0.6rem on hover
+- `.hover:pb-0.5` - Padding Bottom 0.5rem on hover
+- `.hover:pb-0.4` - Padding Bottom 0.4rem on hover
+- `.hover:pb-0.3` - Padding Bottom 0.3rem on hover
 - `.hover:pb-0.2` - Padding Bottom 0.2rem on hover
 - `.hover:pb-0.1` - Padding Bottom 0.1rem on hover
 - `.hover:pb-0` - Padding Bottom 0rem on hover
@@ -2442,29 +2442,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pb-50` - Padding Bottom 50%
 - `.pb-25` - Padding Bottom 25%
 - `.pb-5` - Padding Bottom 5rem
-- `.pb-4.5` - Padding Bottom 0rem
+- `.pb-4.5` - Padding Bottom 4.5rem
 - `.pb-4` - Padding Bottom 4rem
-- `.pb-3.5` - Padding Bottom 0rem
+- `.pb-3.5` - Padding Bottom 3.5rem
 - `.pb-3` - Padding Bottom 3rem
-- `.pb-2.5` - Padding Bottom 0rem
+- `.pb-2.5` - Padding Bottom 2.5rem
 - `.pb-2` - Padding Bottom 2rem
-- `.pb-1.9` - Padding Bottom 0rem
-- `.pb-1.8` - Padding Bottom 0rem
-- `.pb-1.7` - Padding Bottom 0rem
-- `.pb-1.6` - Padding Bottom 0rem
-- `.pb-1.5` - Padding Bottom 0rem
-- `.pb-1.4` - Padding Bottom 0rem
-- `.pb-1.3` - Padding Bottom 0rem
-- `.pb-1.2` - Padding Bottom 0rem
-- `.pb-1.1` - Padding Bottom 0rem
+- `.pb-1.9` - Padding Bottom 1.9rem
+- `.pb-1.8` - Padding Bottom 1.8rem
+- `.pb-1.7` - Padding Bottom 1.7rem
+- `.pb-1.6` - Padding Bottom 1.6rem
+- `.pb-1.5` - Padding Bottom 1.5rem
+- `.pb-1.4` - Padding Bottom 1.4rem
+- `.pb-1.3` - Padding Bottom 1.3rem
+- `.pb-1.2` - Padding Bottom 1.2rem
+- `.pb-1.1` - Padding Bottom 1.1rem
 - `.pb-1` - Padding Bottom 1rem
-- `.pb-0.9` - Padding Bottom 0rem
-- `.pb-0.8` - Padding Bottom 0rem
-- `.pb-0.7` - Padding Bottom 0rem
-- `.pb-0.6` - Padding Bottom 0rem
-- `.pb-0.5` - Padding Bottom 0rem
-- `.pb-0.4` - Padding Bottom 0rem
-- `.pb-0.3` - Padding Bottom 0rem
+- `.pb-0.9` - Padding Bottom 0.9rem
+- `.pb-0.8` - Padding Bottom 0.8rem
+- `.pb-0.7` - Padding Bottom 0.7rem
+- `.pb-0.6` - Padding Bottom 0.6rem
+- `.pb-0.5` - Padding Bottom 0.5rem
+- `.pb-0.4` - Padding Bottom 0.4rem
+- `.pb-0.3` - Padding Bottom 0.3rem
 - `.pb-0.2` - Padding Bottom 0.2rem
 - `.pb-0.1` - Padding Bottom 0.1rem
 - `.pb-0` - Padding Bottom 0rem
@@ -2473,57 +2473,57 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 
 - `.first:pl-0` - Padding Left 0rem on first
 - `.hover:pl-5` - Padding Left 5rem on hover
-- `.hover:pl-4.5` - Padding Left 0rem on hover
+- `.hover:pl-4.5` - Padding Left 4.5rem on hover
 - `.hover:pl-4` - Padding Left 4rem on hover
-- `.hover:pl-3.5` - Padding Left 0rem on hover
+- `.hover:pl-3.5` - Padding Left 3.5rem on hover
 - `.hover:pl-3` - Padding Left 3rem on hover
-- `.hover:pl-2.5` - Padding Left 0rem on hover
+- `.hover:pl-2.5` - Padding Left 2.5rem on hover
 - `.hover:pl-2` - Padding Left 2rem on hover
-- `.hover:pl-1.9` - Padding Left 0rem on hover
-- `.hover:pl-1.8` - Padding Left 0rem on hover
-- `.hover:pl-1.7` - Padding Left 0rem on hover
-- `.hover:pl-1.6` - Padding Left 0rem on hover
-- `.hover:pl-1.5` - Padding Left 0rem on hover
-- `.hover:pl-1.4` - Padding Left 0rem on hover
-- `.hover:pl-1.3` - Padding Left 0rem on hover
-- `.hover:pl-1.2` - Padding Left 0rem on hover
-- `.hover:pl-1.1` - Padding Left 0rem on hover
+- `.hover:pl-1.9` - Padding Left 1.9rem on hover
+- `.hover:pl-1.8` - Padding Left 1.8rem on hover
+- `.hover:pl-1.7` - Padding Left 1.7rem on hover
+- `.hover:pl-1.6` - Padding Left 1.6rem on hover
+- `.hover:pl-1.5` - Padding Left 1.5rem on hover
+- `.hover:pl-1.4` - Padding Left 1.4rem on hover
+- `.hover:pl-1.3` - Padding Left 1.3rem on hover
+- `.hover:pl-1.2` - Padding Left 1.2rem on hover
+- `.hover:pl-1.1` - Padding Left 1.1rem on hover
 - `.hover:pl-1` - Padding Left 1rem on hover
-- `.hover:pl-0.9` - Padding Left 0rem on hover
-- `.hover:pl-0.8` - Padding Left 0rem on hover
-- `.hover:pl-0.7` - Padding Left 0rem on hover
-- `.hover:pl-0.6` - Padding Left 0rem on hover
-- `.hover:pl-0.5` - Padding Left 0rem on hover
-- `.hover:pl-0.4` - Padding Left 0rem on hover
-- `.hover:pl-0.3` - Padding Left 0rem on hover
+- `.hover:pl-0.9` - Padding Left 0.9rem on hover
+- `.hover:pl-0.8` - Padding Left 0.8rem on hover
+- `.hover:pl-0.7` - Padding Left 0.7rem on hover
+- `.hover:pl-0.6` - Padding Left 0.6rem on hover
+- `.hover:pl-0.5` - Padding Left 0.5rem on hover
+- `.hover:pl-0.4` - Padding Left 0.4rem on hover
+- `.hover:pl-0.3` - Padding Left 0.3rem on hover
 - `.hover:pl-0.2` - Padding Left 0.2rem on hover
 - `.hover:pl-0.1` - Padding Left 0.1rem on hover
 - `.hover:pl-0` - Padding Left 0rem on hover
 - `.last:pl-0` - Padding Left 0rem on last
 - `.pl-5` - Padding Left 5rem
-- `.pl-4.5` - Padding Left 0rem
+- `.pl-4.5` - Padding Left 4.5rem
 - `.pl-4` - Padding Left 4rem
-- `.pl-3.5` - Padding Left 0rem
+- `.pl-3.5` - Padding Left 3.5rem
 - `.pl-3` - Padding Left 3rem
-- `.pl-2.5` - Padding Left 0rem
+- `.pl-2.5` - Padding Left 2.5rem
 - `.pl-2` - Padding Left 2rem
-- `.pl-1.9` - Padding Left 0rem
-- `.pl-1.8` - Padding Left 0rem
-- `.pl-1.7` - Padding Left 0rem
-- `.pl-1.6` - Padding Left 0rem
-- `.pl-1.5` - Padding Left 0rem
-- `.pl-1.4` - Padding Left 0rem
-- `.pl-1.3` - Padding Left 0rem
-- `.pl-1.2` - Padding Left 0rem
-- `.pl-1.1` - Padding Left 0rem
+- `.pl-1.9` - Padding Left 1.9rem
+- `.pl-1.8` - Padding Left 1.8rem
+- `.pl-1.7` - Padding Left 1.7rem
+- `.pl-1.6` - Padding Left 1.6rem
+- `.pl-1.5` - Padding Left 1.5rem
+- `.pl-1.4` - Padding Left 1.4rem
+- `.pl-1.3` - Padding Left 1.3rem
+- `.pl-1.2` - Padding Left 1.2rem
+- `.pl-1.1` - Padding Left 1.1rem
 - `.pl-1` - Padding Left 1rem
-- `.pl-0.9` - Padding Left 0rem
-- `.pl-0.8` - Padding Left 0rem
-- `.pl-0.7` - Padding Left 0rem
-- `.pl-0.6` - Padding Left 0rem
-- `.pl-0.5` - Padding Left 0rem
-- `.pl-0.4` - Padding Left 0rem
-- `.pl-0.3` - Padding Left 0rem
+- `.pl-0.9` - Padding Left 0.9rem
+- `.pl-0.8` - Padding Left 0.8rem
+- `.pl-0.7` - Padding Left 0.7rem
+- `.pl-0.6` - Padding Left 0.6rem
+- `.pl-0.5` - Padding Left 0.5rem
+- `.pl-0.4` - Padding Left 0.4rem
+- `.pl-0.3` - Padding Left 0.3rem
 - `.pl-0.2` - Padding Left 0.2rem
 - `.pl-0.1` - Padding Left 0.1rem
 - `.pl-0` - Padding Left 0rem
@@ -2536,29 +2536,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pr-50` - Padding Right 50% on hover
 - `.hover:pr-25` - Padding Right 25% on hover
 - `.hover:pr-5` - Padding Right 5rem on hover
-- `.hover:pr-4.5` - Padding Right 0rem on hover
+- `.hover:pr-4.5` - Padding Right 4.5rem on hover
 - `.hover:pr-4` - Padding Right 4rem on hover
-- `.hover:pr-3.5` - Padding Right 0rem on hover
+- `.hover:pr-3.5` - Padding Right 3.5rem on hover
 - `.hover:pr-3` - Padding Right 3rem on hover
-- `.hover:pr-2.5` - Padding Right 0rem on hover
+- `.hover:pr-2.5` - Padding Right 2.5rem on hover
 - `.hover:pr-2` - Padding Right 2rem on hover
-- `.hover:pr-1.9` - Padding Right 0rem on hover
-- `.hover:pr-1.8` - Padding Right 0rem on hover
-- `.hover:pr-1.7` - Padding Right 0rem on hover
-- `.hover:pr-1.6` - Padding Right 0rem on hover
-- `.hover:pr-1.5` - Padding Right 0rem on hover
-- `.hover:pr-1.4` - Padding Right 0rem on hover
-- `.hover:pr-1.3` - Padding Right 0rem on hover
-- `.hover:pr-1.2` - Padding Right 0rem on hover
-- `.hover:pr-1.1` - Padding Right 0rem on hover
+- `.hover:pr-1.9` - Padding Right 1.9rem on hover
+- `.hover:pr-1.8` - Padding Right 1.8rem on hover
+- `.hover:pr-1.7` - Padding Right 1.7rem on hover
+- `.hover:pr-1.6` - Padding Right 1.6rem on hover
+- `.hover:pr-1.5` - Padding Right 1.5rem on hover
+- `.hover:pr-1.4` - Padding Right 1.4rem on hover
+- `.hover:pr-1.3` - Padding Right 1.3rem on hover
+- `.hover:pr-1.2` - Padding Right 1.2rem on hover
+- `.hover:pr-1.1` - Padding Right 1.1rem on hover
 - `.hover:pr-1` - Padding Right 1rem on hover
-- `.hover:pr-0.9` - Padding Right 0rem on hover
-- `.hover:pr-0.8` - Padding Right 0rem on hover
-- `.hover:pr-0.7` - Padding Right 0rem on hover
-- `.hover:pr-0.6` - Padding Right 0rem on hover
-- `.hover:pr-0.5` - Padding Right 0rem on hover
-- `.hover:pr-0.4` - Padding Right 0rem on hover
-- `.hover:pr-0.3` - Padding Right 0rem on hover
+- `.hover:pr-0.9` - Padding Right 0.9rem on hover
+- `.hover:pr-0.8` - Padding Right 0.8rem on hover
+- `.hover:pr-0.7` - Padding Right 0.7rem on hover
+- `.hover:pr-0.6` - Padding Right 0.6rem on hover
+- `.hover:pr-0.5` - Padding Right 0.5rem on hover
+- `.hover:pr-0.4` - Padding Right 0.4rem on hover
+- `.hover:pr-0.3` - Padding Right 0.3rem on hover
 - `.hover:pr-0.2` - Padding Right 0.2rem on hover
 - `.hover:pr-0.1` - Padding Right 0.1rem on hover
 - `.hover:pr-0` - Padding Right 0rem on hover
@@ -2568,29 +2568,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pr-50` - Padding Right 50%
 - `.pr-25` - Padding Right 25%
 - `.pr-5` - Padding Right 5rem
-- `.pr-4.5` - Padding Right 0rem
+- `.pr-4.5` - Padding Right 4.5rem
 - `.pr-4` - Padding Right 4rem
-- `.pr-3.5` - Padding Right 0rem
+- `.pr-3.5` - Padding Right 3.5rem
 - `.pr-3` - Padding Right 3rem
-- `.pr-2.5` - Padding Right 0rem
+- `.pr-2.5` - Padding Right 2.5rem
 - `.pr-2` - Padding Right 2rem
-- `.pr-1.9` - Padding Right 0rem
-- `.pr-1.8` - Padding Right 0rem
-- `.pr-1.7` - Padding Right 0rem
-- `.pr-1.6` - Padding Right 0rem
-- `.pr-1.5` - Padding Right 0rem
-- `.pr-1.4` - Padding Right 0rem
-- `.pr-1.3` - Padding Right 0rem
-- `.pr-1.2` - Padding Right 0rem
-- `.pr-1.1` - Padding Right 0rem
+- `.pr-1.9` - Padding Right 1.9rem
+- `.pr-1.8` - Padding Right 1.8rem
+- `.pr-1.7` - Padding Right 1.7rem
+- `.pr-1.6` - Padding Right 1.6rem
+- `.pr-1.5` - Padding Right 1.5rem
+- `.pr-1.4` - Padding Right 1.4rem
+- `.pr-1.3` - Padding Right 1.3rem
+- `.pr-1.2` - Padding Right 1.2rem
+- `.pr-1.1` - Padding Right 1.1rem
 - `.pr-1` - Padding Right 1rem
-- `.pr-0.9` - Padding Right 0rem
-- `.pr-0.8` - Padding Right 0rem
-- `.pr-0.7` - Padding Right 0rem
-- `.pr-0.6` - Padding Right 0rem
-- `.pr-0.5` - Padding Right 0rem
-- `.pr-0.4` - Padding Right 0rem
-- `.pr-0.3` - Padding Right 0rem
+- `.pr-0.9` - Padding Right 0.9rem
+- `.pr-0.8` - Padding Right 0.8rem
+- `.pr-0.7` - Padding Right 0.7rem
+- `.pr-0.6` - Padding Right 0.6rem
+- `.pr-0.5` - Padding Right 0.5rem
+- `.pr-0.4` - Padding Right 0.4rem
+- `.pr-0.3` - Padding Right 0.3rem
 - `.pr-0.2` - Padding Right 0.2rem
 - `.pr-0.1` - Padding Right 0.1rem
 - `.pr-0` - Padding Right 0rem
@@ -2603,29 +2603,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:pt-50` - Padding Top 50% on hover
 - `.hover:pt-25` - Padding Top 25% on hover
 - `.hover:pt-5` - Padding Top 5rem on hover
-- `.hover:pt-4.5` - Padding Top 0rem on hover
+- `.hover:pt-4.5` - Padding Top 4.5rem on hover
 - `.hover:pt-4` - Padding Top 4rem on hover
-- `.hover:pt-3.5` - Padding Top 0rem on hover
+- `.hover:pt-3.5` - Padding Top 3.5rem on hover
 - `.hover:pt-3` - Padding Top 3rem on hover
-- `.hover:pt-2.5` - Padding Top 0rem on hover
+- `.hover:pt-2.5` - Padding Top 2.5rem on hover
 - `.hover:pt-2` - Padding Top 2rem on hover
-- `.hover:pt-1.9` - Padding Top 0rem on hover
-- `.hover:pt-1.8` - Padding Top 0rem on hover
-- `.hover:pt-1.7` - Padding Top 0rem on hover
-- `.hover:pt-1.6` - Padding Top 0rem on hover
-- `.hover:pt-1.5` - Padding Top 0rem on hover
-- `.hover:pt-1.4` - Padding Top 0rem on hover
-- `.hover:pt-1.3` - Padding Top 0rem on hover
-- `.hover:pt-1.2` - Padding Top 0rem on hover
-- `.hover:pt-1.1` - Padding Top 0rem on hover
+- `.hover:pt-1.9` - Padding Top 1.9rem on hover
+- `.hover:pt-1.8` - Padding Top 1.8rem on hover
+- `.hover:pt-1.7` - Padding Top 1.7rem on hover
+- `.hover:pt-1.6` - Padding Top 1.6rem on hover
+- `.hover:pt-1.5` - Padding Top 1.5rem on hover
+- `.hover:pt-1.4` - Padding Top 1.4rem on hover
+- `.hover:pt-1.3` - Padding Top 1.3rem on hover
+- `.hover:pt-1.2` - Padding Top 1.2rem on hover
+- `.hover:pt-1.1` - Padding Top 1.1rem on hover
 - `.hover:pt-1` - Padding Top 1rem on hover
-- `.hover:pt-0.9` - Padding Top 0rem on hover
-- `.hover:pt-0.8` - Padding Top 0rem on hover
-- `.hover:pt-0.7` - Padding Top 0rem on hover
-- `.hover:pt-0.6` - Padding Top 0rem on hover
-- `.hover:pt-0.5` - Padding Top 0rem on hover
-- `.hover:pt-0.4` - Padding Top 0rem on hover
-- `.hover:pt-0.3` - Padding Top 0rem on hover
+- `.hover:pt-0.9` - Padding Top 0.9rem on hover
+- `.hover:pt-0.8` - Padding Top 0.8rem on hover
+- `.hover:pt-0.7` - Padding Top 0.7rem on hover
+- `.hover:pt-0.6` - Padding Top 0.6rem on hover
+- `.hover:pt-0.5` - Padding Top 0.5rem on hover
+- `.hover:pt-0.4` - Padding Top 0.4rem on hover
+- `.hover:pt-0.3` - Padding Top 0.3rem on hover
 - `.hover:pt-0.2` - Padding Top 0.2rem on hover
 - `.hover:pt-0.1` - Padding Top 0.1rem on hover
 - `.hover:pt-0` - Padding Top 0rem on hover
@@ -2635,29 +2635,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.pt-50` - Padding Top 50%
 - `.pt-25` - Padding Top 25%
 - `.pt-5` - Padding Top 5rem
-- `.pt-4.5` - Padding Top 0rem
+- `.pt-4.5` - Padding Top 4.5rem
 - `.pt-4` - Padding Top 4rem
-- `.pt-3.5` - Padding Top 0rem
+- `.pt-3.5` - Padding Top 3.5rem
 - `.pt-3` - Padding Top 3rem
-- `.pt-2.5` - Padding Top 0rem
+- `.pt-2.5` - Padding Top 2.5rem
 - `.pt-2` - Padding Top 2rem
-- `.pt-1.9` - Padding Top 0rem
-- `.pt-1.8` - Padding Top 0rem
-- `.pt-1.7` - Padding Top 0rem
-- `.pt-1.6` - Padding Top 0rem
-- `.pt-1.5` - Padding Top 0rem
-- `.pt-1.4` - Padding Top 0rem
-- `.pt-1.3` - Padding Top 0rem
-- `.pt-1.2` - Padding Top 0rem
-- `.pt-1.1` - Padding Top 0rem
+- `.pt-1.9` - Padding Top 1.9rem
+- `.pt-1.8` - Padding Top 1.8rem
+- `.pt-1.7` - Padding Top 1.7rem
+- `.pt-1.6` - Padding Top 1.6rem
+- `.pt-1.5` - Padding Top 1.5rem
+- `.pt-1.4` - Padding Top 1.4rem
+- `.pt-1.3` - Padding Top 1.3rem
+- `.pt-1.2` - Padding Top 1.2rem
+- `.pt-1.1` - Padding Top 1.1rem
 - `.pt-1` - Padding Top 1rem
-- `.pt-0.9` - Padding Top 0rem
-- `.pt-0.8` - Padding Top 0rem
-- `.pt-0.7` - Padding Top 0rem
-- `.pt-0.6` - Padding Top 0rem
-- `.pt-0.5` - Padding Top 0rem
-- `.pt-0.4` - Padding Top 0rem
-- `.pt-0.3` - Padding Top 0rem
+- `.pt-0.9` - Padding Top 0.9rem
+- `.pt-0.8` - Padding Top 0.8rem
+- `.pt-0.7` - Padding Top 0.7rem
+- `.pt-0.6` - Padding Top 0.6rem
+- `.pt-0.5` - Padding Top 0.5rem
+- `.pt-0.4` - Padding Top 0.4rem
+- `.pt-0.3` - Padding Top 0.3rem
 - `.pt-0.2` - Padding Top 0.2rem
 - `.pt-0.1` - Padding Top 0.1rem
 - `.pt-0` - Padding Top 0rem
@@ -2669,29 +2669,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:px-50` - Padding X-Axis 50% on hover
 - `.hover:px-25` - Padding X-Axis 25% on hover
 - `.hover:px-5` - Padding X-Axis 5rem on hover
-- `.hover:px-4.5` - Padding X-Axis 0rem on hover
+- `.hover:px-4.5` - Padding X-Axis 4.5rem on hover
 - `.hover:px-4` - Padding X-Axis 4rem on hover
-- `.hover:px-3.5` - Padding X-Axis 0rem on hover
+- `.hover:px-3.5` - Padding X-Axis 3.5rem on hover
 - `.hover:px-3` - Padding X-Axis 3rem on hover
-- `.hover:px-2.5` - Padding X-Axis 0rem on hover
+- `.hover:px-2.5` - Padding X-Axis 2.5rem on hover
 - `.hover:px-2` - Padding X-Axis 2rem on hover
-- `.hover:px-1.9` - Padding X-Axis 0rem on hover
-- `.hover:px-1.8` - Padding X-Axis 0rem on hover
-- `.hover:px-1.7` - Padding X-Axis 0rem on hover
-- `.hover:px-1.6` - Padding X-Axis 0rem on hover
-- `.hover:px-1.5` - Padding X-Axis 0rem on hover
-- `.hover:px-1.4` - Padding X-Axis 0rem on hover
-- `.hover:px-1.3` - Padding X-Axis 0rem on hover
-- `.hover:px-1.2` - Padding X-Axis 0rem on hover
-- `.hover:px-1.1` - Padding X-Axis 0rem on hover
+- `.hover:px-1.9` - Padding X-Axis 1.9rem on hover
+- `.hover:px-1.8` - Padding X-Axis 1.8rem on hover
+- `.hover:px-1.7` - Padding X-Axis 1.7rem on hover
+- `.hover:px-1.6` - Padding X-Axis 1.6rem on hover
+- `.hover:px-1.5` - Padding X-Axis 1.5rem on hover
+- `.hover:px-1.4` - Padding X-Axis 1.4rem on hover
+- `.hover:px-1.3` - Padding X-Axis 1.3rem on hover
+- `.hover:px-1.2` - Padding X-Axis 1.2rem on hover
+- `.hover:px-1.1` - Padding X-Axis 1.1rem on hover
 - `.hover:px-1` - Padding X-Axis 1rem on hover
-- `.hover:px-0.9` - Padding X-Axis 0rem on hover
-- `.hover:px-0.8` - Padding X-Axis 0rem on hover
-- `.hover:px-0.7` - Padding X-Axis 0rem on hover
-- `.hover:px-0.6` - Padding X-Axis 0rem on hover
-- `.hover:px-0.5` - Padding X-Axis 0rem on hover
-- `.hover:px-0.4` - Padding X-Axis 0rem on hover
-- `.hover:px-0.3` - Padding X-Axis 0rem on hover
+- `.hover:px-0.9` - Padding X-Axis 0.9rem on hover
+- `.hover:px-0.8` - Padding X-Axis 0.8rem on hover
+- `.hover:px-0.7` - Padding X-Axis 0.7rem on hover
+- `.hover:px-0.6` - Padding X-Axis 0.6rem on hover
+- `.hover:px-0.5` - Padding X-Axis 0.5rem on hover
+- `.hover:px-0.4` - Padding X-Axis 0.4rem on hover
+- `.hover:px-0.3` - Padding X-Axis 0.3rem on hover
 - `.hover:px-0.2` - Padding X-Axis 0.2rem on hover
 - `.hover:px-0.1` - Padding X-Axis 0.1rem on hover
 - `.hover:px-0` - Padding X-Axis 0rem on hover
@@ -2700,29 +2700,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.px-50` - Padding X-Axis 50%
 - `.px-25` - Padding X-Axis 25%
 - `.px-5` - Padding X-Axis 5rem
-- `.px-4.5` - Padding X-Axis 0rem
+- `.px-4.5` - Padding X-Axis 4.5rem
 - `.px-4` - Padding X-Axis 4rem
-- `.px-3.5` - Padding X-Axis 0rem
+- `.px-3.5` - Padding X-Axis 3.5rem
 - `.px-3` - Padding X-Axis 3rem
-- `.px-2.5` - Padding X-Axis 0rem
+- `.px-2.5` - Padding X-Axis 2.5rem
 - `.px-2` - Padding X-Axis 2rem
-- `.px-1.9` - Padding X-Axis 0rem
-- `.px-1.8` - Padding X-Axis 0rem
-- `.px-1.7` - Padding X-Axis 0rem
-- `.px-1.6` - Padding X-Axis 0rem
-- `.px-1.5` - Padding X-Axis 0rem
-- `.px-1.4` - Padding X-Axis 0rem
-- `.px-1.3` - Padding X-Axis 0rem
-- `.px-1.2` - Padding X-Axis 0rem
-- `.px-1.1` - Padding X-Axis 0rem
+- `.px-1.9` - Padding X-Axis 1.9rem
+- `.px-1.8` - Padding X-Axis 1.8rem
+- `.px-1.7` - Padding X-Axis 1.7rem
+- `.px-1.6` - Padding X-Axis 1.6rem
+- `.px-1.5` - Padding X-Axis 1.5rem
+- `.px-1.4` - Padding X-Axis 1.4rem
+- `.px-1.3` - Padding X-Axis 1.3rem
+- `.px-1.2` - Padding X-Axis 1.2rem
+- `.px-1.1` - Padding X-Axis 1.1rem
 - `.px-1` - Padding X-Axis 1rem
-- `.px-0.9` - Padding X-Axis 0rem
-- `.px-0.8` - Padding X-Axis 0rem
-- `.px-0.7` - Padding X-Axis 0rem
-- `.px-0.6` - Padding X-Axis 0rem
-- `.px-0.5` - Padding X-Axis 0rem
-- `.px-0.4` - Padding X-Axis 0rem
-- `.px-0.3` - Padding X-Axis 0rem
+- `.px-0.9` - Padding X-Axis 0.9rem
+- `.px-0.8` - Padding X-Axis 0.8rem
+- `.px-0.7` - Padding X-Axis 0.7rem
+- `.px-0.6` - Padding X-Axis 0.6rem
+- `.px-0.5` - Padding X-Axis 0.5rem
+- `.px-0.4` - Padding X-Axis 0.4rem
+- `.px-0.3` - Padding X-Axis 0.3rem
 - `.px-0.2` - Padding X-Axis 0.2rem
 - `.px-0.1` - Padding X-Axis 0.1rem
 - `.px-0` - Padding X-Axis 0rem
@@ -2734,29 +2734,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:py-50` - Padding Y-Axis 50% on hover
 - `.hover:py-25` - Padding Y-Axis 25% on hover
 - `.hover:py-5` - Padding Y-Axis 5rem on hover
-- `.hover:py-4.5` - Padding Y-Axis 0rem on hover
+- `.hover:py-4.5` - Padding Y-Axis 4.5rem on hover
 - `.hover:py-4` - Padding Y-Axis 4rem on hover
-- `.hover:py-3.5` - Padding Y-Axis 0rem on hover
+- `.hover:py-3.5` - Padding Y-Axis 3.5rem on hover
 - `.hover:py-3` - Padding Y-Axis 3rem on hover
-- `.hover:py-2.5` - Padding Y-Axis 0rem on hover
+- `.hover:py-2.5` - Padding Y-Axis 2.5rem on hover
 - `.hover:py-2` - Padding Y-Axis 2rem on hover
-- `.hover:py-1.9` - Padding Y-Axis 0rem on hover
-- `.hover:py-1.8` - Padding Y-Axis 0rem on hover
-- `.hover:py-1.7` - Padding Y-Axis 0rem on hover
-- `.hover:py-1.6` - Padding Y-Axis 0rem on hover
-- `.hover:py-1.5` - Padding Y-Axis 0rem on hover
-- `.hover:py-1.4` - Padding Y-Axis 0rem on hover
-- `.hover:py-1.3` - Padding Y-Axis 0rem on hover
-- `.hover:py-1.2` - Padding Y-Axis 0rem on hover
-- `.hover:py-1.1` - Padding Y-Axis 0rem on hover
+- `.hover:py-1.9` - Padding Y-Axis 1.9rem on hover
+- `.hover:py-1.8` - Padding Y-Axis 1.8rem on hover
+- `.hover:py-1.7` - Padding Y-Axis 1.7rem on hover
+- `.hover:py-1.6` - Padding Y-Axis 1.6rem on hover
+- `.hover:py-1.5` - Padding Y-Axis 1.5rem on hover
+- `.hover:py-1.4` - Padding Y-Axis 1.4rem on hover
+- `.hover:py-1.3` - Padding Y-Axis 1.3rem on hover
+- `.hover:py-1.2` - Padding Y-Axis 1.2rem on hover
+- `.hover:py-1.1` - Padding Y-Axis 1.1rem on hover
 - `.hover:py-1` - Padding Y-Axis 1rem on hover
-- `.hover:py-0.9` - Padding Y-Axis 0rem on hover
-- `.hover:py-0.8` - Padding Y-Axis 0rem on hover
-- `.hover:py-0.7` - Padding Y-Axis 0rem on hover
-- `.hover:py-0.6` - Padding Y-Axis 0rem on hover
-- `.hover:py-0.5` - Padding Y-Axis 0rem on hover
-- `.hover:py-0.4` - Padding Y-Axis 0rem on hover
-- `.hover:py-0.3` - Padding Y-Axis 0rem on hover
+- `.hover:py-0.9` - Padding Y-Axis 0.9rem on hover
+- `.hover:py-0.8` - Padding Y-Axis 0.8rem on hover
+- `.hover:py-0.7` - Padding Y-Axis 0.7rem on hover
+- `.hover:py-0.6` - Padding Y-Axis 0.6rem on hover
+- `.hover:py-0.5` - Padding Y-Axis 0.5rem on hover
+- `.hover:py-0.4` - Padding Y-Axis 0.4rem on hover
+- `.hover:py-0.3` - Padding Y-Axis 0.3rem on hover
 - `.hover:py-0.2` - Padding Y-Axis 0.2rem on hover
 - `.hover:py-0.1` - Padding Y-Axis 0.1rem on hover
 - `.hover:py-0` - Padding Y-Axis 0rem on hover
@@ -2765,29 +2765,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.py-50` - Padding Y-Axis 50%
 - `.py-25` - Padding Y-Axis 25%
 - `.py-5` - Padding Y-Axis 5rem
-- `.py-4.5` - Padding Y-Axis 0rem
+- `.py-4.5` - Padding Y-Axis 4.5rem
 - `.py-4` - Padding Y-Axis 4rem
-- `.py-3.5` - Padding Y-Axis 0rem
+- `.py-3.5` - Padding Y-Axis 3.5rem
 - `.py-3` - Padding Y-Axis 3rem
-- `.py-2.5` - Padding Y-Axis 0rem
+- `.py-2.5` - Padding Y-Axis 2.5rem
 - `.py-2` - Padding Y-Axis 2rem
-- `.py-1.9` - Padding Y-Axis 0rem
-- `.py-1.8` - Padding Y-Axis 0rem
-- `.py-1.7` - Padding Y-Axis 0rem
-- `.py-1.6` - Padding Y-Axis 0rem
-- `.py-1.5` - Padding Y-Axis 0rem
-- `.py-1.4` - Padding Y-Axis 0rem
-- `.py-1.3` - Padding Y-Axis 0rem
-- `.py-1.2` - Padding Y-Axis 0rem
-- `.py-1.1` - Padding Y-Axis 0rem
+- `.py-1.9` - Padding Y-Axis 1.9rem
+- `.py-1.8` - Padding Y-Axis 1.8rem
+- `.py-1.7` - Padding Y-Axis 1.7rem
+- `.py-1.6` - Padding Y-Axis 1.6rem
+- `.py-1.5` - Padding Y-Axis 1.5rem
+- `.py-1.4` - Padding Y-Axis 1.4rem
+- `.py-1.3` - Padding Y-Axis 1.3rem
+- `.py-1.2` - Padding Y-Axis 1.2rem
+- `.py-1.1` - Padding Y-Axis 1.1rem
 - `.py-1` - Padding Y-Axis 1rem
-- `.py-0.9` - Padding Y-Axis 0rem
-- `.py-0.8` - Padding Y-Axis 0rem
-- `.py-0.7` - Padding Y-Axis 0rem
-- `.py-0.6` - Padding Y-Axis 0rem
-- `.py-0.5` - Padding Y-Axis 0rem
-- `.py-0.4` - Padding Y-Axis 0rem
-- `.py-0.3` - Padding Y-Axis 0rem
+- `.py-0.9` - Padding Y-Axis 0.9rem
+- `.py-0.8` - Padding Y-Axis 0.8rem
+- `.py-0.7` - Padding Y-Axis 0.7rem
+- `.py-0.6` - Padding Y-Axis 0.6rem
+- `.py-0.5` - Padding Y-Axis 0.5rem
+- `.py-0.4` - Padding Y-Axis 0.4rem
+- `.py-0.3` - Padding Y-Axis 0.3rem
 - `.py-0.2` - Padding Y-Axis 0.2rem
 - `.py-0.1` - Padding Y-Axis 0.1rem
 - `.py-0` - Padding Y-Axis 0rem
@@ -3681,29 +3681,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:top-50` - Top 50% on hover
 - `.hover:top-25` - Top 25% on hover
 - `.hover:top-5` - Top 5rem on hover
-- `.hover:top-4.5` - Top 0rem on hover
+- `.hover:top-4.5` - Top 4.5rem on hover
 - `.hover:top-4` - Top 4rem on hover
-- `.hover:top-3.5` - Top 0rem on hover
+- `.hover:top-3.5` - Top 3.5rem on hover
 - `.hover:top-3` - Top 3rem on hover
-- `.hover:top-2.5` - Top 0rem on hover
+- `.hover:top-2.5` - Top 2.5rem on hover
 - `.hover:top-2` - Top 2rem on hover
-- `.hover:top-1.9` - Top 0rem on hover
-- `.hover:top-1.8` - Top 0rem on hover
-- `.hover:top-1.7` - Top 0rem on hover
-- `.hover:top-1.6` - Top 0rem on hover
-- `.hover:top-1.5` - Top 0rem on hover
-- `.hover:top-1.4` - Top 0rem on hover
-- `.hover:top-1.3` - Top 0rem on hover
-- `.hover:top-1.2` - Top 0rem on hover
-- `.hover:top-1.1` - Top 0rem on hover
+- `.hover:top-1.9` - Top 1.9rem on hover
+- `.hover:top-1.8` - Top 1.8rem on hover
+- `.hover:top-1.7` - Top 1.7rem on hover
+- `.hover:top-1.6` - Top 1.6rem on hover
+- `.hover:top-1.5` - Top 1.5rem on hover
+- `.hover:top-1.4` - Top 1.4rem on hover
+- `.hover:top-1.3` - Top 1.3rem on hover
+- `.hover:top-1.2` - Top 1.2rem on hover
+- `.hover:top-1.1` - Top 1.1rem on hover
 - `.hover:top-1` - Top 1rem on hover
-- `.hover:top-0.9` - Top 0rem on hover
-- `.hover:top-0.8` - Top 0rem on hover
-- `.hover:top-0.7` - Top 0rem on hover
-- `.hover:top-0.6` - Top 0rem on hover
-- `.hover:top-0.5` - Top 0rem on hover
-- `.hover:top-0.4` - Top 0rem on hover
-- `.hover:top-0.3` - Top 0rem on hover
+- `.hover:top-0.9` - Top 0.9rem on hover
+- `.hover:top-0.8` - Top 0.8rem on hover
+- `.hover:top-0.7` - Top 0.7rem on hover
+- `.hover:top-0.6` - Top 0.6rem on hover
+- `.hover:top-0.5` - Top 0.5rem on hover
+- `.hover:top-0.4` - Top 0.4rem on hover
+- `.hover:top-0.3` - Top 0.3rem on hover
 - `.hover:top-0.2` - Top 0.2rem on hover
 - `.hover:top-0.1` - Top 0.1rem on hover
 - `.hover:top-0` - Top 0rem on hover
@@ -3712,29 +3712,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.top-50` - Top 50%
 - `.top-25` - Top 25%
 - `.top-5` - Top 5rem
-- `.top-4.5` - Top 0rem
+- `.top-4.5` - Top 4.5rem
 - `.top-4` - Top 4rem
-- `.top-3.5` - Top 0rem
+- `.top-3.5` - Top 3.5rem
 - `.top-3` - Top 3rem
-- `.top-2.5` - Top 0rem
+- `.top-2.5` - Top 2.5rem
 - `.top-2` - Top 2rem
-- `.top-1.9` - Top 0rem
-- `.top-1.8` - Top 0rem
-- `.top-1.7` - Top 0rem
-- `.top-1.6` - Top 0rem
-- `.top-1.5` - Top 0rem
-- `.top-1.4` - Top 0rem
-- `.top-1.3` - Top 0rem
-- `.top-1.2` - Top 0rem
-- `.top-1.1` - Top 0rem
+- `.top-1.9` - Top 1.9rem
+- `.top-1.8` - Top 1.8rem
+- `.top-1.7` - Top 1.7rem
+- `.top-1.6` - Top 1.6rem
+- `.top-1.5` - Top 1.5rem
+- `.top-1.4` - Top 1.4rem
+- `.top-1.3` - Top 1.3rem
+- `.top-1.2` - Top 1.2rem
+- `.top-1.1` - Top 1.1rem
 - `.top-1` - Top 1rem
-- `.top-0.9` - Top 0rem
-- `.top-0.8` - Top 0rem
-- `.top-0.7` - Top 0rem
-- `.top-0.6` - Top 0rem
-- `.top-0.5` - Top 0rem
-- `.top-0.4` - Top 0rem
-- `.top-0.3` - Top 0rem
+- `.top-0.9` - Top 0.9rem
+- `.top-0.8` - Top 0.8rem
+- `.top-0.7` - Top 0.7rem
+- `.top-0.6` - Top 0.6rem
+- `.top-0.5` - Top 0.5rem
+- `.top-0.4` - Top 0.4rem
+- `.top-0.3` - Top 0.3rem
 - `.top-0.2` - Top 0.2rem
 - `.top-0.1` - Top 0.1rem
 - `.top-0` - Top 0rem
@@ -3742,54 +3742,54 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 ##### Negative Top
 
 - `.-top-5` - Negative Top 5rem
-- `.-top-4.5` - Negative Top 0rem
+- `.-top-4.5` - Negative Top 4.5rem
 - `.-top-4` - Negative Top 4rem
-- `.-top-3.5` - Negative Top 0rem
+- `.-top-3.5` - Negative Top 3.5rem
 - `.-top-3` - Negative Top 3rem
-- `.-top-2.5` - Negative Top 0rem
+- `.-top-2.5` - Negative Top 2.5rem
 - `.-top-2` - Negative Top 2rem
-- `.-top-1.9` - Negative Top 0rem
-- `.-top-1.8` - Negative Top 0rem
-- `.-top-1.7` - Negative Top 0rem
-- `.-top-1.6` - Negative Top 0rem
-- `.-top-1.5` - Negative Top 0rem
-- `.-top-1.4` - Negative Top 0rem
-- `.-top-1.3` - Negative Top 0rem
-- `.-top-1.2` - Negative Top 0rem
-- `.-top-1.1` - Negative Top 0rem
+- `.-top-1.9` - Negative Top 1.9rem
+- `.-top-1.8` - Negative Top 1.8rem
+- `.-top-1.7` - Negative Top 1.7rem
+- `.-top-1.6` - Negative Top 1.6rem
+- `.-top-1.5` - Negative Top 1.5rem
+- `.-top-1.4` - Negative Top 1.4rem
+- `.-top-1.3` - Negative Top 1.3rem
+- `.-top-1.2` - Negative Top 1.2rem
+- `.-top-1.1` - Negative Top 1.1rem
 - `.-top-1` - Negative Top 1rem
-- `.-top-0.9` - Negative Top 0rem
-- `.-top-0.8` - Negative Top 0rem
-- `.-top-0.7` - Negative Top 0rem
-- `.-top-0.6` - Negative Top 0rem
-- `.-top-0.5` - Negative Top 0rem
-- `.-top-0.4` - Negative Top 0rem
+- `.-top-0.9` - Negative Top 0.9rem
+- `.-top-0.8` - Negative Top 0.8rem
+- `.-top-0.7` - Negative Top 0.7rem
+- `.-top-0.6` - Negative Top 0.6rem
+- `.-top-0.5` - Negative Top 0.5rem
+- `.-top-0.4` - Negative Top 0.4rem
 - `.-top-0.3` - Negative Top 0.3rem
 - `.-top-0.2` - Negative Top 0.2rem
 - `.-top-0.1` - Negative Top 0.1rem
 - `.hover:-top-5` - Negative Top 5rem on hover
-- `.hover:-top-4.5` - Negative Top 0rem on hover
+- `.hover:-top-4.5` - Negative Top 4.5rem on hover
 - `.hover:-top-4` - Negative Top 4rem on hover
-- `.hover:-top-3.5` - Negative Top 0rem on hover
+- `.hover:-top-3.5` - Negative Top 3.5rem on hover
 - `.hover:-top-3` - Negative Top 3rem on hover
-- `.hover:-top-2.5` - Negative Top 0rem on hover
+- `.hover:-top-2.5` - Negative Top 2.5rem on hover
 - `.hover:-top-2` - Negative Top 2rem on hover
-- `.hover:-top-1.9` - Negative Top 0rem on hover
-- `.hover:-top-1.8` - Negative Top 0rem on hover
-- `.hover:-top-1.7` - Negative Top 0rem on hover
-- `.hover:-top-1.6` - Negative Top 0rem on hover
-- `.hover:-top-1.5` - Negative Top 0rem on hover
-- `.hover:-top-1.4` - Negative Top 0rem on hover
-- `.hover:-top-1.3` - Negative Top 0rem on hover
-- `.hover:-top-1.2` - Negative Top 0rem on hover
-- `.hover:-top-1.1` - Negative Top 0rem on hover
+- `.hover:-top-1.9` - Negative Top 1.9rem on hover
+- `.hover:-top-1.8` - Negative Top 1.8rem on hover
+- `.hover:-top-1.7` - Negative Top 1.7rem on hover
+- `.hover:-top-1.6` - Negative Top 1.6rem on hover
+- `.hover:-top-1.5` - Negative Top 1.5rem on hover
+- `.hover:-top-1.4` - Negative Top 1.4rem on hover
+- `.hover:-top-1.3` - Negative Top 1.3rem on hover
+- `.hover:-top-1.2` - Negative Top 1.2rem on hover
+- `.hover:-top-1.1` - Negative Top 1.1rem on hover
 - `.hover:-top-1` - Negative Top 1rem on hover
-- `.hover:-top-0.9` - Negative Top 0rem on hover
-- `.hover:-top-0.8` - Negative Top 0rem on hover
-- `.hover:-top-0.7` - Negative Top 0rem on hover
-- `.hover:-top-0.6` - Negative Top 0rem on hover
-- `.hover:-top-0.5` - Negative Top 0rem on hover
-- `.hover:-top-0.4` - Negative Top 0rem on hover
+- `.hover:-top-0.9` - Negative Top 0.9rem on hover
+- `.hover:-top-0.8` - Negative Top 0.8rem on hover
+- `.hover:-top-0.7` - Negative Top 0.7rem on hover
+- `.hover:-top-0.6` - Negative Top 0.6rem on hover
+- `.hover:-top-0.5` - Negative Top 0.5rem on hover
+- `.hover:-top-0.4` - Negative Top 0.4rem on hover
 - `.hover:-top-0.3` - Negative Top 0.3rem on hover
 - `.hover:-top-0.2` - Negative Top 0.2rem on hover
 - `.hover:-top-0.1` - Negative Top 0.1rem on hover
@@ -3801,29 +3801,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:right-50` - Right 50% on hover
 - `.hover:right-25` - Right 25% on hover
 - `.hover:right-5` - Right 5rem on hover
-- `.hover:right-4.5` - Right 0rem on hover
+- `.hover:right-4.5` - Right 4.5rem on hover
 - `.hover:right-4` - Right 4rem on hover
-- `.hover:right-3.5` - Right 0rem on hover
+- `.hover:right-3.5` - Right 3.5rem on hover
 - `.hover:right-3` - Right 3rem on hover
-- `.hover:right-2.5` - Right 0rem on hover
+- `.hover:right-2.5` - Right 2.5rem on hover
 - `.hover:right-2` - Right 2rem on hover
-- `.hover:right-1.9` - Right 0rem on hover
-- `.hover:right-1.8` - Right 0rem on hover
-- `.hover:right-1.7` - Right 0rem on hover
-- `.hover:right-1.6` - Right 0rem on hover
-- `.hover:right-1.5` - Right 0rem on hover
-- `.hover:right-1.4` - Right 0rem on hover
-- `.hover:right-1.3` - Right 0rem on hover
-- `.hover:right-1.2` - Right 0rem on hover
-- `.hover:right-1.1` - Right 0rem on hover
+- `.hover:right-1.9` - Right 1.9rem on hover
+- `.hover:right-1.8` - Right 1.8rem on hover
+- `.hover:right-1.7` - Right 1.7rem on hover
+- `.hover:right-1.6` - Right 1.6rem on hover
+- `.hover:right-1.5` - Right 1.5rem on hover
+- `.hover:right-1.4` - Right 1.4rem on hover
+- `.hover:right-1.3` - Right 1.3rem on hover
+- `.hover:right-1.2` - Right 1.2rem on hover
+- `.hover:right-1.1` - Right 1.1rem on hover
 - `.hover:right-1` - Right 1rem on hover
-- `.hover:right-0.9` - Right 0rem on hover
-- `.hover:right-0.8` - Right 0rem on hover
-- `.hover:right-0.7` - Right 0rem on hover
-- `.hover:right-0.6` - Right 0rem on hover
-- `.hover:right-0.5` - Right 0rem on hover
-- `.hover:right-0.4` - Right 0rem on hover
-- `.hover:right-0.3` - Right 0rem on hover
+- `.hover:right-0.9` - Right 0.9rem on hover
+- `.hover:right-0.8` - Right 0.8rem on hover
+- `.hover:right-0.7` - Right 0.7rem on hover
+- `.hover:right-0.6` - Right 0.6rem on hover
+- `.hover:right-0.5` - Right 0.5rem on hover
+- `.hover:right-0.4` - Right 0.4rem on hover
+- `.hover:right-0.3` - Right 0.3rem on hover
 - `.hover:right-0.2` - Right 0.2rem on hover
 - `.hover:right-0.1` - Right 0.1rem on hover
 - `.hover:right-0` - Right 0rem on hover
@@ -3832,29 +3832,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.right-50` - Right 50%
 - `.right-25` - Right 25%
 - `.right-5` - Right 5rem
-- `.right-4.5` - Right 0rem
+- `.right-4.5` - Right 4.5rem
 - `.right-4` - Right 4rem
-- `.right-3.5` - Right 0rem
+- `.right-3.5` - Right 3.5rem
 - `.right-3` - Right 3rem
-- `.right-2.5` - Right 0rem
+- `.right-2.5` - Right 2.5rem
 - `.right-2` - Right 2rem
-- `.right-1.9` - Right 0rem
-- `.right-1.8` - Right 0rem
-- `.right-1.7` - Right 0rem
-- `.right-1.6` - Right 0rem
-- `.right-1.5` - Right 0rem
-- `.right-1.4` - Right 0rem
-- `.right-1.3` - Right 0rem
-- `.right-1.2` - Right 0rem
-- `.right-1.1` - Right 0rem
+- `.right-1.9` - Right 1.9rem
+- `.right-1.8` - Right 1.8rem
+- `.right-1.7` - Right 1.7rem
+- `.right-1.6` - Right 1.6rem
+- `.right-1.5` - Right 1.5rem
+- `.right-1.4` - Right 1.4rem
+- `.right-1.3` - Right 1.3rem
+- `.right-1.2` - Right 1.2rem
+- `.right-1.1` - Right 1.1rem
 - `.right-1` - Right 1rem
-- `.right-0.9` - Right 0rem
-- `.right-0.8` - Right 0rem
-- `.right-0.7` - Right 0rem
-- `.right-0.6` - Right 0rem
-- `.right-0.5` - Right 0rem
-- `.right-0.4` - Right 0rem
-- `.right-0.3` - Right 0rem
+- `.right-0.9` - Right 0.9rem
+- `.right-0.8` - Right 0.8rem
+- `.right-0.7` - Right 0.7rem
+- `.right-0.6` - Right 0.6rem
+- `.right-0.5` - Right 0.5rem
+- `.right-0.4` - Right 0.4rem
+- `.right-0.3` - Right 0.3rem
 - `.right-0.2` - Right 0.2rem
 - `.right-0.1` - Right 0.1rem
 - `.right-0` - Right 0rem
@@ -3862,54 +3862,54 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 ##### Negative Right
 
 - `.-right-5` - Negative Right 5rem
-- `.-right-4.5` - Negative Right 0rem
+- `.-right-4.5` - Negative Right 4.5rem
 - `.-right-4` - Negative Right 4rem
-- `.-right-3.5` - Negative Right 0rem
+- `.-right-3.5` - Negative Right 3.5rem
 - `.-right-3` - Negative Right 3rem
-- `.-right-2.5` - Negative Right 0rem
+- `.-right-2.5` - Negative Right 2.5rem
 - `.-right-2` - Negative Right 2rem
-- `.-right-1.9` - Negative Right 0rem
-- `.-right-1.8` - Negative Right 0rem
-- `.-right-1.7` - Negative Right 0rem
-- `.-right-1.6` - Negative Right 0rem
-- `.-right-1.5` - Negative Right 0rem
-- `.-right-1.4` - Negative Right 0rem
-- `.-right-1.3` - Negative Right 0rem
-- `.-right-1.2` - Negative Right 0rem
-- `.-right-1.1` - Negative Right 0rem
+- `.-right-1.9` - Negative Right 1.9rem
+- `.-right-1.8` - Negative Right 1.8rem
+- `.-right-1.7` - Negative Right 1.7rem
+- `.-right-1.6` - Negative Right 1.6rem
+- `.-right-1.5` - Negative Right 1.5rem
+- `.-right-1.4` - Negative Right 1.4rem
+- `.-right-1.3` - Negative Right 1.3rem
+- `.-right-1.2` - Negative Right 1.2rem
+- `.-right-1.1` - Negative Right 1.1rem
 - `.-right-1` - Negative Right 1rem
-- `.-right-0.9` - Negative Right 0rem
-- `.-right-0.8` - Negative Right 0rem
-- `.-right-0.7` - Negative Right 0rem
-- `.-right-0.6` - Negative Right 0rem
-- `.-right-0.5` - Negative Right 0rem
-- `.-right-0.4` - Negative Right 0rem
+- `.-right-0.9` - Negative Right 0.9rem
+- `.-right-0.8` - Negative Right 0.8rem
+- `.-right-0.7` - Negative Right 0.7rem
+- `.-right-0.6` - Negative Right 0.6rem
+- `.-right-0.5` - Negative Right 0.5rem
+- `.-right-0.4` - Negative Right 0.4rem
 - `.-right-0.3` - Negative Right 0.3rem
 - `.-right-0.2` - Negative Right 0.2rem
 - `.-right-0.1` - Negative Right 0.1rem
 - `.hover:-right-5` - Negative Right 5rem on hover
-- `.hover:-right-4.5` - Negative Right 0rem on hover
+- `.hover:-right-4.5` - Negative Right 4.5rem on hover
 - `.hover:-right-4` - Negative Right 4rem on hover
-- `.hover:-right-3.5` - Negative Right 0rem on hover
+- `.hover:-right-3.5` - Negative Right 3.5rem on hover
 - `.hover:-right-3` - Negative Right 3rem on hover
-- `.hover:-right-2.5` - Negative Right 0rem on hover
+- `.hover:-right-2.5` - Negative Right 2.5rem on hover
 - `.hover:-right-2` - Negative Right 2rem on hover
-- `.hover:-right-1.9` - Negative Right 0rem on hover
-- `.hover:-right-1.8` - Negative Right 0rem on hover
-- `.hover:-right-1.7` - Negative Right 0rem on hover
-- `.hover:-right-1.6` - Negative Right 0rem on hover
-- `.hover:-right-1.5` - Negative Right 0rem on hover
-- `.hover:-right-1.4` - Negative Right 0rem on hover
-- `.hover:-right-1.3` - Negative Right 0rem on hover
-- `.hover:-right-1.2` - Negative Right 0rem on hover
-- `.hover:-right-1.1` - Negative Right 0rem on hover
+- `.hover:-right-1.9` - Negative Right 1.9rem on hover
+- `.hover:-right-1.8` - Negative Right 1.8rem on hover
+- `.hover:-right-1.7` - Negative Right 1.7rem on hover
+- `.hover:-right-1.6` - Negative Right 1.6rem on hover
+- `.hover:-right-1.5` - Negative Right 1.5rem on hover
+- `.hover:-right-1.4` - Negative Right 1.4rem on hover
+- `.hover:-right-1.3` - Negative Right 1.3rem on hover
+- `.hover:-right-1.2` - Negative Right 1.2rem on hover
+- `.hover:-right-1.1` - Negative Right 1.1rem on hover
 - `.hover:-right-1` - Negative Right 1rem on hover
-- `.hover:-right-0.9` - Negative Right 0rem on hover
-- `.hover:-right-0.8` - Negative Right 0rem on hover
-- `.hover:-right-0.7` - Negative Right 0rem on hover
-- `.hover:-right-0.6` - Negative Right 0rem on hover
-- `.hover:-right-0.5` - Negative Right 0rem on hover
-- `.hover:-right-0.4` - Negative Right 0rem on hover
+- `.hover:-right-0.9` - Negative Right 0.9rem on hover
+- `.hover:-right-0.8` - Negative Right 0.8rem on hover
+- `.hover:-right-0.7` - Negative Right 0.7rem on hover
+- `.hover:-right-0.6` - Negative Right 0.6rem on hover
+- `.hover:-right-0.5` - Negative Right 0.5rem on hover
+- `.hover:-right-0.4` - Negative Right 0.4rem on hover
 - `.hover:-right-0.3` - Negative Right 0.3rem on hover
 - `.hover:-right-0.2` - Negative Right 0.2rem on hover
 - `.hover:-right-0.1` - Negative Right 0.1rem on hover
@@ -3921,29 +3921,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.bottom-50` - Bottom 50%
 - `.bottom-25` - Bottom 25%
 - `.bottom-5` - Bottom 5rem
-- `.bottom-4.5` - Bottom 0rem
+- `.bottom-4.5` - Bottom 4.5rem
 - `.bottom-4` - Bottom 4rem
-- `.bottom-3.5` - Bottom 0rem
+- `.bottom-3.5` - Bottom 3.5rem
 - `.bottom-3` - Bottom 3rem
-- `.bottom-2.5` - Bottom 0rem
+- `.bottom-2.5` - Bottom 2.5rem
 - `.bottom-2` - Bottom 2rem
-- `.bottom-1.9` - Bottom 0rem
-- `.bottom-1.8` - Bottom 0rem
-- `.bottom-1.7` - Bottom 0rem
-- `.bottom-1.6` - Bottom 0rem
-- `.bottom-1.5` - Bottom 0rem
-- `.bottom-1.4` - Bottom 0rem
-- `.bottom-1.3` - Bottom 0rem
-- `.bottom-1.2` - Bottom 0rem
-- `.bottom-1.1` - Bottom 0rem
+- `.bottom-1.9` - Bottom 1.9rem
+- `.bottom-1.8` - Bottom 1.8rem
+- `.bottom-1.7` - Bottom 1.7rem
+- `.bottom-1.6` - Bottom 1.6rem
+- `.bottom-1.5` - Bottom 1.5rem
+- `.bottom-1.4` - Bottom 1.4rem
+- `.bottom-1.3` - Bottom 1.3rem
+- `.bottom-1.2` - Bottom 1.2rem
+- `.bottom-1.1` - Bottom 1.1rem
 - `.bottom-1` - Bottom 1rem
-- `.bottom-0.9` - Bottom 0rem
-- `.bottom-0.8` - Bottom 0rem
-- `.bottom-0.7` - Bottom 0rem
-- `.bottom-0.6` - Bottom 0rem
-- `.bottom-0.5` - Bottom 0rem
-- `.bottom-0.4` - Bottom 0rem
-- `.bottom-0.3` - Bottom 0rem
+- `.bottom-0.9` - Bottom 0.9rem
+- `.bottom-0.8` - Bottom 0.8rem
+- `.bottom-0.7` - Bottom 0.7rem
+- `.bottom-0.6` - Bottom 0.6rem
+- `.bottom-0.5` - Bottom 0.5rem
+- `.bottom-0.4` - Bottom 0.4rem
+- `.bottom-0.3` - Bottom 0.3rem
 - `.bottom-0.2` - Bottom 0.2rem
 - `.bottom-0.1` - Bottom 0.1rem
 - `.bottom-0` - Bottom 0rem
@@ -3952,29 +3952,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:bottom-50` - Bottom 50% on hover
 - `.hover:bottom-25` - Bottom 25% on hover
 - `.hover:bottom-5` - Bottom 5rem on hover
-- `.hover:bottom-4.5` - Bottom 0rem on hover
+- `.hover:bottom-4.5` - Bottom 4.5rem on hover
 - `.hover:bottom-4` - Bottom 4rem on hover
-- `.hover:bottom-3.5` - Bottom 0rem on hover
+- `.hover:bottom-3.5` - Bottom 3.5rem on hover
 - `.hover:bottom-3` - Bottom 3rem on hover
-- `.hover:bottom-2.5` - Bottom 0rem on hover
+- `.hover:bottom-2.5` - Bottom 2.5rem on hover
 - `.hover:bottom-2` - Bottom 2rem on hover
-- `.hover:bottom-1.9` - Bottom 0rem on hover
-- `.hover:bottom-1.8` - Bottom 0rem on hover
-- `.hover:bottom-1.7` - Bottom 0rem on hover
-- `.hover:bottom-1.6` - Bottom 0rem on hover
-- `.hover:bottom-1.5` - Bottom 0rem on hover
-- `.hover:bottom-1.4` - Bottom 0rem on hover
-- `.hover:bottom-1.3` - Bottom 0rem on hover
-- `.hover:bottom-1.2` - Bottom 0rem on hover
-- `.hover:bottom-1.1` - Bottom 0rem on hover
+- `.hover:bottom-1.9` - Bottom 1.9rem on hover
+- `.hover:bottom-1.8` - Bottom 1.8rem on hover
+- `.hover:bottom-1.7` - Bottom 1.7rem on hover
+- `.hover:bottom-1.6` - Bottom 1.6rem on hover
+- `.hover:bottom-1.5` - Bottom 1.5rem on hover
+- `.hover:bottom-1.4` - Bottom 1.4rem on hover
+- `.hover:bottom-1.3` - Bottom 1.3rem on hover
+- `.hover:bottom-1.2` - Bottom 1.2rem on hover
+- `.hover:bottom-1.1` - Bottom 1.1rem on hover
 - `.hover:bottom-1` - Bottom 1rem on hover
-- `.hover:bottom-0.9` - Bottom 0rem on hover
-- `.hover:bottom-0.8` - Bottom 0rem on hover
-- `.hover:bottom-0.7` - Bottom 0rem on hover
-- `.hover:bottom-0.6` - Bottom 0rem on hover
-- `.hover:bottom-0.5` - Bottom 0rem on hover
-- `.hover:bottom-0.4` - Bottom 0rem on hover
-- `.hover:bottom-0.3` - Bottom 0rem on hover
+- `.hover:bottom-0.9` - Bottom 0.9rem on hover
+- `.hover:bottom-0.8` - Bottom 0.8rem on hover
+- `.hover:bottom-0.7` - Bottom 0.7rem on hover
+- `.hover:bottom-0.6` - Bottom 0.6rem on hover
+- `.hover:bottom-0.5` - Bottom 0.5rem on hover
+- `.hover:bottom-0.4` - Bottom 0.4rem on hover
+- `.hover:bottom-0.3` - Bottom 0.3rem on hover
 - `.hover:bottom-0.2` - Bottom 0.2rem on hover
 - `.hover:bottom-0.1` - Bottom 0.1rem on hover
 - `.hover:bottom-0` - Bottom 0rem on hover
@@ -3982,54 +3982,54 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 ##### Negative Bottom
 
 - `.-bottom-5` - Negative Bottom 5rem
-- `.-bottom-4.5` - Negative Bottom 0rem
+- `.-bottom-4.5` - Negative Bottom 4.5rem
 - `.-bottom-4` - Negative Bottom 4rem
-- `.-bottom-3.5` - Negative Bottom 0rem
+- `.-bottom-3.5` - Negative Bottom 3.5rem
 - `.-bottom-3` - Negative Bottom 3rem
-- `.-bottom-2.5` - Negative Bottom 0rem
+- `.-bottom-2.5` - Negative Bottom 2.5rem
 - `.-bottom-2` - Negative Bottom 2rem
-- `.-bottom-1.9` - Negative Bottom 0rem
-- `.-bottom-1.8` - Negative Bottom 0rem
-- `.-bottom-1.7` - Negative Bottom 0rem
-- `.-bottom-1.6` - Negative Bottom 0rem
-- `.-bottom-1.5` - Negative Bottom 0rem
-- `.-bottom-1.4` - Negative Bottom 0rem
-- `.-bottom-1.3` - Negative Bottom 0rem
-- `.-bottom-1.2` - Negative Bottom 0rem
-- `.-bottom-1.1` - Negative Bottom 0rem
+- `.-bottom-1.9` - Negative Bottom 1.9rem
+- `.-bottom-1.8` - Negative Bottom 1.8rem
+- `.-bottom-1.7` - Negative Bottom 1.7rem
+- `.-bottom-1.6` - Negative Bottom 1.6rem
+- `.-bottom-1.5` - Negative Bottom 1.5rem
+- `.-bottom-1.4` - Negative Bottom 1.4rem
+- `.-bottom-1.3` - Negative Bottom 1.3rem
+- `.-bottom-1.2` - Negative Bottom 1.2rem
+- `.-bottom-1.1` - Negative Bottom 1.1rem
 - `.-bottom-1` - Negative Bottom 1rem
-- `.-bottom-0.9` - Negative Bottom 0rem
-- `.-bottom-0.8` - Negative Bottom 0rem
-- `.-bottom-0.7` - Negative Bottom 0rem
-- `.-bottom-0.6` - Negative Bottom 0rem
-- `.-bottom-0.5` - Negative Bottom 0rem
-- `.-bottom-0.4` - Negative Bottom 0rem
+- `.-bottom-0.9` - Negative Bottom 0.9rem
+- `.-bottom-0.8` - Negative Bottom 0.8rem
+- `.-bottom-0.7` - Negative Bottom 0.7rem
+- `.-bottom-0.6` - Negative Bottom 0.6rem
+- `.-bottom-0.5` - Negative Bottom 0.5rem
+- `.-bottom-0.4` - Negative Bottom 0.4rem
 - `.-bottom-0.3` - Negative Bottom 0.3rem
 - `.-bottom-0.2` - Negative Bottom 0.2rem
 - `.-bottom-0.1` - Negative Bottom 0.1rem
 - `.hover:-bottom-5` - Negative Bottom 5rem on hover
-- `.hover:-bottom-4.5` - Negative Bottom 0rem on hover
+- `.hover:-bottom-4.5` - Negative Bottom 4.5rem on hover
 - `.hover:-bottom-4` - Negative Bottom 4rem on hover
-- `.hover:-bottom-3.5` - Negative Bottom 0rem on hover
+- `.hover:-bottom-3.5` - Negative Bottom 3.5rem on hover
 - `.hover:-bottom-3` - Negative Bottom 3rem on hover
-- `.hover:-bottom-2.5` - Negative Bottom 0rem on hover
+- `.hover:-bottom-2.5` - Negative Bottom 2.5rem on hover
 - `.hover:-bottom-2` - Negative Bottom 2rem on hover
-- `.hover:-bottom-1.9` - Negative Bottom 0rem on hover
-- `.hover:-bottom-1.8` - Negative Bottom 0rem on hover
-- `.hover:-bottom-1.7` - Negative Bottom 0rem on hover
-- `.hover:-bottom-1.6` - Negative Bottom 0rem on hover
-- `.hover:-bottom-1.5` - Negative Bottom 0rem on hover
-- `.hover:-bottom-1.4` - Negative Bottom 0rem on hover
-- `.hover:-bottom-1.3` - Negative Bottom 0rem on hover
-- `.hover:-bottom-1.2` - Negative Bottom 0rem on hover
-- `.hover:-bottom-1.1` - Negative Bottom 0rem on hover
+- `.hover:-bottom-1.9` - Negative Bottom 1.9rem on hover
+- `.hover:-bottom-1.8` - Negative Bottom 1.8rem on hover
+- `.hover:-bottom-1.7` - Negative Bottom 1.7rem on hover
+- `.hover:-bottom-1.6` - Negative Bottom 1.6rem on hover
+- `.hover:-bottom-1.5` - Negative Bottom 1.5rem on hover
+- `.hover:-bottom-1.4` - Negative Bottom 1.4rem on hover
+- `.hover:-bottom-1.3` - Negative Bottom 1.3rem on hover
+- `.hover:-bottom-1.2` - Negative Bottom 1.2rem on hover
+- `.hover:-bottom-1.1` - Negative Bottom 1.1rem on hover
 - `.hover:-bottom-1` - Negative Bottom 1rem on hover
-- `.hover:-bottom-0.9` - Negative Bottom 0rem on hover
-- `.hover:-bottom-0.8` - Negative Bottom 0rem on hover
-- `.hover:-bottom-0.7` - Negative Bottom 0rem on hover
-- `.hover:-bottom-0.6` - Negative Bottom 0rem on hover
-- `.hover:-bottom-0.5` - Negative Bottom 0rem on hover
-- `.hover:-bottom-0.4` - Negative Bottom 0rem on hover
+- `.hover:-bottom-0.9` - Negative Bottom 0.9rem on hover
+- `.hover:-bottom-0.8` - Negative Bottom 0.8rem on hover
+- `.hover:-bottom-0.7` - Negative Bottom 0.7rem on hover
+- `.hover:-bottom-0.6` - Negative Bottom 0.6rem on hover
+- `.hover:-bottom-0.5` - Negative Bottom 0.5rem on hover
+- `.hover:-bottom-0.4` - Negative Bottom 0.4rem on hover
 - `.hover:-bottom-0.3` - Negative Bottom 0.3rem on hover
 - `.hover:-bottom-0.2` - Negative Bottom 0.2rem on hover
 - `.hover:-bottom-0.1` - Negative Bottom 0.1rem on hover
@@ -4041,29 +4041,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:left-50` - Left 50% on hover
 - `.hover:left-25` - Left 25% on hover
 - `.hover:left-5` - Left 5rem on hover
-- `.hover:left-4.5` - Left 0rem on hover
+- `.hover:left-4.5` - Left 4.5rem on hover
 - `.hover:left-4` - Left 4rem on hover
-- `.hover:left-3.5` - Left 0rem on hover
+- `.hover:left-3.5` - Left 3.5rem on hover
 - `.hover:left-3` - Left 3rem on hover
-- `.hover:left-2.5` - Left 0rem on hover
+- `.hover:left-2.5` - Left 2.5rem on hover
 - `.hover:left-2` - Left 2rem on hover
-- `.hover:left-1.9` - Left 0rem on hover
-- `.hover:left-1.8` - Left 0rem on hover
-- `.hover:left-1.7` - Left 0rem on hover
-- `.hover:left-1.6` - Left 0rem on hover
-- `.hover:left-1.5` - Left 0rem on hover
-- `.hover:left-1.4` - Left 0rem on hover
-- `.hover:left-1.3` - Left 0rem on hover
-- `.hover:left-1.2` - Left 0rem on hover
-- `.hover:left-1.1` - Left 0rem on hover
+- `.hover:left-1.9` - Left 1.9rem on hover
+- `.hover:left-1.8` - Left 1.8rem on hover
+- `.hover:left-1.7` - Left 1.7rem on hover
+- `.hover:left-1.6` - Left 1.6rem on hover
+- `.hover:left-1.5` - Left 1.5rem on hover
+- `.hover:left-1.4` - Left 1.4rem on hover
+- `.hover:left-1.3` - Left 1.3rem on hover
+- `.hover:left-1.2` - Left 1.2rem on hover
+- `.hover:left-1.1` - Left 1.1rem on hover
 - `.hover:left-1` - Left 1rem on hover
-- `.hover:left-0.9` - Left 0rem on hover
-- `.hover:left-0.8` - Left 0rem on hover
-- `.hover:left-0.7` - Left 0rem on hover
-- `.hover:left-0.6` - Left 0rem on hover
-- `.hover:left-0.5` - Left 0rem on hover
-- `.hover:left-0.4` - Left 0rem on hover
-- `.hover:left-0.3` - Left 0rem on hover
+- `.hover:left-0.9` - Left 0.9rem on hover
+- `.hover:left-0.8` - Left 0.8rem on hover
+- `.hover:left-0.7` - Left 0.7rem on hover
+- `.hover:left-0.6` - Left 0.6rem on hover
+- `.hover:left-0.5` - Left 0.5rem on hover
+- `.hover:left-0.4` - Left 0.4rem on hover
+- `.hover:left-0.3` - Left 0.3rem on hover
 - `.hover:left-0.2` - Left 0.2rem on hover
 - `.hover:left-0.1` - Left 0.1rem on hover
 - `.hover:left-0` - Left 0rem on hover
@@ -4072,29 +4072,29 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.left-50` - Left 50%
 - `.left-25` - Left 25%
 - `.left-5` - Left 5rem
-- `.left-4.5` - Left 0rem
+- `.left-4.5` - Left 4.5rem
 - `.left-4` - Left 4rem
-- `.left-3.5` - Left 0rem
+- `.left-3.5` - Left 3.5rem
 - `.left-3` - Left 3rem
-- `.left-2.5` - Left 0rem
+- `.left-2.5` - Left 2.5rem
 - `.left-2` - Left 2rem
-- `.left-1.9` - Left 0rem
-- `.left-1.8` - Left 0rem
-- `.left-1.7` - Left 0rem
-- `.left-1.6` - Left 0rem
-- `.left-1.5` - Left 0rem
-- `.left-1.4` - Left 0rem
-- `.left-1.3` - Left 0rem
-- `.left-1.2` - Left 0rem
-- `.left-1.1` - Left 0rem
+- `.left-1.9` - Left 1.9rem
+- `.left-1.8` - Left 1.8rem
+- `.left-1.7` - Left 1.7rem
+- `.left-1.6` - Left 1.6rem
+- `.left-1.5` - Left 1.5rem
+- `.left-1.4` - Left 1.4rem
+- `.left-1.3` - Left 1.3rem
+- `.left-1.2` - Left 1.2rem
+- `.left-1.1` - Left 1.1rem
 - `.left-1` - Left 1rem
-- `.left-0.9` - Left 0rem
-- `.left-0.8` - Left 0rem
-- `.left-0.7` - Left 0rem
-- `.left-0.6` - Left 0rem
-- `.left-0.5` - Left 0rem
-- `.left-0.4` - Left 0rem
-- `.left-0.3` - Left 0rem
+- `.left-0.9` - Left 0.9rem
+- `.left-0.8` - Left 0.8rem
+- `.left-0.7` - Left 0.7rem
+- `.left-0.6` - Left 0.6rem
+- `.left-0.5` - Left 0.5rem
+- `.left-0.4` - Left 0.4rem
+- `.left-0.3` - Left 0.3rem
 - `.left-0.2` - Left 0.2rem
 - `.left-0.1` - Left 0.1rem
 - `.left-0` - Left 0rem
@@ -4102,54 +4102,54 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 ##### Negative Left
 
 - `.-left-5` - Negative Left 5rem
-- `.-left-4.5` - Negative Left 0rem
+- `.-left-4.5` - Negative Left 4.5rem
 - `.-left-4` - Negative Left 4rem
-- `.-left-3.5` - Negative Left 0rem
+- `.-left-3.5` - Negative Left 3.5rem
 - `.-left-3` - Negative Left 3rem
-- `.-left-2.5` - Negative Left 0rem
+- `.-left-2.5` - Negative Left 2.5rem
 - `.-left-2` - Negative Left 2rem
-- `.-left-1.9` - Negative Left 0rem
-- `.-left-1.8` - Negative Left 0rem
-- `.-left-1.7` - Negative Left 0rem
-- `.-left-1.6` - Negative Left 0rem
-- `.-left-1.5` - Negative Left 0rem
-- `.-left-1.4` - Negative Left 0rem
-- `.-left-1.3` - Negative Left 0rem
-- `.-left-1.2` - Negative Left 0rem
-- `.-left-1.1` - Negative Left 0rem
+- `.-left-1.9` - Negative Left 1.9rem
+- `.-left-1.8` - Negative Left 1.8rem
+- `.-left-1.7` - Negative Left 1.7rem
+- `.-left-1.6` - Negative Left 1.6rem
+- `.-left-1.5` - Negative Left 1.5rem
+- `.-left-1.4` - Negative Left 1.4rem
+- `.-left-1.3` - Negative Left 1.3rem
+- `.-left-1.2` - Negative Left 1.2rem
+- `.-left-1.1` - Negative Left 1.1rem
 - `.-left-1` - Negative Left 1rem
-- `.-left-0.9` - Negative Left 0rem
-- `.-left-0.8` - Negative Left 0rem
-- `.-left-0.7` - Negative Left 0rem
-- `.-left-0.6` - Negative Left 0rem
-- `.-left-0.5` - Negative Left 0rem
-- `.-left-0.4` - Negative Left 0rem
+- `.-left-0.9` - Negative Left 0.9rem
+- `.-left-0.8` - Negative Left 0.8rem
+- `.-left-0.7` - Negative Left 0.7rem
+- `.-left-0.6` - Negative Left 0.6rem
+- `.-left-0.5` - Negative Left 0.5rem
+- `.-left-0.4` - Negative Left 0.4rem
 - `.-left-0.3` - Negative Left 0.3rem
 - `.-left-0.2` - Negative Left 0.2rem
 - `.-left-0.1` - Negative Left 0.1rem
 - `.hover:-left-5` - Negative Left 5rem on hover
-- `.hover:-left-4.5` - Negative Left 0rem on hover
+- `.hover:-left-4.5` - Negative Left 4.5rem on hover
 - `.hover:-left-4` - Negative Left 4rem on hover
-- `.hover:-left-3.5` - Negative Left 0rem on hover
+- `.hover:-left-3.5` - Negative Left 3.5rem on hover
 - `.hover:-left-3` - Negative Left 3rem on hover
-- `.hover:-left-2.5` - Negative Left 0rem on hover
+- `.hover:-left-2.5` - Negative Left 2.5rem on hover
 - `.hover:-left-2` - Negative Left 2rem on hover
-- `.hover:-left-1.9` - Negative Left 0rem on hover
-- `.hover:-left-1.8` - Negative Left 0rem on hover
-- `.hover:-left-1.7` - Negative Left 0rem on hover
-- `.hover:-left-1.6` - Negative Left 0rem on hover
-- `.hover:-left-1.5` - Negative Left 0rem on hover
-- `.hover:-left-1.4` - Negative Left 0rem on hover
-- `.hover:-left-1.3` - Negative Left 0rem on hover
-- `.hover:-left-1.2` - Negative Left 0rem on hover
-- `.hover:-left-1.1` - Negative Left 0rem on hover
+- `.hover:-left-1.9` - Negative Left 1.9rem on hover
+- `.hover:-left-1.8` - Negative Left 1.8rem on hover
+- `.hover:-left-1.7` - Negative Left 1.7rem on hover
+- `.hover:-left-1.6` - Negative Left 1.6rem on hover
+- `.hover:-left-1.5` - Negative Left 1.5rem on hover
+- `.hover:-left-1.4` - Negative Left 1.4rem on hover
+- `.hover:-left-1.3` - Negative Left 1.3rem on hover
+- `.hover:-left-1.2` - Negative Left 1.2rem on hover
+- `.hover:-left-1.1` - Negative Left 1.1rem on hover
 - `.hover:-left-1` - Negative Left 1rem on hover
-- `.hover:-left-0.9` - Negative Left 0rem on hover
-- `.hover:-left-0.8` - Negative Left 0rem on hover
-- `.hover:-left-0.7` - Negative Left 0rem on hover
-- `.hover:-left-0.6` - Negative Left 0rem on hover
-- `.hover:-left-0.5` - Negative Left 0rem on hover
-- `.hover:-left-0.4` - Negative Left 0rem on hover
+- `.hover:-left-0.9` - Negative Left 0.9rem on hover
+- `.hover:-left-0.8` - Negative Left 0.8rem on hover
+- `.hover:-left-0.7` - Negative Left 0.7rem on hover
+- `.hover:-left-0.6` - Negative Left 0.6rem on hover
+- `.hover:-left-0.5` - Negative Left 0.5rem on hover
+- `.hover:-left-0.4` - Negative Left 0.4rem on hover
 - `.hover:-left-0.3` - Negative Left 0.3rem on hover
 - `.hover:-left-0.2` - Negative Left 0.2rem on hover
 - `.hover:-left-0.1` - Negative Left 0.1rem on hover
@@ -4196,66 +4196,66 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 ### Font Size
 
 - `.font-size-10` - Font Size 10rem
-- `.font-size-9.5` - Font Size 0rem
+- `.font-size-9.5` - Font Size 9.5rem
 - `.font-size-9` - Font Size 9rem
-- `.font-size-8.5` - Font Size 0rem
+- `.font-size-8.5` - Font Size 8.5rem
 - `.font-size-8` - Font Size 8rem
-- `.font-size-7.5` - Font Size 0rem
+- `.font-size-7.5` - Font Size 7.5rem
 - `.font-size-7` - Font Size 7rem
-- `.font-size-6.5` - Font Size 0rem
+- `.font-size-6.5` - Font Size 6.5rem
 - `.font-size-6` - Font Size 6rem
-- `.font-size-5.5` - Font Size 0rem
+- `.font-size-5.5` - Font Size 5.5rem
 - `.font-size-5` - Font Size 5rem
-- `.font-size-4.5` - Font Size 0rem
+- `.font-size-4.5` - Font Size 4.5rem
 - `.font-size-4` - Font Size 4rem
-- `.font-size-3.5` - Font Size 0rem
+- `.font-size-3.5` - Font Size 3.5rem
 - `.font-size-3` - Font Size 3rem
-- `.font-size-2.5` - Font Size 0rem
+- `.font-size-2.5` - Font Size 2.5rem
 - `.font-size-2` - Font Size 2rem
-- `.font-size-1.9` - Font Size 0rem
-- `.font-size-1.8` - Font Size 0rem
-- `.font-size-1.7` - Font Size 0rem
-- `.font-size-1.6` - Font Size 0rem
-- `.font-size-1.5` - Font Size 0rem
-- `.font-size-1.4` - Font Size 0rem
-- `.font-size-1.3` - Font Size 0rem
-- `.font-size-1.2` - Font Size 0rem
-- `.font-size-1.1` - Font Size 0rem
+- `.font-size-1.9` - Font Size 1.9rem
+- `.font-size-1.8` - Font Size 1.8rem
+- `.font-size-1.7` - Font Size 1.7rem
+- `.font-size-1.6` - Font Size 1.6rem
+- `.font-size-1.5` - Font Size 1.5rem
+- `.font-size-1.4` - Font Size 1.4rem
+- `.font-size-1.3` - Font Size 1.3rem
+- `.font-size-1.2` - Font Size 1.2rem
+- `.font-size-1.1` - Font Size 1.1rem
 - `.font-size-1` - Font Size 1rem
-- `.font-size-0.9` - Font Size 0rem
-- `.font-size-0.8` - Font Size 0rem
+- `.font-size-0.9` - Font Size 0.9rem
+- `.font-size-0.8` - Font Size 0.8rem
 - `.font-size-0.7` - Font Size 0.7rem
 - `.font-size-0.6` - Font Size 0.6rem
 - `.font-size-0.5` - Font Size 0.5rem
 - `.hover:font-size-10` - Font Size 10rem on hover
-- `.hover:font-size-9.5` - Font Size 0rem on hover
+- `.hover:font-size-9.5` - Font Size 9.5rem on hover
 - `.hover:font-size-9` - Font Size 9rem on hover
-- `.hover:font-size-8.5` - Font Size 0rem on hover
+- `.hover:font-size-8.5` - Font Size 8.5rem on hover
 - `.hover:font-size-8` - Font Size 8rem on hover
-- `.hover:font-size-7.5` - Font Size 0rem on hover
+- `.hover:font-size-7.5` - Font Size 7.5rem on hover
 - `.hover:font-size-7` - Font Size 7rem on hover
-- `.hover:font-size-6.5` - Font Size 0rem on hover
+- `.hover:font-size-6.5` - Font Size 6.5rem on hover
 - `.hover:font-size-6` - Font Size 6rem on hover
-- `.hover:font-size-5.5` - Font Size 0rem on hover
+- `.hover:font-size-5.5` - Font Size 5.5rem on hover
 - `.hover:font-size-5` - Font Size 5rem on hover
-- `.hover:font-size-4.5` - Font Size 0rem on hover
+- `.hover:font-size-4.5` - Font Size 4.5rem on hover
 - `.hover:font-size-4` - Font Size 4rem on hover
-- `.hover:font-size-3.5` - Font Size 0rem on hover
+- `.hover:font-size-3.5` - Font Size 3.5rem on hover
 - `.hover:font-size-3` - Font Size 3rem on hover
-- `.hover:font-size-2.5` - Font Size 0rem on hover
+- `.hover:font-size-2.5` - Font Size 2.5rem on hover
 - `.hover:font-size-2` - Font Size 2rem on hover
-- `.hover:font-size-1.9` - Font Size 0rem on hover
-- `.hover:font-size-1.8` - Font Size 0rem on hover
-- `.hover:font-size-1.7` - Font Size 0rem on hover
-- `.hover:font-size-1.6` - Font Size 0rem on hover
-- `.hover:font-size-1.5` - Font Size 0rem on hover
-- `.hover:font-size-1.4` - Font Size 0rem on hover
-- `.hover:font-size-1.3` - Font Size 0rem on hover
-- `.hover:font-size-1.2` - Font Size 0rem on hover
-- `.hover:font-size-1.1` - Font Size 0rem on hover
+- `.hover:font-size-1.9` - Font Size 1.9rem on hover
+- `.hover:font-size-1.8` - Font Size 1.8rem on hover
+- `.hover:font-size-1.7` - Font Size 1.7rem on hover
+- `.hover:font-size-1.6` - Font Size 1.6rem on hover
+- `.hover:font-size-1.5` - Font Size 1.5rem on hover
+- `.hover:font-size-1.4` - Font Size 1.4rem on hover
+- `.hover:font-size-1.3` - Font Size 1.3rem on hover
+- `.hover:font-size-1.2` - Font Size 1.2rem on hover
+- `.hover:font-size-1.1` - Font Size 1.1rem on hover
 - `.hover:font-size-1` - Font Size 1rem on hover
-- `.hover:font-size-0.9` - Font Size 0rem on hover
-- `.hover:font-size-0.8` - Font Size 0rem on hover
+- `.hover:font-size-0.9` - Font Size 0.9rem on hover
+- `.hover:font-size-0.8` - Font Size 0.8rem on hover
 - `.hover:font-size-0.7` - Font Size 0.7rem on hover
 - `.hover:font-size-0.6` - Font Size 0.6rem on hover
 - `.hover:font-size-0.5` - Font Size 0.5rem on hover
@@ -4286,22 +4286,22 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 ### Letter spacing
 
 - `.hover:letter-spacing-1` - Letter spacing 1rem on hover
-- `.hover:letter-spacing-0.9` - Letter spacing 0rem on hover
-- `.hover:letter-spacing-0.8` - Letter spacing 0rem on hover
-- `.hover:letter-spacing-0.7` - Letter spacing 0rem on hover
-- `.hover:letter-spacing-0.6` - Letter spacing 0rem on hover
-- `.hover:letter-spacing-0.5` - Letter spacing 0rem on hover
-- `.hover:letter-spacing-0.4` - Letter spacing 0rem on hover
+- `.hover:letter-spacing-0.9` - Letter spacing 0.9rem on hover
+- `.hover:letter-spacing-0.8` - Letter spacing 0.8rem on hover
+- `.hover:letter-spacing-0.7` - Letter spacing 0.7rem on hover
+- `.hover:letter-spacing-0.6` - Letter spacing 0.6rem on hover
+- `.hover:letter-spacing-0.5` - Letter spacing 0.5rem on hover
+- `.hover:letter-spacing-0.4` - Letter spacing 0.4rem on hover
 - `.hover:letter-spacing-0.3` - Letter spacing 0.3rem on hover
 - `.hover:letter-spacing-0.2` - Letter spacing 0.2rem on hover
 - `.hover:letter-spacing-0.1` - Letter spacing 0.1rem on hover
 - `.letter-spacing-1` - Letter spacing 1rem
-- `.letter-spacing-0.9` - Letter spacing 0rem
-- `.letter-spacing-0.8` - Letter spacing 0rem
-- `.letter-spacing-0.7` - Letter spacing 0rem
-- `.letter-spacing-0.6` - Letter spacing 0rem
-- `.letter-spacing-0.5` - Letter spacing 0rem
-- `.letter-spacing-0.4` - Letter spacing 0rem
+- `.letter-spacing-0.9` - Letter spacing 0.9rem
+- `.letter-spacing-0.8` - Letter spacing 0.8rem
+- `.letter-spacing-0.7` - Letter spacing 0.7rem
+- `.letter-spacing-0.6` - Letter spacing 0.6rem
+- `.letter-spacing-0.5` - Letter spacing 0.5rem
+- `.letter-spacing-0.4` - Letter spacing 0.4rem
 - `.letter-spacing-0.3` - Letter spacing 0.3rem
 - `.letter-spacing-0.2` - Letter spacing 0.2rem
 - `.letter-spacing-0.1` - Letter spacing 0.1rem
@@ -4533,28 +4533,28 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border All
 
 - `.border-2` - Border All 2rem
-- `.border-1.5` - Border All 0rem
+- `.border-1.5` - Border All 1.5rem
 - `.border-1` - Border All 1rem
-- `.border-0.9` - Border All 0rem
-- `.border-0.8` - Border All 0rem
-- `.border-0.7` - Border All 0rem
-- `.border-0.6` - Border All 0rem
-- `.border-0.5` - Border All 0rem
+- `.border-0.9` - Border All 0.9rem
+- `.border-0.8` - Border All 0.8rem
+- `.border-0.7` - Border All 0.7rem
+- `.border-0.6` - Border All 0.6rem
+- `.border-0.5` - Border All 0.5rem
 - `.border-0.4` - Border All 0.4rem
-- `.border-0.3` - Border All 0rem
+- `.border-0.3` - Border All 0.3rem
 - `.border-0.2` - Border All 0.2rem
 - `.border-0.1` - Border All 0.1rem
 - `.border-0` - Border All 0rem
 - `.hover:border-2` - Border All 2rem on hover
-- `.hover:border-1.5` - Border All 0rem on hover
+- `.hover:border-1.5` - Border All 1.5rem on hover
 - `.hover:border-1` - Border All 1rem on hover
-- `.hover:border-0.9` - Border All 0rem on hover
-- `.hover:border-0.8` - Border All 0rem on hover
-- `.hover:border-0.7` - Border All 0rem on hover
-- `.hover:border-0.6` - Border All 0rem on hover
-- `.hover:border-0.5` - Border All 0rem on hover
-- `.hover:border-0.4` - Border All 0rem on hover
-- `.hover:border-0.3` - Border All 0rem on hover
+- `.hover:border-0.9` - Border All 0.9rem on hover
+- `.hover:border-0.8` - Border All 0.8rem on hover
+- `.hover:border-0.7` - Border All 0.7rem on hover
+- `.hover:border-0.6` - Border All 0.6rem on hover
+- `.hover:border-0.5` - Border All 0.5rem on hover
+- `.hover:border-0.4` - Border All 0.4rem on hover
+- `.hover:border-0.3` - Border All 0.3rem on hover
 - `.hover:border-0.2` - Border All 0.2rem on hover
 - `.hover:border-0.1` - Border All 0.1rem on hover
 - `.hover:border-0` - Border All 0rem on hover
@@ -4562,28 +4562,28 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Bottom
 
 - `.border-b-2` - Border Bottom 2rem
-- `.border-b-1.5` - Border Bottom 0rem
+- `.border-b-1.5` - Border Bottom 1.5rem
 - `.border-b-1` - Border Bottom 1rem
-- `.border-b-0.9` - Border Bottom 0rem
-- `.border-b-0.8` - Border Bottom 0rem
-- `.border-b-0.7` - Border Bottom 0rem
-- `.border-b-0.6` - Border Bottom 0rem
+- `.border-b-0.9` - Border Bottom 0.9rem
+- `.border-b-0.8` - Border Bottom 0.8rem
+- `.border-b-0.7` - Border Bottom 0.7rem
+- `.border-b-0.6` - Border Bottom 0.6rem
 - `.border-b-0.5` - Border Bottom 0.5rem
-- `.border-b-0.4` - Border Bottom 0rem
-- `.border-b-0.3` - Border Bottom 0rem
+- `.border-b-0.4` - Border Bottom 0.4rem
+- `.border-b-0.3` - Border Bottom 0.3rem
 - `.border-b-0.2` - Border Bottom 0.2rem
 - `.border-b-0.1` - Border Bottom 0.1rem
 - `.border-b-0` - Border Bottom 0rem
 - `.hover:border-b-2` - Border Bottom 2rem on hover
-- `.hover:border-b-1.5` - Border Bottom 0rem on hover
+- `.hover:border-b-1.5` - Border Bottom 1.5rem on hover
 - `.hover:border-b-1` - Border Bottom 1rem on hover
-- `.hover:border-b-0.9` - Border Bottom 0rem on hover
-- `.hover:border-b-0.8` - Border Bottom 0rem on hover
-- `.hover:border-b-0.7` - Border Bottom 0rem on hover
-- `.hover:border-b-0.6` - Border Bottom 0rem on hover
-- `.hover:border-b-0.5` - Border Bottom 0rem on hover
-- `.hover:border-b-0.4` - Border Bottom 0rem on hover
-- `.hover:border-b-0.3` - Border Bottom 0rem on hover
+- `.hover:border-b-0.9` - Border Bottom 0.9rem on hover
+- `.hover:border-b-0.8` - Border Bottom 0.8rem on hover
+- `.hover:border-b-0.7` - Border Bottom 0.7rem on hover
+- `.hover:border-b-0.6` - Border Bottom 0.6rem on hover
+- `.hover:border-b-0.5` - Border Bottom 0.5rem on hover
+- `.hover:border-b-0.4` - Border Bottom 0.4rem on hover
+- `.hover:border-b-0.3` - Border Bottom 0.3rem on hover
 - `.hover:border-b-0.2` - Border Bottom 0.2rem on hover
 - `.hover:border-b-0.1` - Border Bottom 0.1rem on hover
 - `.hover:border-b-0` - Border Bottom 0rem on hover
@@ -4591,28 +4591,28 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Left
 
 - `.border-l-2` - Border Left 2rem
-- `.border-l-1.5` - Border Left 0rem
+- `.border-l-1.5` - Border Left 1.5rem
 - `.border-l-1` - Border Left 1rem
-- `.border-l-0.9` - Border Left 0rem
-- `.border-l-0.8` - Border Left 0rem
-- `.border-l-0.7` - Border Left 0rem
-- `.border-l-0.6` - Border Left 0rem
-- `.border-l-0.5` - Border Left 0rem
-- `.border-l-0.4` - Border Left 0rem
-- `.border-l-0.3` - Border Left 0rem
+- `.border-l-0.9` - Border Left 0.9rem
+- `.border-l-0.8` - Border Left 0.8rem
+- `.border-l-0.7` - Border Left 0.7rem
+- `.border-l-0.6` - Border Left 0.6rem
+- `.border-l-0.5` - Border Left 0.5rem
+- `.border-l-0.4` - Border Left 0.4rem
+- `.border-l-0.3` - Border Left 0.3rem
 - `.border-l-0.2` - Border Left 0.2rem
 - `.border-l-0.1` - Border Left 0.1rem
 - `.border-l-0` - Border Left 0rem
 - `.hover:border-l-2` - Border Left 2rem on hover
-- `.hover:border-l-1.5` - Border Left 0rem on hover
+- `.hover:border-l-1.5` - Border Left 1.5rem on hover
 - `.hover:border-l-1` - Border Left 1rem on hover
-- `.hover:border-l-0.9` - Border Left 0rem on hover
-- `.hover:border-l-0.8` - Border Left 0rem on hover
-- `.hover:border-l-0.7` - Border Left 0rem on hover
-- `.hover:border-l-0.6` - Border Left 0rem on hover
-- `.hover:border-l-0.5` - Border Left 0rem on hover
-- `.hover:border-l-0.4` - Border Left 0rem on hover
-- `.hover:border-l-0.3` - Border Left 0rem on hover
+- `.hover:border-l-0.9` - Border Left 0.9rem on hover
+- `.hover:border-l-0.8` - Border Left 0.8rem on hover
+- `.hover:border-l-0.7` - Border Left 0.7rem on hover
+- `.hover:border-l-0.6` - Border Left 0.6rem on hover
+- `.hover:border-l-0.5` - Border Left 0.5rem on hover
+- `.hover:border-l-0.4` - Border Left 0.4rem on hover
+- `.hover:border-l-0.3` - Border Left 0.3rem on hover
 - `.hover:border-l-0.2` - Border Left 0.2rem on hover
 - `.hover:border-l-0.1` - Border Left 0.1rem on hover
 - `.hover:border-l-0` - Border Left 0rem on hover
@@ -4620,28 +4620,28 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Right
 
 - `.border-r-2` - Border Right 2rem
-- `.border-r-1.5` - Border Right 0rem
+- `.border-r-1.5` - Border Right 1.5rem
 - `.border-r-1` - Border Right 1rem
-- `.border-r-0.9` - Border Right 0rem
-- `.border-r-0.8` - Border Right 0rem
-- `.border-r-0.7` - Border Right 0rem
-- `.border-r-0.6` - Border Right 0rem
-- `.border-r-0.5` - Border Right 0rem
-- `.border-r-0.4` - Border Right 0rem
-- `.border-r-0.3` - Border Right 0rem
+- `.border-r-0.9` - Border Right 0.9rem
+- `.border-r-0.8` - Border Right 0.8rem
+- `.border-r-0.7` - Border Right 0.7rem
+- `.border-r-0.6` - Border Right 0.6rem
+- `.border-r-0.5` - Border Right 0.5rem
+- `.border-r-0.4` - Border Right 0.4rem
+- `.border-r-0.3` - Border Right 0.3rem
 - `.border-r-0.2` - Border Right 0.2rem
 - `.border-r-0.1` - Border Right 0.1rem
 - `.border-r-0` - Border Right 0rem
 - `.hover:border-r-2` - Border Right 2rem on hover
-- `.hover:border-r-1.5` - Border Right 0rem on hover
+- `.hover:border-r-1.5` - Border Right 1.5rem on hover
 - `.hover:border-r-1` - Border Right 1rem on hover
-- `.hover:border-r-0.9` - Border Right 0rem on hover
-- `.hover:border-r-0.8` - Border Right 0rem on hover
-- `.hover:border-r-0.7` - Border Right 0rem on hover
-- `.hover:border-r-0.6` - Border Right 0rem on hover
-- `.hover:border-r-0.5` - Border Right 0rem on hover
-- `.hover:border-r-0.4` - Border Right 0rem on hover
-- `.hover:border-r-0.3` - Border Right 0rem on hover
+- `.hover:border-r-0.9` - Border Right 0.9rem on hover
+- `.hover:border-r-0.8` - Border Right 0.8rem on hover
+- `.hover:border-r-0.7` - Border Right 0.7rem on hover
+- `.hover:border-r-0.6` - Border Right 0.6rem on hover
+- `.hover:border-r-0.5` - Border Right 0.5rem on hover
+- `.hover:border-r-0.4` - Border Right 0.4rem on hover
+- `.hover:border-r-0.3` - Border Right 0.3rem on hover
 - `.hover:border-r-0.2` - Border Right 0.2rem on hover
 - `.hover:border-r-0.1` - Border Right 0.1rem on hover
 - `.hover:border-r-0` - Border Right 0rem on hover
@@ -4649,28 +4649,28 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Top
 
 - `.border-t-2` - Border Top 2rem
-- `.border-t-1.5` - Border Top 0rem
+- `.border-t-1.5` - Border Top 1.5rem
 - `.border-t-1` - Border Top 1rem
-- `.border-t-0.9` - Border Top 0rem
-- `.border-t-0.8` - Border Top 0rem
-- `.border-t-0.7` - Border Top 0rem
-- `.border-t-0.6` - Border Top 0rem
-- `.border-t-0.5` - Border Top 0rem
-- `.border-t-0.4` - Border Top 0rem
-- `.border-t-0.3` - Border Top 0rem
+- `.border-t-0.9` - Border Top 0.9rem
+- `.border-t-0.8` - Border Top 0.8rem
+- `.border-t-0.7` - Border Top 0.7rem
+- `.border-t-0.6` - Border Top 0.6rem
+- `.border-t-0.5` - Border Top 0.5rem
+- `.border-t-0.4` - Border Top 0.4rem
+- `.border-t-0.3` - Border Top 0.3rem
 - `.border-t-0.2` - Border Top 0.2rem
 - `.border-t-0.1` - Border Top 0.1rem
 - `.border-t-0` - Border Top 0rem
 - `.hover:border-t-2` - Border Top 2rem on hover
-- `.hover:border-t-1.5` - Border Top 0rem on hover
+- `.hover:border-t-1.5` - Border Top 1.5rem on hover
 - `.hover:border-t-1` - Border Top 1rem on hover
-- `.hover:border-t-0.9` - Border Top 0rem on hover
-- `.hover:border-t-0.8` - Border Top 0rem on hover
-- `.hover:border-t-0.7` - Border Top 0rem on hover
-- `.hover:border-t-0.6` - Border Top 0rem on hover
-- `.hover:border-t-0.5` - Border Top 0rem on hover
-- `.hover:border-t-0.4` - Border Top 0rem on hover
-- `.hover:border-t-0.3` - Border Top 0rem on hover
+- `.hover:border-t-0.9` - Border Top 0.9rem on hover
+- `.hover:border-t-0.8` - Border Top 0.8rem on hover
+- `.hover:border-t-0.7` - Border Top 0.7rem on hover
+- `.hover:border-t-0.6` - Border Top 0.6rem on hover
+- `.hover:border-t-0.5` - Border Top 0.5rem on hover
+- `.hover:border-t-0.4` - Border Top 0.4rem on hover
+- `.hover:border-t-0.3` - Border Top 0.3rem on hover
 - `.hover:border-t-0.2` - Border Top 0.2rem on hover
 - `.hover:border-t-0.1` - Border Top 0.1rem on hover
 - `.hover:border-t-0` - Border Top 0rem on hover
@@ -4678,28 +4678,28 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border X-Axis
 
 - `.border-x-2` - Border X-Axis 2rem
-- `.border-x-1.5` - Border X-Axis 0rem
+- `.border-x-1.5` - Border X-Axis 1.5rem
 - `.border-x-1` - Border X-Axis 1rem
-- `.border-x-0.9` - Border X-Axis 0rem
-- `.border-x-0.8` - Border X-Axis 0rem
-- `.border-x-0.7` - Border X-Axis 0rem
-- `.border-x-0.6` - Border X-Axis 0rem
-- `.border-x-0.5` - Border X-Axis 0rem
-- `.border-x-0.4` - Border X-Axis 0rem
-- `.border-x-0.3` - Border X-Axis 0rem
+- `.border-x-0.9` - Border X-Axis 0.9rem
+- `.border-x-0.8` - Border X-Axis 0.8rem
+- `.border-x-0.7` - Border X-Axis 0.7rem
+- `.border-x-0.6` - Border X-Axis 0.6rem
+- `.border-x-0.5` - Border X-Axis 0.5rem
+- `.border-x-0.4` - Border X-Axis 0.4rem
+- `.border-x-0.3` - Border X-Axis 0.3rem
 - `.border-x-0.2` - Border X-Axis 0.2rem
 - `.border-x-0.1` - Border X-Axis 0.1rem
 - `.border-x-0` - Border X-Axis 0rem
 - `.hover:border-x-2` - Border X-Axis 2rem on hover
-- `.hover:border-x-1.5` - Border X-Axis 0rem on hover
+- `.hover:border-x-1.5` - Border X-Axis 1.5rem on hover
 - `.hover:border-x-1` - Border X-Axis 1rem on hover
-- `.hover:border-x-0.9` - Border X-Axis 0rem on hover
-- `.hover:border-x-0.8` - Border X-Axis 0rem on hover
-- `.hover:border-x-0.7` - Border X-Axis 0rem on hover
-- `.hover:border-x-0.6` - Border X-Axis 0rem on hover
-- `.hover:border-x-0.5` - Border X-Axis 0rem on hover
-- `.hover:border-x-0.4` - Border X-Axis 0rem on hover
-- `.hover:border-x-0.3` - Border X-Axis 0rem on hover
+- `.hover:border-x-0.9` - Border X-Axis 0.9rem on hover
+- `.hover:border-x-0.8` - Border X-Axis 0.8rem on hover
+- `.hover:border-x-0.7` - Border X-Axis 0.7rem on hover
+- `.hover:border-x-0.6` - Border X-Axis 0.6rem on hover
+- `.hover:border-x-0.5` - Border X-Axis 0.5rem on hover
+- `.hover:border-x-0.4` - Border X-Axis 0.4rem on hover
+- `.hover:border-x-0.3` - Border X-Axis 0.3rem on hover
 - `.hover:border-x-0.2` - Border X-Axis 0.2rem on hover
 - `.hover:border-x-0.1` - Border X-Axis 0.1rem on hover
 - `.hover:border-x-0` - Border X-Axis 0rem on hover
@@ -4707,28 +4707,28 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Y-Axis
 
 - `.border-y-2` - Border Y-Axis 2rem
-- `.border-y-1.5` - Border Y-Axis 0rem
+- `.border-y-1.5` - Border Y-Axis 1.5rem
 - `.border-y-1` - Border Y-Axis 1rem
-- `.border-y-0.9` - Border Y-Axis 0rem
-- `.border-y-0.8` - Border Y-Axis 0rem
-- `.border-y-0.7` - Border Y-Axis 0rem
-- `.border-y-0.6` - Border Y-Axis 0rem
+- `.border-y-0.9` - Border Y-Axis 0.9rem
+- `.border-y-0.8` - Border Y-Axis 0.8rem
+- `.border-y-0.7` - Border Y-Axis 0.7rem
+- `.border-y-0.6` - Border Y-Axis 0.6rem
 - `.border-y-0.5` - Border Y-Axis 0.5rem
-- `.border-y-0.4` - Border Y-Axis 0rem
-- `.border-y-0.3` - Border Y-Axis 0rem
+- `.border-y-0.4` - Border Y-Axis 0.4rem
+- `.border-y-0.3` - Border Y-Axis 0.3rem
 - `.border-y-0.2` - Border Y-Axis 0.2rem
 - `.border-y-0.1` - Border Y-Axis 0.1rem
 - `.border-y-0` - Border Y-Axis 0rem
 - `.hover:border-y-2` - Border Y-Axis 2rem on hover
-- `.hover:border-y-1.5` - Border Y-Axis 0rem on hover
+- `.hover:border-y-1.5` - Border Y-Axis 1.5rem on hover
 - `.hover:border-y-1` - Border Y-Axis 1rem on hover
-- `.hover:border-y-0.9` - Border Y-Axis 0rem on hover
-- `.hover:border-y-0.8` - Border Y-Axis 0rem on hover
-- `.hover:border-y-0.7` - Border Y-Axis 0rem on hover
-- `.hover:border-y-0.6` - Border Y-Axis 0rem on hover
-- `.hover:border-y-0.5` - Border Y-Axis 0rem on hover
-- `.hover:border-y-0.4` - Border Y-Axis 0rem on hover
-- `.hover:border-y-0.3` - Border Y-Axis 0rem on hover
+- `.hover:border-y-0.9` - Border Y-Axis 0.9rem on hover
+- `.hover:border-y-0.8` - Border Y-Axis 0.8rem on hover
+- `.hover:border-y-0.7` - Border Y-Axis 0.7rem on hover
+- `.hover:border-y-0.6` - Border Y-Axis 0.6rem on hover
+- `.hover:border-y-0.5` - Border Y-Axis 0.5rem on hover
+- `.hover:border-y-0.4` - Border Y-Axis 0.4rem on hover
+- `.hover:border-y-0.3` - Border Y-Axis 0.3rem on hover
 - `.hover:border-y-0.2` - Border Y-Axis 0.2rem on hover
 - `.hover:border-y-0.1` - Border Y-Axis 0.1rem on hover
 - `.hover:border-y-0` - Border Y-Axis 0rem on hover
@@ -4738,40 +4738,40 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Radius All
 
 - `.hover:rounded-5` - Border Radius All 5rem on hover
-- `.hover:rounded-4.5` - Border Radius All 0rem on hover
+- `.hover:rounded-4.5` - Border Radius All 4.5rem on hover
 - `.hover:rounded-4` - Border Radius All 4rem on hover
-- `.hover:rounded-3.5` - Border Radius All 0rem on hover
+- `.hover:rounded-3.5` - Border Radius All 3.5rem on hover
 - `.hover:rounded-3` - Border Radius All 3rem on hover
-- `.hover:rounded-2.5` - Border Radius All 0rem on hover
+- `.hover:rounded-2.5` - Border Radius All 2.5rem on hover
 - `.hover:rounded-2` - Border Radius All 2rem on hover
-- `.hover:rounded-1.5` - Border Radius All 0rem on hover
+- `.hover:rounded-1.5` - Border Radius All 1.5rem on hover
 - `.hover:rounded-1` - Border Radius All 1rem on hover
-- `.hover:rounded-0.9` - Border Radius All 0rem on hover
-- `.hover:rounded-0.8` - Border Radius All 0rem on hover
-- `.hover:rounded-0.7` - Border Radius All 0rem on hover
-- `.hover:rounded-0.6` - Border Radius All 0rem on hover
-- `.hover:rounded-0.5` - Border Radius All 0rem on hover
-- `.hover:rounded-0.4` - Border Radius All 0rem on hover
-- `.hover:rounded-0.3` - Border Radius All 0rem on hover
+- `.hover:rounded-0.9` - Border Radius All 0.9rem on hover
+- `.hover:rounded-0.8` - Border Radius All 0.8rem on hover
+- `.hover:rounded-0.7` - Border Radius All 0.7rem on hover
+- `.hover:rounded-0.6` - Border Radius All 0.6rem on hover
+- `.hover:rounded-0.5` - Border Radius All 0.5rem on hover
+- `.hover:rounded-0.4` - Border Radius All 0.4rem on hover
+- `.hover:rounded-0.3` - Border Radius All 0.3rem on hover
 - `.hover:rounded-0.2` - Border Radius All 0.2rem on hover
 - `.hover:rounded-0.1` - Border Radius All 0.1rem on hover
 - `.hover:rounded-0` - Border Radius All 0rem on hover
 - `.rounded-5` - Border Radius All 5rem
-- `.rounded-4.5` - Border Radius All 0rem
+- `.rounded-4.5` - Border Radius All 4.5rem
 - `.rounded-4` - Border Radius All 4rem
-- `.rounded-3.5` - Border Radius All 0rem
+- `.rounded-3.5` - Border Radius All 3.5rem
 - `.rounded-3` - Border Radius All 3rem
-- `.rounded-2.5` - Border Radius All 0rem
+- `.rounded-2.5` - Border Radius All 2.5rem
 - `.rounded-2` - Border Radius All 2rem
-- `.rounded-1.5` - Border Radius All 0rem
+- `.rounded-1.5` - Border Radius All 1.5rem
 - `.rounded-1` - Border Radius All 1rem
-- `.rounded-0.9` - Border Radius All 0rem
-- `.rounded-0.8` - Border Radius All 0rem
-- `.rounded-0.7` - Border Radius All 0rem
-- `.rounded-0.6` - Border Radius All 0rem
-- `.rounded-0.5` - Border Radius All 0rem
-- `.rounded-0.4` - Border Radius All 0rem
-- `.rounded-0.3` - Border Radius All 0rem
+- `.rounded-0.9` - Border Radius All 0.9rem
+- `.rounded-0.8` - Border Radius All 0.8rem
+- `.rounded-0.7` - Border Radius All 0.7rem
+- `.rounded-0.6` - Border Radius All 0.6rem
+- `.rounded-0.5` - Border Radius All 0.5rem
+- `.rounded-0.4` - Border Radius All 0.4rem
+- `.rounded-0.3` - Border Radius All 0.3rem
 - `.rounded-0.2` - Border Radius All 0.2rem
 - `.rounded-0.1` - Border Radius All 0.1rem
 - `.rounded-0` - Border Radius All 0rem
@@ -4779,24 +4779,24 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Radius Bottom Left
 
 - `.hover:rounded-bl-5` - Border Radius Bottom Left 5rem on hover
-- `.hover:rounded-bl-4.5` - Border Radius Bottom Left 0rem on hover
+- `.hover:rounded-bl-4.5` - Border Radius Bottom Left 4.5rem on hover
 - `.hover:rounded-bl-4` - Border Radius Bottom Left 4rem on hover
-- `.hover:rounded-bl-3.5` - Border Radius Bottom Left 0rem on hover
+- `.hover:rounded-bl-3.5` - Border Radius Bottom Left 3.5rem on hover
 - `.hover:rounded-bl-3` - Border Radius Bottom Left 3rem on hover
-- `.hover:rounded-bl-2.5` - Border Radius Bottom Left 0rem on hover
+- `.hover:rounded-bl-2.5` - Border Radius Bottom Left 2.5rem on hover
 - `.hover:rounded-bl-2` - Border Radius Bottom Left 2rem on hover
-- `.hover:rounded-bl-1.5` - Border Radius Bottom Left 0rem on hover
+- `.hover:rounded-bl-1.5` - Border Radius Bottom Left 1.5rem on hover
 - `.hover:rounded-bl-1` - Border Radius Bottom Left 1rem on hover
 - `.hover:rounded-bl-0.5` - Border Radius Bottom Left 0.5rem on hover
 - `.hover:rounded-bl-0` - Border Radius Bottom Left 0rem on hover
 - `.rounded-bl-5` - Border Radius Bottom Left 5rem
-- `.rounded-bl-4.5` - Border Radius Bottom Left 0rem
+- `.rounded-bl-4.5` - Border Radius Bottom Left 4.5rem
 - `.rounded-bl-4` - Border Radius Bottom Left 4rem
-- `.rounded-bl-3.5` - Border Radius Bottom Left 0rem
+- `.rounded-bl-3.5` - Border Radius Bottom Left 3.5rem
 - `.rounded-bl-3` - Border Radius Bottom Left 3rem
-- `.rounded-bl-2.5` - Border Radius Bottom Left 0rem
+- `.rounded-bl-2.5` - Border Radius Bottom Left 2.5rem
 - `.rounded-bl-2` - Border Radius Bottom Left 2rem
-- `.rounded-bl-1.5` - Border Radius Bottom Left 0rem
+- `.rounded-bl-1.5` - Border Radius Bottom Left 1.5rem
 - `.rounded-bl-1` - Border Radius Bottom Left 1rem
 - `.rounded-bl-0.5` - Border Radius Bottom Left 0.5rem
 - `.rounded-bl-0` - Border Radius Bottom Left 0rem
@@ -4804,24 +4804,24 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Radius Bottom Right
 
 - `.hover:rounded-br-5` - Border Radius Bottom Right 5rem on hover
-- `.hover:rounded-br-4.5` - Border Radius Bottom Right 0rem on hover
+- `.hover:rounded-br-4.5` - Border Radius Bottom Right 4.5rem on hover
 - `.hover:rounded-br-4` - Border Radius Bottom Right 4rem on hover
-- `.hover:rounded-br-3.5` - Border Radius Bottom Right 0rem on hover
+- `.hover:rounded-br-3.5` - Border Radius Bottom Right 3.5rem on hover
 - `.hover:rounded-br-3` - Border Radius Bottom Right 3rem on hover
-- `.hover:rounded-br-2.5` - Border Radius Bottom Right 0rem on hover
+- `.hover:rounded-br-2.5` - Border Radius Bottom Right 2.5rem on hover
 - `.hover:rounded-br-2` - Border Radius Bottom Right 2rem on hover
-- `.hover:rounded-br-1.5` - Border Radius Bottom Right 0rem on hover
+- `.hover:rounded-br-1.5` - Border Radius Bottom Right 1.5rem on hover
 - `.hover:rounded-br-1` - Border Radius Bottom Right 1rem on hover
 - `.hover:rounded-br-0.5` - Border Radius Bottom Right 0.5rem on hover
 - `.hover:rounded-br-0` - Border Radius Bottom Right 0rem on hover
 - `.rounded-br-5` - Border Radius Bottom Right 5rem
-- `.rounded-br-4.5` - Border Radius Bottom Right 0rem
+- `.rounded-br-4.5` - Border Radius Bottom Right 4.5rem
 - `.rounded-br-4` - Border Radius Bottom Right 4rem
-- `.rounded-br-3.5` - Border Radius Bottom Right 0rem
+- `.rounded-br-3.5` - Border Radius Bottom Right 3.5rem
 - `.rounded-br-3` - Border Radius Bottom Right 3rem
-- `.rounded-br-2.5` - Border Radius Bottom Right 0rem
+- `.rounded-br-2.5` - Border Radius Bottom Right 2.5rem
 - `.rounded-br-2` - Border Radius Bottom Right 2rem
-- `.rounded-br-1.5` - Border Radius Bottom Right 0rem
+- `.rounded-br-1.5` - Border Radius Bottom Right 1.5rem
 - `.rounded-br-1` - Border Radius Bottom Right 1rem
 - `.rounded-br-0.5` - Border Radius Bottom Right 0.5rem
 - `.rounded-br-0` - Border Radius Bottom Right 0rem
@@ -4829,24 +4829,24 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Radius Top Left
 
 - `.hover:rounded-tl-5` - Border Radius Top Left 5rem on hover
-- `.hover:rounded-tl-4.5` - Border Radius Top Left 0rem on hover
+- `.hover:rounded-tl-4.5` - Border Radius Top Left 4.5rem on hover
 - `.hover:rounded-tl-4` - Border Radius Top Left 4rem on hover
-- `.hover:rounded-tl-3.5` - Border Radius Top Left 0rem on hover
+- `.hover:rounded-tl-3.5` - Border Radius Top Left 3.5rem on hover
 - `.hover:rounded-tl-3` - Border Radius Top Left 3rem on hover
-- `.hover:rounded-tl-2.5` - Border Radius Top Left 0rem on hover
+- `.hover:rounded-tl-2.5` - Border Radius Top Left 2.5rem on hover
 - `.hover:rounded-tl-2` - Border Radius Top Left 2rem on hover
-- `.hover:rounded-tl-1.5` - Border Radius Top Left 0rem on hover
+- `.hover:rounded-tl-1.5` - Border Radius Top Left 1.5rem on hover
 - `.hover:rounded-tl-1` - Border Radius Top Left 1rem on hover
 - `.hover:rounded-tl-0.5` - Border Radius Top Left 0.5rem on hover
 - `.hover:rounded-tl-0` - Border Radius Top Left 0rem on hover
 - `.rounded-tl-5` - Border Radius Top Left 5rem
-- `.rounded-tl-4.5` - Border Radius Top Left 0rem
+- `.rounded-tl-4.5` - Border Radius Top Left 4.5rem
 - `.rounded-tl-4` - Border Radius Top Left 4rem
-- `.rounded-tl-3.5` - Border Radius Top Left 0rem
+- `.rounded-tl-3.5` - Border Radius Top Left 3.5rem
 - `.rounded-tl-3` - Border Radius Top Left 3rem
-- `.rounded-tl-2.5` - Border Radius Top Left 0rem
+- `.rounded-tl-2.5` - Border Radius Top Left 2.5rem
 - `.rounded-tl-2` - Border Radius Top Left 2rem
-- `.rounded-tl-1.5` - Border Radius Top Left 0rem
+- `.rounded-tl-1.5` - Border Radius Top Left 1.5rem
 - `.rounded-tl-1` - Border Radius Top Left 1rem
 - `.rounded-tl-0.5` - Border Radius Top Left 0.5rem
 - `.rounded-tl-0` - Border Radius Top Left 0rem
@@ -4854,24 +4854,24 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 #### Border Radius Top Right
 
 - `.hover:rounded-tr-5` - Border Radius Top Right 5rem on hover
-- `.hover:rounded-tr-4.5` - Border Radius Top Right 0rem on hover
+- `.hover:rounded-tr-4.5` - Border Radius Top Right 4.5rem on hover
 - `.hover:rounded-tr-4` - Border Radius Top Right 4rem on hover
-- `.hover:rounded-tr-3.5` - Border Radius Top Right 0rem on hover
+- `.hover:rounded-tr-3.5` - Border Radius Top Right 3.5rem on hover
 - `.hover:rounded-tr-3` - Border Radius Top Right 3rem on hover
-- `.hover:rounded-tr-2.5` - Border Radius Top Right 0rem on hover
+- `.hover:rounded-tr-2.5` - Border Radius Top Right 2.5rem on hover
 - `.hover:rounded-tr-2` - Border Radius Top Right 2rem on hover
-- `.hover:rounded-tr-1.5` - Border Radius Top Right 0rem on hover
+- `.hover:rounded-tr-1.5` - Border Radius Top Right 1.5rem on hover
 - `.hover:rounded-tr-1` - Border Radius Top Right 1rem on hover
 - `.hover:rounded-tr-0.5` - Border Radius Top Right 0.5rem on hover
 - `.hover:rounded-tr-0` - Border Radius Top Right 0rem on hover
 - `.rounded-tr-5` - Border Radius Top Right 5rem
-- `.rounded-tr-4.5` - Border Radius Top Right 0rem
+- `.rounded-tr-4.5` - Border Radius Top Right 4.5rem
 - `.rounded-tr-4` - Border Radius Top Right 4rem
-- `.rounded-tr-3.5` - Border Radius Top Right 0rem
+- `.rounded-tr-3.5` - Border Radius Top Right 3.5rem
 - `.rounded-tr-3` - Border Radius Top Right 3rem
-- `.rounded-tr-2.5` - Border Radius Top Right 0rem
+- `.rounded-tr-2.5` - Border Radius Top Right 2.5rem
 - `.rounded-tr-2` - Border Radius Top Right 2rem
-- `.rounded-tr-1.5` - Border Radius Top Right 0rem
+- `.rounded-tr-1.5` - Border Radius Top Right 1.5rem
 - `.rounded-tr-1` - Border Radius Top Right 1rem
 - `.rounded-tr-0.5` - Border Radius Top Right 0.5rem
 - `.rounded-tr-0` - Border Radius Top Right 0rem
@@ -5206,14 +5206,14 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:translate-x-50` - Translate X-Axis 50% on hover
 - `.hover:translate-x-25` - Translate X-Axis 25% on hover
 - `.hover:translate-x-2` - Translate X-Axis 2rem on hover
-- `.hover:translate-x-1.5` - Translate X-Axis 0rem on hover
+- `.hover:translate-x-1.5` - Translate X-Axis 1.5rem on hover
 - `.hover:translate-x-1` - Translate X-Axis 1rem on hover
 - `.hover:translate-x-0.5` - Translate X-Axis 0.5rem on hover
 - `.hover:translate-x-0` - Translate X-Axis 0rem on hover
 - `.translate-x-50` - Translate X-Axis 50%
 - `.translate-x-25` - Translate X-Axis 25%
 - `.translate-x-2` - Translate X-Axis 2rem
-- `.translate-x-1.5` - Translate X-Axis 0rem
+- `.translate-x-1.5` - Translate X-Axis 1.5rem
 - `.translate-x-1` - Translate X-Axis 1rem
 - `.translate-x-0.5` - Translate X-Axis 0.5rem
 - `.translate-x-0` - Translate X-Axis 0rem
@@ -5238,14 +5238,14 @@ It is recommended to use `bClass theme js`, `bClass theme colors`, `bClass compo
 - `.hover:translate-y-50` - Translate Y-Axis 50% on hover
 - `.hover:translate-y-25` - Translate Y-Axis 25% on hover
 - `.hover:translate-y-2` - Translate Y-Axis 2rem on hover
-- `.hover:translate-y-1.5` - Translate Y-Axis 0rem on hover
+- `.hover:translate-y-1.5` - Translate Y-Axis 1.5rem on hover
 - `.hover:translate-y-1` - Translate Y-Axis 1rem on hover
 - `.hover:translate-y-0.5` - Translate Y-Axis 0.5rem on hover
 - `.hover:translate-y-0` - Translate Y-Axis 0rem on hover
 - `.translate-y-50` - Translate Y-Axis 50%
 - `.translate-y-25` - Translate Y-Axis 25%
 - `.translate-y-2` - Translate Y-Axis 2rem
-- `.translate-y-1.5` - Translate Y-Axis 0rem
+- `.translate-y-1.5` - Translate Y-Axis 1.5rem
 - `.translate-y-1` - Translate Y-Axis 1rem
 - `.translate-y-0.5` - Translate Y-Axis 0.5rem
 - `.translate-y-0` - Translate Y-Axis 0rem

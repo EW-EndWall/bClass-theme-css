@@ -901,56 +901,56 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Gap All
 
 - `.gap-5` - Tüm 5rem boşluğu
-- `.gap-4.5` - Tüm Boşluk 0rem
+- `.gap-4.5` - Tüm Boşluk 4.5rem
 - `.gap-4` - Tüm 4rem boşluğu
-- `.gap-3.5` - Tüm Boşluk 0rem
+- `.gap-3.5` - Tüm Boşluk 3.5rem
 - `.gap-3` - Tüm 3rem boşluğu
-- `.gap-2.5` - Tüm Boşluk 0rem
+- `.gap-2.5` - Tüm Boşluk 2.5rem
 - `.gap-2` - Tüm Boşluk 2rem
-- `.gap-1.9` - Tüm Boşluk 0rem
-- `.gap-1.8` - Tüm Boşluk 0rem
-- `.gap-1.7` - Tüm Boşluk 0rem
-- `.gap-1.6` - Tüm Boşluk 0rem
-- `.gap-1.5` - Tüm Boşluk 0rem
-- `.gap-1.4` - Tüm Boşluk 0rem
-- `.gap-1.3` - Tüm Boşluk 0rem
-- `.gap-1.2` - Tüm Boşluk 0rem
-- `.gap-1.1` - Tüm Boşluk 0rem
+- `.gap-1.9` - Tüm Boşluk 1.9rem
+- `.gap-1.8` - Tüm Boşluk 1.8rem
+- `.gap-1.7` - Tüm Boşluk 1.7rem
+- `.gap-1.6` - Tüm Boşluk 1.6rem
+- `.gap-1.5` - Tüm Boşluk 1.5rem
+- `.gap-1.4` - Tüm Boşluk 1.4rem
+- `.gap-1.3` - Tüm Boşluk 1.3rem
+- `.gap-1.2` - Tüm Boşluk 1.2rem
+- `.gap-1.1` - Tüm Boşluk 1.1rem
 - `.gap-1` - Tüm Boşluk 1rem
-- `.gap-0.9` - Tüm Boşluk 0rem
-- `.gap-0.8` - Tüm Boşluk 0rem
-- `.gap-0.7` - Tüm Boşluk 0rem
-- `.gap-0.6` - Tüm Boşluk 0rem
-- `.gap-0.5` - Tüm Boşluk 0rem
-- `.gap-0.4` - Tüm Boşluk 0rem
-- `.gap-0.3` - Tüm Boşluk 0rem
+- `.gap-0.9` - Tüm Boşluk 0.9rem
+- `.gap-0.8` - Tüm Boşluk 0.8rem
+- `.gap-0.7` - Tüm Boşluk 0.7rem
+- `.gap-0.6` - Tüm Boşluk 0.6rem
+- `.gap-0.5` - Tüm Boşluk 0.5rem
+- `.gap-0.4` - Tüm Boşluk 0.4rem
+- `.gap-0.3` - Tüm Boşluk 0.3rem
 - `.gap-0.2` - Tüm Boşluk 0,2rem
 - `.gap-0.1` - Tüm Boşluk 0,1rem
 - `.gap-0` - Tüm Boşluk 0rem
 - `.hover:gap-5` - Fareyle üzerine gelindiğinde tüm Boşluk 5rem
-- `.hover:gap-4.5` - Vurguluyken Tüm 0rem'i Boşaltın
+- `.hover:gap-4.5` - Vurguluyken Tüm 4.5rem'i Boşaltın
 - `.hover:gap-4` - Fareyle üzerine gelindiğinde Tüm 4rem'deki boşluk
-- `.hover:gap-3.5` - Vurguluyken Tüm 0rem'i Boşaltın
+- `.hover:gap-3.5` - Vurguluyken Tüm 3.5rem'i Boşaltın
 - `.hover:gap-3` - Fareyle üzerine gelindiğinde Tüm 3rem'lik boşluk
-- `.hover:gap-2.5` - Vurguluyken Tüm 0rem'i Boşaltın
+- `.hover:gap-2.5` - Vurguluyken Tüm 2.5rem'i Boşaltın
 - `.hover:gap-2` - Fareyle üzerine gelindiğinde Tümü 2rem Aralığı
-- `.hover:gap-1.9` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-1.8` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-1.7` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-1.6` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-1.5` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-1.4` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-1.3` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-1.2` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-1.1` - Vurguluyken Tüm 0rem'i Boşaltın
+- `.hover:gap-1.9` - Vurguluyken Tüm 1.9rem'i Boşaltın
+- `.hover:gap-1.8` - Vurguluyken Tüm 1.8rem'i Boşaltın
+- `.hover:gap-1.7` - Vurguluyken Tüm 1.7rem'i Boşaltın
+- `.hover:gap-1.6` - Vurguluyken Tüm 1.6rem'i Boşaltın
+- `.hover:gap-1.5` - Vurguluyken Tüm 1.5rem'i Boşaltın
+- `.hover:gap-1.4` - Vurguluyken Tüm 1.4rem'i Boşaltın
+- `.hover:gap-1.3` - Vurguluyken Tüm 1.3rem'i Boşaltın
+- `.hover:gap-1.2` - Vurguluyken Tüm 1.2rem'i Boşaltın
+- `.hover:gap-1.1` - Vurguluyken Tüm 1.1rem'i Boşaltın
 - `.hover:gap-1` - Vurguluyken Tümü 1rem Aralığı
-- `.hover:gap-0.9` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-0.8` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-0.7` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-0.6` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-0.5` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-0.4` - Vurguluyken Tüm 0rem'i Boşaltın
-- `.hover:gap-0.3` - Vurguluyken Tüm 0rem'i Boşaltın
+- `.hover:gap-0.9` - Vurguluyken Tüm 0.9rem'i Boşaltın
+- `.hover:gap-0.8` - Vurguluyken Tüm 0.8rem'i Boşaltın
+- `.hover:gap-0.7` - Vurguluyken Tüm 0.7rem'i Boşaltın
+- `.hover:gap-0.6` - Vurguluyken Tüm 0.6rem'i Boşaltın
+- `.hover:gap-0.5` - Vurguluyken Tüm 0.5rem'i Boşaltın
+- `.hover:gap-0.4` - Vurguluyken Tüm 0.4rem'i Boşaltın
+- `.hover:gap-0.3` - Vurguluyken Tüm 0.3rem'i Boşaltın
 - `.hover:gap-0.2` - Fareyle üzerine gelindiğinde Tüm Boşluk 0,2rem
 - `.hover:gap-0.1` - Fareyle üzerine gelindiğinde Tüm Boşluk 0,1rem
 - `.hover:gap-0` - Vurguluyken Tüm 0rem'i Boşaltın
@@ -958,56 +958,56 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Gap X-Axis
 
 - `.gap-x-5` - Boşluk X Ekseni 5rem
-- `.gap-x-4.5` - Boşluk X Ekseni 0rem
+- `.gap-x-4.5` - Boşluk X Ekseni 4.5rem
 - `.gap-x-4` - Boşluk X Ekseni 4rem
-- `.gap-x-3.5` - Boşluk X Ekseni 0rem
+- `.gap-x-3.5` - Boşluk X Ekseni 3.5rem
 - `.gap-x-3` - Boşluk X Ekseni 3rem
-- `.gap-x-2.5` - Boşluk X Ekseni 0rem
+- `.gap-x-2.5` - Boşluk X Ekseni 2.5rem
 - `.gap-x-2` - Boşluk X Ekseni 2rem
-- `.gap-x-1.9` - Boşluk X Ekseni 0rem
-- `.gap-x-1.8` - Boşluk X Ekseni 0rem
-- `.gap-x-1.7` - Boşluk X Ekseni 0rem
-- `.gap-x-1.6` - Boşluk X Ekseni 0rem
-- `.gap-x-1.5` - Boşluk X Ekseni 0rem
-- `.gap-x-1.4` - Boşluk X Ekseni 0rem
-- `.gap-x-1.3` - Boşluk X Ekseni 0rem
-- `.gap-x-1.2` - Boşluk X Ekseni 0rem
-- `.gap-x-1.1` - Boşluk X Ekseni 0rem
+- `.gap-x-1.9` - Boşluk X Ekseni 1.9rem
+- `.gap-x-1.8` - Boşluk X Ekseni 1.8rem
+- `.gap-x-1.7` - Boşluk X Ekseni 1.7rem
+- `.gap-x-1.6` - Boşluk X Ekseni 1.6rem
+- `.gap-x-1.5` - Boşluk X Ekseni 1.5rem
+- `.gap-x-1.4` - Boşluk X Ekseni 1.4rem
+- `.gap-x-1.3` - Boşluk X Ekseni 1.3rem
+- `.gap-x-1.2` - Boşluk X Ekseni 1.2rem
+- `.gap-x-1.1` - Boşluk X Ekseni 1.1rem
 - `.gap-x-1` - Boşluk X Ekseni 1rem
-- `.gap-x-0.9` - Boşluk X Ekseni 0rem
-- `.gap-x-0.8` - Boşluk X Ekseni 0rem
-- `.gap-x-0.7` - Boşluk X Ekseni 0rem
-- `.gap-x-0.6` - Boşluk X Ekseni 0rem
-- `.gap-x-0.5` - Boşluk X Ekseni 0rem
-- `.gap-x-0.4` - Boşluk X Ekseni 0rem
-- `.gap-x-0.3` - Boşluk X Ekseni 0rem
+- `.gap-x-0.9` - Boşluk X Ekseni 0.9rem
+- `.gap-x-0.8` - Boşluk X Ekseni 0.8rem
+- `.gap-x-0.7` - Boşluk X Ekseni 0.7rem
+- `.gap-x-0.6` - Boşluk X Ekseni 0.6rem
+- `.gap-x-0.5` - Boşluk X Ekseni 0.5rem
+- `.gap-x-0.4` - Boşluk X Ekseni 0.4rem
+- `.gap-x-0.3` - Boşluk X Ekseni 0.3rem
 - `.gap-x-0.2` - Boşluk X Ekseni 0,2rem
 - `.gap-x-0.1` - Boşluk X Ekseni 0,1rem
 - `.gap-x-0` - Boşluk X Ekseni 0rem
 - `.hover:gap-x-5` - Fareyle üzerine gelindiğinde X Ekseni Gap 5rem
-- `.hover:gap-x-4.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
+- `.hover:gap-x-4.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 4.5rem
 - `.hover:gap-x-4` - Vurguluyken Gap X Ekseni 4rem
-- `.hover:gap-x-3.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
+- `.hover:gap-x-3.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 3.5rem
 - `.hover:gap-x-3` - Fareyle üzerine gelindiğinde X Ekseni Gap 3rem
-- `.hover:gap-x-2.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
+- `.hover:gap-x-2.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 2.5rem
 - `.hover:gap-x-2` - Fareyle üzerine gelindiğinde X Ekseni Gap 2rem
-- `.hover:gap-x-1.9` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-1.8` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-1.7` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-1.6` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-1.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-1.4` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-1.3` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-1.2` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-1.1` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
+- `.hover:gap-x-1.9` - Fareyle üzerine gelindiğinde X Ekseni Gap 1.9rem
+- `.hover:gap-x-1.8` - Fareyle üzerine gelindiğinde X Ekseni Gap 1.8rem
+- `.hover:gap-x-1.7` - Fareyle üzerine gelindiğinde X Ekseni Gap 1.7rem
+- `.hover:gap-x-1.6` - Fareyle üzerine gelindiğinde X Ekseni Gap 1.6rem
+- `.hover:gap-x-1.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 1.5rem
+- `.hover:gap-x-1.4` - Fareyle üzerine gelindiğinde X Ekseni Gap 1.4rem
+- `.hover:gap-x-1.3` - Fareyle üzerine gelindiğinde X Ekseni Gap 1.3rem
+- `.hover:gap-x-1.2` - Fareyle üzerine gelindiğinde X Ekseni Gap 1.2rem
+- `.hover:gap-x-1.1` - Fareyle üzerine gelindiğinde X Ekseni Gap 1.1rem
 - `.hover:gap-x-1` - Fareyle üzerine gelindiğinde X Ekseni 1rem boşluğu
-- `.hover:gap-x-0.9` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-0.8` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-0.7` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-0.6` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-0.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-0.4` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
-- `.hover:gap-x-0.3` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
+- `.hover:gap-x-0.9` - Fareyle üzerine gelindiğinde X Ekseni Gap 0.9rem
+- `.hover:gap-x-0.8` - Fareyle üzerine gelindiğinde X Ekseni Gap 0.8rem
+- `.hover:gap-x-0.7` - Fareyle üzerine gelindiğinde X Ekseni Gap 0.7rem
+- `.hover:gap-x-0.6` - Fareyle üzerine gelindiğinde X Ekseni Gap 0.6rem
+- `.hover:gap-x-0.5` - Fareyle üzerine gelindiğinde X Ekseni Gap 0.5rem
+- `.hover:gap-x-0.4` - Fareyle üzerine gelindiğinde X Ekseni Gap 0.4rem
+- `.hover:gap-x-0.3` - Fareyle üzerine gelindiğinde X Ekseni Gap 0.3rem
 - `.hover:gap-x-0.2` - Fareyle üzerine gelindiğinde X Ekseni Gap 0,2rem
 - `.hover:gap-x-0.1` - Fareyle üzerine gelindiğinde X Ekseni Gap 0,1rem
 - `.hover:gap-x-0` - Fareyle üzerine gelindiğinde X Ekseni Gap 0rem
@@ -1015,56 +1015,56 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Gap Y-Axis
 
 - `.gap-y-5` - Boşluk Y Ekseni 5rem
-- `.gap-y-4.5` - Boşluk Y Ekseni 0rem
+- `.gap-y-4.5` - Boşluk Y Ekseni 4.5rem
 - `.gap-y-4` - Boşluk Y Ekseni 4rem
-- `.gap-y-3.5` - Boşluk Y Ekseni 0rem
+- `.gap-y-3.5` - Boşluk Y Ekseni 3.5rem
 - `.gap-y-3` - Boşluk Y Ekseni 3rem
-- `.gap-y-2.5` - Boşluk Y Ekseni 0rem
+- `.gap-y-2.5` - Boşluk Y Ekseni 2.5rem
 - `.gap-y-2` - Boşluk Y Ekseni 2rem
-- `.gap-y-1.9` - Boşluk Y Ekseni 0rem
-- `.gap-y-1.8` - Boşluk Y Ekseni 0rem
-- `.gap-y-1.7` - Boşluk Y Ekseni 0rem
-- `.gap-y-1.6` - Boşluk Y Ekseni 0rem
-- `.gap-y-1.5` - Boşluk Y Ekseni 0rem
-- `.gap-y-1.4` - Boşluk Y Ekseni 0rem
-- `.gap-y-1.3` - Boşluk Y Ekseni 0rem
-- `.gap-y-1.2` - Boşluk Y Ekseni 0rem
-- `.gap-y-1.1` - Boşluk Y Ekseni 0rem
+- `.gap-y-1.9` - Boşluk Y Ekseni 1.9rem
+- `.gap-y-1.8` - Boşluk Y Ekseni 1.8rem
+- `.gap-y-1.7` - Boşluk Y Ekseni 1.7rem
+- `.gap-y-1.6` - Boşluk Y Ekseni 1.6rem
+- `.gap-y-1.5` - Boşluk Y Ekseni 1.5rem
+- `.gap-y-1.4` - Boşluk Y Ekseni 1.4rem
+- `.gap-y-1.3` - Boşluk Y Ekseni 1.3rem
+- `.gap-y-1.2` - Boşluk Y Ekseni 1.2rem
+- `.gap-y-1.1` - Boşluk Y Ekseni 1.1rem
 - `.gap-y-1` - Boşluk Y Ekseni 1rem
-- `.gap-y-0.9` - Boşluk Y Ekseni 0rem
-- `.gap-y-0.8` - Boşluk Y Ekseni 0rem
-- `.gap-y-0.7` - Boşluk Y Ekseni 0rem
-- `.gap-y-0.6` - Boşluk Y Ekseni 0rem
-- `.gap-y-0.5` - Boşluk Y Ekseni 0rem
-- `.gap-y-0.4` - Boşluk Y Ekseni 0rem
-- `.gap-y-0.3` - Boşluk Y Ekseni 0rem
+- `.gap-y-0.9` - Boşluk Y Ekseni 0.9rem
+- `.gap-y-0.8` - Boşluk Y Ekseni 0.8rem
+- `.gap-y-0.7` - Boşluk Y Ekseni 0.7rem
+- `.gap-y-0.6` - Boşluk Y Ekseni 0.6rem
+- `.gap-y-0.5` - Boşluk Y Ekseni 0.5rem
+- `.gap-y-0.4` - Boşluk Y Ekseni 0.4rem
+- `.gap-y-0.3` - Boşluk Y Ekseni 0.3rem
 - `.gap-y-0.2` - Boşluk Y Ekseni 0,2rem
 - `.gap-y-0.1` - Boşluk Y Ekseni 0,1rem
 - `.gap-y-0` - Boşluk Y Ekseni 0rem
 - `.hover:gap-y-5` - Fareyle üzerine gelindiğinde Y Ekseni boşluğu 5rem
-- `.hover:gap-y-4.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
+- `.hover:gap-y-4.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 4.5rem
 - `.hover:gap-y-4` - Fareyle üzerine gelindiğinde Y Ekseni Gap 4rem
-- `.hover:gap-y-3.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
+- `.hover:gap-y-3.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 3.5rem
 - `.hover:gap-y-3` - Fareyle üzerine gelindiğinde Y Ekseni Gap 3rem
-- `.hover:gap-y-2.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
+- `.hover:gap-y-2.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 2.5rem
 - `.hover:gap-y-2` - Fareyle üzerine gelindiğinde Y Ekseni Gap 2rem
-- `.hover:gap-y-1.9` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-1.8` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-1.7` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-1.6` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-1.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-1.4` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-1.3` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-1.2` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-1.1` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
+- `.hover:gap-y-1.9` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 1.9rem
+- `.hover:gap-y-1.8` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 1.8rem
+- `.hover:gap-y-1.7` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 1.7rem
+- `.hover:gap-y-1.6` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 1.6rem
+- `.hover:gap-y-1.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 1.5rem
+- `.hover:gap-y-1.4` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 1.4rem
+- `.hover:gap-y-1.3` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 1.3rem
+- `.hover:gap-y-1.2` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 1.2rem
+- `.hover:gap-y-1.1` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 1.1rem
 - `.hover:gap-y-1` - Fareyle üzerine gelindiğinde Y Ekseni boşluğu 1rem
-- `.hover:gap-y-0.9` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-0.8` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-0.7` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-0.6` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-0.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-0.4` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
-- `.hover:gap-y-0.3` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
+- `.hover:gap-y-0.9` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0.9rem
+- `.hover:gap-y-0.8` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0.8rem
+- `.hover:gap-y-0.7` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0.7rem
+- `.hover:gap-y-0.6` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0.6rem
+- `.hover:gap-y-0.5` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0.5rem
+- `.hover:gap-y-0.4` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0.4rem
+- `.hover:gap-y-0.3` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0.3rem
 - `.hover:gap-y-0.2` - Vurguluyken Y Ekseni Boşluğu 0,2rem
 - `.hover:gap-y-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0,1rem
 - `.hover:gap-y-0` - Fareyle üzerine gelindiğinde Y Ekseni Boşluğu 0rem
@@ -1848,58 +1848,58 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 - `.first:m-0` - Marj Tümü ilk başta 0rem
 - `.hover:m-5` - Tüm Marj Fareyle üzerine gelindiğinde 5rem
-- `.hover:m-4.5` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:m-4.5` - Kenar Boşluğu Tümü 4.5rem fareyle üzerine gelindiğinde
 - `.hover:m-4` - Marj Tümü 4rem fareyle üzerine gelindiğinde
-- `.hover:m-3.5` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:m-3.5` - Kenar Boşluğu Tümü 3.5rem fareyle üzerine gelindiğinde
 - `.hover:m-3` - Fareyle üzerine gelindiğinde Tüm Marj 3rem
-- `.hover:m-2.5` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:m-2.5` - Kenar Boşluğu Tümü 2.5rem fareyle üzerine gelindiğinde
 - `.hover:m-2` - Fareyle üzerine gelindiğinde Tüm Marj 2rem
-- `.hover:m-1.9` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-1.8` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-1.7` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-1.6` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-1.5` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-1.4` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-1.3` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-1.2` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-1.1` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:m-1.9` - Kenar Boşluğu Tümü 1.9rem fareyle üzerine gelindiğinde
+- `.hover:m-1.8` - Kenar Boşluğu Tümü 1.8rem fareyle üzerine gelindiğinde
+- `.hover:m-1.7` - Kenar Boşluğu Tümü 1.7rem fareyle üzerine gelindiğinde
+- `.hover:m-1.6` - Kenar Boşluğu Tümü 1.6rem fareyle üzerine gelindiğinde
+- `.hover:m-1.5` - Kenar Boşluğu Tümü 1.5rem fareyle üzerine gelindiğinde
+- `.hover:m-1.4` - Kenar Boşluğu Tümü 1.4rem fareyle üzerine gelindiğinde
+- `.hover:m-1.3` - Kenar Boşluğu Tümü 1.3rem fareyle üzerine gelindiğinde
+- `.hover:m-1.2` - Kenar Boşluğu Tümü 1.2rem fareyle üzerine gelindiğinde
+- `.hover:m-1.1` - Kenar Boşluğu Tümü 1.1rem fareyle üzerine gelindiğinde
 - `.hover:m-1` - Fareyle üzerine gelindiğinde Tüm Marj 1rem
-- `.hover:m-0.9` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-0.8` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-0.7` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-0.6` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-0.5` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-0.4` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:m-0.3` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:m-0.9` - Kenar Boşluğu Tümü 0.9rem fareyle üzerine gelindiğinde
+- `.hover:m-0.8` - Kenar Boşluğu Tümü 0.8rem fareyle üzerine gelindiğinde
+- `.hover:m-0.7` - Kenar Boşluğu Tümü 0.7rem fareyle üzerine gelindiğinde
+- `.hover:m-0.6` - Kenar Boşluğu Tümü 0.6rem fareyle üzerine gelindiğinde
+- `.hover:m-0.5` - Kenar Boşluğu Tümü 0.5rem fareyle üzerine gelindiğinde
+- `.hover:m-0.4` - Kenar Boşluğu Tümü 0.4rem fareyle üzerine gelindiğinde
+- `.hover:m-0.3` - Kenar Boşluğu Tümü 0.3rem fareyle üzerine gelindiğinde
 - `.hover:m-0.2` - Fareyle üzerine gelindiğinde Tüm Marj 0,2rem
 - `.hover:m-0.1` - Tüm Marj Fareyle üzerine gelindiğinde 0,1rem
 - `.hover:m-0` - Kenar Boşluğu Tümü 0rem fareyle üzerine gelindiğinde
 - `.hover:m-auto` - Kenar Boşluğu Fareyle üzerine gelindiğinde tümü otomatik
 - `.last:m-0` - Marj Tümü 0rem sonda
 - `.m-5` - Tümü Marj 5rem
-- `.m-4.5` - Tüm Marj 0rem
+- `.m-4.5` - Tüm Marj 4.5rem
 - `.m-4` - Tüm Marj 4rem
-- `.m-3.5` - Tüm Marj 0rem
+- `.m-3.5` - Tüm Marj 3.5rem
 - `.m-3` - Tümü Marj 3rem
-- `.m-2.5` - Tüm Marj 0rem
+- `.m-2.5` - Tüm Marj 2.5rem
 - `.m-2` - Tüm Marj 2rem
-- `.m-1.9` - Tüm Marj 0rem
-- `.m-1.8` - Tüm Marj 0rem
-- `.m-1.7` - Tüm Marj 0rem
-- `.m-1.6` - Tüm Marj 0rem
-- `.m-1.5` - Tüm Marj 0rem
-- `.m-1.4` - Tüm Marj 0rem
-- `.m-1.3` - Tüm Marj 0rem
-- `.m-1.2` - Tüm Marj 0rem
-- `.m-1.1` - Tüm Marj 0rem
+- `.m-1.9` - Tüm Marj 1.9rem
+- `.m-1.8` - Tüm Marj 1.8rem
+- `.m-1.7` - Tüm Marj 1.7rem
+- `.m-1.6` - Tüm Marj 1.6rem
+- `.m-1.5` - Tüm Marj 1.5rem
+- `.m-1.4` - Tüm Marj 1.4rem
+- `.m-1.3` - Tüm Marj 1.3rem
+- `.m-1.2` - Tüm Marj 1.2rem
+- `.m-1.1` - Tüm Marj 1.1rem
 - `.m-1` - Tüm Marj 1rem
-- `.m-0.9` - Tüm Marj 0rem
-- `.m-0.8` - Tüm Marj 0rem
-- `.m-0.7` - Tüm Marj 0rem
-- `.m-0.6` - Tüm Marj 0rem
-- `.m-0.5` - Tüm Marj 0rem
-- `.m-0.4` - Tüm Marj 0rem
-- `.m-0.3` - Tüm Marj 0rem
+- `.m-0.9` - Tüm Marj 0.9rem
+- `.m-0.8` - Tüm Marj 0.8rem
+- `.m-0.7` - Tüm Marj 0.7rem
+- `.m-0.6` - Tüm Marj 0.6rem
+- `.m-0.5` - Tüm Marj 0.5rem
+- `.m-0.4` - Tüm Marj 0.4rem
+- `.m-0.3` - Tüm Marj 0.3rem
 - `.m-0.2` - Tüm Marj 0,2rem
 - `.m-0.1` - Tüm Marj 0,1rem
 - `.m-0` - Tüm Marj 0rem
@@ -1913,29 +1913,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mb-50` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt %50
 - `.hover:mb-25` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt %25
 - `.hover:mb-5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 5rem
-- `.hover:mb-4.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
+- `.hover:mb-4.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 4.5rem
 - `.hover:mb-4` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 4rem
-- `.hover:mb-3.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
+- `.hover:mb-3.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 3.5rem
 - `.hover:mb-3` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 3rem
-- `.hover:mb-2.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
+- `.hover:mb-2.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 2.5rem
 - `.hover:mb-2` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 2rem
-- `.hover:mb-1.9` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-1.8` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-1.7` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-1.6` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-1.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-1.4` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-1.3` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-1.2` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-1.1` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
+- `.hover:mb-1.9` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 1.9rem
+- `.hover:mb-1.8` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 1.8rem
+- `.hover:mb-1.7` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 1.7rem
+- `.hover:mb-1.6` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 1.6rem
+- `.hover:mb-1.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 1.5rem
+- `.hover:mb-1.4` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 1.4rem
+- `.hover:mb-1.3` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 1.3rem
+- `.hover:mb-1.2` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 1.2rem
+- `.hover:mb-1.1` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 1.1rem
 - `.hover:mb-1` - Fareyle üzerine gelindiğinde Alt Marj 1rem
-- `.hover:mb-0.9` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-0.8` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-0.7` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-0.6` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-0.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-0.4` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
-- `.hover:mb-0.3` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
+- `.hover:mb-0.9` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0.9rem
+- `.hover:mb-0.8` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0.8rem
+- `.hover:mb-0.7` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0.7rem
+- `.hover:mb-0.6` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0.6rem
+- `.hover:mb-0.5` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0.5rem
+- `.hover:mb-0.4` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0.4rem
+- `.hover:mb-0.3` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0.3rem
 - `.hover:mb-0.2` - Fareyle üzerine gelindiğinde Alt Marj 0,2rem
 - `.hover:mb-0.1` - Fareyle üzerine gelindiğinde Alt Marj 0,1rem
 - `.hover:mb-0` - Fareyle üzerine gelindiğinde Kenar Boşluğu Alt 0rem
@@ -1946,29 +1946,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mb-50` - Kenar Boşluğu Alt %50
 - `.mb-25` - Kenar Boşluğu Alt %25
 - `.mb-5` - Kenar Boşluğu Alt 5rem
-- `.mb-4.5` - Marj Alt 0rem
+- `.mb-4.5` - Marj Alt 4.5rem
 - `.mb-4` - Kenar Boşluğu Alt 4rem
-- `.mb-3.5` - Marj Alt 0rem
+- `.mb-3.5` - Marj Alt 3.5rem
 - `.mb-3` - Alt Marj 3rem
-- `.mb-2.5` - Marj Alt 0rem
+- `.mb-2.5` - Marj Alt 2.5rem
 - `.mb-2` - Alt Marj 2rem
-- `.mb-1.9` - Marj Alt 0rem
-- `.mb-1.8` - Marj Alt 0rem
-- `.mb-1.7` - Marj Alt 0rem
-- `.mb-1.6` - Marj Alt 0rem
-- `.mb-1.5` - Marj Alt 0rem
-- `.mb-1.4` - Marj Alt 0rem
-- `.mb-1.3` - Marj Alt 0rem
-- `.mb-1.2` - Marj Alt 0rem
-- `.mb-1.1` - Marj Alt 0rem
+- `.mb-1.9` - Marj Alt 1.9rem
+- `.mb-1.8` - Marj Alt 1.8rem
+- `.mb-1.7` - Marj Alt 1.7rem
+- `.mb-1.6` - Marj Alt 1.6rem
+- `.mb-1.5` - Marj Alt 1.5rem
+- `.mb-1.4` - Marj Alt 1.4rem
+- `.mb-1.3` - Marj Alt 1.3rem
+- `.mb-1.2` - Marj Alt 1.2rem
+- `.mb-1.1` - Marj Alt 1.1rem
 - `.mb-1` - Kenar Boşluğu Alt 1rem
-- `.mb-0.9` - Marj Alt 0rem
-- `.mb-0.8` - Marj Alt 0rem
-- `.mb-0.7` - Marj Alt 0rem
-- `.mb-0.6` - Marj Alt 0rem
-- `.mb-0.5` - Marj Alt 0rem
-- `.mb-0.4` - Marj Alt 0rem
-- `.mb-0.3` - Marj Alt 0rem
+- `.mb-0.9` - Marj Alt 0.9rem
+- `.mb-0.8` - Marj Alt 0.8rem
+- `.mb-0.7` - Marj Alt 0.7rem
+- `.mb-0.6` - Marj Alt 0.6rem
+- `.mb-0.5` - Marj Alt 0.5rem
+- `.mb-0.4` - Marj Alt 0.4rem
+- `.mb-0.3` - Marj Alt 0.3rem
 - `.mb-0.2` - Alt Marj 0,2rem
 - `.mb-0.1` - Alt Marj 0,1rem
 - `.mb-0` - Marj Alt 0rem
@@ -1995,29 +1995,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:ml-50` - Fareyle üzerine gelindiğinde Sol Marj %50
 - `.hover:ml-25` - Fareyle üzerine gelindiğinde Sol Marj %25
 - `.hover:ml-5` - Fareyle üzerine gelindiğinde Sol Marj 5rem
-- `.hover:ml-4.5` - Fareyle üzerine gelindiğinde Sol Marj 0rem
+- `.hover:ml-4.5` - Fareyle üzerine gelindiğinde Sol Marj 4.5rem
 - `.hover:ml-4` - Fareyle üzerine gelindiğinde Sol Marj 4rem
-- `.hover:ml-3.5` - Fareyle üzerine gelindiğinde Sol Marj 0rem
+- `.hover:ml-3.5` - Fareyle üzerine gelindiğinde Sol Marj 3.5rem
 - `.hover:ml-3` - Fareyle üzerine gelindiğinde Sol Marj 3rem
-- `.hover:ml-2.5` - Fareyle üzerine gelindiğinde Sol Marj 0rem
+- `.hover:ml-2.5` - Fareyle üzerine gelindiğinde Sol Marj 2.5rem
 - `.hover:ml-2` - Fareyle üzerine gelindiğinde Sol Kenar Boşluğu 2rem
-- `.hover:ml-1.9` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-1.8` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-1.7` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-1.6` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-1.5` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-1.4` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-1.3` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-1.2` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-1.1` - Fareyle üzerine gelindiğinde Sol Marj 0rem
+- `.hover:ml-1.9` - Fareyle üzerine gelindiğinde Sol Marj 1.9rem
+- `.hover:ml-1.8` - Fareyle üzerine gelindiğinde Sol Marj 1.8rem
+- `.hover:ml-1.7` - Fareyle üzerine gelindiğinde Sol Marj 1.7rem
+- `.hover:ml-1.6` - Fareyle üzerine gelindiğinde Sol Marj 1.6rem
+- `.hover:ml-1.5` - Fareyle üzerine gelindiğinde Sol Marj 1.5rem
+- `.hover:ml-1.4` - Fareyle üzerine gelindiğinde Sol Marj 1.4rem
+- `.hover:ml-1.3` - Fareyle üzerine gelindiğinde Sol Marj 1.3rem
+- `.hover:ml-1.2` - Fareyle üzerine gelindiğinde Sol Marj 1.2rem
+- `.hover:ml-1.1` - Fareyle üzerine gelindiğinde Sol Marj 1.1rem
 - `.hover:ml-1` - Fareyle üzerine gelindiğinde Sol Marj 1rem
-- `.hover:ml-0.9` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-0.8` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-0.7` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-0.6` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-0.5` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-0.4` - Fareyle üzerine gelindiğinde Sol Marj 0rem
-- `.hover:ml-0.3` - Fareyle üzerine gelindiğinde Sol Marj 0rem
+- `.hover:ml-0.9` - Fareyle üzerine gelindiğinde Sol Marj 0.9rem
+- `.hover:ml-0.8` - Fareyle üzerine gelindiğinde Sol Marj 0.8rem
+- `.hover:ml-0.7` - Fareyle üzerine gelindiğinde Sol Marj 0.7rem
+- `.hover:ml-0.6` - Fareyle üzerine gelindiğinde Sol Marj 0.6rem
+- `.hover:ml-0.5` - Fareyle üzerine gelindiğinde Sol Marj 0.5rem
+- `.hover:ml-0.4` - Fareyle üzerine gelindiğinde Sol Marj 0.4rem
+- `.hover:ml-0.3` - Fareyle üzerine gelindiğinde Sol Marj 0.3rem
 - `.hover:ml-0.2` - Vurguluyken Sol Marj 0,2rem
 - `.hover:ml-0.1` - Fareyle üzerine gelindiğinde Sol Marj 0,1rem
 - `.hover:ml-0` - Fareyle üzerine gelindiğinde Sol Marj 0rem
@@ -2028,29 +2028,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.ml-50` - Sol Marj %50
 - `.ml-25` - Sol Marj %25
 - `.ml-5` - Sol Kenar Boşluğu 5rem
-- `.ml-4.5` - Sol Marj 0rem
+- `.ml-4.5` - Sol Marj 4.5rem
 - `.ml-4` - Sol Marj 4rem
-- `.ml-3.5` - Sol Marj 0rem
+- `.ml-3.5` - Sol Marj 3.5rem
 - `.ml-3` - Sol Marj 3rem
-- `.ml-2.5` - Sol Marj 0rem
+- `.ml-2.5` - Sol Marj 2.5rem
 - `.ml-2` - Sol Marj 2rem
-- `.ml-1.9` - Sol Marj 0rem
-- `.ml-1.8` - Sol Marj 0rem
-- `.ml-1.7` - Sol Marj 0rem
-- `.ml-1.6` - Sol Marj 0rem
-- `.ml-1.5` - Sol Marj 0rem
-- `.ml-1.4` - Sol Marj 0rem
-- `.ml-1.3` - Sol Marj 0rem
-- `.ml-1.2` - Sol Marj 0rem
-- `.ml-1.1` - Sol Marj 0rem
+- `.ml-1.9` - Sol Marj 1.9rem
+- `.ml-1.8` - Sol Marj 1.8rem
+- `.ml-1.7` - Sol Marj 1.7rem
+- `.ml-1.6` - Sol Marj 1.6rem
+- `.ml-1.5` - Sol Marj 1.5rem
+- `.ml-1.4` - Sol Marj 1.4rem
+- `.ml-1.3` - Sol Marj 1.3rem
+- `.ml-1.2` - Sol Marj 1.2rem
+- `.ml-1.1` - Sol Marj 1.1rem
 - `.ml-1` - Sol Marj 1rem
-- `.ml-0.9` - Sol Marj 0rem
-- `.ml-0.8` - Sol Marj 0rem
-- `.ml-0.7` - Sol Marj 0rem
-- `.ml-0.6` - Sol Marj 0rem
-- `.ml-0.5` - Sol Marj 0rem
-- `.ml-0.4` - Sol Marj 0rem
-- `.ml-0.3` - Sol Marj 0rem
+- `.ml-0.9` - Sol Marj 0.9rem
+- `.ml-0.8` - Sol Marj 0.8rem
+- `.ml-0.7` - Sol Marj 0.7rem
+- `.ml-0.6` - Sol Marj 0.6rem
+- `.ml-0.5` - Sol Marj 0.5rem
+- `.ml-0.4` - Sol Marj 0.4rem
+- `.ml-0.3` - Sol Marj 0.3rem
 - `.ml-0.2` - Sol Marj 0,2rem
 - `.ml-0.1` - Sol Marj 0,1rem
 - `.ml-0` - Sol Marj 0rem
@@ -2064,29 +2064,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mr-50` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu %50
 - `.hover:mr-25` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu %25
 - `.hover:mr-5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 5rem
-- `.hover:mr-4.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
+- `.hover:mr-4.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 4.5rem
 - `.hover:mr-4` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 4rem
-- `.hover:mr-3.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
+- `.hover:mr-3.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 3.5rem
 - `.hover:mr-3` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 3rem
-- `.hover:mr-2.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
+- `.hover:mr-2.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 2.5rem
 - `.hover:mr-2` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 2rem
-- `.hover:mr-1.9` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-1.8` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-1.7` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-1.6` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-1.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-1.4` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-1.3` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-1.2` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-1.1` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
+- `.hover:mr-1.9` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1.9rem
+- `.hover:mr-1.8` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1.8rem
+- `.hover:mr-1.7` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1.7rem
+- `.hover:mr-1.6` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1.6rem
+- `.hover:mr-1.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1.5rem
+- `.hover:mr-1.4` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1.4rem
+- `.hover:mr-1.3` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1.3rem
+- `.hover:mr-1.2` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1.2rem
+- `.hover:mr-1.1` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1.1rem
 - `.hover:mr-1` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 1rem
-- `.hover:mr-0.9` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-0.8` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-0.7` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-0.6` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-0.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-0.4` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
-- `.hover:mr-0.3` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
+- `.hover:mr-0.9` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0.9rem
+- `.hover:mr-0.8` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0.8rem
+- `.hover:mr-0.7` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0.7rem
+- `.hover:mr-0.6` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0.6rem
+- `.hover:mr-0.5` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0.5rem
+- `.hover:mr-0.4` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0.4rem
+- `.hover:mr-0.3` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0.3rem
 - `.hover:mr-0.2` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0,2rem
 - `.hover:mr-0.1` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0,1rem
 - `.hover:mr-0` - Fareyle üzerine gelindiğinde Sağ Kenar Boşluğu 0rem
@@ -2097,29 +2097,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mr-50` - Sağ Kenar Boşluğu %50
 - `.mr-25` - Sağ Kenar Boşluğu %25
 - `.mr-5` - Sağ Kenar Boşluğu 5rem
-- `.mr-4.5` - Sağ Kenar Boşluğu 0rem
+- `.mr-4.5` - Sağ Kenar Boşluğu 4.5rem
 - `.mr-4` - Sağ Kenar Boşluğu 4rem
-- `.mr-3.5` - Sağ Kenar Boşluğu 0rem
+- `.mr-3.5` - Sağ Kenar Boşluğu 3.5rem
 - `.mr-3` - Sağ Kenar Boşluğu 3rem
-- `.mr-2.5` - Sağ Kenar Boşluğu 0rem
+- `.mr-2.5` - Sağ Kenar Boşluğu 2.5rem
 - `.mr-2` - Sağ Kenar Boşluğu 2rem
-- `.mr-1.9` - Sağ Kenar Boşluğu 0rem
-- `.mr-1.8` - Sağ Kenar Boşluğu 0rem
-- `.mr-1.7` - Sağ Kenar Boşluğu 0rem
-- `.mr-1.6` - Sağ Kenar Boşluğu 0rem
-- `.mr-1.5` - Sağ Kenar Boşluğu 0rem
-- `.mr-1.4` - Sağ Kenar Boşluğu 0rem
-- `.mr-1.3` - Sağ Kenar Boşluğu 0rem
-- `.mr-1.2` - Sağ Kenar Boşluğu 0rem
-- `.mr-1.1` - Sağ Kenar Boşluğu 0rem
+- `.mr-1.9` - Sağ Kenar Boşluğu 1.9rem
+- `.mr-1.8` - Sağ Kenar Boşluğu 1.8rem
+- `.mr-1.7` - Sağ Kenar Boşluğu 1.7rem
+- `.mr-1.6` - Sağ Kenar Boşluğu 1.6rem
+- `.mr-1.5` - Sağ Kenar Boşluğu 1.5rem
+- `.mr-1.4` - Sağ Kenar Boşluğu 1.4rem
+- `.mr-1.3` - Sağ Kenar Boşluğu 1.3rem
+- `.mr-1.2` - Sağ Kenar Boşluğu 1.2rem
+- `.mr-1.1` - Sağ Kenar Boşluğu 1.1rem
 - `.mr-1` - Sağ Kenar Boşluğu 1rem
-- `.mr-0.9` - Sağ Kenar Boşluğu 0rem
-- `.mr-0.8` - Sağ Kenar Boşluğu 0rem
-- `.mr-0.7` - Sağ Kenar Boşluğu 0rem
-- `.mr-0.6` - Sağ Kenar Boşluğu 0rem
-- `.mr-0.5` - Sağ Kenar Boşluğu 0rem
-- `.mr-0.4` - Sağ Kenar Boşluğu 0rem
-- `.mr-0.3` - Sağ Kenar Boşluğu 0rem
+- `.mr-0.9` - Sağ Kenar Boşluğu 0.9rem
+- `.mr-0.8` - Sağ Kenar Boşluğu 0.8rem
+- `.mr-0.7` - Sağ Kenar Boşluğu 0.7rem
+- `.mr-0.6` - Sağ Kenar Boşluğu 0.6rem
+- `.mr-0.5` - Sağ Kenar Boşluğu 0.5rem
+- `.mr-0.4` - Sağ Kenar Boşluğu 0.4rem
+- `.mr-0.3` - Sağ Kenar Boşluğu 0.3rem
 - `.mr-0.2` - Sağ Kenar Boşluğu 0,2rem
 - `.mr-0.1` - Sağ Kenar Boşluğu 0,1rem
 - `.mr-0` - Sağ Kenar Boşluğu 0rem
@@ -2146,29 +2146,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mt-50` - Fareyle üzerine gelindiğinde marj Üst %50
 - `.hover:mt-25` - Fareyle üzerine gelindiğinde marj Üst %25
 - `.hover:mt-5` - Fareyle üzerine gelindiğinde marj Üst 5rem
-- `.hover:mt-4.5` - Fareyle üzerine gelindiğinde Marj Üst 0rem
+- `.hover:mt-4.5` - Fareyle üzerine gelindiğinde Marj Üst 4.5rem
 - `.hover:mt-4` - Fareyle üzerine gelindiğinde marj Üst 4rem
-- `.hover:mt-3.5` - Fareyle üzerine gelindiğinde Marj Üst 0rem
+- `.hover:mt-3.5` - Fareyle üzerine gelindiğinde Marj Üst 3.5rem
 - `.hover:mt-3` - Fareyle üzerine gelindiğinde marj Üst 3rem
-- `.hover:mt-2.5` - Fareyle üzerine gelindiğinde Marj Üst 0rem
+- `.hover:mt-2.5` - Fareyle üzerine gelindiğinde Marj Üst 2.5rem
 - `.hover:mt-2` - Fareyle üzerine gelindiğinde Marj Üst 2rem
-- `.hover:mt-1.9` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-1.8` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-1.7` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-1.6` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-1.5` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-1.4` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-1.3` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-1.2` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-1.1` - Fareyle üzerine gelindiğinde Marj Üst 0rem
+- `.hover:mt-1.9` - Fareyle üzerine gelindiğinde Marj Üst 1.9rem
+- `.hover:mt-1.8` - Fareyle üzerine gelindiğinde Marj Üst 1.8rem
+- `.hover:mt-1.7` - Fareyle üzerine gelindiğinde Marj Üst 1.7rem
+- `.hover:mt-1.6` - Fareyle üzerine gelindiğinde Marj Üst 1.6rem
+- `.hover:mt-1.5` - Fareyle üzerine gelindiğinde Marj Üst 1.5rem
+- `.hover:mt-1.4` - Fareyle üzerine gelindiğinde Marj Üst 1.4rem
+- `.hover:mt-1.3` - Fareyle üzerine gelindiğinde Marj Üst 1.3rem
+- `.hover:mt-1.2` - Fareyle üzerine gelindiğinde Marj Üst 1.2rem
+- `.hover:mt-1.1` - Fareyle üzerine gelindiğinde Marj Üst 1.1rem
 - `.hover:mt-1` - Fareyle üzerine gelindiğinde Marj Üst 1rem
-- `.hover:mt-0.9` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-0.8` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-0.7` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-0.6` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-0.5` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-0.4` - Fareyle üzerine gelindiğinde Marj Üst 0rem
-- `.hover:mt-0.3` - Fareyle üzerine gelindiğinde Marj Üst 0rem
+- `.hover:mt-0.9` - Fareyle üzerine gelindiğinde Marj Üst 0.9rem
+- `.hover:mt-0.8` - Fareyle üzerine gelindiğinde Marj Üst 0.8rem
+- `.hover:mt-0.7` - Fareyle üzerine gelindiğinde Marj Üst 0.7rem
+- `.hover:mt-0.6` - Fareyle üzerine gelindiğinde Marj Üst 0.6rem
+- `.hover:mt-0.5` - Fareyle üzerine gelindiğinde Marj Üst 0.5rem
+- `.hover:mt-0.4` - Fareyle üzerine gelindiğinde Marj Üst 0.4rem
+- `.hover:mt-0.3` - Fareyle üzerine gelindiğinde Marj Üst 0.3rem
 - `.hover:mt-0.2` - Fareyle üzerine gelindiğinde Marj Üst 0,2rem
 - `.hover:mt-0.1` - Fareyle üzerine gelindiğinde Marj Üst 0,1rem
 - `.hover:mt-0` - Fareyle üzerine gelindiğinde Marj Üst 0rem
@@ -2179,29 +2179,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mt-50` - Marj Üst %50
 - `.mt-25` - Marj Üst %25
 - `.mt-5` - Marj Üst 5rem
-- `.mt-4.5` - Marj Üst 0rem
+- `.mt-4.5` - Marj Üst 4.5rem
 - `.mt-4` - Marj Üst 4rem
-- `.mt-3.5` - Marj Üst 0rem
+- `.mt-3.5` - Marj Üst 3.5rem
 - `.mt-3` - Marj Üst 3rem
-- `.mt-2.5` - Marj Üst 0rem
+- `.mt-2.5` - Marj Üst 2.5rem
 - `.mt-2` - Marj Üst 2rem
-- `.mt-1.9` - Marj Üst 0rem
-- `.mt-1.8` - Marj Üst 0rem
-- `.mt-1.7` - Marj Üst 0rem
-- `.mt-1.6` - Marj Üst 0rem
-- `.mt-1.5` - Marj Üst 0rem
-- `.mt-1.4` - Marj Üst 0rem
-- `.mt-1.3` - Marj Üst 0rem
-- `.mt-1.2` - Marj Üst 0rem
-- `.mt-1.1` - Marj Üst 0rem
+- `.mt-1.9` - Marj Üst 1.9rem
+- `.mt-1.8` - Marj Üst 1.8rem
+- `.mt-1.7` - Marj Üst 1.7rem
+- `.mt-1.6` - Marj Üst 1.6rem
+- `.mt-1.5` - Marj Üst 1.5rem
+- `.mt-1.4` - Marj Üst 1.4rem
+- `.mt-1.3` - Marj Üst 1.3rem
+- `.mt-1.2` - Marj Üst 1.2rem
+- `.mt-1.1` - Marj Üst 1.1rem
 - `.mt-1` - Marj Üst 1rem
-- `.mt-0.9` - Marj Üst 0rem
-- `.mt-0.8` - Marj Üst 0rem
-- `.mt-0.7` - Marj Üst 0rem
-- `.mt-0.6` - Marj Üst 0rem
-- `.mt-0.5` - Marj Üst 0rem
-- `.mt-0.4` - Marj Üst 0rem
-- `.mt-0.3` - Marj Üst 0rem
+- `.mt-0.9` - Marj Üst 0.9rem
+- `.mt-0.8` - Marj Üst 0.8rem
+- `.mt-0.7` - Marj Üst 0.7rem
+- `.mt-0.6` - Marj Üst 0.6rem
+- `.mt-0.5` - Marj Üst 0.5rem
+- `.mt-0.4` - Marj Üst 0.4rem
+- `.mt-0.3` - Marj Üst 0.3rem
 - `.mt-0.2` - Marj Üst 0,2rem
 - `.mt-0.1` - Marj Üst 0,1rem
 - `.mt-0` - Marj Üst 0rem
@@ -2214,29 +2214,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:mx-50` - Fareyle üzerine gelindiğinde X Ekseni Marjı %50
 - `.hover:mx-25` - Fareyle üzerine gelindiğinde X Ekseni Marjı %25
 - `.hover:mx-5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 5rem
-- `.hover:mx-4.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
+- `.hover:mx-4.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 4.5rem
 - `.hover:mx-4` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 4rem
-- `.hover:mx-3.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
+- `.hover:mx-3.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 3.5rem
 - `.hover:mx-3` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 3rem
-- `.hover:mx-2.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
+- `.hover:mx-2.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 2.5rem
 - `.hover:mx-2` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 2rem
-- `.hover:mx-1.9` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-1.8` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-1.7` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-1.6` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-1.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-1.4` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-1.3` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-1.2` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-1.1` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
+- `.hover:mx-1.9` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1.9rem
+- `.hover:mx-1.8` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1.8rem
+- `.hover:mx-1.7` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1.7rem
+- `.hover:mx-1.6` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1.6rem
+- `.hover:mx-1.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1.5rem
+- `.hover:mx-1.4` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1.4rem
+- `.hover:mx-1.3` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1.3rem
+- `.hover:mx-1.2` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1.2rem
+- `.hover:mx-1.1` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1.1rem
 - `.hover:mx-1` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 1rem
-- `.hover:mx-0.9` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-0.8` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-0.7` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-0.6` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-0.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-0.4` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
-- `.hover:mx-0.3` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
+- `.hover:mx-0.9` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0.9rem
+- `.hover:mx-0.8` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0.8rem
+- `.hover:mx-0.7` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0.7rem
+- `.hover:mx-0.6` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0.6rem
+- `.hover:mx-0.5` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0.5rem
+- `.hover:mx-0.4` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0.4rem
+- `.hover:mx-0.3` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0.3rem
 - `.hover:mx-0.2` - Fareyle üzerine gelindiğinde X Ekseni Marjı 0,2rem
 - `.hover:mx-0.1` - Fareyle üzerine gelindiğinde X Ekseni Marjı 0,1rem
 - `.hover:mx-0` - Fareyle üzerine gelindiğinde X Ekseni Kenar Boşluğu 0rem
@@ -2246,29 +2246,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.mx-50` - Marj X Ekseni %50
 - `.mx-25` - Marj X Ekseni %25
 - `.mx-5` - Marj X Ekseni 5rem
-- `.mx-4.5` - Marj X Ekseni 0rem
+- `.mx-4.5` - Marj X Ekseni 4.5rem
 - `.mx-4` - Marj X Ekseni 4rem
-- `.mx-3.5` - Marj X Ekseni 0rem
+- `.mx-3.5` - Marj X Ekseni 3.5rem
 - `.mx-3` - Marj X Ekseni 3rem
-- `.mx-2.5` - Marj X Ekseni 0rem
+- `.mx-2.5` - Marj X Ekseni 2.5rem
 - `.mx-2` - Marj X Ekseni 2rem
-- `.mx-1.9` - Marj X Ekseni 0rem
-- `.mx-1.8` - Marj X Ekseni 0rem
-- `.mx-1.7` - Marj X Ekseni 0rem
-- `.mx-1.6` - Marj X Ekseni 0rem
-- `.mx-1.5` - Marj X Ekseni 0rem
-- `.mx-1.4` - Marj X Ekseni 0rem
-- `.mx-1.3` - Marj X Ekseni 0rem
-- `.mx-1.2` - Marj X Ekseni 0rem
-- `.mx-1.1` - Marj X Ekseni 0rem
+- `.mx-1.9` - Marj X Ekseni 1.9rem
+- `.mx-1.8` - Marj X Ekseni 1.8rem
+- `.mx-1.7` - Marj X Ekseni 1.7rem
+- `.mx-1.6` - Marj X Ekseni 1.6rem
+- `.mx-1.5` - Marj X Ekseni 1.5rem
+- `.mx-1.4` - Marj X Ekseni 1.4rem
+- `.mx-1.3` - Marj X Ekseni 1.3rem
+- `.mx-1.2` - Marj X Ekseni 1.2rem
+- `.mx-1.1` - Marj X Ekseni 1.1rem
 - `.mx-1` - Marj X Ekseni 1rem
-- `.mx-0.9` - Marj X Ekseni 0rem
-- `.mx-0.8` - Marj X Ekseni 0rem
-- `.mx-0.7` - Marj X Ekseni 0rem
-- `.mx-0.6` - Marj X Ekseni 0rem
-- `.mx-0.5` - Marj X Ekseni 0rem
-- `.mx-0.4` - Marj X Ekseni 0rem
-- `.mx-0.3` - Marj X Ekseni 0rem
+- `.mx-0.9` - Marj X Ekseni 0.9rem
+- `.mx-0.8` - Marj X Ekseni 0.8rem
+- `.mx-0.7` - Marj X Ekseni 0.7rem
+- `.mx-0.6` - Marj X Ekseni 0.6rem
+- `.mx-0.5` - Marj X Ekseni 0.5rem
+- `.mx-0.4` - Marj X Ekseni 0.4rem
+- `.mx-0.3` - Marj X Ekseni 0.3rem
 - `.mx-0.2` - Marj X Ekseni 0,2rem
 - `.mx-0.1` - Marj X Ekseni 0,1rem
 - `.mx-0` - Marj X Ekseni 0rem
@@ -2281,29 +2281,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:my-50` - Fareyle üzerine gelindiğinde Y Ekseni Marjı %50
 - `.hover:my-25` - Fareyle üzerine gelindiğinde Y Ekseni Marjı %25
 - `.hover:my-5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 5rem
-- `.hover:my-4.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
+- `.hover:my-4.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 4.5rem
 - `.hover:my-4` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 4rem
-- `.hover:my-3.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
+- `.hover:my-3.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 3.5rem
 - `.hover:my-3` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 3rem
-- `.hover:my-2.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
+- `.hover:my-2.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 2.5rem
 - `.hover:my-2` - Fareyle üzerine gelindiğinde Y Ekseni Kenar Boşluğu 2rem
-- `.hover:my-1.9` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-1.8` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-1.7` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-1.6` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-1.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-1.4` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-1.3` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-1.2` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-1.1` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
+- `.hover:my-1.9` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1.9rem
+- `.hover:my-1.8` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1.8rem
+- `.hover:my-1.7` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1.7rem
+- `.hover:my-1.6` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1.6rem
+- `.hover:my-1.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1.5rem
+- `.hover:my-1.4` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1.4rem
+- `.hover:my-1.3` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1.3rem
+- `.hover:my-1.2` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1.2rem
+- `.hover:my-1.1` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1.1rem
 - `.hover:my-1` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 1rem
-- `.hover:my-0.9` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-0.8` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-0.7` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-0.6` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-0.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-0.4` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
-- `.hover:my-0.3` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
+- `.hover:my-0.9` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0.9rem
+- `.hover:my-0.8` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0.8rem
+- `.hover:my-0.7` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0.7rem
+- `.hover:my-0.6` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0.6rem
+- `.hover:my-0.5` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0.5rem
+- `.hover:my-0.4` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0.4rem
+- `.hover:my-0.3` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0.3rem
 - `.hover:my-0.2` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0,2rem
 - `.hover:my-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0,1rem
 - `.hover:my-0` - Fareyle üzerine gelindiğinde Y Ekseni Marjı 0rem
@@ -2313,29 +2313,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.my-50` - Marj Y Ekseni %50
 - `.my-25` - Marj Y Ekseni %25
 - `.my-5` - Marj Y Ekseni 5rem
-- `.my-4.5` - Marj Y Ekseni 0rem
+- `.my-4.5` - Marj Y Ekseni 4.5rem
 - `.my-4` - Marj Y Ekseni 4rem
-- `.my-3.5` - Marj Y Ekseni 0rem
+- `.my-3.5` - Marj Y Ekseni 3.5rem
 - `.my-3` - Marj Y Ekseni 3rem
-- `.my-2.5` - Marj Y Ekseni 0rem
+- `.my-2.5` - Marj Y Ekseni 2.5rem
 - `.my-2` - Marj Y Ekseni 2rem
-- `.my-1.9` - Marj Y Ekseni 0rem
-- `.my-1.8` - Marj Y Ekseni 0rem
-- `.my-1.7` - Marj Y Ekseni 0rem
-- `.my-1.6` - Marj Y Ekseni 0rem
-- `.my-1.5` - Marj Y Ekseni 0rem
-- `.my-1.4` - Marj Y Ekseni 0rem
-- `.my-1.3` - Marj Y Ekseni 0rem
-- `.my-1.2` - Marj Y Ekseni 0rem
-- `.my-1.1` - Marj Y Ekseni 0rem
+- `.my-1.9` - Marj Y Ekseni 1.9rem
+- `.my-1.8` - Marj Y Ekseni 1.8rem
+- `.my-1.7` - Marj Y Ekseni 1.7rem
+- `.my-1.6` - Marj Y Ekseni 1.6rem
+- `.my-1.5` - Marj Y Ekseni 1.5rem
+- `.my-1.4` - Marj Y Ekseni 1.4rem
+- `.my-1.3` - Marj Y Ekseni 1.3rem
+- `.my-1.2` - Marj Y Ekseni 1.2rem
+- `.my-1.1` - Marj Y Ekseni 1.1rem
 - `.my-1` - Marj Y Ekseni 1rem
-- `.my-0.9` - Marj Y Ekseni 0rem
-- `.my-0.8` - Marj Y Ekseni 0rem
-- `.my-0.7` - Marj Y Ekseni 0rem
-- `.my-0.6` - Marj Y Ekseni 0rem
-- `.my-0.5` - Marj Y Ekseni 0rem
-- `.my-0.4` - Marj Y Ekseni 0rem
-- `.my-0.3` - Marj Y Ekseni 0rem
+- `.my-0.9` - Marj Y Ekseni 0.9rem
+- `.my-0.8` - Marj Y Ekseni 0.8rem
+- `.my-0.7` - Marj Y Ekseni 0.7rem
+- `.my-0.6` - Marj Y Ekseni 0.6rem
+- `.my-0.5` - Marj Y Ekseni 0.5rem
+- `.my-0.4` - Marj Y Ekseni 0.4rem
+- `.my-0.3` - Marj Y Ekseni 0.3rem
 - `.my-0.2` - Marj Y Ekseni 0,2rem
 - `.my-0.1` - Y Ekseni Marjı 0,1rem
 - `.my-0` - Marj Y Ekseni 0rem
@@ -2347,57 +2347,57 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 - `.first:p-0` - İlk önce tüm 0rem'i doldurma
 - `.hover:p-5` - Vurguluyken tüm 5rem'i doldurma
-- `.hover:p-4.5` - Vurguluyken tüm 0rem'i doldurma
+- `.hover:p-4.5` - Vurguluyken tüm 4.5rem'i doldurma
 - `.hover:p-4` - Vurguluyken tüm 4rem'i doldurma
-- `.hover:p-3.5` - Vurguluyken tüm 0rem'i doldurma
+- `.hover:p-3.5` - Vurguluyken tüm 3.5rem'i doldurma
 - `.hover:p-3` - Vurguluyken tüm 3rem'i doldurma
-- `.hover:p-2.5` - Vurguluyken tüm 0rem'i doldurma
+- `.hover:p-2.5` - Vurguluyken tüm 2.5rem'i doldurma
 - `.hover:p-2` - Vurguluyken tüm 2rem'i doldurma
-- `.hover:p-1.9` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-1.8` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-1.7` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-1.6` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-1.5` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-1.4` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-1.3` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-1.2` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-1.1` - Vurguluyken tüm 0rem'i doldurma
+- `.hover:p-1.9` - Vurguluyken tüm 1.9rem'i doldurma
+- `.hover:p-1.8` - Vurguluyken tüm 1.8rem'i doldurma
+- `.hover:p-1.7` - Vurguluyken tüm 1.7rem'i doldurma
+- `.hover:p-1.6` - Vurguluyken tüm 1.6rem'i doldurma
+- `.hover:p-1.5` - Vurguluyken tüm 1.5rem'i doldurma
+- `.hover:p-1.4` - Vurguluyken tüm 1.4rem'i doldurma
+- `.hover:p-1.3` - Vurguluyken tüm 1.3rem'i doldurma
+- `.hover:p-1.2` - Vurguluyken tüm 1.2rem'i doldurma
+- `.hover:p-1.1` - Vurguluyken tüm 1.1rem'i doldurma
 - `.hover:p-1` - Vurguluyken tüm 1rem'i doldurma
-- `.hover:p-0.9` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-0.8` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-0.7` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-0.6` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-0.5` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-0.4` - Vurguluyken tüm 0rem'i doldurma
-- `.hover:p-0.3` - Vurguluyken tüm 0rem'i doldurma
+- `.hover:p-0.9` - Vurguluyken tüm 0.9rem'i doldurma
+- `.hover:p-0.8` - Vurguluyken tüm 0.8rem'i doldurma
+- `.hover:p-0.7` - Vurguluyken tüm 0.7rem'i doldurma
+- `.hover:p-0.6` - Vurguluyken tüm 0.6rem'i doldurma
+- `.hover:p-0.5` - Vurguluyken tüm 0.5rem'i doldurma
+- `.hover:p-0.4` - Vurguluyken tüm 0.4rem'i doldurma
+- `.hover:p-0.3` - Vurguluyken tüm 0.3rem'i doldurma
 - `.hover:p-0.2` - Vurguluyken tümü 0,2rem dolgulu
 - `.hover:p-0.1` - Vurguluyken tümü 0,1rem dolgulu
 - `.hover:p-0` - Vurguluyken tüm 0rem'i doldurma
 - `.last:p-0` - Tüm 0rem'i en sonda doldurma
 - `.p-5` - Dolgu Tümü 5rem
-- `.p-4.5` - Dolgu Tümü 0rem
+- `.p-4.5` - Dolgu Tümü 4.5rem
 - `.p-4` - Tümü 4rem'i doldurma
-- `.p-3.5` - Dolgu Tümü 0rem
+- `.p-3.5` - Dolgu Tümü 3.5rem
 - `.p-3` - Dolgu Tümü 3rem
-- `.p-2.5` - Dolgu Tümü 0rem
+- `.p-2.5` - Dolgu Tümü 2.5rem
 - `.p-2` - Dolgu Tümü 2rem
-- `.p-1.9` - Dolgu Tümü 0rem
-- `.p-1.8` - Dolgu Tümü 0rem
-- `.p-1.7` - Dolgu Tümü 0rem
-- `.p-1.6` - Dolgu Tümü 0rem
-- `.p-1.5` - Dolgu Tümü 0rem
-- `.p-1.4` - Dolgu Tümü 0rem
-- `.p-1.3` - Dolgu Tümü 0rem
-- `.p-1.2` - Dolgu Tümü 0rem
-- `.p-1.1` - Dolgu Tümü 0rem
+- `.p-1.9` - Dolgu Tümü 1.9rem
+- `.p-1.8` - Dolgu Tümü 1.8rem
+- `.p-1.7` - Dolgu Tümü 1.7rem
+- `.p-1.6` - Dolgu Tümü 1.6rem
+- `.p-1.5` - Dolgu Tümü 1.5rem
+- `.p-1.4` - Dolgu Tümü 1.4rem
+- `.p-1.3` - Dolgu Tümü 1.3rem
+- `.p-1.2` - Dolgu Tümü 1.2rem
+- `.p-1.1` - Dolgu Tümü 1.1rem
 - `.p-1` - Dolgu Tümü 1rem
-- `.p-0.9` - Dolgu Tümü 0rem
-- `.p-0.8` - Dolgu Tümü 0rem
-- `.p-0.7` - Dolgu Tümü 0rem
-- `.p-0.6` - Dolgu Tümü 0rem
-- `.p-0.5` - Dolgu Tümü 0rem
-- `.p-0.4` - Dolgu Tümü 0rem
-- `.p-0.3` - Dolgu Tümü 0rem
+- `.p-0.9` - Dolgu Tümü 0.9rem
+- `.p-0.8` - Dolgu Tümü 0.8rem
+- `.p-0.7` - Dolgu Tümü 0.7rem
+- `.p-0.6` - Dolgu Tümü 0.6rem
+- `.p-0.5` - Dolgu Tümü 0.5rem
+- `.p-0.4` - Dolgu Tümü 0.4rem
+- `.p-0.3` - Dolgu Tümü 0.3rem
 - `.p-0.2` - Dolgu Tümü 0.2rem
 - `.p-0.1` - Dolgu Tümü 0.1rem
 - `.p-0` - Dolgu Tümü 0rem
@@ -2410,29 +2410,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pb-50` - Vurguluyken Alttan %50 Dolgu
 - `.hover:pb-25` - Vurguluyken Alttan %25 Dolgu
 - `.hover:pb-5` - Vurguluyken Alttan 5rem Dolgu
-- `.hover:pb-4.5` - Vurguluyken Alttan 0rem Dolgu
+- `.hover:pb-4.5` - Vurguluyken Alttan 4.5rem Dolgu
 - `.hover:pb-4` - Vurguluyken Alttan 4rem Dolgu
-- `.hover:pb-3.5` - Vurguluyken Alttan 0rem Dolgu
+- `.hover:pb-3.5` - Vurguluyken Alttan 3.5rem Dolgu
 - `.hover:pb-3` - Vurguluyken Alttan 3rem Dolgu
-- `.hover:pb-2.5` - Vurguluyken Alttan 0rem Dolgu
+- `.hover:pb-2.5` - Vurguluyken Alttan 2.5rem Dolgu
 - `.hover:pb-2` - Vurguluyken Alttan 2rem Dolgu
-- `.hover:pb-1.9` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-1.8` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-1.7` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-1.6` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-1.5` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-1.4` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-1.3` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-1.2` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-1.1` - Vurguluyken Alttan 0rem Dolgu
+- `.hover:pb-1.9` - Vurguluyken Alttan 1.9rem Dolgu
+- `.hover:pb-1.8` - Vurguluyken Alttan 1.8rem Dolgu
+- `.hover:pb-1.7` - Vurguluyken Alttan 1.7rem Dolgu
+- `.hover:pb-1.6` - Vurguluyken Alttan 1.6rem Dolgu
+- `.hover:pb-1.5` - Vurguluyken Alttan 1.5rem Dolgu
+- `.hover:pb-1.4` - Vurguluyken Alttan 1.4rem Dolgu
+- `.hover:pb-1.3` - Vurguluyken Alttan 1.3rem Dolgu
+- `.hover:pb-1.2` - Vurguluyken Alttan 1.2rem Dolgu
+- `.hover:pb-1.1` - Vurguluyken Alttan 1.1rem Dolgu
 - `.hover:pb-1` - Vurguluyken Alttan 1rem Dolgu
-- `.hover:pb-0.9` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-0.8` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-0.7` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-0.6` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-0.5` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-0.4` - Vurguluyken Alttan 0rem Dolgu
-- `.hover:pb-0.3` - Vurguluyken Alttan 0rem Dolgu
+- `.hover:pb-0.9` - Vurguluyken Alttan 0.9rem Dolgu
+- `.hover:pb-0.8` - Vurguluyken Alttan 0.8rem Dolgu
+- `.hover:pb-0.7` - Vurguluyken Alttan 0.7rem Dolgu
+- `.hover:pb-0.6` - Vurguluyken Alttan 0.6rem Dolgu
+- `.hover:pb-0.5` - Vurguluyken Alttan 0.5rem Dolgu
+- `.hover:pb-0.4` - Vurguluyken Alttan 0.4rem Dolgu
+- `.hover:pb-0.3` - Vurguluyken Alttan 0.3rem Dolgu
 - `.hover:pb-0.2` - Vurguluyken Alt Dolgu 0,2rem
 - `.hover:pb-0.1` - Vurguluyken Alt Dolgu 0,1rem
 - `.hover:pb-0` - Vurguluyken Alttan 0rem Dolgu
@@ -2442,29 +2442,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pb-50` - Dolgu Alt %50
 - `.pb-25` - Dolgu Alt %25
 - `.pb-5` - Dolgu Alt 5rem
-- `.pb-4.5` - Alt Dolgu 0rem
+- `.pb-4.5` - Alt Dolgu 4.5rem
 - `.pb-4` - Dolgu Alt 4rem
-- `.pb-3.5` - Alt Dolgu 0rem
+- `.pb-3.5` - Alt Dolgu 3.5rem
 - `.pb-3` - Dolgu Alt 3rem
-- `.pb-2.5` - Alt Dolgu 0rem
+- `.pb-2.5` - Alt Dolgu 2.5rem
 - `.pb-2` - Dolgu Alt 2rem
-- `.pb-1.9` - Alt Dolgu 0rem
-- `.pb-1.8` - Alt Dolgu 0rem
-- `.pb-1.7` - Alt Dolgu 0rem
-- `.pb-1.6` - Alt Dolgu 0rem
-- `.pb-1.5` - Alt Dolgu 0rem
-- `.pb-1.4` - Alt Dolgu 0rem
-- `.pb-1.3` - Alt Dolgu 0rem
-- `.pb-1.2` - Alt Dolgu 0rem
-- `.pb-1.1` - Alt Dolgu 0rem
+- `.pb-1.9` - Alt Dolgu 1.9rem
+- `.pb-1.8` - Alt Dolgu 1.8rem
+- `.pb-1.7` - Alt Dolgu 1.7rem
+- `.pb-1.6` - Alt Dolgu 1.6rem
+- `.pb-1.5` - Alt Dolgu 1.5rem
+- `.pb-1.4` - Alt Dolgu 1.4rem
+- `.pb-1.3` - Alt Dolgu 1.3rem
+- `.pb-1.2` - Alt Dolgu 1.2rem
+- `.pb-1.1` - Alt Dolgu 1.1rem
 - `.pb-1` - Dolgu Alt 1rem
-- `.pb-0.9` - Alt Dolgu 0rem
-- `.pb-0.8` - Alt Dolgu 0rem
-- `.pb-0.7` - Alt Dolgu 0rem
-- `.pb-0.6` - Alt Dolgu 0rem
-- `.pb-0.5` - Alt Dolgu 0rem
-- `.pb-0.4` - Alt Dolgu 0rem
-- `.pb-0.3` - Alt Dolgu 0rem
+- `.pb-0.9` - Alt Dolgu 0.9rem
+- `.pb-0.8` - Alt Dolgu 0.8rem
+- `.pb-0.7` - Alt Dolgu 0.7rem
+- `.pb-0.6` - Alt Dolgu 0.6rem
+- `.pb-0.5` - Alt Dolgu 0.5rem
+- `.pb-0.4` - Alt Dolgu 0.4rem
+- `.pb-0.3` - Alt Dolgu 0.3rem
 - `.pb-0.2` - Alt Dolgu 0,2rem
 - `.pb-0.1` - Alt Dolgu 0,1rem
 - `.pb-0` - Alt Dolgu 0rem
@@ -2473,57 +2473,57 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 
 - `.first:pl-0` - Dolgu İlk önce 0rem sola
 - `.hover:pl-5` - Vurguluyken 5rem sola dolgu
-- `.hover:pl-4.5` - Vurguluyken 0rem Sol Dolgu
+- `.hover:pl-4.5` - Vurguluyken 4.5rem Sol Dolgu
 - `.hover:pl-4` - Vurguluyken Sol 4rem Dolgu
-- `.hover:pl-3.5` - Vurguluyken 0rem Sol Dolgu
+- `.hover:pl-3.5` - Vurguluyken 3.5rem Sol Dolgu
 - `.hover:pl-3` - Vurguluyken 3rem Sol Dolgu
-- `.hover:pl-2.5` - Vurguluyken 0rem Sol Dolgu
+- `.hover:pl-2.5` - Vurguluyken 2.5rem Sol Dolgu
 - `.hover:pl-2` - Vurguluyken 2rem Sol Dolgu
-- `.hover:pl-1.9` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-1.8` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-1.7` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-1.6` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-1.5` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-1.4` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-1.3` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-1.2` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-1.1` - Vurguluyken 0rem Sol Dolgu
+- `.hover:pl-1.9` - Vurguluyken 1.9rem Sol Dolgu
+- `.hover:pl-1.8` - Vurguluyken 1.8rem Sol Dolgu
+- `.hover:pl-1.7` - Vurguluyken 1.7rem Sol Dolgu
+- `.hover:pl-1.6` - Vurguluyken 1.6rem Sol Dolgu
+- `.hover:pl-1.5` - Vurguluyken 1.5rem Sol Dolgu
+- `.hover:pl-1.4` - Vurguluyken 1.4rem Sol Dolgu
+- `.hover:pl-1.3` - Vurguluyken 1.3rem Sol Dolgu
+- `.hover:pl-1.2` - Vurguluyken 1.2rem Sol Dolgu
+- `.hover:pl-1.1` - Vurguluyken 1.1rem Sol Dolgu
 - `.hover:pl-1` - Vurguluyken 1rem sola dolgu
-- `.hover:pl-0.9` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-0.8` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-0.7` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-0.6` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-0.5` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-0.4` - Vurguluyken 0rem Sol Dolgu
-- `.hover:pl-0.3` - Vurguluyken 0rem Sol Dolgu
+- `.hover:pl-0.9` - Vurguluyken 0.9rem Sol Dolgu
+- `.hover:pl-0.8` - Vurguluyken 0.8rem Sol Dolgu
+- `.hover:pl-0.7` - Vurguluyken 0.7rem Sol Dolgu
+- `.hover:pl-0.6` - Vurguluyken 0.6rem Sol Dolgu
+- `.hover:pl-0.5` - Vurguluyken 0.5rem Sol Dolgu
+- `.hover:pl-0.4` - Vurguluyken 0.4rem Sol Dolgu
+- `.hover:pl-0.3` - Vurguluyken 0.3rem Sol Dolgu
 - `.hover:pl-0.2` - Vurguluyken Sol 0,2rem Dolgu
 - `.hover:pl-0.1` - Vurguluyken 0,1rem Sol Dolgu
 - `.hover:pl-0` - Vurguluyken 0rem Sol Dolgu
 - `.last:pl-0` - Dolgu Sola 0rem sonda
 - `.pl-5` - Sol 5rem Dolgu
-- `.pl-4.5` - Dolgu Sol 0rem
+- `.pl-4.5` - Dolgu Sol 4.5rem
 - `.pl-4` - Dolgu Sol 4rem
-- `.pl-3.5` - Dolgu Sol 0rem
+- `.pl-3.5` - Dolgu Sol 3.5rem
 - `.pl-3` - Dolgu Sol 3rem
-- `.pl-2.5` - Dolgu Sol 0rem
+- `.pl-2.5` - Dolgu Sol 2.5rem
 - `.pl-2` - Dolgu Sol 2rem
-- `.pl-1.9` - Dolgu Sol 0rem
-- `.pl-1.8` - Dolgu Sol 0rem
-- `.pl-1.7` - Dolgu Sol 0rem
-- `.pl-1.6` - Dolgu Sol 0rem
-- `.pl-1.5` - Dolgu Sol 0rem
-- `.pl-1.4` - Dolgu Sol 0rem
-- `.pl-1.3` - Dolgu Sol 0rem
-- `.pl-1.2` - Dolgu Sol 0rem
-- `.pl-1.1` - Dolgu Sol 0rem
+- `.pl-1.9` - Dolgu Sol 1.9rem
+- `.pl-1.8` - Dolgu Sol 1.8rem
+- `.pl-1.7` - Dolgu Sol 1.7rem
+- `.pl-1.6` - Dolgu Sol 1.6rem
+- `.pl-1.5` - Dolgu Sol 1.5rem
+- `.pl-1.4` - Dolgu Sol 1.4rem
+- `.pl-1.3` - Dolgu Sol 1.3rem
+- `.pl-1.2` - Dolgu Sol 1.2rem
+- `.pl-1.1` - Dolgu Sol 1.1rem
 - `.pl-1` - Sol 1rem dolgu
-- `.pl-0.9` - Dolgu Sol 0rem
-- `.pl-0.8` - Dolgu Sol 0rem
-- `.pl-0.7` - Dolgu Sol 0rem
-- `.pl-0.6` - Dolgu Sol 0rem
-- `.pl-0.5` - Dolgu Sol 0rem
-- `.pl-0.4` - Dolgu Sol 0rem
-- `.pl-0.3` - Dolgu Sol 0rem
+- `.pl-0.9` - Dolgu Sol 0.9rem
+- `.pl-0.8` - Dolgu Sol 0.8rem
+- `.pl-0.7` - Dolgu Sol 0.7rem
+- `.pl-0.6` - Dolgu Sol 0.6rem
+- `.pl-0.5` - Dolgu Sol 0.5rem
+- `.pl-0.4` - Dolgu Sol 0.4rem
+- `.pl-0.3` - Dolgu Sol 0.3rem
 - `.pl-0.2` - Dolgu Sol 0,2rem
 - `.pl-0.1` - Dolgu Sol 0,1rem
 - `.pl-0` - Dolgu Sol 0rem
@@ -2536,29 +2536,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pr-50` - Vurguluyken Sağa %50 Dolgu
 - `.hover:pr-25` - Vurguluyken Sağa %25 Dolgu
 - `.hover:pr-5` - Vurguluyken Sağa 5rem Dolgu
-- `.hover:pr-4.5` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
+- `.hover:pr-4.5` - Fareyle üzerine gelindiğinde Sağa 4.5rem Dolgu
 - `.hover:pr-4` - Fareyle üzerine gelindiğinde Sağa 4rem Dolgu
-- `.hover:pr-3.5` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
+- `.hover:pr-3.5` - Fareyle üzerine gelindiğinde Sağa 3.5rem Dolgu
 - `.hover:pr-3` - Vurguluyken Sağa 3rem Dolgu
-- `.hover:pr-2.5` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
+- `.hover:pr-2.5` - Fareyle üzerine gelindiğinde Sağa 2.5rem Dolgu
 - `.hover:pr-2` - Fareyle üzerine gelindiğinde Sağa 2rem Dolgu
-- `.hover:pr-1.9` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-1.8` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-1.7` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-1.6` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-1.5` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-1.4` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-1.3` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-1.2` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-1.1` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
+- `.hover:pr-1.9` - Fareyle üzerine gelindiğinde Sağa 1.9rem Dolgu
+- `.hover:pr-1.8` - Fareyle üzerine gelindiğinde Sağa 1.8rem Dolgu
+- `.hover:pr-1.7` - Fareyle üzerine gelindiğinde Sağa 1.7rem Dolgu
+- `.hover:pr-1.6` - Fareyle üzerine gelindiğinde Sağa 1.6rem Dolgu
+- `.hover:pr-1.5` - Fareyle üzerine gelindiğinde Sağa 1.5rem Dolgu
+- `.hover:pr-1.4` - Fareyle üzerine gelindiğinde Sağa 1.4rem Dolgu
+- `.hover:pr-1.3` - Fareyle üzerine gelindiğinde Sağa 1.3rem Dolgu
+- `.hover:pr-1.2` - Fareyle üzerine gelindiğinde Sağa 1.2rem Dolgu
+- `.hover:pr-1.1` - Fareyle üzerine gelindiğinde Sağa 1.1rem Dolgu
 - `.hover:pr-1` - Fareyle üzerine gelindiğinde 1rem Sağa Dolgu
-- `.hover:pr-0.9` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-0.8` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-0.7` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-0.6` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-0.5` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-0.4` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
-- `.hover:pr-0.3` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
+- `.hover:pr-0.9` - Fareyle üzerine gelindiğinde Sağa 0.9rem Dolgu
+- `.hover:pr-0.8` - Fareyle üzerine gelindiğinde Sağa 0.8rem Dolgu
+- `.hover:pr-0.7` - Fareyle üzerine gelindiğinde Sağa 0.7rem Dolgu
+- `.hover:pr-0.6` - Fareyle üzerine gelindiğinde Sağa 0.6rem Dolgu
+- `.hover:pr-0.5` - Fareyle üzerine gelindiğinde Sağa 0.5rem Dolgu
+- `.hover:pr-0.4` - Fareyle üzerine gelindiğinde Sağa 0.4rem Dolgu
+- `.hover:pr-0.3` - Fareyle üzerine gelindiğinde Sağa 0.3rem Dolgu
 - `.hover:pr-0.2` - Fareyle üzerine gelindiğinde Sağa 0,2rem Dolgu
 - `.hover:pr-0.1` - Fareyle üzerine gelindiğinde Sağa 0,1rem Dolgu
 - `.hover:pr-0` - Fareyle üzerine gelindiğinde Sağa 0rem Dolgu
@@ -2568,29 +2568,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pr-50` - Sağa Dolgu %50
 - `.pr-25` - Sağa Dolgu %25
 - `.pr-5` - Sağa Dolgu 5rem
-- `.pr-4.5` - Sağa Dolgu 0rem
+- `.pr-4.5` - Sağa Dolgu 4.5rem
 - `.pr-4` - Sağa Dolgu 4rem
-- `.pr-3.5` - Sağa Dolgu 0rem
+- `.pr-3.5` - Sağa Dolgu 3.5rem
 - `.pr-3` - Sağa Dolgu 3rem
-- `.pr-2.5` - Sağa Dolgu 0rem
+- `.pr-2.5` - Sağa Dolgu 2.5rem
 - `.pr-2` - Sağa Dolgu 2rem
-- `.pr-1.9` - Sağa Dolgu 0rem
-- `.pr-1.8` - Sağa Dolgu 0rem
-- `.pr-1.7` - Sağa Dolgu 0rem
-- `.pr-1.6` - Sağa Dolgu 0rem
-- `.pr-1.5` - Sağa Dolgu 0rem
-- `.pr-1.4` - Sağa Dolgu 0rem
-- `.pr-1.3` - Sağa Dolgu 0rem
-- `.pr-1.2` - Sağa Dolgu 0rem
-- `.pr-1.1` - Sağa Dolgu 0rem
+- `.pr-1.9` - Sağa Dolgu 1.9rem
+- `.pr-1.8` - Sağa Dolgu 1.8rem
+- `.pr-1.7` - Sağa Dolgu 1.7rem
+- `.pr-1.6` - Sağa Dolgu 1.6rem
+- `.pr-1.5` - Sağa Dolgu 1.5rem
+- `.pr-1.4` - Sağa Dolgu 1.4rem
+- `.pr-1.3` - Sağa Dolgu 1.3rem
+- `.pr-1.2` - Sağa Dolgu 1.2rem
+- `.pr-1.1` - Sağa Dolgu 1.1rem
 - `.pr-1` - Sağa Dolgu 1rem
-- `.pr-0.9` - Sağa Dolgu 0rem
-- `.pr-0.8` - Sağa Dolgu 0rem
-- `.pr-0.7` - Sağa Dolgu 0rem
-- `.pr-0.6` - Sağa Dolgu 0rem
-- `.pr-0.5` - Sağa Dolgu 0rem
-- `.pr-0.4` - Sağa Dolgu 0rem
-- `.pr-0.3` - Sağa Dolgu 0rem
+- `.pr-0.9` - Sağa Dolgu 0.9rem
+- `.pr-0.8` - Sağa Dolgu 0.8rem
+- `.pr-0.7` - Sağa Dolgu 0.7rem
+- `.pr-0.6` - Sağa Dolgu 0.6rem
+- `.pr-0.5` - Sağa Dolgu 0.5rem
+- `.pr-0.4` - Sağa Dolgu 0.4rem
+- `.pr-0.3` - Sağa Dolgu 0.3rem
 - `.pr-0.2` - Sağa Dolgu 0,2rem
 - `.pr-0.1` - Sağa Dolgu 0,1rem
 - `.pr-0` - Sağa Dolgu 0rem
@@ -2603,29 +2603,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:pt-50` - Fareyle üzerine gelindiğinde dolgu Üstü %50
 - `.hover:pt-25` - Fareyle üzerine gelindiğinde dolgu Üstü %25
 - `.hover:pt-5` - Fareyle üzerine gelindiğinde dolgu Üstü 5rem
-- `.hover:pt-4.5` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
+- `.hover:pt-4.5` - Fareyle üzerine gelindiğinde Üst 4.5rem dolgusu
 - `.hover:pt-4` - Fareyle üzerine gelindiğinde dolgu Üstü 4rem
-- `.hover:pt-3.5` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
+- `.hover:pt-3.5` - Fareyle üzerine gelindiğinde Üst 3.5rem dolgusu
 - `.hover:pt-3` - Fareyle üzerine gelindiğinde dolgu Üstü 3rem
-- `.hover:pt-2.5` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
+- `.hover:pt-2.5` - Fareyle üzerine gelindiğinde Üst 2.5rem dolgusu
 - `.hover:pt-2` - Fareyle üzerine gelindiğinde dolgu Üstü 2rem
-- `.hover:pt-1.9` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-1.8` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-1.7` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-1.6` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-1.5` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-1.4` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-1.3` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-1.2` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-1.1` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
+- `.hover:pt-1.9` - Fareyle üzerine gelindiğinde Üst 1.9rem dolgusu
+- `.hover:pt-1.8` - Fareyle üzerine gelindiğinde Üst 1.8rem dolgusu
+- `.hover:pt-1.7` - Fareyle üzerine gelindiğinde Üst 1.7rem dolgusu
+- `.hover:pt-1.6` - Fareyle üzerine gelindiğinde Üst 1.6rem dolgusu
+- `.hover:pt-1.5` - Fareyle üzerine gelindiğinde Üst 1.5rem dolgusu
+- `.hover:pt-1.4` - Fareyle üzerine gelindiğinde Üst 1.4rem dolgusu
+- `.hover:pt-1.3` - Fareyle üzerine gelindiğinde Üst 1.3rem dolgusu
+- `.hover:pt-1.2` - Fareyle üzerine gelindiğinde Üst 1.2rem dolgusu
+- `.hover:pt-1.1` - Fareyle üzerine gelindiğinde Üst 1.1rem dolgusu
 - `.hover:pt-1` - Fareyle üzerine gelindiğinde Üst 1rem dolgusu
-- `.hover:pt-0.9` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-0.8` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-0.7` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-0.6` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-0.5` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-0.4` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
-- `.hover:pt-0.3` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
+- `.hover:pt-0.9` - Fareyle üzerine gelindiğinde Üst 0.9rem dolgusu
+- `.hover:pt-0.8` - Fareyle üzerine gelindiğinde Üst 0.8rem dolgusu
+- `.hover:pt-0.7` - Fareyle üzerine gelindiğinde Üst 0.7rem dolgusu
+- `.hover:pt-0.6` - Fareyle üzerine gelindiğinde Üst 0.6rem dolgusu
+- `.hover:pt-0.5` - Fareyle üzerine gelindiğinde Üst 0.5rem dolgusu
+- `.hover:pt-0.4` - Fareyle üzerine gelindiğinde Üst 0.4rem dolgusu
+- `.hover:pt-0.3` - Fareyle üzerine gelindiğinde Üst 0.3rem dolgusu
 - `.hover:pt-0.2` - Vurguluyken Üst Dolgu 0,2rem
 - `.hover:pt-0.1` - Vurguluyken Üst Dolgu 0,1rem
 - `.hover:pt-0` - Fareyle üzerine gelindiğinde Üst 0rem dolgusu
@@ -2635,29 +2635,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.pt-50` - Dolgu Üst %50
 - `.pt-25` - Dolgu Üstü %25
 - `.pt-5` - Dolgu Üstü 5rem
-- `.pt-4.5` - Dolgu Üstü 0rem
+- `.pt-4.5` - Dolgu Üstü 4.5rem
 - `.pt-4` - Dolgu Üstü 4rem
-- `.pt-3.5` - Dolgu Üstü 0rem
+- `.pt-3.5` - Dolgu Üstü 3.5rem
 - `.pt-3` - Dolgu Üstü 3rem
-- `.pt-2.5` - Dolgu Üstü 0rem
+- `.pt-2.5` - Dolgu Üstü 2.5rem
 - `.pt-2` - Dolgu Üstü 2rem
-- `.pt-1.9` - Dolgu Üstü 0rem
-- `.pt-1.8` - Dolgu Üstü 0rem
-- `.pt-1.7` - Dolgu Üstü 0rem
-- `.pt-1.6` - Dolgu Üstü 0rem
-- `.pt-1.5` - Dolgu Üstü 0rem
-- `.pt-1.4` - Dolgu Üstü 0rem
-- `.pt-1.3` - Dolgu Üstü 0rem
-- `.pt-1.2` - Dolgu Üstü 0rem
-- `.pt-1.1` - Dolgu Üstü 0rem
+- `.pt-1.9` - Dolgu Üstü 1.9rem
+- `.pt-1.8` - Dolgu Üstü 1.8rem
+- `.pt-1.7` - Dolgu Üstü 1.7rem
+- `.pt-1.6` - Dolgu Üstü 1.6rem
+- `.pt-1.5` - Dolgu Üstü 1.5rem
+- `.pt-1.4` - Dolgu Üstü 1.4rem
+- `.pt-1.3` - Dolgu Üstü 1.3rem
+- `.pt-1.2` - Dolgu Üstü 1.2rem
+- `.pt-1.1` - Dolgu Üstü 1.1rem
 - `.pt-1` - Dolgu Üstü 1rem
-- `.pt-0.9` - Dolgu Üstü 0rem
-- `.pt-0.8` - Dolgu Üstü 0rem
-- `.pt-0.7` - Dolgu Üstü 0rem
-- `.pt-0.6` - Dolgu Üstü 0rem
-- `.pt-0.5` - Dolgu Üstü 0rem
-- `.pt-0.4` - Dolgu Üstü 0rem
-- `.pt-0.3` - Dolgu Üstü 0rem
+- `.pt-0.9` - Dolgu Üstü 0.9rem
+- `.pt-0.8` - Dolgu Üstü 0.8rem
+- `.pt-0.7` - Dolgu Üstü 0.7rem
+- `.pt-0.6` - Dolgu Üstü 0.6rem
+- `.pt-0.5` - Dolgu Üstü 0.5rem
+- `.pt-0.4` - Dolgu Üstü 0.4rem
+- `.pt-0.3` - Dolgu Üstü 0.3rem
 - `.pt-0.2` - Dolgu Üstü 0.2rem
 - `.pt-0.1` - Dolgu Üstü 0.1rem
 - `.pt-0` - Dolgu Üstü 0rem
@@ -2669,29 +2669,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:px-50` - Fareyle üzerine gelindiğinde X Ekseni %50 dolgusu
 - `.hover:px-25` - Fareyle üzerine gelindiğinde X Ekseni %25 dolgusu
 - `.hover:px-5` - Fareyle üzerine gelindiğinde X Ekseni 5rem dolgusu
-- `.hover:px-4.5` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
+- `.hover:px-4.5` - Fareyle üzerine gelindiğinde X Ekseni 4.5rem dolgusu
 - `.hover:px-4` - Fareyle üzerine gelindiğinde X Ekseni 4rem dolgusu
-- `.hover:px-3.5` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
+- `.hover:px-3.5` - Fareyle üzerine gelindiğinde X Ekseni 3.5rem dolgusu
 - `.hover:px-3` - Fareyle üzerine gelindiğinde X Ekseni 3rem dolgusu
-- `.hover:px-2.5` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
+- `.hover:px-2.5` - Fareyle üzerine gelindiğinde X Ekseni 2.5rem dolgusu
 - `.hover:px-2` - Fareyle üzerine gelindiğinde X Ekseni 2rem dolgusu
-- `.hover:px-1.9` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-1.8` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-1.7` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-1.6` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-1.5` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-1.4` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-1.3` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-1.2` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-1.1` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
+- `.hover:px-1.9` - Fareyle üzerine gelindiğinde X Ekseni 1.9rem dolgusu
+- `.hover:px-1.8` - Fareyle üzerine gelindiğinde X Ekseni 1.8rem dolgusu
+- `.hover:px-1.7` - Fareyle üzerine gelindiğinde X Ekseni 1.7rem dolgusu
+- `.hover:px-1.6` - Fareyle üzerine gelindiğinde X Ekseni 1.6rem dolgusu
+- `.hover:px-1.5` - Fareyle üzerine gelindiğinde X Ekseni 1.5rem dolgusu
+- `.hover:px-1.4` - Fareyle üzerine gelindiğinde X Ekseni 1.4rem dolgusu
+- `.hover:px-1.3` - Fareyle üzerine gelindiğinde X Ekseni 1.3rem dolgusu
+- `.hover:px-1.2` - Fareyle üzerine gelindiğinde X Ekseni 1.2rem dolgusu
+- `.hover:px-1.1` - Fareyle üzerine gelindiğinde X Ekseni 1.1rem dolgusu
 - `.hover:px-1` - Fareyle üzerine gelindiğinde X Ekseni 1rem dolgusu
-- `.hover:px-0.9` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-0.8` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-0.7` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-0.6` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-0.5` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-0.4` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
-- `.hover:px-0.3` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
+- `.hover:px-0.9` - Fareyle üzerine gelindiğinde X Ekseni 0.9rem dolgusu
+- `.hover:px-0.8` - Fareyle üzerine gelindiğinde X Ekseni 0.8rem dolgusu
+- `.hover:px-0.7` - Fareyle üzerine gelindiğinde X Ekseni 0.7rem dolgusu
+- `.hover:px-0.6` - Fareyle üzerine gelindiğinde X Ekseni 0.6rem dolgusu
+- `.hover:px-0.5` - Fareyle üzerine gelindiğinde X Ekseni 0.5rem dolgusu
+- `.hover:px-0.4` - Fareyle üzerine gelindiğinde X Ekseni 0.4rem dolgusu
+- `.hover:px-0.3` - Fareyle üzerine gelindiğinde X Ekseni 0.3rem dolgusu
 - `.hover:px-0.2` - Fareyle üzerine gelindiğinde X Ekseni 0,2rem dolgusu
 - `.hover:px-0.1` - Fareyle üzerine gelindiğinde X Ekseni 0,1rem dolgusu
 - `.hover:px-0` - Fareyle üzerine gelindiğinde X Ekseni 0rem dolgusu
@@ -2700,29 +2700,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.px-50` - Dolgu X Ekseni %50
 - `.px-25` - Dolgu X Ekseni %25
 - `.px-5` - Dolgu X Ekseni 5rem
-- `.px-4.5` - Dolgu X Ekseni 0rem
+- `.px-4.5` - Dolgu X Ekseni 4.5rem
 - `.px-4` - Dolgu X Ekseni 4rem
-- `.px-3.5` - Dolgu X Ekseni 0rem
+- `.px-3.5` - Dolgu X Ekseni 3.5rem
 - `.px-3` - Dolgu X Ekseni 3rem
-- `.px-2.5` - Dolgu X Ekseni 0rem
+- `.px-2.5` - Dolgu X Ekseni 2.5rem
 - `.px-2` - Dolgu X Ekseni 2rem
-- `.px-1.9` - Dolgu X Ekseni 0rem
-- `.px-1.8` - Dolgu X Ekseni 0rem
-- `.px-1.7` - Dolgu X Ekseni 0rem
-- `.px-1.6` - Dolgu X Ekseni 0rem
-- `.px-1.5` - Dolgu X Ekseni 0rem
-- `.px-1.4` - Dolgu X Ekseni 0rem
-- `.px-1.3` - Dolgu X Ekseni 0rem
-- `.px-1.2` - Dolgu X Ekseni 0rem
-- `.px-1.1` - Dolgu X Ekseni 0rem
+- `.px-1.9` - Dolgu X Ekseni 1.9rem
+- `.px-1.8` - Dolgu X Ekseni 1.8rem
+- `.px-1.7` - Dolgu X Ekseni 1.7rem
+- `.px-1.6` - Dolgu X Ekseni 1.6rem
+- `.px-1.5` - Dolgu X Ekseni 1.5rem
+- `.px-1.4` - Dolgu X Ekseni 1.4rem
+- `.px-1.3` - Dolgu X Ekseni 1.3rem
+- `.px-1.2` - Dolgu X Ekseni 1.2rem
+- `.px-1.1` - Dolgu X Ekseni 1.1rem
 - `.px-1` - Dolgu X Ekseni 1rem
-- `.px-0.9` - Dolgu X Ekseni 0rem
-- `.px-0.8` - Dolgu X Ekseni 0rem
-- `.px-0.7` - Dolgu X Ekseni 0rem
-- `.px-0.6` - Dolgu X Ekseni 0rem
-- `.px-0.5` - Dolgu X Ekseni 0rem
-- `.px-0.4` - Dolgu X Ekseni 0rem
-- `.px-0.3` - Dolgu X Ekseni 0rem
+- `.px-0.9` - Dolgu X Ekseni 0.9rem
+- `.px-0.8` - Dolgu X Ekseni 0.8rem
+- `.px-0.7` - Dolgu X Ekseni 0.7rem
+- `.px-0.6` - Dolgu X Ekseni 0.6rem
+- `.px-0.5` - Dolgu X Ekseni 0.5rem
+- `.px-0.4` - Dolgu X Ekseni 0.4rem
+- `.px-0.3` - Dolgu X Ekseni 0.3rem
 - `.px-0.2` - Dolgu X Ekseni 0,2rem
 - `.px-0.1` - Dolgu X Ekseni 0,1rem
 - `.px-0` - Dolgu X Ekseni 0rem
@@ -2734,29 +2734,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:py-50` - Fareyle üzerine gelindiğinde Y Ekseni %50 dolgusu
 - `.hover:py-25` - Vurguluyken Y Ekseni %25 dolgusu
 - `.hover:py-5` - Fareyle üzerine gelindiğinde Y Ekseni 5rem dolgusu
-- `.hover:py-4.5` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
+- `.hover:py-4.5` - Fareyle üzerine gelindiğinde Y Ekseni 4.5rem dolgusu
 - `.hover:py-4` - Fareyle üzerine gelindiğinde Y Ekseni 4rem dolgusu
-- `.hover:py-3.5` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
+- `.hover:py-3.5` - Fareyle üzerine gelindiğinde Y Ekseni 3.5rem dolgusu
 - `.hover:py-3` - Fareyle üzerine gelindiğinde Y Ekseni 3rem dolgusu
-- `.hover:py-2.5` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
+- `.hover:py-2.5` - Fareyle üzerine gelindiğinde Y Ekseni 2.5rem dolgusu
 - `.hover:py-2` - Fareyle üzerine gelindiğinde Y Ekseni 2rem dolgusu
-- `.hover:py-1.9` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-1.8` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-1.7` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-1.6` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-1.5` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-1.4` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-1.3` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-1.2` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-1.1` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
+- `.hover:py-1.9` - Fareyle üzerine gelindiğinde Y Ekseni 1.9rem dolgusu
+- `.hover:py-1.8` - Fareyle üzerine gelindiğinde Y Ekseni 1.8rem dolgusu
+- `.hover:py-1.7` - Fareyle üzerine gelindiğinde Y Ekseni 1.7rem dolgusu
+- `.hover:py-1.6` - Fareyle üzerine gelindiğinde Y Ekseni 1.6rem dolgusu
+- `.hover:py-1.5` - Fareyle üzerine gelindiğinde Y Ekseni 1.5rem dolgusu
+- `.hover:py-1.4` - Fareyle üzerine gelindiğinde Y Ekseni 1.4rem dolgusu
+- `.hover:py-1.3` - Fareyle üzerine gelindiğinde Y Ekseni 1.3rem dolgusu
+- `.hover:py-1.2` - Fareyle üzerine gelindiğinde Y Ekseni 1.2rem dolgusu
+- `.hover:py-1.1` - Fareyle üzerine gelindiğinde Y Ekseni 1.1rem dolgusu
 - `.hover:py-1` - Fareyle üzerine gelindiğinde Y Ekseni 1rem dolgusu
-- `.hover:py-0.9` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-0.8` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-0.7` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-0.6` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-0.5` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-0.4` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
-- `.hover:py-0.3` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
+- `.hover:py-0.9` - Fareyle üzerine gelindiğinde Y Ekseni 0.9rem dolgusu
+- `.hover:py-0.8` - Fareyle üzerine gelindiğinde Y Ekseni 0.8rem dolgusu
+- `.hover:py-0.7` - Fareyle üzerine gelindiğinde Y Ekseni 0.7rem dolgusu
+- `.hover:py-0.6` - Fareyle üzerine gelindiğinde Y Ekseni 0.6rem dolgusu
+- `.hover:py-0.5` - Fareyle üzerine gelindiğinde Y Ekseni 0.5rem dolgusu
+- `.hover:py-0.4` - Fareyle üzerine gelindiğinde Y Ekseni 0.4rem dolgusu
+- `.hover:py-0.3` - Fareyle üzerine gelindiğinde Y Ekseni 0.3rem dolgusu
 - `.hover:py-0.2` - Fareyle üzerine gelindiğinde Y Ekseni 0,2rem dolgusu
 - `.hover:py-0.1` - Fareyle üzerine gelindiğinde Y Ekseni 0,1rem dolgusu
 - `.hover:py-0` - Fareyle üzerine gelindiğinde Y Ekseni 0rem dolgusu
@@ -2765,29 +2765,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.py-50` - Dolgu Y Ekseni %50
 - `.py-25` - Dolgu Y Ekseni %25
 - `.py-5` - Dolgu Y Ekseni 5rem
-- `.py-4.5` - Dolgu Y Ekseni 0rem
+- `.py-4.5` - Dolgu Y Ekseni 4.5rem
 - `.py-4` - Dolgu Y Ekseni 4rem
-- `.py-3.5` - Dolgu Y Ekseni 0rem
+- `.py-3.5` - Dolgu Y Ekseni 3.5rem
 - `.py-3` - Dolgu Y Ekseni 3rem
-- `.py-2.5` - Dolgu Y Ekseni 0rem
+- `.py-2.5` - Dolgu Y Ekseni 2.5rem
 - `.py-2` - Dolgu Y Ekseni 2rem
-- `.py-1.9` - Dolgu Y Ekseni 0rem
-- `.py-1.8` - Dolgu Y Ekseni 0rem
-- `.py-1.7` - Dolgu Y Ekseni 0rem
-- `.py-1.6` - Dolgu Y Ekseni 0rem
-- `.py-1.5` - Dolgu Y Ekseni 0rem
-- `.py-1.4` - Dolgu Y Ekseni 0rem
-- `.py-1.3` - Dolgu Y Ekseni 0rem
-- `.py-1.2` - Dolgu Y Ekseni 0rem
-- `.py-1.1` - Dolgu Y Ekseni 0rem
+- `.py-1.9` - Dolgu Y Ekseni 1.9rem
+- `.py-1.8` - Dolgu Y Ekseni 1.8rem
+- `.py-1.7` - Dolgu Y Ekseni 1.7rem
+- `.py-1.6` - Dolgu Y Ekseni 1.6rem
+- `.py-1.5` - Dolgu Y Ekseni 1.5rem
+- `.py-1.4` - Dolgu Y Ekseni 1.4rem
+- `.py-1.3` - Dolgu Y Ekseni 1.3rem
+- `.py-1.2` - Dolgu Y Ekseni 1.2rem
+- `.py-1.1` - Dolgu Y Ekseni 1.1rem
 - `.py-1` - Dolgu Y Ekseni 1rem
-- `.py-0.9` - Dolgu Y Ekseni 0rem
-- `.py-0.8` - Dolgu Y Ekseni 0rem
-- `.py-0.7` - Dolgu Y Ekseni 0rem
-- `.py-0.6` - Dolgu Y Ekseni 0rem
-- `.py-0.5` - Dolgu Y Ekseni 0rem
-- `.py-0.4` - Dolgu Y Ekseni 0rem
-- `.py-0.3` - Dolgu Y Ekseni 0rem
+- `.py-0.9` - Dolgu Y Ekseni 0.9rem
+- `.py-0.8` - Dolgu Y Ekseni 0.8rem
+- `.py-0.7` - Dolgu Y Ekseni 0.7rem
+- `.py-0.6` - Dolgu Y Ekseni 0.6rem
+- `.py-0.5` - Dolgu Y Ekseni 0.5rem
+- `.py-0.4` - Dolgu Y Ekseni 0.4rem
+- `.py-0.3` - Dolgu Y Ekseni 0.3rem
 - `.py-0.2` - Dolgu Y Ekseni 0,2rem
 - `.py-0.1` - Dolgu Y Ekseni 0,1rem
 - `.py-0` - Dolgu Y Ekseni 0rem
@@ -3681,29 +3681,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:top-50` - Fareyle üzerine gelindiğinde üst konumu %50
 - `.hover:top-25` - Fareyle üzerine gelindiğinde üst konumu %25
 - `.hover:top-5` - Fareyle üzerine gelindiğinde üst konumu 5rem
-- `.hover:top-4.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-4.5` - Fareyle üzerine gelindiğinde üst konumu 4.5rem
 - `.hover:top-4` - Fareyle üzerine gelindiğinde üst konumu 4rem
-- `.hover:top-3.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-3.5` - Fareyle üzerine gelindiğinde üst konumu 3.5rem
 - `.hover:top-3` - Fareyle üzerine gelindiğinde üst konumu 3rem
-- `.hover:top-2.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-2.5` - Fareyle üzerine gelindiğinde üst konumu 2.5rem
 - `.hover:top-2` - Fareyle üzerine gelindiğinde üst konumu 2rem
-- `.hover:top-1.9` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-1.8` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-1.7` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-1.6` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-1.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-1.4` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-1.3` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-1.2` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-1.1` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-1.9` - Fareyle üzerine gelindiğinde üst konumu 1.9rem
+- `.hover:top-1.8` - Fareyle üzerine gelindiğinde üst konumu 1.8rem
+- `.hover:top-1.7` - Fareyle üzerine gelindiğinde üst konumu 1.7rem
+- `.hover:top-1.6` - Fareyle üzerine gelindiğinde üst konumu 1.6rem
+- `.hover:top-1.5` - Fareyle üzerine gelindiğinde üst konumu 1.5rem
+- `.hover:top-1.4` - Fareyle üzerine gelindiğinde üst konumu 1.4rem
+- `.hover:top-1.3` - Fareyle üzerine gelindiğinde üst konumu 1.3rem
+- `.hover:top-1.2` - Fareyle üzerine gelindiğinde üst konumu 1.2rem
+- `.hover:top-1.1` - Fareyle üzerine gelindiğinde üst konumu 1.1rem
 - `.hover:top-1` - Fareyle üzerine gelindiğinde üst konumu 1rem
-- `.hover:top-0.9` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-0.8` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-0.7` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-0.6` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-0.5` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-0.4` - Fareyle üzerine gelindiğinde üst konumu 0rem
-- `.hover:top-0.3` - Fareyle üzerine gelindiğinde üst konumu 0rem
+- `.hover:top-0.9` - Fareyle üzerine gelindiğinde üst konumu 0.9rem
+- `.hover:top-0.8` - Fareyle üzerine gelindiğinde üst konumu 0.8rem
+- `.hover:top-0.7` - Fareyle üzerine gelindiğinde üst konumu 0.7rem
+- `.hover:top-0.6` - Fareyle üzerine gelindiğinde üst konumu 0.6rem
+- `.hover:top-0.5` - Fareyle üzerine gelindiğinde üst konumu 0.5rem
+- `.hover:top-0.4` - Fareyle üzerine gelindiğinde üst konumu 0.4rem
+- `.hover:top-0.3` - Fareyle üzerine gelindiğinde üst konumu 0.3rem
 - `.hover:top-0.2` - Fareyle üzerine gelindiğinde üst konumu 0.2rem
 - `.hover:top-0.1` - Fareyle üzerine gelindiğinde üst konumu 0.1rem
 - `.hover:top-0` - Fareyle üzerine gelindiğinde üst konumu 0rem
@@ -3712,29 +3712,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.top-50` - Üst konumu %50
 - `.top-25` - Üst konumu %25
 - `.top-5` - Üst konumu 5rem
-- `.top-4.5` - Üst konumu 0rem
+- `.top-4.5` - Üst konumu 4.5rem
 - `.top-4` - Üst konumu 4rem
-- `.top-3.5` - Üst konumu 0rem
+- `.top-3.5` - Üst konumu 3.5rem
 - `.top-3` - Üst konumu 3rem
-- `.top-2.5` - Üst konumu 0rem
+- `.top-2.5` - Üst konumu 2.5rem
 - `.top-2` - Üst konumu 2rem
-- `.top-1.9` - Üst konumu 0rem
-- `.top-1.8` - Üst konumu 0rem
-- `.top-1.7` - Üst konumu 0rem
-- `.top-1.6` - Üst konumu 0rem
-- `.top-1.5` - Üst konumu 0rem
-- `.top-1.4` - Üst konumu 0rem
-- `.top-1.3` - Üst konumu 0rem
-- `.top-1.2` - Üst konumu 0rem
-- `.top-1.1` - Üst konumu 0rem
+- `.top-1.9` - Üst konumu 1.9rem
+- `.top-1.8` - Üst konumu 1.8rem
+- `.top-1.7` - Üst konumu 1.7rem
+- `.top-1.6` - Üst konumu 1.6rem
+- `.top-1.5` - Üst konumu 1.5rem
+- `.top-1.4` - Üst konumu 1.4rem
+- `.top-1.3` - Üst konumu 1.3rem
+- `.top-1.2` - Üst konumu 1.2rem
+- `.top-1.1` - Üst konumu 1.1rem
 - `.top-1` - Üst konumu 1rem
-- `.top-0.9` - Üst konumu 0rem
-- `.top-0.8` - Üst konumu 0rem
-- `.top-0.7` - Üst konumu 0rem
-- `.top-0.6` - Üst konumu 0rem
-- `.top-0.5` - Üst konumu 0rem
-- `.top-0.4` - Üst konumu 0rem
-- `.top-0.3` - Üst konumu 0rem
+- `.top-0.9` - Üst konumu 0.9rem
+- `.top-0.8` - Üst konumu 0.8rem
+- `.top-0.7` - Üst konumu 0.7rem
+- `.top-0.6` - Üst konumu 0.6rem
+- `.top-0.5` - Üst konumu 0.5rem
+- `.top-0.4` - Üst konumu 0.4rem
+- `.top-0.3` - Üst konumu 0.3rem
 - `.top-0.2` - Üst konumu 0.2rem
 - `.top-0.1` - Üst konumu 0.1rem
 - `.top-0` - Üst konumu 0rem
@@ -3742,54 +3742,54 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 ##### Negative Top
 
 - `.-top-5` - Negatif üst konumu 5rem
-- `.-top-4.5` - Negatif üst konumu 0rem
+- `.-top-4.5` - Negatif üst konumu 4.5rem
 - `.-top-4` - Negatif üst konumu 4rem
-- `.-top-3.5` - Negatif üst konumu 0rem
+- `.-top-3.5` - Negatif üst konumu 3.5rem
 - `.-top-3` - Negatif üst konumu 3rem
-- `.-top-2.5` - Negatif üst konumu 0rem
+- `.-top-2.5` - Negatif üst konumu 2.5rem
 - `.-top-2` - Negatif üst konumu 2rem
-- `.-top-1.9` - Negatif üst konumu 0rem
-- `.-top-1.8` - Negatif üst konumu 0rem
-- `.-top-1.7` - Negatif üst konumu 0rem
-- `.-top-1.6` - Negatif üst konumu 0rem
-- `.-top-1.5` - Negatif üst konumu 0rem
-- `.-top-1.4` - Negatif üst konumu 0rem
-- `.-top-1.3` - Negatif üst konumu 0rem
-- `.-top-1.2` - Negatif üst konumu 0rem
-- `.-top-1.1` - Negatif üst konumu 0rem
+- `.-top-1.9` - Negatif üst konumu 1.9rem
+- `.-top-1.8` - Negatif üst konumu 1.8rem
+- `.-top-1.7` - Negatif üst konumu 1.7rem
+- `.-top-1.6` - Negatif üst konumu 1.6rem
+- `.-top-1.5` - Negatif üst konumu 1.5rem
+- `.-top-1.4` - Negatif üst konumu 1.4rem
+- `.-top-1.3` - Negatif üst konumu 1.3rem
+- `.-top-1.2` - Negatif üst konumu 1.2rem
+- `.-top-1.1` - Negatif üst konumu 1.1rem
 - `.-top-1` - Negatif üst konumu 1rem
-- `.-top-0.9` - Negatif üst konumu 0rem
-- `.-top-0.8` - Negatif üst konumu 0rem
-- `.-top-0.7` - Negatif üst konumu 0rem
-- `.-top-0.6` - Negatif üst konumu 0rem
-- `.-top-0.5` - Negatif üst konumu 0rem
-- `.-top-0.4` - Negatif üst konumu 0rem
+- `.-top-0.9` - Negatif üst konumu 0.9rem
+- `.-top-0.8` - Negatif üst konumu 0.8rem
+- `.-top-0.7` - Negatif üst konumu 0.7rem
+- `.-top-0.6` - Negatif üst konumu 0.6rem
+- `.-top-0.5` - Negatif üst konumu 0.5rem
+- `.-top-0.4` - Negatif üst konumu 0.4rem
 - `.-top-0.3` - Negatif üst konumu 0.3rem
 - `.-top-0.2` - Negatif üst konumu 0.2rem
 - `.-top-0.1` - Negatif üst konumu 0.1rem
 - `.hover:-top-5` - Fareyle üzerine gelindiğinde negatif üst konumu 5rem
-- `.hover:-top-4.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-4.5` - Fareyle üzerine gelindiğinde negatif üst konumu 4.5rem
 - `.hover:-top-4` - Fareyle üzerine gelindiğinde negatif üst konumu 4rem
-- `.hover:-top-3.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-3.5` - Fareyle üzerine gelindiğinde negatif üst konumu 3.5rem
 - `.hover:-top-3` - Fareyle üzerine gelindiğinde negatif üst konumu 3rem
-- `.hover:-top-2.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-2.5` - Fareyle üzerine gelindiğinde negatif üst konumu 2.5rem
 - `.hover:-top-2` - Fareyle üzerine gelindiğinde negatif üst konumu 2rem
-- `.hover:-top-1.9` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-1.8` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-1.7` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-1.6` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-1.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-1.4` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-1.3` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-1.2` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-1.1` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-1.9` - Fareyle üzerine gelindiğinde negatif üst konumu 1.9rem
+- `.hover:-top-1.8` - Fareyle üzerine gelindiğinde negatif üst konumu 1.8rem
+- `.hover:-top-1.7` - Fareyle üzerine gelindiğinde negatif üst konumu 1.7rem
+- `.hover:-top-1.6` - Fareyle üzerine gelindiğinde negatif üst konumu 1.6rem
+- `.hover:-top-1.5` - Fareyle üzerine gelindiğinde negatif üst konumu 1.5rem
+- `.hover:-top-1.4` - Fareyle üzerine gelindiğinde negatif üst konumu 1.4rem
+- `.hover:-top-1.3` - Fareyle üzerine gelindiğinde negatif üst konumu 1.3rem
+- `.hover:-top-1.2` - Fareyle üzerine gelindiğinde negatif üst konumu 1.2rem
+- `.hover:-top-1.1` - Fareyle üzerine gelindiğinde negatif üst konumu 1.1rem
 - `.hover:-top-1` - Fareyle üzerine gelindiğinde negatif üst konumu 1rem
-- `.hover:-top-0.9` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-0.8` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-0.7` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-0.6` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-0.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
-- `.hover:-top-0.4` - Fareyle üzerine gelindiğinde negatif üst konumu 0rem
+- `.hover:-top-0.9` - Fareyle üzerine gelindiğinde negatif üst konumu 0.9rem
+- `.hover:-top-0.8` - Fareyle üzerine gelindiğinde negatif üst konumu 0.8rem
+- `.hover:-top-0.7` - Fareyle üzerine gelindiğinde negatif üst konumu 0.7rem
+- `.hover:-top-0.6` - Fareyle üzerine gelindiğinde negatif üst konumu 0.6rem
+- `.hover:-top-0.5` - Fareyle üzerine gelindiğinde negatif üst konumu 0.5rem
+- `.hover:-top-0.4` - Fareyle üzerine gelindiğinde negatif üst konumu 0.4rem
 - `.hover:-top-0.3` - Fareyle üzerine gelindiğinde negatif üst konumu 0.3rem
 - `.hover:-top-0.2` - Fareyle üzerine gelindiğinde negatif üst konumu 0.2rem
 - `.hover:-top-0.1` - Fareyle üzerine gelindiğinde negatif üst konumu 0.1rem
@@ -3801,29 +3801,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:right-50` - Fareyle üzerine gelindiğinde sağ konumu %50
 - `.hover:right-25` - Fareyle üzerine gelindiğinde sağ konumu %25
 - `.hover:right-5` - Fareyle üzerine gelindiğinde sağ konumu 5rem
-- `.hover:right-4.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-4.5` - Fareyle üzerine gelindiğinde sağ konumu 4.5rem
 - `.hover:right-4` - Fareyle üzerine gelindiğinde sağ konumu 4rem
-- `.hover:right-3.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-3.5` - Fareyle üzerine gelindiğinde sağ konumu 3.5rem
 - `.hover:right-3` - Fareyle üzerine gelindiğinde sağ konumu 3rem
-- `.hover:right-2.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-2.5` - Fareyle üzerine gelindiğinde sağ konumu 2.5rem
 - `.hover:right-2` - Fareyle üzerine gelindiğinde sağ konumu 2rem
-- `.hover:right-1.9` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-1.8` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-1.7` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-1.6` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-1.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-1.4` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-1.3` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-1.2` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-1.1` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-1.9` - Fareyle üzerine gelindiğinde sağ konumu 1.9rem
+- `.hover:right-1.8` - Fareyle üzerine gelindiğinde sağ konumu 1.8rem
+- `.hover:right-1.7` - Fareyle üzerine gelindiğinde sağ konumu 1.7rem
+- `.hover:right-1.6` - Fareyle üzerine gelindiğinde sağ konumu 1.6rem
+- `.hover:right-1.5` - Fareyle üzerine gelindiğinde sağ konumu 1.5rem
+- `.hover:right-1.4` - Fareyle üzerine gelindiğinde sağ konumu 1.4rem
+- `.hover:right-1.3` - Fareyle üzerine gelindiğinde sağ konumu 1.3rem
+- `.hover:right-1.2` - Fareyle üzerine gelindiğinde sağ konumu 1.2rem
+- `.hover:right-1.1` - Fareyle üzerine gelindiğinde sağ konumu 1.1rem
 - `.hover:right-1` - Fareyle üzerine gelindiğinde sağ konumu 1rem
-- `.hover:right-0.9` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-0.8` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-0.7` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-0.6` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-0.5` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-0.4` - Fareyle üzerine gelindiğinde sağ konumu 0rem
-- `.hover:right-0.3` - Fareyle üzerine gelindiğinde sağ konumu 0rem
+- `.hover:right-0.9` - Fareyle üzerine gelindiğinde sağ konumu 0.9rem
+- `.hover:right-0.8` - Fareyle üzerine gelindiğinde sağ konumu 0.8rem
+- `.hover:right-0.7` - Fareyle üzerine gelindiğinde sağ konumu 0.7rem
+- `.hover:right-0.6` - Fareyle üzerine gelindiğinde sağ konumu 0.6rem
+- `.hover:right-0.5` - Fareyle üzerine gelindiğinde sağ konumu 0.5rem
+- `.hover:right-0.4` - Fareyle üzerine gelindiğinde sağ konumu 0.4rem
+- `.hover:right-0.3` - Fareyle üzerine gelindiğinde sağ konumu 0.3rem
 - `.hover:right-0.2` - Fareyle üzerine gelindiğinde sağ konumu 0.2rem
 - `.hover:right-0.1` - Fareyle üzerine gelindiğinde sağ konumu 0.1rem
 - `.hover:right-0` - Fareyle üzerine gelindiğinde sağ konumu 0rem
@@ -3832,29 +3832,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.right-50` - Sağ konumu %50
 - `.right-25` - Sağ konumu %25
 - `.right-5` - Sağ konumu 5rem
-- `.right-4.5` - Sağ konumu 0rem
+- `.right-4.5` - Sağ konumu 4.5rem
 - `.right-4` - Sağ konumu 4rem
-- `.right-3.5` - Sağ konumu 0rem
+- `.right-3.5` - Sağ konumu 3.5rem
 - `.right-3` - Sağ konumu 3rem
-- `.right-2.5` - Sağ konumu 0rem
+- `.right-2.5` - Sağ konumu 2.5rem
 - `.right-2` - Sağ konumu 2rem
-- `.right-1.9` - Sağ konumu 0rem
-- `.right-1.8` - Sağ konumu 0rem
-- `.right-1.7` - Sağ konumu 0rem
-- `.right-1.6` - Sağ konumu 0rem
-- `.right-1.5` - Sağ konumu 0rem
-- `.right-1.4` - Sağ konumu 0rem
-- `.right-1.3` - Sağ konumu 0rem
-- `.right-1.2` - Sağ konumu 0rem
-- `.right-1.1` - Sağ konumu 0rem
+- `.right-1.9` - Sağ konumu 1.9rem
+- `.right-1.8` - Sağ konumu 1.8rem
+- `.right-1.7` - Sağ konumu 1.7rem
+- `.right-1.6` - Sağ konumu 1.6rem
+- `.right-1.5` - Sağ konumu 1.5rem
+- `.right-1.4` - Sağ konumu 1.4rem
+- `.right-1.3` - Sağ konumu 1.3rem
+- `.right-1.2` - Sağ konumu 1.2rem
+- `.right-1.1` - Sağ konumu 1.1rem
 - `.right-1` - Sağ konumu 1rem
-- `.right-0.9` - Sağ konumu 0rem
-- `.right-0.8` - Sağ konumu 0rem
-- `.right-0.7` - Sağ konumu 0rem
-- `.right-0.6` - Sağ konumu 0rem
-- `.right-0.5` - Sağ konumu 0rem
-- `.right-0.4` - Sağ konumu 0rem
-- `.right-0.3` - Sağ konumu 0rem
+- `.right-0.9` - Sağ konumu 0.9rem
+- `.right-0.8` - Sağ konumu 0.8rem
+- `.right-0.7` - Sağ konumu 0.7rem
+- `.right-0.6` - Sağ konumu 0.6rem
+- `.right-0.5` - Sağ konumu 0.5rem
+- `.right-0.4` - Sağ konumu 0.4rem
+- `.right-0.3` - Sağ konumu 0.3rem
 - `.right-0.2` - Sağ konumu 0.2rem
 - `.right-0.1` - Sağ konumu 0.1rem
 - `.right-0` - Sağ konumu 0rem
@@ -3862,54 +3862,54 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 ##### Negative Right
 
 - `.-right-5` - Negatif sağ konumu 5rem
-- `.-right-4.5` - Negatif sağ konumu 0rem
+- `.-right-4.5` - Negatif sağ konumu 4.5rem
 - `.-right-4` - Negatif sağ konumu 4rem
-- `.-right-3.5` - Negatif sağ konumu 0rem
+- `.-right-3.5` - Negatif sağ konumu 3.5rem
 - `.-right-3` - Negatif sağ konumu 3rem
-- `.-right-2.5` - Negatif sağ konumu 0rem
+- `.-right-2.5` - Negatif sağ konumu 2.5rem
 - `.-right-2` - Negatif sağ konumu 2rem
-- `.-right-1.9` - Negatif sağ konumu 0rem
-- `.-right-1.8` - Negatif sağ konumu 0rem
-- `.-right-1.7` - Negatif sağ konumu 0rem
-- `.-right-1.6` - Negatif sağ konumu 0rem
-- `.-right-1.5` - Negatif sağ konumu 0rem
-- `.-right-1.4` - Negatif sağ konumu 0rem
-- `.-right-1.3` - Negatif sağ konumu 0rem
-- `.-right-1.2` - Negatif sağ konumu 0rem
-- `.-right-1.1` - Negatif sağ konumu 0rem
+- `.-right-1.9` - Negatif sağ konumu 1.9rem
+- `.-right-1.8` - Negatif sağ konumu 1.8rem
+- `.-right-1.7` - Negatif sağ konumu 1.7rem
+- `.-right-1.6` - Negatif sağ konumu 1.6rem
+- `.-right-1.5` - Negatif sağ konumu 1.5rem
+- `.-right-1.4` - Negatif sağ konumu 1.4rem
+- `.-right-1.3` - Negatif sağ konumu 1.3rem
+- `.-right-1.2` - Negatif sağ konumu 1.2rem
+- `.-right-1.1` - Negatif sağ konumu 1.1rem
 - `.-right-1` - Negatif sağ konumu 1rem
-- `.-right-0.9` - Negatif sağ konumu 0rem
-- `.-right-0.8` - Negatif sağ konumu 0rem
-- `.-right-0.7` - Negatif sağ konumu 0rem
-- `.-right-0.6` - Negatif sağ konumu 0rem
-- `.-right-0.5` - Negatif sağ konumu 0rem
-- `.-right-0.4` - Negatif sağ konumu 0rem
+- `.-right-0.9` - Negatif sağ konumu 0.9rem
+- `.-right-0.8` - Negatif sağ konumu 0.8rem
+- `.-right-0.7` - Negatif sağ konumu 0.7rem
+- `.-right-0.6` - Negatif sağ konumu 0.6rem
+- `.-right-0.5` - Negatif sağ konumu 0.5rem
+- `.-right-0.4` - Negatif sağ konumu 0.4rem
 - `.-right-0.3` - Negatif sağ konumu 0.3rem
 - `.-right-0.2` - Negatif sağ konumu 0.2rem
 - `.-right-0.1` - Negatif sağ konumu 0.1rem
 - `.hover:-right-5` - Fareyle üzerine gelindiğinde negatif sağ konumu 5rem
-- `.hover:-right-4.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-4.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 4.5rem
 - `.hover:-right-4` - Fareyle üzerine gelindiğinde negatif sağ konumu 4rem
-- `.hover:-right-3.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-3.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 3.5rem
 - `.hover:-right-3` - Fareyle üzerine gelindiğinde negatif sağ konumu 3rem
-- `.hover:-right-2.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-2.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 2.5rem
 - `.hover:-right-2` - Fareyle üzerine gelindiğinde negatif sağ konumu 2rem
-- `.hover:-right-1.9` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-1.8` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-1.7` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-1.6` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-1.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-1.4` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-1.3` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-1.2` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-1.1` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-1.9` - Fareyle üzerine gelindiğinde negatif sağ konumu 1.9rem
+- `.hover:-right-1.8` - Fareyle üzerine gelindiğinde negatif sağ konumu 1.8rem
+- `.hover:-right-1.7` - Fareyle üzerine gelindiğinde negatif sağ konumu 1.7rem
+- `.hover:-right-1.6` - Fareyle üzerine gelindiğinde negatif sağ konumu 1.6rem
+- `.hover:-right-1.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 1.5rem
+- `.hover:-right-1.4` - Fareyle üzerine gelindiğinde negatif sağ konumu 1.4rem
+- `.hover:-right-1.3` - Fareyle üzerine gelindiğinde negatif sağ konumu 1.3rem
+- `.hover:-right-1.2` - Fareyle üzerine gelindiğinde negatif sağ konumu 1.2rem
+- `.hover:-right-1.1` - Fareyle üzerine gelindiğinde negatif sağ konumu 1.1rem
 - `.hover:-right-1` - Fareyle üzerine gelindiğinde negatif sağ konumu 1rem
-- `.hover:-right-0.9` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-0.8` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-0.7` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-0.6` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-0.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
-- `.hover:-right-0.4` - Fareyle üzerine gelindiğinde negatif sağ konumu 0rem
+- `.hover:-right-0.9` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.9rem
+- `.hover:-right-0.8` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.8rem
+- `.hover:-right-0.7` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.7rem
+- `.hover:-right-0.6` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.6rem
+- `.hover:-right-0.5` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.5rem
+- `.hover:-right-0.4` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.4rem
 - `.hover:-right-0.3` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.3rem
 - `.hover:-right-0.2` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.2rem
 - `.hover:-right-0.1` - Fareyle üzerine gelindiğinde negatif sağ konumu 0.1rem
@@ -3921,29 +3921,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.bottom-50` - Alt konumu %50
 - `.bottom-25` - Alt konumu %25
 - `.bottom-5` - Alt konumu 5rem
-- `.bottom-4.5` - Alt konumu 0rem
+- `.bottom-4.5` - Alt konumu 4.5rem
 - `.bottom-4` - Alt konumu 4rem
-- `.bottom-3.5` - Alt konumu 0rem
+- `.bottom-3.5` - Alt konumu 3.5rem
 - `.bottom-3` - Alt konumu 3rem
-- `.bottom-2.5` - Alt konumu 0rem
+- `.bottom-2.5` - Alt konumu 2.5rem
 - `.bottom-2` - Alt konumu 2rem
-- `.bottom-1.9` - Alt konumu 0rem
-- `.bottom-1.8` - Alt konumu 0rem
-- `.bottom-1.7` - Alt konumu 0rem
-- `.bottom-1.6` - Alt konumu 0rem
-- `.bottom-1.5` - Alt konumu 0rem
-- `.bottom-1.4` - Alt konumu 0rem
-- `.bottom-1.3` - Alt konumu 0rem
-- `.bottom-1.2` - Alt konumu 0rem
-- `.bottom-1.1` - Alt konumu 0rem
+- `.bottom-1.9` - Alt konumu 1.9rem
+- `.bottom-1.8` - Alt konumu 1.8rem
+- `.bottom-1.7` - Alt konumu 1.7rem
+- `.bottom-1.6` - Alt konumu 1.6rem
+- `.bottom-1.5` - Alt konumu 1.5rem
+- `.bottom-1.4` - Alt konumu 1.4rem
+- `.bottom-1.3` - Alt konumu 1.3rem
+- `.bottom-1.2` - Alt konumu 1.2rem
+- `.bottom-1.1` - Alt konumu 1.1rem
 - `.bottom-1` - Alt konumu 1rem
-- `.bottom-0.9` - Alt konumu 0rem
-- `.bottom-0.8` - Alt konumu 0rem
-- `.bottom-0.7` - Alt konumu 0rem
-- `.bottom-0.6` - Alt konumu 0rem
-- `.bottom-0.5` - Alt konumu 0rem
-- `.bottom-0.4` - Alt konumu 0rem
-- `.bottom-0.3` - Alt konumu 0rem
+- `.bottom-0.9` - Alt konumu 0.9rem
+- `.bottom-0.8` - Alt konumu 0.8rem
+- `.bottom-0.7` - Alt konumu 0.7rem
+- `.bottom-0.6` - Alt konumu 0.6rem
+- `.bottom-0.5` - Alt konumu 0.5rem
+- `.bottom-0.4` - Alt konumu 0.4rem
+- `.bottom-0.3` - Alt konumu 0.3rem
 - `.bottom-0.2` - Alt konumu 0.2rem
 - `.bottom-0.1` - Alt konumu 0.1rem
 - `.bottom-0` - Alt konumu 0rem
@@ -3952,29 +3952,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:bottom-50` - Fareyle üzerine gelindiğinde alt konumu %50
 - `.hover:bottom-25` - Fareyle üzerine gelindiğinde alt konumu %25
 - `.hover:bottom-5` - Fareyle üzerine gelindiğinde alt konumu 5rem
-- `.hover:bottom-4.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-4.5` - Fareyle üzerine gelindiğinde alt konumu 4.5rem
 - `.hover:bottom-4` - Fareyle üzerine gelindiğinde alt konumu 4rem
-- `.hover:bottom-3.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-3.5` - Fareyle üzerine gelindiğinde alt konumu 3.5rem
 - `.hover:bottom-3` - Fareyle üzerine gelindiğinde alt konumu 3rem
-- `.hover:bottom-2.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-2.5` - Fareyle üzerine gelindiğinde alt konumu 2.5rem
 - `.hover:bottom-2` - Fareyle üzerine gelindiğinde alt konumu 2rem
-- `.hover:bottom-1.9` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-1.8` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-1.7` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-1.6` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-1.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-1.4` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-1.3` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-1.2` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-1.1` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-1.9` - Fareyle üzerine gelindiğinde alt konumu 1.9rem
+- `.hover:bottom-1.8` - Fareyle üzerine gelindiğinde alt konumu 1.8rem
+- `.hover:bottom-1.7` - Fareyle üzerine gelindiğinde alt konumu 1.7rem
+- `.hover:bottom-1.6` - Fareyle üzerine gelindiğinde alt konumu 1.6rem
+- `.hover:bottom-1.5` - Fareyle üzerine gelindiğinde alt konumu 1.5rem
+- `.hover:bottom-1.4` - Fareyle üzerine gelindiğinde alt konumu 1.4rem
+- `.hover:bottom-1.3` - Fareyle üzerine gelindiğinde alt konumu 1.3rem
+- `.hover:bottom-1.2` - Fareyle üzerine gelindiğinde alt konumu 1.2rem
+- `.hover:bottom-1.1` - Fareyle üzerine gelindiğinde alt konumu 1.1rem
 - `.hover:bottom-1` - Fareyle üzerine gelindiğinde alt konumu 1rem
-- `.hover:bottom-0.9` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-0.8` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-0.7` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-0.6` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-0.5` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-0.4` - Fareyle üzerine gelindiğinde alt konumu 0rem
-- `.hover:bottom-0.3` - Fareyle üzerine gelindiğinde alt konumu 0rem
+- `.hover:bottom-0.9` - Fareyle üzerine gelindiğinde alt konumu 0.9rem
+- `.hover:bottom-0.8` - Fareyle üzerine gelindiğinde alt konumu 0.8rem
+- `.hover:bottom-0.7` - Fareyle üzerine gelindiğinde alt konumu 0.7rem
+- `.hover:bottom-0.6` - Fareyle üzerine gelindiğinde alt konumu 0.6rem
+- `.hover:bottom-0.5` - Fareyle üzerine gelindiğinde alt konumu 0.5rem
+- `.hover:bottom-0.4` - Fareyle üzerine gelindiğinde alt konumu 0.4rem
+- `.hover:bottom-0.3` - Fareyle üzerine gelindiğinde alt konumu 0.3rem
 - `.hover:bottom-0.2` - Fareyle üzerine gelindiğinde alt konumu 0.2rem
 - `.hover:bottom-0.1` - Fareyle üzerine gelindiğinde alt konumu 0.1rem
 - `.hover:bottom-0` - Fareyle üzerine gelindiğinde alt konumu 0rem
@@ -3982,54 +3982,54 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 ##### Negative Bottom
 
 - `.-bottom-5` - Negatif alt konumu 5rem
-- `.-bottom-4.5` - Negatif alt konumu 0rem
+- `.-bottom-4.5` - Negatif alt konumu 4.5rem
 - `.-bottom-4` - Negatif alt konumu 4rem
-- `.-bottom-3.5` - Negatif alt konumu 0rem
+- `.-bottom-3.5` - Negatif alt konumu 3.5rem
 - `.-bottom-3` - Negatif alt konumu 3rem
-- `.-bottom-2.5` - Negatif alt konumu 0rem
+- `.-bottom-2.5` - Negatif alt konumu 2.5rem
 - `.-bottom-2` - Negatif alt konumu 2rem
-- `.-bottom-1.9` - Negatif alt konumu 0rem
-- `.-bottom-1.8` - Negatif alt konumu 0rem
-- `.-bottom-1.7` - Negatif alt konumu 0rem
-- `.-bottom-1.6` - Negatif alt konumu 0rem
-- `.-bottom-1.5` - Negatif alt konumu 0rem
-- `.-bottom-1.4` - Negatif alt konumu 0rem
-- `.-bottom-1.3` - Negatif alt konumu 0rem
-- `.-bottom-1.2` - Negatif alt konumu 0rem
-- `.-bottom-1.1` - Negatif alt konumu 0rem
+- `.-bottom-1.9` - Negatif alt konumu 1.9rem
+- `.-bottom-1.8` - Negatif alt konumu 1.8rem
+- `.-bottom-1.7` - Negatif alt konumu 1.7rem
+- `.-bottom-1.6` - Negatif alt konumu 1.6rem
+- `.-bottom-1.5` - Negatif alt konumu 1.5rem
+- `.-bottom-1.4` - Negatif alt konumu 1.4rem
+- `.-bottom-1.3` - Negatif alt konumu 1.3rem
+- `.-bottom-1.2` - Negatif alt konumu 1.2rem
+- `.-bottom-1.1` - Negatif alt konumu 1.1rem
 - `.-bottom-1` - Negatif alt konumu 1rem
-- `.-bottom-0.9` - Negatif alt konumu 0rem
-- `.-bottom-0.8` - Negatif alt konumu 0rem
-- `.-bottom-0.7` - Negatif alt konumu 0rem
-- `.-bottom-0.6` - Negatif alt konumu 0rem
-- `.-bottom-0.5` - Negatif alt konumu 0rem
-- `.-bottom-0.4` - Negatif alt konumu 0rem
+- `.-bottom-0.9` - Negatif alt konumu 0.9rem
+- `.-bottom-0.8` - Negatif alt konumu 0.8rem
+- `.-bottom-0.7` - Negatif alt konumu 0.7rem
+- `.-bottom-0.6` - Negatif alt konumu 0.6rem
+- `.-bottom-0.5` - Negatif alt konumu 0.5rem
+- `.-bottom-0.4` - Negatif alt konumu 0.4rem
 - `.-bottom-0.3` - Negatif alt konumu 0.3rem
 - `.-bottom-0.2` - Negatif alt konumu 0.2rem
 - `.-bottom-0.1` - Negatif alt konumu 0.1rem
 - `.hover:-bottom-5` - Fareyle üzerine gelindiğinde negatif alt konumu 5rem
-- `.hover:-bottom-4.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-4.5` - Fareyle üzerine gelindiğinde negatif alt konumu 4.5rem
 - `.hover:-bottom-4` - Fareyle üzerine gelindiğinde negatif alt konumu 4rem
-- `.hover:-bottom-3.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-3.5` - Fareyle üzerine gelindiğinde negatif alt konumu 3.5rem
 - `.hover:-bottom-3` - Fareyle üzerine gelindiğinde negatif alt konumu 3rem
-- `.hover:-bottom-2.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-2.5` - Fareyle üzerine gelindiğinde negatif alt konumu 2.5rem
 - `.hover:-bottom-2` - Fareyle üzerine gelindiğinde negatif alt konumu 2rem
-- `.hover:-bottom-1.9` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-1.8` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-1.7` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-1.6` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-1.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-1.4` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-1.3` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-1.2` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-1.1` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-1.9` - Fareyle üzerine gelindiğinde negatif alt konumu 1.9rem
+- `.hover:-bottom-1.8` - Fareyle üzerine gelindiğinde negatif alt konumu 1.8rem
+- `.hover:-bottom-1.7` - Fareyle üzerine gelindiğinde negatif alt konumu 1.7rem
+- `.hover:-bottom-1.6` - Fareyle üzerine gelindiğinde negatif alt konumu 1.6rem
+- `.hover:-bottom-1.5` - Fareyle üzerine gelindiğinde negatif alt konumu 1.5rem
+- `.hover:-bottom-1.4` - Fareyle üzerine gelindiğinde negatif alt konumu 1.4rem
+- `.hover:-bottom-1.3` - Fareyle üzerine gelindiğinde negatif alt konumu 1.3rem
+- `.hover:-bottom-1.2` - Fareyle üzerine gelindiğinde negatif alt konumu 1.2rem
+- `.hover:-bottom-1.1` - Fareyle üzerine gelindiğinde negatif alt konumu 1.1rem
 - `.hover:-bottom-1` - Fareyle üzerine gelindiğinde negatif alt konumu 1rem
-- `.hover:-bottom-0.9` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-0.8` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-0.7` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-0.6` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-0.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
-- `.hover:-bottom-0.4` - Fareyle üzerine gelindiğinde negatif alt konumu 0rem
+- `.hover:-bottom-0.9` - Fareyle üzerine gelindiğinde negatif alt konumu 0.9rem
+- `.hover:-bottom-0.8` - Fareyle üzerine gelindiğinde negatif alt konumu 0.8rem
+- `.hover:-bottom-0.7` - Fareyle üzerine gelindiğinde negatif alt konumu 0.7rem
+- `.hover:-bottom-0.6` - Fareyle üzerine gelindiğinde negatif alt konumu 0.6rem
+- `.hover:-bottom-0.5` - Fareyle üzerine gelindiğinde negatif alt konumu 0.5rem
+- `.hover:-bottom-0.4` - Fareyle üzerine gelindiğinde negatif alt konumu 0.4rem
 - `.hover:-bottom-0.3` - Fareyle üzerine gelindiğinde negatif alt konumu 0.3rem
 - `.hover:-bottom-0.2` - Fareyle üzerine gelindiğinde negatif alt konumu 0.2rem
 - `.hover:-bottom-0.1` - Fareyle üzerine gelindiğinde negatif alt konumu 0.1rem
@@ -4041,29 +4041,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:left-50` - Fareyle üzerine gelindiğinde sol konumu %50
 - `.hover:left-25` - Fareyle üzerine gelindiğinde sol konumu %25
 - `.hover:left-5` - Fareyle üzerine gelindiğinde sol konumu 5rem
-- `.hover:left-4.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-4.5` - Fareyle üzerine gelindiğinde sol konumu 4.5rem
 - `.hover:left-4` - Fareyle üzerine gelindiğinde sol konumu 4rem
-- `.hover:left-3.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-3.5` - Fareyle üzerine gelindiğinde sol konumu 3.5rem
 - `.hover:left-3` - Fareyle üzerine gelindiğinde sol konumu 3rem
-- `.hover:left-2.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-2.5` - Fareyle üzerine gelindiğinde sol konumu 2.5rem
 - `.hover:left-2` - Fareyle üzerine gelindiğinde sol konumu 2rem
-- `.hover:left-1.9` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-1.8` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-1.7` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-1.6` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-1.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-1.4` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-1.3` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-1.2` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-1.1` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-1.9` - Fareyle üzerine gelindiğinde sol konumu 1.9rem
+- `.hover:left-1.8` - Fareyle üzerine gelindiğinde sol konumu 1.8rem
+- `.hover:left-1.7` - Fareyle üzerine gelindiğinde sol konumu 1.7rem
+- `.hover:left-1.6` - Fareyle üzerine gelindiğinde sol konumu 1.6rem
+- `.hover:left-1.5` - Fareyle üzerine gelindiğinde sol konumu 1.5rem
+- `.hover:left-1.4` - Fareyle üzerine gelindiğinde sol konumu 1.4rem
+- `.hover:left-1.3` - Fareyle üzerine gelindiğinde sol konumu 1.3rem
+- `.hover:left-1.2` - Fareyle üzerine gelindiğinde sol konumu 1.2rem
+- `.hover:left-1.1` - Fareyle üzerine gelindiğinde sol konumu 1.1rem
 - `.hover:left-1` - Fareyle üzerine gelindiğinde sol konumu 1rem
-- `.hover:left-0.9` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-0.8` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-0.7` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-0.6` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-0.5` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-0.4` - Fareyle üzerine gelindiğinde sol konumu 0rem
-- `.hover:left-0.3` - Fareyle üzerine gelindiğinde sol konumu 0rem
+- `.hover:left-0.9` - Fareyle üzerine gelindiğinde sol konumu 0.9rem
+- `.hover:left-0.8` - Fareyle üzerine gelindiğinde sol konumu 0.8rem
+- `.hover:left-0.7` - Fareyle üzerine gelindiğinde sol konumu 0.7rem
+- `.hover:left-0.6` - Fareyle üzerine gelindiğinde sol konumu 0.6rem
+- `.hover:left-0.5` - Fareyle üzerine gelindiğinde sol konumu 0.5rem
+- `.hover:left-0.4` - Fareyle üzerine gelindiğinde sol konumu 0.4rem
+- `.hover:left-0.3` - Fareyle üzerine gelindiğinde sol konumu 0.3rem
 - `.hover:left-0.2` - Fareyle üzerine gelindiğinde sol konumu 0.2rem
 - `.hover:left-0.1` - Fareyle üzerine gelindiğinde sol konumu 0.1rem
 - `.hover:left-0` - Fareyle üzerine gelindiğinde sol konumu 0rem
@@ -4072,29 +4072,29 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.left-50` - Sol konumu %50
 - `.left-25` - Sol konumu %25
 - `.left-5` - Sol konumu 5rem
-- `.left-4.5` - Sol konumu 0rem
+- `.left-4.5` - Sol konumu 4.5rem
 - `.left-4` - Sol konumu 4rem
-- `.left-3.5` - Sol konumu 0rem
+- `.left-3.5` - Sol konumu 3.5rem
 - `.left-3` - Sol konumu 3rem
-- `.left-2.5` - Sol konumu 0rem
+- `.left-2.5` - Sol konumu 2.5rem
 - `.left-2` - Sol konumu 2rem
-- `.left-1.9` - Sol konumu 0rem
-- `.left-1.8` - Sol konumu 0rem
-- `.left-1.7` - Sol konumu 0rem
-- `.left-1.6` - Sol konumu 0rem
-- `.left-1.5` - Sol konumu 0rem
-- `.left-1.4` - Sol konumu 0rem
-- `.left-1.3` - Sol konumu 0rem
-- `.left-1.2` - Sol konumu 0rem
-- `.left-1.1` - Sol konumu 0rem
+- `.left-1.9` - Sol konumu 1.9rem
+- `.left-1.8` - Sol konumu 1.8rem
+- `.left-1.7` - Sol konumu 1.7rem
+- `.left-1.6` - Sol konumu 1.6rem
+- `.left-1.5` - Sol konumu 1.5rem
+- `.left-1.4` - Sol konumu 1.4rem
+- `.left-1.3` - Sol konumu 1.3rem
+- `.left-1.2` - Sol konumu 1.2rem
+- `.left-1.1` - Sol konumu 1.1rem
 - `.left-1` - Sol konumu 1rem
-- `.left-0.9` - Sol konumu 0rem
-- `.left-0.8` - Sol konumu 0rem
-- `.left-0.7` - Sol konumu 0rem
-- `.left-0.6` - Sol konumu 0rem
-- `.left-0.5` - Sol konumu 0rem
-- `.left-0.4` - Sol konumu 0rem
-- `.left-0.3` - Sol konumu 0rem
+- `.left-0.9` - Sol konumu 0.9rem
+- `.left-0.8` - Sol konumu 0.8rem
+- `.left-0.7` - Sol konumu 0.7rem
+- `.left-0.6` - Sol konumu 0.6rem
+- `.left-0.5` - Sol konumu 0.5rem
+- `.left-0.4` - Sol konumu 0.4rem
+- `.left-0.3` - Sol konumu 0.3rem
 - `.left-0.2` - Sol konumu 0.2rem
 - `.left-0.1` - Sol konumu 0.1rem
 - `.left-0` - Sol konumu 0rem
@@ -4102,54 +4102,54 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 ##### Negative Left
 
 - `.-left-5` - Negatif sol konumu 5rem
-- `.-left-4.5` - Negatif sol konumu 0rem
+- `.-left-4.5` - Negatif sol konumu 4.5rem
 - `.-left-4` - Negatif sol konumu 4rem
-- `.-left-3.5` - Negatif sol konumu 0rem
+- `.-left-3.5` - Negatif sol konumu 3.5rem
 - `.-left-3` - Negatif sol konumu 3rem
-- `.-left-2.5` - Negatif sol konumu 0rem
+- `.-left-2.5` - Negatif sol konumu 2.5rem
 - `.-left-2` - Negatif sol konumu 2rem
-- `.-left-1.9` - Negatif sol konumu 0rem
-- `.-left-1.8` - Negatif sol konumu 0rem
-- `.-left-1.7` - Negatif sol konumu 0rem
-- `.-left-1.6` - Negatif sol konumu 0rem
-- `.-left-1.5` - Negatif sol konumu 0rem
-- `.-left-1.4` - Negatif sol konumu 0rem
-- `.-left-1.3` - Negatif sol konumu 0rem
-- `.-left-1.2` - Negatif sol konumu 0rem
-- `.-left-1.1` - Negatif sol konumu 0rem
+- `.-left-1.9` - Negatif sol konumu 1.9rem
+- `.-left-1.8` - Negatif sol konumu 1.8rem
+- `.-left-1.7` - Negatif sol konumu 1.7rem
+- `.-left-1.6` - Negatif sol konumu 1.6rem
+- `.-left-1.5` - Negatif sol konumu 1.5rem
+- `.-left-1.4` - Negatif sol konumu 1.4rem
+- `.-left-1.3` - Negatif sol konumu 1.3rem
+- `.-left-1.2` - Negatif sol konumu 1.2rem
+- `.-left-1.1` - Negatif sol konumu 1.1rem
 - `.-left-1` - Negatif sol konumu 1rem
-- `.-left-0.9` - Negatif sol konumu 0rem
-- `.-left-0.8` - Negatif sol konumu 0rem
-- `.-left-0.7` - Negatif sol konumu 0rem
-- `.-left-0.6` - Negatif sol konumu 0rem
-- `.-left-0.5` - Negatif sol konumu 0rem
-- `.-left-0.4` - Negatif sol konumu 0rem
+- `.-left-0.9` - Negatif sol konumu 0.9rem
+- `.-left-0.8` - Negatif sol konumu 0.8rem
+- `.-left-0.7` - Negatif sol konumu 0.7rem
+- `.-left-0.6` - Negatif sol konumu 0.6rem
+- `.-left-0.5` - Negatif sol konumu 0.5rem
+- `.-left-0.4` - Negatif sol konumu 0.4rem
 - `.-left-0.3` - Negatif sol konumu 0.3rem
 - `.-left-0.2` - Negatif sol konumu 0.2rem
 - `.-left-0.1` - Negatif sol konumu 0.1rem
 - `.hover:-left-5` - Fareyle üzerine gelindiğinde negatif sol konumu 5rem
-- `.hover:-left-4.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-4.5` - Fareyle üzerine gelindiğinde negatif sol konumu 4.5rem
 - `.hover:-left-4` - Fareyle üzerine gelindiğinde negatif sol konumu 4rem
-- `.hover:-left-3.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-3.5` - Fareyle üzerine gelindiğinde negatif sol konumu 3.5rem
 - `.hover:-left-3` - Fareyle üzerine gelindiğinde negatif sol konumu 3rem
-- `.hover:-left-2.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-2.5` - Fareyle üzerine gelindiğinde negatif sol konumu 2.5rem
 - `.hover:-left-2` - Fareyle üzerine gelindiğinde negatif sol konumu 2rem
-- `.hover:-left-1.9` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-1.8` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-1.7` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-1.6` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-1.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-1.4` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-1.3` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-1.2` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-1.1` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-1.9` - Fareyle üzerine gelindiğinde negatif sol konumu 1.9rem
+- `.hover:-left-1.8` - Fareyle üzerine gelindiğinde negatif sol konumu 1.8rem
+- `.hover:-left-1.7` - Fareyle üzerine gelindiğinde negatif sol konumu 1.7rem
+- `.hover:-left-1.6` - Fareyle üzerine gelindiğinde negatif sol konumu 1.6rem
+- `.hover:-left-1.5` - Fareyle üzerine gelindiğinde negatif sol konumu 1.5rem
+- `.hover:-left-1.4` - Fareyle üzerine gelindiğinde negatif sol konumu 1.4rem
+- `.hover:-left-1.3` - Fareyle üzerine gelindiğinde negatif sol konumu 1.3rem
+- `.hover:-left-1.2` - Fareyle üzerine gelindiğinde negatif sol konumu 1.2rem
+- `.hover:-left-1.1` - Fareyle üzerine gelindiğinde negatif sol konumu 1.1rem
 - `.hover:-left-1` - Fareyle üzerine gelindiğinde negatif sol konumu 1rem
-- `.hover:-left-0.9` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-0.8` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-0.7` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-0.6` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-0.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
-- `.hover:-left-0.4` - Fareyle üzerine gelindiğinde negatif sol konumu 0rem
+- `.hover:-left-0.9` - Fareyle üzerine gelindiğinde negatif sol konumu 0.9rem
+- `.hover:-left-0.8` - Fareyle üzerine gelindiğinde negatif sol konumu 0.8rem
+- `.hover:-left-0.7` - Fareyle üzerine gelindiğinde negatif sol konumu 0.7rem
+- `.hover:-left-0.6` - Fareyle üzerine gelindiğinde negatif sol konumu 0.6rem
+- `.hover:-left-0.5` - Fareyle üzerine gelindiğinde negatif sol konumu 0.5rem
+- `.hover:-left-0.4` - Fareyle üzerine gelindiğinde negatif sol konumu 0.4rem
 - `.hover:-left-0.3` - Fareyle üzerine gelindiğinde negatif sol konumu 0.3rem
 - `.hover:-left-0.2` - Fareyle üzerine gelindiğinde negatif sol konumu 0.2rem
 - `.hover:-left-0.1` - Fareyle üzerine gelindiğinde negatif sol konumu 0.1rem
@@ -4196,66 +4196,66 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 ### Font Size
 
 - `.font-size-10` - Yazı Tipi Boyutu 10rem
-- `.font-size-9.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-9.5` - Yazı Tipi Boyutu 9.5rem
 - `.font-size-9` - Yazı Tipi Boyutu 9rem
-- `.font-size-8.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-8.5` - Yazı Tipi Boyutu 8.5rem
 - `.font-size-8` - Yazı Tipi Boyutu 8rem
-- `.font-size-7.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-7.5` - Yazı Tipi Boyutu 7.5rem
 - `.font-size-7` - Yazı Tipi Boyutu 7rem
-- `.font-size-6.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-6.5` - Yazı Tipi Boyutu 6.5rem
 - `.font-size-6` - Yazı Tipi Boyutu 6rem
-- `.font-size-5.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-5.5` - Yazı Tipi Boyutu 5.5rem
 - `.font-size-5` - Yazı Tipi Boyutu 5rem
-- `.font-size-4.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-4.5` - Yazı Tipi Boyutu 4.5rem
 - `.font-size-4` - Yazı Tipi Boyutu 4rem
-- `.font-size-3.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-3.5` - Yazı Tipi Boyutu 3.5rem
 - `.font-size-3` - Yazı Tipi Boyutu 3rem
-- `.font-size-2.5` - Yazı Tipi Boyutu 0rem
+- `.font-size-2.5` - Yazı Tipi Boyutu 2.5rem
 - `.font-size-2` - Yazı Tipi Boyutu 2rem
-- `.font-size-1.9` - Yazı Tipi Boyutu 0rem
-- `.font-size-1.8` - Yazı Tipi Boyutu 0rem
-- `.font-size-1.7` - Yazı Tipi Boyutu 0rem
-- `.font-size-1.6` - Yazı Tipi Boyutu 0rem
-- `.font-size-1.5` - Yazı Tipi Boyutu 0rem
-- `.font-size-1.4` - Yazı Tipi Boyutu 0rem
-- `.font-size-1.3` - Yazı Tipi Boyutu 0rem
-- `.font-size-1.2` - Yazı Tipi Boyutu 0rem
-- `.font-size-1.1` - Yazı Tipi Boyutu 0rem
+- `.font-size-1.9` - Yazı Tipi Boyutu 1.9rem
+- `.font-size-1.8` - Yazı Tipi Boyutu 1.8rem
+- `.font-size-1.7` - Yazı Tipi Boyutu 1.7rem
+- `.font-size-1.6` - Yazı Tipi Boyutu 1.6rem
+- `.font-size-1.5` - Yazı Tipi Boyutu 1.5rem
+- `.font-size-1.4` - Yazı Tipi Boyutu 1.4rem
+- `.font-size-1.3` - Yazı Tipi Boyutu 1.3rem
+- `.font-size-1.2` - Yazı Tipi Boyutu 1.2rem
+- `.font-size-1.1` - Yazı Tipi Boyutu 1.1rem
 - `.font-size-1` - Yazı Tipi Boyutu 1rem
-- `.font-size-0.9` - Yazı Tipi Boyutu 0rem
-- `.font-size-0.8` - Yazı Tipi Boyutu 0rem
+- `.font-size-0.9` - Yazı Tipi Boyutu 0.9rem
+- `.font-size-0.8` - Yazı Tipi Boyutu 0.8rem
 - `.font-size-0.7` - Yazı Tipi Boyutu 0,7rem
 - `.font-size-0.6` - Yazı Tipi Boyutu 0,6rem
 - `.font-size-0.5` - Yazı Tipi Boyutu 0,5rem
 - `.hover:font-size-10` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 10rem
-- `.hover:font-size-9.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-9.5` - Yazı Tipi Boyutu 9.5rem fareyle üzerine gelindiğinde
 - `.hover:font-size-9` - Vurguluyken Yazı Tipi Boyutu 9rem
-- `.hover:font-size-8.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-8.5` - Yazı Tipi Boyutu 8.5rem fareyle üzerine gelindiğinde
 - `.hover:font-size-8` - Vurguluyken Yazı Tipi Boyutu 8rem
-- `.hover:font-size-7.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-7.5` - Yazı Tipi Boyutu 7.5rem fareyle üzerine gelindiğinde
 - `.hover:font-size-7` - Vurguluyken Yazı Tipi Boyutu 7rem
-- `.hover:font-size-6.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-6.5` - Yazı Tipi Boyutu 6.5rem fareyle üzerine gelindiğinde
 - `.hover:font-size-6` - Vurguluyken Yazı Tipi Boyutu 6rem
-- `.hover:font-size-5.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-5.5` - Yazı Tipi Boyutu 5.5rem fareyle üzerine gelindiğinde
 - `.hover:font-size-5` - Vurguluyken Yazı Tipi Boyutu 5rem
-- `.hover:font-size-4.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-4.5` - Yazı Tipi Boyutu 4.5rem fareyle üzerine gelindiğinde
 - `.hover:font-size-4` - Vurguluyken Yazı Tipi Boyutu 4rem
-- `.hover:font-size-3.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-3.5` - Yazı Tipi Boyutu 3.5rem fareyle üzerine gelindiğinde
 - `.hover:font-size-3` - Vurguluyken Yazı Tipi Boyutu 3rem
-- `.hover:font-size-2.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-2.5` - Yazı Tipi Boyutu 2.5rem fareyle üzerine gelindiğinde
 - `.hover:font-size-2` - Vurguluyken Yazı Tipi Boyutu 2rem
-- `.hover:font-size-1.9` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-1.8` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-1.7` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-1.6` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-1.5` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-1.4` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-1.3` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-1.2` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-1.1` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-1.9` - Yazı Tipi Boyutu 1.9rem fareyle üzerine gelindiğinde
+- `.hover:font-size-1.8` - Yazı Tipi Boyutu 1.8rem fareyle üzerine gelindiğinde
+- `.hover:font-size-1.7` - Yazı Tipi Boyutu 1.7rem fareyle üzerine gelindiğinde
+- `.hover:font-size-1.6` - Yazı Tipi Boyutu 1.6rem fareyle üzerine gelindiğinde
+- `.hover:font-size-1.5` - Yazı Tipi Boyutu 1.5rem fareyle üzerine gelindiğinde
+- `.hover:font-size-1.4` - Yazı Tipi Boyutu 1.4rem fareyle üzerine gelindiğinde
+- `.hover:font-size-1.3` - Yazı Tipi Boyutu 1.3rem fareyle üzerine gelindiğinde
+- `.hover:font-size-1.2` - Yazı Tipi Boyutu 1.2rem fareyle üzerine gelindiğinde
+- `.hover:font-size-1.1` - Yazı Tipi Boyutu 1.1rem fareyle üzerine gelindiğinde
 - `.hover:font-size-1` - Vurguluyken Yazı Tipi Boyutu 1rem
-- `.hover:font-size-0.9` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
-- `.hover:font-size-0.8` - Yazı Tipi Boyutu 0rem fareyle üzerine gelindiğinde
+- `.hover:font-size-0.9` - Yazı Tipi Boyutu 0.9rem fareyle üzerine gelindiğinde
+- `.hover:font-size-0.8` - Yazı Tipi Boyutu 0.8rem fareyle üzerine gelindiğinde
 - `.hover:font-size-0.7` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 0,7rem
 - `.hover:font-size-0.6` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 0,6rem
 - `.hover:font-size-0.5` - Yazı Tipi Boyutu: Fareyle üzerine gelindiğinde 0,5rem
@@ -4286,22 +4286,22 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 ### Letter spacing
 
 - `.hover:letter-spacing-1` - Fareyle üzerine gelindiğinde harf aralığı 1rem
-- `.hover:letter-spacing-0.9` - Fareyle üzerine gelindiğinde harf aralığı 0rem
-- `.hover:letter-spacing-0.8` - Fareyle üzerine gelindiğinde harf aralığı 0rem
-- `.hover:letter-spacing-0.7` - Fareyle üzerine gelindiğinde harf aralığı 0rem
-- `.hover:letter-spacing-0.6` - Fareyle üzerine gelindiğinde harf aralığı 0rem
-- `.hover:letter-spacing-0.5` - Fareyle üzerine gelindiğinde harf aralığı 0rem
-- `.hover:letter-spacing-0.4` - Fareyle üzerine gelindiğinde harf aralığı 0rem
+- `.hover:letter-spacing-0.9` - Fareyle üzerine gelindiğinde harf aralığı 0.9rem
+- `.hover:letter-spacing-0.8` - Fareyle üzerine gelindiğinde harf aralığı 0.8rem
+- `.hover:letter-spacing-0.7` - Fareyle üzerine gelindiğinde harf aralığı 0.7rem
+- `.hover:letter-spacing-0.6` - Fareyle üzerine gelindiğinde harf aralığı 0.6rem
+- `.hover:letter-spacing-0.5` - Fareyle üzerine gelindiğinde harf aralığı 0.5rem
+- `.hover:letter-spacing-0.4` - Fareyle üzerine gelindiğinde harf aralığı 0.4rem
 - `.hover:letter-spacing-0.3` - Fareyle üzerine gelindiğinde harf aralığı 0,3rem
 - `.hover:letter-spacing-0.2` - Fareyle üzerine gelindiğinde harf aralığı 0,2rem
 - `.hover:letter-spacing-0.1` - Fareyle üzerine gelindiğinde harf aralığı 0,1rem
 - `.letter-spacing-1` - Harf aralığı 1rem
-- `.letter-spacing-0.9` - Harf aralığı 0rem
-- `.letter-spacing-0.8` - Harf aralığı 0rem
-- `.letter-spacing-0.7` - Harf aralığı 0rem
-- `.letter-spacing-0.6` - Harf aralığı 0rem
-- `.letter-spacing-0.5` - Harf aralığı 0rem
-- `.letter-spacing-0.4` - Harf aralığı 0rem
+- `.letter-spacing-0.9` - Harf aralığı 0.9rem
+- `.letter-spacing-0.8` - Harf aralığı 0.8rem
+- `.letter-spacing-0.7` - Harf aralığı 0.7rem
+- `.letter-spacing-0.6` - Harf aralığı 0.6rem
+- `.letter-spacing-0.5` - Harf aralığı 0.5rem
+- `.letter-spacing-0.4` - Harf aralığı 0.4rem
 - `.letter-spacing-0.3` - Harf aralığı 0,3rem
 - `.letter-spacing-0.2` - Harf aralığı 0,2rem
 - `.letter-spacing-0.1` - Harf aralığı 0,1rem
@@ -4533,28 +4533,28 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border All
 
 - `.border-2` - Kenarlık Tümü 2rem
-- `.border-1.5` - Kenarlık Tümü 0rem
+- `.border-1.5` - Kenarlık Tümü 1.5rem
 - `.border-1` - Kenarlık Tümü 1rem
-- `.border-0.9` - Kenarlık Tümü 0rem
-- `.border-0.8` - Kenarlık Tümü 0rem
-- `.border-0.7` - Kenarlık Tümü 0rem
-- `.border-0.6` - Kenarlık Tümü 0rem
-- `.border-0.5` - Kenarlık Tümü 0rem
+- `.border-0.9` - Kenarlık Tümü 0.9rem
+- `.border-0.8` - Kenarlık Tümü 0.8rem
+- `.border-0.7` - Kenarlık Tümü 0.7rem
+- `.border-0.6` - Kenarlık Tümü 0.6rem
+- `.border-0.5` - Kenarlık Tümü 0.5rem
 - `.border-0.4` - Kenarlık Tümü 0.4rem
-- `.border-0.3` - Kenarlık Tümü 0rem
+- `.border-0.3` - Kenarlık Tümü 0.3rem
 - `.border-0.2` - Kenarlık Tümü 0.2rem
 - `.border-0.1` - Kenarlık Tümü 0.1rem
 - `.border-0` - Kenarlık Tümü 0rem
 - `.hover:border-2` - Kenarlık Tümü 2rem fareyle üzerine gelindiğinde
-- `.hover:border-1.5` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:border-1.5` - Kenarlık Tümü 1.5rem fareyle üzerine gelindiğinde
 - `.hover:border-1` - Kenarlık Tümü 1rem fareyle üzerine gelindiğinde
-- `.hover:border-0.9` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:border-0.8` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:border-0.7` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:border-0.6` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:border-0.5` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:border-0.4` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:border-0.3` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:border-0.9` - Kenarlık Tümü 0.9rem fareyle üzerine gelindiğinde
+- `.hover:border-0.8` - Kenarlık Tümü 0.8rem fareyle üzerine gelindiğinde
+- `.hover:border-0.7` - Kenarlık Tümü 0.7rem fareyle üzerine gelindiğinde
+- `.hover:border-0.6` - Kenarlık Tümü 0.6rem fareyle üzerine gelindiğinde
+- `.hover:border-0.5` - Kenarlık Tümü 0.5rem fareyle üzerine gelindiğinde
+- `.hover:border-0.4` - Kenarlık Tümü 0.4rem fareyle üzerine gelindiğinde
+- `.hover:border-0.3` - Kenarlık Tümü 0.3rem fareyle üzerine gelindiğinde
 - `.hover:border-0.2` - Kenarlık Tümü 0,2rem fareyle üzerine gelindiğinde
 - `.hover:border-0.1` - Kenarlık Tümü 0,1rem fareyle üzerine gelindiğinde
 - `.hover:border-0` - Kenarlık Tümü 0rem fareyle üzerine gelindiğinde
@@ -4562,28 +4562,28 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Bottom
 
 - `.border-b-2` - Kenarlık Alt 2rem
-- `.border-b-1.5` - Kenarlık Alt 0rem
+- `.border-b-1.5` - Kenarlık Alt 1.5rem
 - `.border-b-1` - Kenarlık Alt 1rem
-- `.border-b-0.9` - Kenarlık Alt 0rem
-- `.border-b-0.8` - Kenarlık Alt 0rem
-- `.border-b-0.7` - Kenarlık Alt 0rem
-- `.border-b-0.6` - Kenarlık Alt 0rem
+- `.border-b-0.9` - Kenarlık Alt 0.9rem
+- `.border-b-0.8` - Kenarlık Alt 0.8rem
+- `.border-b-0.7` - Kenarlık Alt 0.7rem
+- `.border-b-0.6` - Kenarlık Alt 0.6rem
 - `.border-b-0.5` - Kenarlık Alt 0,5rem
-- `.border-b-0.4` - Kenarlık Alt 0rem
-- `.border-b-0.3` - Kenarlık Alt 0rem
+- `.border-b-0.4` - Kenarlık Alt 0.4rem
+- `.border-b-0.3` - Kenarlık Alt 0.3rem
 - `.border-b-0.2` - Kenarlık Alt 0,2rem
 - `.border-b-0.1` - Kenarlık Alt 0,1rem
 - `.border-b-0` - Kenarlık Alt 0rem
 - `.hover:border-b-2` - Fareyle üzerine gelindiğinde Kenarlık Alt 2rem
-- `.hover:border-b-1.5` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
+- `.hover:border-b-1.5` - Fareyle üzerine gelindiğinde Kenarlık Alt 1.5rem
 - `.hover:border-b-1` - Fareyle üzerine gelindiğinde Kenarlık Alt 1rem
-- `.hover:border-b-0.9` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
-- `.hover:border-b-0.8` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
-- `.hover:border-b-0.7` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
-- `.hover:border-b-0.6` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
-- `.hover:border-b-0.5` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
-- `.hover:border-b-0.4` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
-- `.hover:border-b-0.3` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
+- `.hover:border-b-0.9` - Fareyle üzerine gelindiğinde Kenarlık Alt 0.9rem
+- `.hover:border-b-0.8` - Fareyle üzerine gelindiğinde Kenarlık Alt 0.8rem
+- `.hover:border-b-0.7` - Fareyle üzerine gelindiğinde Kenarlık Alt 0.7rem
+- `.hover:border-b-0.6` - Fareyle üzerine gelindiğinde Kenarlık Alt 0.6rem
+- `.hover:border-b-0.5` - Fareyle üzerine gelindiğinde Kenarlık Alt 0.5rem
+- `.hover:border-b-0.4` - Fareyle üzerine gelindiğinde Kenarlık Alt 0.4rem
+- `.hover:border-b-0.3` - Fareyle üzerine gelindiğinde Kenarlık Alt 0.3rem
 - `.hover:border-b-0.2` - Fareyle üzerine gelindiğinde Kenarlık Alt kısmı 0,2rem
 - `.hover:border-b-0.1` - Fareyle üzerine gelindiğinde Kenarlık Alt kısmı 0,1rem
 - `.hover:border-b-0` - Fareyle üzerine gelindiğinde Kenarlık Alt 0rem
@@ -4591,28 +4591,28 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Left
 
 - `.border-l-2` - Kenarlık Sol 2rem
-- `.border-l-1.5` - Kenarlık Sol 0rem
+- `.border-l-1.5` - Kenarlık Sol 1.5rem
 - `.border-l-1` - Kenarlık Sol 1rem
-- `.border-l-0.9` - Kenarlık Sol 0rem
-- `.border-l-0.8` - Kenarlık Sol 0rem
-- `.border-l-0.7` - Kenarlık Sol 0rem
-- `.border-l-0.6` - Kenarlık Sol 0rem
-- `.border-l-0.5` - Kenarlık Sol 0rem
-- `.border-l-0.4` - Kenarlık Sol 0rem
-- `.border-l-0.3` - Kenarlık Sol 0rem
+- `.border-l-0.9` - Kenarlık Sol 0.9rem
+- `.border-l-0.8` - Kenarlık Sol 0.8rem
+- `.border-l-0.7` - Kenarlık Sol 0.7rem
+- `.border-l-0.6` - Kenarlık Sol 0.6rem
+- `.border-l-0.5` - Kenarlık Sol 0.5rem
+- `.border-l-0.4` - Kenarlık Sol 0.4rem
+- `.border-l-0.3` - Kenarlık Sol 0.3rem
 - `.border-l-0.2` - Kenarlık Sol 0,2rem
 - `.border-l-0.1` - Kenarlık Sol 0,1rem
 - `.border-l-0` - Kenarlık Sol 0rem
 - `.hover:border-l-2` - Fareyle üzerine gelindiğinde Kenarlık Sol 2rem
-- `.hover:border-l-1.5` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
+- `.hover:border-l-1.5` - Fareyle üzerine gelindiğinde Kenarlık Sol 1.5rem
 - `.hover:border-l-1` - Fareyle üzerine gelindiğinde Kenarlık Sol 1rem
-- `.hover:border-l-0.9` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
-- `.hover:border-l-0.8` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
-- `.hover:border-l-0.7` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
-- `.hover:border-l-0.6` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
-- `.hover:border-l-0.5` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
-- `.hover:border-l-0.4` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
-- `.hover:border-l-0.3` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
+- `.hover:border-l-0.9` - Fareyle üzerine gelindiğinde Kenarlık Sol 0.9rem
+- `.hover:border-l-0.8` - Fareyle üzerine gelindiğinde Kenarlık Sol 0.8rem
+- `.hover:border-l-0.7` - Fareyle üzerine gelindiğinde Kenarlık Sol 0.7rem
+- `.hover:border-l-0.6` - Fareyle üzerine gelindiğinde Kenarlık Sol 0.6rem
+- `.hover:border-l-0.5` - Fareyle üzerine gelindiğinde Kenarlık Sol 0.5rem
+- `.hover:border-l-0.4` - Fareyle üzerine gelindiğinde Kenarlık Sol 0.4rem
+- `.hover:border-l-0.3` - Fareyle üzerine gelindiğinde Kenarlık Sol 0.3rem
 - `.hover:border-l-0.2` - Fareyle üzerine gelindiğinde Kenarlık Sol 0,2rem
 - `.hover:border-l-0.1` - Fareyle üzerine gelindiğinde Kenarlık Sol 0,1rem
 - `.hover:border-l-0` - Fareyle üzerine gelindiğinde Kenarlık Sol 0rem
@@ -4620,28 +4620,28 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Right
 
 - `.border-r-2` - Kenarlık Sağ 2rem
-- `.border-r-1.5` - Kenarlık Sağ 0rem
+- `.border-r-1.5` - Kenarlık Sağ 1.5rem
 - `.border-r-1` - Kenarlık Sağ 1rem
-- `.border-r-0.9` - Kenarlık Sağ 0rem
-- `.border-r-0.8` - Kenarlık Sağ 0rem
-- `.border-r-0.7` - Kenarlık Sağ 0rem
-- `.border-r-0.6` - Kenarlık Sağ 0rem
-- `.border-r-0.5` - Kenarlık Sağ 0rem
-- `.border-r-0.4` - Kenarlık Sağ 0rem
-- `.border-r-0.3` - Kenarlık Sağ 0rem
+- `.border-r-0.9` - Kenarlık Sağ 0.9rem
+- `.border-r-0.8` - Kenarlık Sağ 0.8rem
+- `.border-r-0.7` - Kenarlık Sağ 0.7rem
+- `.border-r-0.6` - Kenarlık Sağ 0.6rem
+- `.border-r-0.5` - Kenarlık Sağ 0.5rem
+- `.border-r-0.4` - Kenarlık Sağ 0.4rem
+- `.border-r-0.3` - Kenarlık Sağ 0.3rem
 - `.border-r-0.2` - Kenarlık Sağ 0,2rem
 - `.border-r-0.1` - Kenarlık Sağ 0,1rem
 - `.border-r-0` - Kenarlık Sağ 0rem
 - `.hover:border-r-2` - Fareyle üzerine gelindiğinde Sağ Kenarlık 2rem
-- `.hover:border-r-1.5` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
+- `.hover:border-r-1.5` - Fareyle üzerine gelindiğinde Sağ Kenarlık 1.5rem
 - `.hover:border-r-1` - Fareyle üzerine gelindiğinde Sağ Kenarlık 1rem
-- `.hover:border-r-0.9` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
-- `.hover:border-r-0.8` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
-- `.hover:border-r-0.7` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
-- `.hover:border-r-0.6` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
-- `.hover:border-r-0.5` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
-- `.hover:border-r-0.4` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
-- `.hover:border-r-0.3` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
+- `.hover:border-r-0.9` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0.9rem
+- `.hover:border-r-0.8` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0.8rem
+- `.hover:border-r-0.7` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0.7rem
+- `.hover:border-r-0.6` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0.6rem
+- `.hover:border-r-0.5` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0.5rem
+- `.hover:border-r-0.4` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0.4rem
+- `.hover:border-r-0.3` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0.3rem
 - `.hover:border-r-0.2` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0,2rem
 - `.hover:border-r-0.1` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0,1rem
 - `.hover:border-r-0` - Fareyle üzerine gelindiğinde Sağ Kenarlık 0rem
@@ -4649,28 +4649,28 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Top
 
 - `.border-t-2` - Kenarlık Üst 2rem
-- `.border-t-1.5` - Kenarlık Üst 0rem
+- `.border-t-1.5` - Kenarlık Üst 1.5rem
 - `.border-t-1` - Kenarlık Üst 1rem
-- `.border-t-0.9` - Kenarlık Üst 0rem
-- `.border-t-0.8` - Kenarlık Üst 0rem
-- `.border-t-0.7` - Kenarlık Üst 0rem
-- `.border-t-0.6` - Kenarlık Üst 0rem
-- `.border-t-0.5` - Kenarlık Üst 0rem
-- `.border-t-0.4` - Kenarlık Üst 0rem
-- `.border-t-0.3` - Kenarlık Üst 0rem
+- `.border-t-0.9` - Kenarlık Üst 0.9rem
+- `.border-t-0.8` - Kenarlık Üst 0.8rem
+- `.border-t-0.7` - Kenarlık Üst 0.7rem
+- `.border-t-0.6` - Kenarlık Üst 0.6rem
+- `.border-t-0.5` - Kenarlık Üst 0.5rem
+- `.border-t-0.4` - Kenarlık Üst 0.4rem
+- `.border-t-0.3` - Kenarlık Üst 0.3rem
 - `.border-t-0.2` - Kenarlık Üstü 0,2rem
 - `.border-t-0.1` - Kenarlık Üst 0,1rem
 - `.border-t-0` - Kenarlık Üst 0rem
 - `.hover:border-t-2` - Fareyle üzerine gelindiğinde Kenarlık Üst 2rem
-- `.hover:border-t-1.5` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
+- `.hover:border-t-1.5` - Fareyle üzerine gelindiğinde Kenarlık Üst 1.5rem
 - `.hover:border-t-1` - Fareyle üzerine gelindiğinde Kenarlık Üst 1rem
-- `.hover:border-t-0.9` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
-- `.hover:border-t-0.8` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
-- `.hover:border-t-0.7` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
-- `.hover:border-t-0.6` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
-- `.hover:border-t-0.5` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
-- `.hover:border-t-0.4` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
-- `.hover:border-t-0.3` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
+- `.hover:border-t-0.9` - Fareyle üzerine gelindiğinde Kenarlık Üst 0.9rem
+- `.hover:border-t-0.8` - Fareyle üzerine gelindiğinde Kenarlık Üst 0.8rem
+- `.hover:border-t-0.7` - Fareyle üzerine gelindiğinde Kenarlık Üst 0.7rem
+- `.hover:border-t-0.6` - Fareyle üzerine gelindiğinde Kenarlık Üst 0.6rem
+- `.hover:border-t-0.5` - Fareyle üzerine gelindiğinde Kenarlık Üst 0.5rem
+- `.hover:border-t-0.4` - Fareyle üzerine gelindiğinde Kenarlık Üst 0.4rem
+- `.hover:border-t-0.3` - Fareyle üzerine gelindiğinde Kenarlık Üst 0.3rem
 - `.hover:border-t-0.2` - Fareyle üzerine gelindiğinde Kenarlık Üstü 0,2rem
 - `.hover:border-t-0.1` - Fareyle üzerine gelindiğinde Kenarlık Üst 0,1rem
 - `.hover:border-t-0` - Fareyle üzerine gelindiğinde Kenarlık Üst 0rem
@@ -4678,28 +4678,28 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border X-Axis
 
 - `.border-x-2` - Kenarlık X Ekseni 2rem
-- `.border-x-1.5` - Kenarlık X Ekseni 0rem
+- `.border-x-1.5` - Kenarlık X Ekseni 1.5rem
 - `.border-x-1` - Kenarlık X Ekseni 1rem
-- `.border-x-0.9` - Kenarlık X Ekseni 0rem
-- `.border-x-0.8` - Kenarlık X Ekseni 0rem
-- `.border-x-0.7` - Kenarlık X Ekseni 0rem
-- `.border-x-0.6` - Kenarlık X Ekseni 0rem
-- `.border-x-0.5` - Kenarlık X Ekseni 0rem
-- `.border-x-0.4` - Kenarlık X Ekseni 0rem
-- `.border-x-0.3` - Kenarlık X Ekseni 0rem
+- `.border-x-0.9` - Kenarlık X Ekseni 0.9rem
+- `.border-x-0.8` - Kenarlık X Ekseni 0.8rem
+- `.border-x-0.7` - Kenarlık X Ekseni 0.7rem
+- `.border-x-0.6` - Kenarlık X Ekseni 0.6rem
+- `.border-x-0.5` - Kenarlık X Ekseni 0.5rem
+- `.border-x-0.4` - Kenarlık X Ekseni 0.4rem
+- `.border-x-0.3` - Kenarlık X Ekseni 0.3rem
 - `.border-x-0.2` - Kenarlık X Ekseni 0,2rem
 - `.border-x-0.1` - Kenarlık X Ekseni 0,1rem
 - `.border-x-0` - Kenarlık X Ekseni 0rem
 - `.hover:border-x-2` - Fareyle üzerine gelindiğinde X Ekseni Kenarlığı 2rem
-- `.hover:border-x-1.5` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
+- `.hover:border-x-1.5` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 1.5rem
 - `.hover:border-x-1` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 1rem
-- `.hover:border-x-0.9` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
-- `.hover:border-x-0.8` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
-- `.hover:border-x-0.7` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
-- `.hover:border-x-0.6` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
-- `.hover:border-x-0.5` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
-- `.hover:border-x-0.4` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
-- `.hover:border-x-0.3` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
+- `.hover:border-x-0.9` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0.9rem
+- `.hover:border-x-0.8` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0.8rem
+- `.hover:border-x-0.7` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0.7rem
+- `.hover:border-x-0.6` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0.6rem
+- `.hover:border-x-0.5` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0.5rem
+- `.hover:border-x-0.4` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0.4rem
+- `.hover:border-x-0.3` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0.3rem
 - `.hover:border-x-0.2` - Vurguluyken Kenarlık X Ekseni 0,2rem
 - `.hover:border-x-0.1` - Fareyle üzerine gelindiğinde X Ekseni Kenarlığı 0,1rem
 - `.hover:border-x-0` - Fareyle üzerine gelindiğinde Kenarlık X Ekseni 0rem
@@ -4707,28 +4707,28 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Y-Axis
 
 - `.border-y-2` - Kenarlık Y Ekseni 2rem
-- `.border-y-1.5` - Kenarlık Y Ekseni 0rem
+- `.border-y-1.5` - Kenarlık Y Ekseni 1.5rem
 - `.border-y-1` - Kenarlık Y Ekseni 1rem
-- `.border-y-0.9` - Kenarlık Y Ekseni 0rem
-- `.border-y-0.8` - Kenarlık Y Ekseni 0rem
-- `.border-y-0.7` - Kenarlık Y Ekseni 0rem
-- `.border-y-0.6` - Kenarlık Y Ekseni 0rem
+- `.border-y-0.9` - Kenarlık Y Ekseni 0.9rem
+- `.border-y-0.8` - Kenarlık Y Ekseni 0.8rem
+- `.border-y-0.7` - Kenarlık Y Ekseni 0.7rem
+- `.border-y-0.6` - Kenarlık Y Ekseni 0.6rem
 - `.border-y-0.5` - Kenarlık Y Ekseni 0,5rem
-- `.border-y-0.4` - Kenarlık Y Ekseni 0rem
-- `.border-y-0.3` - Kenarlık Y Ekseni 0rem
+- `.border-y-0.4` - Kenarlık Y Ekseni 0.4rem
+- `.border-y-0.3` - Kenarlık Y Ekseni 0.3rem
 - `.border-y-0.2` - Kenarlık Y Ekseni 0,2rem
 - `.border-y-0.1` - Kenarlık Y Ekseni 0,1rem
 - `.border-y-0` - Kenarlık Y Ekseni 0rem
 - `.hover:border-y-2` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 2rem
-- `.hover:border-y-1.5` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
+- `.hover:border-y-1.5` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 1.5rem
 - `.hover:border-y-1` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 1rem
-- `.hover:border-y-0.9` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
-- `.hover:border-y-0.8` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
-- `.hover:border-y-0.7` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
-- `.hover:border-y-0.6` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
-- `.hover:border-y-0.5` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
-- `.hover:border-y-0.4` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
-- `.hover:border-y-0.3` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
+- `.hover:border-y-0.9` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0.9rem
+- `.hover:border-y-0.8` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0.8rem
+- `.hover:border-y-0.7` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0.7rem
+- `.hover:border-y-0.6` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0.6rem
+- `.hover:border-y-0.5` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0.5rem
+- `.hover:border-y-0.4` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0.4rem
+- `.hover:border-y-0.3` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0.3rem
 - `.hover:border-y-0.2` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0,2rem
 - `.hover:border-y-0.1` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0,1rem
 - `.hover:border-y-0` - Fareyle üzerine gelindiğinde Y Ekseni Kenarlığı 0rem
@@ -4738,40 +4738,40 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Radius All
 
 - `.hover:rounded-5` - Kenar Yarıçapı Tümü 5rem fareyle üzerine gelindiğinde
-- `.hover:rounded-4.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-4.5` - Kenar Yarıçapı Tümü 4.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-4` - Kenarlık Yarıçapı Tümü 4rem fareyle üzerine gelindiğinde
-- `.hover:rounded-3.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-3.5` - Kenar Yarıçapı Tümü 3.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-3` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 3rem
-- `.hover:rounded-2.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-2.5` - Kenar Yarıçapı Tümü 2.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-2` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 2rem
-- `.hover:rounded-1.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-1.5` - Kenar Yarıçapı Tümü 1.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-1` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 1rem
-- `.hover:rounded-0.9` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-0.8` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-0.7` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-0.6` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-0.5` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-0.4` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
-- `.hover:rounded-0.3` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-0.9` - Kenar Yarıçapı Tümü 0.9rem fareyle üzerine gelindiğinde
+- `.hover:rounded-0.8` - Kenar Yarıçapı Tümü 0.8rem fareyle üzerine gelindiğinde
+- `.hover:rounded-0.7` - Kenar Yarıçapı Tümü 0.7rem fareyle üzerine gelindiğinde
+- `.hover:rounded-0.6` - Kenar Yarıçapı Tümü 0.6rem fareyle üzerine gelindiğinde
+- `.hover:rounded-0.5` - Kenar Yarıçapı Tümü 0.5rem fareyle üzerine gelindiğinde
+- `.hover:rounded-0.4` - Kenar Yarıçapı Tümü 0.4rem fareyle üzerine gelindiğinde
+- `.hover:rounded-0.3` - Kenar Yarıçapı Tümü 0.3rem fareyle üzerine gelindiğinde
 - `.hover:rounded-0.2` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 0.2rem
 - `.hover:rounded-0.1` - Fareyle üzerine gelindiğinde kenarlık Yarıçapı Tümü 0.1rem
 - `.hover:rounded-0` - Kenar Yarıçapı Tümü 0rem fareyle üzerine gelindiğinde
 - `.rounded-5` - Kenarlık Yarıçapı Tümü 5rem
-- `.rounded-4.5` - Kenarlık Yarıçapı Tümü 0rem
+- `.rounded-4.5` - Kenarlık Yarıçapı Tümü 4.5rem
 - `.rounded-4` - Kenarlık Yarıçapı Tümü 4rem
-- `.rounded-3.5` - Kenarlık Yarıçapı Tümü 0rem
+- `.rounded-3.5` - Kenarlık Yarıçapı Tümü 3.5rem
 - `.rounded-3` - Kenarlık Yarıçapı Tümü 3rem
-- `.rounded-2.5` - Kenarlık Yarıçapı Tümü 0rem
+- `.rounded-2.5` - Kenarlık Yarıçapı Tümü 2.5rem
 - `.rounded-2` - Kenarlık Yarıçapı Tümü 2rem
-- `.rounded-1.5` - Kenarlık Yarıçapı Tümü 0rem
+- `.rounded-1.5` - Kenarlık Yarıçapı Tümü 1.5rem
 - `.rounded-1` - Kenarlık Yarıçapı Tümü 1rem
-- `.rounded-0.9` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-0.8` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-0.7` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-0.6` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-0.5` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-0.4` - Kenarlık Yarıçapı Tümü 0rem
-- `.rounded-0.3` - Kenarlık Yarıçapı Tümü 0rem
+- `.rounded-0.9` - Kenarlık Yarıçapı Tümü 0.9rem
+- `.rounded-0.8` - Kenarlık Yarıçapı Tümü 0.8rem
+- `.rounded-0.7` - Kenarlık Yarıçapı Tümü 0.7rem
+- `.rounded-0.6` - Kenarlık Yarıçapı Tümü 0.6rem
+- `.rounded-0.5` - Kenarlık Yarıçapı Tümü 0.5rem
+- `.rounded-0.4` - Kenarlık Yarıçapı Tümü 0.4rem
+- `.rounded-0.3` - Kenarlık Yarıçapı Tümü 0.3rem
 - `.rounded-0.2` - Kenar Yarıçapı Tümü 0,2rem
 - `.rounded-0.1` - Kenarlık Yarıçapı Tümü 0.1rem
 - `.rounded-0` - Kenarlık Yarıçapı Tümü 0rem
@@ -4779,24 +4779,24 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Radius Bottom Left
 
 - `.hover:rounded-bl-5` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sol Altta 5rem
-- `.hover:rounded-bl-4.5` - Kenarlık Yarıçapı Sol Alt 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-bl-4.5` - Kenarlık Yarıçapı Sol Alt 4.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-bl-4` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sol Altta 4rem
-- `.hover:rounded-bl-3.5` - Kenarlık Yarıçapı Sol Alt 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-bl-3.5` - Kenarlık Yarıçapı Sol Alt 3.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-bl-3` - Kenarlık Yarıçapı Sol Altta 3rem fareyle üzerine gelindiğinde
-- `.hover:rounded-bl-2.5` - Kenarlık Yarıçapı Sol Alt 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-bl-2.5` - Kenarlık Yarıçapı Sol Alt 2.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-bl-2` - Kenarlık Yarıçapı Sol Altta 2rem fareyle üzerine gelindiğinde
-- `.hover:rounded-bl-1.5` - Kenarlık Yarıçapı Sol Alt 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-bl-1.5` - Kenarlık Yarıçapı Sol Alt 1.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-bl-1` - Kenarlık Yarıçapı Sol Altta 1rem fareyle üzerine gelindiğinde
 - `.hover:rounded-bl-0.5` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sol Alt 0,5rem
 - `.hover:rounded-bl-0` - Kenarlık Yarıçapı Sol Alt 0rem fareyle üzerine gelindiğinde
 - `.rounded-bl-5` - Kenarlık Yarıçapı Sol Alt 5rem
-- `.rounded-bl-4.5` - Kenarlık Yarıçapı Sol Alt 0rem
+- `.rounded-bl-4.5` - Kenarlık Yarıçapı Sol Alt 4.5rem
 - `.rounded-bl-4` - Kenarlık Yarıçapı Sol Alt 4rem
-- `.rounded-bl-3.5` - Kenarlık Yarıçapı Sol Alt 0rem
+- `.rounded-bl-3.5` - Kenarlık Yarıçapı Sol Alt 3.5rem
 - `.rounded-bl-3` - Kenarlık Yarıçapı Sol Alt 3rem
-- `.rounded-bl-2.5` - Kenarlık Yarıçapı Sol Alt 0rem
+- `.rounded-bl-2.5` - Kenarlık Yarıçapı Sol Alt 2.5rem
 - `.rounded-bl-2` - Kenarlık Yarıçapı Sol Alt 2rem
-- `.rounded-bl-1.5` - Kenarlık Yarıçapı Sol Alt 0rem
+- `.rounded-bl-1.5` - Kenarlık Yarıçapı Sol Alt 1.5rem
 - `.rounded-bl-1` - Kenarlık Yarıçapı Sol Alt 1rem
 - `.rounded-bl-0.5` - Kenarlık Yarıçapı Sol Alt 0,5rem
 - `.rounded-bl-0` - Kenarlık Yarıçapı Sol Alt 0rem
@@ -4804,24 +4804,24 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Radius Bottom Right
 
 - `.hover:rounded-br-5` - Kenarlık Yarıçapı Sağ Alt 5rem fareyle üzerine gelindiğinde
-- `.hover:rounded-br-4.5` - Kenarlık Yarıçapı Sağ Alt 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-br-4.5` - Kenarlık Yarıçapı Sağ Alt 4.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-br-4` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sağ Altta 4rem
-- `.hover:rounded-br-3.5` - Kenarlık Yarıçapı Sağ Alt 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-br-3.5` - Kenarlık Yarıçapı Sağ Alt 3.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-br-3` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sağ Altta 3rem
-- `.hover:rounded-br-2.5` - Kenarlık Yarıçapı Sağ Alt 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-br-2.5` - Kenarlık Yarıçapı Sağ Alt 2.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-br-2` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sağ Altta 2rem
-- `.hover:rounded-br-1.5` - Kenarlık Yarıçapı Sağ Alt 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-br-1.5` - Kenarlık Yarıçapı Sağ Alt 1.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-br-1` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sağ Altta 1rem
 - `.hover:rounded-br-0.5` - Fareyle üzerine gelindiğinde Sağ Alt Kenar Yarıçapı 0,5rem
 - `.hover:rounded-br-0` - Kenarlık Yarıçapı Sağ Alt 0rem fareyle üzerine gelindiğinde
 - `.rounded-br-5` - Kenarlık Yarıçapı Sağ Alt 5rem
-- `.rounded-br-4.5` - Kenarlık Yarıçapı Sağ Alt 0rem
+- `.rounded-br-4.5` - Kenarlık Yarıçapı Sağ Alt 4.5rem
 - `.rounded-br-4` - Kenarlık Yarıçapı Sağ Alt 4rem
-- `.rounded-br-3.5` - Kenarlık Yarıçapı Sağ Alt 0rem
+- `.rounded-br-3.5` - Kenarlık Yarıçapı Sağ Alt 3.5rem
 - `.rounded-br-3` - Kenarlık Yarıçapı Sağ Alt 3rem
-- `.rounded-br-2.5` - Kenarlık Yarıçapı Sağ Alt 0rem
+- `.rounded-br-2.5` - Kenarlık Yarıçapı Sağ Alt 2.5rem
 - `.rounded-br-2` - Kenarlık Yarıçapı Sağ Alt 2rem
-- `.rounded-br-1.5` - Kenarlık Yarıçapı Sağ Alt 0rem
+- `.rounded-br-1.5` - Kenarlık Yarıçapı Sağ Alt 1.5rem
 - `.rounded-br-1` - Kenarlık Yarıçapı Sağ Alt 1rem
 - `.rounded-br-0.5` - Kenarlık Yarıçapı Sağ Alt 0,5rem
 - `.rounded-br-0` - Kenarlık Yarıçapı Sağ Alt 0rem
@@ -4829,24 +4829,24 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Radius Top Left
 
 - `.hover:rounded-tl-5` - Kenarlık Yarıçapı Üst Sol 5rem fareyle üzerine gelindiğinde
-- `.hover:rounded-tl-4.5` - Kenarlık Yarıçapı Üst Sol 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-tl-4.5` - Kenarlık Yarıçapı Üst Sol 4.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-tl-4` - Kenarlık Yarıçapı Üst Sol 4rem fareyle üzerine gelindiğinde
-- `.hover:rounded-tl-3.5` - Kenarlık Yarıçapı Üst Sol 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-tl-3.5` - Kenarlık Yarıçapı Üst Sol 3.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-tl-3` - Fareyle üzerine gelindiğinde Kenarlık Yarıçapı Sol Üst 3rem
-- `.hover:rounded-tl-2.5` - Kenarlık Yarıçapı Üst Sol 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-tl-2.5` - Kenarlık Yarıçapı Üst Sol 2.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-tl-2` - Kenarlık Yarıçapı Üst Sol 2rem fareyle üzerine gelindiğinde
-- `.hover:rounded-tl-1.5` - Kenarlık Yarıçapı Üst Sol 0rem fareyle üzerine gelindiğinde
+- `.hover:rounded-tl-1.5` - Kenarlık Yarıçapı Üst Sol 1.5rem fareyle üzerine gelindiğinde
 - `.hover:rounded-tl-1` - Kenarlık Yarıçapı Üst Sol 1rem fareyle üzerine gelindiğinde
 - `.hover:rounded-tl-0.5` - Fareyle üzerine gelindiğinde Kenar Yarıçapı Sol Üst 0,5rem
 - `.hover:rounded-tl-0` - Kenarlık Yarıçapı Üst Sol 0rem fareyle üzerine gelindiğinde
 - `.rounded-tl-5` - Kenarlık Yarıçapı Sol Üst 5rem
-- `.rounded-tl-4.5` - Kenarlık Yarıçapı Sol Üst 0rem
+- `.rounded-tl-4.5` - Kenarlık Yarıçapı Sol Üst 4.5rem
 - `.rounded-tl-4` - Kenarlık Yarıçapı Sol Üst 4rem
-- `.rounded-tl-3.5` - Kenarlık Yarıçapı Sol Üst 0rem
+- `.rounded-tl-3.5` - Kenarlık Yarıçapı Sol Üst 3.5rem
 - `.rounded-tl-3` - Kenarlık Yarıçapı Sol Üst 3rem
-- `.rounded-tl-2.5` - Kenarlık Yarıçapı Sol Üst 0rem
+- `.rounded-tl-2.5` - Kenarlık Yarıçapı Sol Üst 2.5rem
 - `.rounded-tl-2` - Kenarlık Yarıçapı Sol Üst 2rem
-- `.rounded-tl-1.5` - Kenarlık Yarıçapı Sol Üst 0rem
+- `.rounded-tl-1.5` - Kenarlık Yarıçapı Sol Üst 1.5rem
 - `.rounded-tl-1` - Kenarlık Yarıçapı Sol Üst 1rem
 - `.rounded-tl-0.5` - Kenar Yarıçapı Sol Üst 0,5rem
 - `.rounded-tl-0` - Kenarlık Yarıçapı Sol Üst 0rem
@@ -4854,24 +4854,24 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 #### Border Radius Top Right
 
 - `.hover:rounded-tr-5` - Kenarlık Yarıçapı Sağ Üst 5rem fareyle üzerine gelindiğinde
-- `.hover:rounded-tr-4.5` - Kenarlık Yarıçapı Sağ Üst Fareyle üzerine gelindiğinde 0rem
+- `.hover:rounded-tr-4.5` - Kenarlık Yarıçapı Sağ Üst Fareyle üzerine gelindiğinde 4.5rem
 - `.hover:rounded-tr-4` - Fareyle üzerine gelindiğinde Kenar Yarıçapı Sağ Üst 4rem
-- `.hover:rounded-tr-3.5` - Kenarlık Yarıçapı Sağ Üst Fareyle üzerine gelindiğinde 0rem
+- `.hover:rounded-tr-3.5` - Kenarlık Yarıçapı Sağ Üst Fareyle üzerine gelindiğinde 3.5rem
 - `.hover:rounded-tr-3` - Fareyle üzerine gelindiğinde Kenar Yarıçapı Sağ Üst 3rem
-- `.hover:rounded-tr-2.5` - Kenarlık Yarıçapı Sağ Üst Fareyle üzerine gelindiğinde 0rem
+- `.hover:rounded-tr-2.5` - Kenarlık Yarıçapı Sağ Üst Fareyle üzerine gelindiğinde 2.5rem
 - `.hover:rounded-tr-2` - Fareyle üzerine gelindiğinde Kenar Yarıçapı Sağ Üst 2rem
-- `.hover:rounded-tr-1.5` - Kenarlık Yarıçapı Sağ Üst Fareyle üzerine gelindiğinde 0rem
+- `.hover:rounded-tr-1.5` - Kenarlık Yarıçapı Sağ Üst Fareyle üzerine gelindiğinde 1.5rem
 - `.hover:rounded-tr-1` - Fareyle üzerine gelindiğinde Kenar Yarıçapı Sağ Üst 1rem
 - `.hover:rounded-tr-0.5` - Fareyle üzerine gelindiğinde Kenar Yarıçapı Sağ Üst 0,5rem
 - `.hover:rounded-tr-0` - Kenarlık Yarıçapı Sağ Üst Fareyle üzerine gelindiğinde 0rem
 - `.rounded-tr-5` - Kenarlık Yarıçapı Sağ Üst 5rem
-- `.rounded-tr-4.5` - Kenarlık Yarıçapı Sağ Üst 0rem
+- `.rounded-tr-4.5` - Kenarlık Yarıçapı Sağ Üst 4.5rem
 - `.rounded-tr-4` - Kenar Yarıçapı Sağ Üst 4rem
-- `.rounded-tr-3.5` - Kenarlık Yarıçapı Sağ Üst 0rem
+- `.rounded-tr-3.5` - Kenarlık Yarıçapı Sağ Üst 3.5rem
 - `.rounded-tr-3` - Kenarlık Yarıçapı Sağ Üst 3rem
-- `.rounded-tr-2.5` - Kenarlık Yarıçapı Sağ Üst 0rem
+- `.rounded-tr-2.5` - Kenarlık Yarıçapı Sağ Üst 2.5rem
 - `.rounded-tr-2` - Kenar Yarıçapı Sağ Üst 2rem
-- `.rounded-tr-1.5` - Kenarlık Yarıçapı Sağ Üst 0rem
+- `.rounded-tr-1.5` - Kenarlık Yarıçapı Sağ Üst 1.5rem
 - `.rounded-tr-1` - Kenarlık Yarıçapı Sağ Üst 1rem
 - `.rounded-tr-0.5` - Kenar Yarıçapı Sağ Üst 0,5rem
 - `.rounded-tr-0` - Kenarlık Yarıçapı Sağ Üst 0rem
@@ -5206,14 +5206,14 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:translate-x-50` - Fareyle üzerine gelindiğinde X Ekseni %50 çevirin
 - `.hover:translate-x-25` - Fareyle üzerine gelindiğinde X Ekseni %25 çevirin
 - `.hover:translate-x-2` - Fareyle üzerine gelindiğinde X Ekseni 2rem'i çevirin
-- `.hover:translate-x-1.5` - Fareyle üzerine gelindiğinde X Ekseni 0rem'i çevirin
+- `.hover:translate-x-1.5` - Fareyle üzerine gelindiğinde X Ekseni 1.5rem'i çevirin
 - `.hover:translate-x-1` - Fareyle üzerine gelindiğinde X Ekseni 1rem'i çevirin
 - `.hover:translate-x-0.5` - Fareyle üzerine gelindiğinde X Ekseni 0,5rem'i çevirin
 - `.hover:translate-x-0` - Fareyle üzerine gelindiğinde X Ekseni 0rem'i çevirin
 - `.translate-x-50` - X Ekseni %50 çevir
 - `.translate-x-25` - X Ekseni %25 çevir
 - `.translate-x-2` - X Ekseni 2rem'i çevir
-- `.translate-x-1.5` - X Ekseni 0rem'i Çevir
+- `.translate-x-1.5` - X Ekseni 1.5rem'i Çevir
 - `.translate-x-1` - X Ekseni 1rem'i Çevir
 - `.translate-x-0.5` - X Eksenini 0,5rem Çevir
 - `.translate-x-0` - X Ekseni 0rem'i Çevir
@@ -5238,14 +5238,14 @@ Bu kitaplıkla birlikte `bClass theme js`, `bClass theme colors`, `bClass compon
 - `.hover:translate-y-50` - Fareyle üzerine gelindiğinde Y Eksenini %50 çevir
 - `.hover:translate-y-25` - Fareyle üzerine gelindiğinde Y Ekseni %25 çevirin
 - `.hover:translate-y-2` - Fareyle üzerine gelindiğinde Y Ekseni 2rem'i çevirin
-- `.hover:translate-y-1.5` - Fareyle üzerine gelindiğinde Y Ekseni 0rem'i çevirin
+- `.hover:translate-y-1.5` - Fareyle üzerine gelindiğinde Y Ekseni 1.5rem'i çevirin
 - `.hover:translate-y-1` - Fareyle üzerine gelindiğinde Y Ekseni 1rem'i çevirin
 - `.hover:translate-y-0.5` - Fareyle üzerine gelindiğinde Y Ekseni 0,5rem'i çevirin
 - `.hover:translate-y-0` - Fareyle üzerine gelindiğinde Y Ekseni 0rem'i çevirin
 - `.translate-y-50` - Y Ekseni %50 Çevir
 - `.translate-y-25` - Y Ekseni %25 Çevir
 - `.translate-y-2` - Y Ekseni 2rem'i Çevir
-- `.translate-y-1.5` - Y Ekseni 0rem'i Çevir
+- `.translate-y-1.5` - Y Ekseni 1.5rem'i Çevir
 - `.translate-y-1` - Y Ekseni 1rem'i Çevir
 - `.translate-y-0.5` - Y Eksenini 0,5rem Çevir
 - `.translate-y-0` - Y Ekseni 0rem'i Çevir
